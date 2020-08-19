@@ -1,6 +1,6 @@
 # World Carbon Pricing Database
 
-The present dataset constitutes an extension of a dataset initially developed while pursuing my PhD within the Energy Policy Research Group at the University of Cambridge. Its existence owes much to its support as well as that of the Cambridge Judge Business School and of the UK Economic and Social Research Council.
+The present dataset constitutes an extension of a dataset initially developed while pursuing my PhD within the Energy Policy Research Group at the University of Cambridge. Its existence owes much to its support as well as that of the Cambridge Judge Business School and the UK Economic and Social Research Council.
 
 This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
 To date, it is the most comprehensive attempt at providing a systematic description of carbon pricing mechanisms in terms of their sectoral (and fuel) coverage and associated price signal.
