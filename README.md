@@ -16,10 +16,14 @@ The database records information on the coverage and price associated with mecha
 - Coverage of a given at the sector-fuel level is recorded as binary 0/1 variable.
 - Prices are recorded in current local currency units per tonne of CO_2.
 
-A table summarising sectoral coverage is available here:
-
+A table summarising sectoral coverage can be found in the file [IPCC_coverage](https://github.com/gd1989/WorldCarbonPricingDatabase/blob/master/IPCC_coverage.md).
 
 ## Repository files
+
+The repository is organised around three main folders:
+1. Carbon pricing mechanisms dataset
+2. Meta-data: .csv files linking every data entry to their original source
+3. Data sources: original documents and files from which the data was obtained / scraped.
 
 ## Contribution
 
