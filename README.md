@@ -23,7 +23,6 @@ A table summarising sectoral coverage can be found in the file [IPCC_coverage](h
 The repository is organised around three main folders:
 1. Carbon pricing mechanisms dataset
 2. Meta-data: .csv files linking every data entry to their original source
-3. Data sources: original documents and files from which the data was obtained / scraped.
 
 ## Contribution
 
