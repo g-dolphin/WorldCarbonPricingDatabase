@@ -7,4 +7,4 @@ A reference is provided for every single data point recorded. For instance, the 
 
 The referencing structure is as follows: DocumentType(Tag[Year]). For example, the reference for the `Tax_dummy` data point corresponding to the `Sweden-1997-Manufacturing-Coal` entry is 'Report(WB[2014])'.
 
-The full reference corresponding to this citation can then be looked up in the relevant .csv file. The reference of the 'Report(WB[2014])' citation can be found in the `Report.csv` file.
+The full reference corresponding to this citation can then be looked up in the relevant .csv file. The reference of the 'Report(WB[2014])' citation can be found in the `Reports.csv` file.
