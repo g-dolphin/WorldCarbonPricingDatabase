@@ -8,7 +8,7 @@ To date, it is the most comprehensive attempt at providing a systematic descript
 ## Dataset description
 ### Dataset scope
 
-The dataset currently covers [xx] national jurisdictions and [xx] sub-national jurisdictions (50 US States, 13 Canadian Provinces and Territories, [yy] Japanese Municipalities, [xx] Chinese Provinces). It records their institutional development (sectoral and fuel coverage as well as price) from 1990 (year of introduction of the first carbon pricing mechanism in Finland) to this day (currently, 2018 is the last year for which data has been collected).
+The dataset currently covers [xx] national jurisdictions and [xx] sub-national jurisdictions (50 US States, 13 Canadian Provinces and Territories, 3 Japanese Municipalities, 32 Chinese Provinces and Municipalities). It records their institutional development (sectoral and fuel coverage as well as price) from 1990 (year of introduction of the first carbon pricing mechanism in Finland) to this day (currently, 2018 is the last year for which data has been collected).
 
 The database records information on the coverage and price associated with mechanisms placing a price on CO2 emissions **at the sector-fuel level**. It records separately information about carbon taxes and cap-and-trade mechanisms.
 
