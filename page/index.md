@@ -33,12 +33,3 @@ are part of the Regional Greenhouse Gas Initiative.
 
 \end{section}
 
-<!-- =============================
-     SPECIAL COMMANDS
-     ============================== -->
-\begin{section}{title="Carbon pricing statistics"}
-
-
-
-
-\end{section}
