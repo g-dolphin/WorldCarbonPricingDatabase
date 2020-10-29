@@ -36,9 +36,20 @@ The initial dataset development focused on IPCC sectors (and sub-sectors therein
 
 Contributions to the dataset are greatly appreciated. Please bear in mind the following principles:
 1. Updates to the dataset should be accurate and traceable. All proposed updates must provide a complete reference to the source of information.
-2. No source is a priori excluded from the set of admissible sources but:
+2. No source of information is excluded from the set of admissible sources *a priori*. However:
     - pulicly available sources are preferred to sources subject to access restrictions;
-    - 'higher quality' sources are preferred to 'lower quality' ones.
-
+    - 'higher quality' sources are preferred to 'lower quality' ones. For instance, official government legislation published in a jurisdiction's official journal will be prioritised over a third party report on the jurisdiction's policy.
+    - to enhance the consistency of the dataset, sources offering standardized information on a larger set of jurisdictions are preferred to jurisdiction-specific sources.
+    
 If you wish to contribute to the development of the dataset, please follow these steps:
-1. 
+1. Clone the repository to your local machine
+2. Create a new (local) branch on which you will execute the files update(s)
+3. Open the `Data`and `Sources` `.csv` files corresponding to the jurisdiction(s) whose records you intend to update.
+  - For example, if you want to update a record for Argentina, you open the files `CP_Argentina.csv` and `CP_sources_Argentina.csv` that will be available at `[...]/GitHub/WorldCarbonPricingDatabase/Data/national_jur/` and `[...]/GitHub/WorldCarbonPricingDatabase/Data/national_jur/`respectively.  
+4. Update the relevant records in both the `Data`and `Sources` files.
+  - Continuing with the above example, suppose you want to update the record(s) for the carbon tax on coal in the power sector in 2018. Then you would update the values of columns `Tax_dummy`, `Tax_rate_excl_ex_clc`, `Tax_ex_rate`, `Tax_rate_incl_ex_clc` corresponding to the (row) entry "Argentina"|"2018"|"1A1A1"|"ABFLOW003"|"Coal/peat" in `CP_Argentina.csv` and the values of the columns `Tax_dummy`, `Tax_rate_excl_ex_clc`, `Tax_ex_rate` corresponding to that same entry in the `CP_sources_Argentina.csv` file.
+  - For references, please note (and follow) the citation structure
+5. Save your files and commit your changes.
+6. Push your branch to the remote repository.
+  
+  
