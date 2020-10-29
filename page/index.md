@@ -10,6 +10,7 @@ The dataset currently covers 198 national jurisdictions and 98 sub-national juri
 
 The database records information on the coverage and price associated with mechanisms placing a price on CO2 emissions at the sector-fuel level. It records separately information about carbon taxes and cap-and-trade mechanisms.
 
+The present dataset constitutes an extension of a dataset initially developed while pursuing my PhD within the Energy Policy Research Group at the University of Cambridge. Its existence owes much to its support as well as that of the Cambridge Judge Business School and the UK Economic and Social Research Council.
 
 \end{section}
 
@@ -31,5 +32,20 @@ Some of the existing schemes are regional. For instance, 30 national jurisdictio
 participate in the European Union Emission Trading System and 9 US states
 are part of the Regional Greenhouse Gas Initiative.
 
+Carbon pricing mechanisms around the world differ significantly in their
+institutional design but two dimensions are particularly important:
+* sectoral coverage (scope)
+* price level
+
+The sectoral coverage of a mechanism determines how much of a jurisdiction's CO2
+emissions are subject to a price whereas the price level determines how significant
+(stringent) the penalty is. The present dataset tracks these two dimensions and
+the next section presents summary some statistics.
+
 \end{section}
 
+\begin{section}{title="Carbon pricing statistics"}
+
+
+
+\end{section}
