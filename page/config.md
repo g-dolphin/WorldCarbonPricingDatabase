@@ -18,13 +18,13 @@ The latter allows you to plug in values that you would have defined here.
              `prepath` to an empty string. Finally, adjust this if you want the
              deployed page to be in a subfolder e.g.: `YourPackage.jl/web/`.
 -->
-@def title       = "PkgPage.jl"
-@def prepath     = "PkgPage.jl"
+@def title       = "World Carbon Pricing Database"
+@def prepath     = "WorldCarbonPricingDatabase"
 @def description = """
-                   Create a beautiful landing page for your package in less
-                   than 10 minutes.
+                   Tracking carbon pricing mechanisms in national and subnational
+                   jurisdictions since 1990.
                    """
-@def authors     = "Thibaut Lienart and Zlatan Vasović"
+@def authors     = "Geoffroy Dolphin"
 
 <!--  NAVBAR SPECS
   NOTE:
@@ -87,7 +87,7 @@ The latter allows you to plug in values that you would have defined here.
 
 @def add_github_view  = true
 @def add_github_star  = true
-@def github_repo      = "tlienart/PkgPage.jl"
+@def github_repo      = "gd1989/WorldCarbonPricingDatabase"
 
 <!-- SECTION LAYOUT
 NOTE:
