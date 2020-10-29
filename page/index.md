@@ -2,7 +2,7 @@
      ABOUT
     ============================== -->
 
-\begin{:section, title="About the dataset", name="About"}
+\begin{section}{title="About the dataset", name="About"}
 
 This page presents a dataset containing information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990. To date, it is the most comprehensive attempt at providing a systematic description of carbon pricing mechanisms in terms of their sectoral (and fuel) coverage as well as the associated price signal.
 
@@ -11,12 +11,12 @@ The dataset currently covers 198 national jurisdictions and 98 sub-national juri
 The database records information on the coverage and price associated with mechanisms placing a price on CO2 emissions at the sector-fuel level. It records separately information about carbon taxes and cap-and-trade mechanisms.
 
 
-\end{:section}
+\end{section}
 
 <!-- =============================
      GETTING STARTED
      ============================== -->
-\begin{:section, title="Pricing carbon: a summary"}
+\begin{section}{title="Pricing carbon: a summary"}
 
 Charging a price on CO2 (and other greenhouse gases) emissions is one of the
 instruments used to reduce them. It has long been favoured by economists as an
@@ -31,14 +31,14 @@ Some of the existing schemes are regional. For instance, 30 national jurisdictio
 participate in the European Union Emission Trading System and 9 US states
 are part of the Regional Greenhouse Gas Initiative.
 
-\end{:section}
+\end{section}
 
 <!-- =============================
      SPECIAL COMMANDS
      ============================== -->
-\begin{:section, title="Carbon pricing statistics"}
+\begin{section}{title="Carbon pricing statistics"}
 
 
 
 
-\end{:section}
+\end{section}
