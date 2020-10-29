@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- META -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="Geoffroy Dolphin">
+  <title>World Carbon Pricing Database</title>
+
+  <link rel="icon" type="image/png"  href="/WorldCarbonPricingDatabase/assets/favicon.ico">
+
+  <!-- CSS -->
+  
+  
+  <link rel="stylesheet" href="/WorldCarbonPricingDatabase/css/bootstrap.min.css">
+  <style>.bg-primary {
+  background-color: #3f6388 !important;
+}
+
+a {
+  color: #2669DD;
+}
+
+a:hover {
+  color: teal;
+}
+
+.section-bg-color {
+  background-color: #f6f8fa;
+}
+
+footer a {
+  color: cornflowerblue;
+}
+
+
+header {
+  margin-top: 55px !important;
+}
+
+
+
+.jumbotron {
+  background-image: url("assets/diagonal-lines.svg");
+  background-repeat: repeat;
+}
+
+
+/* CODE ADJUSTMENTS */
+
+pre code.hljs {
+  border-radius: 10px;
+}
+
+pre code.hljs.plaintext {
+  margin-left: 15px;
+}
+</style>
+  <link rel="stylesheet" href="/WorldCarbonPricingDatabase/css/custom.css">
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+  <div class="container">
+    <span class="navbar-brand">
+      
+        <img src="/WorldCarbonPricingDatabase/assets/logo.svg" class="img-fluid" style="height:         25px;
+padding-right:  10px;
+" alt="Logo"/>
+      
+      <a href="#page-top">World Carbon Pricing Database</a>
+      
+    </span>
+    <input type="checkbox" id="navbar-toggler-cbox" class="d-none" />
+    <label for="navbar-toggler-cbox" class="navbar-toggler" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </label>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#about">About</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#pricing_carbon_a_summary">Pricing carbon: a summary</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <header class="text-white text-center">
+  
+    <div class="jumbotron jumbotron-fluid container-fluid bg-primary">
+  
+    <h1>World Carbon Pricing Database</h1>
+    <div class="lead">Tracking carbon pricing mechanisms in national and subnational
+jurisdictions since 1990.
+</div>
+    
+      <a class="github-button" href="https://github.com/gd1989/WorldCarbonPricingDatabase" data-size="large" aria-label="View World Carbon Pricing Database on GitHub">View on GitHub</a>
+    
+    
+      <a class="github-button" href="https://github.com/gd1989/WorldCarbonPricingDatabase" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star World Carbon Pricing Database on GitHub">Star</a>
+    
+  </div>
+</header>
+
+  <!-- Content appended here -->
+<div class="franklin-content"><section id="about" class="scrollspy">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>About the dataset</h2></p>
+<p>This page presents a dataset containing information on carbon pricing mechanisms &#40;carbon taxes or cap-and-trade&#41; introduced around the world since 1990. To date, it is the most comprehensive attempt at providing a systematic description of carbon pricing mechanisms in terms of their sectoral &#40;and fuel&#41; coverage as well as the associated price signal.</p>
+<p>The dataset currently covers 198 national jurisdictions and 98 sub-national jurisdictions &#40;50 US States, 13 Canadian Provinces and Territories, 3 Japanese Municipalities, 32 Chinese Provinces and Municipalities&#41;. It records their institutional development &#40;sectoral and fuel coverage as well as price&#41; from 1990 &#40;year of introduction of the first carbon pricing mechanism in Finland&#41; to this day &#40;currently, 2018 is the last year for which data has been collected&#41;.</p>
+<p>The database records information on the coverage and price associated with mechanisms placing a price on CO2 emissions at the sector-fuel level. It records separately information about carbon taxes and cap-and-trade mechanisms.</p>
+<p>      </div>
+    </div>
+  </div>
+</section>
+<section id="pricing_carbon_a_summary" class="scrollspy section-bg-color">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>Pricing carbon: a summary</h2></p>
+<p>Charging a price on CO2 &#40;and other greenhouse gases&#41; emissions is one of the instruments used to reduce them. It has long been favoured by economists as an efficient way of achieving emission reductions.</p>
+<p>The first carbon pricing mechanism was introduced in Finland in 1990. Since then, a number of national and subnational jurisdictions have adopted such mechanisms. To date, there are &#91;xx&#93; jurisdictions with carbon taxes and &#91;xx&#93; jurisdictions with an emissions trading system.</p>
+<p>Some of the existing schemes are regional. For instance, 30 national jurisdictions participate in the European Union Emission Trading System and 9 US states are part of the Regional Greenhouse Gas Initiative.</p>
+<p>      </div>
+    </div>
+  </div>
+</section>
+<footer class="py-5 bg-dark">
+  <div class="container">
+    <p class="m-0 text-center text-white">&copy; Geoffroy Dolphin. Website powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>, <a href="https://github.com/tlienart/PkgPage.jl">PkgPage.jl</a> and the <a href="https://julialang.org">Julia</a> programming language.</p>
+  </div>
+</footer>
+</div><!-- CONTENT ENDS HERE -->
+  
+  
+  <script src="/WorldCarbonPricingDatabase/libs/simple-scrollspy.min.js"></script>
+  <script>
+  window.onload = function () {
+    scrollSpy('#navbarResponsive', {
+      sectionClass: '.scrollspy',
+      menuActiveTarget: '.nav-link',
+      offset: 100
+    })
+  }
+  </script>
+  </body>
+</html>
