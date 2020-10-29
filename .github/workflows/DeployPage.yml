@@ -11,21 +11,16 @@ jobs:
       uses: actions/checkout@v2
       with:
         persist-credentials: false
-    - name: Install SSH Client
-      continue-on-error: true
-      uses: webfactory/ssh-agent@v0.2.0
-      with:
-        ssh-private-key: ${{ secrets.FRANKLIN_PRIV }}
     # NOTE: uncomment the following lines if you intend to use PyPlot
     # - name: Install python
     #   uses: actions/setup-python@v1
     #   with:
-    #     python-version: '3.x'
+    #     python-version: '3.8'
     # - run: pip install matplotlib
     - name: Install Julia
       uses: julia-actions/setup-julia@v1
       with:
-        version: 1.4
+        version: 1.5
     # NOTE
     # Adjust the `input=""` on the last line to indicate where
     # the source of the package page is (`page/` by default).
@@ -38,7 +33,8 @@ jobs:
     # `@def prepath = "YourPackage.jl/web"`
     - run: julia -e '
             using Pkg;
-            Pkg.add(["NodeJS", "PkgPage", "DataFrames"]);
+            Pkg.add(["NodeJS", "DataFrames"]);
+            Pkg.add(PackageSpec(url="https://github.com/tlienart/PkgPage.jl"));
             using NodeJS;
             run(`$(npm_cmd()) install highlight.js purgecss`);
             import PkgPage;
@@ -46,6 +42,6 @@ jobs:
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        SSH: true
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
         FOLDER: page/__site
