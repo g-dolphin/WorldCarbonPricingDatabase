@@ -46,6 +46,8 @@ the next section presents summary some statistics.
 
 \begin{section}{title="Carbon pricing statistics"}
 
+The following section presents some summary statistics on carbon pricing mechanisms implemented around the world.
 
+In 2018,
 
 \end{section}
