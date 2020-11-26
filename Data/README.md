@@ -17,10 +17,11 @@ The remaining columns record the variables' value. The following variables are i
 # A note on "NA" and empty values
 
 - **“NA” values** should not be interpreted as either ‘missing’ or ‘zero’. Rather they indicate that the column is ‘not applicable’ for the particular row you are looking at. There are several types of instances in which "NA" is used:
-1. In `keys` columns: for instance, in the column “IEA_CODE”, there is only such a code for IPCC Energy sector, not the others. 
-2. In `variables` columns:
-    - For the columns recording price level and exemptions, there will be an “NA” entry if there is no such scheme in place, i.e. if the value of the corresponding coverage dummy column is set to 0.
+    1. In `keys` columns: for instance, in the column “IEA_CODE”, there is only such a code for IPCC Energy sector, not the others. 
+    2. In `variables` columns:
+        - For the columns recording price level and exemptions, there will be an “NA” entry if there is no such scheme in place, i.e. if the value of the corresponding coverage dummy column is set to 0.
     
-- **Empty cells** are cells that ought to be filled in future. Here again, there are different types of instances which would lead to an empty cell:
-1. For IPCC sectors above the lowest level of disaggregation: currently empty as aggregate level records have not been determined/calculated yet.
-2. For disaggregated levels: no data has been recorded yet! ==> feel free to contribute :)
+- **Empty cells** are cells that ought to be filled in future. But here again, there are different types of instances which would lead to an empty cell:
+    1. For IPCC sectors above the lowest level of disaggregation: currently empty as aggregate level records have not been determined/calculated yet.
+    2. For disaggregated levels: no data has been recorded yet! ==> feel free to contribute :) 
+        - The sectors for which data has so far been recorded are listed [here](https://github.com/g-dolphin/WorldCarbonPricingDatabase/blob/master/IPCC_coverage.md). Hence, in general, data is missing for all sectors other than these ones (AND in which some CO2 emissions occur; otherwise it would be a 'Not Applicable' case). 
