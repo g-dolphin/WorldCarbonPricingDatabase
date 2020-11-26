@@ -37,7 +37,9 @@ The initial dataset development focused on IPCC sectors (and sub-sectors therein
 
 Contributions to the dataset are greatly appreciated. Please bear in mind the following principles:
 1. Updates to the dataset should be accurate and traceable. All proposed updates must provide a complete reference to the source of information.
-2. No source of information is excluded from the set of admissible sources *a priori*. However:
+2. Manual entries should be made at the lowest level of (IPCC) sectoral(-fuel) disaggregation:
+    - Records at higher levels of aggregation will be the result of aggregation of lower-level entries (which will be calculated at later stage, following a set of yet-to-define aggregation rules)
+3. No source of information is excluded from the set of admissible sources *a priori*. However:
     - pulicly available sources are preferred to sources subject to access restrictions;
     - 'higher quality' sources are preferred to 'lower quality' ones. For instance, official government legislation published in a jurisdiction's official journal will be prioritised over a third party report on the jurisdiction's policy.
     - to enhance the consistency of the dataset, sources offering standardized information on a larger set of jurisdictions are preferred to jurisdiction-specific sources.
