@@ -1,12 +1,4 @@
 Jurisdiction,Year,IPCC_cat_code,IEA_CODE,Product,Tax_dummy,ETS_dummy,Tax_rate_excl_ex_clc,Tax_ex_rate,Tax_rate_incl_ex_clc,Tax_curr_code,ETS_price,ETS_curr_code
-Belarus,1985,1B2A1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
-Belarus,1985,2A1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
-Belarus,1986,1B2A1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
-Belarus,1986,2A1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
-Belarus,1987,1B2A1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
-Belarus,1987,2A1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
-Belarus,1988,1B2A1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
-Belarus,1988,2A1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
 Belarus,1989,0,NA,NA,0,0,NA,NA,NA,NA,NA,NA
 Belarus,1989,1,NA,NA,0,0,NA,NA,NA,NA,NA,NA
 Belarus,1989,1A,ABFLOW001,Coal/peat,0,0,NA,NA,NA,NA,NA,NA
