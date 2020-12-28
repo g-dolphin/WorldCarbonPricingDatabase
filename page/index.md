@@ -58,7 +58,7 @@ The sectoral coverage of these mechanisms varies, with most schemes covering the
 The table below presents summary statistics of the price (2019USD/tCO2) in selected
 economic sectors across all jurisdictions in the dataset.
 
-\begin{table}
+\begin{table}{}
 | Sector | Mininum | Median | Mean | Max |
 |----------: | ---------- |:------------:|:------------:|:------------:|
 | Power (electricity and heat) | 0 |              |||
