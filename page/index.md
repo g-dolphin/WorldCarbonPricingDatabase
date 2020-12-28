@@ -46,8 +46,25 @@ the next section presents summary some statistics.
 
 \begin{section}{title="Carbon pricing statistics"}
 
-The following section presents some summary statistics on carbon pricing mechanisms implemented around the world.
+The following section presents some summary statistics on carbon pricing mechanisms
+implemented around the world.
 
-In 2018,
+In 2018, there were [xx] active carbon pricing mechanisms at the national level and
+[xx] active mechanisms at the subnational level. Among them, [xx] were carbon taxes
+and [xx] were emissions trading (or cap-and-trade) systems.
+
+The sectoral coverage of these mechanisms varies, with most schemes covering the power sector. As of 2018, [xx] subjected the power sector to carbon price, whereas only [xx] schemes applied to the transport sector.
+
+The table below presents summary statistics of the price (2019USD/tCO2) in selected
+economic sectors across all jurisdictions in the dataset.
+
+\begin{table}
+| Sector | Mininum | Median | Mean | Max |
+|----------: | ---------- |:------------:|:------------:|:------------:|
+| Power (electricity and heat) | 0 |              |||
+| Transport    | 0  |  |||
+| Buildings (heat)    | 0  |  |||
+
+\end{table}
 
 \end{section}
