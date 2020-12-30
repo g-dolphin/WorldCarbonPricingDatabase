@@ -49,11 +49,21 @@ the next section presents summary some statistics.
 The following section presents some summary statistics on carbon pricing mechanisms
 implemented around the world.
 
-In 2018, there were [xx] active carbon pricing mechanisms at the national level and
-[xx] active mechanisms at the subnational level. Among them, [xx] were carbon taxes
-and [xx] were emissions trading (or cap-and-trade) systems.
+In 2018, carbon pricing mechanisms were in force in [50] national and [13] subnational jurisdictions. Among them, [17] had a carbon tax and [46] had an emissions trading (or cap-and-trade) system.
 
-The sectoral coverage of these mechanisms varies, with most schemes covering the power sector. As of 2018, [xx] subjected the power sector to carbon price, whereas only [xx] schemes applied to the transport sector.
+The sectoral coverage of these mechanisms varies, with most schemes covering the power sector. As of 2018, [52] jurisdictions subjected their power sector to a carbon price, whereas only [15] jurisdictions applied one to their road transport sector.
+
+\begin{table}{}
+| Sector | Carbon tax | Emissions trading |
+|----------: | ---------- |:------------:|
+| Power (electricity and heat) | 6 |      46        |
+| Manufacturing and construction    | 6  | 37 |
+| Road transport    | 11  | 4 |
+| Air transport (domestic)   | 4  | 32 |
+| Residential buildings (heat)    | 13  | 3 |
+| Commercial buildings (heat)    | 13  | 3 |
+
+\end{table}
 
 The table below presents summary statistics of the price (2019USD/tCO2) in selected
 economic sectors across all jurisdictions in the dataset.
@@ -62,8 +72,10 @@ economic sectors across all jurisdictions in the dataset.
 | Sector | Mininum | Median | Mean | Max |
 |----------: | ---------- |:------------:|:------------:|:------------:|
 | Power (electricity and heat) | 0 |              |||
-| Transport    | 0  |  |||
-| Buildings (heat)    | 0  |  |||
+| Manufacturing and construction    | 0  |  |||
+| Road transport    | 0  |  |||
+| Air transport (domestic)   | 0  |  |||
+| Residential buildings (heat)    | 0  |  |||
 
 \end{table}
 
