@@ -54,3 +54,14 @@ gsec_temp.Sum_tax_ets = [x > 0 ? 1 : 0 for x in gsec_temp.Sum_ets]
 ggsec_temp = groupby(gsec_temp, [:Year, :IEA_CODE])
 ggsec_temp = combine(ggsec_temp, :Sum_tax_bin => sum => :tax_tot,
                 :Sum_tax_ets => sum => :ets_tot)
+
+# Sector-level carbon prices
+path_prices = "/Users/GD/Sync/PE/Data/ECP/ECP_calculation/Price/Sector_level/EW_sector_prices.csv"
+prices = CSV.read(path_prices, DataFrame)
+
+prices_2017 = prices[prices[:, :Year] .== 2017, :]
+prices_2017 = prices_2017[occursin.(sectors, prices_2017.Flow), :]
+
+gprices_2017 = groupby(prices_2017, [:Year, :Flow])
+
+sumstat = combine(gprices_2017, :Total_price_sector_2019USD => describe)
