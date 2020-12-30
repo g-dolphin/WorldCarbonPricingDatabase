@@ -71,11 +71,12 @@ economic sectors across all jurisdictions in the dataset.
 \begin{table}{}
 | Sector | Mininum | Median | Mean | Max |
 |----------: | ---------- |:------------:|:------------:|:------------:|
-| Power (electricity and heat) | 0 |              |||
-| Manufacturing and construction    | 0  |  |||
-| Road transport    | 0  |  |||
-| Air transport (domestic)   | 0  |  |||
-| Residential buildings (heat)    | 0  |  |||
+| Power (electricity and heat) | 0 |  0 | 1.46 | 7.24 |
+| Manufacturing and construction    | 0  | 0 | 2 | 73.2 |
+| Road transport    | 0  | 0| 2.63 | 143.74 |
+| Air transport (domestic)   | 0  | 0 | 1.82 | 68.63 |
+| Residential buildings (heat)    | 0  | 0 | 2.52 | 100.62 |
+| Commercial buildings (heat)    | 0  | 0 | 2.47 | 100.62 |
 
 \end{table}
 
