@@ -27,5 +27,23 @@ def concatenate(indir):#,outfile):
     #    concatDf.to_csv(outfile,index=None)
     return concatDf
 
-indir = ".../GitHub/WorldCarbonPricingDatabase/Data/national_jur"
-indir = ".../GitHub/WorldCarbonPricingDatabase/Data/subnat_jur"
+indir_nat = ".../GitHub/WorldCarbonPricingDatabase/Data/national_jur"
+indir_subnat = ".../GitHub/WorldCarbonPricingDatabase/Data/subnat_jur"
+
+nat_jur = concatenate(indir)
+subnat_jur = concatenate(indir)
+
+# Jurisdiction lists
+
+ctry_list = list(nat_jur.Jurisdiction.unique())
+subnat_list = list(subnat_jur.Jurisdiction.unique())
+all_jur = ctry_list + subnat_list
+
+
+# Breaking up dataframe into single jurisdiction .csv files
+
+for ctry in ctry_list:
+    nat_jur.loc[nat_jur.Jurisdiction==ctry, :].to_csv("/Users/GD/Documents/GitHub/WorldCarbonPricingDatabase/Sources/national_jur/CP_"+countries_dic[ctry]+".csv", index=None)
+for jur in subnat_list:
+    subnat_jur.loc[subnat_jur.Jurisdiction==jur, :].to_csv("/Users/GD/Documents/GitHub/WorldCarbonPricingDatabase/Sources/subnat_jur/CP_"+subnat_dic[jur]+".csv", index=None)
+
