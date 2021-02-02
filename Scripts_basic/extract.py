@@ -18,7 +18,7 @@ def concatenate(indir):#,outfile):
 
     #each iteration of the loop will add a dataframe to the list
     for filename in fileList:
-        df=pd.read_csv(filename, header=0)
+        df=pd.read_csv(filename, keep_default_na=False, header=0)
         dfList.append(df)
 
     #'axis=0' ensures that we are concatenating vertically,
