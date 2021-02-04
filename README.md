@@ -5,20 +5,25 @@ The present dataset constitutes an extension of a dataset initially developed wh
 This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
 To date, it is the most comprehensive attempt at providing a systematic description of carbon pricing mechanisms in terms of their sectoral (and fuel) coverage as well as the associated price signal.
 
-## Dataset description
-### Dataset scope
+## Dataset 
+### Description
 
-The dataset currently covers 198 national jurisdictions and 98 sub-national jurisdictions (50 US States, 13 Canadian Provinces and Territories, 3 Japanese Municipalities, 32 Chinese Provinces and Municipalities). It records their institutional development (sectoral and fuel coverage as well as price) from 1990 (year of introduction of the first carbon pricing mechanism in Finland) to this day (currently, 2018 is the last year for which data has been collected).
+The database records information on the coverage and price associated with mechanisms creating an explicit price on CO2 emissions **at the sector-fuel level**. It records separately information about carbon taxes and cap-and-trade mechanisms. The sectoral disaggregation of the economy follows the [IPCC 2006 guidelines for national greenhouse gas emission inventories](https://www.ipcc-nggip.iges.or.jp/public/2006gl/). 
 
-The database records information on the coverage and price associated with mechanisms placing a price on CO2 emissions **at the sector-fuel level**. It records separately information about carbon taxes and cap-and-trade mechanisms.
-
-- The sectoral disaggregation of the economy follows the [IPCC 2006 guidelines for national greenhouse gas emission inventories](https://www.ipcc-nggip.iges.or.jp/public/2006gl/). 
 - Coverage of a given sector-fuel level is recorded as binary 0/1 variable.
 - Prices are recorded in current local currency units and expressed per tonne of CO_2. 
   - For taxes, the recorded value is the administratively set rate of the tax.
   - For emission trading systems (cap-and-trade), the recorded value is the yearly average of (daily) allowance prices.
 
-A table summarising sectoral coverage can be found in the file [IPCC_coverage](https://github.com/gd1989/WorldCarbonPricingDatabase/blob/master/IPCC_coverage.md). In addtion, the file [IPCC2006-IEA-category-codes]() provides a mapping between IPCC sector names, their associated code and the corresponding International Energy Agency sector code. This latter file is particularly useful to the update of the dataset, since its `.csv`files only include sector codes.
+For carbon taxes, the dataset also records separately 'price-based', sector-fuel specific, exemptions. That is, it records whether a given carbon tax regulation contains provisions for some sectors and/or fuels to be faced with a different tax rate. In practice, exemptions implying a different price of CO2 across fuels are rare (though not inexistant); more common are exemptions set at the sector level and implying a different price of CO2 across sectors.
+
+The dataset does not, however, account for 'quantity-based' exemptions. This category includes all exemptions that allow firms in specified sectors and/or meeting certain conditions within those sectors to exempt part of their emissions from the tax or to waive their obligation to surrender allowances for these emissions. For instance, the dataset currently does not contain information on the emissions thresholds above which firms (or plants) become liable for the carbon tax or have to surrender emissions allowances. Similarly, it does not have data on the 'offset mechanisms' by which firms can waive their tax or allowance surrendering obligation on a share of their total emissions.
+
+### Scope
+
+The dataset currently covers 198 national jurisdictions and 98 sub-national jurisdictions (50 US States, 13 Canadian Provinces and Territories, 3 Japanese Municipalities, 32 Chinese Provinces and Municipalities). It records their institutional development (sectoral and fuel coverage as well as price) from 1990 (year of introduction of the first carbon pricing mechanism in Finland) to this day (currently, 2018 is the last year for which data has been collected).
+
+A table summarising sectoral coverage can be found in the file [IPCC_coverage](https://github.com/gd1989/WorldCarbonPricingDatabase/blob/master/IPCC_coverage.md). In addtion, the file [IPCC2006-IEA-category-codes]() provides a mapping between IPCC sector names, their associated code and the corresponding International Energy Agency sector code. This latter file is particularly useful to the update of the dataset, since its `.csv` files only include sector codes.
 
 ## Repository files
 
