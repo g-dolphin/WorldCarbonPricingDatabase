@@ -41,6 +41,11 @@ all_jur = ctry_list + subnat_list
 
 
 # Breaking up dataframe into single jurisdiction .csv files
+std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
+countries_dic = dict(zip(ctry_list, std_country_names))
+
+std_subnat_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in subnat_list]
+subnat_dic = dict(zip(subnat_list, std_subnat_names))
 
 for ctry in ctry_list:
     nat_jur.loc[nat_jur.Jurisdiction==ctry, :].to_csv("/Users/GD/Documents/GitHub/WorldCarbonPricingDatabase/Sources/national_jur/CP_"+countries_dic[ctry]+".csv", index=None)
