@@ -14,7 +14,13 @@ The remaining columns record the variables' value. The following variables are i
 - `ETS_price`: price of an emissions allowance in current local currency unit per tonne of CO2
 - `ETS_curr_code`: ISO code of the currency in which the allowance price is recorded (e.g. EUR for euro)
 
-# A note on "NA" and empty values
+## Different tax rates (in LCU/tCO2) applicable to different fuels
+
+It may be the case that different tax rates are applied to different fuels within the the main fuel categories (i.e. Coal/peat, Natural Gas, Oil). This comes in the form of differentiated applicable tax rates or varying exemption rates. This the case for Mexico and Argentina, for instance. 
+
+In such cases, the value recorded in the dataset is the highest rate applicable to the fuel category. The fuel- and/or sector-fuel-specific rates are recorded in the *country notes* associated with each country.
+
+## "NA" and empty values
 
 - **“NA” values** should not be interpreted as either ‘missing’ or ‘zero’. Rather they indicate that the column is ‘not applicable’ for the particular row you are looking at. There are several types of instances in which "NA" is used:
     1. In `keys` columns: for instance, in the column “IEA_CODE”, there is only such a code for IPCC Energy sector, not the others. 
