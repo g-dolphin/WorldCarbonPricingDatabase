@@ -30,8 +30,8 @@ def concatenate(indir):#,outfile):
 indir_nat = ".../GitHub/WorldCarbonPricingDatabase/Data/national_jur"
 indir_subnat = ".../GitHub/WorldCarbonPricingDatabase/Data/subnat_jur"
 
-nat_jur = concatenate(indir)
-subnat_jur = concatenate(indir)
+nat_jur = concatenate(indir_nat)
+subnat_jur = concatenate(indir_subnat)
 
 # Jurisdiction lists
 
