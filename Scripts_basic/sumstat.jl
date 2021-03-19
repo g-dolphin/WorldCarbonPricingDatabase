@@ -27,7 +27,7 @@ gdf_nat = groupby(data_nat_2018, [:Jurisdiction, :Year])
 gdf_subnat = groupby(data_subnat_2018, [:Jurisdiction, :Year])
 
 # Total number of schemes
-#temp = combine(gdf_subnat, :Tax_dummy => sum => :Sum_tax, :ETS_dummy => sum => :Sum_ets)
+temp = combine(gdf_nat, :Tax_dummy => sum => :Sum_tax, :ETS_dummy => sum => :Sum_ets)
 temp = combine(gdf_subnat, :Tax_dummy => sum => :Sum_tax, :ETS_dummy => sum => :Sum_ets)
 
 temp.Sum_tax_bin = [x > 0 ? 1 : 0 for x in temp.Sum_tax]
