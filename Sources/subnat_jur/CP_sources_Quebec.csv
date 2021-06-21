@@ -7162,63 +7162,63 @@ Quebec,2013,1A1,Oil,,,,,
 Quebec,2013,1A1A,Coal/peat,,,,,
 Quebec,2013,1A1A,Natural gas,,,,,
 Quebec,2013,1A1A,Oil,,,,,
-Quebec,2013,1A1A1,Coal/peat,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1A1,Natural gas,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1A1,Oil,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1A2,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1A2,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1A2,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1A3,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1A3,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1A3,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1B,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1B,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1B,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1C,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1C,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A1C,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2,Coal/peat,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2,Natural gas,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2,Oil,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2A,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2A,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2A,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2B,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2B,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2B,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2C,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2C,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2C,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2D,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2D,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2D,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2E,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2E,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2E,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2F,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2F,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2F,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2G,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2G,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2G,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2H,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2H,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2H,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2I,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2I,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2I,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2J,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2J,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2J,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2K,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2K,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2K,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2L,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2L,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2L,Oil,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2M,Coal/peat,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2M,Natural gas,,,,,Report(QC-AR-I[2013]);
-Quebec,2013,1A2M,Oil,,,,,Report(QC-AR-I[2013]);
+Quebec,2013,1A1A1,Coal/peat,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]); price is final auction price in the signle auction held in 2013
+Quebec,2013,1A1A1,Natural gas,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]); price is final auction price in the signle auction held in 2013
+Quebec,2013,1A1A1,Oil,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]); price is final auction price in the signle auction held in 2013
+Quebec,2013,1A1A2,Coal/peat,,,,,
+Quebec,2013,1A1A2,Natural gas,,,,,
+Quebec,2013,1A1A2,Oil,,,,,
+Quebec,2013,1A1A3,Coal/peat,,,,,
+Quebec,2013,1A1A3,Natural gas,,,,,
+Quebec,2013,1A1A3,Oil,,,,,
+Quebec,2013,1A1B,Coal/peat,,,,,
+Quebec,2013,1A1B,Natural gas,,,,,
+Quebec,2013,1A1B,Oil,,,,,
+Quebec,2013,1A1C,Coal/peat,,,,,
+Quebec,2013,1A1C,Natural gas,,,,,
+Quebec,2013,1A1C,Oil,,,,,
+Quebec,2013,1A2,Coal/peat,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]); price is final auction price in the signle auction held in 2013
+Quebec,2013,1A2,Natural gas,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]); price is final auction price in the signle auction held in 2013
+Quebec,2013,1A2,Oil,,Report(ICAP-SR[2014]);,,,Report(QC-AR-I[2013]); price is final auction price in the signle auction held in 2013
+Quebec,2013,1A2A,Coal/peat,,,,,
+Quebec,2013,1A2A,Natural gas,,,,,
+Quebec,2013,1A2A,Oil,,,,,
+Quebec,2013,1A2B,Coal/peat,,,,,
+Quebec,2013,1A2B,Natural gas,,,,,
+Quebec,2013,1A2B,Oil,,,,,
+Quebec,2013,1A2C,Coal/peat,,,,,
+Quebec,2013,1A2C,Natural gas,,,,,
+Quebec,2013,1A2C,Oil,,,,,
+Quebec,2013,1A2D,Coal/peat,,,,,
+Quebec,2013,1A2D,Natural gas,,,,,
+Quebec,2013,1A2D,Oil,,,,,
+Quebec,2013,1A2E,Coal/peat,,,,,
+Quebec,2013,1A2E,Natural gas,,,,,
+Quebec,2013,1A2E,Oil,,,,,
+Quebec,2013,1A2F,Coal/peat,,,,,
+Quebec,2013,1A2F,Natural gas,,,,,
+Quebec,2013,1A2F,Oil,,,,,
+Quebec,2013,1A2G,Coal/peat,,,,,
+Quebec,2013,1A2G,Natural gas,,,,,
+Quebec,2013,1A2G,Oil,,,,,
+Quebec,2013,1A2H,Coal/peat,,,,,
+Quebec,2013,1A2H,Natural gas,,,,,
+Quebec,2013,1A2H,Oil,,,,,
+Quebec,2013,1A2I,Coal/peat,,,,,
+Quebec,2013,1A2I,Natural gas,,,,,
+Quebec,2013,1A2I,Oil,,,,,
+Quebec,2013,1A2J,Coal/peat,,,,,
+Quebec,2013,1A2J,Natural gas,,,,,
+Quebec,2013,1A2J,Oil,,,,,
+Quebec,2013,1A2K,Coal/peat,,,,,
+Quebec,2013,1A2K,Natural gas,,,,,
+Quebec,2013,1A2K,Oil,,,,,
+Quebec,2013,1A2L,Coal/peat,,,,,
+Quebec,2013,1A2L,Natural gas,,,,,
+Quebec,2013,1A2L,Oil,,,,,
+Quebec,2013,1A2M,Coal/peat,,,,,
+Quebec,2013,1A2M,Natural gas,,,,,
+Quebec,2013,1A2M,Oil,,,,,
 Quebec,2013,1A3,Coal/peat,,,,,
 Quebec,2013,1A3,Natural gas,,,,,
 Quebec,2013,1A3,Oil,,,,,
@@ -7460,63 +7460,63 @@ Quebec,2014,1A1,Oil,,,,,
 Quebec,2014,1A1A,Coal/peat,,,,,
 Quebec,2014,1A1A,Natural gas,,,,,
 Quebec,2014,1A1A,Oil,,,,,
-Quebec,2014,1A1A1,Coal/peat,,Report(ICAP-SR[2014]);,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1A1,Natural gas,,Report(ICAP-SR[2014]);,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1A1,Oil,,Report(ICAP-SR[2014]);,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1A2,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1A2,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1A2,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1A3,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1A3,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1A3,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1B,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1B,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1B,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1C,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1C,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A1C,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2,Coal/peat,,Report(ICAP-SR[2014]);,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2,Natural gas,,Report(ICAP-SR[2014]);,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2,Oil,,Report(ICAP-SR[2014]);,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2A,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2A,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2A,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2B,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2B,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2B,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2C,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2C,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2C,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2D,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2D,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2D,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2E,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2E,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2E,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2F,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2F,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2F,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2G,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2G,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2G,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2H,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2H,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2H,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2I,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2I,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2I,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2J,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2J,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2J,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2K,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2K,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2K,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2L,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2L,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2L,Oil,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2M,Coal/peat,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2M,Natural gas,,,,,Web(CAL-CAR[2015]);
-Quebec,2014,1A2M,Oil,,,,,Web(CAL-CAR[2015]);
+Quebec,2014,1A1A1,Coal/peat,,Report(ICAP-SR[2014]);,,,"Report(QC-AR-I[2014], QC-AR-II[2014], QC-AR-III[2014], QC-AR-IV[2014]); prices were calculated as simple average of final auction prices in the four auctions of the year"
+Quebec,2014,1A1A1,Natural gas,,Report(ICAP-SR[2014]);,,,"Report(QC-AR-I[2014], QC-AR-II[2014], QC-AR-III[2014], QC-AR-IV[2014]); prices were calculated as simple average of final auction prices in the four auctions of the year"
+Quebec,2014,1A1A1,Oil,,Report(ICAP-SR[2014]);,,,"Report(QC-AR-I[2014], QC-AR-II[2014], QC-AR-III[2014], QC-AR-IV[2014]); prices were calculated as simple average of final auction prices in the four auctions of the year"
+Quebec,2014,1A1A2,Coal/peat,,,,,
+Quebec,2014,1A1A2,Natural gas,,,,,
+Quebec,2014,1A1A2,Oil,,,,,
+Quebec,2014,1A1A3,Coal/peat,,,,,
+Quebec,2014,1A1A3,Natural gas,,,,,
+Quebec,2014,1A1A3,Oil,,,,,
+Quebec,2014,1A1B,Coal/peat,,,,,
+Quebec,2014,1A1B,Natural gas,,,,,
+Quebec,2014,1A1B,Oil,,,,,
+Quebec,2014,1A1C,Coal/peat,,,,,
+Quebec,2014,1A1C,Natural gas,,,,,
+Quebec,2014,1A1C,Oil,,,,,
+Quebec,2014,1A2,Coal/peat,,Report(ICAP-SR[2014]);,,,"Report(QC-AR-I[2014], QC-AR-II[2014], QC-AR-III[2014], QC-AR-IV[2014]); prices were calculated as simple average of final auction prices in the four auctions of the year"
+Quebec,2014,1A2,Natural gas,,Report(ICAP-SR[2014]);,,,"Report(QC-AR-I[2014], QC-AR-II[2014], QC-AR-III[2014], QC-AR-IV[2014]); prices were calculated as simple average of final auction prices in the four auctions of the year"
+Quebec,2014,1A2,Oil,,Report(ICAP-SR[2014]);,,,"Report(QC-AR-I[2014], QC-AR-II[2014], QC-AR-III[2014], QC-AR-IV[2014]); prices were calculated as simple average of final auction prices in the four auctions of the year"
+Quebec,2014,1A2A,Coal/peat,,,,,
+Quebec,2014,1A2A,Natural gas,,,,,
+Quebec,2014,1A2A,Oil,,,,,
+Quebec,2014,1A2B,Coal/peat,,,,,
+Quebec,2014,1A2B,Natural gas,,,,,
+Quebec,2014,1A2B,Oil,,,,,
+Quebec,2014,1A2C,Coal/peat,,,,,
+Quebec,2014,1A2C,Natural gas,,,,,
+Quebec,2014,1A2C,Oil,,,,,
+Quebec,2014,1A2D,Coal/peat,,,,,
+Quebec,2014,1A2D,Natural gas,,,,,
+Quebec,2014,1A2D,Oil,,,,,
+Quebec,2014,1A2E,Coal/peat,,,,,
+Quebec,2014,1A2E,Natural gas,,,,,
+Quebec,2014,1A2E,Oil,,,,,
+Quebec,2014,1A2F,Coal/peat,,,,,
+Quebec,2014,1A2F,Natural gas,,,,,
+Quebec,2014,1A2F,Oil,,,,,
+Quebec,2014,1A2G,Coal/peat,,,,,
+Quebec,2014,1A2G,Natural gas,,,,,
+Quebec,2014,1A2G,Oil,,,,,
+Quebec,2014,1A2H,Coal/peat,,,,,
+Quebec,2014,1A2H,Natural gas,,,,,
+Quebec,2014,1A2H,Oil,,,,,
+Quebec,2014,1A2I,Coal/peat,,,,,
+Quebec,2014,1A2I,Natural gas,,,,,
+Quebec,2014,1A2I,Oil,,,,,
+Quebec,2014,1A2J,Coal/peat,,,,,
+Quebec,2014,1A2J,Natural gas,,,,,
+Quebec,2014,1A2J,Oil,,,,,
+Quebec,2014,1A2K,Coal/peat,,,,,
+Quebec,2014,1A2K,Natural gas,,,,,
+Quebec,2014,1A2K,Oil,,,,,
+Quebec,2014,1A2L,Coal/peat,,,,,
+Quebec,2014,1A2L,Natural gas,,,,,
+Quebec,2014,1A2L,Oil,,,,,
+Quebec,2014,1A2M,Coal/peat,,,,,
+Quebec,2014,1A2M,Natural gas,,,,,
+Quebec,2014,1A2M,Oil,,,,,
 Quebec,2014,1A3,Coal/peat,,,,,
 Quebec,2014,1A3,Natural gas,,,,,
 Quebec,2014,1A3,Oil,,,,,
