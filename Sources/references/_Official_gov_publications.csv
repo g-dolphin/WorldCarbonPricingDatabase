@@ -1,20 +1,34 @@
-Institution,Authors,Policy paper,Year,Retrieved from,Tag,Info on country
-Department of Finance of the Republic of Ireland,E. Gargan,Reflections on the implementation of the Carbon Tax in Ireland,2012,,DFII-REF,Ireland
-"Ministry of the Environment, Japan",.,Details on the carbon tax,2014,,MEJ-CT,Japan
-"Ministry of Finance, Slovenia",,ENVIRONMENTAL TAXES Detailed description,2015,http://www.fu.gov.si/en/taxes_and_other_duties/areas_of_work/environmental_taxes/,MFS-ET,Slovenia
-"Ministry of Finance, Slovenia",,ENVIRONMENTAL TAXES Detailed description,2018,http://www.fu.gov.si/en/taxes_and_other_duties/areas_of_work/environmental_taxes/,MFS-ET,Slovenia
-"Ministry of the Environment, transport and communication",,Eckdaten des Schweizer Emissionshandelssystems,2014,,MESW-KF,Switzerland
-Norway customs,,2011_mineral_products,2011,http://www.toll.no/en/international/english/excise-duties/mineral-products/r_4/,NCD-I,Norway
-Norway customs,,2012_mineral_products,2012,http://www.toll.no/en/international/english/excise-duties/mineral-products/r_4/,NCD-II,Norway
-Norway customs,,2013_mineral_products,2013,http://www.toll.no/en/international/english/excise-duties/mineral-products/r_4/,NCD-III,Norway
-Norway customs,,2014_mineral_products,2014,http://www.toll.no/en/international/english/excise-duties/mineral-products/r_4/,NCD-IV,Norway
-Norway customs,,2015_mineral_products,2015,http://www.toll.no/en/international/english/excise-duties/mineral-products/r_4/,NCD-V,Norway
-BC Ministry of Finance,,mft-ct-005-tax-rates-fuels,2018,https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/mft-ct-005-tax-rates-fuels.pdf,BC-MFT,British Columbia
-,,,,https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/motor-fuel-carbon-tax/forms-publications/publications,,
-BC Ministry of Finance,,BC_MF(2015)_Tax_Bulletin,2015,,BC-MFT-II,British Columbia
-Government of Alberta,,CLIMATE CHANGE AND EMISSIONS MANAGEMENT ACT - SPECIFIED GAS EMITTERS REGULATION,2007; rev 2015,,ALB-SGER,Alberta
-Government of Alberta,,Alberta Fiscal Plan,2016,,ALB-FP,Alberta
-UK Parliament,,"BRIEFING PAPER Number 05927, 8 January 2018 ",2018,,UK-BP,United Kingdom
-Nova Scotia Environment,,June 2020 Auction of Emission Allowances,2020,https://climatechange.novascotia.ca/sites/default/files/Cap-and-Trade_Regulations_Summary_Results_Report.pdf,NSE(2020a),Nova Scotia
-Nova Scotia Environment,,December 2020 Auction of Emission Allowances,2020,https://climatechange.novascotia.ca/sites/default/files/December_2020_Auction_Summary_Results_Report.pdf,NSE(2020b),Nova Scotia
-Nova Scotia Environment,,June 2021 Auction of Emission Allowances,2021,https://climatechange.novascotia.ca/sites/default/files/June_2021_Auction_Summary_Results_Report.pdf,NSE,Nova Scotia
+Jurisdiction,Year,Institution,Authors,Document_title,URL,Last_accessed,Key
+Ireland,2012,Department of Finance of the Republic of Ireland,E. Gargan,Reflections on the implementation of the Carbon Tax in Ireland,,,DFII-REF
+Japan,2014,"Ministry of the Environment, Japan",.,Details on the carbon tax,,,MEJ-CT
+Slovenia,2015,"Ministry of Finance, Slovenia",,ENVIRONMENTAL TAXES Detailed description,http://www.fu.gov.si/en/taxes_and_other_duties/areas_of_work/environmental_taxes/,,MFS-ET
+Slovenia,2018,"Ministry of Finance, Slovenia",,ENVIRONMENTAL TAXES Detailed description,http://www.fu.gov.si/en/taxes_and_other_duties/areas_of_work/environmental_taxes/,,MFS-ET
+Switzerland,2014,"Ministry of the Environment, transport and communication",,Eckdaten des Schweizer Emissionshandelssystems,,,MESW-KF
+Norway,2006,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2006,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2007,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2007,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2008,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2008,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2009,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2009,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2010,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2010,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2011,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2011,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2012,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2012,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2013,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2013,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2014,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2014,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2015,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2015,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2016,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2016,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2017,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2017,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2018,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2018,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2019,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2019,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2020,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2020,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+Norway,2021,Directorate of customs and excise,,Excise duty on mineral products - circular no. 11/2021,https://www.skatteetaten.no/en/rettskilder/emne/saravgifter/mineralske-produkter/,,DCE-CIRC11
+British Columbia,2018,BC Ministry of Finance,,mft-ct-005-tax-rates-fuels,https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/mft-ct-005-tax-rates-fuels.pdf,,BC-MFT
+British Columbia,2018,BC Ministry of Finance,,mft-ct-005-tax-rates-fuels,https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/motor-fuel-carbon-tax/forms-publications/publications,,
+British Columbia,2015,BC Ministry of Finance,,BC_MF(2015)_Tax_Bulletin,,,BC-MFT-II
+Alberta,2007; rev 2015,Government of Alberta,,CLIMATE CHANGE AND EMISSIONS MANAGEMENT ACT - SPECIFIED GAS EMITTERS REGULATION,,,ALB-SGER
+Alberta,2016,Government of Alberta,,Alberta Fiscal Plan,,,ALB-FP
+United Kingdom,2018,UK Parliament,,"BRIEFING PAPER Number 05927, 8 January 2018 ",,,UK-BP
+Denmark,2021,Skatteministeriet,CO2-afgiftsloven - Afgiftssatser i lov om kuldioxidafgift af visse energiprodukter,,https://www.skm.dk/skattetal/satser/satser-og-beloebsgraenser-i-lovgivningen/co2-afgiftsloven,,DK
+Denmark,2021,Skatteministeriet,Meta-information on CO2 tax act,,https://www.skat.dk/skat.aspx?oID=2049787,,DK
+Denmark,,,,,https://www.retsinformation.dk/,,DK
+Nova Scotia,2020,Nova Scotia Environment,,June 2020 Auction of Emission Allowances,https://climatechange.novascotia.ca/sites/default/files/Cap-and-Trade_Regulations_Summary_Results_Report.pdf,NSE(2020a)
+Nova Scotia,2020,Nova Scotia Environment,,December 2020 Auction of Emission Allowances,2020,https://climatechange.novascotia.ca/sites/default/files/December_2020_Auction_Summary_Results_Report.pdf,NSE(2020b)
+Nova Scotia,2021,Nova Scotia Environment,,June 2021 Auction of Emission Allowances,2021,https://climatechange.novascotia.ca/sites/default/files/June_2021_Auction_Summary_Results_Report.pdf,NSE
