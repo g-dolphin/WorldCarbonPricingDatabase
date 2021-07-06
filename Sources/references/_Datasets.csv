@@ -1,2 +1,3 @@
-Name,Year,URL,Tag
-WB Carbon Pricing Dashboard,2020,https://carbonpricingdashboard.worldbank.org/,WCPD
+Jurisdiction,Name,Institution,Year,URL,Last_accessed,Key
+multi,WB Carbon Pricing Dashboard,,2020,https://carbonpricingdashboard.worldbank.org/,2021,WCPD
+multi,Allowance Price Explorer,International Carbon Action Partnership,2021,https://icapcarbonaction.com/en/ets-prices,2021,ICAP-ETS
