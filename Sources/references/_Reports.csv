@@ -1,63 +1,72 @@
-Authors/Institution,Report title,Year,Tag,Info on country/region
-ICAP,Emissions Trading Worldwide - Status Report 2014,2014,ICAP - SR,General
-ICAP,Emissions Trading Worldwide - Status Report 2015,2015,ICAP - SR,General
-ICAP,ETS map Factsheet,2015,ICAP - FS,General
-ICAP,Korea ETS map Factsheet,2017,ICAP - FS - K,"Korea, Rep."
-ICAP,Korea ETS map Factsheet,2018,ICAP - FS - K,"Korea, Rep."
-ICAP,Canada - Qu�bec Cap-and-Trade System,2021,ICAP - QC,Quebec
-OECD,Effective Carbon Prices,2013,OECD - ECP,General
-OECD ,OECD Environmental Performand Reviews - Poland,2015,OECD - EP - P,Poland
-WB,State and trends of the carbon market,2003,WB - SCM,General
-WB,State and trends of the carbon market,2004,WB - SCM,General
-WB,State and trends of the carbon market,2005,WB - SCM,General
-WB,State and trends of the carbon market,2006,WB - SCM,General
-WB,State and trends of the carbon market,2007,WB - SCM,General
-WB,State and trends of the carbon market,2008,WB - SCM,General
-WB,State and trends of the carbon market,2009,WB - SCM,General
-WB,State and trends of the carbon market,2010,WB - SCM,General
-WB,State and trends of the carbon market,2011,WB - SCM,General
-WB,State and trends of the carbon market,2012,WB - SCM,General
-WB,Mapping Carbon Pricing Initiatives,2013,WB - CPI,General
-WB,Carbon Pricing Brief,2014,WB - CPB,General
-WB,State and trends of carbon pricing,2014,WB - STCP,General
-WB,State and trends of carbon pricing,2015,WB - STCP,General
-WB,Background note on Carbon Tax,2015,WB - BCT,General
-WB,State and trends of carbon pricing,2016,WB - STCP,General
-WB,State and trends of carbon pricing,2017,WB - STCP,General
-Carbon Emissions Reduction Taskforce,Report to the Washington State Governor’s Office,2014,CERT - G,Washington State
-Ministry of the Environment,Japan's Voluntary Emissions Trading Scheme,2009,JME - JVETS,Japan
-Government of British Columbia,Climate Action Plan,2015,BC - CAP,British Columbia
-CETRiE,Carbon Pricing Report,2012,CETRiE - CPR,General
-Center for Climate and Energy solution,Australia's carbon pricing mechanism,2011,CCES - CPM,Australia
-Swedish Ministry of Finance (Hammar&Hakerfeldt),CO2 Taxation in Sweden - 20 years of experience and looking ahead,2011,SMF - CT,Sweden
-IEEP,Evaluation of environmental tax reforms,2013,IEEP-ETR,General
-GLOBE,CLIMATE CHANGE LEGISLATION IN SWITZERLAND - AN EXCERPT FROM The 2015 Global Climate Legislation Study A Review of Climate Change Legislation in 99 Countries,2015,GLOBE-SWI,Switzerland
-RGGI,FCP CO2 allowance allocation,2015,RGGI-FCP,"Connecticut, Delaware, Maine, Massachussets, Maryland, New Hampshire, New Jersey, New York, Rhode Island, Vermont"
-RGGI,SCP CO2 allowance allocation,2015,RGGI-SCP,"Connecticut, Delaware, Maine, Massachussets, Maryland, New Hampshire, New Jersey, New York, Rhode Island, Vermont"
-European Commission,EU ETS Handbook,2015,EC-ETS,EU ETS countries
-Argus,______________ _____________,2014,TK-CAT,Tokyo Cap and Trade
-Gouvernement du Quebec,Vente aux encheres d'unites d'emission de gaz a effet de serre,2013,QC-AR-I,Quebec
-Gouvernement du Quebec,Vente aux encheres d'unites d'emission de gaz a effet de serre,2014,QC-AR-II,Quebec
-Gouvernement du Quebec,Vente aux encheres d'unites d'emission de gaz a effet de serre,2014,QC-AR-III,Quebec
-Gouvernement du Quebec,Vente aux encheres d'unites d'emission de gaz a effet de serre,2014,QC-AR-IV,Quebec
-Gouvernement du Quebec,Vente aux encheres d'unites d'emission de gaz a effet de serre,2015,QC-AR-V,Quebec
-Gouvernement du Quebec,Vente aux encheres d'unites d'emission de gaz a effet de serre,2015,QC-AR-VI,Quebec
-Gouvernement du Quebec,Vente aux encheres d'unites d'emission de gaz a effet de serre,2015,QC-AR-VII,Quebec
-Gouvernement du Quebec,Vente aux encheres d'unites d'emission de gaz a effet de serre,2015,QC-AR-VII,Quebec
-Gouvernement du Quebec,Free Allowances,2013,QC-FA-I,Quebec
-Gouvernement du Quebec,Free Allowances,2014,QC-FA-II,Quebec
-Partnership for Market Readiness,China Carbon Market Monitor,2015,PMR-CHP,China ETS pilots
-Nordic Council,The Use of Economic Instruments in Nordic and Baltic Environmental Policy,2006,NC-EIN,"Denmark, Nordic countries"
-IEA,Energy Policies of IEA Countries: Finland,2007,IEA-FI,Finland
-IEA,Energy Policies of IEA Countries: Denmark,2002,IEA-DK,Denmark
-US National Renewable Energy Laboratory,Carbon Taxes: A Review of Experience and Policy Design Considerations,2009,SUM-BIR,General
-IEA,Energy Prices and Taxes,2015,IEA-EPT,IEA Countries
-Statistics Estonia,Environmental Taxes,2009,EST-SE,Estonia
-IEA,Energy Policies of IEA Countries: Norway,2001,IEA-NO,Norway
-Australian Government - Clean Energy Regulator,Auction December 2017,2017,AU-A-I,Australia
-Australian Government - Clean Energy Regulator,Auction April 2017,2017,AU-A-II,Australia
-Australian Government - Clean Energy Regulator,Auction November 2016,2016,AU-A-III,Australia
-Australian Government - Clean Energy Regulator,Auction April 2016,2016,AU-A-IV,Australia
-IETA,KAZAKHSTAN:AN EMISSIONS TRADING CASE STUDY,2016,IETA,Kazakhstan
-IEA,Energy Prices and Taxes,2018,IEA-EPT,IEA Countries
-IEA,Energy Prices and Taxes,2020,IEA-EPT,IEA Countries
+Jurisdiction,Year,Title,Insititution,Key
+multi_jur,2014,Emissions Trading Worldwide - Status Report 2014,ICAP,ICAP - SR
+multi_jur,2015,Emissions Trading Worldwide - Status Report 2015,ICAP,ICAP - SR
+multi_jur,2015,ETS map Factsheet,ICAP,ICAP - FS
+"Korea, Rep.",2017,Korea ETS map Factsheet,ICAP,ICAP - FS - K
+"Korea, Rep.",2018,Korea ETS map Factsheet,ICAP,ICAP - FS - K
+multi_jur,2013,Effective Carbon Prices,OECD,OECD - ECP
+Poland,2015,OECD Environmental Performand Reviews - Poland,OECD ,OECD - EP - P
+multi_jur,2003,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2004,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2005,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2006,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2007,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2008,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2009,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2010,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2011,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2012,State and trends of the carbon market,WB,WB - SCM
+multi_jur,2013,Mapping Carbon Pricing Initiatives,WB,WB - CPI
+multi_jur,2014,Carbon Pricing Brief,WB,WB - CPB
+multi_jur,2014,State and trends of carbon pricing,WB,WB - STCP
+multi_jur,2015,State and trends of carbon pricing,WB,WB - STCP
+multi_jur,2015,Background note on Carbon Tax,WB,WB - BCT
+multi_jur,2016,State and trends of carbon pricing,WB,WB - STCP
+multi_jur,2017,State and trends of carbon pricing,WB,WB - STCP
+multi_jur,2018,State and trends of carbon pricing,WB,WB - STCP
+multi_jur,2019,State and trends of carbon pricing,WB,WB - STCP
+multi_jur,2020,State and trends of carbon pricing,WB,WB - STCP
+multi_jur,2021,State and trends of carbon pricing,WB,WB - STCP
+Washington State,2014,Report to the Washington State Governorâ Office,Carbon Emissions Reduction Taskforce,CERT - G
+Japan,2009,Japan's Voluntary Emissions Trading Scheme,Ministry of the Environment,JME - JVETS
+British Columbia,2015,Climate Action Plan,Government of British Columbia,BC - CAP
+multi_jur,2012,Carbon Pricing Report,CETRiE,CETRiE - CPR
+Australia,2011,Australia's carbon pricing mechanism,Center for Climate and Energy solution,CCES - CPM
+Sweden,2011,CO2 Taxation in Sweden - 20 years of experience and looking ahead,Swedish Ministry of Finance (Hammar&Hakerfeldt),SMF - CT
+multi_jur,2013,Evaluation of environmental tax reforms,IEEP,IEEP-ETR
+Switzerland,2015,CLIMATE CHANGE LEGISLATION IN SWITZERLAND - AN EXCERPT FROM The 2015 Global Climate Legislation Study A Review of Climate Change Legislation in 99 Countries,GLOBE,GLOBE-SWI
+"Connecticut, Delaware, Maine, Massachussets, Maryland, New Hampshire, New Jersey, New York, Rhode Island, Vermont",2015,FCP CO2 allowance allocation,RGGI,RGGI-FCP
+"Connecticut, Delaware, Maine, Massachussets, Maryland, New Hampshire, New Jersey, New York, Rhode Island, Vermont",2015,SCP CO2 allowance allocation,RGGI,RGGI-SCP
+multi_jur,2015,EU ETS Handbook,European Commission,EC-ETS
+Tokyo Cap and Trade,2014,,Argus,TK-CAT
+Quebec,2013,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-I
+Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-II
+Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-III
+Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-IV
+Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-V
+Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VI
+Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VII
+Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VII
+Quebec,2013,Free Allowances,Gouvernement du Quebec,QC-FA-I
+Quebec,2014,Free Allowances,Gouvernement du Quebec,QC-FA-II
+China ETS pilots,2015,China Carbon Market Monitor,Partnership for Market Readiness,PMR-CHP
+"Denmark, Nordic countries",2006,The Use of Economic Instruments in Nordic and Baltic Environmental Policy,Nordic Council,NC-EIN
+Finland,2007,Energy Policies of IEA Countries: Finland,IEA,IEA-FI
+Denmark,2002,Energy Policies of IEA Countries: Denmark,IEA,IEA-DK
+multi_jur,2009,Carbon Taxes: A Review of Experience and Policy Design Considerations,US National Renewable Energy Laboratory,SUM-BIR
+multi_jur,2015,Energy Prices and Taxes,IEA,IEA-EPT
+Estonia,2009,Environmental Taxes,Statistics Estonia,EST-SE
+Estonia,2019,Taxing Energy Use - Country note: Estonia,OECD,OECD
+Norway,2001,Energy Policies of IEA Countries: Norway,IEA,IEA-NO
+Australia,2017,Auction December 2017,Australian Government - Clean Energy Regulator,AU-A-I
+Australia,2017,Auction April 2017,Australian Government - Clean Energy Regulator,AU-A-II
+Australia,2016,Auction November 2016,Australian Government - Clean Energy Regulator,AU-A-III
+Australia,2016,Auction April 2016,Australian Government - Clean Energy Regulator,AU-A-IV
+Kazakhstan,2016,KAZAKHSTAN:AN EMISSIONS TRADING CASE STUDY,IETA,IETA
+multi_jur,2018,Energy Prices and Taxes,IEA,IEA-EPT
+multi_jur,2020,Energy Prices and Taxes,IEA,IEA-EPT
+Ukraine,2014,Improving the existing carbon charge in Ukraine as an interim policy towards emissions trading ,European Bank for Reconstruction and Development,EBRD
+Colombia,2019,Taxing energy use,OECD,OECD-TEU-COL
+Colombia,2019,Nota tecnica,Mexico - Plataforma Mexicana de Carbono,Mexico
+Canada,2020,Carbon Market Business Brief - Canada Federal Output-Based Pricing System (OBPS),IETA,IETA
+New Brunswick,2020,"New Brunswick - tax on carbon-emitting products starts April 1, 2020",KPMG,KPMG
