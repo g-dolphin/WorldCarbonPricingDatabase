@@ -1,4 +1,4 @@
-# Carbon pricing mechanisms dataset [TEST]
+# Carbon pricing mechanisms dataset
 
 The .csv files in the above folders contain the carbon pricing schemes' institutional variables for [xx] national and [xx] sub-national jurisdictions. For each jurisdiction and each year between 1989 and 2018, these variables are recorded at the sector or sector-fuel level.  
 
