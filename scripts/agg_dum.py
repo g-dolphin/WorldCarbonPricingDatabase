@@ -49,7 +49,7 @@ all_jur["Tax_dummy"] = all_jur["Tax_dummy"].astype(int)
 all_jur["ETS_dummy"] = all_jur["ETS_dummy"].astype(int)
 
 # Aggregate at IPCC sector level (from product level)
-
+ 
 all_jur_agg = all_jur.groupby(["Jurisdiction", "Year", "IPCC_cat_code"]).sum()
 all_jur_agg = all_jur_agg.reset_index()
 
