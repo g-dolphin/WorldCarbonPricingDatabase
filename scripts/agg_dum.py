@@ -81,8 +81,8 @@ level_1 = [x for x in list(ipcc_codes.IPCC_CODE.unique()) if len(x) == 1]
 ipcc_code_levels = [level_5, level_4, level_3, level_2, level_1]
 
 # For each level, check whether all values for lower disaggregation level are equal to 1
-for jur in ["Sweden"]:#all_jur.Jurisdiction.unique():
-    for yr in [2010]:#all_jur.Year.unique():
+for jur in all_jur.Jurisdiction.unique():
+    for yr in all_jur.Year.unique():
         for level in [level_5]:#ipcc_code_levels:
             for ipcc_code in level:
 
@@ -91,18 +91,18 @@ for jur in ["Sweden"]:#all_jur.Jurisdiction.unique():
                     x_ets = 1                
                     
                     for ipcc_code_1 in ipcc_sec_subsec_dict[ipcc_code]:
-                        x_tax *=  all_jur_agg.loc[(all_jur_agg.Jurisdiction==jur) & (all_jur_agg.Year==yr) & (all_jur_agg.IPCC_cat_code==ipcc_code_1), "Tax_dummy"].item()
-                        x_ets *=  all_jur_agg.loc[(all_jur_agg.Jurisdiction==jur) & (all_jur_agg.Year==yr) & (all_jur_agg.IPCC_cat_code==ipcc_code_1), "ETS_dummy"].item()
+                        x_tax *=  all_jur_agg.loc[(all_jur_agg.Jurisdiction==jur) & (all_jur_agg.Year==yr) & (all_jur_agg.IPCC_cat_code==ipcc_code_1), "tax_dummy"].item()
+                        x_ets *=  all_jur_agg.loc[(all_jur_agg.Jurisdiction==jur) & (all_jur_agg.Year==yr) & (all_jur_agg.IPCC_cat_code==ipcc_code_1), "ets_dummy"].item()
                                         
                 else:
-                    x_tax = all_jur_agg.loc[(all_jur_agg.Jurisdiction==jur) & (all_jur_agg.Year==yr) & (all_jur_agg.IPCC_cat_code==ipcc_code), "Tax_dummy"].item()
-                    x_ets = all_jur_agg.loc[(all_jur_agg.Jurisdiction==jur) & (all_jur_agg.Year==yr) & (all_jur_agg.IPCC_cat_code==ipcc_code), "ETS_dummy"].item()
+                    x_tax = all_jur_agg.loc[(all_jur_agg.Jurisdiction==jur) & (all_jur_agg.Year==yr) & (all_jur_agg.IPCC_cat_code==ipcc_code), "tax_dummy"].item()
+                    x_ets = all_jur_agg.loc[(all_jur_agg.Jurisdiction==jur) & (all_jur_agg.Year==yr) & (all_jur_agg.IPCC_cat_code==ipcc_code), "ets_dummy"].item()
 
-                #all_jur.loc[(all_jur.Jurisdiction==jur) & (all_jur.Year==yr) & (all_jur.IPCC_cat_code==ipcc_code), "Tax_dummy"] = x_tax
-                #all_jur.loc[(all_jur.Jurisdiction==jur) & (all_jur.Year==yr) & (all_jur.IPCC_cat_code==ipcc_code), "ETS_dummy"] = x_ets
+                all_jur.loc[(all_jur.Jurisdiction==jur) & (all_jur.Year==yr) & (all_jur.IPCC_cat_code==ipcc_code), "tax_dummy"] = x_tax
+                all_jur.loc[(all_jur.Jurisdiction==jur) & (all_jur.Year==yr) & (all_jur.IPCC_cat_code==ipcc_code), "ets_dummy"] = x_ets
 
 
-                print(ipcc_code, "tax",x_tax, "ets", x_ets)
+                
             
             
             
