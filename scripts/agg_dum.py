@@ -32,8 +32,8 @@ def concatenate(indir):#,outfile):
     #    concatDf.to_csv(outfile,index=None)
     return concatDf
 
-indir_nat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/data/national_jur"
-indir_subnat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/data/subnat_jur"
+indir_nat = "/Users/gd/Desktop/wcpd_temp/data/nat_jur"
+indir_subnat = "/Users/gd/Desktop/wcpd_temp/data/subnat_jur"
 
 nat_jur = concatenate(indir_nat)
 subnat_jur = concatenate(indir_subnat)
@@ -41,12 +41,12 @@ all_jur = pd.concat([nat_jur, subnat_jur])
 
 # Data type pre-processing
 
-all_jur["Tax_dummy"] = pd.to_numeric(all_jur["Tax_dummy"], errors='coerce')
-all_jur["ETS_dummy"] = pd.to_numeric(all_jur["ETS_dummy"], errors='coerce')
-all_jur["Tax_dummy"] = all_jur["Tax_dummy"].fillna(0)
-all_jur["ETS_dummy"] = all_jur["ETS_dummy"].fillna(0)
-all_jur["Tax_dummy"] = all_jur["Tax_dummy"].astype(int)
-all_jur["ETS_dummy"] = all_jur["ETS_dummy"].astype(int)
+all_jur["tax_dummy"] = pd.to_numeric(all_jur["tax_dummy"], errors='coerce')
+all_jur["ets_dummy"] = pd.to_numeric(all_jur["ets_dummy"], errors='coerce')
+all_jur["tax_dummy"] = all_jur["tax_dummy"].fillna(0)
+all_jur["ets_dummy"] = all_jur["ets_dummy"].fillna(0)
+all_jur["tax_dummy"] = all_jur["tax_dummy"].astype(int)
+all_jur["ets_dummy"] = all_jur["ets_dummy"].astype(int)
 
 # Aggregate at IPCC sector level (from product level)
  
@@ -56,13 +56,13 @@ all_jur_agg = all_jur_agg.reset_index()
 # Replace all '3' values (which indicate that all fuels are covered) with '1'
 # and all other values with '0'
 
-all_jur_agg["Tax_dummy"] = np.where(all_jur_agg.Tax_dummy==3,1,0)
-all_jur_agg["ETS_dummy"] = np.where(all_jur_agg.ETS_dummy==3,1,0)
+all_jur_agg["tax_dummy"] = np.where(all_jur_agg.tax_dummy==3,1,0)
+all_jur_agg["ets_dummy"] = np.where(all_jur_agg.ets_dummy==3,1,0)
 
 # Aggregate sectors dummy calculation
 
 # IPCC code levels
-ipcc_codes = pd.read_csv("/Users/gd/OneDrive - rff/Documents/Research/projects/ecp/wcpd_dataset/dataset_aux_files/other/IPCC2006_category_codes_links.csv")
+ipcc_codes = pd.read_csv("/Users/gd/OneDrive - rff/Documents/Research/projects/ecp/wcpd_dataset/aux_files/other/IPCC2006_category_codes_links.csv")
 
 ipcc_sec_subsec_dict = defaultdict(list)
 
