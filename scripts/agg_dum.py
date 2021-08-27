@@ -80,9 +80,22 @@ level_1 = [x for x in list(ipcc_codes.IPCC_CODE.unique()) if len(x) == 1]
 
 ipcc_code_levels = [level_5, level_4, level_3, level_2, level_1]
 
+
+# Jurisdictions with carbon price
+cp_jur = all_jur[["Jurisdiction", "Year", "IPCC_cat_code", "Product", "tax_dummy", "ets_dummy"]].copy()
+cp_jur["all_schemes"] = cp_jur.tax_dummy+cp_jur.ets_dummy
+cp_jur = cp_jur.loc[cp_jur.all_schemes>0,:]
+cp_jur_list = cp_jur.Jurisdiction.unique()
+
 # For each level, check whether all values for lower disaggregation level are equal to 1
-for jur in all_jur.Jurisdiction.unique():
-    for yr in all_jur.Year.unique():
+for jur in cp_jur_list:
+    print(jur)
+    
+    years = cp_jur.loc[(cp_jur.Jurisdiction==jur) & (cp_jur.all_schemes>0), :]
+    years_list = years.Year.unique()
+    
+    for yr in years_list:
+        print(yr)
         for level in [level_5]:#ipcc_code_levels:
             for ipcc_code in level:
 
@@ -102,7 +115,26 @@ for jur in all_jur.Jurisdiction.unique():
                 all_jur.loc[(all_jur.Jurisdiction==jur) & (all_jur.Year==yr) & (all_jur.IPCC_cat_code==ipcc_code), "ets_dummy"] = x_ets
 
 
-                
+# Jurisdiction lists
+
+ctry_list = list(nat_jur.Jurisdiction.unique())
+subnat_list = list(subnat_jur.Jurisdiction.unique())
+all_jur_list = ctry_list + subnat_list
+
+# Breaking up dataframe into single jurisdiction .csv files
+std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
+countries_dic = dict(zip(ctry_list, std_country_names))
+
+std_subnat_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in subnat_list]
+subnat_dic = dict(zip(subnat_list, std_subnat_names))
+
+
+
+for jur in countries_dic:
+    all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/Desktop/wcpd_temp/data/nat_jur/CP_"+countries_dic[jur]+".csv", index=None)
+for jur in subnat_dic:
+    all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/Desktop/wcpd_temp/data/subnat_jur/CP_"+subnat_dic[jur]+".csv", index=None)
+                    
             
             
             
