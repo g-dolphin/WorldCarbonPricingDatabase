@@ -96,7 +96,7 @@ for jur in cp_jur_list:
     
     for yr in years_list:
         print(yr)
-        for level in [level_5]:#ipcc_code_levels:
+        for level in ipcc_code_levels:
             for ipcc_code in level:
 
                 if len(ipcc_sec_subsec_dict[ipcc_code]) != 0: #check the list is not empty
@@ -113,7 +113,6 @@ for jur in cp_jur_list:
 
                 all_jur.loc[(all_jur.Jurisdiction==jur) & (all_jur.Year==yr) & (all_jur.IPCC_cat_code==ipcc_code), "tax_dummy"] = x_tax
                 all_jur.loc[(all_jur.Jurisdiction==jur) & (all_jur.Year==yr) & (all_jur.IPCC_cat_code==ipcc_code), "ets_dummy"] = x_ets
-
 
 # Jurisdiction lists
 
