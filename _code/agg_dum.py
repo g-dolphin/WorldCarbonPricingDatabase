@@ -129,10 +129,12 @@ subnat_dic = dict(zip(subnat_list, std_subnat_names))
 
 
 
-for jur in countries_dic:
-    all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/Desktop/wcpd_temp/data/nat_jur/CP_"+countries_dic[jur]+".csv", index=None)
-for jur in subnat_dic:
-    all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/Desktop/wcpd_temp/data/subnat_jur/CP_"+subnat_dic[jur]+".csv", index=None)
+for jur in cp_jur_list:#countries_dic:
+    if jur in countries_dic.keys():
+        all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/Desktop/wcpd_temp/data/nat_jur/CP_"+countries_dic[jur]+".csv", index=None)
+for jur in cp_jur_list:#subnat_dic:
+    if jur in subnat_dic.keys():
+        all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/Desktop/wcpd_temp/data/subnat_jur/CP_"+subnat_dic[jur]+".csv", index=None)
                     
             
             
