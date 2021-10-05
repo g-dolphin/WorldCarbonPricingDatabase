@@ -5967,9 +5967,9 @@ New Jersey,2009,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2009,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2009,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2009,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Jersey,2009,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
-New Jersey,2009,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
-New Jersey,2009,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
+New Jersey,2009,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
+New Jersey,2009,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
+New Jersey,2009,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
 New Jersey,2009,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2009,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2009,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6265,9 +6265,9 @@ New Jersey,2010,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2010,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2010,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2010,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Jersey,2010,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
-New Jersey,2010,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
-New Jersey,2010,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
+New Jersey,2010,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
+New Jersey,2010,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
+New Jersey,2010,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
 New Jersey,2010,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2010,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2010,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6563,9 +6563,9 @@ New Jersey,2011,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2011,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2011,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2011,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Jersey,2011,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
-New Jersey,2011,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
-New Jersey,2011,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
+New Jersey,2011,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
+New Jersey,2011,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
+New Jersey,2011,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
 New Jersey,2011,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2011,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2011,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8649,9 +8649,9 @@ New Jersey,2018,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2018,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2018,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2018,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Jersey,2018,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
-New Jersey,2018,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
-New Jersey,2018,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
+New Jersey,2018,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
+New Jersey,2018,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
+New Jersey,2018,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
 New Jersey,2018,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2018,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2018,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8947,9 +8947,9 @@ New Jersey,2019,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2019,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2019,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2019,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Jersey,2019,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
-New Jersey,2019,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
-New Jersey,2019,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
+New Jersey,2019,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
+New Jersey,2019,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
+New Jersey,2019,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
 New Jersey,2019,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2019,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2019,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9245,9 +9245,9 @@ New Jersey,2020,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2020,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2020,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2020,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Jersey,2020,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
-New Jersey,2020,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
-New Jersey,2020,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
+New Jersey,2020,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
+New Jersey,2020,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
+New Jersey,2020,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
 New Jersey,2020,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2020,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2020,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9543,9 +9543,9 @@ New Jersey,2021,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2021,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2021,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2021,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Jersey,2021,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,,
-New Jersey,2021,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,,
-New Jersey,2021,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,,
+New Jersey,2021,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,,
+New Jersey,2021,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,,
+New Jersey,2021,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,,
 New Jersey,2021,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2021,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2021,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
