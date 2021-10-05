@@ -76,9 +76,11 @@ cp_all.loc[index3, 'IPCC_cat_code_5th'] = Extract(cp_all.loc[index3, 'IPCC_cat_c
 cp_all.loc[index3, 'IPCC_cat_code_6th'] = Extract(cp_all.loc[index3, 'IPCC_cat_code_full'], 5)
 
 ## Replace all the blank space and drop the IPCC_cat_code_full variable
-cp_all = cp_all.replace('_', '', regex=True)
+cp_all[['IPCC_cat_code_1st', 'IPCC_cat_code_2nd', 'IPCC_cat_code_3rd', 
+        'IPCC_cat_code_4th', 'IPCC_cat_code_5th', 'IPCC_cat_code_6th']] = cp_all[['IPCC_cat_code_1st', 'IPCC_cat_code_2nd', 'IPCC_cat_code_3rd', 
+        'IPCC_cat_code_4th', 'IPCC_cat_code_5th', 'IPCC_cat_code_6th']].replace('_', '', regex=True, inplace=True)
 cp_all.drop('IPCC_cat_code_full', inplace=True, axis=1)
-
+ 
 
 # Aggregate emissions over products for national jurisdictions
 ## note: by setting min_count=1, the sum of NaN is NaN but the sum of NaN and other values will be a valid number
@@ -143,15 +145,26 @@ for keys in keys_all:
 
 # merge cp_all_IPCC back to cp_all
 keys_all = ['Jurisdiction', 'Year', 'IPCC_cat_code', 'IPCC_cat_code_1st', 'IPCC_cat_code_2nd', 'IPCC_cat_code_3rd', 'IPCC_cat_code_4th', 'IPCC_cat_code_5th', 'IPCC_cat_code_6th']
-cp_all.drop(['tax_dummy_IPCC', 'ets_dummy_IPCC'],inplace=True,axis=1)
+cp_all.drop(['tax_dummy', 'ets_dummy', 'tax_dummy_IPCC', 'ets_dummy_IPCC'], inplace=True,axis=1)
+cp_all_IPCC.drop(['tax_dummy_IPCC', 'ets_dummy_IPCC', 'tax_curr_code',
+                  'ets_scheme_id', 'ets_price', 'ets_curr_code'],
+                 axis=1, inplace=True)
 cp_all = cp_all.merge(cp_all_IPCC, on=keys_all, how="left")
- 
+cp_all.drop(['IPCC_cat_code_1st', 'IPCC_cat_code_2nd', 'IPCC_cat_code_3rd', 
+             'IPCC_cat_code_4th', 'IPCC_cat_code_5th', 'IPCC_cat_code_6th', 'Unnamed: 0'],
+             axis=1, inplace=True)
+
+cp_all.rename(columns={'tax_IPCC_agg':'tax', 'ets_IPCC_agg':'ets'}, inplace=True)
 
 # set value to 1 if > 0
-cp_all["tax_IPCC_agg"] = np.where(cp_all.tax_IPCC_agg>0,1,0)
-cp_all["ets_IPCC_agg"] = np.where(cp_all.ets_IPCC_agg>0,1,0)
+cp_all["tax"] = np.where(cp_all.tax>0,1,0)
+cp_all["ets"] = np.where(cp_all.ets>0,1,0)
 
-
+# re-ordering columns
+cp_all = cp_all[['Jurisdiction', 'Year', 'IPCC_cat_code', 'Product', 'tax',
+                 'ets', 'tax_scheme_id', 'tax_rate_excl_ex_clcu', 'tax_ex_rate', 
+                 'tax_rate_incl_ex_clcu','tax_curr_code', 'ets_scheme_id', 
+                 'ets_price', 'ets_curr_code']]
 
 # Write files
 ctry_list = list(cp_nat.Jurisdiction.unique())
@@ -166,13 +179,12 @@ std_subnat_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x 
 subnat_dic = dict(zip(subnat_list, std_subnat_names))
 
 
-
 for jur in countries_dic:
     if jur in countries_dic.keys():
-        cp_all.loc[cp_all.Jurisdiction==jur, :].to_csv("/Users/gd/Desktop/wcpd_temp/data/nat_jur/CP_"+countries_dic[jur]+".csv", index=None)
+        cp_all.loc[cp_all.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_data/national/CP_"+countries_dic[jur]+".csv", index=None)
 for jur in subnat_dic:
     if jur in subnat_dic.keys():
-        cp_all.loc[cp_all.Jurisdiction==jur, :].to_csv("/Users/gd/Desktop/wcpd_temp/data/subnat_jur/CP_"+subnat_dic[jur]+".csv", index=None)
+        cp_all.loc[cp_all.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_data/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
                     
 
 
