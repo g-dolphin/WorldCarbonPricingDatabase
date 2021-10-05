@@ -5967,9 +5967,9 @@ New Hampshire,2009,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2009,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2009,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2009,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2009,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
-New Hampshire,2009,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
-New Hampshire,2009,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
+New Hampshire,2009,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
+New Hampshire,2009,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
+New Hampshire,2009,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
 New Hampshire,2009,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2009,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2009,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6265,9 +6265,9 @@ New Hampshire,2010,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2010,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2010,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2010,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2010,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
-New Hampshire,2010,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
-New Hampshire,2010,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
+New Hampshire,2010,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
+New Hampshire,2010,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
+New Hampshire,2010,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
 New Hampshire,2010,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2010,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2010,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6563,9 +6563,9 @@ New Hampshire,2011,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2011,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2011,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2011,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2011,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
-New Hampshire,2011,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
-New Hampshire,2011,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
+New Hampshire,2011,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
+New Hampshire,2011,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
+New Hampshire,2011,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
 New Hampshire,2011,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2011,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2011,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6861,9 +6861,9 @@ New Hampshire,2012,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2012,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2012,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2012,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2012,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,2.65,USD
-New Hampshire,2012,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,2.65,USD
-New Hampshire,2012,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,2.65,USD
+New Hampshire,2012,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,2.65,USD
+New Hampshire,2012,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,2.65,USD
+New Hampshire,2012,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,2.65,USD
 New Hampshire,2012,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2012,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2012,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7159,9 +7159,9 @@ New Hampshire,2013,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2013,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2013,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2013,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2013,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,3.45,USD
-New Hampshire,2013,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,3.45,USD
-New Hampshire,2013,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,3.45,USD
+New Hampshire,2013,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,3.45,USD
+New Hampshire,2013,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,3.45,USD
+New Hampshire,2013,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,3.45,USD
 New Hampshire,2013,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2013,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2013,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7457,9 +7457,9 @@ New Hampshire,2014,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2014,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2014,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2014,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2014,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,5.11,USD
-New Hampshire,2014,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,5.11,USD
-New Hampshire,2014,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,5.11,USD
+New Hampshire,2014,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,5.11,USD
+New Hampshire,2014,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,5.11,USD
+New Hampshire,2014,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,5.11,USD
 New Hampshire,2014,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2014,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2014,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7755,9 +7755,9 @@ New Hampshire,2015,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2015,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2015,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2015,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2015,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,7.28,USD
-New Hampshire,2015,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,7.28,USD
-New Hampshire,2015,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,7.28,USD
+New Hampshire,2015,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,7.28,USD
+New Hampshire,2015,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,7.28,USD
+New Hampshire,2015,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,7.28,USD
 New Hampshire,2015,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2015,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2015,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8053,9 +8053,9 @@ New Hampshire,2016,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2016,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2016,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2016,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2016,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,4.99,USD
-New Hampshire,2016,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,4.99,USD
-New Hampshire,2016,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,4.99,USD
+New Hampshire,2016,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,4.99,USD
+New Hampshire,2016,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,4.99,USD
+New Hampshire,2016,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,4.99,USD
 New Hampshire,2016,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2016,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2016,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8351,9 +8351,9 @@ New Hampshire,2017,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2017,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2017,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2017,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2017,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,4.32,USD
-New Hampshire,2017,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,4.32,USD
-New Hampshire,2017,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,4.32,USD
+New Hampshire,2017,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,4.32,USD
+New Hampshire,2017,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,4.32,USD
+New Hampshire,2017,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,4.32,USD
 New Hampshire,2017,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2017,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2017,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8649,9 +8649,9 @@ New Hampshire,2018,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2018,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2018,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2018,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2018,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
-New Hampshire,2018,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
-New Hampshire,2018,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
+New Hampshire,2018,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
+New Hampshire,2018,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
+New Hampshire,2018,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
 New Hampshire,2018,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2018,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2018,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8947,9 +8947,9 @@ New Hampshire,2019,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2019,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2019,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2019,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2019,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
-New Hampshire,2019,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
-New Hampshire,2019,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
+New Hampshire,2019,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
+New Hampshire,2019,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
+New Hampshire,2019,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
 New Hampshire,2019,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2019,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2019,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9245,9 +9245,9 @@ New Hampshire,2020,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2020,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2020,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2020,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2020,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
-New Hampshire,2020,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
-New Hampshire,2020,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
+New Hampshire,2020,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
+New Hampshire,2020,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
+New Hampshire,2020,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
 New Hampshire,2020,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2020,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2020,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9543,9 +9543,9 @@ New Hampshire,2021,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2021,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2021,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2021,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-New Hampshire,2021,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,,
-New Hampshire,2021,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,,
-New Hampshire,2021,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,,
+New Hampshire,2021,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,,
+New Hampshire,2021,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,,
+New Hampshire,2021,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,,
 New Hampshire,2021,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2021,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 New Hampshire,2021,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA

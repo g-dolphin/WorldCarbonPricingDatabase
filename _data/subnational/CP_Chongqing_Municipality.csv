@@ -7450,19 +7450,19 @@ Chongqing Municipality,2013,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2013,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2013,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chncqets,30.74,
-Chongqing Municipality,2014,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chncqets,30.74,
-Chongqing Municipality,2014,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chncqets,30.74,
+Chongqing Municipality,2014,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
+Chongqing Municipality,2014,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
+Chongqing Municipality,2014,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
 Chongqing Municipality,2014,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7478,9 +7478,9 @@ Chongqing Municipality,2014,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chncqets,30.74,
-Chongqing Municipality,2014,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chncqets,30.74,
-Chongqing Municipality,2014,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chncqets,30.74,
+Chongqing Municipality,2014,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
+Chongqing Municipality,2014,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
+Chongqing Municipality,2014,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
 Chongqing Municipality,2014,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7633,7 +7633,7 @@ Chongqing Municipality,2014,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,2A1,NA,0,0,NA,NA,NA,NA,NA,chncqets,30.74,
+Chongqing Municipality,2014,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
 Chongqing Municipality,2014,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7647,7 +7647,7 @@ Chongqing Municipality,2014,2B10,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,2B5,NA,0,0,NA,NA,NA,NA,NA,chncqets,30.74,
+Chongqing Municipality,2014,2B5,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
 Chongqing Municipality,2014,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7661,9 +7661,9 @@ Chongqing Municipality,2014,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,2C1,NA,0,0,NA,NA,NA,NA,NA,chncqets,30.74,
-Chongqing Municipality,2014,2C2,NA,0,0,NA,NA,NA,NA,NA,chncqets,30.74,
-Chongqing Municipality,2014,2C3,NA,0,0,NA,NA,NA,NA,NA,chncqets,30.74,
+Chongqing Municipality,2014,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
+Chongqing Municipality,2014,2C2,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
+Chongqing Municipality,2014,2C3,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,30.74,
 Chongqing Municipality,2014,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2C5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2C6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7748,19 +7748,19 @@ Chongqing Municipality,2014,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chncqets,16.69,
-Chongqing Municipality,2015,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chncqets,16.69,
-Chongqing Municipality,2015,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chncqets,16.69,
+Chongqing Municipality,2015,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
+Chongqing Municipality,2015,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
+Chongqing Municipality,2015,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
 Chongqing Municipality,2015,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7776,9 +7776,9 @@ Chongqing Municipality,2015,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chncqets,16.69,
-Chongqing Municipality,2015,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chncqets,16.69,
-Chongqing Municipality,2015,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chncqets,16.69,
+Chongqing Municipality,2015,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
+Chongqing Municipality,2015,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
+Chongqing Municipality,2015,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
 Chongqing Municipality,2015,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7931,7 +7931,7 @@ Chongqing Municipality,2015,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,2A1,NA,0,0,NA,NA,NA,NA,NA,chncqets,16.69,
+Chongqing Municipality,2015,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
 Chongqing Municipality,2015,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7945,7 +7945,7 @@ Chongqing Municipality,2015,2B10,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,2B5,NA,0,0,NA,NA,NA,NA,NA,chncqets,16.69,
+Chongqing Municipality,2015,2B5,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
 Chongqing Municipality,2015,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7959,9 +7959,9 @@ Chongqing Municipality,2015,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,2C1,NA,0,0,NA,NA,NA,NA,NA,chncqets,16.69,
-Chongqing Municipality,2015,2C2,NA,0,0,NA,NA,NA,NA,NA,chncqets,16.69,
-Chongqing Municipality,2015,2C3,NA,0,0,NA,NA,NA,NA,NA,chncqets,16.69,
+Chongqing Municipality,2015,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
+Chongqing Municipality,2015,2C2,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
+Chongqing Municipality,2015,2C3,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,16.69,
 Chongqing Municipality,2015,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2C5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2C6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8046,19 +8046,19 @@ Chongqing Municipality,2015,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chncqets,17.43,
-Chongqing Municipality,2016,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chncqets,17.43,
-Chongqing Municipality,2016,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chncqets,17.43,
+Chongqing Municipality,2016,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
+Chongqing Municipality,2016,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
+Chongqing Municipality,2016,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
 Chongqing Municipality,2016,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8074,9 +8074,9 @@ Chongqing Municipality,2016,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chncqets,17.43,
-Chongqing Municipality,2016,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chncqets,17.43,
-Chongqing Municipality,2016,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chncqets,17.43,
+Chongqing Municipality,2016,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
+Chongqing Municipality,2016,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
+Chongqing Municipality,2016,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
 Chongqing Municipality,2016,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8229,7 +8229,7 @@ Chongqing Municipality,2016,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,2A1,NA,0,0,NA,NA,NA,NA,NA,chncqets,17.43,
+Chongqing Municipality,2016,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
 Chongqing Municipality,2016,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8243,7 +8243,7 @@ Chongqing Municipality,2016,2B10,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,2B5,NA,0,0,NA,NA,NA,NA,NA,chncqets,17.43,
+Chongqing Municipality,2016,2B5,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
 Chongqing Municipality,2016,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8257,9 +8257,9 @@ Chongqing Municipality,2016,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,2C1,NA,0,0,NA,NA,NA,NA,NA,chncqets,17.43,
-Chongqing Municipality,2016,2C2,NA,0,0,NA,NA,NA,NA,NA,chncqets,17.43,
-Chongqing Municipality,2016,2C3,NA,0,0,NA,NA,NA,NA,NA,chncqets,17.43,
+Chongqing Municipality,2016,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
+Chongqing Municipality,2016,2C2,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
+Chongqing Municipality,2016,2C3,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,17.43,
 Chongqing Municipality,2016,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2C5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2C6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8344,19 +8344,19 @@ Chongqing Municipality,2016,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chncqets,4.51,
-Chongqing Municipality,2017,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chncqets,4.51,
-Chongqing Municipality,2017,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chncqets,4.51,
+Chongqing Municipality,2017,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
+Chongqing Municipality,2017,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
+Chongqing Municipality,2017,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
 Chongqing Municipality,2017,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8372,9 +8372,9 @@ Chongqing Municipality,2017,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chncqets,4.51,
-Chongqing Municipality,2017,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chncqets,4.51,
-Chongqing Municipality,2017,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chncqets,4.51,
+Chongqing Municipality,2017,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
+Chongqing Municipality,2017,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
+Chongqing Municipality,2017,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
 Chongqing Municipality,2017,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8527,7 +8527,7 @@ Chongqing Municipality,2017,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,2A1,NA,0,0,NA,NA,NA,NA,NA,chncqets,4.51,
+Chongqing Municipality,2017,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
 Chongqing Municipality,2017,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8541,7 +8541,7 @@ Chongqing Municipality,2017,2B10,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,2B5,NA,0,0,NA,NA,NA,NA,NA,chncqets,4.51,
+Chongqing Municipality,2017,2B5,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
 Chongqing Municipality,2017,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8555,9 +8555,9 @@ Chongqing Municipality,2017,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,2C1,NA,0,0,NA,NA,NA,NA,NA,chncqets,4.51,
-Chongqing Municipality,2017,2C2,NA,0,0,NA,NA,NA,NA,NA,chncqets,4.51,
-Chongqing Municipality,2017,2C3,NA,0,0,NA,NA,NA,NA,NA,chncqets,4.51,
+Chongqing Municipality,2017,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
+Chongqing Municipality,2017,2C2,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
+Chongqing Municipality,2017,2C3,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,4.51,
 Chongqing Municipality,2017,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2C5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2C6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8642,19 +8642,19 @@ Chongqing Municipality,2017,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chncqets,9.4,
-Chongqing Municipality,2018,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chncqets,9.4,
-Chongqing Municipality,2018,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chncqets,9.4,
+Chongqing Municipality,2018,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
+Chongqing Municipality,2018,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
+Chongqing Municipality,2018,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
 Chongqing Municipality,2018,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8670,9 +8670,9 @@ Chongqing Municipality,2018,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chncqets,9.4,
-Chongqing Municipality,2018,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chncqets,9.4,
-Chongqing Municipality,2018,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chncqets,9.4,
+Chongqing Municipality,2018,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
+Chongqing Municipality,2018,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
+Chongqing Municipality,2018,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
 Chongqing Municipality,2018,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8825,7 +8825,7 @@ Chongqing Municipality,2018,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,2A1,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.4,
+Chongqing Municipality,2018,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
 Chongqing Municipality,2018,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8839,7 +8839,7 @@ Chongqing Municipality,2018,2B10,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,2B5,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.4,
+Chongqing Municipality,2018,2B5,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
 Chongqing Municipality,2018,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8853,9 +8853,9 @@ Chongqing Municipality,2018,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,2C1,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.4,
-Chongqing Municipality,2018,2C2,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.4,
-Chongqing Municipality,2018,2C3,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.4,
+Chongqing Municipality,2018,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
+Chongqing Municipality,2018,2C2,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
+Chongqing Municipality,2018,2C3,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.4,
 Chongqing Municipality,2018,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2C5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2C6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8940,19 +8940,19 @@ Chongqing Municipality,2018,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chncqets,9.74,
-Chongqing Municipality,2019,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chncqets,9.74,
-Chongqing Municipality,2019,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chncqets,9.74,
+Chongqing Municipality,2019,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
+Chongqing Municipality,2019,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
+Chongqing Municipality,2019,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
 Chongqing Municipality,2019,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8968,9 +8968,9 @@ Chongqing Municipality,2019,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chncqets,9.74,
-Chongqing Municipality,2019,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chncqets,9.74,
-Chongqing Municipality,2019,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chncqets,9.74,
+Chongqing Municipality,2019,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
+Chongqing Municipality,2019,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
+Chongqing Municipality,2019,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
 Chongqing Municipality,2019,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9123,7 +9123,7 @@ Chongqing Municipality,2019,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,2A1,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.74,
+Chongqing Municipality,2019,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
 Chongqing Municipality,2019,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9137,7 +9137,7 @@ Chongqing Municipality,2019,2B10,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,2B5,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.74,
+Chongqing Municipality,2019,2B5,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
 Chongqing Municipality,2019,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9151,9 +9151,9 @@ Chongqing Municipality,2019,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,2C1,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.74,
-Chongqing Municipality,2019,2C2,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.74,
-Chongqing Municipality,2019,2C3,NA,0,0,NA,NA,NA,NA,NA,chncqets,9.74,
+Chongqing Municipality,2019,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
+Chongqing Municipality,2019,2C2,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
+Chongqing Municipality,2019,2C3,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,9.74,
 Chongqing Municipality,2019,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2C5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2C6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9238,19 +9238,19 @@ Chongqing Municipality,2019,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chncqets,26.38,
-Chongqing Municipality,2020,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chncqets,26.38,
-Chongqing Municipality,2020,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chncqets,26.38,
+Chongqing Municipality,2020,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
+Chongqing Municipality,2020,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
+Chongqing Municipality,2020,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
 Chongqing Municipality,2020,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9266,9 +9266,9 @@ Chongqing Municipality,2020,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chncqets,26.38,
-Chongqing Municipality,2020,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chncqets,26.38,
-Chongqing Municipality,2020,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chncqets,26.38,
+Chongqing Municipality,2020,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
+Chongqing Municipality,2020,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
+Chongqing Municipality,2020,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
 Chongqing Municipality,2020,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9421,7 +9421,7 @@ Chongqing Municipality,2020,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,2A1,NA,0,0,NA,NA,NA,NA,NA,chncqets,26.38,
+Chongqing Municipality,2020,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
 Chongqing Municipality,2020,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9435,7 +9435,7 @@ Chongqing Municipality,2020,2B10,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,2B5,NA,0,0,NA,NA,NA,NA,NA,chncqets,26.38,
+Chongqing Municipality,2020,2B5,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
 Chongqing Municipality,2020,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9449,9 +9449,9 @@ Chongqing Municipality,2020,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,2C1,NA,0,0,NA,NA,NA,NA,NA,chncqets,26.38,
-Chongqing Municipality,2020,2C2,NA,0,0,NA,NA,NA,NA,NA,chncqets,26.38,
-Chongqing Municipality,2020,2C3,NA,0,0,NA,NA,NA,NA,NA,chncqets,26.38,
+Chongqing Municipality,2020,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
+Chongqing Municipality,2020,2C2,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
+Chongqing Municipality,2020,2C3,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,26.38,
 Chongqing Municipality,2020,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2C5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2C6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9536,19 +9536,19 @@ Chongqing Municipality,2020,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chncqets,,
-Chongqing Municipality,2021,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chncqets,,
-Chongqing Municipality,2021,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chncqets,,
+Chongqing Municipality,2021,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
+Chongqing Municipality,2021,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
+Chongqing Municipality,2021,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
 Chongqing Municipality,2021,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9564,9 +9564,9 @@ Chongqing Municipality,2021,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chncqets,,
-Chongqing Municipality,2021,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chncqets,,
-Chongqing Municipality,2021,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chncqets,,
+Chongqing Municipality,2021,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
+Chongqing Municipality,2021,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
+Chongqing Municipality,2021,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
 Chongqing Municipality,2021,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9719,7 +9719,7 @@ Chongqing Municipality,2021,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,2A1,NA,0,0,NA,NA,NA,NA,NA,chncqets,,
+Chongqing Municipality,2021,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
 Chongqing Municipality,2021,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9733,7 +9733,7 @@ Chongqing Municipality,2021,2B10,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,2B5,NA,0,0,NA,NA,NA,NA,NA,chncqets,,
+Chongqing Municipality,2021,2B5,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
 Chongqing Municipality,2021,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9747,9 +9747,9 @@ Chongqing Municipality,2021,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,2C1,NA,0,0,NA,NA,NA,NA,NA,chncqets,,
-Chongqing Municipality,2021,2C2,NA,0,0,NA,NA,NA,NA,NA,chncqets,,
-Chongqing Municipality,2021,2C3,NA,0,0,NA,NA,NA,NA,NA,chncqets,,
+Chongqing Municipality,2021,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
+Chongqing Municipality,2021,2C2,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
+Chongqing Municipality,2021,2C3,NA,0,1,NA,NA,NA,NA,NA,chn_cq_ets,,
 Chongqing Municipality,2021,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2C5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2C6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA

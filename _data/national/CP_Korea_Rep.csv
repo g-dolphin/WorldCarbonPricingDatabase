@@ -7748,85 +7748,85 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2014,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2014,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A1B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A1B,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,1A1B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A1B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A1B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,1A1C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2A,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2B,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2C,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2D,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2E,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2F,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2F,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2F,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2G,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2G,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2G,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2H,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2H,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2H,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2I,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2I,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2I,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2J,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2J,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2J,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2C,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2C,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2C,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2D,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2E,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2E,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2E,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2F,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2F,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2F,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2G,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2G,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2G,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2H,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2H,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2H,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2I,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2I,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2I,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2J,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2J,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2J,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,1A2K,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2K,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2K,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A2L,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2L,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2L,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A2M,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2L,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2L,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2L,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2M,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2M,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A2M,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7851,12 +7851,12 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2015,1A4,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A4A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A4A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A4A,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A4B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A4B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,1A4B,Oil,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,1A4A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A4A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A4A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A4B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A4B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,1A4B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,1A4C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7931,46 +7931,46 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2015,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2A1,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2A2,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2A3,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,2A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2A2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2A3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2A4A,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,2A4A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,2A4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2A4C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2A4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2B1,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B10,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B2,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B3,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B4,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B5,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B6,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B7,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,2B1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B10,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2B8A,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B8B,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B8C,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B8D,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B8E,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B8F,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,2B8A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B8B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B8C,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B8D,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B8E,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B8F,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2B9A,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2B9B,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,2B9A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2B9B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2C1,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2C2,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2C3,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2C4,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2C5,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2C6,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2C7,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,2C1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2C2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2C3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2C4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2C5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2C6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2C7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,2D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2D1,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2D2,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2D3,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2D4,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,2D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2D3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2D4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,2E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2F1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7985,8 +7985,8 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2015,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2H1,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,2H2,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,2H1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,2H2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8030,7 +8030,7 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2015,3D2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,4A1,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,4A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,4A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8038,93 +8038,93 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2015,4C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,4D1,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
-"Korea, Rep.",2015,4D2,NA,0,0,NA,NA,NA,NA,NA,korets,10506.12,KRW
+"Korea, Rep.",2015,4D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
+"Korea, Rep.",2015,4D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,10506.12,KRW
 "Korea, Rep.",2015,4E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A1B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A1B,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,1A1B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A1B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A1B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,1A1C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2A,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2B,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2C,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2D,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2E,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2F,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2F,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2F,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2G,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2G,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2G,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2H,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2H,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2H,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2I,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2I,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2I,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2J,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2J,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2J,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2C,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2C,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2C,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2D,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2E,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2E,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2E,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2F,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2F,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2F,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2G,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2G,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2G,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2H,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2H,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2H,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2I,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2I,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2I,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2J,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2J,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2J,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,1A2K,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2K,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2K,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A2L,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2L,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2L,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A2M,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2L,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2L,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2L,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2M,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2M,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A2M,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8149,12 +8149,12 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2016,1A4,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A4A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A4A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A4A,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A4B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A4B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,1A4B,Oil,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,1A4A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A4A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A4A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A4B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A4B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,1A4B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,1A4C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8229,46 +8229,46 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2016,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2A1,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2A2,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2A3,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,2A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2A2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2A3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2A4A,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,2A4A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,2A4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2A4C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2A4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2B1,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B10,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B2,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B3,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B4,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B5,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B6,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B7,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,2B1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B10,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2B8A,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B8B,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B8C,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B8D,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B8E,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B8F,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,2B8A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B8B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B8C,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B8D,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B8E,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B8F,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2B9A,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2B9B,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,2B9A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2B9B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2C1,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2C2,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2C3,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2C4,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2C5,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2C6,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2C7,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,2C1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2C2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2C3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2C4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2C5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2C6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2C7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,2D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2D1,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2D2,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2D3,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2D4,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,2D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2D3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2D4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,2E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2F1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8283,8 +8283,8 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2016,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2H1,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,2H2,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,2H1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,2H2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8328,7 +8328,7 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2016,3D2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,4A1,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,4A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,4A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8336,93 +8336,93 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2016,4C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,4D1,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
-"Korea, Rep.",2016,4D2,NA,0,0,NA,NA,NA,NA,NA,korets,17216.87,KRW
+"Korea, Rep.",2016,4D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
+"Korea, Rep.",2016,4D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,17216.87,KRW
 "Korea, Rep.",2016,4E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A1B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A1B,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,1A1B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A1B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A1B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,1A1C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2A,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2B,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2C,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2D,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2E,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2F,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2F,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2F,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2G,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2G,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2G,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2H,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2H,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2H,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2I,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2I,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2I,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2J,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2J,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2J,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2C,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2C,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2C,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2D,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2E,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2E,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2E,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2F,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2F,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2F,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2G,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2G,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2G,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2H,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2H,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2H,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2I,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2I,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2I,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2J,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2J,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2J,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,1A2K,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2K,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2K,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A2L,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2L,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2L,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A2M,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2L,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2L,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2L,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2M,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2M,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A2M,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8447,12 +8447,12 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2017,1A4,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A4A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A4A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A4A,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A4B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A4B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,1A4B,Oil,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,1A4A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A4A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A4A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A4B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A4B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,1A4B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,1A4C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8527,46 +8527,46 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2017,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2A1,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2A2,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2A3,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,2A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2A2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2A3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2A4A,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,2A4A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,2A4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2A4C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2A4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2B1,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B10,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B2,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B3,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B4,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B5,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B6,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B7,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,2B1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B10,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2B8A,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B8B,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B8C,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B8D,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B8E,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B8F,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,2B8A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B8B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B8C,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B8D,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B8E,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B8F,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2B9A,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2B9B,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,2B9A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2B9B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2C1,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2C2,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2C3,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2C4,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2C5,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2C6,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2C7,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,2C1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2C2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2C3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2C4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2C5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2C6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2C7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,2D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2D1,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2D2,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2D3,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2D4,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,2D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2D3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2D4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,2E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2F1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8581,8 +8581,8 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2017,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2H1,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,2H2,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,2H1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,2H2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8626,7 +8626,7 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2017,3D2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,4A1,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,4A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,4A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8634,93 +8634,93 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2017,4C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,4D1,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
-"Korea, Rep.",2017,4D2,NA,0,0,NA,NA,NA,NA,NA,korets,21416.26,KRW
+"Korea, Rep.",2017,4D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
+"Korea, Rep.",2017,4D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,21416.26,KRW
 "Korea, Rep.",2017,4E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1A2,Oil,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1A3,Natural gas,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1A3,Oil,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A1B,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1A3,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1A3,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A1B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,1A1C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A1C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2A,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2B,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2C,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2D,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2E,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2F,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2F,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2F,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2G,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2G,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2G,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2H,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2H,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2H,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2I,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2I,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2I,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2J,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2J,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2J,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2C,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2C,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2C,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2D,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2E,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2E,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2E,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2F,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2F,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2F,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2G,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2G,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2G,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2H,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2H,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2H,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2I,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2I,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2I,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2J,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2J,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2J,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,1A2K,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2K,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2K,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A2L,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2L,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2L,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A2M,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2L,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2L,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2L,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2M,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2M,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A2M,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8745,12 +8745,12 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2018,1A4,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A4A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A4A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A4A,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A4B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A4B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,1A4B,Oil,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,1A4A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A4A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A4A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A4B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A4B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,1A4B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,1A4C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8825,46 +8825,46 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2018,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2A1,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2A2,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2A3,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,2A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2A2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2A3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2A4A,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,2A4A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,2A4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2A4C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2A4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2B1,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B10,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B2,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B3,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B4,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B5,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B6,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B7,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,2B1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B10,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2B8A,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B8B,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B8C,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B8D,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B8E,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B8F,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,2B8A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B8B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B8C,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B8D,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B8E,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B8F,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2B9A,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2B9B,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,2B9A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2B9B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2C1,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2C2,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2C3,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2C4,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2C5,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2C6,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2C7,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,2C1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2C2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2C3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2C4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2C5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2C6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2C7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,2D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2D1,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2D2,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2D3,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2D4,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,2D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2D3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2D4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,2E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2F1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8879,8 +8879,8 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2018,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2H1,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,2H2,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,2H1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,2H2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8924,7 +8924,7 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2018,3D2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,4A1,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,4A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,4A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8932,93 +8932,93 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2018,4C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,4D1,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
-"Korea, Rep.",2018,4D2,NA,0,0,NA,NA,NA,NA,NA,korets,22727.05,KRW
+"Korea, Rep.",2018,4D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
+"Korea, Rep.",2018,4D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,22727.05,KRW
 "Korea, Rep.",2018,4E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1A2,Oil,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1A3,Natural gas,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1A3,Oil,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A1B,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1A3,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1A3,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A1B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,1A1C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A1C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2A,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2B,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2C,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2D,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2E,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2F,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2F,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2F,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2G,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2G,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2G,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2H,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2H,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2H,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2I,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2I,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2I,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2J,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2J,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2J,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2C,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2C,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2C,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2D,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2E,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2E,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2E,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2F,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2F,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2F,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2G,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2G,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2G,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2H,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2H,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2H,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2I,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2I,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2I,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2J,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2J,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2J,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,1A2K,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2K,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2K,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A2L,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2L,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2L,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A2M,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2L,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2L,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2L,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2M,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2M,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A2M,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9043,12 +9043,12 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2019,1A4,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A4A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A4A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A4A,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A4B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A4B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,1A4B,Oil,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,1A4A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A4A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A4A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A4B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A4B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,1A4B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,1A4C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9123,46 +9123,46 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2019,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2A1,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2A2,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2A3,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,2A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2A2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2A3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2A4A,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,2A4A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,2A4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2A4C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2A4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2B1,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B10,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B2,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B3,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B4,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B5,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B6,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B7,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,2B1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B10,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2B8A,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B8B,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B8C,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B8D,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B8E,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B8F,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,2B8A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B8B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B8C,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B8D,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B8E,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B8F,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2B9A,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2B9B,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,2B9A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2B9B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2C1,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2C2,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2C3,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2C4,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2C5,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2C6,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2C7,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,2C1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2C2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2C3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2C4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2C5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2C6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2C7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,2D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2D1,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2D2,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2D3,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2D4,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,2D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2D3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2D4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,2E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2F1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9177,8 +9177,8 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2019,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2H1,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,2H2,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,2H1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,2H2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9222,7 +9222,7 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2019,3D2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,4A1,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,4A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,4A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9230,93 +9230,93 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2019,4C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,4D1,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
-"Korea, Rep.",2019,4D2,NA,0,0,NA,NA,NA,NA,NA,korets,29821.54,KRW
+"Korea, Rep.",2019,4D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
+"Korea, Rep.",2019,4D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,29821.54,KRW
 "Korea, Rep.",2019,4E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1A2,Oil,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1A3,Natural gas,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1A3,Oil,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A1B,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1A3,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1A3,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A1B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,1A1C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A1C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2A,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2B,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2C,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2D,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2E,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2F,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2F,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2F,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2G,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2G,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2G,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2H,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2H,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2H,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2I,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2I,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2I,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2J,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2J,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2J,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2C,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2C,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2C,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2D,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2E,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2E,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2E,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2F,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2F,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2F,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2G,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2G,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2G,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2H,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2H,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2H,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2I,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2I,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2I,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2J,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2J,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2J,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,1A2K,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2K,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2K,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A2L,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2L,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2L,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A2M,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2L,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2L,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2L,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2M,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2M,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A2M,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9341,12 +9341,12 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2020,1A4,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A4A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A4A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A4A,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A4B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A4B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,1A4B,Oil,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,1A4A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A4A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A4A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A4B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A4B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,1A4B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,1A4C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9421,46 +9421,46 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2020,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2A1,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2A2,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2A3,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,2A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2A2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2A3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2A4A,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,2A4A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,2A4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2A4C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2A4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2B1,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B10,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B2,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B3,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B4,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B5,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B6,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B7,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,2B1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B10,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2B8A,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B8B,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B8C,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B8D,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B8E,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B8F,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,2B8A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B8B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B8C,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B8D,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B8E,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B8F,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2B9A,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2B9B,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,2B9A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2B9B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2C1,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2C2,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2C3,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2C4,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2C5,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2C6,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2C7,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,2C1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2C2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2C3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2C4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2C5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2C6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2C7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,2D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2D1,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2D2,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2D3,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2D4,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,2D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2D3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2D4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,2E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2F1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9475,8 +9475,8 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2020,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2H1,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,2H2,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,2H1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,2H2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9520,7 +9520,7 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2020,3D2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,4A1,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,4A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,4A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9528,108 +9528,108 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2020,4C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,4D1,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
-"Korea, Rep.",2020,4D2,NA,0,0,NA,NA,NA,NA,NA,korets,30163.91,KRW
+"Korea, Rep.",2020,4D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
+"Korea, Rep.",2020,4D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,30163.91,KRW
 "Korea, Rep.",2020,4E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1A2,Oil,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1A3,Natural gas,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1A3,Oil,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A1B,Oil,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1A3,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1A3,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A1B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,1A1C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A1C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2A,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2B,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2C,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2D,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2E,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2F,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2F,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2F,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2G,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2G,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2G,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2H,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2H,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2H,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2I,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2I,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2I,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2J,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2J,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2J,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2K,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2K,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2K,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2L,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2L,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2L,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A2M,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2C,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2C,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2C,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2D,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2E,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2E,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2E,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2F,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2F,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2F,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2G,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2G,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2G,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2H,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2H,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2H,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2I,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2I,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2I,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2J,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2J,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2J,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2K,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2K,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2K,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2L,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2L,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2L,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2M,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2M,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A2M,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3B,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3C,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3C,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3C,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3D,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3D,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3D,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3C,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3C,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3C,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3D,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3D,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3D,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3D2,Coal/peat,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3D2,Natural gas,0,1,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A3D2,Oil,0,1,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,1A3D2,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3D2,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A3D2,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,1A3E,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9639,12 +9639,12 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2021,1A4,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A4A,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A4A,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A4A,Oil,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A4B,Coal/peat,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A4B,Natural gas,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,1A4B,Oil,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,1A4A,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A4A,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A4A,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A4B,Coal/peat,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A4B,Natural gas,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,1A4B,Oil,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,1A4C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9719,46 +9719,46 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2021,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2A1,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2A2,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2A3,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,2A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2A2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2A3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2A4A,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,2A4A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,2A4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2A4C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2A4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2B1,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B10,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B2,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B3,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B4,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B5,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B6,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B7,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,2B1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B10,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2B8A,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B8B,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B8C,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B8D,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B8E,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B8F,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,2B8A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B8B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B8C,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B8D,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B8E,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B8F,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2B9A,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2B9B,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,2B9A,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2B9B,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2C1,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2C2,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2C3,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2C4,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2C5,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2C6,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2C7,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,2C1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2C2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2C3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2C4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2C5,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2C6,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2C7,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,2D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2D1,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2D2,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2D3,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2D4,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,2D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2D3,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2D4,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,2E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2F1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9773,8 +9773,8 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2021,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2H1,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,2H2,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,2H1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,2H2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9818,7 +9818,7 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2021,3D2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,4A1,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,4A1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,4A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9826,8 +9826,8 @@ Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_scheme_id,tax_rate_excl_ex_c
 "Korea, Rep.",2021,4C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,4D1,NA,0,0,NA,NA,NA,NA,NA,korets,,
-"Korea, Rep.",2021,4D2,NA,0,0,NA,NA,NA,NA,NA,korets,,
+"Korea, Rep.",2021,4D1,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
+"Korea, Rep.",2021,4D2,NA,0,1,NA,NA,NA,NA,NA,kor_ets,,
 "Korea, Rep.",2021,4E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA

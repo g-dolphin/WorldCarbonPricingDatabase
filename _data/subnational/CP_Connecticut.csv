@@ -5967,9 +5967,9 @@ Connecticut,2009,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2009,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2009,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2009,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2009,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
-Connecticut,2009,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
-Connecticut,2009,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,3.43,USD
+Connecticut,2009,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
+Connecticut,2009,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
+Connecticut,2009,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,3.43,USD
 Connecticut,2009,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2009,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2009,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6265,9 +6265,9 @@ Connecticut,2010,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2010,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2010,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2010,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2010,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
-Connecticut,2010,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
-Connecticut,2010,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,2.31,USD
+Connecticut,2010,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
+Connecticut,2010,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
+Connecticut,2010,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,2.31,USD
 Connecticut,2010,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2010,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2010,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6563,9 +6563,9 @@ Connecticut,2011,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2011,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2011,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2011,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2011,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
-Connecticut,2011,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
-Connecticut,2011,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,2.05,USD
+Connecticut,2011,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
+Connecticut,2011,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
+Connecticut,2011,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,2.05,USD
 Connecticut,2011,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2011,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2011,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6861,9 +6861,9 @@ Connecticut,2012,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2012,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2012,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2012,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2012,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,2.65,USD
-Connecticut,2012,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,2.65,USD
-Connecticut,2012,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,2.65,USD
+Connecticut,2012,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,2.65,USD
+Connecticut,2012,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,2.65,USD
+Connecticut,2012,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,2.65,USD
 Connecticut,2012,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2012,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2012,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7159,9 +7159,9 @@ Connecticut,2013,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2013,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2013,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2013,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2013,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,3.45,USD
-Connecticut,2013,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,3.45,USD
-Connecticut,2013,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,3.45,USD
+Connecticut,2013,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,3.45,USD
+Connecticut,2013,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,3.45,USD
+Connecticut,2013,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,3.45,USD
 Connecticut,2013,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2013,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2013,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7457,9 +7457,9 @@ Connecticut,2014,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2014,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2014,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2014,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2014,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,5.11,USD
-Connecticut,2014,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,5.11,USD
-Connecticut,2014,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,5.11,USD
+Connecticut,2014,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,5.11,USD
+Connecticut,2014,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,5.11,USD
+Connecticut,2014,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,5.11,USD
 Connecticut,2014,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2014,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2014,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7755,9 +7755,9 @@ Connecticut,2015,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2015,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2015,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2015,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2015,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,7.28,USD
-Connecticut,2015,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,7.28,USD
-Connecticut,2015,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,7.28,USD
+Connecticut,2015,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,7.28,USD
+Connecticut,2015,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,7.28,USD
+Connecticut,2015,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,7.28,USD
 Connecticut,2015,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2015,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2015,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8053,9 +8053,9 @@ Connecticut,2016,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2016,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2016,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2016,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2016,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,4.99,USD
-Connecticut,2016,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,4.99,USD
-Connecticut,2016,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,4.99,USD
+Connecticut,2016,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,4.99,USD
+Connecticut,2016,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,4.99,USD
+Connecticut,2016,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,4.99,USD
 Connecticut,2016,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2016,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2016,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8351,9 +8351,9 @@ Connecticut,2017,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2017,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2017,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2017,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2017,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,4.32,USD
-Connecticut,2017,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,4.32,USD
-Connecticut,2017,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,4.32,USD
+Connecticut,2017,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,4.32,USD
+Connecticut,2017,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,4.32,USD
+Connecticut,2017,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,4.32,USD
 Connecticut,2017,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2017,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2017,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8649,9 +8649,9 @@ Connecticut,2018,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2018,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2018,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2018,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2018,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
-Connecticut,2018,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
-Connecticut,2018,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,5.03,USD
+Connecticut,2018,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
+Connecticut,2018,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
+Connecticut,2018,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,5.03,USD
 Connecticut,2018,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2018,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2018,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8947,9 +8947,9 @@ Connecticut,2019,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2019,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2019,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2019,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2019,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
-Connecticut,2019,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
-Connecticut,2019,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,6.06,USD
+Connecticut,2019,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
+Connecticut,2019,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
+Connecticut,2019,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,6.06,USD
 Connecticut,2019,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2019,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2019,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9245,9 +9245,9 @@ Connecticut,2020,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2020,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2020,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2020,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2020,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
-Connecticut,2020,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
-Connecticut,2020,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,8.1,USD
+Connecticut,2020,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
+Connecticut,2020,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
+Connecticut,2020,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,8.1,USD
 Connecticut,2020,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2020,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2020,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9543,9 +9543,9 @@ Connecticut,2021,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2021,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2021,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2021,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Connecticut,2021,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,usrggi,,
-Connecticut,2021,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,usrggi,,
-Connecticut,2021,1A1A,Oil,0,0,NA,NA,NA,NA,NA,usrggi,,
+Connecticut,2021,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,us_rggi,,
+Connecticut,2021,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,us_rggi,,
+Connecticut,2021,1A1A,Oil,0,1,NA,NA,NA,NA,NA,us_rggi,,
 Connecticut,2021,1A1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2021,1A1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2021,1A1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA

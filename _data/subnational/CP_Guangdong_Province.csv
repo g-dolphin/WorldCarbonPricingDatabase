@@ -7152,19 +7152,19 @@ Guangdong Province,2012,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2012,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2012,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,60.08,
-Guangdong Province,2013,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,60.08,
-Guangdong Province,2013,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,60.08,
+Guangdong Province,2013,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2013,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
+Guangdong Province,2013,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
+Guangdong Province,2013,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
 Guangdong Province,2013,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7180,9 +7180,9 @@ Guangdong Province,2013,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
-Guangdong Province,2013,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
-Guangdong Province,2013,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
+Guangdong Province,2013,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
+Guangdong Province,2013,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
+Guangdong Province,2013,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
 Guangdong Province,2013,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7335,7 +7335,7 @@ Guangdong Province,2013,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
+Guangdong Province,2013,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
 Guangdong Province,2013,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7353,17 +7353,17 @@ Guangdong Province,2013,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
-Guangdong Province,2013,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
-Guangdong Province,2013,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
-Guangdong Province,2013,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
-Guangdong Province,2013,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
+Guangdong Province,2013,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
+Guangdong Province,2013,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
+Guangdong Province,2013,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
+Guangdong Province,2013,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
+Guangdong Province,2013,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
 Guangdong Province,2013,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2013,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,60.08,
+Guangdong Province,2013,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,60.08,
 Guangdong Province,2013,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7450,19 +7450,19 @@ Guangdong Province,2013,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2013,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,51.04,
-Guangdong Province,2014,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,51.04,
-Guangdong Province,2014,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,51.04,
+Guangdong Province,2014,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2014,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
+Guangdong Province,2014,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
+Guangdong Province,2014,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
 Guangdong Province,2014,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7478,9 +7478,9 @@ Guangdong Province,2014,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
-Guangdong Province,2014,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
-Guangdong Province,2014,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
+Guangdong Province,2014,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
+Guangdong Province,2014,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
+Guangdong Province,2014,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
 Guangdong Province,2014,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7633,7 +7633,7 @@ Guangdong Province,2014,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
+Guangdong Province,2014,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
 Guangdong Province,2014,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7651,17 +7651,17 @@ Guangdong Province,2014,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
-Guangdong Province,2014,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
-Guangdong Province,2014,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
-Guangdong Province,2014,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
-Guangdong Province,2014,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
+Guangdong Province,2014,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
+Guangdong Province,2014,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
+Guangdong Province,2014,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
+Guangdong Province,2014,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
+Guangdong Province,2014,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
 Guangdong Province,2014,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2014,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,51.04,
+Guangdong Province,2014,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,51.04,
 Guangdong Province,2014,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7748,19 +7748,19 @@ Guangdong Province,2014,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2014,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,18.97,
-Guangdong Province,2015,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,18.97,
-Guangdong Province,2015,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,18.97,
+Guangdong Province,2015,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2015,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
+Guangdong Province,2015,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
+Guangdong Province,2015,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
 Guangdong Province,2015,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7776,9 +7776,9 @@ Guangdong Province,2015,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
-Guangdong Province,2015,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
-Guangdong Province,2015,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
+Guangdong Province,2015,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
+Guangdong Province,2015,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
+Guangdong Province,2015,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
 Guangdong Province,2015,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7931,7 +7931,7 @@ Guangdong Province,2015,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
+Guangdong Province,2015,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
 Guangdong Province,2015,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7949,17 +7949,17 @@ Guangdong Province,2015,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
-Guangdong Province,2015,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
-Guangdong Province,2015,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
-Guangdong Province,2015,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
-Guangdong Province,2015,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
+Guangdong Province,2015,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
+Guangdong Province,2015,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
+Guangdong Province,2015,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
+Guangdong Province,2015,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
+Guangdong Province,2015,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
 Guangdong Province,2015,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2015,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,18.97,
+Guangdong Province,2015,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,18.97,
 Guangdong Province,2015,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8046,19 +8046,19 @@ Guangdong Province,2015,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2015,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,12.56,
+Guangdong Province,2016,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
 Guangdong Province,2016,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8074,18 +8074,18 @@ Guangdong Province,2016,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
+Guangdong Province,2016,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
 Guangdong Province,2016,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,1A2D,Oil,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
+Guangdong Province,2016,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,1A2D,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
 Guangdong Province,2016,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8113,18 +8113,18 @@ Guangdong Province,2016,1A2L,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A2M,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2016,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chngdets,12.56,
+Guangdong Province,2016,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
 Guangdong Province,2016,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8229,7 +8229,7 @@ Guangdong Province,2016,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
+Guangdong Province,2016,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
 Guangdong Province,2016,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8247,17 +8247,17 @@ Guangdong Province,2016,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
-Guangdong Province,2016,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
+Guangdong Province,2016,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
+Guangdong Province,2016,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
 Guangdong Province,2016,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
+Guangdong Province,2016,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
 Guangdong Province,2016,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8283,7 +8283,7 @@ Guangdong Province,2016,2G2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2016,2H1,NA,0,0,NA,NA,NA,NA,NA,chngdets,12.56,
+Guangdong Province,2016,2H1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,12.56,
 Guangdong Province,2016,2H2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8344,19 +8344,19 @@ Guangdong Province,2016,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2016,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,14.16,
+Guangdong Province,2017,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
 Guangdong Province,2017,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8372,18 +8372,18 @@ Guangdong Province,2017,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
+Guangdong Province,2017,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
 Guangdong Province,2017,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,1A2D,Oil,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
+Guangdong Province,2017,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,1A2D,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
 Guangdong Province,2017,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8411,18 +8411,18 @@ Guangdong Province,2017,1A2L,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A2M,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2017,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chngdets,14.16,
+Guangdong Province,2017,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
 Guangdong Province,2017,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8527,7 +8527,7 @@ Guangdong Province,2017,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
+Guangdong Province,2017,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
 Guangdong Province,2017,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8545,17 +8545,17 @@ Guangdong Province,2017,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
-Guangdong Province,2017,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
+Guangdong Province,2017,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
+Guangdong Province,2017,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
 Guangdong Province,2017,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
+Guangdong Province,2017,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
 Guangdong Province,2017,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8581,7 +8581,7 @@ Guangdong Province,2017,2G2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2017,2H1,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.16,
+Guangdong Province,2017,2H1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.16,
 Guangdong Province,2017,2H2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8642,19 +8642,19 @@ Guangdong Province,2017,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2017,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,14.92,
+Guangdong Province,2018,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
 Guangdong Province,2018,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8670,18 +8670,18 @@ Guangdong Province,2018,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
+Guangdong Province,2018,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
 Guangdong Province,2018,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,1A2D,Oil,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
+Guangdong Province,2018,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,1A2D,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
 Guangdong Province,2018,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8709,18 +8709,18 @@ Guangdong Province,2018,1A2L,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A2M,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2018,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chngdets,14.92,
+Guangdong Province,2018,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
 Guangdong Province,2018,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8825,7 +8825,7 @@ Guangdong Province,2018,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
+Guangdong Province,2018,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
 Guangdong Province,2018,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8843,17 +8843,17 @@ Guangdong Province,2018,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
-Guangdong Province,2018,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
+Guangdong Province,2018,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
+Guangdong Province,2018,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
 Guangdong Province,2018,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
+Guangdong Province,2018,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
 Guangdong Province,2018,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8879,7 +8879,7 @@ Guangdong Province,2018,2G2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2018,2H1,NA,0,0,NA,NA,NA,NA,NA,chngdets,14.92,
+Guangdong Province,2018,2H1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,14.92,
 Guangdong Province,2018,2H2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8940,19 +8940,19 @@ Guangdong Province,2018,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2018,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,23.2,
+Guangdong Province,2019,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
 Guangdong Province,2019,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8968,18 +8968,18 @@ Guangdong Province,2019,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
+Guangdong Province,2019,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
 Guangdong Province,2019,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,1A2D,Oil,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
+Guangdong Province,2019,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,1A2D,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
 Guangdong Province,2019,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9007,18 +9007,18 @@ Guangdong Province,2019,1A2L,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A2M,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2019,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chngdets,23.2,
+Guangdong Province,2019,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
 Guangdong Province,2019,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9123,7 +9123,7 @@ Guangdong Province,2019,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
+Guangdong Province,2019,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
 Guangdong Province,2019,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9141,17 +9141,17 @@ Guangdong Province,2019,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
-Guangdong Province,2019,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
+Guangdong Province,2019,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
+Guangdong Province,2019,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
 Guangdong Province,2019,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
+Guangdong Province,2019,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
 Guangdong Province,2019,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9177,7 +9177,7 @@ Guangdong Province,2019,2G2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2019,2H1,NA,0,0,NA,NA,NA,NA,NA,chngdets,23.2,
+Guangdong Province,2019,2H1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,23.2,
 Guangdong Province,2019,2H2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9238,19 +9238,19 @@ Guangdong Province,2019,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2019,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,28.21,
+Guangdong Province,2020,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
 Guangdong Province,2020,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9266,18 +9266,18 @@ Guangdong Province,2020,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
+Guangdong Province,2020,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
 Guangdong Province,2020,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,1A2D,Oil,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
+Guangdong Province,2020,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,1A2D,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
 Guangdong Province,2020,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9305,18 +9305,18 @@ Guangdong Province,2020,1A2L,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A2M,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2020,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chngdets,28.21,
+Guangdong Province,2020,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
 Guangdong Province,2020,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9421,7 +9421,7 @@ Guangdong Province,2020,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
+Guangdong Province,2020,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
 Guangdong Province,2020,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9439,17 +9439,17 @@ Guangdong Province,2020,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
-Guangdong Province,2020,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
+Guangdong Province,2020,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
+Guangdong Province,2020,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
 Guangdong Province,2020,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
+Guangdong Province,2020,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
 Guangdong Province,2020,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9475,7 +9475,7 @@ Guangdong Province,2020,2G2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2020,2H1,NA,0,0,NA,NA,NA,NA,NA,chngdets,28.21,
+Guangdong Province,2020,2H1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,28.21,
 Guangdong Province,2020,2H2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9536,19 +9536,19 @@ Guangdong Province,2020,5A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,5A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2020,5A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A1,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A1,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A1A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A1A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A1A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chngdets,,
+Guangdong Province,2021,1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A1A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A1A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A1A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A1A1,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,1A1A1,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,1A1A1,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
 Guangdong Province,2021,1A1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9564,18 +9564,18 @@ Guangdong Province,2021,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A2A,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,1A2A,Oil,0,0,NA,NA,NA,NA,NA,chngdets,,
+Guangdong Province,2021,1A2A,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,1A2A,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
 Guangdong Province,2021,1A2B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2C,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A2D,Coal/peat,0,0,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,1A2D,Oil,0,0,NA,NA,NA,NA,NA,chngdets,,
+Guangdong Province,2021,1A2D,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,1A2D,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
 Guangdong Province,2021,1A2E,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9603,18 +9603,18 @@ Guangdong Province,2021,1A2L,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2M,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2M,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A2M,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A3,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A3,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A3,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A3A,Coal/peat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A3A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A3A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A3,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A3,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A3,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A3A,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A3A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2021,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A3A1,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chngdets,,
+Guangdong Province,2021,1A3A2,Coal/peat,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
 Guangdong Province,2021,1A3B,Coal/peat,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9719,7 +9719,7 @@ Guangdong Province,2021,2000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,20000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,200000,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,2A1,NA,0,0,NA,NA,NA,NA,NA,chngdets,,
+Guangdong Province,2021,2A1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
 Guangdong Province,2021,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9737,17 +9737,17 @@ Guangdong Province,2021,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,2B8A,NA,0,0,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,2B8B,NA,0,0,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,2B8C,NA,0,0,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,2B8D,NA,0,0,NA,NA,NA,NA,NA,chngdets,,
-Guangdong Province,2021,2B8E,NA,0,0,NA,NA,NA,NA,NA,chngdets,,
+Guangdong Province,2021,2B8A,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,2B8B,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,2B8C,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,2B8D,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
+Guangdong Province,2021,2B8E,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
 Guangdong Province,2021,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,2C1,NA,0,0,NA,NA,NA,NA,NA,chngdets,,
+Guangdong Province,2021,2C1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
 Guangdong Province,2021,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9773,7 +9773,7 @@ Guangdong Province,2021,2G2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2021,2H1,NA,0,0,NA,NA,NA,NA,NA,chngdets,,
+Guangdong Province,2021,2H1,NA,0,1,NA,NA,NA,NA,NA,chn_gd_ets,,
 Guangdong Province,2021,2H2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2021,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
