@@ -1,22 +1,17 @@
 # World Carbon Pricing Database
 
-The present dataset constitutes an extension of a dataset initially developed while pursuing my PhD within the Energy Policy Research Group at the University of Cambridge. Its existence owes much to its support as well as that of the Cambridge Judge Business School and the UK Economic and Social Research Council. It's most recent update was supported by Resources for the Future.
+The present dataset constitutes an extension of a dataset initially developed while pursuing my PhD within the Energy Policy Research Group at the University of Cambridge. Its existence owes much to its support as well as that of the Cambridge Judge Business School and the UK Economic and Social Research Council. Its most recent update was supported by Resources for the Future.
 
 This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990. To date, it is the most comprehensive attempt at providing a consistent-across-jurisdiction description of carbon pricing mechanisms in terms of their sectoral (and fuel) coverage as well as the associated price signal.
 
 ## Dataset 
 ### Description
 
-The database records information on the coverage and price associated with mechanisms creating an explicit price on CO2 emissions **at the sector-fuel level**. It records separately information about carbon taxes and cap-and-trade mechanisms. The sectoral disaggregation of the economy follows the [IPCC 2006 guidelines for national greenhouse gas emission inventories](https://www.ipcc-nggip.iges.or.jp/public/2006gl/). 
+The database records information on the sectoral scope and price associated with carbon pricing mechanisms, i.e. mechanisms creating an explicit price on CO2 emissions. This information is recorded **at the sector-fuel level**. The sectoral disaggregation of the economy follows the [IPCC 2006 guidelines for national greenhouse gas emission inventories](https://www.ipcc-nggip.iges.or.jp/public/2006gl/). 
 
-- Coverage of a given sector-fuel level is recorded as binary 0/1 variable.
-- Prices are recorded in current local currency units and expressed per tonne of CO_2. 
-  - For taxes, the recorded value is the administratively set rate of the tax.
-  - For emission trading systems (cap-and-trade), the recorded value is the yearly average of (daily) allowance prices.
+A key feature of this dataset is that it provides information structured by territorial jurisdiction, not carbon pricing mechanism. This is achieved by mapping information available for each carbon pricing mechanism onto jurisdictions. This mapping accounts for the possibility that multiple schemes apply to the same emissions sectors and, in such instances, presents information separately for each scheme. It also covers a long period of time (1990-2020) and, hence, allows to (re)construct time series of prices applied to emissions in the jurisdictions where such prices were in place. In addition, its disaggregation by IPCC 2006 sectors  allows for a straightforward integration with several other data sources following the same sectoral disaggregation. 
 
-For carbon taxes, the dataset also records separately 'price-based', sector-fuel specific, exemptions. That is, it records whether a given carbon tax regulation contains provisions for some sectors and/or fuels to be faced with a different tax rate. In practice, exemptions implying a different price of CO2 across fuels are rare (though not inexistant); more common are exemptions set at the sector level and implying a different price of CO2 across sectors.
-
-The dataset does not, however, account for 'quantity-based' exemptions. This category includes all exemptions that allow firms in specified sectors and/or meeting certain conditions within those sectors to exempt part of their emissions from the tax or to waive their obligation to surrender allowances for these emissions. For instance, the dataset currently does not contain information on the emissions thresholds above which firms (or plants) become liable for the carbon tax or have to surrender emissions allowances. Similarly, it does not have data on the 'offset mechanisms' by which firms can waive their tax or allowance surrendering obligation on a share of their total emissions.
+More details about the methodology supporting the construction of the dataset and the variables included in it are provided in the associated technical note available at [xxx].
 
 ### Scope
 
@@ -29,15 +24,13 @@ The dataset does not, however, account for 'quantity-based' exemptions. This cat
 ## Repository files
 
 The repository is organised around three main folders:
-1. `Data`, which contains the `.csv` files constituting the dataset
-2. `Sources`, which contains the `.csv` files recording the data sources as well as `.csv` files linking every data source citation to their full reference. These 'mapping' files are available in the folder [references](https://github.com/gd1989/WorldCarbonPricingDatabase/tree/master/Sources/references)
-3. `Scripts_basic`, which contains short Python scripts for basic manipulation of the original files
+1. `_data`, which contains the `.csv` files constituting the dataset.
+2. `_sources`, which contains the `.csv` files recording the data sources as well as `.csv` files linking every data source citation to their full reference. These 'mapping' files are available in the folder [references](https://github.com/gd1989/WorldCarbonPricingDatabase/tree/master/Sources/references).
+3. `_code`, which contains short Python scripts for basic manipulation of the original files.
 
 ## Contribution
 
-The dataset is under continuous development. While every precaution has been taken to accurately record coverage and price information for each carbon pricing mechanism, the size of the undertaking has been such that some inaccuracies might remain. Contributions to its development and improvement as well as to update of existing records are welcome (and encouraged).
-
-The initial dataset development focused on IPCC sectors (and sub-sectors therein) 1. Energy and 2. Industrial Processes and Product Use. More specifically, I recorded information on sub-sectors of category 1A (Fuel Combustion Activities), 1B2 (Fugitive Emissions from Fuels - Oil and Natural Gas) and 2A1 (Cement Production). Information on carbon pricing mechanisms in other sectors has, so far, not been systematically recorded. This focus is the result of a decision criterion: availability of comprehensive standardized international CO_2 emissions data for a given IPCC sector. An extension of records to other IPCC sectors would be a welcome addition to the dataset and will be pursued as time and resources allow.
+The dataset is under continuous development. While every precaution has been taken to accurately record coverage and price information, the size of the undertaking has been such that some inaccuracies might remain. Contributions to its development and improvement as well as to update of existing records are welcome (and encouraged).
 
 ### Contributing to the dataset: step-by-step guidance
 
