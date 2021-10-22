@@ -28,7 +28,7 @@ def concatenate(indir):#,outfile):
     return concatDf
 
 indir_nat = ".../GitHub/WorldCarbonPricingDatabase/_data/national"
-indir_subnat = ".../GitHub/WorldCarbonPricingDatabase/_data/subnat"
+indir_subnat = ".../GitHub/WorldCarbonPricingDatabase/_data/subnational"
 
 nat_jur = concatenate(indir_nat)
 subnat_jur = concatenate(indir_subnat)
