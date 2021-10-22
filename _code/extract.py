@@ -27,8 +27,8 @@ def concatenate(indir):#,outfile):
     #    concatDf.to_csv(outfile,index=None)
     return concatDf
 
-indir_nat = ".../GitHub/WorldCarbonPricingDatabase/Data/national_jur"
-indir_subnat = ".../GitHub/WorldCarbonPricingDatabase/Data/subnat_jur"
+indir_nat = ".../GitHub/WorldCarbonPricingDatabase/_data/national"
+indir_subnat = ".../GitHub/WorldCarbonPricingDatabase/_data/subnat"
 
 nat_jur = concatenate(indir_nat)
 subnat_jur = concatenate(indir_subnat)
