@@ -21,6 +21,13 @@ More details about the methodology supporting the construction of the dataset an
 
 - Greenhouse gases: the information currently in the dataset pertains exclusively to policy instruments targeting CO2 emissions. A future iteration will expand the dataset to other Kyoto gases that are subject to pricing mechanisms.
 
+## Repository files
+
+The repository is organised around three main folders:
+1. `_data`, which contains the `.csv` files constituting the dataset.
+2. `_sources`, which contains the `.csv` files recording the data sources as well as `.csv` files linking every data source citation to their full reference. These 'mapping' files are available in the folder [references](https://github.com/gd1989/WorldCarbonPricingDatabase/tree/master/Sources/references).
+3. `_code`, which contains short Python scripts for basic manipulation of the original files.
+
 ## Citation
 
 If you use the dataset in scientific publication, we would appreciate a reference to the following paper:
@@ -50,13 +57,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Repository files
-
-The repository is organised around three main folders:
-1. `_data`, which contains the `.csv` files constituting the dataset.
-2. `_sources`, which contains the `.csv` files recording the data sources as well as `.csv` files linking every data source citation to their full reference. These 'mapping' files are available in the folder [references](https://github.com/gd1989/WorldCarbonPricingDatabase/tree/master/Sources/references).
-3. `_code`, which contains short Python scripts for basic manipulation of the original files.
 
 ## Contribution
 
