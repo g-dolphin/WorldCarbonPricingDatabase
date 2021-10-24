@@ -25,7 +25,7 @@ More details about the methodology supporting the construction of the dataset an
 
 If you use the dataset in scientific publication, we would appreciate a reference to the following paper:
 
-``Dolphin, G., Pollitt, M. and Newbery, D. 2020. The political economy of carbon pricing: a panel analysis``
+``Dolphin, G., Pollitt, M. and Newbery, D. 2020. The political economy of carbon pricing: a panel analysis. Oxford Economic Papers 72(2): 472-500.``
 
 ## License
 
