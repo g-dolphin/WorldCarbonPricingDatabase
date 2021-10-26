@@ -1,0 +1,2 @@
+scheme_id,year,Oil,Coal/peat,Natural gas,currency_code,source,comment
+lux_tax,2021,20,NA,20,EUR,gvt(LUX-CBF[2020]),"The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating)."

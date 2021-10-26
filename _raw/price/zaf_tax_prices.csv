@@ -1,0 +1,4 @@
+scheme_id,year,Oil,Natural gas,Coal/peat,currency_code,source,comment
+zaf_tax,2019,120,120,120,ZAR,leg(SA[2019]),
+zaf_tax,2020,127,127,127,ZAR,"leg(SA[2019]), web(SAGOV[2020]), report(IETA[2020])",
+zaf_tax,2021,134,134,134,ZAR,"leg(SA[2019]), report(IETA[2021])",

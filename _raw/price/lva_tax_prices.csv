@@ -1,0 +1,19 @@
+scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
+lva_tax,2004,NA,NA,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
+lva_tax,2005,NA,NA,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
+lva_tax,2006,0.1,0.1,0.1,LVL,leg(LVA-NRTL[2006]),
+lva_tax,2007,0.1,0.1,0.1,LVL,leg(LVA-NRTL[2006]),
+lva_tax,2008,0.2,0.2,0.2,LVL,leg(LVA-NRTL[2006]),
+lva_tax,2009,0.3,0.3,0.3,LVL,leg(LVA-NRTL[2009]),
+lva_tax,2010,0.45,0.45,0.45,LVL,leg(LVA-NRTL[2010]),
+lva_tax,2011,0.775,0.775,0.775,LVL,leg(LVA-NRTL[2010]),
+lva_tax,2012,1.325,1.325,1.325,LVL,leg(LVA-NRTL[2010]),
+lva_tax,2013,2,2,2,LVL,leg(LVA-NRTL[2010]),
+lva_tax,2014,2,2,2,LVL,leg(LVA-NRTL[2010]),
+lva_tax,2015,2,2,2,LVL,leg(LVA-NRTL[2010]),
+lva_tax,2016,3.5,3.5,3.5,EUR,report(WB[2017]),
+lva_tax,2017,4.5,4.5,4.5,EUR,report(WB[2017]),
+lva_tax,2018,4.5,4.5,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",
+lva_tax,2019,4.5,4.5,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",
+lva_tax,2020,9,9,9,EUR,db(WBCPD[2020]),
+lva_tax,2021,12,12,12,EUR,db(WBCPD[2020]),

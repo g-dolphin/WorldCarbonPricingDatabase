@@ -1,0 +1,4 @@
+scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
+can_nl_tax,2019,20,20,20,CAD,leg(NL[2018]),
+can_nl_tax,2020,30,30,30,CAD,leg(NL[2018]),
+can_nl_tax,2021,40,40,40,CAD,leg(NL[2018]),
