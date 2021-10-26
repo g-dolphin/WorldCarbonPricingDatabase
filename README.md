@@ -82,9 +82,7 @@ The files to be modified to update the dataset are found under the `_raw` and `_
 If you wish to contribute to the development of the dataset, please follow these steps:
 1. Clone the repository to your local machine
 2. Create a new (local) branch on which you will execute the files update(s)
-
-
-6. Save your files and commit your changes.
-7. Push your branch to the remote repository.
+3. Save your files and commit your changes.
+4. Push your branch to the remote repository.
   
-  
+To update the scope of one of the carbon pricing mechanisms, update either `ets_coverage.py` or `taxes_coverage.py` in the directory `_raw/coverage`. To update the price associated with a mechanism, update the corresponding `csv` file in the directory `_raw/price`.
