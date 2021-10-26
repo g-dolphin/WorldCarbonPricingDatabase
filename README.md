@@ -23,10 +23,10 @@ More details about the methodology supporting the construction of the dataset an
 
 ## Repository files
 
-The repository is organised around three main folders:
-1. `_data`, which contains the `.csv` files constituting the dataset.
-2. `_sources`, which contains the `.csv` files recording the data sources as well as `.csv` files linking every data source citation to their full reference. These 'mapping' files are available in the folder [references](https://github.com/gd1989/WorldCarbonPricingDatabase/tree/master/Sources/references).
-3. `_code`, which contains short Python scripts for basic manipulation of the original files.
+The repository is organised around three main directories:
+1. `_dataset`, which contains the `.csv` files constituting the dataset. Wihtin that directory, the actual data files can be found under the `data` directory and files with references to the data source under the `sources` directory. The full details of cited references are available in separate files in the [references](https://github.com/g-dolphin/WorldCarbonPricingDatabase/tree/master/_dataset/sources/references) directory.
+2. `_raw`, which contains the files recording or coding the pricing mechanisms' design features.
+3. `_code`, which contains scripts for the compilation of the dataset as well as short Python scripts for basic manipulation of the dataset files.
 
 ## Citation
 
