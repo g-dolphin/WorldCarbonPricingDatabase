@@ -77,7 +77,7 @@ Contributions to the dataset are greatly appreciated. Please bear in mind the fo
 
 ! All files under the `_data` directory are the final dataset files and are not the ones to be updated !
 
-The files to be modified to update the dataset are found under the `_raw_data` and `_compilation` directories, respectively.
+The files to be modified to update the dataset are found under the `_raw` and `_compilation` directories, respectively.
 
 If you wish to contribute to the development of the dataset, please follow these steps:
 1. Clone the repository to your local machine
