@@ -1,0 +1,6 @@
+scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
+chl_tax,2017,5,5,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
+chl_tax,2018,5,5,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
+chl_tax,2019,5,5,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
+chl_tax,2020,5,5,5,USD,"report(WB[2015], WB[2017], WB[2018])","from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
+chl_tax,2021,5,5,5,USD,report(WB[2021]),"from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"

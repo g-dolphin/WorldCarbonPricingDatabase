@@ -1,0 +1,16 @@
+scheme_id,year,allowance_weighted_price,currency_code,source,comment
+can_ab_ets,2007,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2008,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2009,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2010,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2011,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2012,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2013,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2014,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2015,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2016,20,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2017,30,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2018,30,CAD,leg(AR[2017]),the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2019,30,CAD,leg(AR[2017]),the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2020,30,CAD,leg(AR[2020]),the price of Technology Innovation and Emissions Reduction Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2021,40,CAD,leg(AR[2020]),the price of Technology Innovation and Emissions Reduction Fund credit (upper bound) is used as no transaction data is available

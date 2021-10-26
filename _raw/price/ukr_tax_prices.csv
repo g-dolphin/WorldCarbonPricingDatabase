@@ -1,0 +1,12 @@
+scheme_id,year,Coal/peat,Natural gas,Oil,currency_code,source,comment
+ukr_tax,2011,0.2,0.2,0.2,UAH,journal(Frey[2015]),
+ukr_tax,2012,0.22,0.22,0.22,UAH,journal(Frey[2015]),
+ukr_tax,2013,0.24,0.24,0.24,UAH,journal(Frey[2015]),
+ukr_tax,2014,0.26,0.26,0.26,UAH,journal(Frey[2015]),
+ukr_tax,2015,NA,NA,NA,NA,NA,scheme suspended
+ukr_tax,2016,NA,NA,NA,NA,NA,scheme suspended
+ukr_tax,2017,0.37,0.37,0.37,UAH,journal(Romanko[2018]),
+ukr_tax,2018,0.41,0.41,0.41,UAH,journal(Romanko[2018]),
+ukr_tax,2019,10,10,10,UAH,"journal(Romanko[2018]), db(WBCPD[2020])",
+ukr_tax,2020,10,10,10,UAH,"web(CS[2020]), db(WBCPD[2020])",
+ukr_tax,2021,10,10,10,UAH,web(PMR[2021]),

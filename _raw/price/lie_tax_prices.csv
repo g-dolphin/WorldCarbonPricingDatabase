@@ -1,0 +1,15 @@
+scheme_id,year,Oil,Coal/peat,Natural gas,currency_code,source,comment
+lie_tax,2008,12,12,12,CHF,report(GLOBE-SWI[2015]),identical to Switzerland carbon tax
+lie_tax,2009,12,12,12,CHF,report(GLOBE-SWI[2015]),identical to Switzerland carbon tax
+lie_tax,2010,36,36,36,CHF,report(GLOBE-SWI[2015]),identical to Switzerland carbon tax
+lie_tax,2011,36,36,36,CHF,report(GLOBE-SWI[2015]),identical to Switzerland carbon tax
+lie_tax,2012,36,36,36,CHF,report(GLOBE-SWI[2015]),identical to Switzerland carbon tax
+lie_tax,2013,36,36,36,CHF,"report(WB[2014],IEA-EPT[2018])",identical to Switzerland carbon tax
+lie_tax,2014,60,60,60,CHF,"report(WB[2014],IEA-EPT[2018])",identical to Switzerland carbon tax
+lie_tax,2015,60,60,60,CHF,"report(WB[2014],IEA-EPT[2018])",identical to Switzerland carbon tax
+lie_tax,2016,84,84,84,CHF,"report(WB[2014],IEA-EPT[2018])",identical to Switzerland carbon tax
+lie_tax,2017,84,84,84,CHF,"report(WB[2014],IEA-EPT[2018])",identical to Switzerland carbon tax
+lie_tax,2018,96,96,96,CHF,report(WB[2018]),identical to Switzerland carbon tax
+lie_tax,2019,96,96,96,CHF,report(WB[2018]),identical to Switzerland carbon tax
+lie_tax,2020,96,96,96,CHF,report(WB[2018]),identical to Switzerland carbon tax
+lie_tax,2021,,,,CHF,,identical to Switzerland carbon tax

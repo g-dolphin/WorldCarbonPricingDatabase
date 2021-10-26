@@ -1,0 +1,4 @@
+scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
+aus_tax,2012,23,23,23,AUD,web(AU-CER[2015]),
+aus_tax,2013,23,23,23,AUD,web(AU-CER[2015]),
+aus_tax,2014,24.15,24.15,24.15,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."

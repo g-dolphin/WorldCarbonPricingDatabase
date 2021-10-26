@@ -1,0 +1,4 @@
+scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
+can_tax_I,2019,20,20,20,CAD,gvt(ECCC[2019]),
+can_tax_I,2020,30,30,30,CAD,gvt(ECCC[2019]),
+can_tax_I,2021,40,40,40,CAD,gvt(ECCC[2019]),

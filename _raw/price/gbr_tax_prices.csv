@@ -1,0 +1,10 @@
+scheme_id,year,Natural gas,Oil,Coal/peat,currency_code,source,comment
+gbr_tax,2013,4.94,4.94,4.94,GBP,gvt(UK-CPF[2021]),
+gbr_tax,2014,8.3975,8.3975,8.3975,GBP,gvt(UK-CPF[2021]),
+gbr_tax,2015,15.9475,15.9475,15.9475,GBP,gvt(UK-CPF[2021]),
+gbr_tax,2016,18.02,18.02,18.02,GBP,gvt(UK-CPF[2021]),
+gbr_tax,2017,18,18,18,GBP,gvt(UK-CPF[2021]),
+gbr_tax,2018,18,18,18,GBP,gvt(UK-CPF[2021]),
+gbr_tax,2019,18,18,18,GBP,gvt(UK-CPF[2021]),
+gbr_tax,2020,18,18,18,GBP,gvt(UK-CPF[2021]),
+gbr_tax,2021,,,,GBP,gvt(UK-CPF[2021]),

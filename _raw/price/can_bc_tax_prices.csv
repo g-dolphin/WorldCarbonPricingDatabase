@@ -1,0 +1,13 @@
+scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
+can_bc_tax,2010,10,10,10,CAD,gvt(ECCC[2021]),
+can_bc_tax,2011,15,15,15,CAD,gvt(ECCC[2021]),
+can_bc_tax,2012,20,20,20,CAD,gvt(ECCC[2021]),
+can_bc_tax,2013,25,25,25,CAD,gvt(ECCC[2021]),
+can_bc_tax,2014,30,30,30,CAD,gvt(ECCC[2021]),
+can_bc_tax,2015,30,30,30,CAD,gvt(ECCC[2021]),
+can_bc_tax,2016,30,30,30,CAD,gvt(ECCC[2021]),
+can_bc_tax,2017,30,30,30,CAD,gvt(ECCC[2021]),
+can_bc_tax,2018,30,30,30,CAD,gvt(ECCC[2021]),
+can_bc_tax,2019,30,30,30,CAD,gvt(ECCC[2021]),
+can_bc_tax,2020,35,35,35,CAD,gvt(ECCC[2021]),
+can_bc_tax,2021,40,40,40,CAD,gvt(ECCC[2021]),

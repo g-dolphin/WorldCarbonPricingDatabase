@@ -1,0 +1,9 @@
+scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
+fra_tax,2014,7,7,7,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2015,14.5,14.5,14.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2016,22,22,22,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2017,30.5,30.5,30.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2018,44.6,44.6,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2019,44.6,44.6,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2020,44.6,44.6,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2021,,,,,,merchandise road transport is exempted

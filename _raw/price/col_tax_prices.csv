@@ -1,0 +1,5 @@
+scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
+col_tax,2017,NA,15000,15000,COP,report(WB[2017]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
+col_tax,2018,NA,15764,15764,COP,"report(OECD-TEU[2019], Mexico[2019])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
+col_tax,2019,NA,16422,16422,COP,"report(OECD-TEU[2019], Mexico[2019])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
+col_tax,2020,NA,17211,17211,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DIAN[2020])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
