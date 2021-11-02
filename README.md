@@ -23,10 +23,10 @@ More details about the methodology supporting the construction of the dataset an
 
 ## Repository files
 
-The repository is organised around three main folders:
-1. `_data`, which contains the `.csv` files constituting the dataset.
-2. `_sources`, which contains the `.csv` files recording the data sources as well as `.csv` files linking every data source citation to their full reference. These 'mapping' files are available in the folder [references](https://github.com/gd1989/WorldCarbonPricingDatabase/tree/master/Sources/references).
-3. `_code`, which contains short Python scripts for basic manipulation of the original files.
+The repository is organised around three main directories:
+1. `_dataset`, which contains the `.csv` files constituting the dataset. Wihtin that directory, the actual data files can be found under the `data` directory and files with references to the data source under the `sources` directory. The full details of cited references are available in separate files in the [references](https://github.com/g-dolphin/WorldCarbonPricingDatabase/tree/master/_dataset/sources/references) directory.
+2. `_raw`, which contains the files recording or coding the pricing mechanisms' design features.
+3. `_code`, which contains scripts for the compilation of the dataset as well as short Python scripts for basic manipulation of the dataset files.
 
 ## Citation
 
@@ -36,27 +36,7 @@ If you use the dataset in scientific publication, we would appreciate a referenc
 
 ## License
 
-MIT License
-
-Copyright (c) 2021 g-dolphin
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
 ## Contribution
 
@@ -77,14 +57,12 @@ Contributions to the dataset are greatly appreciated. Please bear in mind the fo
 
 ! All files under the `_data` directory are the final dataset files and are not the ones to be updated !
 
-The files to be modified to update the dataset are found under the `_raw_data` and `_compilation` directories, respectively.
+The files to be modified to update the dataset are found under the `_raw` and `_compilation` directories, respectively.
 
 If you wish to contribute to the development of the dataset, please follow these steps:
 1. Clone the repository to your local machine
 2. Create a new (local) branch on which you will execute the files update(s)
-
-
-6. Save your files and commit your changes.
-7. Push your branch to the remote repository.
+3. Save your files and commit your changes.
+4. Push your branch to the remote repository.
   
-  
+To update the scope of one of the carbon pricing mechanisms, update either `ets_coverage.py` or `taxes_coverage.py` in the directory `_raw/coverage`. To update the price associated with a mechanism, update the corresponding `csv` file in the directory `_raw/price`.
