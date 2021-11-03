@@ -1,4 +1,10 @@
-scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
-can_nt_tax,2019,20,20,20,CAD,"gvt(NWT[2020], ECCC[2021])",
-can_nt_tax,2020,30,30,30,CAD,"gvt(NWT[2020], ECCC[2021])",
-can_nt_tax,2021,40,40,40,CAD,"gvt(NWT[2020], ECCC[2021])",
+scheme_id,year,ghg,product,rate,currency_code,source,comment
+can_nt_tax,2019,CO2,Coal/peat,20,CAD,"gvt(NWT[2020], ECCC[2021])",
+can_nt_tax,2020,CO2,Coal/peat,30,CAD,"gvt(NWT[2020], ECCC[2021])",
+can_nt_tax,2021,CO2,Coal/peat,40,CAD,"gvt(NWT[2020], ECCC[2021])",
+can_nt_tax,2019,CO2,Oil,20,CAD,"gvt(NWT[2020], ECCC[2021])",
+can_nt_tax,2020,CO2,Oil,30,CAD,"gvt(NWT[2020], ECCC[2021])",
+can_nt_tax,2021,CO2,Oil,40,CAD,"gvt(NWT[2020], ECCC[2021])",
+can_nt_tax,2019,CO2,Natural gas,20,CAD,"gvt(NWT[2020], ECCC[2021])",
+can_nt_tax,2020,CO2,Natural gas,30,CAD,"gvt(NWT[2020], ECCC[2021])",
+can_nt_tax,2021,CO2,Natural gas,40,CAD,"gvt(NWT[2020], ECCC[2021])",

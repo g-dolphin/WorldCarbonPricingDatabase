@@ -1,7 +1,22 @@
-scheme_id,year,Oil,Natural gas,Coal/peat,currency_code,source,comment
-prt_tax,2015,5,5,5,EUR,report(IEA-EPT[2020]),
-prt_tax,2016,6.9,6.9,6.9,EUR,report(IEA-EPT[2020]),
-prt_tax,2017,6.9,6.9,6.9,EUR,report(IEA-EPT[2020]),
-prt_tax,2018,6.9,6.9,6.9,EUR,report(IEA-EPT[2020]),"Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 "
-prt_tax,2019,12.83,12.83,12.83,EUR,report(IEA-EPT[2020]),"Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 "
-prt_tax,2020,21.51,21.51,21.51,EUR,report(IEA-EPT[2020]),"Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 "
+scheme_id,year,ghg,product,rate,currency_code,source,comment
+prt_tax,2015,CO2,Coal/peat,5,EUR,report(IEA-EPT[2020]),
+prt_tax,2016,CO2,Coal/peat,6.9,EUR,report(IEA-EPT[2020]),
+prt_tax,2017,CO2,Coal/peat,6.9,EUR,report(IEA-EPT[2020]),
+prt_tax,2018,CO2,Coal/peat,6.9,EUR,report(IEA-EPT[2020]),"Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 "
+prt_tax,2019,CO2,Coal/peat,12.83,EUR,report(IEA-EPT[2020]),"Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 "
+prt_tax,2020,CO2,Coal/peat,21.51,EUR,report(IEA-EPT[2020]),"Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 "
+prt_tax,2021,CO2,Coal/peat,,,,
+prt_tax,2015,CO2,Oil,5,EUR,report(IEA-EPT[2020]),
+prt_tax,2016,CO2,Oil,6.9,EUR,report(IEA-EPT[2020]),
+prt_tax,2017,CO2,Oil,6.9,EUR,report(IEA-EPT[2020]),
+prt_tax,2018,CO2,Oil,6.9,EUR,report(IEA-EPT[2020]),
+prt_tax,2019,CO2,Oil,12.83,EUR,report(IEA-EPT[2020]),
+prt_tax,2020,CO2,Oil,21.51,EUR,report(IEA-EPT[2020]),
+prt_tax,2021,CO2,Oil,,,,
+prt_tax,2015,CO2,Natural gas,5,EUR,report(IEA-EPT[2020]),
+prt_tax,2016,CO2,Natural gas,6.9,EUR,report(IEA-EPT[2020]),
+prt_tax,2017,CO2,Natural gas,6.9,EUR,report(IEA-EPT[2020]),
+prt_tax,2018,CO2,Natural gas,6.9,EUR,report(IEA-EPT[2020]),
+prt_tax,2019,CO2,Natural gas,12.83,EUR,report(IEA-EPT[2020]),
+prt_tax,2020,CO2,Natural gas,21.51,EUR,report(IEA-EPT[2020]),
+prt_tax,2021,CO2,Natural gas,,,,

@@ -1,9 +1,25 @@
-scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
-fra_tax,2014,7,7,7,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
-fra_tax,2015,14.5,14.5,14.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
-fra_tax,2016,22,22,22,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
-fra_tax,2017,30.5,30.5,30.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
-fra_tax,2018,44.6,44.6,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
-fra_tax,2019,44.6,44.6,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
-fra_tax,2020,44.6,44.6,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
-fra_tax,2021,,,,,,merchandise road transport is exempted
+scheme_id,year,ghg,product,Coal/peat,currency_code,source,comment
+fra_tax,2014,CO2,Coal/peat,7,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2015,CO2,Coal/peat,14.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2016,CO2,Coal/peat,22,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2017,CO2,Coal/peat,30.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2018,CO2,Coal/peat,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2019,CO2,Coal/peat,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2020,CO2,Coal/peat,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2021,CO2,Coal/peat,,EUR,,merchandise road transport is exempted
+fra_tax,2014,CO2,Oil,7,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2015,CO2,Oil,14.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2016,CO2,Oil,22,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2017,CO2,Oil,30.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2018,CO2,Oil,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2019,CO2,Oil,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2020,CO2,Oil,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2021,CO2,Oil,,EUR,,merchandise road transport is exempted
+fra_tax,2014,CO2,Natural gas,7,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2015,CO2,Natural gas,14.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2016,CO2,Natural gas,22,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2017,CO2,Natural gas,30.5,EUR,leg(FR-PLF[2014]),merchandise road transport is exempted
+fra_tax,2018,CO2,Natural gas,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2019,CO2,Natural gas,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2020,CO2,Natural gas,44.6,EUR,leg(FR-PLF[2018]),merchandise road transport is exempted
+fra_tax,2021,CO2,Natural gas,,EUR,,merchandise road transport is exempted
