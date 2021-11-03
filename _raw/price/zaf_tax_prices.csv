@@ -1,4 +1,10 @@
-scheme_id,year,Oil,Natural gas,Coal/peat,currency_code,source,comment
-zaf_tax,2019,120,120,120,ZAR,leg(SA[2019]),
-zaf_tax,2020,127,127,127,ZAR,"leg(SA[2019]), web(SAGOV[2020]), report(IETA[2020])",
-zaf_tax,2021,134,134,134,ZAR,"leg(SA[2019]), report(IETA[2021])",
+scheme_id,year,ghg,product,rate,currency_code,source,comment
+zaf_tax,2019,CO2,Coal/peat,120,ZAR,leg(SA[2019]),
+zaf_tax,2020,CO2,Coal/peat,127,ZAR,"leg(SA[2019]), web(SAGOV[2020]), report(IETA[2020])",
+zaf_tax,2021,CO2,Coal/peat,134,ZAR,"leg(SA[2019]), report(IETA[2021])",
+zaf_tax,2019,CO2,Oil,120,ZAR,leg(SA[2019]),
+zaf_tax,2020,CO2,Oil,127,ZAR,"leg(SA[2019]), web(SAGOV[2020]), report(IETA[2020])",
+zaf_tax,2021,CO2,Oil,134,ZAR,"leg(SA[2019]), report(IETA[2021])",
+zaf_tax,2019,CO2,Natural gas,120,ZAR,leg(SA[2019]),
+zaf_tax,2020,CO2,Natural gas,127,ZAR,"leg(SA[2019]), web(SAGOV[2020]), report(IETA[2020])",
+zaf_tax,2021,CO2,Natural gas,134,ZAR,"leg(SA[2019]), report(IETA[2021])",

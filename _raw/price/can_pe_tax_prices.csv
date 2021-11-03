@@ -1,3 +1,10 @@
-scheme_id,year,Coal/peat,Oil,Natural gas,currency_code,source,comment
-can_pe_tax,2019,20,20,20,CAD,"gvt(ECCC[2021], PEI[2018])",
-can_pe_tax,2020,30,30,30,CAD,"gvt(ECCC[2021], PEI[2018])",
+scheme_id,year,ghg,product,rate,currency_code,source,comment
+can_pe_tax,2019,CO2,Coal/peat,20,CAD,"gvt(ECCC[2021], PEI[2018])",
+can_pe_tax,2020,CO2,Coal/peat,30,CAD,"gvt(ECCC[2021], PEI[2018])",
+can_pe_tax,2021,CO2,Coal/peat,30,,,rate to be confirmed
+can_pe_tax,2019,CO2,Oil,20,CAD,"gvt(ECCC[2021], PEI[2018])",
+can_pe_tax,2020,CO2,Oil,30,CAD,"gvt(ECCC[2021], PEI[2018])",
+can_pe_tax,2021,CO2,Oil,30,,,rate to be confirmed
+can_pe_tax,2019,CO2,Natural gas,20,CAD,"gvt(ECCC[2021], PEI[2018])",
+can_pe_tax,2020,CO2,Natural gas,30,CAD,"gvt(ECCC[2021], PEI[2018])",
+can_pe_tax,2021,CO2,Natural gas,30,,,rate to be confirmed
