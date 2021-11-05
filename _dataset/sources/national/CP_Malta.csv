@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax_dummy,ets_dummy,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Malta,1989,0,,,,,,
 Malta,1989,1,,,,,,
 Malta,1989,1A,Coal/peat,,,,,
@@ -4960,31 +4960,31 @@ Malta,2005,2A4B,,,,,,
 Malta,2005,2A4C,,,,,,
 Malta,2005,2A4D,,,,,,
 Malta,2005,2B,,,,,,
-Malta,2005,2B1,,,,,,
+Malta,2005,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2005,2B10,,,,,,
-Malta,2005,2B2,,,,,,
-Malta,2005,2B3,,,,,,
-Malta,2005,2B4,,,,,,
-Malta,2005,2B5,,,,,,
-Malta,2005,2B6,,,,,,
-Malta,2005,2B7,,,,,,
+Malta,2005,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2005,2B8,,,,,,
 Malta,2005,2B8A,,,,,,
 Malta,2005,2B8B,,,,,,
 Malta,2005,2B8C,,,,,,
 Malta,2005,2B8D,,,,,,
 Malta,2005,2B8E,,,,,,
-Malta,2005,2B8F,,,,,,
+Malta,2005,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2005,2B9,,,,,,
 Malta,2005,2B9A,,,,,,
 Malta,2005,2B9B,,,,,,
 Malta,2005,2C,,,,,,
 Malta,2005,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2005,2C2,,,,,,
-Malta,2005,2C3,,,,,,
-Malta,2005,2C4,,,,,,
-Malta,2005,2C5,,,,,,
-Malta,2005,2C6,,,,,,
+Malta,2005,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2005,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2005,2C7,,,,,,
 Malta,2005,2D,,,,,,
 Malta,2005,2D1,,,,,,
@@ -5258,31 +5258,31 @@ Malta,2006,2A4B,,,,,,
 Malta,2006,2A4C,,,,,,
 Malta,2006,2A4D,,,,,,
 Malta,2006,2B,,,,,,
-Malta,2006,2B1,,,,,,
+Malta,2006,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2006,2B10,,,,,,
-Malta,2006,2B2,,,,,,
-Malta,2006,2B3,,,,,,
-Malta,2006,2B4,,,,,,
-Malta,2006,2B5,,,,,,
-Malta,2006,2B6,,,,,,
-Malta,2006,2B7,,,,,,
+Malta,2006,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2006,2B8,,,,,,
 Malta,2006,2B8A,,,,,,
 Malta,2006,2B8B,,,,,,
 Malta,2006,2B8C,,,,,,
 Malta,2006,2B8D,,,,,,
 Malta,2006,2B8E,,,,,,
-Malta,2006,2B8F,,,,,,
+Malta,2006,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2006,2B9,,,,,,
 Malta,2006,2B9A,,,,,,
 Malta,2006,2B9B,,,,,,
 Malta,2006,2C,,,,,,
 Malta,2006,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2006,2C2,,,,,,
-Malta,2006,2C3,,,,,,
-Malta,2006,2C4,,,,,,
-Malta,2006,2C5,,,,,,
-Malta,2006,2C6,,,,,,
+Malta,2006,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2006,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2006,2C7,,,,,,
 Malta,2006,2D,,,,,,
 Malta,2006,2D1,,,,,,
@@ -5556,31 +5556,31 @@ Malta,2007,2A4B,,,,,,
 Malta,2007,2A4C,,,,,,
 Malta,2007,2A4D,,,,,,
 Malta,2007,2B,,,,,,
-Malta,2007,2B1,,,,,,
+Malta,2007,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2007,2B10,,,,,,
-Malta,2007,2B2,,,,,,
-Malta,2007,2B3,,,,,,
-Malta,2007,2B4,,,,,,
-Malta,2007,2B5,,,,,,
-Malta,2007,2B6,,,,,,
-Malta,2007,2B7,,,,,,
+Malta,2007,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2007,2B8,,,,,,
 Malta,2007,2B8A,,,,,,
 Malta,2007,2B8B,,,,,,
 Malta,2007,2B8C,,,,,,
 Malta,2007,2B8D,,,,,,
 Malta,2007,2B8E,,,,,,
-Malta,2007,2B8F,,,,,,
+Malta,2007,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2007,2B9,,,,,,
 Malta,2007,2B9A,,,,,,
 Malta,2007,2B9B,,,,,,
 Malta,2007,2C,,,,,,
 Malta,2007,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2007,2C2,,,,,,
-Malta,2007,2C3,,,,,,
-Malta,2007,2C4,,,,,,
-Malta,2007,2C5,,,,,,
-Malta,2007,2C6,,,,,,
+Malta,2007,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2007,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2007,2C7,,,,,,
 Malta,2007,2D,,,,,,
 Malta,2007,2D1,,,,,,
@@ -5854,31 +5854,31 @@ Malta,2008,2A4B,,,,,,
 Malta,2008,2A4C,,,,,,
 Malta,2008,2A4D,,,,,,
 Malta,2008,2B,,,,,,
-Malta,2008,2B1,,,,,,
+Malta,2008,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2008,2B10,,,,,,
-Malta,2008,2B2,,,,,,
-Malta,2008,2B3,,,,,,
-Malta,2008,2B4,,,,,,
-Malta,2008,2B5,,,,,,
-Malta,2008,2B6,,,,,,
-Malta,2008,2B7,,,,,,
+Malta,2008,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2008,2B8,,,,,,
 Malta,2008,2B8A,,,,,,
 Malta,2008,2B8B,,,,,,
 Malta,2008,2B8C,,,,,,
 Malta,2008,2B8D,,,,,,
 Malta,2008,2B8E,,,,,,
-Malta,2008,2B8F,,,,,,
+Malta,2008,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2008,2B9,,,,,,
 Malta,2008,2B9A,,,,,,
 Malta,2008,2B9B,,,,,,
 Malta,2008,2C,,,,,,
 Malta,2008,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2008,2C2,,,,,,
-Malta,2008,2C3,,,,,,
-Malta,2008,2C4,,,,,,
-Malta,2008,2C5,,,,,,
-Malta,2008,2C6,,,,,,
+Malta,2008,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2008,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2008,2C7,,,,,,
 Malta,2008,2D,,,,,,
 Malta,2008,2D1,,,,,,
@@ -6152,31 +6152,31 @@ Malta,2009,2A4B,,,,,,
 Malta,2009,2A4C,,,,,,
 Malta,2009,2A4D,,,,,,
 Malta,2009,2B,,,,,,
-Malta,2009,2B1,,,,,,
+Malta,2009,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2009,2B10,,,,,,
-Malta,2009,2B2,,,,,,
-Malta,2009,2B3,,,,,,
-Malta,2009,2B4,,,,,,
-Malta,2009,2B5,,,,,,
-Malta,2009,2B6,,,,,,
-Malta,2009,2B7,,,,,,
+Malta,2009,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2009,2B8,,,,,,
 Malta,2009,2B8A,,,,,,
 Malta,2009,2B8B,,,,,,
 Malta,2009,2B8C,,,,,,
 Malta,2009,2B8D,,,,,,
 Malta,2009,2B8E,,,,,,
-Malta,2009,2B8F,,,,,,
+Malta,2009,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2009,2B9,,,,,,
 Malta,2009,2B9A,,,,,,
 Malta,2009,2B9B,,,,,,
 Malta,2009,2C,,,,,,
 Malta,2009,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2009,2C2,,,,,,
-Malta,2009,2C3,,,,,,
-Malta,2009,2C4,,,,,,
-Malta,2009,2C5,,,,,,
-Malta,2009,2C6,,,,,,
+Malta,2009,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2009,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2009,2C7,,,,,,
 Malta,2009,2D,,,,,,
 Malta,2009,2D1,,,,,,
@@ -6450,31 +6450,31 @@ Malta,2010,2A4B,,,,,,
 Malta,2010,2A4C,,,,,,
 Malta,2010,2A4D,,,,,,
 Malta,2010,2B,,,,,,
-Malta,2010,2B1,,,,,,
+Malta,2010,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2010,2B10,,,,,,
-Malta,2010,2B2,,,,,,
-Malta,2010,2B3,,,,,,
-Malta,2010,2B4,,,,,,
-Malta,2010,2B5,,,,,,
-Malta,2010,2B6,,,,,,
-Malta,2010,2B7,,,,,,
+Malta,2010,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2010,2B8,,,,,,
 Malta,2010,2B8A,,,,,,
 Malta,2010,2B8B,,,,,,
 Malta,2010,2B8C,,,,,,
 Malta,2010,2B8D,,,,,,
 Malta,2010,2B8E,,,,,,
-Malta,2010,2B8F,,,,,,
+Malta,2010,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2010,2B9,,,,,,
 Malta,2010,2B9A,,,,,,
 Malta,2010,2B9B,,,,,,
 Malta,2010,2C,,,,,,
 Malta,2010,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2010,2C2,,,,,,
-Malta,2010,2C3,,,,,,
-Malta,2010,2C4,,,,,,
-Malta,2010,2C5,,,,,,
-Malta,2010,2C6,,,,,,
+Malta,2010,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2010,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2010,2C7,,,,,,
 Malta,2010,2D,,,,,,
 Malta,2010,2D1,,,,,,
@@ -6748,31 +6748,31 @@ Malta,2011,2A4B,,,,,,
 Malta,2011,2A4C,,,,,,
 Malta,2011,2A4D,,,,,,
 Malta,2011,2B,,,,,,
-Malta,2011,2B1,,,,,,
+Malta,2011,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2011,2B10,,,,,,
-Malta,2011,2B2,,,,,,
-Malta,2011,2B3,,,,,,
-Malta,2011,2B4,,,,,,
-Malta,2011,2B5,,,,,,
-Malta,2011,2B6,,,,,,
-Malta,2011,2B7,,,,,,
+Malta,2011,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2011,2B8,,,,,,
 Malta,2011,2B8A,,,,,,
 Malta,2011,2B8B,,,,,,
 Malta,2011,2B8C,,,,,,
 Malta,2011,2B8D,,,,,,
 Malta,2011,2B8E,,,,,,
-Malta,2011,2B8F,,,,,,
+Malta,2011,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2011,2B9,,,,,,
 Malta,2011,2B9A,,,,,,
 Malta,2011,2B9B,,,,,,
 Malta,2011,2C,,,,,,
 Malta,2011,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2011,2C2,,,,,,
-Malta,2011,2C3,,,,,,
-Malta,2011,2C4,,,,,,
-Malta,2011,2C5,,,,,,
-Malta,2011,2C6,,,,,,
+Malta,2011,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2011,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2011,2C7,,,,,,
 Malta,2011,2D,,,,,,
 Malta,2011,2D1,,,,,,
@@ -6864,63 +6864,63 @@ Malta,2012,1A1,Oil,,,,,
 Malta,2012,1A1A,Coal/peat,,,,,
 Malta,2012,1A1A,Natural gas,,,,,
 Malta,2012,1A1A,Oil,,,,,
-Malta,2012,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1A1,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1A1,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1A2,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1A2,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1A3,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1A3,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1B,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1B,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1C,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A1,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A1,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A3,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1A3,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1B,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1B,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1C,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A1C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,1A2,Coal/peat,,,,,
 Malta,2012,1A2,Natural gas,,,,,
 Malta,2012,1A2,Oil,,,,,
-Malta,2012,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2A,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2A,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2B,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2B,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2C,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2D,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2D,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2E,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2E,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2F,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2F,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2G,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2G,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2H,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2H,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2I,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2I,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2J,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2J,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2K,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2K,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2L,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2L,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2M,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,1A2M,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2A,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2A,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2B,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2B,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2C,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2D,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2D,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2E,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2E,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2F,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2F,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2G,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2G,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2H,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2H,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2I,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2I,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2J,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2J,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2K,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2K,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2L,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2L,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2M,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A2M,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,1A3,Coal/peat,,,,,
 Malta,2012,1A3,Natural gas,,,,,
 Malta,2012,1A3,Oil,,,,,
@@ -6930,9 +6930,9 @@ Malta,2012,1A3A,Oil,,,,,
 Malta,2012,1A3A1,Coal/peat,,,,,
 Malta,2012,1A3A1,Natural gas,,,,,
 Malta,2012,1A3A1,Oil,,,,,
-Malta,2012,1A3A2,Coal/peat,,,,,
-Malta,2012,1A3A2,Natural gas,,,,,
-Malta,2012,1A3A2,Oil,,,,,
+Malta,2012,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,1A3B,Coal/peat,,,,,
 Malta,2012,1A3B,Natural gas,,,,,
 Malta,2012,1A3B,Oil,,,,,
@@ -7023,12 +7023,12 @@ Malta,2012,1B2B36,,,,,,
 Malta,2012,1B3,,,,,,
 Malta,2012,1C,,,,,,
 Malta,2012,1C1,,,,,,
-Malta,2012,1C1A,,,,,,
+Malta,2012,1C1A,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,1C1B,,,,,,
 Malta,2012,1C1C,,,,,,
 Malta,2012,1C2,,,,,,
 Malta,2012,1C2A,,,,,,
-Malta,2012,1C2B,,,,,,
+Malta,2012,1C2B,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,1C3,,,,,,
 Malta,2012,2,,,,,,
 Malta,2012,20,,,,,,
@@ -7037,40 +7037,40 @@ Malta,2012,2000,,,,,,
 Malta,2012,20000,,,,,,
 Malta,2012,200000,,,,,,
 Malta,2012,2A,,,,,,
-Malta,2012,2A1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,2A2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,2A3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2A1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2A2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2A3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,2A4,,,,,,
-Malta,2012,2A4A,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2A4A,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,2A4B,,,,,,
 Malta,2012,2A4C,,,,,,
 Malta,2012,2A4D,,,,,,
 Malta,2012,2B,,,,,,
-Malta,2012,2B1,,,,,,
+Malta,2012,2B1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,2B10,,,,,,
-Malta,2012,2B2,,,,,,
-Malta,2012,2B3,,,,,,
-Malta,2012,2B4,,,,,,
-Malta,2012,2B5,,,,,,
-Malta,2012,2B6,,,,,,
-Malta,2012,2B7,,,,,,
+Malta,2012,2B2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2B3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2B4,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2B5,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2B6,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2B7,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,2B8,,,,,,
 Malta,2012,2B8A,,,,,,
 Malta,2012,2B8B,,,,,,
 Malta,2012,2B8C,,,,,,
 Malta,2012,2B8D,,,,,,
 Malta,2012,2B8E,,,,,,
-Malta,2012,2B8F,,,,,,
+Malta,2012,2B8F,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,2B9,,,,,,
 Malta,2012,2B9A,,,,,,
 Malta,2012,2B9B,,,,,,
 Malta,2012,2C,,,,,,
-Malta,2012,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Malta,2012,2C2,,,,,,
-Malta,2012,2C3,,,,,,
-Malta,2012,2C4,,,,,,
-Malta,2012,2C5,,,,,,
-Malta,2012,2C6,,,,,,
+Malta,2012,2C1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2C2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2C3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2C4,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2C5,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2C6,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,2C7,,,,,,
 Malta,2012,2D,,,,,,
 Malta,2012,2D1,,,,,,
@@ -7091,7 +7091,7 @@ Malta,2012,2G2,,,,,,
 Malta,2012,2G3,,,,,,
 Malta,2012,2G4,,,,,,
 Malta,2012,2H,,,,,,
-Malta,2012,2H1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2012,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2012,2H2,,,,,,
 Malta,2012,2H3,,,,,,
 Malta,2012,3,,,,,,
@@ -7228,9 +7228,9 @@ Malta,2013,1A3A,Oil,,,,,
 Malta,2013,1A3A1,Coal/peat,,,,,
 Malta,2013,1A3A1,Natural gas,,,,,
 Malta,2013,1A3A1,Oil,,,,,
-Malta,2013,1A3A2,Coal/peat,,,,,
-Malta,2013,1A3A2,Natural gas,,,,,
-Malta,2013,1A3A2,Oil,,,,,
+Malta,2013,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2013,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2013,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2013,1A3B,Coal/peat,,,,,
 Malta,2013,1A3B,Natural gas,,,,,
 Malta,2013,1A3B,Oil,,,,,
@@ -7389,7 +7389,7 @@ Malta,2013,2G2,,,,,,
 Malta,2013,2G3,,,,,,
 Malta,2013,2G4,,,,,,
 Malta,2013,2H,,,,,,
-Malta,2013,2H1,,,,,,
+Malta,2013,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2013,2H2,,,,,,
 Malta,2013,2H3,,,,,,
 Malta,2013,3,,,,,,
@@ -7526,9 +7526,9 @@ Malta,2014,1A3A,Oil,,,,,
 Malta,2014,1A3A1,Coal/peat,,,,,
 Malta,2014,1A3A1,Natural gas,,,,,
 Malta,2014,1A3A1,Oil,,,,,
-Malta,2014,1A3A2,Coal/peat,,,,,
-Malta,2014,1A3A2,Natural gas,,,,,
-Malta,2014,1A3A2,Oil,,,,,
+Malta,2014,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2014,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2014,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2014,1A3B,Coal/peat,,,,,
 Malta,2014,1A3B,Natural gas,,,,,
 Malta,2014,1A3B,Oil,,,,,
@@ -7687,7 +7687,7 @@ Malta,2014,2G2,,,,,,
 Malta,2014,2G3,,,,,,
 Malta,2014,2G4,,,,,,
 Malta,2014,2H,,,,,,
-Malta,2014,2H1,,,,,,
+Malta,2014,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2014,2H2,,,,,,
 Malta,2014,2H3,,,,,,
 Malta,2014,3,,,,,,
@@ -7824,9 +7824,9 @@ Malta,2015,1A3A,Oil,,,,,
 Malta,2015,1A3A1,Coal/peat,,,,,
 Malta,2015,1A3A1,Natural gas,,,,,
 Malta,2015,1A3A1,Oil,,,,,
-Malta,2015,1A3A2,Coal/peat,,,,,
-Malta,2015,1A3A2,Natural gas,,,,,
-Malta,2015,1A3A2,Oil,,,,,
+Malta,2015,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2015,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2015,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2015,1A3B,Coal/peat,,,,,
 Malta,2015,1A3B,Natural gas,,,,,
 Malta,2015,1A3B,Oil,,,,,
@@ -7985,7 +7985,7 @@ Malta,2015,2G2,,,,,,
 Malta,2015,2G3,,,,,,
 Malta,2015,2G4,,,,,,
 Malta,2015,2H,,,,,,
-Malta,2015,2H1,,,,,,
+Malta,2015,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2015,2H2,,,,,,
 Malta,2015,2H3,,,,,,
 Malta,2015,3,,,,,,
@@ -8122,9 +8122,9 @@ Malta,2016,1A3A,Oil,,,,,
 Malta,2016,1A3A1,Coal/peat,,,,,
 Malta,2016,1A3A1,Natural gas,,,,,
 Malta,2016,1A3A1,Oil,,,,,
-Malta,2016,1A3A2,Coal/peat,,,,,
-Malta,2016,1A3A2,Natural gas,,,,,
-Malta,2016,1A3A2,Oil,,,,,
+Malta,2016,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2016,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2016,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2016,1A3B,Coal/peat,,,,,
 Malta,2016,1A3B,Natural gas,,,,,
 Malta,2016,1A3B,Oil,,,,,
@@ -8283,7 +8283,7 @@ Malta,2016,2G2,,,,,,
 Malta,2016,2G3,,,,,,
 Malta,2016,2G4,,,,,,
 Malta,2016,2H,,,,,,
-Malta,2016,2H1,,,,,,
+Malta,2016,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2016,2H2,,,,,,
 Malta,2016,2H3,,,,,,
 Malta,2016,3,,,,,,
@@ -8420,9 +8420,9 @@ Malta,2017,1A3A,Oil,,,,,
 Malta,2017,1A3A1,Coal/peat,,,,,
 Malta,2017,1A3A1,Natural gas,,,,,
 Malta,2017,1A3A1,Oil,,,,,
-Malta,2017,1A3A2,Coal/peat,,,,,
-Malta,2017,1A3A2,Natural gas,,,,,
-Malta,2017,1A3A2,Oil,,,,,
+Malta,2017,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2017,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2017,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2017,1A3B,Coal/peat,,,,,
 Malta,2017,1A3B,Natural gas,,,,,
 Malta,2017,1A3B,Oil,,,,,
@@ -8581,7 +8581,7 @@ Malta,2017,2G2,,,,,,
 Malta,2017,2G3,,,,,,
 Malta,2017,2G4,,,,,,
 Malta,2017,2H,,,,,,
-Malta,2017,2H1,,,,,,
+Malta,2017,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2017,2H2,,,,,,
 Malta,2017,2H3,,,,,,
 Malta,2017,3,,,,,,
@@ -8718,9 +8718,9 @@ Malta,2018,1A3A,Oil,,,,,
 Malta,2018,1A3A1,Coal/peat,,,,,
 Malta,2018,1A3A1,Natural gas,,,,,
 Malta,2018,1A3A1,Oil,,,,,
-Malta,2018,1A3A2,Coal/peat,,,,,
-Malta,2018,1A3A2,Natural gas,,,,,
-Malta,2018,1A3A2,Oil,,,,,
+Malta,2018,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2018,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2018,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2018,1A3B,Coal/peat,,,,,
 Malta,2018,1A3B,Natural gas,,,,,
 Malta,2018,1A3B,Oil,,,,,
@@ -8879,7 +8879,7 @@ Malta,2018,2G2,,,,,,
 Malta,2018,2G3,,,,,,
 Malta,2018,2G4,,,,,,
 Malta,2018,2H,,,,,,
-Malta,2018,2H1,,,,,,
+Malta,2018,2H1,,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2018,2H2,,,,,,
 Malta,2018,2H3,,,,,,
 Malta,2018,3,,,,,,
@@ -9016,9 +9016,9 @@ Malta,2019,1A3A,Oil,,,,,
 Malta,2019,1A3A1,Coal/peat,,,,,
 Malta,2019,1A3A1,Natural gas,,,,,
 Malta,2019,1A3A1,Oil,,,,,
-Malta,2019,1A3A2,Coal/peat,,,,,
-Malta,2019,1A3A2,Natural gas,,,,,
-Malta,2019,1A3A2,Oil,,,,,
+Malta,2019,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2019,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2019,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2019,1A3B,Coal/peat,,,,,
 Malta,2019,1A3B,Natural gas,,,,,
 Malta,2019,1A3B,Oil,,,,,
@@ -9177,7 +9177,7 @@ Malta,2019,2G2,,,,,,
 Malta,2019,2G3,,,,,,
 Malta,2019,2G4,,,,,,
 Malta,2019,2H,,,,,,
-Malta,2019,2H1,,,,,,
+Malta,2019,2H1,,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2019,2H2,,,,,,
 Malta,2019,2H3,,,,,,
 Malta,2019,3,,,,,,
@@ -9314,9 +9314,9 @@ Malta,2020,1A3A,Oil,,,,,
 Malta,2020,1A3A1,Coal/peat,,,,,
 Malta,2020,1A3A1,Natural gas,,,,,
 Malta,2020,1A3A1,Oil,,,,,
-Malta,2020,1A3A2,Coal/peat,,,,,
-Malta,2020,1A3A2,Natural gas,,,,,
-Malta,2020,1A3A2,Oil,,,,,
+Malta,2020,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2020,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Malta,2020,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2020,1A3B,Coal/peat,,,,,
 Malta,2020,1A3B,Natural gas,,,,,
 Malta,2020,1A3B,Oil,,,,,
@@ -9475,7 +9475,7 @@ Malta,2020,2G2,,,,,,
 Malta,2020,2G3,,,,,,
 Malta,2020,2G4,,,,,,
 Malta,2020,2H,,,,,,
-Malta,2020,2H1,,,,,,
+Malta,2020,2H1,,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Malta,2020,2H2,,,,,,
 Malta,2020,2H3,,,,,,
 Malta,2020,3,,,,,,
@@ -9612,9 +9612,9 @@ Malta,2021,1A3A,Oil,,,,,
 Malta,2021,1A3A1,Coal/peat,,,,,
 Malta,2021,1A3A1,Natural gas,,,,,
 Malta,2021,1A3A1,Oil,,,,,
-Malta,2021,1A3A2,Coal/peat,,,,,
-Malta,2021,1A3A2,Natural gas,,,,,
-Malta,2021,1A3A2,Oil,,,,,
+Malta,2021,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,
+Malta,2021,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,
+Malta,2021,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,
 Malta,2021,1A3B,Coal/peat,,,,,
 Malta,2021,1A3B,Natural gas,,,,,
 Malta,2021,1A3B,Oil,,,,,
@@ -9773,7 +9773,7 @@ Malta,2021,2G2,,,,,,
 Malta,2021,2G3,,,,,,
 Malta,2021,2G4,,,,,,
 Malta,2021,2H,,,,,,
-Malta,2021,2H1,,,,,,
+Malta,2021,2H1,,,"leg(EC[2018], EC[2020])",,,
 Malta,2021,2H2,,,,,,
 Malta,2021,2H3,,,,,,
 Malta,2021,3,,,,,,

@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax_dummy,ets_dummy,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 "Yemen, Rep.",1989,0,,,,,,
 "Yemen, Rep.",1989,1,,,,,,
 "Yemen, Rep.",1989,1A,Coal/peat,,,,,
