@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax_dummy,ets_dummy,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Portugal,1989,0,,,,,,
 Portugal,1989,1,,,,,,
 Portugal,1989,1A,Coal/peat,,,,,
@@ -4960,31 +4960,31 @@ Portugal,2005,2A4B,,,,,,
 Portugal,2005,2A4C,,,,,,
 Portugal,2005,2A4D,,,,,,
 Portugal,2005,2B,,,,,,
-Portugal,2005,2B1,,,,,,
+Portugal,2005,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2005,2B10,,,,,,
-Portugal,2005,2B2,,,,,,
-Portugal,2005,2B3,,,,,,
-Portugal,2005,2B4,,,,,,
-Portugal,2005,2B5,,,,,,
-Portugal,2005,2B6,,,,,,
-Portugal,2005,2B7,,,,,,
+Portugal,2005,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2005,2B8,,,,,,
 Portugal,2005,2B8A,,,,,,
 Portugal,2005,2B8B,,,,,,
 Portugal,2005,2B8C,,,,,,
 Portugal,2005,2B8D,,,,,,
 Portugal,2005,2B8E,,,,,,
-Portugal,2005,2B8F,,,,,,
+Portugal,2005,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2005,2B9,,,,,,
 Portugal,2005,2B9A,,,,,,
 Portugal,2005,2B9B,,,,,,
 Portugal,2005,2C,,,,,,
 Portugal,2005,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2005,2C2,,,,,,
-Portugal,2005,2C3,,,,,,
-Portugal,2005,2C4,,,,,,
-Portugal,2005,2C5,,,,,,
-Portugal,2005,2C6,,,,,,
+Portugal,2005,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2005,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2005,2C7,,,,,,
 Portugal,2005,2D,,,,,,
 Portugal,2005,2D1,,,,,,
@@ -5258,31 +5258,31 @@ Portugal,2006,2A4B,,,,,,
 Portugal,2006,2A4C,,,,,,
 Portugal,2006,2A4D,,,,,,
 Portugal,2006,2B,,,,,,
-Portugal,2006,2B1,,,,,,
+Portugal,2006,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2006,2B10,,,,,,
-Portugal,2006,2B2,,,,,,
-Portugal,2006,2B3,,,,,,
-Portugal,2006,2B4,,,,,,
-Portugal,2006,2B5,,,,,,
-Portugal,2006,2B6,,,,,,
-Portugal,2006,2B7,,,,,,
+Portugal,2006,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2006,2B8,,,,,,
 Portugal,2006,2B8A,,,,,,
 Portugal,2006,2B8B,,,,,,
 Portugal,2006,2B8C,,,,,,
 Portugal,2006,2B8D,,,,,,
 Portugal,2006,2B8E,,,,,,
-Portugal,2006,2B8F,,,,,,
+Portugal,2006,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2006,2B9,,,,,,
 Portugal,2006,2B9A,,,,,,
 Portugal,2006,2B9B,,,,,,
 Portugal,2006,2C,,,,,,
 Portugal,2006,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2006,2C2,,,,,,
-Portugal,2006,2C3,,,,,,
-Portugal,2006,2C4,,,,,,
-Portugal,2006,2C5,,,,,,
-Portugal,2006,2C6,,,,,,
+Portugal,2006,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2006,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2006,2C7,,,,,,
 Portugal,2006,2D,,,,,,
 Portugal,2006,2D1,,,,,,
@@ -5556,31 +5556,31 @@ Portugal,2007,2A4B,,,,,,
 Portugal,2007,2A4C,,,,,,
 Portugal,2007,2A4D,,,,,,
 Portugal,2007,2B,,,,,,
-Portugal,2007,2B1,,,,,,
+Portugal,2007,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2007,2B10,,,,,,
-Portugal,2007,2B2,,,,,,
-Portugal,2007,2B3,,,,,,
-Portugal,2007,2B4,,,,,,
-Portugal,2007,2B5,,,,,,
-Portugal,2007,2B6,,,,,,
-Portugal,2007,2B7,,,,,,
+Portugal,2007,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2007,2B8,,,,,,
 Portugal,2007,2B8A,,,,,,
 Portugal,2007,2B8B,,,,,,
 Portugal,2007,2B8C,,,,,,
 Portugal,2007,2B8D,,,,,,
 Portugal,2007,2B8E,,,,,,
-Portugal,2007,2B8F,,,,,,
+Portugal,2007,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2007,2B9,,,,,,
 Portugal,2007,2B9A,,,,,,
 Portugal,2007,2B9B,,,,,,
 Portugal,2007,2C,,,,,,
 Portugal,2007,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2007,2C2,,,,,,
-Portugal,2007,2C3,,,,,,
-Portugal,2007,2C4,,,,,,
-Portugal,2007,2C5,,,,,,
-Portugal,2007,2C6,,,,,,
+Portugal,2007,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2007,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2007,2C7,,,,,,
 Portugal,2007,2D,,,,,,
 Portugal,2007,2D1,,,,,,
@@ -5854,31 +5854,31 @@ Portugal,2008,2A4B,,,,,,
 Portugal,2008,2A4C,,,,,,
 Portugal,2008,2A4D,,,,,,
 Portugal,2008,2B,,,,,,
-Portugal,2008,2B1,,,,,,
+Portugal,2008,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2008,2B10,,,,,,
-Portugal,2008,2B2,,,,,,
-Portugal,2008,2B3,,,,,,
-Portugal,2008,2B4,,,,,,
-Portugal,2008,2B5,,,,,,
-Portugal,2008,2B6,,,,,,
-Portugal,2008,2B7,,,,,,
+Portugal,2008,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2008,2B8,,,,,,
 Portugal,2008,2B8A,,,,,,
 Portugal,2008,2B8B,,,,,,
 Portugal,2008,2B8C,,,,,,
 Portugal,2008,2B8D,,,,,,
 Portugal,2008,2B8E,,,,,,
-Portugal,2008,2B8F,,,,,,
+Portugal,2008,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2008,2B9,,,,,,
 Portugal,2008,2B9A,,,,,,
 Portugal,2008,2B9B,,,,,,
 Portugal,2008,2C,,,,,,
 Portugal,2008,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2008,2C2,,,,,,
-Portugal,2008,2C3,,,,,,
-Portugal,2008,2C4,,,,,,
-Portugal,2008,2C5,,,,,,
-Portugal,2008,2C6,,,,,,
+Portugal,2008,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2008,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2008,2C7,,,,,,
 Portugal,2008,2D,,,,,,
 Portugal,2008,2D1,,,,,,
@@ -6152,31 +6152,31 @@ Portugal,2009,2A4B,,,,,,
 Portugal,2009,2A4C,,,,,,
 Portugal,2009,2A4D,,,,,,
 Portugal,2009,2B,,,,,,
-Portugal,2009,2B1,,,,,,
+Portugal,2009,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2009,2B10,,,,,,
-Portugal,2009,2B2,,,,,,
-Portugal,2009,2B3,,,,,,
-Portugal,2009,2B4,,,,,,
-Portugal,2009,2B5,,,,,,
-Portugal,2009,2B6,,,,,,
-Portugal,2009,2B7,,,,,,
+Portugal,2009,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2009,2B8,,,,,,
 Portugal,2009,2B8A,,,,,,
 Portugal,2009,2B8B,,,,,,
 Portugal,2009,2B8C,,,,,,
 Portugal,2009,2B8D,,,,,,
 Portugal,2009,2B8E,,,,,,
-Portugal,2009,2B8F,,,,,,
+Portugal,2009,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2009,2B9,,,,,,
 Portugal,2009,2B9A,,,,,,
 Portugal,2009,2B9B,,,,,,
 Portugal,2009,2C,,,,,,
 Portugal,2009,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2009,2C2,,,,,,
-Portugal,2009,2C3,,,,,,
-Portugal,2009,2C4,,,,,,
-Portugal,2009,2C5,,,,,,
-Portugal,2009,2C6,,,,,,
+Portugal,2009,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2009,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2009,2C7,,,,,,
 Portugal,2009,2D,,,,,,
 Portugal,2009,2D1,,,,,,
@@ -6450,31 +6450,31 @@ Portugal,2010,2A4B,,,,,,
 Portugal,2010,2A4C,,,,,,
 Portugal,2010,2A4D,,,,,,
 Portugal,2010,2B,,,,,,
-Portugal,2010,2B1,,,,,,
+Portugal,2010,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2010,2B10,,,,,,
-Portugal,2010,2B2,,,,,,
-Portugal,2010,2B3,,,,,,
-Portugal,2010,2B4,,,,,,
-Portugal,2010,2B5,,,,,,
-Portugal,2010,2B6,,,,,,
-Portugal,2010,2B7,,,,,,
+Portugal,2010,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2010,2B8,,,,,,
 Portugal,2010,2B8A,,,,,,
 Portugal,2010,2B8B,,,,,,
 Portugal,2010,2B8C,,,,,,
 Portugal,2010,2B8D,,,,,,
 Portugal,2010,2B8E,,,,,,
-Portugal,2010,2B8F,,,,,,
+Portugal,2010,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2010,2B9,,,,,,
 Portugal,2010,2B9A,,,,,,
 Portugal,2010,2B9B,,,,,,
 Portugal,2010,2C,,,,,,
 Portugal,2010,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2010,2C2,,,,,,
-Portugal,2010,2C3,,,,,,
-Portugal,2010,2C4,,,,,,
-Portugal,2010,2C5,,,,,,
-Portugal,2010,2C6,,,,,,
+Portugal,2010,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2010,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2010,2C7,,,,,,
 Portugal,2010,2D,,,,,,
 Portugal,2010,2D1,,,,,,
@@ -6748,31 +6748,31 @@ Portugal,2011,2A4B,,,,,,
 Portugal,2011,2A4C,,,,,,
 Portugal,2011,2A4D,,,,,,
 Portugal,2011,2B,,,,,,
-Portugal,2011,2B1,,,,,,
+Portugal,2011,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2011,2B10,,,,,,
-Portugal,2011,2B2,,,,,,
-Portugal,2011,2B3,,,,,,
-Portugal,2011,2B4,,,,,,
-Portugal,2011,2B5,,,,,,
-Portugal,2011,2B6,,,,,,
-Portugal,2011,2B7,,,,,,
+Portugal,2011,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2011,2B8,,,,,,
 Portugal,2011,2B8A,,,,,,
 Portugal,2011,2B8B,,,,,,
 Portugal,2011,2B8C,,,,,,
 Portugal,2011,2B8D,,,,,,
 Portugal,2011,2B8E,,,,,,
-Portugal,2011,2B8F,,,,,,
+Portugal,2011,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2011,2B9,,,,,,
 Portugal,2011,2B9A,,,,,,
 Portugal,2011,2B9B,,,,,,
 Portugal,2011,2C,,,,,,
 Portugal,2011,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2011,2C2,,,,,,
-Portugal,2011,2C3,,,,,,
-Portugal,2011,2C4,,,,,,
-Portugal,2011,2C5,,,,,,
-Portugal,2011,2C6,,,,,,
+Portugal,2011,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2011,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2011,2C7,,,,,,
 Portugal,2011,2D,,,,,,
 Portugal,2011,2D1,,,,,,
@@ -6864,63 +6864,63 @@ Portugal,2012,1A1,Oil,,,,,
 Portugal,2012,1A1A,Coal/peat,,,,,
 Portugal,2012,1A1A,Natural gas,,,,,
 Portugal,2012,1A1A,Oil,,,,,
-Portugal,2012,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1A1,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1A1,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1A2,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1A2,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1A3,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1A3,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1B,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1B,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1C,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A1,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A1,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A3,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1A3,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1B,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1B,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1C,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A1C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,1A2,Coal/peat,,,,,
 Portugal,2012,1A2,Natural gas,,,,,
 Portugal,2012,1A2,Oil,,,,,
-Portugal,2012,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2A,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2A,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2B,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2B,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2C,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2D,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2D,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2E,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2E,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2F,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2F,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2G,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2G,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2H,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2H,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2I,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2I,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2J,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2J,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2K,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2K,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2L,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2L,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2M,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,1A2M,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2A,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2A,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2B,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2B,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2C,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2D,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2D,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2E,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2E,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2F,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2F,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2G,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2G,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2H,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2H,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2I,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2I,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2J,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2J,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2K,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2K,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2L,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2L,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2M,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A2M,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,1A3,Coal/peat,,,,,
 Portugal,2012,1A3,Natural gas,,,,,
 Portugal,2012,1A3,Oil,,,,,
@@ -6930,9 +6930,9 @@ Portugal,2012,1A3A,Oil,,,,,
 Portugal,2012,1A3A1,Coal/peat,,,,,
 Portugal,2012,1A3A1,Natural gas,,,,,
 Portugal,2012,1A3A1,Oil,,,,,
-Portugal,2012,1A3A2,Coal/peat,,,,,
-Portugal,2012,1A3A2,Natural gas,,,,,
-Portugal,2012,1A3A2,Oil,,,,,
+Portugal,2012,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,1A3B,Coal/peat,,,,,
 Portugal,2012,1A3B,Natural gas,,,,,
 Portugal,2012,1A3B,Oil,,,,,
@@ -7023,12 +7023,12 @@ Portugal,2012,1B2B36,,,,,,
 Portugal,2012,1B3,,,,,,
 Portugal,2012,1C,,,,,,
 Portugal,2012,1C1,,,,,,
-Portugal,2012,1C1A,,,,,,
+Portugal,2012,1C1A,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,1C1B,,,,,,
 Portugal,2012,1C1C,,,,,,
 Portugal,2012,1C2,,,,,,
 Portugal,2012,1C2A,,,,,,
-Portugal,2012,1C2B,,,,,,
+Portugal,2012,1C2B,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,1C3,,,,,,
 Portugal,2012,2,,,,,,
 Portugal,2012,20,,,,,,
@@ -7037,40 +7037,40 @@ Portugal,2012,2000,,,,,,
 Portugal,2012,20000,,,,,,
 Portugal,2012,200000,,,,,,
 Portugal,2012,2A,,,,,,
-Portugal,2012,2A1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,2A2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,2A3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2A1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2A2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2A3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,2A4,,,,,,
-Portugal,2012,2A4A,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2A4A,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,2A4B,,,,,,
 Portugal,2012,2A4C,,,,,,
 Portugal,2012,2A4D,,,,,,
 Portugal,2012,2B,,,,,,
-Portugal,2012,2B1,,,,,,
+Portugal,2012,2B1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,2B10,,,,,,
-Portugal,2012,2B2,,,,,,
-Portugal,2012,2B3,,,,,,
-Portugal,2012,2B4,,,,,,
-Portugal,2012,2B5,,,,,,
-Portugal,2012,2B6,,,,,,
-Portugal,2012,2B7,,,,,,
+Portugal,2012,2B2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2B3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2B4,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2B5,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2B6,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2B7,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,2B8,,,,,,
 Portugal,2012,2B8A,,,,,,
 Portugal,2012,2B8B,,,,,,
 Portugal,2012,2B8C,,,,,,
 Portugal,2012,2B8D,,,,,,
 Portugal,2012,2B8E,,,,,,
-Portugal,2012,2B8F,,,,,,
+Portugal,2012,2B8F,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,2B9,,,,,,
 Portugal,2012,2B9A,,,,,,
 Portugal,2012,2B9B,,,,,,
 Portugal,2012,2C,,,,,,
-Portugal,2012,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2012,2C2,,,,,,
-Portugal,2012,2C3,,,,,,
-Portugal,2012,2C4,,,,,,
-Portugal,2012,2C5,,,,,,
-Portugal,2012,2C6,,,,,,
+Portugal,2012,2C1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2C2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2C3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2C4,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2C5,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2C6,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,2C7,,,,,,
 Portugal,2012,2D,,,,,,
 Portugal,2012,2D1,,,,,,
@@ -7091,7 +7091,7 @@ Portugal,2012,2G2,,,,,,
 Portugal,2012,2G3,,,,,,
 Portugal,2012,2G4,,,,,,
 Portugal,2012,2H,,,,,,
-Portugal,2012,2H1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2012,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2012,2H2,,,,,,
 Portugal,2012,2H3,,,,,,
 Portugal,2012,3,,,,,,
@@ -7228,9 +7228,9 @@ Portugal,2013,1A3A,Oil,,,,,
 Portugal,2013,1A3A1,Coal/peat,,,,,
 Portugal,2013,1A3A1,Natural gas,,,,,
 Portugal,2013,1A3A1,Oil,,,,,
-Portugal,2013,1A3A2,Coal/peat,,,,,
-Portugal,2013,1A3A2,Natural gas,,,,,
-Portugal,2013,1A3A2,Oil,,,,,
+Portugal,2013,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2013,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2013,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2013,1A3B,Coal/peat,,,,,
 Portugal,2013,1A3B,Natural gas,,,,,
 Portugal,2013,1A3B,Oil,,,,,
@@ -7389,7 +7389,7 @@ Portugal,2013,2G2,,,,,,
 Portugal,2013,2G3,,,,,,
 Portugal,2013,2G4,,,,,,
 Portugal,2013,2H,,,,,,
-Portugal,2013,2H1,,,,,,
+Portugal,2013,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2013,2H2,,,,,,
 Portugal,2013,2H3,,,,,,
 Portugal,2013,3,,,,,,
@@ -7526,9 +7526,9 @@ Portugal,2014,1A3A,Oil,,,,,
 Portugal,2014,1A3A1,Coal/peat,,,,,
 Portugal,2014,1A3A1,Natural gas,,,,,
 Portugal,2014,1A3A1,Oil,,,,,
-Portugal,2014,1A3A2,Coal/peat,,,,,
-Portugal,2014,1A3A2,Natural gas,,,,,
-Portugal,2014,1A3A2,Oil,,,,,
+Portugal,2014,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2014,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2014,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2014,1A3B,Coal/peat,,,,,
 Portugal,2014,1A3B,Natural gas,,,,,
 Portugal,2014,1A3B,Oil,,,,,
@@ -7687,7 +7687,7 @@ Portugal,2014,2G2,,,,,,
 Portugal,2014,2G3,,,,,,
 Portugal,2014,2G4,,,,,,
 Portugal,2014,2H,,,,,,
-Portugal,2014,2H1,,,,,,
+Portugal,2014,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2014,2H2,,,,,,
 Portugal,2014,2H3,,,,,,
 Portugal,2014,3,,,,,,
@@ -7824,9 +7824,9 @@ Portugal,2015,1A3A,Oil,,,,,
 Portugal,2015,1A3A1,Coal/peat,,,,leg(PRT[2014]),
 Portugal,2015,1A3A1,Natural gas,,,,leg(PRT[2014]),
 Portugal,2015,1A3A1,Oil,,,,leg(PRT[2014]),
-Portugal,2015,1A3A2,Coal/peat,,,,,
-Portugal,2015,1A3A2,Natural gas,,,,,
-Portugal,2015,1A3A2,Oil,,,,,
+Portugal,2015,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2015,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2015,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2015,1A3B,Coal/peat,,,,,
 Portugal,2015,1A3B,Natural gas,,,,,
 Portugal,2015,1A3B,Oil,,,,,
@@ -7985,7 +7985,7 @@ Portugal,2015,2G2,,,,,,
 Portugal,2015,2G3,,,,,,
 Portugal,2015,2G4,,,,,,
 Portugal,2015,2H,,,,,,
-Portugal,2015,2H1,,,,,,
+Portugal,2015,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2015,2H2,,,,,,
 Portugal,2015,2H3,,,,,,
 Portugal,2015,3,,,,,,
@@ -8122,9 +8122,9 @@ Portugal,2016,1A3A,Oil,,,,,
 Portugal,2016,1A3A1,Coal/peat,,,,"leg(PRT[2014], PRT[2016])",
 Portugal,2016,1A3A1,Natural gas,,,,"leg(PRT[2014], PRT[2016])",
 Portugal,2016,1A3A1,Oil,,,,"leg(PRT[2014], PRT[2016])",
-Portugal,2016,1A3A2,Coal/peat,,,,,
-Portugal,2016,1A3A2,Natural gas,,,,,
-Portugal,2016,1A3A2,Oil,,,,,
+Portugal,2016,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2016,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2016,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2016,1A3B,Coal/peat,,,,,
 Portugal,2016,1A3B,Natural gas,,,,,
 Portugal,2016,1A3B,Oil,,,,,
@@ -8283,7 +8283,7 @@ Portugal,2016,2G2,,,,,,
 Portugal,2016,2G3,,,,,,
 Portugal,2016,2G4,,,,,,
 Portugal,2016,2H,,,,,,
-Portugal,2016,2H1,,,,,,
+Portugal,2016,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2016,2H2,,,,,,
 Portugal,2016,2H3,,,,,,
 Portugal,2016,3,,,,,,
@@ -8420,9 +8420,9 @@ Portugal,2017,1A3A,Oil,,,,,
 Portugal,2017,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",
 Portugal,2017,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",
 Portugal,2017,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",
-Portugal,2017,1A3A2,Coal/peat,,,,,
-Portugal,2017,1A3A2,Natural gas,,,,,
-Portugal,2017,1A3A2,Oil,,,,,
+Portugal,2017,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2017,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2017,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
@@ -8581,7 +8581,7 @@ Portugal,2017,2G2,,,,,,
 Portugal,2017,2G3,,,,,,
 Portugal,2017,2G4,,,,,,
 Portugal,2017,2H,,,,,,
-Portugal,2017,2H1,,,,,,
+Portugal,2017,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,2H2,,,,,,
 Portugal,2017,2H3,,,,,,
 Portugal,2017,3,,,,,,
@@ -8718,9 +8718,9 @@ Portugal,2018,1A3A,Oil,,,,,
 Portugal,2018,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",
 Portugal,2018,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",
 Portugal,2018,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2018,1A3A2,Coal/peat,,,,,
-Portugal,2018,1A3A2,Natural gas,,,,,
-Portugal,2018,1A3A2,Oil,,,,,
+Portugal,2018,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2018,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2018,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
@@ -8879,7 +8879,7 @@ Portugal,2018,2G2,,,,,,
 Portugal,2018,2G3,,,,,,
 Portugal,2018,2G4,,,,,,
 Portugal,2018,2H,,,,,,
-Portugal,2018,2H1,,,,,,
+Portugal,2018,2H1,,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,2H2,,,,,,
 Portugal,2018,2H3,,,,,,
 Portugal,2018,3,,,,,,
@@ -9016,9 +9016,9 @@ Portugal,2019,1A3A,Oil,,,,,
 Portugal,2019,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2019,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2019,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A3A2,Coal/peat,,,,,
-Portugal,2019,1A3A2,Natural gas,,,,,
-Portugal,2019,1A3A2,Oil,,,,,
+Portugal,2019,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2019,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2019,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2019,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
@@ -9177,7 +9177,7 @@ Portugal,2019,2G2,,,,,,
 Portugal,2019,2G3,,,,,,
 Portugal,2019,2G4,,,,,,
 Portugal,2019,2H,,,,,,
-Portugal,2019,2H1,,,,,,
+Portugal,2019,2H1,,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2019,2H2,,,,,,
 Portugal,2019,2H3,,,,,,
 Portugal,2019,3,,,,,,
@@ -9314,9 +9314,9 @@ Portugal,2020,1A3A,Oil,,,,,
 Portugal,2020,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2020,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2020,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A3A2,Coal/peat,,,,,
-Portugal,2020,1A3A2,Natural gas,,,,,
-Portugal,2020,1A3A2,Oil,,,,,
+Portugal,2020,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2020,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2020,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
 Portugal,2020,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
@@ -9475,7 +9475,7 @@ Portugal,2020,2G2,,,,,,
 Portugal,2020,2G3,,,,,,
 Portugal,2020,2G4,,,,,,
 Portugal,2020,2H,,,,,,
-Portugal,2020,2H1,,,,,,
+Portugal,2020,2H1,,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2020,2H2,,,,,,
 Portugal,2020,2H3,,,,,,
 Portugal,2020,3,,,,,,
@@ -9612,9 +9612,9 @@ Portugal,2021,1A3A,Oil,,,,,
 Portugal,2021,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,,,
 Portugal,2021,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,,,
 Portugal,2021,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A3A2,Coal/peat,,,,,
-Portugal,2021,1A3A2,Natural gas,,,,,
-Portugal,2021,1A3A2,Oil,,,,,
+Portugal,2021,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,
+Portugal,2021,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,
+Portugal,2021,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,
 Portugal,2021,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,,,
 Portugal,2021,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,,,
 Portugal,2021,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,,,
@@ -9773,7 +9773,7 @@ Portugal,2021,2G2,,,,,,
 Portugal,2021,2G3,,,,,,
 Portugal,2021,2G4,,,,,,
 Portugal,2021,2H,,,,,,
-Portugal,2021,2H1,,,,,,
+Portugal,2021,2H1,,,"leg(EC[2018], EC[2020])",,,
 Portugal,2021,2H2,,,,,,
 Portugal,2021,2H3,,,,,,
 Portugal,2021,3,,,,,,
