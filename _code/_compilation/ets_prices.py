@@ -8,66 +8,66 @@ Created on Thu Feb  4 15:16:17 2021
 
 import pandas as pd
 
-path_prices = "/Users/gd/OneDrive - rff/Documents/Research/projects/ecp/wcpd_dataset/source_data/design_and_prices/prices"
+path_prices = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price"
 
 # For NZL ETS/ EU ETS / KOR ETS / CHN PROV PILOT ETSs, prices are from ICAP
 # For RGGI / CA-QC CAT / SWITZERLAND ETS / OBPS in Canadian Provinces, prices are from other sources
 
 
 def prices_df(path_prices):
-    # RGGI Prices
-    rggi_prices = pd.read_csv(path_prices+"/United_States/states/RGGI/us_rggi_prices.csv")
+    # RGGI Prices - taken from ICAP
+    rggi_prices = pd.read_csv(path_prices+"/us_rggi_prices.csv")
     rggi_prices.loc[:, "allowance_price"] = rggi_prices.allowance_weighted_price/0.90718474
     rggi_prices = rggi_prices.drop(["allowance_weighted_price"], axis=1)
 
     # California CaT
-    us_ma_ets_prices = pd.read_csv(path_prices+"/United_States/states/Massachusetts/us_ma_ets_prices.csv")
+    us_ma_ets_prices = pd.read_csv(path_prices+"/us_ma_ets_prices.csv")
     us_ma_ets_prices = us_ma_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
     
     # Quebec CaT
-    can_qc_cat_prices = pd.read_csv(path_prices+"/Canada/provinces_territories/Quebec/can_qc_cat_prices.csv")
+    can_qc_cat_prices = pd.read_csv(path_prices+"/can_qc_cat_prices.csv")
     can_qc_cat_prices = can_qc_cat_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
     
     # California CaT
-    us_ca_cat_prices = pd.read_csv(path_prices+"/United_States/states/California_cat/us_ca_cat_prices.csv")
+    us_ca_cat_prices = pd.read_csv(path_prices+"/us_ca_cat_prices.csv")
     us_ca_cat_prices = us_ca_cat_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
     
     # Kazakhstan
-    kaz_ets_prices = pd.read_csv(path_prices+"/Kazakhstan/kaz_ets_prices.csv")
+    kaz_ets_prices = pd.read_csv(path_prices+"/kaz_ets_prices.csv")
     kaz_ets_prices = kaz_ets_prices.rename(columns={"allowance_price":"allowance_price"})
 
     # Switzerland
-    che_ets_prices = pd.read_csv(path_prices+"/Switzerland/ETS/che_ets_prices.csv")
+    che_ets_prices = pd.read_csv(path_prices+"/che_ets_prices.csv")
     che_ets_prices = che_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
     
     # Canadian federal OBPS
-    can_obps_prices = pd.read_csv(path_prices+"/Canada/federal/OBPS/can_obps_prices.csv")
+    can_obps_prices = pd.read_csv(path_prices+"/can_obps_prices.csv")
     can_obps_prices = can_obps_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
     
     # Alberta
-    can_ab_ets_prices = pd.read_csv(path_prices+"/Canada/provinces_territories/Alberta/can_ab_ets_prices.csv")
+    can_ab_ets_prices = pd.read_csv(path_prices+"/can_ab_ets_prices.csv")
     can_ab_ets_prices = can_ab_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
 
     # Saskatchewan
-    can_sk_ets_prices = pd.read_csv(path_prices+"/Canada/provinces_territories/Saskatchewan/can_sk_ets_prices.csv")
+    can_sk_ets_prices = pd.read_csv(path_prices+"/can_sk_ets_prices.csv")
     can_sk_ets_prices = can_sk_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
 
     # New Brunswick
-    can_nb_ets_prices = pd.read_csv(path_prices+"/Canada/provinces_territories/New_Brunswick/can_nb_ets_prices.csv")
+    can_nb_ets_prices = pd.read_csv(path_prices+"/can_nb_ets_prices.csv")
     can_nb_ets_prices = can_nb_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
 
     # Nova Scotia
-    can_ns_ets_prices = pd.read_csv(path_prices+"/Canada/provinces_territories/Nova_Scotia/can_ns_ets_prices.csv")
+    can_ns_ets_prices = pd.read_csv(path_prices+"/can_ns_ets_prices.csv")
     can_ns_ets_prices = can_ns_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
 
     # Newfoundland and Labrador
-    can_nl_ets_prices = pd.read_csv(path_prices+"/Canada/provinces_territories/Newfoundland_and_Labrador/ETS_PSS/can_nl_ets_prices.csv")
+    can_nl_ets_prices = pd.read_csv(path_prices+"//can_nl_ets_prices.csv")
     can_nl_ets_prices = can_nl_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
     
     
     
     # ICAP Prices (EU ETS, NZL ETS, KOR ETS, CHN PROV ETS)
-    icap = pd.read_csv(path_prices+"/_multi_jurisdiction/ICAP/ICAP_allowance_prices.csv",
+    icap = pd.read_csv(path_prices+"/_ICAP_allowance_prices.csv",
                        encoding= 'latin-1', header=2)
     
     icap.rename(columns={"Unnamed: 0":"Date"}, inplace=True)

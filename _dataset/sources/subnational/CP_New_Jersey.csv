@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax_dummy,ets_dummy,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 New Jersey,1989,0,,,,,,
 New Jersey,1989,1,,,,,,
 New Jersey,1989,1A,Coal/peat,,,,,
@@ -5967,18 +5967,18 @@ New Jersey,2009,1A,Oil,,,,,
 New Jersey,2009,1A1,Coal/peat,,,,,
 New Jersey,2009,1A1,Natural gas,,,,,
 New Jersey,2009,1A1,Oil,,,,,
-New Jersey,2009,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2009,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2009,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2009,1A1A1,Coal/peat,,,,,
-New Jersey,2009,1A1A1,Natural gas,,,,,
-New Jersey,2009,1A1A1,Oil,,,,,
-New Jersey,2009,1A1A2,Coal/peat,,,,,
-New Jersey,2009,1A1A2,Natural gas,,,,,
-New Jersey,2009,1A1A2,Oil,,,,,
-New Jersey,2009,1A1A3,Coal/peat,,,,,
-New Jersey,2009,1A1A3,Natural gas,,,,,
-New Jersey,2009,1A1A3,Oil,,,,,
+New Jersey,2009,1A1A,Coal/peat,,,,,
+New Jersey,2009,1A1A,Natural gas,,,,,
+New Jersey,2009,1A1A,Oil,,,,,
+New Jersey,2009,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2009,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2009,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2009,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2009,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2009,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2009,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2009,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2009,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 New Jersey,2009,1A1B,Coal/peat,,,,,
 New Jersey,2009,1A1B,Natural gas,,,,,
 New Jersey,2009,1A1B,Oil,,,,,
@@ -6265,18 +6265,18 @@ New Jersey,2010,1A,Oil,,,,,
 New Jersey,2010,1A1,Coal/peat,,,,,
 New Jersey,2010,1A1,Natural gas,,,,,
 New Jersey,2010,1A1,Oil,,,,,
-New Jersey,2010,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2010,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2010,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2010,1A1A1,Coal/peat,,,,,
-New Jersey,2010,1A1A1,Natural gas,,,,,
-New Jersey,2010,1A1A1,Oil,,,,,
-New Jersey,2010,1A1A2,Coal/peat,,,,,
-New Jersey,2010,1A1A2,Natural gas,,,,,
-New Jersey,2010,1A1A2,Oil,,,,,
-New Jersey,2010,1A1A3,Coal/peat,,,,,
-New Jersey,2010,1A1A3,Natural gas,,,,,
-New Jersey,2010,1A1A3,Oil,,,,,
+New Jersey,2010,1A1A,Coal/peat,,,,,
+New Jersey,2010,1A1A,Natural gas,,,,,
+New Jersey,2010,1A1A,Oil,,,,,
+New Jersey,2010,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2010,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2010,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2010,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2010,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2010,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2010,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2010,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2010,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 New Jersey,2010,1A1B,Coal/peat,,,,,
 New Jersey,2010,1A1B,Natural gas,,,,,
 New Jersey,2010,1A1B,Oil,,,,,
@@ -6563,18 +6563,18 @@ New Jersey,2011,1A,Oil,,,,,
 New Jersey,2011,1A1,Coal/peat,,,,,
 New Jersey,2011,1A1,Natural gas,,,,,
 New Jersey,2011,1A1,Oil,,,,,
-New Jersey,2011,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2011,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2011,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2011,1A1A1,Coal/peat,,,,,
-New Jersey,2011,1A1A1,Natural gas,,,,,
-New Jersey,2011,1A1A1,Oil,,,,,
-New Jersey,2011,1A1A2,Coal/peat,,,,,
-New Jersey,2011,1A1A2,Natural gas,,,,,
-New Jersey,2011,1A1A2,Oil,,,,,
-New Jersey,2011,1A1A3,Coal/peat,,,,,
-New Jersey,2011,1A1A3,Natural gas,,,,,
-New Jersey,2011,1A1A3,Oil,,,,,
+New Jersey,2011,1A1A,Coal/peat,,,,,
+New Jersey,2011,1A1A,Natural gas,,,,,
+New Jersey,2011,1A1A,Oil,,,,,
+New Jersey,2011,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2011,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2011,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2011,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2011,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2011,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2011,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2011,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2011,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 New Jersey,2011,1A1B,Coal/peat,,,,,
 New Jersey,2011,1A1B,Natural gas,,,,,
 New Jersey,2011,1A1B,Oil,,,,,
@@ -8649,18 +8649,18 @@ New Jersey,2018,1A,Oil,,,,,
 New Jersey,2018,1A1,Coal/peat,,,,,
 New Jersey,2018,1A1,Natural gas,,,,,
 New Jersey,2018,1A1,Oil,,,,,
-New Jersey,2018,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2018,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2018,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2018,1A1A1,Coal/peat,,,,,
-New Jersey,2018,1A1A1,Natural gas,,,,,
-New Jersey,2018,1A1A1,Oil,,,,,
-New Jersey,2018,1A1A2,Coal/peat,,,,,
-New Jersey,2018,1A1A2,Natural gas,,,,,
-New Jersey,2018,1A1A2,Oil,,,,,
-New Jersey,2018,1A1A3,Coal/peat,,,,,
-New Jersey,2018,1A1A3,Natural gas,,,,,
-New Jersey,2018,1A1A3,Oil,,,,,
+New Jersey,2018,1A1A,Coal/peat,,,,,
+New Jersey,2018,1A1A,Natural gas,,,,,
+New Jersey,2018,1A1A,Oil,,,,,
+New Jersey,2018,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2018,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2018,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2018,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2018,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2018,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2018,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2018,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2018,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 New Jersey,2018,1A1B,Coal/peat,,,,,
 New Jersey,2018,1A1B,Natural gas,,,,,
 New Jersey,2018,1A1B,Oil,,,,,
@@ -8947,18 +8947,18 @@ New Jersey,2019,1A,Oil,,,,,
 New Jersey,2019,1A1,Coal/peat,,,,,
 New Jersey,2019,1A1,Natural gas,,,,,
 New Jersey,2019,1A1,Oil,,,,,
-New Jersey,2019,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2019,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2019,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2019,1A1A1,Coal/peat,,,,,
-New Jersey,2019,1A1A1,Natural gas,,,,,
-New Jersey,2019,1A1A1,Oil,,,,,
-New Jersey,2019,1A1A2,Coal/peat,,,,,
-New Jersey,2019,1A1A2,Natural gas,,,,,
-New Jersey,2019,1A1A2,Oil,,,,,
-New Jersey,2019,1A1A3,Coal/peat,,,,,
-New Jersey,2019,1A1A3,Natural gas,,,,,
-New Jersey,2019,1A1A3,Oil,,,,,
+New Jersey,2019,1A1A,Coal/peat,,,,,
+New Jersey,2019,1A1A,Natural gas,,,,,
+New Jersey,2019,1A1A,Oil,,,,,
+New Jersey,2019,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2019,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2019,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2019,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2019,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2019,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2019,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2019,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2019,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 New Jersey,2019,1A1B,Coal/peat,,,,,
 New Jersey,2019,1A1B,Natural gas,,,,,
 New Jersey,2019,1A1B,Oil,,,,,
@@ -9245,18 +9245,18 @@ New Jersey,2020,1A,Oil,,,,,
 New Jersey,2020,1A1,Coal/peat,,,,,
 New Jersey,2020,1A1,Natural gas,,,,,
 New Jersey,2020,1A1,Oil,,,,,
-New Jersey,2020,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2020,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2020,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-New Jersey,2020,1A1A1,Coal/peat,,,,,
-New Jersey,2020,1A1A1,Natural gas,,,,,
-New Jersey,2020,1A1A1,Oil,,,,,
-New Jersey,2020,1A1A2,Coal/peat,,,,,
-New Jersey,2020,1A1A2,Natural gas,,,,,
-New Jersey,2020,1A1A2,Oil,,,,,
-New Jersey,2020,1A1A3,Coal/peat,,,,,
-New Jersey,2020,1A1A3,Natural gas,,,,,
-New Jersey,2020,1A1A3,Oil,,,,,
+New Jersey,2020,1A1A,Coal/peat,,,,,
+New Jersey,2020,1A1A,Natural gas,,,,,
+New Jersey,2020,1A1A,Oil,,,,,
+New Jersey,2020,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2020,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2020,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2020,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2020,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2020,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2020,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2020,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+New Jersey,2020,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 New Jersey,2020,1A1B,Coal/peat,,,,,
 New Jersey,2020,1A1B,Natural gas,,,,,
 New Jersey,2020,1A1B,Oil,,,,,
@@ -9543,18 +9543,18 @@ New Jersey,2021,1A,Oil,,,,,
 New Jersey,2021,1A1,Coal/peat,,,,,
 New Jersey,2021,1A1,Natural gas,,,,,
 New Jersey,2021,1A1,Oil,,,,,
-New Jersey,2021,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-New Jersey,2021,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-New Jersey,2021,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-New Jersey,2021,1A1A1,Coal/peat,,,,,
-New Jersey,2021,1A1A1,Natural gas,,,,,
-New Jersey,2021,1A1A1,Oil,,,,,
-New Jersey,2021,1A1A2,Coal/peat,,,,,
-New Jersey,2021,1A1A2,Natural gas,,,,,
-New Jersey,2021,1A1A2,Oil,,,,,
-New Jersey,2021,1A1A3,Coal/peat,,,,,
-New Jersey,2021,1A1A3,Natural gas,,,,,
-New Jersey,2021,1A1A3,Oil,,,,,
+New Jersey,2021,1A1A,Coal/peat,,,,,
+New Jersey,2021,1A1A,Natural gas,,,,,
+New Jersey,2021,1A1A,Oil,,,,,
+New Jersey,2021,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+New Jersey,2021,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+New Jersey,2021,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+New Jersey,2021,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+New Jersey,2021,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+New Jersey,2021,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+New Jersey,2021,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+New Jersey,2021,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+New Jersey,2021,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
 New Jersey,2021,1A1B,Coal/peat,,,,,
 New Jersey,2021,1A1B,Natural gas,,,,,
 New Jersey,2021,1A1B,Oil,,,,,

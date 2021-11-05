@@ -10,35 +10,19 @@ import pandas as pd
 import glob
 import os
 
-path_prices = "/Users/gd/OneDrive - rff/Documents/Research/projects/ecp/wcpd_dataset/source_data/design_and_prices/prices/"
+path_prices = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/"
 
 def prices_df(path_prices):
-    
-    folderList = ["Argentina", "Australia/Australia_CPM",
-                  "Canada/federal/fuel_charge",
-                  "Chile", "Colombia", "Denmark", "Estonia",
-                  "Finland", "France", "Iceland", "Ireland", "Japan",
-                  "Latvia", "Liechtenstein", "Mexico/tax", "Norway",
-                  "Poland", "Portugal", 
-                  "Singapore", "Slovenia", "South_Africa", "Sweden",
-                  "Switzerland/tax", "Ukraine", "United_Kingdom", 
-                  "Canada/provinces_territories/Alberta",
-                  "Canada/provinces_territories/British_Columbia",
-                  "Canada/provinces_territories/New_Brunswick", 
-                  "Canada/provinces_territories/Prince_Edward_Island", 
-                  "Canada/provinces_territories/Newfoundland_and_Labrador/Tax", 
-                  "Canada/provinces_territories/Northwest_Territories"]
 
     dfList = []
     
     #each iteration of the loop will add a dataframe to the list
-    for folderName in folderList:
-        os.chdir(path_prices+folderName)
-        fileList = glob.glob("*_tax*_prices.csv")
+    os.chdir(path_prices)
+    fileList = glob.glob("*_tax*_prices.csv")
 
-        for fileName in fileList:        
-            df=pd.read_csv(fileName, keep_default_na=False, header=0)
-            dfList.append(df)
+    for fileName in fileList:        
+        df=pd.read_csv(fileName, keep_default_na=False, header=0)
+        dfList.append(df)
 
     #'axis=0' ensures that we are concatenating vertically,
     concatDf=pd.concat(dfList,axis=0)

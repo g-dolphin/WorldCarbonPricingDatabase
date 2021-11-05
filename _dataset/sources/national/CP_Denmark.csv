@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax_dummy,ets_dummy,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Denmark,1989,0,,,,,,
 Denmark,1989,1,,,,,,
 Denmark,1989,1A,Coal/peat,,,,,
@@ -4960,31 +4960,31 @@ Denmark,2005,2A4B,,,,,,
 Denmark,2005,2A4C,,,,,,
 Denmark,2005,2A4D,,,,,,
 Denmark,2005,2B,,,,,,
-Denmark,2005,2B1,,,,,,
+Denmark,2005,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2005,2B10,,,,,,
-Denmark,2005,2B2,,,,,,
-Denmark,2005,2B3,,,,,,
-Denmark,2005,2B4,,,,,,
-Denmark,2005,2B5,,,,,,
-Denmark,2005,2B6,,,,,,
-Denmark,2005,2B7,,,,,,
+Denmark,2005,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2005,2B8,,,,,,
 Denmark,2005,2B8A,,,,,,
 Denmark,2005,2B8B,,,,,,
 Denmark,2005,2B8C,,,,,,
 Denmark,2005,2B8D,,,,,,
 Denmark,2005,2B8E,,,,,,
-Denmark,2005,2B8F,,,,,,
+Denmark,2005,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2005,2B9,,,,,,
 Denmark,2005,2B9A,,,,,,
 Denmark,2005,2B9B,,,,,,
 Denmark,2005,2C,,,,,,
 Denmark,2005,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2005,2C2,,,,,,
-Denmark,2005,2C3,,,,,,
-Denmark,2005,2C4,,,,,,
-Denmark,2005,2C5,,,,,,
-Denmark,2005,2C6,,,,,,
+Denmark,2005,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2005,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2005,2C7,,,,,,
 Denmark,2005,2D,,,,,,
 Denmark,2005,2D1,,,,,,
@@ -5258,31 +5258,31 @@ Denmark,2006,2A4B,,,,,,
 Denmark,2006,2A4C,,,,,,
 Denmark,2006,2A4D,,,,,,
 Denmark,2006,2B,,,,,,
-Denmark,2006,2B1,,,,,,
+Denmark,2006,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2006,2B10,,,,,,
-Denmark,2006,2B2,,,,,,
-Denmark,2006,2B3,,,,,,
-Denmark,2006,2B4,,,,,,
-Denmark,2006,2B5,,,,,,
-Denmark,2006,2B6,,,,,,
-Denmark,2006,2B7,,,,,,
+Denmark,2006,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2006,2B8,,,,,,
 Denmark,2006,2B8A,,,,,,
 Denmark,2006,2B8B,,,,,,
 Denmark,2006,2B8C,,,,,,
 Denmark,2006,2B8D,,,,,,
 Denmark,2006,2B8E,,,,,,
-Denmark,2006,2B8F,,,,,,
+Denmark,2006,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2006,2B9,,,,,,
 Denmark,2006,2B9A,,,,,,
 Denmark,2006,2B9B,,,,,,
 Denmark,2006,2C,,,,,,
 Denmark,2006,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2006,2C2,,,,,,
-Denmark,2006,2C3,,,,,,
-Denmark,2006,2C4,,,,,,
-Denmark,2006,2C5,,,,,,
-Denmark,2006,2C6,,,,,,
+Denmark,2006,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2006,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2006,2C7,,,,,,
 Denmark,2006,2D,,,,,,
 Denmark,2006,2D1,,,,,,
@@ -5556,31 +5556,31 @@ Denmark,2007,2A4B,,,,,,
 Denmark,2007,2A4C,,,,,,
 Denmark,2007,2A4D,,,,,,
 Denmark,2007,2B,,,,,,
-Denmark,2007,2B1,,,,,,
+Denmark,2007,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2007,2B10,,,,,,
-Denmark,2007,2B2,,,,,,
-Denmark,2007,2B3,,,,,,
-Denmark,2007,2B4,,,,,,
-Denmark,2007,2B5,,,,,,
-Denmark,2007,2B6,,,,,,
-Denmark,2007,2B7,,,,,,
+Denmark,2007,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2007,2B8,,,,,,
 Denmark,2007,2B8A,,,,,,
 Denmark,2007,2B8B,,,,,,
 Denmark,2007,2B8C,,,,,,
 Denmark,2007,2B8D,,,,,,
 Denmark,2007,2B8E,,,,,,
-Denmark,2007,2B8F,,,,,,
+Denmark,2007,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2007,2B9,,,,,,
 Denmark,2007,2B9A,,,,,,
 Denmark,2007,2B9B,,,,,,
 Denmark,2007,2C,,,,,,
 Denmark,2007,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2007,2C2,,,,,,
-Denmark,2007,2C3,,,,,,
-Denmark,2007,2C4,,,,,,
-Denmark,2007,2C5,,,,,,
-Denmark,2007,2C6,,,,,,
+Denmark,2007,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2007,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2007,2C7,,,,,,
 Denmark,2007,2D,,,,,,
 Denmark,2007,2D1,,,,,,
@@ -5854,31 +5854,31 @@ Denmark,2008,2A4B,,,,,,
 Denmark,2008,2A4C,,,,,,
 Denmark,2008,2A4D,,,,,,
 Denmark,2008,2B,,,,,,
-Denmark,2008,2B1,,,,,,
+Denmark,2008,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2008,2B10,,,,,,
-Denmark,2008,2B2,,,,,,
-Denmark,2008,2B3,,,,,,
-Denmark,2008,2B4,,,,,,
-Denmark,2008,2B5,,,,,,
-Denmark,2008,2B6,,,,,,
-Denmark,2008,2B7,,,,,,
+Denmark,2008,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2008,2B8,,,,,,
 Denmark,2008,2B8A,,,,,,
 Denmark,2008,2B8B,,,,,,
 Denmark,2008,2B8C,,,,,,
 Denmark,2008,2B8D,,,,,,
 Denmark,2008,2B8E,,,,,,
-Denmark,2008,2B8F,,,,,,
+Denmark,2008,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2008,2B9,,,,,,
 Denmark,2008,2B9A,,,,,,
 Denmark,2008,2B9B,,,,,,
 Denmark,2008,2C,,,,,,
 Denmark,2008,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2008,2C2,,,,,,
-Denmark,2008,2C3,,,,,,
-Denmark,2008,2C4,,,,,,
-Denmark,2008,2C5,,,,,,
-Denmark,2008,2C6,,,,,,
+Denmark,2008,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2008,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2008,2C7,,,,,,
 Denmark,2008,2D,,,,,,
 Denmark,2008,2D1,,,,,,
@@ -6152,31 +6152,31 @@ Denmark,2009,2A4B,,,,,,
 Denmark,2009,2A4C,,,,,,
 Denmark,2009,2A4D,,,,,,
 Denmark,2009,2B,,,,,,
-Denmark,2009,2B1,,,,,,
+Denmark,2009,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2009,2B10,,,,,,
-Denmark,2009,2B2,,,,,,
-Denmark,2009,2B3,,,,,,
-Denmark,2009,2B4,,,,,,
-Denmark,2009,2B5,,,,,,
-Denmark,2009,2B6,,,,,,
-Denmark,2009,2B7,,,,,,
+Denmark,2009,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2009,2B8,,,,,,
 Denmark,2009,2B8A,,,,,,
 Denmark,2009,2B8B,,,,,,
 Denmark,2009,2B8C,,,,,,
 Denmark,2009,2B8D,,,,,,
 Denmark,2009,2B8E,,,,,,
-Denmark,2009,2B8F,,,,,,
+Denmark,2009,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2009,2B9,,,,,,
 Denmark,2009,2B9A,,,,,,
 Denmark,2009,2B9B,,,,,,
 Denmark,2009,2C,,,,,,
 Denmark,2009,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2009,2C2,,,,,,
-Denmark,2009,2C3,,,,,,
-Denmark,2009,2C4,,,,,,
-Denmark,2009,2C5,,,,,,
-Denmark,2009,2C6,,,,,,
+Denmark,2009,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2009,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2009,2C7,,,,,,
 Denmark,2009,2D,,,,,,
 Denmark,2009,2D1,,,,,,
@@ -6450,31 +6450,31 @@ Denmark,2010,2A4B,,,,,,
 Denmark,2010,2A4C,,,,,,
 Denmark,2010,2A4D,,,,,,
 Denmark,2010,2B,,,,,,
-Denmark,2010,2B1,,,,,,
+Denmark,2010,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2010,2B10,,,,,,
-Denmark,2010,2B2,,,,,,
-Denmark,2010,2B3,,,,,,
-Denmark,2010,2B4,,,,,,
-Denmark,2010,2B5,,,,,,
-Denmark,2010,2B6,,,,,,
-Denmark,2010,2B7,,,,,,
+Denmark,2010,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2010,2B8,,,,,,
 Denmark,2010,2B8A,,,,,,
 Denmark,2010,2B8B,,,,,,
 Denmark,2010,2B8C,,,,,,
 Denmark,2010,2B8D,,,,,,
 Denmark,2010,2B8E,,,,,,
-Denmark,2010,2B8F,,,,,,
+Denmark,2010,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2010,2B9,,,,,,
 Denmark,2010,2B9A,,,,,,
 Denmark,2010,2B9B,,,,,,
 Denmark,2010,2C,,,,,,
 Denmark,2010,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2010,2C2,,,,,,
-Denmark,2010,2C3,,,,,,
-Denmark,2010,2C4,,,,,,
-Denmark,2010,2C5,,,,,,
-Denmark,2010,2C6,,,,,,
+Denmark,2010,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2010,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2010,2C7,,,,,,
 Denmark,2010,2D,,,,,,
 Denmark,2010,2D1,,,,,,
@@ -6748,31 +6748,31 @@ Denmark,2011,2A4B,,,,,,
 Denmark,2011,2A4C,,,,,,
 Denmark,2011,2A4D,,,,,,
 Denmark,2011,2B,,,,,,
-Denmark,2011,2B1,,,,,,
+Denmark,2011,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2011,2B10,,,,,,
-Denmark,2011,2B2,,,,,,
-Denmark,2011,2B3,,,,,,
-Denmark,2011,2B4,,,,,,
-Denmark,2011,2B5,,,,,,
-Denmark,2011,2B6,,,,,,
-Denmark,2011,2B7,,,,,,
+Denmark,2011,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2011,2B8,,,,,,
 Denmark,2011,2B8A,,,,,,
 Denmark,2011,2B8B,,,,,,
 Denmark,2011,2B8C,,,,,,
 Denmark,2011,2B8D,,,,,,
 Denmark,2011,2B8E,,,,,,
-Denmark,2011,2B8F,,,,,,
+Denmark,2011,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2011,2B9,,,,,,
 Denmark,2011,2B9A,,,,,,
 Denmark,2011,2B9B,,,,,,
 Denmark,2011,2C,,,,,,
 Denmark,2011,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2011,2C2,,,,,,
-Denmark,2011,2C3,,,,,,
-Denmark,2011,2C4,,,,,,
-Denmark,2011,2C5,,,,,,
-Denmark,2011,2C6,,,,,,
+Denmark,2011,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2011,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2011,2C7,,,,,,
 Denmark,2011,2D,,,,,,
 Denmark,2011,2D1,,,,,,
@@ -6864,63 +6864,63 @@ Denmark,2012,1A1,Oil,,,,,
 Denmark,2012,1A1A,Coal/peat,,,,,
 Denmark,2012,1A1A,Natural gas,,,,,
 Denmark,2012,1A1A,Oil,,,,,
-Denmark,2012,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1A1,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1A1,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1A2,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1A2,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1A3,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1A3,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1A3,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1C,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1C,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A1C,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2003]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A1,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A1,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A3,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A3,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1A3,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1C,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1C,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A1C,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",leg(EC[2014]),"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,1A2,Coal/peat,,,,,
 Denmark,2012,1A2,Natural gas,,,,,
 Denmark,2012,1A2,Oil,,,,,
-Denmark,2012,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2A,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2A,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2B,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2B,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2C,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2D,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2D,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2E,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2E,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2F,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2F,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2G,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2G,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2H,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2H,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2I,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2I,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2J,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2J,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2K,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2K,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2L,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2L,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2M,Natural gas,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,1A2M,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2A,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2A,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2B,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2B,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2C,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2D,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2D,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2E,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2E,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2F,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2F,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2G,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2G,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2H,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2H,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2I,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2I,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2J,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2J,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2K,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2K,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2L,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2L,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2M,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A2M,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,1A3,Coal/peat,,,,,
 Denmark,2012,1A3,Natural gas,,,,,
 Denmark,2012,1A3,Oil,,,,,
@@ -6930,9 +6930,9 @@ Denmark,2012,1A3A,Oil,,,,,
 Denmark,2012,1A3A1,Coal/peat,,,,,
 Denmark,2012,1A3A1,Natural gas,,,,,
 Denmark,2012,1A3A1,Oil,,,,,
-Denmark,2012,1A3A2,Coal/peat,,,,,
-Denmark,2012,1A3A2,Natural gas,,,,,
-Denmark,2012,1A3A2,Oil,,,,,
+Denmark,2012,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2012,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2012,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -7023,12 +7023,12 @@ Denmark,2012,1B2B36,,,,,,
 Denmark,2012,1B3,,,,,,
 Denmark,2012,1C,,,,,,
 Denmark,2012,1C1,,,,,,
-Denmark,2012,1C1A,,,,,,
+Denmark,2012,1C1A,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,1C1B,,,,,,
 Denmark,2012,1C1C,,,,,,
 Denmark,2012,1C2,,,,,,
 Denmark,2012,1C2A,,,,,,
-Denmark,2012,1C2B,,,,,,
+Denmark,2012,1C2B,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,1C3,,,,,,
 Denmark,2012,2,,,,,,
 Denmark,2012,20,,,,,,
@@ -7037,40 +7037,40 @@ Denmark,2012,2000,,,,,,
 Denmark,2012,20000,,,,,,
 Denmark,2012,200000,,,,,,
 Denmark,2012,2A,,,,,,
-Denmark,2012,2A1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,2A2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,2A3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2A1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2A2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2A3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,2A4,,,,,,
-Denmark,2012,2A4A,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2A4A,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,2A4B,,,,,,
 Denmark,2012,2A4C,,,,,,
 Denmark,2012,2A4D,,,,,,
 Denmark,2012,2B,,,,,,
-Denmark,2012,2B1,,,,,,
+Denmark,2012,2B1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,2B10,,,,,,
-Denmark,2012,2B2,,,,,,
-Denmark,2012,2B3,,,,,,
-Denmark,2012,2B4,,,,,,
-Denmark,2012,2B5,,,,,,
-Denmark,2012,2B6,,,,,,
-Denmark,2012,2B7,,,,,,
+Denmark,2012,2B2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2B3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2B4,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2B5,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2B6,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2B7,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,2B8,,,,,,
 Denmark,2012,2B8A,,,,,,
 Denmark,2012,2B8B,,,,,,
 Denmark,2012,2B8C,,,,,,
 Denmark,2012,2B8D,,,,,,
 Denmark,2012,2B8E,,,,,,
-Denmark,2012,2B8F,,,,,,
+Denmark,2012,2B8F,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,2B9,,,,,,
 Denmark,2012,2B9A,,,,,,
 Denmark,2012,2B9B,,,,,,
 Denmark,2012,2C,,,,,,
-Denmark,2012,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Denmark,2012,2C2,,,,,,
-Denmark,2012,2C3,,,,,,
-Denmark,2012,2C4,,,,,,
-Denmark,2012,2C5,,,,,,
-Denmark,2012,2C6,,,,,,
+Denmark,2012,2C1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2C2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2C3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2C4,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2C5,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2C6,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,2C7,,,,,,
 Denmark,2012,2D,,,,,,
 Denmark,2012,2D1,,,,,,
@@ -7091,7 +7091,7 @@ Denmark,2012,2G2,,,,,,
 Denmark,2012,2G3,,,,,,
 Denmark,2012,2G4,,,,,,
 Denmark,2012,2H,,,,,,
-Denmark,2012,2H1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2012,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2012,2H2,,,,,,
 Denmark,2012,2H3,,,,,,
 Denmark,2012,3,,,,,,
@@ -7228,9 +7228,9 @@ Denmark,2013,1A3A,Oil,,,,,
 Denmark,2013,1A3A1,Coal/peat,,,,,
 Denmark,2013,1A3A1,Natural gas,,,,,
 Denmark,2013,1A3A1,Oil,,,,,
-Denmark,2013,1A3A2,Coal/peat,,,,,
-Denmark,2013,1A3A2,Natural gas,,,,,
-Denmark,2013,1A3A2,Oil,,,,,
+Denmark,2013,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2013,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2013,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2013,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2013,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2013,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -7389,7 +7389,7 @@ Denmark,2013,2G2,,,,,,
 Denmark,2013,2G3,,,,,,
 Denmark,2013,2G4,,,,,,
 Denmark,2013,2H,,,,,,
-Denmark,2013,2H1,,,,,,
+Denmark,2013,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2013,2H2,,,,,,
 Denmark,2013,2H3,,,,,,
 Denmark,2013,3,,,,,,
@@ -7526,9 +7526,9 @@ Denmark,2014,1A3A,Oil,,,,,
 Denmark,2014,1A3A1,Coal/peat,,,,,
 Denmark,2014,1A3A1,Natural gas,,,,,
 Denmark,2014,1A3A1,Oil,,,,,
-Denmark,2014,1A3A2,Coal/peat,,,,,
-Denmark,2014,1A3A2,Natural gas,,,,,
-Denmark,2014,1A3A2,Oil,,,,,
+Denmark,2014,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2014,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2014,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2014,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2014,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2014,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -7687,7 +7687,7 @@ Denmark,2014,2G2,,,,,,
 Denmark,2014,2G3,,,,,,
 Denmark,2014,2G4,,,,,,
 Denmark,2014,2H,,,,,,
-Denmark,2014,2H1,,,,,,
+Denmark,2014,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2014,2H2,,,,,,
 Denmark,2014,2H3,,,,,,
 Denmark,2014,3,,,,,,
@@ -7824,9 +7824,9 @@ Denmark,2015,1A3A,Oil,,,,,
 Denmark,2015,1A3A1,Coal/peat,,,,,
 Denmark,2015,1A3A1,Natural gas,,,,,
 Denmark,2015,1A3A1,Oil,,,,,
-Denmark,2015,1A3A2,Coal/peat,,,,,
-Denmark,2015,1A3A2,Natural gas,,,,,
-Denmark,2015,1A3A2,Oil,,,,,
+Denmark,2015,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2015,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2015,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2015,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2015,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2015,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -7985,7 +7985,7 @@ Denmark,2015,2G2,,,,,,
 Denmark,2015,2G3,,,,,,
 Denmark,2015,2G4,,,,,,
 Denmark,2015,2H,,,,,,
-Denmark,2015,2H1,,,,,,
+Denmark,2015,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2015,2H2,,,,,,
 Denmark,2015,2H3,,,,,,
 Denmark,2015,3,,,,,,
@@ -8122,9 +8122,9 @@ Denmark,2016,1A3A,Oil,,,,,
 Denmark,2016,1A3A1,Coal/peat,,,,,
 Denmark,2016,1A3A1,Natural gas,,,,,
 Denmark,2016,1A3A1,Oil,,,,,
-Denmark,2016,1A3A2,Coal/peat,,,,,
-Denmark,2016,1A3A2,Natural gas,,,,,
-Denmark,2016,1A3A2,Oil,,,,,
+Denmark,2016,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2016,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2016,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2016,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2016,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2016,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -8283,7 +8283,7 @@ Denmark,2016,2G2,,,,,,
 Denmark,2016,2G3,,,,,,
 Denmark,2016,2G4,,,,,,
 Denmark,2016,2H,,,,,,
-Denmark,2016,2H1,,,,,,
+Denmark,2016,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2016,2H2,,,,,,
 Denmark,2016,2H3,,,,,,
 Denmark,2016,3,,,,,,
@@ -8420,9 +8420,9 @@ Denmark,2017,1A3A,Oil,,,,,
 Denmark,2017,1A3A1,Coal/peat,,,,,
 Denmark,2017,1A3A1,Natural gas,,,,,
 Denmark,2017,1A3A1,Oil,,,,,
-Denmark,2017,1A3A2,Coal/peat,,,,,
-Denmark,2017,1A3A2,Natural gas,,,,,
-Denmark,2017,1A3A2,Oil,,,,,
+Denmark,2017,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2017,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2017,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2017,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2017,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2017,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2018]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -8581,7 +8581,7 @@ Denmark,2017,2G2,,,,,,
 Denmark,2017,2G3,,,,,,
 Denmark,2017,2G4,,,,,,
 Denmark,2017,2H,,,,,,
-Denmark,2017,2H1,,,,,,
+Denmark,2017,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2017,2H2,,,,,,
 Denmark,2017,2H3,,,,,,
 Denmark,2017,3,,,,,,
@@ -8718,9 +8718,9 @@ Denmark,2018,1A3A,Oil,,,,,
 Denmark,2018,1A3A1,Coal/peat,,,,,
 Denmark,2018,1A3A1,Natural gas,,,,,
 Denmark,2018,1A3A1,Oil,,,,,
-Denmark,2018,1A3A2,Coal/peat,,,,,
-Denmark,2018,1A3A2,Natural gas,,,,,
-Denmark,2018,1A3A2,Oil,,,,,
+Denmark,2018,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2018,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2018,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2018,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(EPT[2018], IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2018,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(EPT[2018], IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2018,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(EPT[2018], IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -8879,7 +8879,7 @@ Denmark,2018,2G2,,,,,,
 Denmark,2018,2G3,,,,,,
 Denmark,2018,2G4,,,,,,
 Denmark,2018,2H,,,,,,
-Denmark,2018,2H1,,,,,,
+Denmark,2018,2H1,,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2018,2H2,,,,,,
 Denmark,2018,2H3,,,,,,
 Denmark,2018,3,,,,,,
@@ -9016,9 +9016,9 @@ Denmark,2019,1A3A,Oil,,,,,
 Denmark,2019,1A3A1,Coal/peat,,,,,
 Denmark,2019,1A3A1,Natural gas,,,,,
 Denmark,2019,1A3A1,Oil,,,,,
-Denmark,2019,1A3A2,Coal/peat,,,,,
-Denmark,2019,1A3A2,Natural gas,,,,,
-Denmark,2019,1A3A2,Oil,,,,,
+Denmark,2019,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2019,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2019,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2019,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2019,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2019,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -9177,7 +9177,7 @@ Denmark,2019,2G2,,,,,,
 Denmark,2019,2G3,,,,,,
 Denmark,2019,2G4,,,,,,
 Denmark,2019,2H,,,,,,
-Denmark,2019,2H1,,,,,,
+Denmark,2019,2H1,,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2019,2H2,,,,,,
 Denmark,2019,2H3,,,,,,
 Denmark,2019,3,,,,,,
@@ -9314,9 +9314,9 @@ Denmark,2020,1A3A,Oil,,,,,
 Denmark,2020,1A3A1,Coal/peat,,,,,
 Denmark,2020,1A3A1,Natural gas,,,,,
 Denmark,2020,1A3A1,Oil,,,,,
-Denmark,2020,1A3A2,Coal/peat,,,,,
-Denmark,2020,1A3A2,Natural gas,,,,,
-Denmark,2020,1A3A2,Oil,,,,,
+Denmark,2020,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2020,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Denmark,2020,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2020,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2020,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
 Denmark,2020,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,"report(IEA-EPT[2020]); The tax applies to oil, gas, coal, electricity and leaves out fugitive emissions. Fuels used for electricity production are exempted BUT electricity itself is taxed. In addition, fuels used for district heating are subject to the tax.",,
@@ -9475,7 +9475,7 @@ Denmark,2020,2G2,,,,,,
 Denmark,2020,2G3,,,,,,
 Denmark,2020,2G4,,,,,,
 Denmark,2020,2H,,,,,,
-Denmark,2020,2H1,,,,,,
+Denmark,2020,2H1,,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Denmark,2020,2H2,,,,,,
 Denmark,2020,2H3,,,,,,
 Denmark,2020,3,,,,,,
@@ -9612,9 +9612,9 @@ Denmark,2021,1A3A,Oil,,,,,
 Denmark,2021,1A3A1,Coal/peat,,,,,
 Denmark,2021,1A3A1,Natural gas,,,,,
 Denmark,2021,1A3A1,Oil,,,,,
-Denmark,2021,1A3A2,Coal/peat,,,,,
-Denmark,2021,1A3A2,Natural gas,,,,,
-Denmark,2021,1A3A2,Oil,,,,,
+Denmark,2021,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,
+Denmark,2021,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,
+Denmark,2021,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,
 Denmark,2021,1A3B,Coal/peat,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,,,
 Denmark,2021,1A3B,Natural gas,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,,,
 Denmark,2021,1A3B,Oil,"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",,,,
@@ -9773,7 +9773,7 @@ Denmark,2021,2G2,,,,,,
 Denmark,2021,2G3,,,,,,
 Denmark,2021,2G4,,,,,,
 Denmark,2021,2H,,,,,,
-Denmark,2021,2H1,,,,,,
+Denmark,2021,2H1,,,"leg(EC[2018], EC[2020])",,,
 Denmark,2021,2H2,,,,,,
 Denmark,2021,2H3,,,,,,
 Denmark,2021,3,,,,,,
