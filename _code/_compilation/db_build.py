@@ -272,7 +272,7 @@ for jur in countries_dic:
 for jur in subnat_dic:
     all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
 
-for jur in countries_dic.remove("Georgia"):
+for jur in countries_dic:
     all_jur_sources.loc[all_jur_sources.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/national/CP_"+countries_dic[jur]+".csv", index=None)
 for jur in subnat_dic:
     all_jur_sources.loc[all_jur_sources.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
