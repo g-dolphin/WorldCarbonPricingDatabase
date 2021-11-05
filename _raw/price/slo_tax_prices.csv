@@ -24,7 +24,7 @@ slo_tax,2017,CO2,Coal/peat,17.3,EUR,leg(SLO-CO2[2016]),"The tax applies to CO2 e
 slo_tax,2018,CO2,Coal/peat,17.3,EUR,leg(SLO-CO2[2018]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
 slo_tax,2019,CO2,Coal/peat,17.3,EUR,leg(SLO-CO2[2018]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
 slo_tax,2020,CO2,Coal/peat,17.3,EUR,leg(SLO-CO2[2020]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
-slo_tax,2021,CO2,Coal/peat,,,,
+slo_tax,2021,CO2,Coal/peat,,EUR,,
 slo_tax,1996,CO2,Oil,NA,EUR,leg(SLO-CO2[1996]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996]."
 slo_tax,1997,CO2,Oil,4.17,EUR,"leg(SLO-CO2[1997]), journal(MAR-MUR[2007]), book(GB[2002])","The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996]."
 slo_tax,1998,CO2,Oil,12.52,EUR,"leg(SLO-CO2[1998]), journal(MAR-MUR[2007])","The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996]."
@@ -50,7 +50,7 @@ slo_tax,2017,CO2,Oil,17.3,EUR,leg(SLO-CO2[2016]),"The tax applies to CO2 emissio
 slo_tax,2018,CO2,Oil,17.3,EUR,leg(SLO-CO2[2018]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
 slo_tax,2019,CO2,Oil,17.3,EUR,leg(SLO-CO2[2018]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
 slo_tax,2020,CO2,Oil,17.3,EUR,leg(SLO-CO2[2020]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
-slo_tax,2021,CO2,Oil,,,,
+slo_tax,2021,CO2,Oil,,EUR,,
 slo_tax,1996,CO2,Natural gas,NA,EUR,leg(SLO-CO2[1996]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996]."
 slo_tax,1997,CO2,Natural gas,4.17,EUR,"leg(SLO-CO2[1997]), journal(MAR-MUR[2007]), book(GB[2002])","The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996]."
 slo_tax,1998,CO2,Natural gas,12.52,EUR,"leg(SLO-CO2[1998]), journal(MAR-MUR[2007])","The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996]."
@@ -76,4 +76,4 @@ slo_tax,2017,CO2,Natural gas,17.3,EUR,leg(SLO-CO2[2016]),"The tax applies to CO2
 slo_tax,2018,CO2,Natural gas,17.3,EUR,leg(SLO-CO2[2018]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
 slo_tax,2019,CO2,Natural gas,17.3,EUR,leg(SLO-CO2[2018]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
 slo_tax,2020,CO2,Natural gas,17.3,EUR,leg(SLO-CO2[2020]),"The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the final consumer of the fuel to final consumers, art. 10 of SLO-CO2[2016]."
-slo_tax,2021,CO2,Natural gas,,,,
+slo_tax,2021,CO2,Natural gas,,EUR,,
