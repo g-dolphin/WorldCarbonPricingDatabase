@@ -10,7 +10,7 @@ isl_tax,2017,CO2,Coal/peat,NA,ISK,report(WB[2017]),Rate converted back from USD 
 isl_tax,2018,CO2,Coal/peat,NA,ISK,report(WB[2018]),Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.
 isl_tax,2019,CO2,Coal/peat,NA,ISK,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018])",10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.
 isl_tax,2020,CO2,Coal/peat,NA,ISK,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018])",10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.
-isl_tax,2021,CO2,Coal/peat,,,,
+isl_tax,2021,CO2,Coal/peat,,ISK,,
 isl_tax,2010,CO2,Oil,737,ISK,report(WB[2014]),Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.
 isl_tax,2011,CO2,Oil,1970,ISK,report(WB[2014]),Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.
 isl_tax,2012,CO2,Oil,1508,ISK,report(WB[2014]),Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.
@@ -22,7 +22,7 @@ isl_tax,2017,CO2,Oil,1237,ISK,report(WB[2017]),Rate converted back from USD usin
 isl_tax,2018,CO2,Oil,3500,ISK,report(WB[2018]),Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.
 isl_tax,2019,CO2,Oil,3850,ISK,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018])",10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.
 isl_tax,2020,CO2,Oil,4235,ISK,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018])",10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.
-isl_tax,2021,CO2,Oil,,,,
+isl_tax,2021,CO2,Oil,,ISK,,
 isl_tax,2010,CO2,Natural gas,NA,ISK,report(WB[2014]),Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.
 isl_tax,2011,CO2,Natural gas,NA,ISK,report(WB[2014]),Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.
 isl_tax,2012,CO2,Natural gas,NA,ISK,report(WB[2014]),Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.
@@ -34,4 +34,4 @@ isl_tax,2017,CO2,Natural gas,NA,ISK,report(WB[2017]),Rate converted back from US
 isl_tax,2018,CO2,Natural gas,NA,ISK,report(WB[2018]),Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.
 isl_tax,2019,CO2,Natural gas,NA,ISK,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018])",10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.
 isl_tax,2020,CO2,Natural gas,NA,ISK,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018])",10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.
-isl_tax,2021,CO2,Natural gas,,,,
+isl_tax,2021,CO2,Natural gas,,ISK,,
