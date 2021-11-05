@@ -18,6 +18,11 @@ taxRatesModule = SourceFileLoader('tax_rates', '/Users/gd/GitHub/WorldCarbonPric
 etsCoverageModule = SourceFileLoader('ets_coverage', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverage/ets_coverage.py').load_module()
 taxCoverageModule = SourceFileLoader('taxes_coverage', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverage/taxes_coverage.py').load_module()
 
+
+# Specify greenhouse gas for which the dataset is built
+gas = "CO2" # or CH4 / HFCs / PFCs / SF6
+
+
 # 1. Load original dataset
 
 def concatenate(indir):#,outfile):
@@ -68,6 +73,7 @@ all_jur_list = ctry_list + subnat_list
 all_jur = all_jur[["Jurisdiction", "Year", "IPCC_cat_code", "Product"]]
 all_jur_sources = all_jur_sources[["Jurisdiction", "Year", "IPCC_cat_code", "Product"]]
 
+all_jur_sources["Year"] = all_jur_sources["Year"].astype(int)
 
 #------------------------Primary:Emissions trading systems---------------------------#
 
@@ -125,6 +131,9 @@ taxes_1_list = ["can_ab_tax", "arg_tax", "can_bc_tax", "aus_tax", "can_tax_I",
                "ukr_tax"] #, "mex_zac_tax", "esp_tax"
 
 tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/")
+tax_rates.rename(columns={"product":"em_type"}, inplace=True)
+tax_rates = tax_rates.loc[tax_rates.ghg==gas]
+
 taxes_coverage = taxCoverageModule.coverage()["data"]
 taxes_coverage_sources = taxCoverageModule.coverage()["sources"]
 
@@ -138,7 +147,7 @@ def tax_db_values(scheme_list, scheme_no):
                    "rate":"tax_2_rate_excl_ex_clcu", "curr_code":"tax_2_curr_code"}
 
     for scheme in scheme_list:
-
+        print(scheme)
         for year in taxes_coverage[scheme]["jurisdictions"].keys():   
             selection = (all_jur.Year==year) & (all_jur.Jurisdiction.isin(taxes_coverage[scheme]["jurisdictions"][year])) & (all_jur.IPCC_cat_code.isin(taxes_coverage[scheme]["sectors"][year])) & (all_jur.Product.isin(taxes_coverage[scheme]["fuels"][year]))
             selection_sources = (all_jur_sources.Year==year) & (all_jur_sources.Jurisdiction.isin(taxes_coverage[scheme]["jurisdictions"][year])) & (all_jur_sources.IPCC_cat_code.isin(taxes_coverage[scheme]["sectors"][year])) & (all_jur_sources.Product.isin(taxes_coverage[scheme]["fuels"][year]))
@@ -149,16 +158,14 @@ def tax_db_values(scheme_list, scheme_no):
             # Coverage data source 
             all_jur_sources.loc[selection_sources, columns["dummy"]] = taxes_coverage_sources[scheme][year]
             
-            try:        
-                all_jur.loc[selection & (all_jur.Product == "Oil"), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year), "Oil"].item()
-                all_jur.loc[selection & (all_jur.Product == "Natural gas"),columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year), "Natural gas"].item()            
-                all_jur.loc[selection & (all_jur.Product == "Coal/peat"), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year), "Coal/peat"].item()
+            try:
+                for type_em in ["Oil", "Natural gas", "Coal/peat"]:
+                    all_jur.loc[selection & (all_jur.Product == type_em), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year) & (tax_rates.em_type==type_em), "rate"].item()                
+                    all_jur.loc[selection & (all_jur.Product == type_em), columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year) & (tax_rates.em_type==type_em), "currency_code"].item()
                 
-                all_jur.loc[selection, columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year), "currency_code"].item()
-                
-                
-                # Price data source
-                all_jur_sources.loc[selection_sources, columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year), "source"].item()+"; "+tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year), "comment"].item()
+#                    # Price data source
+                    value = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year) & (tax_rates.em_type==type_em), "source"].item()+"; "+tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year) & (tax_rates.em_type==type_em), "comment"].item()
+                    all_jur_sources.loc[selection_sources & (all_jur_sources.Product == type_em), columns["rate"]] = value
                 
             except:
                 print(scheme, year)
