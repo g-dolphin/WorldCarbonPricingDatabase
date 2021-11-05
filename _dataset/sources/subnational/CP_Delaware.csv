@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax_dummy,ets_dummy,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Delaware,1989,0,,,,,,
 Delaware,1989,1,,,,,,
 Delaware,1989,1A,Coal/peat,,,,,
@@ -5967,18 +5967,18 @@ Delaware,2009,1A,Oil,,,,,
 Delaware,2009,1A1,Coal/peat,,,,,
 Delaware,2009,1A1,Natural gas,,,,,
 Delaware,2009,1A1,Oil,,,,,
-Delaware,2009,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2009,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2009,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2009,1A1A1,Coal/peat,,,,,
-Delaware,2009,1A1A1,Natural gas,,,,,
-Delaware,2009,1A1A1,Oil,,,,,
-Delaware,2009,1A1A2,Coal/peat,,,,,
-Delaware,2009,1A1A2,Natural gas,,,,,
-Delaware,2009,1A1A2,Oil,,,,,
-Delaware,2009,1A1A3,Coal/peat,,,,,
-Delaware,2009,1A1A3,Natural gas,,,,,
-Delaware,2009,1A1A3,Oil,,,,,
+Delaware,2009,1A1A,Coal/peat,,,,,
+Delaware,2009,1A1A,Natural gas,,,,,
+Delaware,2009,1A1A,Oil,,,,,
+Delaware,2009,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2009,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2009,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2009,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2009,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2009,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2009,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2009,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2009,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2009,1A1B,Coal/peat,,,,,
 Delaware,2009,1A1B,Natural gas,,,,,
 Delaware,2009,1A1B,Oil,,,,,
@@ -6265,18 +6265,18 @@ Delaware,2010,1A,Oil,,,,,
 Delaware,2010,1A1,Coal/peat,,,,,
 Delaware,2010,1A1,Natural gas,,,,,
 Delaware,2010,1A1,Oil,,,,,
-Delaware,2010,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2010,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2010,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2010,1A1A1,Coal/peat,,,,,
-Delaware,2010,1A1A1,Natural gas,,,,,
-Delaware,2010,1A1A1,Oil,,,,,
-Delaware,2010,1A1A2,Coal/peat,,,,,
-Delaware,2010,1A1A2,Natural gas,,,,,
-Delaware,2010,1A1A2,Oil,,,,,
-Delaware,2010,1A1A3,Coal/peat,,,,,
-Delaware,2010,1A1A3,Natural gas,,,,,
-Delaware,2010,1A1A3,Oil,,,,,
+Delaware,2010,1A1A,Coal/peat,,,,,
+Delaware,2010,1A1A,Natural gas,,,,,
+Delaware,2010,1A1A,Oil,,,,,
+Delaware,2010,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2010,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2010,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2010,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2010,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2010,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2010,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2010,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2010,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2010,1A1B,Coal/peat,,,,,
 Delaware,2010,1A1B,Natural gas,,,,,
 Delaware,2010,1A1B,Oil,,,,,
@@ -6563,18 +6563,18 @@ Delaware,2011,1A,Oil,,,,,
 Delaware,2011,1A1,Coal/peat,,,,,
 Delaware,2011,1A1,Natural gas,,,,,
 Delaware,2011,1A1,Oil,,,,,
-Delaware,2011,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2011,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2011,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2011,1A1A1,Coal/peat,,,,,
-Delaware,2011,1A1A1,Natural gas,,,,,
-Delaware,2011,1A1A1,Oil,,,,,
-Delaware,2011,1A1A2,Coal/peat,,,,,
-Delaware,2011,1A1A2,Natural gas,,,,,
-Delaware,2011,1A1A2,Oil,,,,,
-Delaware,2011,1A1A3,Coal/peat,,,,,
-Delaware,2011,1A1A3,Natural gas,,,,,
-Delaware,2011,1A1A3,Oil,,,,,
+Delaware,2011,1A1A,Coal/peat,,,,,
+Delaware,2011,1A1A,Natural gas,,,,,
+Delaware,2011,1A1A,Oil,,,,,
+Delaware,2011,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2011,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2011,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2011,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2011,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2011,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2011,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2011,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2011,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2011,1A1B,Coal/peat,,,,,
 Delaware,2011,1A1B,Natural gas,,,,,
 Delaware,2011,1A1B,Oil,,,,,
@@ -6861,18 +6861,18 @@ Delaware,2012,1A,Oil,,,,,
 Delaware,2012,1A1,Coal/peat,,,,,
 Delaware,2012,1A1,Natural gas,,,,,
 Delaware,2012,1A1,Oil,,,,,
-Delaware,2012,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2012,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2012,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2012,1A1A1,Coal/peat,,,,,
-Delaware,2012,1A1A1,Natural gas,,,,,
-Delaware,2012,1A1A1,Oil,,,,,
-Delaware,2012,1A1A2,Coal/peat,,,,,
-Delaware,2012,1A1A2,Natural gas,,,,,
-Delaware,2012,1A1A2,Oil,,,,,
-Delaware,2012,1A1A3,Coal/peat,,,,,
-Delaware,2012,1A1A3,Natural gas,,,,,
-Delaware,2012,1A1A3,Oil,,,,,
+Delaware,2012,1A1A,Coal/peat,,,,,
+Delaware,2012,1A1A,Natural gas,,,,,
+Delaware,2012,1A1A,Oil,,,,,
+Delaware,2012,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2012,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2012,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2012,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2012,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2012,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2012,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2012,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2012,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2012,1A1B,Coal/peat,,,,,
 Delaware,2012,1A1B,Natural gas,,,,,
 Delaware,2012,1A1B,Oil,,,,,
@@ -7159,18 +7159,18 @@ Delaware,2013,1A,Oil,,,,,
 Delaware,2013,1A1,Coal/peat,,,,,
 Delaware,2013,1A1,Natural gas,,,,,
 Delaware,2013,1A1,Oil,,,,,
-Delaware,2013,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2013,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2013,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2013,1A1A1,Coal/peat,,,,,
-Delaware,2013,1A1A1,Natural gas,,,,,
-Delaware,2013,1A1A1,Oil,,,,,
-Delaware,2013,1A1A2,Coal/peat,,,,,
-Delaware,2013,1A1A2,Natural gas,,,,,
-Delaware,2013,1A1A2,Oil,,,,,
-Delaware,2013,1A1A3,Coal/peat,,,,,
-Delaware,2013,1A1A3,Natural gas,,,,,
-Delaware,2013,1A1A3,Oil,,,,,
+Delaware,2013,1A1A,Coal/peat,,,,,
+Delaware,2013,1A1A,Natural gas,,,,,
+Delaware,2013,1A1A,Oil,,,,,
+Delaware,2013,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2013,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2013,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2013,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2013,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2013,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2013,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2013,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2013,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2013,1A1B,Coal/peat,,,,,
 Delaware,2013,1A1B,Natural gas,,,,,
 Delaware,2013,1A1B,Oil,,,,,
@@ -7457,18 +7457,18 @@ Delaware,2014,1A,Oil,,,,,
 Delaware,2014,1A1,Coal/peat,,,,,
 Delaware,2014,1A1,Natural gas,,,,,
 Delaware,2014,1A1,Oil,,,,,
-Delaware,2014,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2014,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2014,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2014,1A1A1,Coal/peat,,,,,
-Delaware,2014,1A1A1,Natural gas,,,,,
-Delaware,2014,1A1A1,Oil,,,,,
-Delaware,2014,1A1A2,Coal/peat,,,,,
-Delaware,2014,1A1A2,Natural gas,,,,,
-Delaware,2014,1A1A2,Oil,,,,,
-Delaware,2014,1A1A3,Coal/peat,,,,,
-Delaware,2014,1A1A3,Natural gas,,,,,
-Delaware,2014,1A1A3,Oil,,,,,
+Delaware,2014,1A1A,Coal/peat,,,,,
+Delaware,2014,1A1A,Natural gas,,,,,
+Delaware,2014,1A1A,Oil,,,,,
+Delaware,2014,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2014,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2014,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2014,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2014,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2014,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2014,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2014,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2014,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2014,1A1B,Coal/peat,,,,,
 Delaware,2014,1A1B,Natural gas,,,,,
 Delaware,2014,1A1B,Oil,,,,,
@@ -7755,18 +7755,18 @@ Delaware,2015,1A,Oil,,,,,
 Delaware,2015,1A1,Coal/peat,,,,,
 Delaware,2015,1A1,Natural gas,,,,,
 Delaware,2015,1A1,Oil,,,,,
-Delaware,2015,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2015,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2015,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2015,1A1A1,Coal/peat,,,,,
-Delaware,2015,1A1A1,Natural gas,,,,,
-Delaware,2015,1A1A1,Oil,,,,,
-Delaware,2015,1A1A2,Coal/peat,,,,,
-Delaware,2015,1A1A2,Natural gas,,,,,
-Delaware,2015,1A1A2,Oil,,,,,
-Delaware,2015,1A1A3,Coal/peat,,,,,
-Delaware,2015,1A1A3,Natural gas,,,,,
-Delaware,2015,1A1A3,Oil,,,,,
+Delaware,2015,1A1A,Coal/peat,,,,,
+Delaware,2015,1A1A,Natural gas,,,,,
+Delaware,2015,1A1A,Oil,,,,,
+Delaware,2015,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2015,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2015,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2015,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2015,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2015,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2015,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2015,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2015,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2015,1A1B,Coal/peat,,,,,
 Delaware,2015,1A1B,Natural gas,,,,,
 Delaware,2015,1A1B,Oil,,,,,
@@ -8053,18 +8053,18 @@ Delaware,2016,1A,Oil,,,,,
 Delaware,2016,1A1,Coal/peat,,,,,
 Delaware,2016,1A1,Natural gas,,,,,
 Delaware,2016,1A1,Oil,,,,,
-Delaware,2016,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2016,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2016,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2016,1A1A1,Coal/peat,,,,,
-Delaware,2016,1A1A1,Natural gas,,,,,
-Delaware,2016,1A1A1,Oil,,,,,
-Delaware,2016,1A1A2,Coal/peat,,,,,
-Delaware,2016,1A1A2,Natural gas,,,,,
-Delaware,2016,1A1A2,Oil,,,,,
-Delaware,2016,1A1A3,Coal/peat,,,,,
-Delaware,2016,1A1A3,Natural gas,,,,,
-Delaware,2016,1A1A3,Oil,,,,,
+Delaware,2016,1A1A,Coal/peat,,,,,
+Delaware,2016,1A1A,Natural gas,,,,,
+Delaware,2016,1A1A,Oil,,,,,
+Delaware,2016,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2016,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2016,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2016,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2016,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2016,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2016,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2016,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2016,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2016,1A1B,Coal/peat,,,,,
 Delaware,2016,1A1B,Natural gas,,,,,
 Delaware,2016,1A1B,Oil,,,,,
@@ -8351,18 +8351,18 @@ Delaware,2017,1A,Oil,,,,,
 Delaware,2017,1A1,Coal/peat,,,,,
 Delaware,2017,1A1,Natural gas,,,,,
 Delaware,2017,1A1,Oil,,,,,
-Delaware,2017,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2017,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2017,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2017,1A1A1,Coal/peat,,,,,
-Delaware,2017,1A1A1,Natural gas,,,,,
-Delaware,2017,1A1A1,Oil,,,,,
-Delaware,2017,1A1A2,Coal/peat,,,,,
-Delaware,2017,1A1A2,Natural gas,,,,,
-Delaware,2017,1A1A2,Oil,,,,,
-Delaware,2017,1A1A3,Coal/peat,,,,,
-Delaware,2017,1A1A3,Natural gas,,,,,
-Delaware,2017,1A1A3,Oil,,,,,
+Delaware,2017,1A1A,Coal/peat,,,,,
+Delaware,2017,1A1A,Natural gas,,,,,
+Delaware,2017,1A1A,Oil,,,,,
+Delaware,2017,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2017,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2017,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2017,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2017,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2017,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2017,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2017,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2017,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2017,1A1B,Coal/peat,,,,,
 Delaware,2017,1A1B,Natural gas,,,,,
 Delaware,2017,1A1B,Oil,,,,,
@@ -8649,18 +8649,18 @@ Delaware,2018,1A,Oil,,,,,
 Delaware,2018,1A1,Coal/peat,,,,,
 Delaware,2018,1A1,Natural gas,,,,,
 Delaware,2018,1A1,Oil,,,,,
-Delaware,2018,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2018,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2018,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2018,1A1A1,Coal/peat,,,,,
-Delaware,2018,1A1A1,Natural gas,,,,,
-Delaware,2018,1A1A1,Oil,,,,,
-Delaware,2018,1A1A2,Coal/peat,,,,,
-Delaware,2018,1A1A2,Natural gas,,,,,
-Delaware,2018,1A1A2,Oil,,,,,
-Delaware,2018,1A1A3,Coal/peat,,,,,
-Delaware,2018,1A1A3,Natural gas,,,,,
-Delaware,2018,1A1A3,Oil,,,,,
+Delaware,2018,1A1A,Coal/peat,,,,,
+Delaware,2018,1A1A,Natural gas,,,,,
+Delaware,2018,1A1A,Oil,,,,,
+Delaware,2018,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2018,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2018,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2018,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2018,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2018,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2018,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2018,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2018,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2018,1A1B,Coal/peat,,,,,
 Delaware,2018,1A1B,Natural gas,,,,,
 Delaware,2018,1A1B,Oil,,,,,
@@ -8947,18 +8947,18 @@ Delaware,2019,1A,Oil,,,,,
 Delaware,2019,1A1,Coal/peat,,,,,
 Delaware,2019,1A1,Natural gas,,,,,
 Delaware,2019,1A1,Oil,,,,,
-Delaware,2019,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2019,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2019,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2019,1A1A1,Coal/peat,,,,,
-Delaware,2019,1A1A1,Natural gas,,,,,
-Delaware,2019,1A1A1,Oil,,,,,
-Delaware,2019,1A1A2,Coal/peat,,,,,
-Delaware,2019,1A1A2,Natural gas,,,,,
-Delaware,2019,1A1A2,Oil,,,,,
-Delaware,2019,1A1A3,Coal/peat,,,,,
-Delaware,2019,1A1A3,Natural gas,,,,,
-Delaware,2019,1A1A3,Oil,,,,,
+Delaware,2019,1A1A,Coal/peat,,,,,
+Delaware,2019,1A1A,Natural gas,,,,,
+Delaware,2019,1A1A,Oil,,,,,
+Delaware,2019,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2019,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2019,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2019,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2019,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2019,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2019,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2019,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2019,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2019,1A1B,Coal/peat,,,,,
 Delaware,2019,1A1B,Natural gas,,,,,
 Delaware,2019,1A1B,Oil,,,,,
@@ -9245,18 +9245,18 @@ Delaware,2020,1A,Oil,,,,,
 Delaware,2020,1A1,Coal/peat,,,,,
 Delaware,2020,1A1,Natural gas,,,,,
 Delaware,2020,1A1,Oil,,,,,
-Delaware,2020,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2020,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2020,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Delaware,2020,1A1A1,Coal/peat,,,,,
-Delaware,2020,1A1A1,Natural gas,,,,,
-Delaware,2020,1A1A1,Oil,,,,,
-Delaware,2020,1A1A2,Coal/peat,,,,,
-Delaware,2020,1A1A2,Natural gas,,,,,
-Delaware,2020,1A1A2,Oil,,,,,
-Delaware,2020,1A1A3,Coal/peat,,,,,
-Delaware,2020,1A1A3,Natural gas,,,,,
-Delaware,2020,1A1A3,Oil,,,,,
+Delaware,2020,1A1A,Coal/peat,,,,,
+Delaware,2020,1A1A,Natural gas,,,,,
+Delaware,2020,1A1A,Oil,,,,,
+Delaware,2020,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2020,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2020,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2020,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2020,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2020,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2020,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2020,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Delaware,2020,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Delaware,2020,1A1B,Coal/peat,,,,,
 Delaware,2020,1A1B,Natural gas,,,,,
 Delaware,2020,1A1B,Oil,,,,,
@@ -9543,18 +9543,18 @@ Delaware,2021,1A,Oil,,,,,
 Delaware,2021,1A1,Coal/peat,,,,,
 Delaware,2021,1A1,Natural gas,,,,,
 Delaware,2021,1A1,Oil,,,,,
-Delaware,2021,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-Delaware,2021,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-Delaware,2021,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-Delaware,2021,1A1A1,Coal/peat,,,,,
-Delaware,2021,1A1A1,Natural gas,,,,,
-Delaware,2021,1A1A1,Oil,,,,,
-Delaware,2021,1A1A2,Coal/peat,,,,,
-Delaware,2021,1A1A2,Natural gas,,,,,
-Delaware,2021,1A1A2,Oil,,,,,
-Delaware,2021,1A1A3,Coal/peat,,,,,
-Delaware,2021,1A1A3,Natural gas,,,,,
-Delaware,2021,1A1A3,Oil,,,,,
+Delaware,2021,1A1A,Coal/peat,,,,,
+Delaware,2021,1A1A,Natural gas,,,,,
+Delaware,2021,1A1A,Oil,,,,,
+Delaware,2021,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Delaware,2021,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Delaware,2021,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Delaware,2021,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Delaware,2021,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Delaware,2021,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Delaware,2021,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Delaware,2021,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Delaware,2021,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
 Delaware,2021,1A1B,Coal/peat,,,,,
 Delaware,2021,1A1B,Natural gas,,,,,
 Delaware,2021,1A1B,Oil,,,,,
