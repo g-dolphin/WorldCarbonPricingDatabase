@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax_dummy,ets_dummy,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Slovenia,1989,0,,,,,,
 Slovenia,1989,1,,,,,,
 Slovenia,1989,1A,Coal/peat,,,,,
@@ -4960,31 +4960,31 @@ Slovenia,2005,2A4B,,,,,,
 Slovenia,2005,2A4C,,,,,,
 Slovenia,2005,2A4D,,,,,,
 Slovenia,2005,2B,,,,,,
-Slovenia,2005,2B1,,,,,,
+Slovenia,2005,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2005,2B10,,,,,,
-Slovenia,2005,2B2,,,,,,
-Slovenia,2005,2B3,,,,,,
-Slovenia,2005,2B4,,,,,,
-Slovenia,2005,2B5,,,,,,
-Slovenia,2005,2B6,,,,,,
-Slovenia,2005,2B7,,,,,,
+Slovenia,2005,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2005,2B8,,,,,,
 Slovenia,2005,2B8A,,,,,,
 Slovenia,2005,2B8B,,,,,,
 Slovenia,2005,2B8C,,,,,,
 Slovenia,2005,2B8D,,,,,,
 Slovenia,2005,2B8E,,,,,,
-Slovenia,2005,2B8F,,,,,,
+Slovenia,2005,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2005,2B9,,,,,,
 Slovenia,2005,2B9A,,,,,,
 Slovenia,2005,2B9B,,,,,,
 Slovenia,2005,2C,,,,,,
 Slovenia,2005,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2005,2C2,,,,,,
-Slovenia,2005,2C3,,,,,,
-Slovenia,2005,2C4,,,,,,
-Slovenia,2005,2C5,,,,,,
-Slovenia,2005,2C6,,,,,,
+Slovenia,2005,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2005,2C7,,,,,,
 Slovenia,2005,2D,,,,,,
 Slovenia,2005,2D1,,,,,,
@@ -5258,31 +5258,31 @@ Slovenia,2006,2A4B,,,,,,
 Slovenia,2006,2A4C,,,,,,
 Slovenia,2006,2A4D,,,,,,
 Slovenia,2006,2B,,,,,,
-Slovenia,2006,2B1,,,,,,
+Slovenia,2006,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2006,2B10,,,,,,
-Slovenia,2006,2B2,,,,,,
-Slovenia,2006,2B3,,,,,,
-Slovenia,2006,2B4,,,,,,
-Slovenia,2006,2B5,,,,,,
-Slovenia,2006,2B6,,,,,,
-Slovenia,2006,2B7,,,,,,
+Slovenia,2006,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2006,2B8,,,,,,
 Slovenia,2006,2B8A,,,,,,
 Slovenia,2006,2B8B,,,,,,
 Slovenia,2006,2B8C,,,,,,
 Slovenia,2006,2B8D,,,,,,
 Slovenia,2006,2B8E,,,,,,
-Slovenia,2006,2B8F,,,,,,
+Slovenia,2006,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2006,2B9,,,,,,
 Slovenia,2006,2B9A,,,,,,
 Slovenia,2006,2B9B,,,,,,
 Slovenia,2006,2C,,,,,,
 Slovenia,2006,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2006,2C2,,,,,,
-Slovenia,2006,2C3,,,,,,
-Slovenia,2006,2C4,,,,,,
-Slovenia,2006,2C5,,,,,,
-Slovenia,2006,2C6,,,,,,
+Slovenia,2006,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2006,2C7,,,,,,
 Slovenia,2006,2D,,,,,,
 Slovenia,2006,2D1,,,,,,
@@ -5556,31 +5556,31 @@ Slovenia,2007,2A4B,,,,,,
 Slovenia,2007,2A4C,,,,,,
 Slovenia,2007,2A4D,,,,,,
 Slovenia,2007,2B,,,,,,
-Slovenia,2007,2B1,,,,,,
+Slovenia,2007,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2007,2B10,,,,,,
-Slovenia,2007,2B2,,,,,,
-Slovenia,2007,2B3,,,,,,
-Slovenia,2007,2B4,,,,,,
-Slovenia,2007,2B5,,,,,,
-Slovenia,2007,2B6,,,,,,
-Slovenia,2007,2B7,,,,,,
+Slovenia,2007,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2007,2B8,,,,,,
 Slovenia,2007,2B8A,,,,,,
 Slovenia,2007,2B8B,,,,,,
 Slovenia,2007,2B8C,,,,,,
 Slovenia,2007,2B8D,,,,,,
 Slovenia,2007,2B8E,,,,,,
-Slovenia,2007,2B8F,,,,,,
+Slovenia,2007,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2007,2B9,,,,,,
 Slovenia,2007,2B9A,,,,,,
 Slovenia,2007,2B9B,,,,,,
 Slovenia,2007,2C,,,,,,
 Slovenia,2007,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2007,2C2,,,,,,
-Slovenia,2007,2C3,,,,,,
-Slovenia,2007,2C4,,,,,,
-Slovenia,2007,2C5,,,,,,
-Slovenia,2007,2C6,,,,,,
+Slovenia,2007,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2007,2C7,,,,,,
 Slovenia,2007,2D,,,,,,
 Slovenia,2007,2D1,,,,,,
@@ -5854,31 +5854,31 @@ Slovenia,2008,2A4B,,,,,,
 Slovenia,2008,2A4C,,,,,,
 Slovenia,2008,2A4D,,,,,,
 Slovenia,2008,2B,,,,,,
-Slovenia,2008,2B1,,,,,,
+Slovenia,2008,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2008,2B10,,,,,,
-Slovenia,2008,2B2,,,,,,
-Slovenia,2008,2B3,,,,,,
-Slovenia,2008,2B4,,,,,,
-Slovenia,2008,2B5,,,,,,
-Slovenia,2008,2B6,,,,,,
-Slovenia,2008,2B7,,,,,,
+Slovenia,2008,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2008,2B8,,,,,,
 Slovenia,2008,2B8A,,,,,,
 Slovenia,2008,2B8B,,,,,,
 Slovenia,2008,2B8C,,,,,,
 Slovenia,2008,2B8D,,,,,,
 Slovenia,2008,2B8E,,,,,,
-Slovenia,2008,2B8F,,,,,,
+Slovenia,2008,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2008,2B9,,,,,,
 Slovenia,2008,2B9A,,,,,,
 Slovenia,2008,2B9B,,,,,,
 Slovenia,2008,2C,,,,,,
 Slovenia,2008,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2008,2C2,,,,,,
-Slovenia,2008,2C3,,,,,,
-Slovenia,2008,2C4,,,,,,
-Slovenia,2008,2C5,,,,,,
-Slovenia,2008,2C6,,,,,,
+Slovenia,2008,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2008,2C7,,,,,,
 Slovenia,2008,2D,,,,,,
 Slovenia,2008,2D1,,,,,,
@@ -6152,31 +6152,31 @@ Slovenia,2009,2A4B,,,,,,
 Slovenia,2009,2A4C,,,,,,
 Slovenia,2009,2A4D,,,,,,
 Slovenia,2009,2B,,,,,,
-Slovenia,2009,2B1,,,,,,
+Slovenia,2009,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2009,2B10,,,,,,
-Slovenia,2009,2B2,,,,,,
-Slovenia,2009,2B3,,,,,,
-Slovenia,2009,2B4,,,,,,
-Slovenia,2009,2B5,,,,,,
-Slovenia,2009,2B6,,,,,,
-Slovenia,2009,2B7,,,,,,
+Slovenia,2009,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2009,2B8,,,,,,
 Slovenia,2009,2B8A,,,,,,
 Slovenia,2009,2B8B,,,,,,
 Slovenia,2009,2B8C,,,,,,
 Slovenia,2009,2B8D,,,,,,
 Slovenia,2009,2B8E,,,,,,
-Slovenia,2009,2B8F,,,,,,
+Slovenia,2009,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2009,2B9,,,,,,
 Slovenia,2009,2B9A,,,,,,
 Slovenia,2009,2B9B,,,,,,
 Slovenia,2009,2C,,,,,,
 Slovenia,2009,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2009,2C2,,,,,,
-Slovenia,2009,2C3,,,,,,
-Slovenia,2009,2C4,,,,,,
-Slovenia,2009,2C5,,,,,,
-Slovenia,2009,2C6,,,,,,
+Slovenia,2009,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2009,2C7,,,,,,
 Slovenia,2009,2D,,,,,,
 Slovenia,2009,2D1,,,,,,
@@ -6450,31 +6450,31 @@ Slovenia,2010,2A4B,,,,,,
 Slovenia,2010,2A4C,,,,,,
 Slovenia,2010,2A4D,,,,,,
 Slovenia,2010,2B,,,,,,
-Slovenia,2010,2B1,,,,,,
+Slovenia,2010,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2010,2B10,,,,,,
-Slovenia,2010,2B2,,,,,,
-Slovenia,2010,2B3,,,,,,
-Slovenia,2010,2B4,,,,,,
-Slovenia,2010,2B5,,,,,,
-Slovenia,2010,2B6,,,,,,
-Slovenia,2010,2B7,,,,,,
+Slovenia,2010,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2010,2B8,,,,,,
 Slovenia,2010,2B8A,,,,,,
 Slovenia,2010,2B8B,,,,,,
 Slovenia,2010,2B8C,,,,,,
 Slovenia,2010,2B8D,,,,,,
 Slovenia,2010,2B8E,,,,,,
-Slovenia,2010,2B8F,,,,,,
+Slovenia,2010,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2010,2B9,,,,,,
 Slovenia,2010,2B9A,,,,,,
 Slovenia,2010,2B9B,,,,,,
 Slovenia,2010,2C,,,,,,
 Slovenia,2010,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2010,2C2,,,,,,
-Slovenia,2010,2C3,,,,,,
-Slovenia,2010,2C4,,,,,,
-Slovenia,2010,2C5,,,,,,
-Slovenia,2010,2C6,,,,,,
+Slovenia,2010,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2010,2C7,,,,,,
 Slovenia,2010,2D,,,,,,
 Slovenia,2010,2D1,,,,,,
@@ -6748,31 +6748,31 @@ Slovenia,2011,2A4B,,,,,,
 Slovenia,2011,2A4C,,,,,,
 Slovenia,2011,2A4D,,,,,,
 Slovenia,2011,2B,,,,,,
-Slovenia,2011,2B1,,,,,,
+Slovenia,2011,2B1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2011,2B10,,,,,,
-Slovenia,2011,2B2,,,,,,
-Slovenia,2011,2B3,,,,,,
-Slovenia,2011,2B4,,,,,,
-Slovenia,2011,2B5,,,,,,
-Slovenia,2011,2B6,,,,,,
-Slovenia,2011,2B7,,,,,,
+Slovenia,2011,2B2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2B3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2B4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2B5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2B6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2B7,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2011,2B8,,,,,,
 Slovenia,2011,2B8A,,,,,,
 Slovenia,2011,2B8B,,,,,,
 Slovenia,2011,2B8C,,,,,,
 Slovenia,2011,2B8D,,,,,,
 Slovenia,2011,2B8E,,,,,,
-Slovenia,2011,2B8F,,,,,,
+Slovenia,2011,2B8F,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2011,2B9,,,,,,
 Slovenia,2011,2B9A,,,,,,
 Slovenia,2011,2B9B,,,,,,
 Slovenia,2011,2C,,,,,,
 Slovenia,2011,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2011,2C2,,,,,,
-Slovenia,2011,2C3,,,,,,
-Slovenia,2011,2C4,,,,,,
-Slovenia,2011,2C5,,,,,,
-Slovenia,2011,2C6,,,,,,
+Slovenia,2011,2C2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2C3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2C4,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2C5,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,2C6,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2011,2C7,,,,,,
 Slovenia,2011,2D,,,,,,
 Slovenia,2011,2D1,,,,,,
@@ -6864,63 +6864,63 @@ Slovenia,2012,1A1,Oil,,,,,
 Slovenia,2012,1A1A,Coal/peat,,,,,
 Slovenia,2012,1A1A,Natural gas,,,,,
 Slovenia,2012,1A1A,Oil,,,,,
-Slovenia,2012,1A1A1,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1A1,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1A1,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1A2,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1A2,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1A2,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1A3,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1A3,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1A3,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1B,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1B,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1B,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1C,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1C,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A1C,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A1,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A1,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A1,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A2,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A2,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A2,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A3,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A3,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A3,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1B,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1B,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1B,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1C,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1C,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1C,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,1A2,Coal/peat,,,,,
 Slovenia,2012,1A2,Natural gas,,,,,
 Slovenia,2012,1A2,Oil,,,,,
-Slovenia,2012,1A2A,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2A,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2A,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2B,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2B,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2B,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2C,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2C,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2C,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2D,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2D,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2D,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2E,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2E,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2E,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2F,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2F,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2F,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2G,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2G,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2G,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2H,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2H,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2H,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2I,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2I,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2I,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2J,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2J,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2J,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2K,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2K,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2K,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2L,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2L,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2L,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2M,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2M,Natural gas,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,1A2M,Oil,leg(SLO-CO2[2011]),leg(EC[2003]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2A,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2A,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2A,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2B,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2B,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2B,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2C,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2C,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2C,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2D,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2D,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2D,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2E,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2E,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2E,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2F,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2F,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2F,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2G,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2G,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2G,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2H,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2H,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2H,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2I,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2I,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2I,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2J,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2J,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2J,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2K,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2K,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2K,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2L,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2L,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2L,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2M,Coal/peat,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2M,Natural gas,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A2M,Oil,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,1A3,Coal/peat,,,,,
 Slovenia,2012,1A3,Natural gas,,,,,
 Slovenia,2012,1A3,Oil,,,,,
@@ -6930,9 +6930,9 @@ Slovenia,2012,1A3A,Oil,,,,,
 Slovenia,2012,1A3A1,Coal/peat,,,,,
 Slovenia,2012,1A3A1,Natural gas,,,,,
 Slovenia,2012,1A3A1,Oil,,,,,
-Slovenia,2012,1A3A2,Coal/peat,,,,,
-Slovenia,2012,1A3A2,Natural gas,,,,,
-Slovenia,2012,1A3A2,Oil,,,,,
+Slovenia,2012,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,1A3B,Coal/peat,,,,,
 Slovenia,2012,1A3B,Natural gas,,,,,
 Slovenia,2012,1A3B,Oil,,,,,
@@ -7023,12 +7023,12 @@ Slovenia,2012,1B2B36,,,,,,
 Slovenia,2012,1B3,,,,,,
 Slovenia,2012,1C,,,,,,
 Slovenia,2012,1C1,,,,,,
-Slovenia,2012,1C1A,,,,,,
+Slovenia,2012,1C1A,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,1C1B,,,,,,
 Slovenia,2012,1C1C,,,,,,
 Slovenia,2012,1C2,,,,,,
 Slovenia,2012,1C2A,,,,,,
-Slovenia,2012,1C2B,,,,,,
+Slovenia,2012,1C2B,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,1C3,,,,,,
 Slovenia,2012,2,,,,,,
 Slovenia,2012,20,,,,,,
@@ -7037,40 +7037,40 @@ Slovenia,2012,2000,,,,,,
 Slovenia,2012,20000,,,,,,
 Slovenia,2012,200000,,,,,,
 Slovenia,2012,2A,,,,,,
-Slovenia,2012,2A1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,2A2,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,2A3,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2A1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2A2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2A3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,2A4,,,,,,
-Slovenia,2012,2A4A,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2A4A,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,2A4B,,,,,,
 Slovenia,2012,2A4C,,,,,,
 Slovenia,2012,2A4D,,,,,,
 Slovenia,2012,2B,,,,,,
-Slovenia,2012,2B1,,,,,,
+Slovenia,2012,2B1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,2B10,,,,,,
-Slovenia,2012,2B2,,,,,,
-Slovenia,2012,2B3,,,,,,
-Slovenia,2012,2B4,,,,,,
-Slovenia,2012,2B5,,,,,,
-Slovenia,2012,2B6,,,,,,
-Slovenia,2012,2B7,,,,,,
+Slovenia,2012,2B2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2B3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2B4,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2B5,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2B6,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2B7,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,2B8,,,,,,
 Slovenia,2012,2B8A,,,,,,
 Slovenia,2012,2B8B,,,,,,
 Slovenia,2012,2B8C,,,,,,
 Slovenia,2012,2B8D,,,,,,
 Slovenia,2012,2B8E,,,,,,
-Slovenia,2012,2B8F,,,,,,
+Slovenia,2012,2B8F,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,2B9,,,,,,
 Slovenia,2012,2B9A,,,,,,
 Slovenia,2012,2B9B,,,,,,
 Slovenia,2012,2C,,,,,,
-Slovenia,2012,2C1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2012,2C2,,,,,,
-Slovenia,2012,2C3,,,,,,
-Slovenia,2012,2C4,,,,,,
-Slovenia,2012,2C5,,,,,,
-Slovenia,2012,2C6,,,,,,
+Slovenia,2012,2C1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2C2,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2C3,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2C4,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2C5,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2C6,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,2C7,,,,,,
 Slovenia,2012,2D,,,,,,
 Slovenia,2012,2D1,,,,,,
@@ -7091,7 +7091,7 @@ Slovenia,2012,2G2,,,,,,
 Slovenia,2012,2G3,,,,,,
 Slovenia,2012,2G4,,,,,,
 Slovenia,2012,2H,,,,,,
-Slovenia,2012,2H1,,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,2H2,,,,,,
 Slovenia,2012,2H3,,,,,,
 Slovenia,2012,3,,,,,,
@@ -7228,9 +7228,9 @@ Slovenia,2013,1A3A,Oil,,,,,
 Slovenia,2013,1A3A1,Coal/peat,,,,,
 Slovenia,2013,1A3A1,Natural gas,,,,,
 Slovenia,2013,1A3A1,Oil,,,,,
-Slovenia,2013,1A3A2,Coal/peat,,,,,
-Slovenia,2013,1A3A2,Natural gas,,,,,
-Slovenia,2013,1A3A2,Oil,,,,,
+Slovenia,2013,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2013,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2013,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2013,1A3B,Coal/peat,,,,,
 Slovenia,2013,1A3B,Natural gas,,,,,
 Slovenia,2013,1A3B,Oil,,,,,
@@ -7389,7 +7389,7 @@ Slovenia,2013,2G2,,,,,,
 Slovenia,2013,2G3,,,,,,
 Slovenia,2013,2G4,,,,,,
 Slovenia,2013,2H,,,,,,
-Slovenia,2013,2H1,,,,,,
+Slovenia,2013,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2013,2H2,,,,,,
 Slovenia,2013,2H3,,,,,,
 Slovenia,2013,3,,,,,,
@@ -7526,9 +7526,9 @@ Slovenia,2014,1A3A,Oil,,,,,
 Slovenia,2014,1A3A1,Coal/peat,,,,,
 Slovenia,2014,1A3A1,Natural gas,,,,,
 Slovenia,2014,1A3A1,Oil,,,,,
-Slovenia,2014,1A3A2,Coal/peat,,,,,
-Slovenia,2014,1A3A2,Natural gas,,,,,
-Slovenia,2014,1A3A2,Oil,,,,,
+Slovenia,2014,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2014,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2014,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2014,1A3B,Coal/peat,,,,,
 Slovenia,2014,1A3B,Natural gas,,,,,
 Slovenia,2014,1A3B,Oil,,,,,
@@ -7687,7 +7687,7 @@ Slovenia,2014,2G2,,,,,,
 Slovenia,2014,2G3,,,,,,
 Slovenia,2014,2G4,,,,,,
 Slovenia,2014,2H,,,,,,
-Slovenia,2014,2H1,,,,,,
+Slovenia,2014,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2014,2H2,,,,,,
 Slovenia,2014,2H3,,,,,,
 Slovenia,2014,3,,,,,,
@@ -7824,9 +7824,9 @@ Slovenia,2015,1A3A,Oil,,,,,
 Slovenia,2015,1A3A1,Coal/peat,,,,,
 Slovenia,2015,1A3A1,Natural gas,,,,,
 Slovenia,2015,1A3A1,Oil,,,,,
-Slovenia,2015,1A3A2,Coal/peat,,,,,
-Slovenia,2015,1A3A2,Natural gas,,,,,
-Slovenia,2015,1A3A2,Oil,,,,,
+Slovenia,2015,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2015,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2015,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2015,1A3B,Coal/peat,,,,,
 Slovenia,2015,1A3B,Natural gas,,,,,
 Slovenia,2015,1A3B,Oil,,,,,
@@ -7985,7 +7985,7 @@ Slovenia,2015,2G2,,,,,,
 Slovenia,2015,2G3,,,,,,
 Slovenia,2015,2G4,,,,,,
 Slovenia,2015,2H,,,,,,
-Slovenia,2015,2H1,,,,,,
+Slovenia,2015,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2015,2H2,,,,,,
 Slovenia,2015,2H3,,,,,,
 Slovenia,2015,3,,,,,,
@@ -8122,9 +8122,9 @@ Slovenia,2016,1A3A,Oil,,,,,
 Slovenia,2016,1A3A1,Coal/peat,,,,,
 Slovenia,2016,1A3A1,Natural gas,,,,,
 Slovenia,2016,1A3A1,Oil,,,,,
-Slovenia,2016,1A3A2,Coal/peat,,,,,
-Slovenia,2016,1A3A2,Natural gas,,,,,
-Slovenia,2016,1A3A2,Oil,,,,,
+Slovenia,2016,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2016,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2016,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2016,1A3B,Coal/peat,,,,,
 Slovenia,2016,1A3B,Natural gas,,,,,
 Slovenia,2016,1A3B,Oil,,,,,
@@ -8283,7 +8283,7 @@ Slovenia,2016,2G2,,,,,,
 Slovenia,2016,2G3,,,,,,
 Slovenia,2016,2G4,,,,,,
 Slovenia,2016,2H,,,,,,
-Slovenia,2016,2H1,,,,,,
+Slovenia,2016,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2016,2H2,,,,,,
 Slovenia,2016,2H3,,,,,,
 Slovenia,2016,3,,,,,,
@@ -8420,9 +8420,9 @@ Slovenia,2017,1A3A,Oil,,,,,
 Slovenia,2017,1A3A1,Coal/peat,,,,,
 Slovenia,2017,1A3A1,Natural gas,,,,,
 Slovenia,2017,1A3A1,Oil,,,,,
-Slovenia,2017,1A3A2,Coal/peat,,,,,
-Slovenia,2017,1A3A2,Natural gas,,,,,
-Slovenia,2017,1A3A2,Oil,,,,,
+Slovenia,2017,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2017,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2017,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2017,1A3B,Coal/peat,,,,,
 Slovenia,2017,1A3B,Natural gas,,,,,
 Slovenia,2017,1A3B,Oil,,,,,
@@ -8581,7 +8581,7 @@ Slovenia,2017,2G2,,,,,,
 Slovenia,2017,2G3,,,,,,
 Slovenia,2017,2G4,,,,,,
 Slovenia,2017,2H,,,,,,
-Slovenia,2017,2H1,,,,,,
+Slovenia,2017,2H1,,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2017,2H2,,,,,,
 Slovenia,2017,2H3,,,,,,
 Slovenia,2017,3,,,,,,
@@ -8718,9 +8718,9 @@ Slovenia,2018,1A3A,Oil,,,,,
 Slovenia,2018,1A3A1,Coal/peat,,,,,
 Slovenia,2018,1A3A1,Natural gas,,,,,
 Slovenia,2018,1A3A1,Oil,,,,,
-Slovenia,2018,1A3A2,Coal/peat,,,,,
-Slovenia,2018,1A3A2,Natural gas,,,,,
-Slovenia,2018,1A3A2,Oil,,,,,
+Slovenia,2018,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2018,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2018,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2018,1A3B,Coal/peat,,,,,
 Slovenia,2018,1A3B,Natural gas,,,,,
 Slovenia,2018,1A3B,Oil,,,,,
@@ -8879,7 +8879,7 @@ Slovenia,2018,2G2,,,,,,
 Slovenia,2018,2G3,,,,,,
 Slovenia,2018,2G4,,,,,,
 Slovenia,2018,2H,,,,,,
-Slovenia,2018,2H1,,,,,,
+Slovenia,2018,2H1,,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2018,2H2,,,,,,
 Slovenia,2018,2H3,,,,,,
 Slovenia,2018,3,,,,,,
@@ -9016,9 +9016,9 @@ Slovenia,2019,1A3A,Oil,,,,,
 Slovenia,2019,1A3A1,Coal/peat,,,,,
 Slovenia,2019,1A3A1,Natural gas,,,,,
 Slovenia,2019,1A3A1,Oil,,,,,
-Slovenia,2019,1A3A2,Coal/peat,,,,,
-Slovenia,2019,1A3A2,Natural gas,,,,,
-Slovenia,2019,1A3A2,Oil,,,,,
+Slovenia,2019,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2019,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2019,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2019,1A3B,Coal/peat,,,,,
 Slovenia,2019,1A3B,Natural gas,,,,,
 Slovenia,2019,1A3B,Oil,,,,,
@@ -9177,7 +9177,7 @@ Slovenia,2019,2G2,,,,,,
 Slovenia,2019,2G3,,,,,,
 Slovenia,2019,2G4,,,,,,
 Slovenia,2019,2H,,,,,,
-Slovenia,2019,2H1,,,,,,
+Slovenia,2019,2H1,,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2019,2H2,,,,,,
 Slovenia,2019,2H3,,,,,,
 Slovenia,2019,3,,,,,,
@@ -9314,9 +9314,9 @@ Slovenia,2020,1A3A,Oil,,,,,
 Slovenia,2020,1A3A1,Coal/peat,,,,,
 Slovenia,2020,1A3A1,Natural gas,,,,,
 Slovenia,2020,1A3A1,Oil,,,,,
-Slovenia,2020,1A3A2,Coal/peat,,,,,
-Slovenia,2020,1A3A2,Natural gas,,,,,
-Slovenia,2020,1A3A2,Oil,,,,,
+Slovenia,2020,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2020,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2020,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2020,1A3B,Coal/peat,,,,,
 Slovenia,2020,1A3B,Natural gas,,,,,
 Slovenia,2020,1A3B,Oil,,,,,
@@ -9475,7 +9475,7 @@ Slovenia,2020,2G2,,,,,,
 Slovenia,2020,2G3,,,,,,
 Slovenia,2020,2G4,,,,,,
 Slovenia,2020,2H,,,,,,
-Slovenia,2020,2H1,,,,,,
+Slovenia,2020,2H1,,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2020,2H2,,,,,,
 Slovenia,2020,2H3,,,,,,
 Slovenia,2020,3,,,,,,
@@ -9612,9 +9612,9 @@ Slovenia,2021,1A3A,Oil,,,,,
 Slovenia,2021,1A3A1,Coal/peat,,,,,
 Slovenia,2021,1A3A1,Natural gas,,,,,
 Slovenia,2021,1A3A1,Oil,,,,,
-Slovenia,2021,1A3A2,Coal/peat,,,,,
-Slovenia,2021,1A3A2,Natural gas,,,,,
-Slovenia,2021,1A3A2,Oil,,,,,
+Slovenia,2021,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,
+Slovenia,2021,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,
+Slovenia,2021,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,
 Slovenia,2021,1A3B,Coal/peat,,,,,
 Slovenia,2021,1A3B,Natural gas,,,,,
 Slovenia,2021,1A3B,Oil,,,,,
@@ -9773,7 +9773,7 @@ Slovenia,2021,2G2,,,,,,
 Slovenia,2021,2G3,,,,,,
 Slovenia,2021,2G4,,,,,,
 Slovenia,2021,2H,,,,,,
-Slovenia,2021,2H1,,,,,,
+Slovenia,2021,2H1,,,"leg(EC[2018], EC[2020])",,,
 Slovenia,2021,2H2,,,,,,
 Slovenia,2021,2H3,,,,,,
 Slovenia,2021,3,,,,,,

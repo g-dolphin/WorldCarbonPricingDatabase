@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax_dummy,ets_dummy,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Rhode Island,1989,0,,,,,,
 Rhode Island,1989,1,,,,,,
 Rhode Island,1989,1A,Coal/peat,,,,,
@@ -5967,18 +5967,18 @@ Rhode Island,2009,1A,Oil,,,,,
 Rhode Island,2009,1A1,Coal/peat,,,,,
 Rhode Island,2009,1A1,Natural gas,,,,,
 Rhode Island,2009,1A1,Oil,,,,,
-Rhode Island,2009,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2009,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2009,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2009,1A1A1,Coal/peat,,,,,
-Rhode Island,2009,1A1A1,Natural gas,,,,,
-Rhode Island,2009,1A1A1,Oil,,,,,
-Rhode Island,2009,1A1A2,Coal/peat,,,,,
-Rhode Island,2009,1A1A2,Natural gas,,,,,
-Rhode Island,2009,1A1A2,Oil,,,,,
-Rhode Island,2009,1A1A3,Coal/peat,,,,,
-Rhode Island,2009,1A1A3,Natural gas,,,,,
-Rhode Island,2009,1A1A3,Oil,,,,,
+Rhode Island,2009,1A1A,Coal/peat,,,,,
+Rhode Island,2009,1A1A,Natural gas,,,,,
+Rhode Island,2009,1A1A,Oil,,,,,
+Rhode Island,2009,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2009,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2009,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2009,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2009,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2009,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2009,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2009,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2009,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2009,1A1B,Coal/peat,,,,,
 Rhode Island,2009,1A1B,Natural gas,,,,,
 Rhode Island,2009,1A1B,Oil,,,,,
@@ -6265,18 +6265,18 @@ Rhode Island,2010,1A,Oil,,,,,
 Rhode Island,2010,1A1,Coal/peat,,,,,
 Rhode Island,2010,1A1,Natural gas,,,,,
 Rhode Island,2010,1A1,Oil,,,,,
-Rhode Island,2010,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2010,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2010,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2010,1A1A1,Coal/peat,,,,,
-Rhode Island,2010,1A1A1,Natural gas,,,,,
-Rhode Island,2010,1A1A1,Oil,,,,,
-Rhode Island,2010,1A1A2,Coal/peat,,,,,
-Rhode Island,2010,1A1A2,Natural gas,,,,,
-Rhode Island,2010,1A1A2,Oil,,,,,
-Rhode Island,2010,1A1A3,Coal/peat,,,,,
-Rhode Island,2010,1A1A3,Natural gas,,,,,
-Rhode Island,2010,1A1A3,Oil,,,,,
+Rhode Island,2010,1A1A,Coal/peat,,,,,
+Rhode Island,2010,1A1A,Natural gas,,,,,
+Rhode Island,2010,1A1A,Oil,,,,,
+Rhode Island,2010,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2010,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2010,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2010,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2010,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2010,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2010,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2010,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2010,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2010,1A1B,Coal/peat,,,,,
 Rhode Island,2010,1A1B,Natural gas,,,,,
 Rhode Island,2010,1A1B,Oil,,,,,
@@ -6563,18 +6563,18 @@ Rhode Island,2011,1A,Oil,,,,,
 Rhode Island,2011,1A1,Coal/peat,,,,,
 Rhode Island,2011,1A1,Natural gas,,,,,
 Rhode Island,2011,1A1,Oil,,,,,
-Rhode Island,2011,1A1A,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2011,1A1A,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2011,1A1A,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2011,1A1A1,Coal/peat,,,,,
-Rhode Island,2011,1A1A1,Natural gas,,,,,
-Rhode Island,2011,1A1A1,Oil,,,,,
-Rhode Island,2011,1A1A2,Coal/peat,,,,,
-Rhode Island,2011,1A1A2,Natural gas,,,,,
-Rhode Island,2011,1A1A2,Oil,,,,,
-Rhode Island,2011,1A1A3,Coal/peat,,,,,
-Rhode Island,2011,1A1A3,Natural gas,,,,,
-Rhode Island,2011,1A1A3,Oil,,,,,
+Rhode Island,2011,1A1A,Coal/peat,,,,,
+Rhode Island,2011,1A1A,Natural gas,,,,,
+Rhode Island,2011,1A1A,Oil,,,,,
+Rhode Island,2011,1A1A1,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2011,1A1A1,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2011,1A1A1,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2011,1A1A2,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2011,1A1A2,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2011,1A1A2,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2011,1A1A3,Coal/peat,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2011,1A1A3,Natural gas,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2011,1A1A3,Oil,,gvt(RGGI-MOU[2005]),,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2011,1A1B,Coal/peat,,,,,
 Rhode Island,2011,1A1B,Natural gas,,,,,
 Rhode Island,2011,1A1B,Oil,,,,,
@@ -6861,18 +6861,18 @@ Rhode Island,2012,1A,Oil,,,,,
 Rhode Island,2012,1A1,Coal/peat,,,,,
 Rhode Island,2012,1A1,Natural gas,,,,,
 Rhode Island,2012,1A1,Oil,,,,,
-Rhode Island,2012,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2012,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2012,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2012,1A1A1,Coal/peat,,,,,
-Rhode Island,2012,1A1A1,Natural gas,,,,,
-Rhode Island,2012,1A1A1,Oil,,,,,
-Rhode Island,2012,1A1A2,Coal/peat,,,,,
-Rhode Island,2012,1A1A2,Natural gas,,,,,
-Rhode Island,2012,1A1A2,Oil,,,,,
-Rhode Island,2012,1A1A3,Coal/peat,,,,,
-Rhode Island,2012,1A1A3,Natural gas,,,,,
-Rhode Island,2012,1A1A3,Oil,,,,,
+Rhode Island,2012,1A1A,Coal/peat,,,,,
+Rhode Island,2012,1A1A,Natural gas,,,,,
+Rhode Island,2012,1A1A,Oil,,,,,
+Rhode Island,2012,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2012,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2012,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2012,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2012,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2012,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2012,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2012,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2012,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2012,1A1B,Coal/peat,,,,,
 Rhode Island,2012,1A1B,Natural gas,,,,,
 Rhode Island,2012,1A1B,Oil,,,,,
@@ -7159,18 +7159,18 @@ Rhode Island,2013,1A,Oil,,,,,
 Rhode Island,2013,1A1,Coal/peat,,,,,
 Rhode Island,2013,1A1,Natural gas,,,,,
 Rhode Island,2013,1A1,Oil,,,,,
-Rhode Island,2013,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2013,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2013,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2013,1A1A1,Coal/peat,,,,,
-Rhode Island,2013,1A1A1,Natural gas,,,,,
-Rhode Island,2013,1A1A1,Oil,,,,,
-Rhode Island,2013,1A1A2,Coal/peat,,,,,
-Rhode Island,2013,1A1A2,Natural gas,,,,,
-Rhode Island,2013,1A1A2,Oil,,,,,
-Rhode Island,2013,1A1A3,Coal/peat,,,,,
-Rhode Island,2013,1A1A3,Natural gas,,,,,
-Rhode Island,2013,1A1A3,Oil,,,,,
+Rhode Island,2013,1A1A,Coal/peat,,,,,
+Rhode Island,2013,1A1A,Natural gas,,,,,
+Rhode Island,2013,1A1A,Oil,,,,,
+Rhode Island,2013,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2013,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2013,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2013,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2013,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2013,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2013,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2013,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2013,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2013,1A1B,Coal/peat,,,,,
 Rhode Island,2013,1A1B,Natural gas,,,,,
 Rhode Island,2013,1A1B,Oil,,,,,
@@ -7457,18 +7457,18 @@ Rhode Island,2014,1A,Oil,,,,,
 Rhode Island,2014,1A1,Coal/peat,,,,,
 Rhode Island,2014,1A1,Natural gas,,,,,
 Rhode Island,2014,1A1,Oil,,,,,
-Rhode Island,2014,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2014,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2014,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2014,1A1A1,Coal/peat,,,,,
-Rhode Island,2014,1A1A1,Natural gas,,,,,
-Rhode Island,2014,1A1A1,Oil,,,,,
-Rhode Island,2014,1A1A2,Coal/peat,,,,,
-Rhode Island,2014,1A1A2,Natural gas,,,,,
-Rhode Island,2014,1A1A2,Oil,,,,,
-Rhode Island,2014,1A1A3,Coal/peat,,,,,
-Rhode Island,2014,1A1A3,Natural gas,,,,,
-Rhode Island,2014,1A1A3,Oil,,,,,
+Rhode Island,2014,1A1A,Coal/peat,,,,,
+Rhode Island,2014,1A1A,Natural gas,,,,,
+Rhode Island,2014,1A1A,Oil,,,,,
+Rhode Island,2014,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2014,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2014,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2014,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2014,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2014,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2014,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2014,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2014,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2014,1A1B,Coal/peat,,,,,
 Rhode Island,2014,1A1B,Natural gas,,,,,
 Rhode Island,2014,1A1B,Oil,,,,,
@@ -7755,18 +7755,18 @@ Rhode Island,2015,1A,Oil,,,,,
 Rhode Island,2015,1A1,Coal/peat,,,,,
 Rhode Island,2015,1A1,Natural gas,,,,,
 Rhode Island,2015,1A1,Oil,,,,,
-Rhode Island,2015,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2015,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2015,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2015,1A1A1,Coal/peat,,,,,
-Rhode Island,2015,1A1A1,Natural gas,,,,,
-Rhode Island,2015,1A1A1,Oil,,,,,
-Rhode Island,2015,1A1A2,Coal/peat,,,,,
-Rhode Island,2015,1A1A2,Natural gas,,,,,
-Rhode Island,2015,1A1A2,Oil,,,,,
-Rhode Island,2015,1A1A3,Coal/peat,,,,,
-Rhode Island,2015,1A1A3,Natural gas,,,,,
-Rhode Island,2015,1A1A3,Oil,,,,,
+Rhode Island,2015,1A1A,Coal/peat,,,,,
+Rhode Island,2015,1A1A,Natural gas,,,,,
+Rhode Island,2015,1A1A,Oil,,,,,
+Rhode Island,2015,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2015,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2015,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2015,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2015,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2015,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2015,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2015,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2015,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2015,1A1B,Coal/peat,,,,,
 Rhode Island,2015,1A1B,Natural gas,,,,,
 Rhode Island,2015,1A1B,Oil,,,,,
@@ -8053,18 +8053,18 @@ Rhode Island,2016,1A,Oil,,,,,
 Rhode Island,2016,1A1,Coal/peat,,,,,
 Rhode Island,2016,1A1,Natural gas,,,,,
 Rhode Island,2016,1A1,Oil,,,,,
-Rhode Island,2016,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2016,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2016,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2016,1A1A1,Coal/peat,,,,,
-Rhode Island,2016,1A1A1,Natural gas,,,,,
-Rhode Island,2016,1A1A1,Oil,,,,,
-Rhode Island,2016,1A1A2,Coal/peat,,,,,
-Rhode Island,2016,1A1A2,Natural gas,,,,,
-Rhode Island,2016,1A1A2,Oil,,,,,
-Rhode Island,2016,1A1A3,Coal/peat,,,,,
-Rhode Island,2016,1A1A3,Natural gas,,,,,
-Rhode Island,2016,1A1A3,Oil,,,,,
+Rhode Island,2016,1A1A,Coal/peat,,,,,
+Rhode Island,2016,1A1A,Natural gas,,,,,
+Rhode Island,2016,1A1A,Oil,,,,,
+Rhode Island,2016,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2016,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2016,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2016,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2016,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2016,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2016,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2016,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2016,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2016,1A1B,Coal/peat,,,,,
 Rhode Island,2016,1A1B,Natural gas,,,,,
 Rhode Island,2016,1A1B,Oil,,,,,
@@ -8351,18 +8351,18 @@ Rhode Island,2017,1A,Oil,,,,,
 Rhode Island,2017,1A1,Coal/peat,,,,,
 Rhode Island,2017,1A1,Natural gas,,,,,
 Rhode Island,2017,1A1,Oil,,,,,
-Rhode Island,2017,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2017,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2017,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2017,1A1A1,Coal/peat,,,,,
-Rhode Island,2017,1A1A1,Natural gas,,,,,
-Rhode Island,2017,1A1A1,Oil,,,,,
-Rhode Island,2017,1A1A2,Coal/peat,,,,,
-Rhode Island,2017,1A1A2,Natural gas,,,,,
-Rhode Island,2017,1A1A2,Oil,,,,,
-Rhode Island,2017,1A1A3,Coal/peat,,,,,
-Rhode Island,2017,1A1A3,Natural gas,,,,,
-Rhode Island,2017,1A1A3,Oil,,,,,
+Rhode Island,2017,1A1A,Coal/peat,,,,,
+Rhode Island,2017,1A1A,Natural gas,,,,,
+Rhode Island,2017,1A1A,Oil,,,,,
+Rhode Island,2017,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2017,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2017,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2017,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2017,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2017,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2017,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2017,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2017,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2017,1A1B,Coal/peat,,,,,
 Rhode Island,2017,1A1B,Natural gas,,,,,
 Rhode Island,2017,1A1B,Oil,,,,,
@@ -8649,18 +8649,18 @@ Rhode Island,2018,1A,Oil,,,,,
 Rhode Island,2018,1A1,Coal/peat,,,,,
 Rhode Island,2018,1A1,Natural gas,,,,,
 Rhode Island,2018,1A1,Oil,,,,,
-Rhode Island,2018,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2018,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2018,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2018,1A1A1,Coal/peat,,,,,
-Rhode Island,2018,1A1A1,Natural gas,,,,,
-Rhode Island,2018,1A1A1,Oil,,,,,
-Rhode Island,2018,1A1A2,Coal/peat,,,,,
-Rhode Island,2018,1A1A2,Natural gas,,,,,
-Rhode Island,2018,1A1A2,Oil,,,,,
-Rhode Island,2018,1A1A3,Coal/peat,,,,,
-Rhode Island,2018,1A1A3,Natural gas,,,,,
-Rhode Island,2018,1A1A3,Oil,,,,,
+Rhode Island,2018,1A1A,Coal/peat,,,,,
+Rhode Island,2018,1A1A,Natural gas,,,,,
+Rhode Island,2018,1A1A,Oil,,,,,
+Rhode Island,2018,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2018,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2018,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2018,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2018,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2018,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2018,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2018,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2018,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2018,1A1B,Coal/peat,,,,,
 Rhode Island,2018,1A1B,Natural gas,,,,,
 Rhode Island,2018,1A1B,Oil,,,,,
@@ -8947,18 +8947,18 @@ Rhode Island,2019,1A,Oil,,,,,
 Rhode Island,2019,1A1,Coal/peat,,,,,
 Rhode Island,2019,1A1,Natural gas,,,,,
 Rhode Island,2019,1A1,Oil,,,,,
-Rhode Island,2019,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2019,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2019,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2019,1A1A1,Coal/peat,,,,,
-Rhode Island,2019,1A1A1,Natural gas,,,,,
-Rhode Island,2019,1A1A1,Oil,,,,,
-Rhode Island,2019,1A1A2,Coal/peat,,,,,
-Rhode Island,2019,1A1A2,Natural gas,,,,,
-Rhode Island,2019,1A1A2,Oil,,,,,
-Rhode Island,2019,1A1A3,Coal/peat,,,,,
-Rhode Island,2019,1A1A3,Natural gas,,,,,
-Rhode Island,2019,1A1A3,Oil,,,,,
+Rhode Island,2019,1A1A,Coal/peat,,,,,
+Rhode Island,2019,1A1A,Natural gas,,,,,
+Rhode Island,2019,1A1A,Oil,,,,,
+Rhode Island,2019,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2019,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2019,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2019,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2019,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2019,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2019,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2019,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2019,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2019,1A1B,Coal/peat,,,,,
 Rhode Island,2019,1A1B,Natural gas,,,,,
 Rhode Island,2019,1A1B,Oil,,,,,
@@ -9245,18 +9245,18 @@ Rhode Island,2020,1A,Oil,,,,,
 Rhode Island,2020,1A1,Coal/peat,,,,,
 Rhode Island,2020,1A1,Natural gas,,,,,
 Rhode Island,2020,1A1,Oil,,,,,
-Rhode Island,2020,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2020,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2020,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
-Rhode Island,2020,1A1A1,Coal/peat,,,,,
-Rhode Island,2020,1A1A1,Natural gas,,,,,
-Rhode Island,2020,1A1A1,Oil,,,,,
-Rhode Island,2020,1A1A2,Coal/peat,,,,,
-Rhode Island,2020,1A1A2,Natural gas,,,,,
-Rhode Island,2020,1A1A2,Oil,,,,,
-Rhode Island,2020,1A1A3,Coal/peat,,,,,
-Rhode Island,2020,1A1A3,Natural gas,,,,,
-Rhode Island,2020,1A1A3,Oil,,,,,
+Rhode Island,2020,1A1A,Coal/peat,,,,,
+Rhode Island,2020,1A1A,Natural gas,,,,,
+Rhode Island,2020,1A1A,Oil,,,,,
+Rhode Island,2020,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2020,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2020,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2020,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2020,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2020,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2020,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2020,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Rhode Island,2020,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,db(RGGI[2021]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Rhode Island,2020,1A1B,Coal/peat,,,,,
 Rhode Island,2020,1A1B,Natural gas,,,,,
 Rhode Island,2020,1A1B,Oil,,,,,
@@ -9543,18 +9543,18 @@ Rhode Island,2021,1A,Oil,,,,,
 Rhode Island,2021,1A1,Coal/peat,,,,,
 Rhode Island,2021,1A1,Natural gas,,,,,
 Rhode Island,2021,1A1,Oil,,,,,
-Rhode Island,2021,1A1A,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-Rhode Island,2021,1A1A,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-Rhode Island,2021,1A1A,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
-Rhode Island,2021,1A1A1,Coal/peat,,,,,
-Rhode Island,2021,1A1A1,Natural gas,,,,,
-Rhode Island,2021,1A1A1,Oil,,,,,
-Rhode Island,2021,1A1A2,Coal/peat,,,,,
-Rhode Island,2021,1A1A2,Natural gas,,,,,
-Rhode Island,2021,1A1A2,Oil,,,,,
-Rhode Island,2021,1A1A3,Coal/peat,,,,,
-Rhode Island,2021,1A1A3,Natural gas,,,,,
-Rhode Island,2021,1A1A3,Oil,,,,,
+Rhode Island,2021,1A1A,Coal/peat,,,,,
+Rhode Island,2021,1A1A,Natural gas,,,,,
+Rhode Island,2021,1A1A,Oil,,,,,
+Rhode Island,2021,1A1A1,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Rhode Island,2021,1A1A1,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Rhode Island,2021,1A1A1,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Rhode Island,2021,1A1A2,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Rhode Island,2021,1A1A2,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Rhode Island,2021,1A1A2,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Rhode Island,2021,1A1A3,Coal/peat,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Rhode Island,2021,1A1A3,Natural gas,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
+Rhode Island,2021,1A1A3,Oil,,"gvt(RGGI-MOU[2005], NJ[2011])",,,
 Rhode Island,2021,1A1B,Coal/peat,,,,,
 Rhode Island,2021,1A1B,Natural gas,,,,,
 Rhode Island,2021,1A1B,Oil,,,,,
