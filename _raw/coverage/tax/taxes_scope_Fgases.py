@@ -122,6 +122,38 @@ def coverage():
 
     #----------------------------------------------------------------------------   
 
+    # Singapore
+    
+    ## Jurisdiction
+    
+    sgp_tax_jur_I = ["Singapore"]
+
+    ## Sectors
+    
+    sgp_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    sgp_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    sgp_tax_jur_coverage = {2019:sgp_tax_jur_I, 
+                            2020:sgp_tax_jur_I, 2021:sgp_tax_jur_I}
+    
+    sgp_tax_ipcc_coverage = {2019:sgp_tax_ipcc_I, 
+                             2020:sgp_tax_ipcc_I, 2021:sgp_tax_ipcc_I}     
+
+    sgp_tax_fuel_coverage = {2019:, 
+                             2020:, 2021:} 
+    
+    ## Sources dictionary
+    
+    sgp_tax_coverage_sources = {2019:"", 
+                                2020:"",
+                                2021:""}
+
+    #----------------------------------------------------------------------------   
+
     # Spain
     
     ## Jurisdiction
@@ -175,12 +207,16 @@ def coverage():
                       "isl_tax":{"jurisdictions":isl_tax_II_jur_coverage, 
                                   "sectors":isl_tax_II_ipcc_coverage,
                                   "fuels":isl_tax_II_fuel_coverage},
+                      "sgp_tax":{"jurisdictions":sgp_tax_jur_coverage, 
+                                  "sectors":sgp_tax_ipcc_coverage,
+                                  "fuels":sgp_tax_fuel_coverage},
                       "esp_tax":{"jurisdictions":esp_tax_jur_coverage, 
                                   "sectors":esp_tax_ipcc_coverage,
                                   "fuels":esp_tax_fuel_coverage}}
     
     taxes_coverage_sources = {"dnk_tax":dnk_coverage_sources,
                               "isl_tax_II":isl_tax_II_coverage_sources,
+                              "sgp_tax":sgp_tax_coverage_sources,
                               "esp_tax":esp_tax_coverage_sources}
     
     
