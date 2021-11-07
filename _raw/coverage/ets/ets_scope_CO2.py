@@ -87,11 +87,6 @@ def coverage():
                      "2B4", "2B5", "2B6", "2B7", "2B8F",
                      "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
     
-    ## Gases
-    
-    eu_ets_gas_I = ["CO2"]
-    eu_ets_gas_II = ["CO2", "PFCs", "N2O"]    
-    
     
     ## Coverage dictionaries
     
