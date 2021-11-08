@@ -1,22 +1,22 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
 lva_tax,2004,CO2,Coal/peat,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2005,CO2,Coal/peat,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
-lva_tax,2006,CO2,Coal/peat,0.1,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2007,CO2,Coal/peat,0.1,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2008,CO2,Coal/peat,0.2,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2009,CO2,Coal/peat,0.3,LVL,leg(LVA-NRTL[2009]),
-lva_tax,2010,CO2,Coal/peat,0.45,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2011,CO2,Coal/peat,0.775,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2012,CO2,Coal/peat,1.325,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2013,CO2,Coal/peat,2,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2014,CO2,Coal/peat,2,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2015,CO2,Coal/peat,2,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2016,CO2,Coal/peat,3.5,EUR,report(WB[2017]),
-lva_tax,2017,CO2,Coal/peat,4.5,EUR,report(WB[2017]),
-lva_tax,2018,CO2,Coal/peat,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",
-lva_tax,2019,CO2,Coal/peat,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",
-lva_tax,2020,CO2,Coal/peat,9,EUR,db(WBCPD[2020]),
-lva_tax,2021,CO2,Coal/peat,12,EUR,db(WBCPD[2020]),
+lva_tax,2006,CO2,Coal/peat,0.1,LVL,leg(LVA-NRTL[2006]),the tax rate had yet to become effective
+lva_tax,2007,CO2,Coal/peat,0.1,LVL,leg(LVA-NRTL[2006]),the carbon tax does not apply to peat
+lva_tax,2008,CO2,Coal/peat,0.2,LVL,leg(LVA-NRTL[2006]),the carbon tax does not apply to peat
+lva_tax,2009,CO2,Coal/peat,0.3,LVL,leg(LVA-NRTL[2009]),the carbon tax does not apply to peat
+lva_tax,2010,CO2,Coal/peat,0.45,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
+lva_tax,2011,CO2,Coal/peat,0.775,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
+lva_tax,2012,CO2,Coal/peat,1.325,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
+lva_tax,2013,CO2,Coal/peat,2,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
+lva_tax,2014,CO2,Coal/peat,2,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
+lva_tax,2015,CO2,Coal/peat,2,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
+lva_tax,2016,CO2,Coal/peat,3.5,EUR,report(WB[2017]),the carbon tax does not apply to peat
+lva_tax,2017,CO2,Coal/peat,4.5,EUR,report(WB[2017]),the carbon tax does not apply to peat
+lva_tax,2018,CO2,Coal/peat,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",the carbon tax does not apply to peat
+lva_tax,2019,CO2,Coal/peat,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",the carbon tax does not apply to peat
+lva_tax,2020,CO2,Coal/peat,9,EUR,db(WBCPD[2020]),the carbon tax does not apply to peat
+lva_tax,2021,CO2,Coal/peat,12,EUR,db(WBCPD[2020]),the carbon tax does not apply to peat
 lva_tax,2004,CO2,Oil,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2005,CO2,Oil,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2006,CO2,Oil,0.1,LVL,leg(LVA-NRTL[2006]),
