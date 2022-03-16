@@ -13,15 +13,14 @@ import numpy as np
 
 from importlib.machinery import SourceFileLoader
 
-etsPricesModule = SourceFileLoader('ets_prices', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/ets_prices.py').load_module()
-taxRatesModule = SourceFileLoader('tax_rates', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/tax_rates.py').load_module()
-etsCoverageModule = SourceFileLoader('ets_coverage', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverage/ets_coverage.py').load_module()
-taxCoverageModule = SourceFileLoader('taxes_coverage', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverage/taxes_coverage.py').load_module()
-
-
 # Specify greenhouse gas for which the dataset is built
 gas = "CO2" # or CH4 / HFCs / PFCs / SF6
 
+# Load modules
+etsPricesModule = SourceFileLoader('ets_prices', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/ets_prices.py').load_module()
+taxRatesModule = SourceFileLoader('tax_rates', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/tax_rates.py').load_module()
+etsCoverageModule = SourceFileLoader('ets_coverage', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverage/ets/ets_scope_'+gas+'.py').load_module()
+taxCoverageModule = SourceFileLoader('taxes_coverage', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverage/tax/taxes_scope_'+gas+'.py').load_module()
 
 # 1. Load original dataset
 
