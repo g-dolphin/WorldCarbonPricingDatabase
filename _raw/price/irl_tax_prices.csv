@@ -1,16 +1,16 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-irl_tax,2010,CO2,Coal/peat,NA,EUR,"report(IEA-EPT[2020]), leg(IRL-FA[2010])",
-irl_tax,2011,CO2,Coal/peat,NA,EUR,report(IEA-EPT[2020]),
-irl_tax,2012,CO2,Coal/peat,NA,EUR,report(IEA-EPT[2020]),
-irl_tax,2013,CO2,Coal/peat,10,EUR,report(IEA-EPT[2020]),The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.
-irl_tax,2014,CO2,Coal/peat,16.66,EUR,report(IEA-EPT[2020]),The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.
-irl_tax,2015,CO2,Coal/peat,20,EUR,report(IEA-EPT[2020]),
-irl_tax,2016,CO2,Coal/peat,20,EUR,report(IEA-EPT[2020]),
-irl_tax,2017,CO2,Coal/peat,20,EUR,report(IEA-EPT[2020]),
-irl_tax,2018,CO2,Coal/peat,20,EUR,report(IEA-EPT[2020]),
-irl_tax,2019,CO2,Coal/peat,20,EUR,report(IEA-EPT[2020]),
-irl_tax,2020,CO2,Coal/peat,24,EUR,report(IEA-EPT[2020]),The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.
-irl_tax,2021,CO2,Coal/peat,26,EUR,report(IEA-EPT[2020]),
+irl_tax,2010,CO2,Coal,NA,EUR,"report(IEA-EPT[2020]), leg(IRL-FA[2010])",
+irl_tax,2011,CO2,Coal,NA,EUR,report(IEA-EPT[2020]),
+irl_tax,2012,CO2,Coal,NA,EUR,report(IEA-EPT[2020]),
+irl_tax,2013,CO2,Coal,10,EUR,report(IEA-EPT[2020]),The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.
+irl_tax,2014,CO2,Coal,16.66,EUR,report(IEA-EPT[2020]),The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.
+irl_tax,2015,CO2,Coal,20,EUR,report(IEA-EPT[2020]),
+irl_tax,2016,CO2,Coal,20,EUR,report(IEA-EPT[2020]),
+irl_tax,2017,CO2,Coal,20,EUR,report(IEA-EPT[2020]),
+irl_tax,2018,CO2,Coal,20,EUR,report(IEA-EPT[2020]),
+irl_tax,2019,CO2,Coal,20,EUR,report(IEA-EPT[2020]),
+irl_tax,2020,CO2,Coal,24,EUR,report(IEA-EPT[2020]),The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.
+irl_tax,2021,CO2,Coal,26,EUR,report(IEA-EPT[2020]),
 irl_tax,2010,CO2,Natural gas,15,EUR,"report(IEA-EPT[2020]), leg(IRL-FA[2010])",
 irl_tax,2011,CO2,Natural gas,15,EUR,report(IEA-EPT[2020]),
 irl_tax,2012,CO2,Natural gas,20,EUR,report(IEA-EPT[2020]),

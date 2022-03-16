@@ -1,7 +1,7 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-can_nl_tax,2019,CO2,Coal/peat,20,CAD,leg(NL[2018]),
-can_nl_tax,2020,CO2,Coal/peat,30,CAD,leg(NL[2018]),
-can_nl_tax,2021,CO2,Coal/peat,40,CAD,leg(NL[2018]),
+can_nl_tax,2019,CO2,Coal,20,CAD,leg(NL[2018]),
+can_nl_tax,2020,CO2,Coal,30,CAD,leg(NL[2018]),
+can_nl_tax,2021,CO2,Coal,40,CAD,leg(NL[2018]),
 can_nl_tax,2019,CO2,Oil,20,CAD,leg(NL[2018]),
 can_nl_tax,2020,CO2,Oil,30,CAD,leg(NL[2018]),
 can_nl_tax,2021,CO2,Oil,40,CAD,leg(NL[2018]),

@@ -25,14 +25,44 @@ Created on Tue Jul 20 11:55:02 2021
 # For carbon taxes, it is more tricky - and one has to take greater care - 
 # because a given fuel may be subject to the tax in one sector but not another. 
 
-def coverage():
+def scope():
+    
+    # EU ETS
+    
+    ## Jurisdictions
+    
+    # initial country coverage (2005)
+    eu_ets_ctry_I = []
+    
+    
+    ## Sectors
+    
+    # initial sectoral coverage 
+    eu_ets_ipcc_I = []
+    
+    
+    ## Coverage dictionaries
+    
+    eu_ets_jur_coverage = {}
+    
+    eu_ets_ipcc_coverage = {}
+    
+    
+    ## Sources dictionary
+    
+    eu_ets_coverage_sources = {}
+    
+    
+    #-------------------------------------------------------------------------
+    
     
     # California CaT
     
     ## Jurisdictions
     
-    # initial coverage
-    us_ca_cat_ctry_I = ["California"]
+    # initial country coverage (2005)
+    us_ca_cat_ctry_I = []
+    
     
     ## Sectors
     
@@ -84,7 +114,7 @@ def coverage():
                                    2019:,
                                    2020:, 2021:}
     
-
+    
     #----------------------------------------------------------------------------
     
     # Korea, Rep.
@@ -198,7 +228,7 @@ def coverage():
     ## Sources dictionary
     
     can_ns_ets_coverage_sources = {2019:, 2020:,
-                                   2021:}     
+                                   2021:}  
     
     #----------------------------------------------------------------------------
     
@@ -244,14 +274,16 @@ def coverage():
                                2019:,
                                2020:, 
                                2021:}
-    
+
     #------------------------------All schemes dictionaries--------------------------------#
     
-    ets_coverage = {"us_ca_cat":{"jurisdictions":us_ca_cat_jur_coverage, 
+    ets_coverage = {"eu_ets":{"jurisdictions":eu_ets_jur_coverage, 
+                                  "sectors":eu_ets_ipcc_coverage},
+                    "us_ca_cat":{"jurisdictions":us_ca_cat_jur_coverage, 
                                   "sectors":us_ca_cat_ipcc_coverage},
                     "kor_ets":{"jurisdictions":kor_ets_jur_coverage, 
                                   "sectors":kor_ets_ipcc_coverage},
-                    "nzl_ets":{"jurisdictions":nzl_ets_jur_coverage, 
+                    "nzl_ets":{"jurisdictions":us_ca_cat_jur_coverage, 
                                   "sectors":nzl_ets_ipcc_coverage},
                     "che_ets":{"jurisdictions":che_ets_jur_coverage, 
                                   "sectors":che_ets_ipcc_coverage},
@@ -260,11 +292,12 @@ def coverage():
                     "chn_cq_ets":{"jurisdictions":chn_cq_ets_jur_coverage, 
                                   "sectors":chn_cq_ets_ipcc_coverage}}
 
-    ets_coverage_sources = {"us_ca_cat":us_ca_cat_coverage_sources,
+    ets_coverage_sources = {"eu_ets":eu_ets_coverage_sources,
+                            "us_ca_cat":us_ca_cat_coverage_sources,
                             "kor_ets":kor_ets_coverage_sources,
                             "nzl_ets":nzl_ets_coverage_sources,
                             "che_ets":che_ets_coverage_sources,
-                            "can_ns_ets":can_ns_ets_coverage_sources}
+                            "can_ns_ets":che_ets_coverage_sources}
     
     data_and_sources = {"data":ets_coverage, "sources":ets_coverage_sources}
     
