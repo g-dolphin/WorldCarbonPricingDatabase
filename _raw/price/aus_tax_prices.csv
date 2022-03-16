@@ -1,7 +1,7 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-aus_tax,2012,CO2,Coal/peat,23,AUD,web(AU-CER[2015]),
-aus_tax,2013,CO2,Coal/peat,23,AUD,web(AU-CER[2015]),
-aus_tax,2014,CO2,Coal/peat,24.15,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
+aus_tax,2012,CO2,Coal,23,AUD,web(AU-CER[2015]),
+aus_tax,2013,CO2,Coal,23,AUD,web(AU-CER[2015]),
+aus_tax,2014,CO2,Coal,24.15,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
 aus_tax,2012,CO2,Oil,23,AUD,web(AU-CER[2015]),
 aus_tax,2013,CO2,Oil,23,AUD,web(AU-CER[2015]),
 aus_tax,2014,CO2,Oil,24.15,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."

@@ -1,15 +1,15 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-ukr_tax,2011,CO2,Coal/peat,0.2,UAH,journal(Frey[2015]),
-ukr_tax,2012,CO2,Coal/peat,0.22,UAH,journal(Frey[2015]),
-ukr_tax,2013,CO2,Coal/peat,0.24,UAH,journal(Frey[2015]),
-ukr_tax,2014,CO2,Coal/peat,0.26,UAH,journal(Frey[2015]),
-ukr_tax,2015,CO2,Coal/peat,NA,NA,NA,scheme suspended
-ukr_tax,2016,CO2,Coal/peat,NA,NA,NA,scheme suspended
-ukr_tax,2017,CO2,Coal/peat,0.37,UAH,journal(Romanko[2018]),
-ukr_tax,2018,CO2,Coal/peat,0.41,UAH,journal(Romanko[2018]),
-ukr_tax,2019,CO2,Coal/peat,10,UAH,"journal(Romanko[2018]), db(WBCPD[2020])",
-ukr_tax,2020,CO2,Coal/peat,10,UAH,"web(CS[2020]), db(WBCPD[2020])",
-ukr_tax,2021,CO2,Coal/peat,10,UAH,web(PMR[2021]),
+ukr_tax,2011,CO2,Coal,0.2,UAH,journal(Frey[2015]),
+ukr_tax,2012,CO2,Coal,0.22,UAH,journal(Frey[2015]),
+ukr_tax,2013,CO2,Coal,0.24,UAH,journal(Frey[2015]),
+ukr_tax,2014,CO2,Coal,0.26,UAH,journal(Frey[2015]),
+ukr_tax,2015,CO2,Coal,NA,NA,NA,scheme suspended
+ukr_tax,2016,CO2,Coal,NA,NA,NA,scheme suspended
+ukr_tax,2017,CO2,Coal,0.37,UAH,journal(Romanko[2018]),
+ukr_tax,2018,CO2,Coal,0.41,UAH,journal(Romanko[2018]),
+ukr_tax,2019,CO2,Coal,10,UAH,"journal(Romanko[2018]), db(WBCPD[2020])",
+ukr_tax,2020,CO2,Coal,10,UAH,"web(CS[2020]), db(WBCPD[2020])",
+ukr_tax,2021,CO2,Coal,10,UAH,web(PMR[2021]),
 ukr_tax,2011,CO2,Oil,0.2,UAH,journal(Frey[2015]),
 ukr_tax,2012,CO2,Oil,0.22,UAH,journal(Frey[2015]),
 ukr_tax,2013,CO2,Oil,0.24,UAH,journal(Frey[2015]),

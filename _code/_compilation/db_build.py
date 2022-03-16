@@ -19,8 +19,8 @@ gas = "CO2" # or CH4 / HFCs / PFCs / SF6
 # Load modules
 etsPricesModule = SourceFileLoader('ets_prices', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/ets_prices.py').load_module()
 taxRatesModule = SourceFileLoader('tax_rates', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/tax_rates.py').load_module()
-etsCoverageModule = SourceFileLoader('ets_coverage', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverage/ets/ets_scope_'+gas+'.py').load_module()
-taxCoverageModule = SourceFileLoader('taxes_coverage', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverage/tax/taxes_scope_'+gas+'.py').load_module()
+etsScopeModule = SourceFileLoader('ets_scope', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/scope/ets/ets_scope_'+gas+'.py').load_module()
+taxScopeModule = SourceFileLoader('taxes_scope', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/scope/tax/taxes_scope_'+gas+'.py').load_module()
 
 # 1. Load original dataset
 
@@ -69,10 +69,10 @@ all_jur_list = ctry_list + subnat_list
 
 #----------------------------DB structure------------------------#
 
-all_jur = all_jur[["Jurisdiction", "Year", "IPCC_cat_code", "Product"]]
-all_jur_sources = all_jur_sources[["Jurisdiction", "Year", "IPCC_cat_code", "Product"]]
+all_jur = all_jur[["jurisdiction", "year", "ipcc_code", "product"]]
+all_jur_sources = all_jur_sources[["jurisdiction", "year", "ipcc_code", "product"]]
 
-all_jur_sources["Year"] = all_jur_sources["Year"].astype(int)
+all_jur_sources["year"] = all_jur_sources["year"].astype(int)
 
 #------------------------Primary:Emissions trading systems---------------------------#
 
@@ -84,38 +84,38 @@ ets_1_list = ["eu_ets", "nzl_ets", "che_ets", "kor_ets", "kaz_ets",
               'chn_hb_ets', 'chn_cq_ets', 'chn_fj_ets']
 
 ets_prices = etsPricesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price")
-ets_coverage = etsCoverageModule.coverage()["data"]
-ets_coverage_sources = etsCoverageModule.coverage()["sources"]
+ets_scope = etsScopeModule.scope()["data"]
+ets_scope_sources = etsScopeModule.scope()["sources"]
 
 def ets_db_values(scheme_list, scheme_no):
     
     if scheme_no == "scheme_1":
-        columns = {"id":"ets_id", "dummy":"ets", "price":"ets_price", 
+        columns = {"id":"ets_id", "binary":"ets", "price":"ets_price", 
                    "curr_code":"ets_curr_code"}
     if scheme_no == "scheme_2":
-        columns = {"id":"ets_2_id", "dummy":"ets_2", "price":"ets_2_price", 
+        columns = {"id":"ets_2_id", "binary":"ets_2", "price":"ets_2_price", 
                    "curr_code":"ets_2_curr_code"}
     
     for scheme in scheme_list:
-        for year in ets_coverage[scheme]["jurisdictions"].keys():   
-            selection = (all_jur.Year==year) & (all_jur.Jurisdiction.isin(ets_coverage[scheme]["jurisdictions"][year])) & (all_jur.IPCC_cat_code.isin(ets_coverage[scheme]["sectors"][year]))
-            selection_sources = (all_jur_sources.Year==year) & (all_jur_sources.Jurisdiction.isin(ets_coverage[scheme]["jurisdictions"][year])) & (all_jur_sources.IPCC_cat_code.isin(ets_coverage[scheme]["sectors"][year]))
+        for yr in ets_scope[scheme]["jurisdictions"].keys():   
+            selection = (all_jur.year==yr) & (all_jur.jurisdiction.isin(ets_scope[scheme]["jurisdictions"][yr])) & (all_jur.ipcc_code.isin(ets_scope[scheme]["sectors"][yr]))
+            selection_sources = (all_jur_sources.year==yr) & (all_jur_sources.jurisdiction.isin(ets_scope[scheme]["jurisdictions"][yr])) & (all_jur_sources.ipcc_code.isin(ets_scope[scheme]["sectors"][yr]))
     
-            all_jur.loc[selection, columns["dummy"]] = 1
+            all_jur.loc[selection, columns["binary"]] = 1
             all_jur.loc[selection, columns["id"]] = scheme
             
-            # Coverage data source
-            all_jur_sources.loc[selection_sources, columns["dummy"]] = ets_coverage_sources[scheme][year]
+            # Scope data source
+            all_jur_sources.loc[selection_sources, columns["binary"]] = ets_scope_sources[scheme][yr]
             
             try:        
-                all_jur.loc[selection, columns["price"]] = ets_prices.loc[(ets_prices.scheme_id==scheme) & (ets_prices.year==year), "allowance_price"].item()
-                all_jur.loc[selection, columns["curr_code"]] = ets_prices.loc[(ets_prices.scheme_id==scheme) & (ets_prices.year==year), "currency_code"].item()
+                all_jur.loc[selection, columns["price"]] = ets_prices.loc[(ets_prices.scheme_id==scheme) & (ets_prices.year==yr), "allowance_price"].item()
+                all_jur.loc[selection, columns["curr_code"]] = ets_prices.loc[(ets_prices.scheme_id==scheme) & (ets_prices.year==yr), "currency_code"].item()
                 
                 # Price data source
-                all_jur_sources.loc[selection_sources, columns["price"]] = ets_prices.loc[(ets_prices.scheme_id==scheme) & (ets_prices.year==year), "source"].item()+"; "+ets_prices.loc[(ets_prices.scheme_id==scheme) & (ets_prices.year==year), "comment"].item()
+                all_jur_sources.loc[selection_sources, columns["price"]] = ets_prices.loc[(ets_prices.scheme_id==scheme) & (ets_prices.year==yr), "source"].item()+"; "+ets_prices.loc[(ets_prices.scheme_id==scheme) & (ets_prices.year==yr), "comment"].item()
                 
             except:
-                print(scheme, year)
+                print(scheme, yr)
 
 ets_db_values(ets_1_list, "scheme_1")
 
@@ -133,41 +133,41 @@ tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabas
 tax_rates.rename(columns={"product":"em_type"}, inplace=True)
 tax_rates = tax_rates.loc[tax_rates.ghg==gas]
 
-taxes_coverage = taxCoverageModule.coverage()["data"]
-taxes_coverage_sources = taxCoverageModule.coverage()["sources"]
+taxes_scope = taxScopeModule.scope()["data"]
+taxes_scope_sources = taxScopeModule.scope()["sources"]
 
 def tax_db_values(scheme_list, scheme_no):
     
     if scheme_no == "scheme_1":
-        columns = {"id":"tax_id", "dummy":"tax", "rate":"tax_rate_excl_ex_clcu", 
+        columns = {"id":"tax_id", "binary":"tax", "rate":"tax_rate_excl_ex_clcu", 
                    "curr_code":"tax_curr_code"}
     if scheme_no == "scheme_2":
-        columns = {"id":"tax_2_id", "dummy":"tax_2",  
+        columns = {"id":"tax_2_id", "binary":"tax_2",  
                    "rate":"tax_2_rate_excl_ex_clcu", "curr_code":"tax_2_curr_code"}
 
     for scheme in scheme_list:
         print(scheme)
-        for year in taxes_coverage[scheme]["jurisdictions"].keys():   
-            selection = (all_jur.Year==year) & (all_jur.Jurisdiction.isin(taxes_coverage[scheme]["jurisdictions"][year])) & (all_jur.IPCC_cat_code.isin(taxes_coverage[scheme]["sectors"][year])) & (all_jur.Product.isin(taxes_coverage[scheme]["fuels"][year]))
-            selection_sources = (all_jur_sources.Year==year) & (all_jur_sources.Jurisdiction.isin(taxes_coverage[scheme]["jurisdictions"][year])) & (all_jur_sources.IPCC_cat_code.isin(taxes_coverage[scheme]["sectors"][year])) & (all_jur_sources.Product.isin(taxes_coverage[scheme]["fuels"][year]))
+        for yr in taxes_scope[scheme]["jurisdictions"].keys():   
+            selection = (all_jur.year==yr) & (all_jur.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (all_jur.IPCC_cat_code.isin(taxes_scope[scheme]["sectors"][yr])) & (all_jur.Product.isin(taxes_scope[scheme]["fuels"][yr]))
+            selection_sources = (all_jur_sources.year==yr) & (all_jur_sources.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (all_jur_sources.IPCC_cat_code.isin(taxes_scope[scheme]["sectors"][yr])) & (all_jur_sources.product.isin(taxes_scope[scheme]["fuels"][yr]))
     
-            all_jur.loc[selection, columns["dummy"]] = 1
+            all_jur.loc[selection, columns["binary"]] = 1
             all_jur.loc[selection, columns["id"]] = scheme
             
-            # Coverage data source 
-            all_jur_sources.loc[selection_sources, columns["dummy"]] = taxes_coverage_sources[scheme][year]
+            # Scope data source 
+            all_jur_sources.loc[selection_sources, columns["binary"]] = taxes_scope_sources[scheme][yr]
             
             try:
                 for type_em in ["Oil", "Natural gas", "Coal/peat"]:
-                    all_jur.loc[selection & (all_jur.Product == type_em), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year) & (tax_rates.em_type==type_em), "rate"].item()                
-                    all_jur.loc[selection & (all_jur.Product == type_em), columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year) & (tax_rates.em_type==type_em), "currency_code"].item()
+                    all_jur.loc[selection & (all_jur.product == type_em), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "rate"].item()                
+                    all_jur.loc[selection & (all_jur.product == type_em), columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "currency_code"].item()
                 
 #                    # Price data source
-                    value = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year) & (tax_rates.em_type==type_em), "source"].item()+"; "+tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==year) & (tax_rates.em_type==type_em), "comment"].item()
-                    all_jur_sources.loc[selection_sources & (all_jur_sources.Product == type_em), columns["rate"]] = value
+                    value = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "source"].item()+"; "+tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "comment"].item()
+                    all_jur_sources.loc[selection_sources & (all_jur_sources.product == type_em), columns["rate"]] = value
                 
             except:
-                print(scheme, year)
+                print(scheme, yr)
  
 tax_db_values(taxes_1_list, "scheme_1")
 
@@ -195,7 +195,7 @@ tax_db_values(tax_2_list, "scheme_2")
 all_jur.loc[all_jur.tax!=1, "tax"] = 0
 all_jur.loc[all_jur.ets!=1, "ets"] = 0
 
-#---------------------Sector-fuel coverage exceptions----------------------#
+#---------------------Sector-fuel scope exceptions----------------------#
  
 # Format: all_jur.loc[(all_jur.Jurisdiction=="jur_name") & (all_jur.Year==yr) & (all_jur.IPCC_cat_code=="ipcc_code") & (all_jur.Product=="prod_name"), ] #"Tax_dummy", "ETS_dummy"
 

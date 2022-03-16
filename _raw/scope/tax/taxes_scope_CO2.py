@@ -6,7 +6,7 @@ Created on Mon Jul 26 07:54:30 2021
 @author: gd
 """
     
-def coverage():    
+def scope():    
     # Argentina
     
     ## Jurisdiction
@@ -24,7 +24,7 @@ def coverage():
     ## Fuels
     
     arg_tax_fuel_I = ["Oil"]
-    arg_tax_fuel_II = ["Oil", "Coal/peat"]
+    arg_tax_fuel_II = ["Oil", "Coal"]
 
     ## Coverage dictionaries
     arg_tax_jur_coverage = {2018:arg_tax_jur_I, 2019:arg_tax_jur_I, 
@@ -60,7 +60,7 @@ def coverage():
     
     ## Fuels
     
-    aus_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    aus_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     aus_tax_jur_coverage = {2012:aus_tax_jur_I, 2013:aus_tax_jur_I, 
@@ -95,7 +95,7 @@ def coverage():
     
     ## Fuels
     
-    chl_tax_fuel_I = ["Oil", "Coal/peat", "Natural gas"]
+    chl_tax_fuel_I = ["Oil", "Coal", "Natural gas"]
 
     ## Coverage dictionaries
     chl_tax_jur_coverage = {2017:chl_tax_jur_I, 2018:chl_tax_jur_I, 
@@ -135,7 +135,7 @@ def coverage():
 
     ## Fuels
     
-    can_bc_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    can_bc_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
     
     
     ## Greenhouse gases
@@ -240,7 +240,7 @@ def coverage():
     
     ## Fuels
 
-    dnk_tax_I_fuel_I = ["Oil", "Coal/peat", "Natural gas"]      
+    dnk_tax_I_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
     ## Coverage dictionaries
 
@@ -345,7 +345,7 @@ def coverage():
 
     ## Fuels
     
-    est_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    est_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -428,7 +428,7 @@ def coverage():
 
     ## Fuels
 
-    fin_tax_I_fuel_I = ["Oil", "Coal/peat", "Natural gas"]      
+    fin_tax_I_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
     ## Coverage dictionaries
 
@@ -541,7 +541,7 @@ def coverage():
 
     ## Fuels
     
-    fra_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    fra_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -644,7 +644,7 @@ def coverage():
     ## Fuels
     
     irl_tax_fuel_I = ["Oil", "Natural gas"]
-    irl_tax_fuel_II = ["Oil", "Natural gas", "Coal/peat"]
+    irl_tax_fuel_II = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -696,7 +696,7 @@ def coverage():
 
     ## Fuels
     
-    jpn_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    jpn_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -748,7 +748,7 @@ def coverage():
 
     ## Fuels
     
-    lva_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    lva_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -809,7 +809,7 @@ def coverage():
 
     ## Fuels
     
-    lie_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    lie_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -871,7 +871,7 @@ def coverage():
     
     ## Fuels
     
-    mex_tax_fuel_I = ["Oil", "Coal/peat"]
+    mex_tax_fuel_I = ["Oil", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1083,7 +1083,7 @@ def coverage():
     
     ## Fuels
 
-    pol_tax_fuel_I = ["Oil", "Coal/peat", "Natural gas"]      
+    pol_tax_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
     ## Coverage dictionaries
 
@@ -1192,7 +1192,7 @@ def coverage():
     
     ## Fuels
     
-    prt_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    prt_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1235,7 +1235,7 @@ def coverage():
                      "2C5", "2D1", "2D2", "2D3", "2D4", "2E"]
     
     ## Fuel
-    sgp_tax_fuel_I = ["Coal/peat", "Oil", "Natural gas"]    
+    sgp_tax_fuel_I = ["Coal", "Oil", "Natural gas"]    
     
     ## Coverage dictionaries
     sgp_tax_jur_coverage = {2019:sgp_tax_jur_I, 2020:sgp_tax_jur_I,
@@ -1269,7 +1269,7 @@ def coverage():
     
     ## Fuels
 
-    slo_tax_I_fuel_I = ["Oil", "Coal/peat", "Natural gas"]      
+    slo_tax_I_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
     ## Coverage dictionaries
 
@@ -1365,7 +1365,7 @@ def coverage():
                       "2H2", "2H3", "5A1", "5A2"]
     
     ## Fuel
-    zaf_tax_fuel_I = ["Coal/peat", "Oil", "Natural gas"]    
+    zaf_tax_fuel_I = ["Coal", "Oil", "Natural gas"]    
     
     ## Coverage dictionaries
     zaf_tax_jur_coverage = {2019:zaf_tax_jur_I, 2020:zaf_tax_jur_I,
@@ -1406,7 +1406,7 @@ def coverage():
     
     ## Fuels
 
-    swe_tax_fuel_I = ["Oil", "Coal/peat", "Natural gas"]      
+    swe_tax_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
     ## Coverage dictionaries
 
@@ -1495,7 +1495,7 @@ def coverage():
 
     ## Fuels
     
-    che_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    che_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1563,7 +1563,7 @@ def coverage():
     
     ## Fuels
     
-    ukr_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    ukr_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
     
     # the scheme was suspended between 2015-2016
     ukr_tax_fuel_II = []
@@ -1620,7 +1620,7 @@ def coverage():
 
     ## Fuels
     
-    gbr_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    gbr_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1676,7 +1676,7 @@ def coverage():
 
     ## Fuels
     
-    can_tax_I_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    can_tax_I_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1711,7 +1711,7 @@ def coverage():
 
     ## Fuels
     
-    can_tax_II_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    can_tax_II_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1747,7 +1747,7 @@ def coverage():
 
     ## Fuels
     
-    can_ab_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    can_ab_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1782,7 +1782,7 @@ def coverage():
 
     ## Fuels
     
-    can_nb_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    can_nb_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1815,7 +1815,7 @@ def coverage():
 
     ## Fuels
     
-    can_pe_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    can_pe_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1851,7 +1851,7 @@ def coverage():
 
     ## Fuels
     
-    can_nl_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    can_nl_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
@@ -1887,7 +1887,7 @@ def coverage():
 
     ## Fuels
     
-    can_nt_tax_fuel_I = ["Oil", "Natural gas", "Coal/peat"]
+    can_nt_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## Coverage dictionaries
     
