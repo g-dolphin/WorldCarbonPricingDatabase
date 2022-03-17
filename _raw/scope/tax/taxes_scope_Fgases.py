@@ -28,7 +28,7 @@ def coverage():
     ## Fuels
     
     dnk_tax_fuel_I = ["Oil"]
-    dnk_tax_fuel_II = ["Oil", "Coal/peat"]
+    dnk_tax_fuel_II = ["Oil", "Coal"]
 
     ## Coverage dictionaries
     dnk_tax_jur_coverage = {
@@ -106,7 +106,7 @@ def coverage():
     ## Fuels
     
     isl_tax_II_fuel_I = ["Oil"]
-    isl_tax_II_fuel_II = ["Oil", "Coal/peat"]
+    isl_tax_II_fuel_II = ["Oil", "Coal"]
 
     ## Coverage dictionaries
     isl_tax_II_jur_coverage = {2020:isl_tax_II_jur_I, 2021:isl_tax_II_jur_I}
@@ -167,7 +167,7 @@ def coverage():
     ## Fuels
     
     esp_tax_fuel_I = ["Oil"]
-    esp_tax_fuel_II = ["Oil", "Coal/peat"]
+    esp_tax_fuel_II = ["Oil", "Coal"]
 
     ## Coverage dictionaries
     esp_tax_jur_coverage = {2014:esp_tax_jur_I, 2015:esp_tax_jur_I, 

@@ -25,7 +25,7 @@ Created on Tue Jul 20 11:55:02 2021
 # For carbon taxes, it is more tricky - and one has to take greater care - 
 # because a given fuel may be subject to the tax in one sector but not another. 
 
-def coverage():
+def scope():
     
     # EU ETS
     

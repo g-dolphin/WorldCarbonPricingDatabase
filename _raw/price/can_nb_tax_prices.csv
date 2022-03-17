@@ -1,7 +1,7 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-can_nb_tax,2019,CO2,Coal/peat,20,CAD,gvt(ECCC[2019]),
-can_nb_tax,2020,CO2,Coal/peat,30,CAD,web(NB[2021]),
-can_nb_tax,2021,CO2,Coal/peat,40,CAD,web(NB[2021]),
+can_nb_tax,2019,CO2,Coal,20,CAD,gvt(ECCC[2019]),
+can_nb_tax,2020,CO2,Coal,30,CAD,web(NB[2021]),
+can_nb_tax,2021,CO2,Coal,40,CAD,web(NB[2021]),
 can_nb_tax,2019,CO2,Oil,20,CAD,gvt(ECCC[2019]),
 can_nb_tax,2020,CO2,Oil,30,CAD,web(NB[2021]),
 can_nb_tax,2021,CO2,Oil,40,CAD,web(NB[2021]),

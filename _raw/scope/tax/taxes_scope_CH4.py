@@ -13,7 +13,7 @@ Created on Mon Jul 26 07:54:30 2021
 @author: gd
 """
     
-def coverage():     
+def scope():     
 
     # Singapore
     
