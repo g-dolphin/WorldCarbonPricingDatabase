@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Prince Edward Island,1989,0,,,,,,
 Prince Edward Island,1989,1,,,,,,
 Prince Edward Island,1989,1A,Coal/peat,,,,,
@@ -8950,61 +8950,61 @@ Prince Edward Island,2019,1A1,Oil,,,,,
 Prince Edward Island,2019,1A1A,Coal/peat,,,,,
 Prince Edward Island,2019,1A1A,Natural gas,,,,,
 Prince Edward Island,2019,1A1A,Oil,,,,,
-Prince Edward Island,2019,1A1A1,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A1A1,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A1A2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A1A2,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A1A3,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A1A3,Coal/peat,,,,,
 Prince Edward Island,2019,1A1A3,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A1A3,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A1B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A1B,Coal/peat,,,,,
 Prince Edward Island,2019,1A1B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A1B,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A1C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A1C,Coal/peat,,,,,
 Prince Edward Island,2019,1A1C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A1C,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A2,Coal/peat,,,,,
 Prince Edward Island,2019,1A2,Natural gas,,,,,
 Prince Edward Island,2019,1A2,Oil,,,,,
-Prince Edward Island,2019,1A2A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2A,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A2B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2B,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A2C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2C,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A2D,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2D,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A2E,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2E,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A2F,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2F,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A2G,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A2G,Coal/peat,,,,,
 Prince Edward Island,2019,1A2G,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A2G,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A2H,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A2H,Coal/peat,,,,,
 Prince Edward Island,2019,1A2H,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A2H,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A2I,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2I,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2019,1A2J,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A2J,Coal/peat,,,,,
 Prince Edward Island,2019,1A2J,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A2J,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A2K,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A2K,Coal/peat,,,,,
 Prince Edward Island,2019,1A2K,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A2K,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A2L,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A2L,Coal/peat,,,,,
 Prince Edward Island,2019,1A2L,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A2L,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A2M,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A2M,Coal/peat,,,,,
 Prince Edward Island,2019,1A2M,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A2M,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A3,Coal/peat,,,,,
@@ -9016,13 +9016,13 @@ Prince Edward Island,2019,1A3A,Oil,,,,,
 Prince Edward Island,2019,1A3A1,Coal/peat,,,,,
 Prince Edward Island,2019,1A3A1,Natural gas,,,,,
 Prince Edward Island,2019,1A3A1,Oil,,,,,
-Prince Edward Island,2019,1A3A2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A3A2,Coal/peat,,,,,
 Prince Edward Island,2019,1A3A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A3A2,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A3B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A3B,Coal/peat,,,,,
 Prince Edward Island,2019,1A3B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A3B,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A3C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A3C,Coal/peat,,,,,
 Prince Edward Island,2019,1A3C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A3C,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A3D,Coal/peat,,,,,
@@ -9031,22 +9031,22 @@ Prince Edward Island,2019,1A3D,Oil,,,,,
 Prince Edward Island,2019,1A3D1,Coal/peat,,,,,
 Prince Edward Island,2019,1A3D1,Natural gas,,,,,
 Prince Edward Island,2019,1A3D1,Oil,,,,,
-Prince Edward Island,2019,1A3D2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A3D2,Coal/peat,,,,,
 Prince Edward Island,2019,1A3D2,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A3D2,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A3E,Coal/peat,,,,,
 Prince Edward Island,2019,1A3E,Natural gas,,,,,
 Prince Edward Island,2019,1A3E,Oil,,,,,
-Prince Edward Island,2019,1A3E1,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A3E1,Coal/peat,,,,,
 Prince Edward Island,2019,1A3E1,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A3E1,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A4,Coal/peat,,,,,
 Prince Edward Island,2019,1A4,Natural gas,,,,,
 Prince Edward Island,2019,1A4,Oil,,,,,
-Prince Edward Island,2019,1A4A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A4A,Coal/peat,,,,,
 Prince Edward Island,2019,1A4A,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A4A,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A4B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A4B,Coal/peat,,,,,
 Prince Edward Island,2019,1A4B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A4B,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A4C,Coal/peat,,,,,
@@ -9064,13 +9064,13 @@ Prince Edward Island,2019,1A4C3,Oil,,,,,
 Prince Edward Island,2019,1A5,Coal/peat,,,,,
 Prince Edward Island,2019,1A5,Natural gas,,,,,
 Prince Edward Island,2019,1A5,Oil,,,,,
-Prince Edward Island,2019,1A5A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A5A,Coal/peat,,,,,
 Prince Edward Island,2019,1A5A,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A5A,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A5B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A5B,Coal/peat,,,,,
 Prince Edward Island,2019,1A5B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A5B,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2019,1A5C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2019,1A5C,Coal/peat,,,,,
 Prince Edward Island,2019,1A5C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1A5C,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2019,1B,,,,,,
@@ -9248,61 +9248,61 @@ Prince Edward Island,2020,1A1,Oil,,,,,
 Prince Edward Island,2020,1A1A,Coal/peat,,,,,
 Prince Edward Island,2020,1A1A,Natural gas,,,,,
 Prince Edward Island,2020,1A1A,Oil,,,,,
-Prince Edward Island,2020,1A1A1,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A1A1,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A1A2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A1A2,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A1A3,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A1A3,Coal/peat,,,,,
 Prince Edward Island,2020,1A1A3,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A1A3,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A1B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A1B,Coal/peat,,,,,
 Prince Edward Island,2020,1A1B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A1B,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A1C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A1C,Coal/peat,,,,,
 Prince Edward Island,2020,1A1C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A1C,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A2,Coal/peat,,,,,
 Prince Edward Island,2020,1A2,Natural gas,,,,,
 Prince Edward Island,2020,1A2,Oil,,,,,
-Prince Edward Island,2020,1A2A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2A,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A2B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2B,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A2C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2C,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A2D,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2D,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A2E,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2E,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A2F,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2F,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A2G,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A2G,Coal/peat,,,,,
 Prince Edward Island,2020,1A2G,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A2G,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A2H,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A2H,Coal/peat,,,,,
 Prince Edward Island,2020,1A2H,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A2H,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A2I,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2I,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2020,1A2J,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A2J,Coal/peat,,,,,
 Prince Edward Island,2020,1A2J,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A2J,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A2K,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A2K,Coal/peat,,,,,
 Prince Edward Island,2020,1A2K,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A2K,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A2L,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A2L,Coal/peat,,,,,
 Prince Edward Island,2020,1A2L,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A2L,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A2M,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A2M,Coal/peat,,,,,
 Prince Edward Island,2020,1A2M,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A2M,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A3,Coal/peat,,,,,
@@ -9314,13 +9314,13 @@ Prince Edward Island,2020,1A3A,Oil,,,,,
 Prince Edward Island,2020,1A3A1,Coal/peat,,,,,
 Prince Edward Island,2020,1A3A1,Natural gas,,,,,
 Prince Edward Island,2020,1A3A1,Oil,,,,,
-Prince Edward Island,2020,1A3A2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A3A2,Coal/peat,,,,,
 Prince Edward Island,2020,1A3A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A3A2,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A3B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A3B,Coal/peat,,,,,
 Prince Edward Island,2020,1A3B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A3B,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A3C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A3C,Coal/peat,,,,,
 Prince Edward Island,2020,1A3C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A3C,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A3D,Coal/peat,,,,,
@@ -9329,22 +9329,22 @@ Prince Edward Island,2020,1A3D,Oil,,,,,
 Prince Edward Island,2020,1A3D1,Coal/peat,,,,,
 Prince Edward Island,2020,1A3D1,Natural gas,,,,,
 Prince Edward Island,2020,1A3D1,Oil,,,,,
-Prince Edward Island,2020,1A3D2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A3D2,Coal/peat,,,,,
 Prince Edward Island,2020,1A3D2,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A3D2,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A3E,Coal/peat,,,,,
 Prince Edward Island,2020,1A3E,Natural gas,,,,,
 Prince Edward Island,2020,1A3E,Oil,,,,,
-Prince Edward Island,2020,1A3E1,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A3E1,Coal/peat,,,,,
 Prince Edward Island,2020,1A3E1,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A3E1,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A4,Coal/peat,,,,,
 Prince Edward Island,2020,1A4,Natural gas,,,,,
 Prince Edward Island,2020,1A4,Oil,,,,,
-Prince Edward Island,2020,1A4A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A4A,Coal/peat,,,,,
 Prince Edward Island,2020,1A4A,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A4A,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A4B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A4B,Coal/peat,,,,,
 Prince Edward Island,2020,1A4B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A4B,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A4C,Coal/peat,,,,,
@@ -9362,13 +9362,13 @@ Prince Edward Island,2020,1A4C3,Oil,,,,,
 Prince Edward Island,2020,1A5,Coal/peat,,,,,
 Prince Edward Island,2020,1A5,Natural gas,,,,,
 Prince Edward Island,2020,1A5,Oil,,,,,
-Prince Edward Island,2020,1A5A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A5A,Coal/peat,,,,,
 Prince Edward Island,2020,1A5A,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A5A,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A5B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A5B,Coal/peat,,,,,
 Prince Edward Island,2020,1A5B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A5B,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
-Prince Edward Island,2020,1A5C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
+Prince Edward Island,2020,1A5C,Coal/peat,,,,,
 Prince Edward Island,2020,1A5C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1A5C,Oil,"gvt(ECCC[2021], PEI[2018])",,"gvt(ECCC[2021], PEI[2018]); ",,
 Prince Edward Island,2020,1B,,,,,,
@@ -9546,63 +9546,63 @@ Prince Edward Island,2021,1A1,Oil,,,,,
 Prince Edward Island,2021,1A1A,Coal/peat,,,,,
 Prince Edward Island,2021,1A1A,Natural gas,,,,,
 Prince Edward Island,2021,1A1A,Oil,,,,,
-Prince Edward Island,2021,1A1A1,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A1A2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A1A3,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A1A3,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A1A3,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A1B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A1B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A1B,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A1C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A1C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A1C,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
+Prince Edward Island,2021,1A1A1,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A2,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A3,Coal/peat,,,,,
+Prince Edward Island,2021,1A1A3,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A1A3,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A1B,Coal/peat,,,,,
+Prince Edward Island,2021,1A1B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A1B,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A1C,Coal/peat,,,,,
+Prince Edward Island,2021,1A1C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A1C,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
 Prince Edward Island,2021,1A2,Coal/peat,,,,,
 Prince Edward Island,2021,1A2,Natural gas,,,,,
 Prince Edward Island,2021,1A2,Oil,,,,,
-Prince Edward Island,2021,1A2A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2D,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2E,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2F,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2G,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2G,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2G,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2H,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2H,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2H,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2I,Coal/peat,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Prince Edward Island,2021,1A2J,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2J,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2J,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2K,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2K,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2K,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2L,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2L,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2L,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2M,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2M,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A2M,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
+Prince Edward Island,2021,1A2A,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2B,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2C,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2D,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2E,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2F,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2G,Coal/peat,,,,,
+Prince Edward Island,2021,1A2G,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2G,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2H,Coal/peat,,,,,
+Prince Edward Island,2021,1A2H,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2H,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2I,Coal/peat,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2J,Coal/peat,,,,,
+Prince Edward Island,2021,1A2J,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2J,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2K,Coal/peat,,,,,
+Prince Edward Island,2021,1A2K,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2K,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2L,Coal/peat,,,,,
+Prince Edward Island,2021,1A2L,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2L,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2M,Coal/peat,,,,,
+Prince Edward Island,2021,1A2M,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A2M,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
 Prince Edward Island,2021,1A3,Coal/peat,,,,,
 Prince Edward Island,2021,1A3,Natural gas,,,,,
 Prince Edward Island,2021,1A3,Oil,,,,,
@@ -9612,39 +9612,39 @@ Prince Edward Island,2021,1A3A,Oil,,,,,
 Prince Edward Island,2021,1A3A1,Coal/peat,,,,,
 Prince Edward Island,2021,1A3A1,Natural gas,,,,,
 Prince Edward Island,2021,1A3A1,Oil,,,,,
-Prince Edward Island,2021,1A3A2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3A2,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3B,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3C,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
+Prince Edward Island,2021,1A3A2,Coal/peat,,,,,
+Prince Edward Island,2021,1A3A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A3A2,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A3B,Coal/peat,,,,,
+Prince Edward Island,2021,1A3B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A3B,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A3C,Coal/peat,,,,,
+Prince Edward Island,2021,1A3C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A3C,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
 Prince Edward Island,2021,1A3D,Coal/peat,,,,,
 Prince Edward Island,2021,1A3D,Natural gas,,,,,
 Prince Edward Island,2021,1A3D,Oil,,,,,
 Prince Edward Island,2021,1A3D1,Coal/peat,,,,,
 Prince Edward Island,2021,1A3D1,Natural gas,,,,,
 Prince Edward Island,2021,1A3D1,Oil,,,,,
-Prince Edward Island,2021,1A3D2,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3D2,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3D2,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
+Prince Edward Island,2021,1A3D2,Coal/peat,,,,,
+Prince Edward Island,2021,1A3D2,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A3D2,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
 Prince Edward Island,2021,1A3E,Coal/peat,,,,,
 Prince Edward Island,2021,1A3E,Natural gas,,,,,
 Prince Edward Island,2021,1A3E,Oil,,,,,
-Prince Edward Island,2021,1A3E1,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3E1,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A3E1,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
+Prince Edward Island,2021,1A3E1,Coal/peat,,,,,
+Prince Edward Island,2021,1A3E1,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A3E1,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
 Prince Edward Island,2021,1A4,Coal/peat,,,,,
 Prince Edward Island,2021,1A4,Natural gas,,,,,
 Prince Edward Island,2021,1A4,Oil,,,,,
-Prince Edward Island,2021,1A4A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A4A,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A4A,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A4B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A4B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A4B,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
+Prince Edward Island,2021,1A4A,Coal/peat,,,,,
+Prince Edward Island,2021,1A4A,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A4A,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A4B,Coal/peat,,,,,
+Prince Edward Island,2021,1A4B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A4B,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
 Prince Edward Island,2021,1A4C,Coal/peat,,,,,
 Prince Edward Island,2021,1A4C,Natural gas,,,,,
 Prince Edward Island,2021,1A4C,Oil,,,,,
@@ -9660,15 +9660,15 @@ Prince Edward Island,2021,1A4C3,Oil,,,,,
 Prince Edward Island,2021,1A5,Coal/peat,,,,,
 Prince Edward Island,2021,1A5,Natural gas,,,,,
 Prince Edward Island,2021,1A5,Oil,,,,,
-Prince Edward Island,2021,1A5A,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A5A,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A5A,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A5B,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A5B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A5B,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A5C,Coal/peat,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A5C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,,,
-Prince Edward Island,2021,1A5C,Oil,"gvt(ECCC[2021], PEI[2018])",,,,
+Prince Edward Island,2021,1A5A,Coal/peat,,,,,
+Prince Edward Island,2021,1A5A,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A5A,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A5B,Coal/peat,,,,,
+Prince Edward Island,2021,1A5B,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A5B,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A5C,Coal/peat,,,,,
+Prince Edward Island,2021,1A5C,Natural gas,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
+Prince Edward Island,2021,1A5C,Oil,"gvt(ECCC[2021], PEI[2018])",,; rate to be confirmed,,
 Prince Edward Island,2021,1B,,,,,,
 Prince Edward Island,2021,1B1,,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2021,1B1A,,,leg(SOR[2019]),,,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"

@@ -60,6 +60,13 @@ price_exemptions_nat = concatenate(indir_exemptions_nat)
 price_exemptions_subnat = concatenate(indir_exemptions_subnat)
 price_exemptions_all_jur = pd.concat([price_exemptions_nat, price_exemptions_subnat])
 
+price_exemptions_all_jur.rename(columns={'Jurisdiction':"jurisdiction", 
+                                         'Year':"year", 'IPCC_cat_code':"ipcc_code", 
+                                         'Tax_ex_rate':"tax_ex_rate",
+                                         'Tax_ex_rate_sources':"tax_ex_rate_sources"}, inplace=True)
+
+price_exemptions_all_jur.replace(to_replace={"Coal/peat":"Coal"}, inplace=True)
+
 # Jurisdiction lists
 
 ctry_list = list(nat_jur.Jurisdiction.unique())
@@ -76,14 +83,16 @@ all_jur_sources["year"] = all_jur_sources["year"].astype(int)
 
 #------------------------Primary:Emissions trading systems---------------------------#
 
-ets_1_list = ["eu_ets", "nzl_ets", "che_ets", "kor_ets", "kaz_ets", 
-              "us_ca_cat", "us_rggi", 'can_obps',
-              "can_nl_ets", "can_ns_ets", "can_qc_cat", "can_ab_ets", "can_sk_ets",
-              "chn_sh_ets",
-              'chn_sz_ets', 'chn_sh_ets', 'chn_bj_ets', 'chn_gd_ets', 'chn_tj_ets', 
-              'chn_hb_ets', 'chn_cq_ets', 'chn_fj_ets']
+ets_1_list = {"CO2":["eu_ets", "nzl_ets", "che_ets", "kor_ets", "kaz_ets", 
+                     "us_ca_cat", "us_rggi", 'can_obps',
+                     "can_nl_ets", "can_ns_ets", "can_qc_cat", "can_ab_ets", "can_sk_ets",
+                     "chn_sh_ets",
+                     'chn_sz_ets', 'chn_sh_ets', 'chn_bj_ets', 'chn_gd_ets', 'chn_tj_ets', 
+                     'chn_hb_ets', 'chn_cq_ets', 'chn_fj_ets']}
 
 ets_prices = etsPricesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price")
+#ets_prices = ets_prices.loc[ets_prices.ghg==gas]
+
 ets_scope = etsScopeModule.scope()["data"]
 ets_scope_sources = etsScopeModule.scope()["sources"]
 
@@ -117,17 +126,17 @@ def ets_db_values(scheme_list, scheme_no):
             except:
                 print(scheme, yr)
 
-ets_db_values(ets_1_list, "scheme_1")
+ets_db_values(ets_1_list[gas], "scheme_1")
 
 #--------------------------------Primary:Carbon taxes--------------------------------#
 
-taxes_1_list = ["can_ab_tax", "arg_tax", "can_bc_tax", "aus_tax", "can_tax_I",
-               "can_tax_II", "chl_tax", "col_tax", "dnk_tax", "est_tax", "fin_tax",
-               "fra_tax", "isl_tax", "irl_tax", "jpn_tax", "lva_tax", "lie_tax",
-               "mex_tax", "can_nb_tax", "can_nl_tax", "can_nt_tax", "nor_tax_I",
-               "nor_tax_II", "pol_tax", "prt_tax", "can_pe_tax", "sgp_tax",
-               "slo_tax", "zaf_tax", "swe_tax", "che_tax", "gbr_tax",
-               "ukr_tax"] #, "mex_zac_tax", "esp_tax"
+taxes_1_list = {"CO2":["can_ab_tax", "arg_tax", "can_bc_tax", "aus_tax", "can_tax_I",
+                       "can_tax_II", "chl_tax", "col_tax", "dnk_tax", "est_tax", "fin_tax",
+                       "fra_tax", "isl_tax", "irl_tax", "jpn_tax", "lva_tax", "lie_tax",
+                       "mex_tax", "can_nb_tax", "can_nl_tax", "can_nt_tax", "nor_tax_I",
+                       "nor_tax_II", "pol_tax", "prt_tax", "can_pe_tax", "sgp_tax",
+                       "slo_tax", "zaf_tax", "swe_tax", "che_tax", "gbr_tax",
+                       "ukr_tax"]} #, "mex_zac_tax", "esp_tax"
 
 tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/")
 tax_rates.rename(columns={"product":"em_type"}, inplace=True)
@@ -158,7 +167,7 @@ def tax_db_values(scheme_list, scheme_no):
             all_jur_sources.loc[selection_sources, columns["binary"]] = taxes_scope_sources[scheme][yr]
             
             try:
-                for type_em in ["Oil", "Natural gas", "Coal/peat"]:
+                for type_em in ["Oil", "Natural gas", "Coal"]:
                     all_jur.loc[selection & (all_jur.Product == type_em), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "rate"].item()                
                     all_jur.loc[selection & (all_jur.Product == type_em), columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "currency_code"].item()
                 
@@ -169,7 +178,7 @@ def tax_db_values(scheme_list, scheme_no):
             except:
                 print(scheme, yr)
  
-tax_db_values(taxes_1_list, "scheme_1")
+tax_db_values(taxes_1_list[gas], "scheme_1")
 
 #----------------------------Second pricing scheme----------------------#
 # NOTE: The "second pricing scheme" columns are only used when, for a given 
@@ -180,12 +189,12 @@ tax_db_values(taxes_1_list, "scheme_1")
 #       the pricing scheme information is recorded in the primary columns
 #----------------------------Second:Emissions trading systems------------#
 
-ets_2_list = ["us_ma_ets"]
+ets_2_list = {"CO2":["us_ma_ets"]}
 ets_db_values(ets_2_list, "scheme_2")
 
 #----------------------------Second:carbon taxes------------#
 
-tax_2_list = []
+tax_2_list = {"CO2":[]}
 tax_db_values(tax_2_list, "scheme_2")
 
 #----------------------------------------------------------------#
@@ -205,17 +214,16 @@ all_jur.loc[all_jur.ets!=1, "ets"] = 0
 # Price-based exemptions
 # Add (price-based) exemptions/rebate column for carbon taxes
 
-all_jur = all_jur.merge(price_exemptions_all_jur[["Jurisdiction", "Year", "IPCC_cat_code", "Product", "Tax_ex_rate"]], 
-                        on = ["Jurisdiction", "Year", "IPCC_cat_code", "Product"], how="left")
-all_jur.rename(columns={"Tax_ex_rate":"tax_ex_rate"}, inplace=True)
+all_jur = all_jur.merge(price_exemptions_all_jur[["jurisdiction", "year", "ipcc_code", "Product", "tax_ex_rate"]], 
+                        on = ["jurisdiction", "year", "ipcc_code", "Product"], how="left")
 
-all_jur_sources = all_jur_sources.merge(price_exemptions_all_jur[["Jurisdiction", "Year", "IPCC_cat_code", "Product", "Tax_ex_rate_sources"]], 
-                                        on = ["Jurisdiction", "Year", "IPCC_cat_code", "Product"], how="left")
-all_jur_sources.rename(columns={"Tax_ex_rate_sources":"tax_ex_rate"}, inplace=True)
+all_jur_sources = all_jur_sources.merge(price_exemptions_all_jur[["jurisdiction", "year", "ipcc_code", "Product", "tax_ex_rate_sources"]], 
+                                        on = ["jurisdiction", "year", "ipcc_code", "Product"], how="left")
+all_jur_sources.rename(columns={"tax_ex_rate_sources":"tax_ex_rate"}, inplace=True)
 
 ## Filling "tax_ex_rate" column with "NA" if no tax scheme
 all_jur.loc[all_jur.tax!=1, "tax_ex_rate"] = "NA"
-#all_jur.loc[(all_jur.Tax_dummy==1) & (all_jur.Tax_ex_rate==""), :] #checking whether we've missed any exemptions
+#all_jur.loc[(all_jur.tax==1) & (all_jur.tax_ex_rate==""), :] #checking whether we've missed any exemptions
 
 all_jur.loc[all_jur.tax_ex_rate=="NA", "tax_ex_rate"] = np.nan # changing "NA" to NaN to be able to execute column multiplication
 all_jur.loc[all_jur.tax_ex_rate=="", "tax_ex_rate"] = np.nan
@@ -227,14 +235,6 @@ all_jur["tax_rate_excl_ex_clcu"] = all_jur["tax_rate_excl_ex_clcu"].astype(float
 
 ## Calculate tax rate including rebate
 all_jur.loc[:, "tax_rate_incl_ex_clcu"] = all_jur.loc[:, "tax_rate_excl_ex_clcu"]*(1-all_jur.loc[:, "tax_ex_rate"])
- 
-
-# Quantity-based exemptions
-# - many tax schemes in EU countries do not apply to emissions from entities 
-# covered by the EU ETS
-# - only a certain % of emissions within a sector is subject to the price/tax
- 
-
 
 
 # Fill 'NA' values
@@ -253,13 +253,13 @@ all_jur.loc[all_jur.tax==0.0, tax_cols] = "NA"
 all_jur.loc[all_jur.ets==0.0, ets_1_cols] = "NA"
 
 # Re-ordering columns
-all_jur = all_jur[["Jurisdiction", "Year", "IPCC_cat_code", #"IEA_CODE", 
+all_jur = all_jur[["jurisdiction", "year", "ipcc_code",
                    "Product", "tax", "ets", "tax_id",
                    "tax_rate_excl_ex_clcu", "tax_ex_rate", 
                    "tax_rate_incl_ex_clcu", "tax_curr_code", "ets_id", "ets_price",
                    "ets_curr_code"]]
 
-all_jur_sources = all_jur_sources[["Jurisdiction", "Year", "IPCC_cat_code", 
+all_jur_sources = all_jur_sources[["jurisdiction", "year", "ipcc_code", 
                                    "Product", "tax", "ets",
                                    "tax_rate_excl_ex_clcu", "tax_ex_rate",
                                    "ets_price"]]
@@ -274,13 +274,13 @@ subnat_dic = dict(zip(subnat_list, std_subnat_names))
 
 
 for jur in countries_dic:
-    all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/national/CP_"+countries_dic[jur]+".csv", index=None)
+    all_jur.loc[all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/national/CP_"+countries_dic[jur]+".csv", index=None)
 for jur in subnat_dic:
-    all_jur.loc[all_jur.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
+    all_jur.loc[all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
 
 for jur in countries_dic:
-    all_jur_sources.loc[all_jur_sources.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/national/CP_"+countries_dic[jur]+".csv", index=None)
+    all_jur_sources.loc[all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/national/CP_"+countries_dic[jur]+".csv", index=None)
 for jur in subnat_dic:
-    all_jur_sources.loc[all_jur_sources.Jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
+    all_jur_sources.loc[all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
     
     

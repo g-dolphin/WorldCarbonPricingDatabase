@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Newfoundland and Labrador,1989,0,,,,,,
 Newfoundland and Labrador,1989,1,,,,,,
 Newfoundland and Labrador,1989,1A,Coal/peat,,,,,
@@ -8950,61 +8950,61 @@ Newfoundland and Labrador,2019,1A1,Oil,,,,,
 Newfoundland and Labrador,2019,1A1A,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A1A,Natural gas,,,,,
 Newfoundland and Labrador,2019,1A1A,Oil,,,,,
-Newfoundland and Labrador,2019,1A1A1,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A1,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A2,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A2,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A3,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A3,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1B,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1B,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A1C,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A1C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A1C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2,Natural gas,,,,,
 Newfoundland and Labrador,2019,1A2,Oil,,,,,
-Newfoundland and Labrador,2019,1A2A,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2A,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2B,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2B,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A2C,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A2D,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2D,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2E,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A2E,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2E,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2E,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A2F,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A2F,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2F,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2F,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2G,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2G,Natural gas,,,,,
 Newfoundland and Labrador,2019,1A2G,Oil,,,,,
-Newfoundland and Labrador,2019,1A2H,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A2H,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2H,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2H,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2I,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2I,Natural gas,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2I,Oil,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2J,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A2J,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2J,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2J,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A2K,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A2K,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2K,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2K,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A2L,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A2L,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2L,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2L,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A2M,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A2M,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A2M,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A2M,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A3,Coal/peat,,,,,
@@ -9019,25 +9019,25 @@ Newfoundland and Labrador,2019,1A3A1,Oil,,,,,
 Newfoundland and Labrador,2019,1A3A2,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A3A2,Natural gas,,,,,
 Newfoundland and Labrador,2019,1A3A2,Oil,,,,,
-Newfoundland and Labrador,2019,1A3B,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A3B,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A3B,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A3B,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A3C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A3C,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A3C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A3C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A3D,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A3D,Natural gas,,,,,
 Newfoundland and Labrador,2019,1A3D,Oil,,,,,
-Newfoundland and Labrador,2019,1A3D1,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A3D1,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A3D1,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A3D1,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A3D2,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A3D2,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A3D2,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A3D2,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A3E,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A3E,Natural gas,,,,,
 Newfoundland and Labrador,2019,1A3E,Oil,,,,,
-Newfoundland and Labrador,2019,1A3E1,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A3E1,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A3E1,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A3E1,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A4,Coal/peat,,,,,
@@ -9064,13 +9064,13 @@ Newfoundland and Labrador,2019,1A4C3,Oil,,,,,
 Newfoundland and Labrador,2019,1A5,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A5,Natural gas,,,,,
 Newfoundland and Labrador,2019,1A5,Oil,,,,,
-Newfoundland and Labrador,2019,1A5A,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A5A,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A5A,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A5A,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A5B,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A5B,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A5B,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A5B,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2019,1A5C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2019,1A5C,Coal/peat,,,,,
 Newfoundland and Labrador,2019,1A5C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1A5C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2019,1B,,,,,,
@@ -9248,61 +9248,61 @@ Newfoundland and Labrador,2020,1A1,Oil,,,,,
 Newfoundland and Labrador,2020,1A1A,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A1A,Natural gas,,,,,
 Newfoundland and Labrador,2020,1A1A,Oil,,,,,
-Newfoundland and Labrador,2020,1A1A1,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A1,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A2,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A2,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A3,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A3,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1B,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1B,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A1C,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A1C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A1C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2,Natural gas,,,,,
 Newfoundland and Labrador,2020,1A2,Oil,,,,,
-Newfoundland and Labrador,2020,1A2A,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2A,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2B,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2B,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A2C,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A2D,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2D,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2E,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A2E,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2E,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2E,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A2F,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A2F,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2F,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2F,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2G,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2G,Natural gas,,,,,
 Newfoundland and Labrador,2020,1A2G,Oil,,,,,
-Newfoundland and Labrador,2020,1A2H,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A2H,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2H,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2H,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2I,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2I,Natural gas,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2I,Oil,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2J,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A2J,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2J,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2J,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A2K,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A2K,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2K,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2K,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A2L,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A2L,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2L,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2L,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A2M,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A2M,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A2M,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A2M,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A3,Coal/peat,,,,,
@@ -9317,25 +9317,25 @@ Newfoundland and Labrador,2020,1A3A1,Oil,,,,,
 Newfoundland and Labrador,2020,1A3A2,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A3A2,Natural gas,,,,,
 Newfoundland and Labrador,2020,1A3A2,Oil,,,,,
-Newfoundland and Labrador,2020,1A3B,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A3B,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A3B,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A3B,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A3C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A3C,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A3C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A3C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A3D,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A3D,Natural gas,,,,,
 Newfoundland and Labrador,2020,1A3D,Oil,,,,,
-Newfoundland and Labrador,2020,1A3D1,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A3D1,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A3D1,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A3D1,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A3D2,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A3D2,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A3D2,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A3D2,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A3E,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A3E,Natural gas,,,,,
 Newfoundland and Labrador,2020,1A3E,Oil,,,,,
-Newfoundland and Labrador,2020,1A3E1,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A3E1,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A3E1,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A3E1,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A4,Coal/peat,,,,,
@@ -9362,13 +9362,13 @@ Newfoundland and Labrador,2020,1A4C3,Oil,,,,,
 Newfoundland and Labrador,2020,1A5,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A5,Natural gas,,,,,
 Newfoundland and Labrador,2020,1A5,Oil,,,,,
-Newfoundland and Labrador,2020,1A5A,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A5A,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A5A,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A5A,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A5B,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A5B,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A5B,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A5B,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2020,1A5C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2020,1A5C,Coal/peat,,,,,
 Newfoundland and Labrador,2020,1A5C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1A5C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2020,1B,,,,,,
@@ -9546,61 +9546,61 @@ Newfoundland and Labrador,2021,1A1,Oil,,,,,
 Newfoundland and Labrador,2021,1A1A,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A1A,Natural gas,,,,,
 Newfoundland and Labrador,2021,1A1A,Oil,,,,,
-Newfoundland and Labrador,2021,1A1A1,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A1,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A2,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A2,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A3,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A3,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1B,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1B,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A1C,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A1C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A1C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2,Natural gas,,,,,
 Newfoundland and Labrador,2021,1A2,Oil,,,,,
-Newfoundland and Labrador,2021,1A2A,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2A,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2B,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2B,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A2C,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A2D,Coal/peat,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2D,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2E,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A2E,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2E,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2E,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A2F,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A2F,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2F,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2F,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2G,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2G,Natural gas,,,,,
 Newfoundland and Labrador,2021,1A2G,Oil,,,,,
-Newfoundland and Labrador,2021,1A2H,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A2H,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2H,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2H,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2I,Coal/peat,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2I,Natural gas,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2I,Oil,,gvt(NL[2019]),,,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2J,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A2J,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2J,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2J,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A2K,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A2K,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2K,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2K,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A2L,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A2L,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2L,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2L,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A2M,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A2M,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A2M,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A2M,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A3,Coal/peat,,,,,
@@ -9615,25 +9615,25 @@ Newfoundland and Labrador,2021,1A3A1,Oil,,,,,
 Newfoundland and Labrador,2021,1A3A2,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A3A2,Natural gas,,,,,
 Newfoundland and Labrador,2021,1A3A2,Oil,,,,,
-Newfoundland and Labrador,2021,1A3B,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A3B,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A3B,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A3B,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A3C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A3C,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A3C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A3C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A3D,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A3D,Natural gas,,,,,
 Newfoundland and Labrador,2021,1A3D,Oil,,,,,
-Newfoundland and Labrador,2021,1A3D1,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A3D1,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A3D1,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A3D1,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A3D2,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A3D2,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A3D2,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A3D2,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A3E,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A3E,Natural gas,,,,,
 Newfoundland and Labrador,2021,1A3E,Oil,,,,,
-Newfoundland and Labrador,2021,1A3E1,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A3E1,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A3E1,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A3E1,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A4,Coal/peat,,,,,
@@ -9660,13 +9660,13 @@ Newfoundland and Labrador,2021,1A4C3,Oil,,,,,
 Newfoundland and Labrador,2021,1A5,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A5,Natural gas,,,,,
 Newfoundland and Labrador,2021,1A5,Oil,,,,,
-Newfoundland and Labrador,2021,1A5A,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A5A,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A5A,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A5A,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A5B,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A5B,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A5B,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A5B,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
-Newfoundland and Labrador,2021,1A5C,Coal/peat,leg(NL[2011]),,leg(NL[2018]); ,,
+Newfoundland and Labrador,2021,1A5C,Coal/peat,,,,,
 Newfoundland and Labrador,2021,1A5C,Natural gas,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1A5C,Oil,leg(NL[2011]),,leg(NL[2018]); ,,
 Newfoundland and Labrador,2021,1B,,,,,,
