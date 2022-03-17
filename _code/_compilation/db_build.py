@@ -69,8 +69,8 @@ price_exemptions_all_jur.replace(to_replace={"Coal/peat":"Coal"}, inplace=True)
 
 # Jurisdiction lists
 
-ctry_list = list(nat_jur.Jurisdiction.unique())
-subnat_list = list(subnat_jur.Jurisdiction.unique())
+ctry_list = list(nat_jur.jurisdiction.unique())
+subnat_list = list(subnat_jur.jurisdiction.unique())
 all_jur_list = ctry_list + subnat_list
 
 
