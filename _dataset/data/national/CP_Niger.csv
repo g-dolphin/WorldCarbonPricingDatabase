@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_id,tax_rate_excl_ex_clcu,tax_ex_rate,tax_rate_incl_ex_clcu,tax_curr_code,ets_id,ets_price,ets_curr_code
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_id,tax_rate_excl_ex_clcu,tax_ex_rate,tax_rate_incl_ex_clcu,tax_curr_code,ets_id,ets_price,ets_curr_code
 Niger,1989,0,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Niger,1989,1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Niger,1989,1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA

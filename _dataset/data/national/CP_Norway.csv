@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_id,tax_rate_excl_ex_clcu,tax_ex_rate,tax_rate_incl_ex_clcu,tax_curr_code,ets_id,ets_price,ets_curr_code
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_id,tax_rate_excl_ex_clcu,tax_ex_rate,tax_rate_incl_ex_clcu,tax_curr_code,ets_id,ets_price,ets_curr_code
 Norway,1989,0,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,1989,1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,1989,1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9556,11 +9556,11 @@ Norway,2021,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,,
 Norway,2021,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,,
 Norway,2021,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,,
 Norway,2021,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,,
-Norway,2021,1A1B,Natural gas,1.0,1.0,nor_tax_I,,,,,eu_ets,,
-Norway,2021,1A1B,Oil,1.0,1.0,nor_tax_I,,,,,eu_ets,,
+Norway,2021,1A1B,Natural gas,1.0,1.0,nor_tax_I,,,,NOK,eu_ets,,
+Norway,2021,1A1B,Oil,1.0,1.0,nor_tax_I,,,,NOK,eu_ets,,
 Norway,2021,1A1C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,,
-Norway,2021,1A1C,Natural gas,1.0,1.0,nor_tax_I,,,,,eu_ets,,
-Norway,2021,1A1C,Oil,1.0,1.0,nor_tax_I,,,,,eu_ets,,
+Norway,2021,1A1C,Natural gas,1.0,1.0,nor_tax_I,,,,NOK,eu_ets,,
+Norway,2021,1A1C,Oil,1.0,1.0,nor_tax_I,,,,NOK,eu_ets,,
 Norway,2021,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9613,11 +9613,11 @@ Norway,2021,1A3A1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A3A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,,
-Norway,2021,1A3A2,Natural gas,1.0,1.0,nor_tax_I,,,,,eu_ets,,
-Norway,2021,1A3A2,Oil,1.0,1.0,nor_tax_I,,,,,eu_ets,,
+Norway,2021,1A3A2,Natural gas,1.0,1.0,nor_tax_I,,,,NOK,eu_ets,,
+Norway,2021,1A3A2,Oil,1.0,1.0,nor_tax_I,,,,NOK,eu_ets,,
 Norway,2021,1A3B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Norway,2021,1A3B,Natural gas,1.0,0.0,nor_tax_I,,,,,NA,NA,NA
-Norway,2021,1A3B,Oil,1.0,0.0,nor_tax_I,,,,,NA,NA,NA
+Norway,2021,1A3B,Natural gas,1.0,0.0,nor_tax_I,,,,NOK,NA,NA,NA
+Norway,2021,1A3B,Oil,1.0,0.0,nor_tax_I,,,,NOK,NA,NA,NA
 Norway,2021,1A3C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9640,11 +9640,11 @@ Norway,2021,1A4,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Norway,2021,1A4A,Natural gas,1.0,0.0,nor_tax_I,,,,,NA,NA,NA
-Norway,2021,1A4A,Oil,1.0,0.0,nor_tax_I,,,,,NA,NA,NA
+Norway,2021,1A4A,Natural gas,1.0,0.0,nor_tax_I,,,,NOK,NA,NA,NA
+Norway,2021,1A4A,Oil,1.0,0.0,nor_tax_I,,,,NOK,NA,NA,NA
 Norway,2021,1A4B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Norway,2021,1A4B,Natural gas,1.0,0.0,nor_tax_I,,,,,NA,NA,NA
-Norway,2021,1A4B,Oil,1.0,0.0,nor_tax_I,,,,,NA,NA,NA
+Norway,2021,1A4B,Natural gas,1.0,0.0,nor_tax_I,,,,NOK,NA,NA,NA
+Norway,2021,1A4B,Oil,1.0,0.0,nor_tax_I,,,,NOK,NA,NA,NA
 Norway,2021,1A4C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9652,8 +9652,8 @@ Norway,2021,1A4C1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4C1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4C1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4C2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Norway,2021,1A4C2,Natural gas,1.0,0.0,nor_tax_I,,,,,NA,NA,NA
-Norway,2021,1A4C2,Oil,1.0,0.0,nor_tax_I,,,,,NA,NA,NA
+Norway,2021,1A4C2,Natural gas,1.0,0.0,nor_tax_I,,,,NOK,NA,NA,NA
+Norway,2021,1A4C2,Oil,1.0,0.0,nor_tax_I,,,,NOK,NA,NA,NA
 Norway,2021,1A4C3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Norway,2021,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA

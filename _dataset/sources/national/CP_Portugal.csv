@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Portugal,1989,0,,,,,,
 Portugal,1989,1,,,,,,
 Portugal,1989,1A,Coal/peat,,,,,
@@ -7821,7 +7821,7 @@ Portugal,2015,1A3,Oil,,,,,
 Portugal,2015,1A3A,Coal/peat,,,,,
 Portugal,2015,1A3A,Natural gas,,,,,
 Portugal,2015,1A3A,Oil,,,,,
-Portugal,2015,1A3A1,Coal/peat,,,,leg(PRT[2014]),
+Portugal,2015,1A3A1,Coal/peat,,,,,
 Portugal,2015,1A3A1,Natural gas,,,,leg(PRT[2014]),
 Portugal,2015,1A3A1,Oil,,,,leg(PRT[2014]),
 Portugal,2015,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8119,7 +8119,7 @@ Portugal,2016,1A3,Oil,,,,,
 Portugal,2016,1A3A,Coal/peat,,,,,
 Portugal,2016,1A3A,Natural gas,,,,,
 Portugal,2016,1A3A,Oil,,,,,
-Portugal,2016,1A3A1,Coal/peat,,,,"leg(PRT[2014], PRT[2016])",
+Portugal,2016,1A3A1,Coal/peat,,,,,
 Portugal,2016,1A3A1,Natural gas,,,,"leg(PRT[2014], PRT[2016])",
 Portugal,2016,1A3A1,Oil,,,,"leg(PRT[2014], PRT[2016])",
 Portugal,2016,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8357,16 +8357,16 @@ Portugal,2017,1A1A,Oil,,,,,
 Portugal,2017,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1A1,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1A1,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2017,1A1A2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2017,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2017,1A1A3,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2017,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2017,1A1B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2017,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2017,1A1C,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2017,1A1C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A2,Coal/peat,,,,,
@@ -8417,13 +8417,13 @@ Portugal,2017,1A3,Oil,,,,,
 Portugal,2017,1A3A,Coal/peat,,,,,
 Portugal,2017,1A3A,Natural gas,,,,,
 Portugal,2017,1A3A,Oil,,,,,
-Portugal,2017,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",
+Portugal,2017,1A3A1,Coal/peat,,,,,
 Portugal,2017,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",
 Portugal,2017,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",
 Portugal,2017,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2017,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2017,1A3B,Coal/peat,,,,,
 Portugal,2017,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A3C,Coal/peat,,,,,
@@ -8447,19 +8447,19 @@ Portugal,2017,1A3E1,Oil,,,,,
 Portugal,2017,1A4,Coal/peat,,,,,
 Portugal,2017,1A4,Natural gas,,,,,
 Portugal,2017,1A4,Oil,,,,,
-Portugal,2017,1A4A,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2017,1A4A,Coal/peat,,,,,
 Portugal,2017,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
-Portugal,2017,1A4B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2017,1A4B,Coal/peat,,,,,
 Portugal,2017,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A4C,Coal/peat,,,,,
 Portugal,2017,1A4C,Natural gas,,,,,
 Portugal,2017,1A4C,Oil,,,,,
-Portugal,2017,1A4C1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2017,1A4C1,Coal/peat,,,,,
 Portugal,2017,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
-Portugal,2017,1A4C2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2017,1A4C2,Coal/peat,,,,,
 Portugal,2017,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2017,1A4C3,Coal/peat,,,,,
@@ -8652,21 +8652,21 @@ Portugal,2018,1A1,Oil,,,,,
 Portugal,2018,1A1A,Coal/peat,,,,,
 Portugal,2018,1A1A,Natural gas,,,,,
 Portugal,2018,1A1A,Oil,,,,,
-Portugal,2018,1A1A1,Coal/peat,,leg(EC[2018]),,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A1,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A1A1,Natural gas,,leg(EC[2018]),,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A1A1,Oil,,leg(EC[2018]),,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A3,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1C,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A3,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1B,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1C,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A2,Coal/peat,,,,,
 Portugal,2018,1A2,Natural gas,,,,,
 Portugal,2018,1A2,Oil,,,,,
@@ -8715,15 +8715,15 @@ Portugal,2018,1A3,Oil,,,,,
 Portugal,2018,1A3A,Coal/peat,,,,,
 Portugal,2018,1A3A,Natural gas,,,,,
 Portugal,2018,1A3A,Oil,,,,,
-Portugal,2018,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2018,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2018,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",
+Portugal,2018,1A3A1,Coal/peat,,,,,
+Portugal,2018,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",
+Portugal,2018,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",
 Portugal,2018,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2018,1A3B,Coal/peat,,,,,
+Portugal,2018,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2018,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2018,1A3C,Coal/peat,,,,,
 Portugal,2018,1A3C,Natural gas,,,,,
 Portugal,2018,1A3C,Oil,,,,,
@@ -8745,21 +8745,21 @@ Portugal,2018,1A3E1,Oil,,,,,
 Portugal,2018,1A4,Coal/peat,,,,,
 Portugal,2018,1A4,Natural gas,,,,,
 Portugal,2018,1A4,Oil,,,,,
-Portugal,2018,1A4A,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2018,1A4A,Coal/peat,,,,,
+Portugal,2018,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2018,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2018,1A4B,Coal/peat,,,,,
+Portugal,2018,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2018,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2018,1A4C,Coal/peat,,,,,
 Portugal,2018,1A4C,Natural gas,,,,,
 Portugal,2018,1A4C,Oil,,,,,
-Portugal,2018,1A4C1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4C2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2018,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2018,1A4C1,Coal/peat,,,,,
+Portugal,2018,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2018,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2018,1A4C2,Coal/peat,,,,,
+Portugal,2018,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2018,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2018,1A4C3,Coal/peat,,,,,
 Portugal,2018,1A4C3,Natural gas,,,,,
 Portugal,2018,1A4C3,Oil,,,,,
@@ -8950,21 +8950,21 @@ Portugal,2019,1A1,Oil,,,,,
 Portugal,2019,1A1A,Coal/peat,,,,,
 Portugal,2019,1A1A,Natural gas,,,,,
 Portugal,2019,1A1A,Oil,,,,,
-Portugal,2019,1A1A1,Coal/peat,,leg(EC[2018]),,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1A1,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2019,1A1A1,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2019,1A1A1,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1A2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1A3,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1C,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1A3,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1B,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1C,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2019,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2019,1A2,Coal/peat,,,,,
 Portugal,2019,1A2,Natural gas,,,,,
 Portugal,2019,1A2,Oil,,,,,
@@ -9013,15 +9013,15 @@ Portugal,2019,1A3,Oil,,,,,
 Portugal,2019,1A3A,Coal/peat,,,,,
 Portugal,2019,1A3A,Natural gas,,,,,
 Portugal,2019,1A3A,Oil,,,,,
-Portugal,2019,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2019,1A3A1,Coal/peat,,,,,
+Portugal,2019,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2019,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2019,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2019,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2019,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2019,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2019,1A3B,Coal/peat,,,,,
+Portugal,2019,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2019,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2019,1A3C,Coal/peat,,,,,
 Portugal,2019,1A3C,Natural gas,,,,,
 Portugal,2019,1A3C,Oil,,,,,
@@ -9043,21 +9043,21 @@ Portugal,2019,1A3E1,Oil,,,,,
 Portugal,2019,1A4,Coal/peat,,,,,
 Portugal,2019,1A4,Natural gas,,,,,
 Portugal,2019,1A4,Oil,,,,,
-Portugal,2019,1A4A,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2019,1A4A,Coal/peat,,,,,
+Portugal,2019,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2019,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2019,1A4B,Coal/peat,,,,,
+Portugal,2019,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2019,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2019,1A4C,Coal/peat,,,,,
 Portugal,2019,1A4C,Natural gas,,,,,
 Portugal,2019,1A4C,Oil,,,,,
-Portugal,2019,1A4C1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4C2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2019,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2019,1A4C1,Coal/peat,,,,,
+Portugal,2019,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2019,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2019,1A4C2,Coal/peat,,,,,
+Portugal,2019,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2019,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2019,1A4C3,Coal/peat,,,,,
 Portugal,2019,1A4C3,Natural gas,,,,,
 Portugal,2019,1A4C3,Oil,,,,,
@@ -9248,21 +9248,21 @@ Portugal,2020,1A1,Oil,,,,,
 Portugal,2020,1A1A,Coal/peat,,,,,
 Portugal,2020,1A1A,Natural gas,,,,,
 Portugal,2020,1A1A,Oil,,,,,
-Portugal,2020,1A1A1,Coal/peat,,"leg(EC[2018], EC[2020])",,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1A1,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2020,1A1A1,Natural gas,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2020,1A1A1,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1A2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1A3,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1C,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1A3,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1B,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1C,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2020,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2020,1A2,Coal/peat,,,,,
 Portugal,2020,1A2,Natural gas,,,,,
 Portugal,2020,1A2,Oil,,,,,
@@ -9311,15 +9311,15 @@ Portugal,2020,1A3,Oil,,,,,
 Portugal,2020,1A3A,Coal/peat,,,,,
 Portugal,2020,1A3A,Natural gas,,,,,
 Portugal,2020,1A3A,Oil,,,,,
-Portugal,2020,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2020,1A3A1,Coal/peat,,,,,
+Portugal,2020,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2020,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2020,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2020,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2020,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2020,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2020,1A3B,Coal/peat,,,,,
+Portugal,2020,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2020,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2020,1A3C,Coal/peat,,,,,
 Portugal,2020,1A3C,Natural gas,,,,,
 Portugal,2020,1A3C,Oil,,,,,
@@ -9341,21 +9341,21 @@ Portugal,2020,1A3E1,Oil,,,,,
 Portugal,2020,1A4,Coal/peat,,,,,
 Portugal,2020,1A4,Natural gas,,,,,
 Portugal,2020,1A4,Oil,,,,,
-Portugal,2020,1A4A,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2020,1A4A,Coal/peat,,,,,
+Portugal,2020,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2020,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2020,1A4B,Coal/peat,,,,,
+Portugal,2020,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2020,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2020,1A4C,Coal/peat,,,,,
 Portugal,2020,1A4C,Natural gas,,,,,
 Portugal,2020,1A4C,Oil,,,,,
-Portugal,2020,1A4C1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4C2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
-Portugal,2020,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",,
+Portugal,2020,1A4C1,Coal/peat,,,,,
+Portugal,2020,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2020,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2020,1A4C2,Coal/peat,,,,,
+Portugal,2020,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
+Portugal,2020,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,report(IEA-EPT[2020]); ,,
 Portugal,2020,1A4C3,Coal/peat,,,,,
 Portugal,2020,1A4C3,Natural gas,,,,,
 Portugal,2020,1A4C3,Oil,,,,,
@@ -9549,18 +9549,18 @@ Portugal,2021,1A1A,Oil,,,,,
 Portugal,2021,1A1A1,Coal/peat,,"leg(EC[2018], EC[2020])",,,
 Portugal,2021,1A1A1,Natural gas,,"leg(EC[2018], EC[2020])",,,
 Portugal,2021,1A1A1,Oil,,"leg(EC[2018], EC[2020])",,,
-Portugal,2021,1A1A2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,"leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2021,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,"leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2021,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,"leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2021,1A1A3,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,"leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2021,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,"leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2021,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,"leg(PRT[2014], PRT[2016], PRT[2018])",
-Portugal,2021,1A1B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,,
-Portugal,2021,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,,
-Portugal,2021,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,,
-Portugal,2021,1A1C,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,,
-Portugal,2021,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,,
-Portugal,2021,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",,,
+Portugal,2021,1A1A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,
+Portugal,2021,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",
+Portugal,2021,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",
+Portugal,2021,1A1A3,Coal/peat,,"leg(EC[2018], EC[2020])",,,
+Portugal,2021,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",
+Portugal,2021,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",
+Portugal,2021,1A1B,Coal/peat,,"leg(EC[2018], EC[2020])",,,
+Portugal,2021,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,,
+Portugal,2021,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,,
+Portugal,2021,1A1C,Coal/peat,,"leg(EC[2018], EC[2020])",,,
+Portugal,2021,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,,
+Portugal,2021,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,,
 Portugal,2021,1A2,Coal/peat,,,,,
 Portugal,2021,1A2,Natural gas,,,,,
 Portugal,2021,1A2,Oil,,,,,
@@ -9609,15 +9609,15 @@ Portugal,2021,1A3,Oil,,,,,
 Portugal,2021,1A3A,Coal/peat,,,,,
 Portugal,2021,1A3A,Natural gas,,,,,
 Portugal,2021,1A3A,Oil,,,,,
-Portugal,2021,1A3A1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,,,
+Portugal,2021,1A3A1,Coal/peat,,,,,
+Portugal,2021,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
+Portugal,2021,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
 Portugal,2021,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,
 Portugal,2021,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,
 Portugal,2021,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,
-Portugal,2021,1A3B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,,,
+Portugal,2021,1A3B,Coal/peat,,,,,
+Portugal,2021,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
+Portugal,2021,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
 Portugal,2021,1A3C,Coal/peat,,,,,
 Portugal,2021,1A3C,Natural gas,,,,,
 Portugal,2021,1A3C,Oil,,,,,
@@ -9639,21 +9639,21 @@ Portugal,2021,1A3E1,Oil,,,,,
 Portugal,2021,1A4,Coal/peat,,,,,
 Portugal,2021,1A4,Natural gas,,,,,
 Portugal,2021,1A4,Oil,,,,,
-Portugal,2021,1A4A,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4B,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,,,
+Portugal,2021,1A4A,Coal/peat,,,,,
+Portugal,2021,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
+Portugal,2021,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
+Portugal,2021,1A4B,Coal/peat,,,,,
+Portugal,2021,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
+Portugal,2021,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
 Portugal,2021,1A4C,Coal/peat,,,,,
 Portugal,2021,1A4C,Natural gas,,,,,
 Portugal,2021,1A4C,Oil,,,,,
-Portugal,2021,1A4C1,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4C2,Coal/peat,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,,,
-Portugal,2021,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,,,
+Portugal,2021,1A4C1,Coal/peat,,,,,
+Portugal,2021,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
+Portugal,2021,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
+Portugal,2021,1A4C2,Coal/peat,,,,,
+Portugal,2021,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
+Portugal,2021,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",,; ,,
 Portugal,2021,1A4C3,Coal/peat,,,,,
 Portugal,2021,1A4C3,Natural gas,,,,,
 Portugal,2021,1A4C3,Oil,,,,,

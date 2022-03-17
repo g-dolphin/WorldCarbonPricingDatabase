@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Latvia,1989,0,,,,,,
 Latvia,1989,1,,,,,,
 Latvia,1989,1A,Coal/peat,,,,,
@@ -4480,13 +4480,13 @@ Latvia,2004,1A1,Oil,,,,,
 Latvia,2004,1A1A,Coal/peat,,,,,
 Latvia,2004,1A1A,Natural gas,,,,,
 Latvia,2004,1A1A,Oil,,,,,
-Latvia,2004,1A1A1,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A1A1,Coal/peat,,,,,
 Latvia,2004,1A1A1,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A1A1,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A1A2,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A1A2,Coal/peat,,,,,
 Latvia,2004,1A1A2,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A1A2,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A1A3,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A1A3,Coal/peat,,,,,
 Latvia,2004,1A1A3,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A1A3,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A1B,Coal/peat,,,,,
@@ -4498,43 +4498,43 @@ Latvia,2004,1A1C,Oil,,,,,
 Latvia,2004,1A2,Coal/peat,,,,,
 Latvia,2004,1A2,Natural gas,,,,,
 Latvia,2004,1A2,Oil,,,,,
-Latvia,2004,1A2A,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2A,Coal/peat,,,,,
 Latvia,2004,1A2A,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2A,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2B,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2B,Coal/peat,,,,,
 Latvia,2004,1A2B,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2B,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2C,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2C,Coal/peat,,,,,
 Latvia,2004,1A2C,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2C,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2D,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2D,Coal/peat,,,,,
 Latvia,2004,1A2D,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2D,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2E,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2E,Coal/peat,,,,,
 Latvia,2004,1A2E,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2E,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2F,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2F,Coal/peat,,,,,
 Latvia,2004,1A2F,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2F,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2G,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2G,Coal/peat,,,,,
 Latvia,2004,1A2G,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2G,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2H,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2H,Coal/peat,,,,,
 Latvia,2004,1A2H,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2H,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2I,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2I,Coal/peat,,,,,
 Latvia,2004,1A2I,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2I,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2J,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2J,Coal/peat,,,,,
 Latvia,2004,1A2J,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2J,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2K,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2K,Coal/peat,,,,,
 Latvia,2004,1A2K,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2K,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2L,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2L,Coal/peat,,,,,
 Latvia,2004,1A2L,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2L,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
-Latvia,2004,1A2M,Coal/peat,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
+Latvia,2004,1A2M,Coal/peat,,,,,
 Latvia,2004,1A2M,Natural gas,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A2M,Oil,leg(LV-NRTL[2005]),,leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,
 Latvia,2004,1A3,Coal/peat,,,,,
@@ -4778,13 +4778,13 @@ Latvia,2005,1A1,Oil,,,,,
 Latvia,2005,1A1A,Coal/peat,,,,,
 Latvia,2005,1A1A,Natural gas,,,,,
 Latvia,2005,1A1A,Oil,,,,,
-Latvia,2005,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -4796,43 +4796,43 @@ Latvia,2005,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2005,1A2,Coal/peat,,,,,
 Latvia,2005,1A2,Natural gas,,,,,
 Latvia,2005,1A2,Oil,,,,,
-Latvia,2005,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2005,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2005,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2004]); the tax rate had yet to become effective,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2005,1A3,Coal/peat,,,,,
@@ -5076,13 +5076,13 @@ Latvia,2006,1A1,Oil,,,,,
 Latvia,2006,1A1A,Coal/peat,,,,,
 Latvia,2006,1A1A,Natural gas,,,,,
 Latvia,2006,1A1A,Oil,,,,,
-Latvia,2006,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -5094,43 +5094,43 @@ Latvia,2006,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2006,1A2,Coal/peat,,,,,
 Latvia,2006,1A2,Natural gas,,,,,
 Latvia,2006,1A2,Oil,,,,,
-Latvia,2006,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2006,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2006,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2006,1A3,Coal/peat,,,,,
@@ -5374,13 +5374,13 @@ Latvia,2007,1A1,Oil,,,,,
 Latvia,2007,1A1A,Coal/peat,,,,,
 Latvia,2007,1A1A,Natural gas,,,,,
 Latvia,2007,1A1A,Oil,,,,,
-Latvia,2007,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -5392,43 +5392,43 @@ Latvia,2007,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2007,1A2,Coal/peat,,,,,
 Latvia,2007,1A2,Natural gas,,,,,
 Latvia,2007,1A2,Oil,,,,,
-Latvia,2007,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2007,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2007,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2007,1A3,Coal/peat,,,,,
@@ -5672,13 +5672,13 @@ Latvia,2008,1A1,Oil,,,,,
 Latvia,2008,1A1A,Coal/peat,,,,,
 Latvia,2008,1A1A,Natural gas,,,,,
 Latvia,2008,1A1A,Oil,,,,,
-Latvia,2008,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -5690,43 +5690,43 @@ Latvia,2008,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2008,1A2,Coal/peat,,,,,
 Latvia,2008,1A2,Natural gas,,,,,
 Latvia,2008,1A2,Oil,,,,,
-Latvia,2008,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2008,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2008,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2006]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2008,1A3,Coal/peat,,,,,
@@ -5970,13 +5970,13 @@ Latvia,2009,1A1,Oil,,,,,
 Latvia,2009,1A1A,Coal/peat,,,,,
 Latvia,2009,1A1A,Natural gas,,,,,
 Latvia,2009,1A1A,Oil,,,,,
-Latvia,2009,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -5988,43 +5988,43 @@ Latvia,2009,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2009,1A2,Coal/peat,,,,,
 Latvia,2009,1A2,Natural gas,,,,,
 Latvia,2009,1A2,Oil,,,,,
-Latvia,2009,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2009,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2009,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2009]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2009,1A3,Coal/peat,,,,,
@@ -6268,13 +6268,13 @@ Latvia,2010,1A1,Oil,,,,,
 Latvia,2010,1A1A,Coal/peat,,,,,
 Latvia,2010,1A1A,Natural gas,,,,,
 Latvia,2010,1A1A,Oil,,,,,
-Latvia,2010,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -6286,43 +6286,43 @@ Latvia,2010,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2010,1A2,Coal/peat,,,,,
 Latvia,2010,1A2,Natural gas,,,,,
 Latvia,2010,1A2,Oil,,,,,
-Latvia,2010,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2010,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2010,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2010,1A3,Coal/peat,,,,,
@@ -6566,13 +6566,13 @@ Latvia,2011,1A1,Oil,,,,,
 Latvia,2011,1A1A,Coal/peat,,,,,
 Latvia,2011,1A1A,Natural gas,,,,,
 Latvia,2011,1A1A,Oil,,,,,
-Latvia,2011,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A1A1,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A1A2,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A1A3,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A1B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -6584,43 +6584,43 @@ Latvia,2011,1A1C,Oil,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2011,1A2,Coal/peat,,,,,
 Latvia,2011,1A2,Natural gas,,,,,
 Latvia,2011,1A2,Oil,,,,,
-Latvia,2011,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2A,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2B,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2C,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2D,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2E,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2F,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2G,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2H,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2I,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2J,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2K,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2L,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2011,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2011,1A2M,Coal/peat,,leg(EC[2003]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2003]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2011,1A3,Coal/peat,,,,,
@@ -6864,13 +6864,13 @@ Latvia,2012,1A1,Oil,,,,,
 Latvia,2012,1A1A,Coal/peat,,,,,
 Latvia,2012,1A1A,Natural gas,,,,,
 Latvia,2012,1A1A,Oil,,,,,
-Latvia,2012,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -6882,43 +6882,43 @@ Latvia,2012,1A1C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2012,1A2,Coal/peat,,,,,
 Latvia,2012,1A2,Natural gas,,,,,
 Latvia,2012,1A2,Oil,,,,,
-Latvia,2012,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2012,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2012,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2012,1A3,Coal/peat,,,,,
@@ -7162,13 +7162,13 @@ Latvia,2013,1A1,Oil,,,,,
 Latvia,2013,1A1A,Coal/peat,,,,,
 Latvia,2013,1A1A,Natural gas,,,,,
 Latvia,2013,1A1A,Oil,,,,,
-Latvia,2013,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -7180,43 +7180,43 @@ Latvia,2013,1A1C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2013,1A2,Coal/peat,,,,,
 Latvia,2013,1A2,Natural gas,,,,,
 Latvia,2013,1A2,Oil,,,,,
-Latvia,2013,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2013,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2013,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2013,1A3,Coal/peat,,,,,
@@ -7460,13 +7460,13 @@ Latvia,2014,1A1,Oil,,,,,
 Latvia,2014,1A1A,Coal/peat,,,,,
 Latvia,2014,1A1A,Natural gas,,,,,
 Latvia,2014,1A1A,Oil,,,,,
-Latvia,2014,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -7478,43 +7478,43 @@ Latvia,2014,1A1C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2014,1A2,Coal/peat,,,,,
 Latvia,2014,1A2,Natural gas,,,,,
 Latvia,2014,1A2,Oil,,,,,
-Latvia,2014,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2014,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2014,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2014,1A3,Coal/peat,,,,,
@@ -7758,13 +7758,13 @@ Latvia,2015,1A1,Oil,,,,,
 Latvia,2015,1A1A,Coal/peat,,,,,
 Latvia,2015,1A1A,Natural gas,,,,,
 Latvia,2015,1A1A,Oil,,,,,
-Latvia,2015,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -7776,43 +7776,43 @@ Latvia,2015,1A1C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2015,1A2,Coal/peat,,,,,
 Latvia,2015,1A2,Natural gas,,,,,
 Latvia,2015,1A2,Oil,,,,,
-Latvia,2015,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2015,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2015,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),leg(LVA-NRTL[2010]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2015,1A3,Coal/peat,,,,,
@@ -8056,13 +8056,13 @@ Latvia,2016,1A1,Oil,,,,,
 Latvia,2016,1A1A,Coal/peat,,,,,
 Latvia,2016,1A1A,Natural gas,,,,,
 Latvia,2016,1A1A,Oil,,,,,
-Latvia,2016,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8074,43 +8074,43 @@ Latvia,2016,1A1C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2016,1A2,Coal/peat,,,,,
 Latvia,2016,1A2,Natural gas,,,,,
 Latvia,2016,1A2,Oil,,,,,
-Latvia,2016,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2016,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2016,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2016,1A3,Coal/peat,,,,,
@@ -8354,13 +8354,13 @@ Latvia,2017,1A1,Oil,,,,,
 Latvia,2017,1A1A,Coal/peat,,,,,
 Latvia,2017,1A1A,Natural gas,,,,,
 Latvia,2017,1A1A,Oil,,,,,
-Latvia,2017,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8372,43 +8372,43 @@ Latvia,2017,1A1C,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2017,1A2,Coal/peat,,,,,
 Latvia,2017,1A2,Natural gas,,,,,
 Latvia,2017,1A2,Oil,,,,,
-Latvia,2017,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2A,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2D,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2E,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2F,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2G,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2H,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2I,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2J,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2K,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2L,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2017,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2017,1A2M,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2014]),report(WB[2017]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2017,1A3,Coal/peat,,,,,
@@ -8652,13 +8652,13 @@ Latvia,2018,1A1,Oil,,,,,
 Latvia,2018,1A1A,Coal/peat,,,,,
 Latvia,2018,1A1A,Natural gas,,,,,
 Latvia,2018,1A1A,Oil,,,,,
-Latvia,2018,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A1A1,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A1A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A1A3,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A1B,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8670,43 +8670,43 @@ Latvia,2018,1A1C,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2018,1A2,Coal/peat,,,,,
 Latvia,2018,1A2,Natural gas,,,,,
 Latvia,2018,1A2,Oil,,,,,
-Latvia,2018,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2A,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2B,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2C,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2D,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2E,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2F,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2G,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2H,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2I,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2J,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2K,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2L,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2018,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2018,1A2M,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2018,1A3,Coal/peat,,,,,
@@ -8950,13 +8950,13 @@ Latvia,2019,1A1,Oil,,,,,
 Latvia,2019,1A1A,Coal/peat,,,,,
 Latvia,2019,1A1A,Natural gas,,,,,
 Latvia,2019,1A1A,Oil,,,,,
-Latvia,2019,1A1A1,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A1A1,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A1A1,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A1A1,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A1A2,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A1A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A1A2,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A1A2,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A1A3,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A1A3,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A1A3,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A1A3,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A1B,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8968,43 +8968,43 @@ Latvia,2019,1A1C,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of dail
 Latvia,2019,1A2,Coal/peat,,,,,
 Latvia,2019,1A2,Natural gas,,,,,
 Latvia,2019,1A2,Oil,,,,,
-Latvia,2019,1A2A,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2A,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2A,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2A,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2B,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2B,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2B,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2B,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2C,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2C,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2C,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2C,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2D,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2D,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2D,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2D,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2E,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2E,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2E,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2E,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2F,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2F,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2F,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2F,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2G,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2G,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2G,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2G,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2H,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2H,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2H,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2H,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2I,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2I,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2I,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2I,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2J,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2J,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2J,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2J,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2K,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2K,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2K,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2K,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2L,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2L,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2L,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2L,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2019,1A2M,Coal/peat,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2019,1A2M,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2M,Natural gas,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A2M,Oil,leg(LV-NRTL[2005]),leg(EC[2018]),"report(WB[2017]), db(WBCPD[2020]); ",,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2019,1A3,Coal/peat,,,,,
@@ -9248,13 +9248,13 @@ Latvia,2020,1A1,Oil,,,,,
 Latvia,2020,1A1A,Coal/peat,,,,,
 Latvia,2020,1A1A,Natural gas,,,,,
 Latvia,2020,1A1A,Oil,,,,,
-Latvia,2020,1A1A1,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A1A1,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A1A1,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A1A1,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A1A2,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A1A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A1A2,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A1A2,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A1A3,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A1A3,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A1A3,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A1A3,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A1B,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -9266,43 +9266,43 @@ Latvia,2020,1A1C,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly ave
 Latvia,2020,1A2,Coal/peat,,,,,
 Latvia,2020,1A2,Natural gas,,,,,
 Latvia,2020,1A2,Oil,,,,,
-Latvia,2020,1A2A,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2A,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2A,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2A,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2B,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2B,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2B,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2B,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2C,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2C,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2C,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2C,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2D,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2D,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2D,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2D,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2E,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2E,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2E,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2E,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2F,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2F,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2F,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2F,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2G,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2G,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2G,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2G,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2H,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2H,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2H,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2H,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2I,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2I,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2I,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2I,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2J,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2J,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2J,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2J,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2K,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2K,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2K,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2K,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2L,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2L,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2L,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2L,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Latvia,2020,1A2M,Coal/peat,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Latvia,2020,1A2M,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2M,Natural gas,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A2M,Oil,leg(LV-NRTL[2005]),"leg(EC[2018], EC[2020])",db(WBCPD[2020]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Latvia,2020,1A3,Coal/peat,,,,,

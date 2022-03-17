@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 United Kingdom,1989,0,,,,,,
 United Kingdom,1989,1,,,,,,
 United Kingdom,1989,1A,Coal/peat,,,,,
@@ -7162,10 +7162,10 @@ United Kingdom,2013,1A1,Oil,,,,,
 United Kingdom,2013,1A1A,Coal/peat,,,,,
 United Kingdom,2013,1A1A,Natural gas,,,,,
 United Kingdom,2013,1A1A,Oil,,,,,
-United Kingdom,2013,1A1A1,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2013,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2013,1A1A1,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2013,1A1A1,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-United Kingdom,2013,1A1A2,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2013,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2013,1A1A2,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2013,1A1A2,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2013,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -7460,10 +7460,10 @@ United Kingdom,2014,1A1,Oil,,,,,
 United Kingdom,2014,1A1A,Coal/peat,,,,,
 United Kingdom,2014,1A1A,Natural gas,,,,,
 United Kingdom,2014,1A1A,Oil,,,,,
-United Kingdom,2014,1A1A1,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2014,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2014,1A1A1,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2014,1A1A1,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-United Kingdom,2014,1A1A2,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2014,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2014,1A1A2,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2014,1A1A2,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2014,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -7758,10 +7758,10 @@ United Kingdom,2015,1A1,Oil,,,,,
 United Kingdom,2015,1A1A,Coal/peat,,,,,
 United Kingdom,2015,1A1A,Natural gas,,,,,
 United Kingdom,2015,1A1A,Oil,,,,,
-United Kingdom,2015,1A1A1,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2015,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2015,1A1A1,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2015,1A1A1,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-United Kingdom,2015,1A1A2,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2015,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2015,1A1A2,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2015,1A1A2,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2015,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8056,10 +8056,10 @@ United Kingdom,2016,1A1,Oil,,,,,
 United Kingdom,2016,1A1A,Coal/peat,,,,,
 United Kingdom,2016,1A1A,Natural gas,,,,,
 United Kingdom,2016,1A1A,Oil,,,,,
-United Kingdom,2016,1A1A1,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2016,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2016,1A1A1,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2016,1A1A1,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-United Kingdom,2016,1A1A2,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2016,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2016,1A1A2,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2016,1A1A2,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2016,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8354,10 +8354,10 @@ United Kingdom,2017,1A1,Oil,,,,,
 United Kingdom,2017,1A1A,Coal/peat,,,,,
 United Kingdom,2017,1A1A,Natural gas,,,,,
 United Kingdom,2017,1A1A,Oil,,,,,
-United Kingdom,2017,1A1A1,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2017,1A1A1,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2017,1A1A1,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2017,1A1A1,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-United Kingdom,2017,1A1A2,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2017,1A1A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2017,1A1A2,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2017,1A1A2,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2014]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2017,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8652,10 +8652,10 @@ United Kingdom,2018,1A1,Oil,,,,,
 United Kingdom,2018,1A1A,Coal/peat,,,,,
 United Kingdom,2018,1A1A,Natural gas,,,,,
 United Kingdom,2018,1A1A,Oil,,,,,
-United Kingdom,2018,1A1A1,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2018,1A1A1,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2018,1A1A1,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2018,1A1A1,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-United Kingdom,2018,1A1A2,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2018,1A1A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2018,1A1A2,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2018,1A1A2,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2018,1A1A3,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8950,10 +8950,10 @@ United Kingdom,2019,1A1,Oil,,,,,
 United Kingdom,2019,1A1A,Coal/peat,,,,,
 United Kingdom,2019,1A1A,Natural gas,,,,,
 United Kingdom,2019,1A1A,Oil,,,,,
-United Kingdom,2019,1A1A1,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2019,1A1A1,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2019,1A1A1,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2019,1A1A1,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-United Kingdom,2019,1A1A2,Coal/peat,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2019,1A1A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2019,1A1A2,Natural gas,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2019,1A1A2,Oil,"leg(UK[2013a], UK[2013b])",leg(EC[2018]),gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2019,1A1A3,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -9248,10 +9248,10 @@ United Kingdom,2020,1A1,Oil,,,,,
 United Kingdom,2020,1A1A,Coal/peat,,,,,
 United Kingdom,2020,1A1A,Natural gas,,,,,
 United Kingdom,2020,1A1A,Oil,,,,,
-United Kingdom,2020,1A1A1,Coal/peat,"leg(UK[2013a], UK[2013b])","leg(EC[2018], EC[2020])",gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2020,1A1A1,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2020,1A1A1,Natural gas,"leg(UK[2013a], UK[2013b])","leg(EC[2018], EC[2020])",gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2020,1A1A1,Oil,"leg(UK[2013a], UK[2013b])","leg(EC[2018], EC[2020])",gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-United Kingdom,2020,1A1A2,Coal/peat,"leg(UK[2013a], UK[2013b])","leg(EC[2018], EC[2020])",gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+United Kingdom,2020,1A1A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2020,1A1A2,Natural gas,"leg(UK[2013a], UK[2013b])","leg(EC[2018], EC[2020])",gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2020,1A1A2,Oil,"leg(UK[2013a], UK[2013b])","leg(EC[2018], EC[2020])",gvt(UK-CPF[2021]); ,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 United Kingdom,2020,1A1A3,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP

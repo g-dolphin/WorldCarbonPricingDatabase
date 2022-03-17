@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 Switzerland,1989,0,,,,,,
 Switzerland,1989,1,,,,,,
 Switzerland,1989,1A,Coal/peat,,,,,
@@ -5675,10 +5675,10 @@ Switzerland,2008,1A1A,Oil,,,,,
 Switzerland,2008,1A1A1,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2008,1A1A1,Natural gas,,gvt(CH[2009]),,,
 Switzerland,2008,1A1A1,Oil,,gvt(CH[2009]),,,
-Switzerland,2008,1A1A2,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2008,1A1A2,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
-Switzerland,2008,1A1A3,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2008,1A1A3,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2008,1A1B,Coal/peat,,gvt(CH[2009]),,,
@@ -5768,7 +5768,7 @@ Switzerland,2008,1A4,Oil,,,,,
 Switzerland,2008,1A4A,Coal/peat,,,,,
 Switzerland,2008,1A4A,Natural gas,,,,,
 Switzerland,2008,1A4A,Oil,,,,,
-Switzerland,2008,1A4B,Coal/peat,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
+Switzerland,2008,1A4B,Coal/peat,,,,,
 Switzerland,2008,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2008,1A4B,Oil,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2008,1A4C,Coal/peat,,,,,
@@ -5973,10 +5973,10 @@ Switzerland,2009,1A1A,Oil,,,,,
 Switzerland,2009,1A1A1,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2009,1A1A1,Natural gas,,gvt(CH[2009]),,,
 Switzerland,2009,1A1A1,Oil,,gvt(CH[2009]),,,
-Switzerland,2009,1A1A2,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2009,1A1A2,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2009,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2009,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
-Switzerland,2009,1A1A3,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2009,1A1A3,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2009,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2009,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2009,1A1B,Coal/peat,,gvt(CH[2009]),,,
@@ -6066,7 +6066,7 @@ Switzerland,2009,1A4,Oil,,,,,
 Switzerland,2009,1A4A,Coal/peat,,,,,
 Switzerland,2009,1A4A,Natural gas,,,,,
 Switzerland,2009,1A4A,Oil,,,,,
-Switzerland,2009,1A4B,Coal/peat,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
+Switzerland,2009,1A4B,Coal/peat,,,,,
 Switzerland,2009,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2009,1A4B,Oil,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2009,1A4C,Coal/peat,,,,,
@@ -6271,10 +6271,10 @@ Switzerland,2010,1A1A,Oil,,,,,
 Switzerland,2010,1A1A1,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2010,1A1A1,Natural gas,,gvt(CH[2009]),,,
 Switzerland,2010,1A1A1,Oil,,gvt(CH[2009]),,,
-Switzerland,2010,1A1A2,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2010,1A1A2,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2010,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2010,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
-Switzerland,2010,1A1A3,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2010,1A1A3,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2010,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2010,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2010,1A1B,Coal/peat,,gvt(CH[2009]),,,
@@ -6364,7 +6364,7 @@ Switzerland,2010,1A4,Oil,,,,,
 Switzerland,2010,1A4A,Coal/peat,,,,,
 Switzerland,2010,1A4A,Natural gas,,,,,
 Switzerland,2010,1A4A,Oil,,,,,
-Switzerland,2010,1A4B,Coal/peat,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
+Switzerland,2010,1A4B,Coal/peat,,,,,
 Switzerland,2010,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2010,1A4B,Oil,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2010,1A4C,Coal/peat,,,,,
@@ -6569,10 +6569,10 @@ Switzerland,2011,1A1A,Oil,,,,,
 Switzerland,2011,1A1A1,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2011,1A1A1,Natural gas,,gvt(CH[2009]),,,
 Switzerland,2011,1A1A1,Oil,,gvt(CH[2009]),,,
-Switzerland,2011,1A1A2,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2011,1A1A2,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2011,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2011,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
-Switzerland,2011,1A1A3,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2011,1A1A3,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2011,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2011,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2011,1A1B,Coal/peat,,gvt(CH[2009]),,,
@@ -6662,7 +6662,7 @@ Switzerland,2011,1A4,Oil,,,,,
 Switzerland,2011,1A4A,Coal/peat,,,,,
 Switzerland,2011,1A4A,Natural gas,,,,,
 Switzerland,2011,1A4A,Oil,,,,,
-Switzerland,2011,1A4B,Coal/peat,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
+Switzerland,2011,1A4B,Coal/peat,,,,,
 Switzerland,2011,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2011,1A4B,Oil,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2011,1A4C,Coal/peat,,,,,
@@ -6867,10 +6867,10 @@ Switzerland,2012,1A1A,Oil,,,,,
 Switzerland,2012,1A1A1,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2012,1A1A1,Natural gas,,gvt(CH[2009]),,,
 Switzerland,2012,1A1A1,Oil,,gvt(CH[2009]),,,
-Switzerland,2012,1A1A2,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2012,1A1A2,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2012,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2012,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
-Switzerland,2012,1A1A3,Coal/peat,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
+Switzerland,2012,1A1A3,Coal/peat,,gvt(CH[2009]),,,
 Switzerland,2012,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2012,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,,
 Switzerland,2012,1A1B,Coal/peat,,gvt(CH[2009]),,,
@@ -6960,7 +6960,7 @@ Switzerland,2012,1A4,Oil,,,,,
 Switzerland,2012,1A4A,Coal/peat,,,,,
 Switzerland,2012,1A4A,Natural gas,,,,,
 Switzerland,2012,1A4A,Oil,,,,,
-Switzerland,2012,1A4B,Coal/peat,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
+Switzerland,2012,1A4B,Coal/peat,,,,,
 Switzerland,2012,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2012,1A4B,Oil,"gvt(CH[2005], CH[2009])",,report(GLOBE-SWI[2015]); ,,
 Switzerland,2012,1A4C,Coal/peat,,,,,
@@ -7165,10 +7165,10 @@ Switzerland,2013,1A1A,Oil,,,,,
 Switzerland,2013,1A1A1,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,
 Switzerland,2013,1A1A1,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,
 Switzerland,2013,1A1A1,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,
-Switzerland,2013,1A1A2,Coal/peat,"gvt(CH[2005], CH[2009])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,
+Switzerland,2013,1A1A2,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,
 Switzerland,2013,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2013,1A1A2,Oil,"gvt(CH[2005], CH[2009])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,
-Switzerland,2013,1A1A3,Coal/peat,"gvt(CH[2005], CH[2009])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,
+Switzerland,2013,1A1A3,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,
 Switzerland,2013,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2013,1A1A3,Oil,"gvt(CH[2005], CH[2009])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2013,1A1B,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,
@@ -7258,7 +7258,7 @@ Switzerland,2013,1A4,Oil,,,,,
 Switzerland,2013,1A4A,Coal/peat,,,,,
 Switzerland,2013,1A4A,Natural gas,,,,,
 Switzerland,2013,1A4A,Oil,,,,,
-Switzerland,2013,1A4B,Coal/peat,"gvt(CH[2005], CH[2009])",,"report(WB[2014],IEA-EPT[2018]); ",,
+Switzerland,2013,1A4B,Coal/peat,,,,,
 Switzerland,2013,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2013,1A4B,Oil,"gvt(CH[2005], CH[2009])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2013,1A4C,Coal/peat,,,,,
@@ -7463,10 +7463,10 @@ Switzerland,2014,1A1A,Oil,,,,,
 Switzerland,2014,1A1A1,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1A1,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1A1,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2014,1A1A2,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2014,1A1A2,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2014,1A1A3,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2014,1A1A3,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1B,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -7556,7 +7556,7 @@ Switzerland,2014,1A4,Oil,,,,,
 Switzerland,2014,1A4A,Coal/peat,,,,,
 Switzerland,2014,1A4A,Natural gas,,,,,
 Switzerland,2014,1A4A,Oil,,,,,
-Switzerland,2014,1A4B,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
+Switzerland,2014,1A4B,Coal/peat,,,,,
 Switzerland,2014,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2014,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2014,1A4C,Coal/peat,,,,,
@@ -7761,10 +7761,10 @@ Switzerland,2015,1A1A,Oil,,,,,
 Switzerland,2015,1A1A1,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1A1,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1A1,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2015,1A1A2,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2015,1A1A2,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2015,1A1A3,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2015,1A1A3,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1B,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -7854,7 +7854,7 @@ Switzerland,2015,1A4,Oil,,,,,
 Switzerland,2015,1A4A,Coal/peat,,,,,
 Switzerland,2015,1A4A,Natural gas,,,,,
 Switzerland,2015,1A4A,Oil,,,,,
-Switzerland,2015,1A4B,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
+Switzerland,2015,1A4B,Coal/peat,,,,,
 Switzerland,2015,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2015,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2015,1A4C,Coal/peat,,,,,
@@ -8059,10 +8059,10 @@ Switzerland,2016,1A1A,Oil,,,,,
 Switzerland,2016,1A1A1,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1A1,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1A1,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2016,1A1A2,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2016,1A1A2,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2016,1A1A3,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2016,1A1A3,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1B,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -8152,7 +8152,7 @@ Switzerland,2016,1A4,Oil,,,,,
 Switzerland,2016,1A4A,Coal/peat,,,,,
 Switzerland,2016,1A4A,Natural gas,,,,,
 Switzerland,2016,1A4A,Oil,,,,,
-Switzerland,2016,1A4B,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
+Switzerland,2016,1A4B,Coal/peat,,,,,
 Switzerland,2016,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2016,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2016,1A4C,Coal/peat,,,,,
@@ -8357,10 +8357,10 @@ Switzerland,2017,1A1A,Oil,,,,,
 Switzerland,2017,1A1A1,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1A1,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1A1,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2017,1A1A2,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2017,1A1A2,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2017,1A1A3,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2017,1A1A3,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])","report(WB[2014],IEA-EPT[2018]); ",,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1B,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -8450,7 +8450,7 @@ Switzerland,2017,1A4,Oil,,,,,
 Switzerland,2017,1A4A,Coal/peat,,,,,
 Switzerland,2017,1A4A,Natural gas,,,,,
 Switzerland,2017,1A4A,Oil,,,,,
-Switzerland,2017,1A4B,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
+Switzerland,2017,1A4B,Coal/peat,,,,,
 Switzerland,2017,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2017,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,"report(WB[2014],IEA-EPT[2018]); ",,
 Switzerland,2017,1A4C,Coal/peat,,,,,
@@ -8655,12 +8655,12 @@ Switzerland,2018,1A1A,Oil,,,,,
 Switzerland,2018,1A1A1,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2018,1A1A1,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2018,1A1A1,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A2,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A3,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A2,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A3,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2018,1A1B,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2018,1A1B,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2018,1A1B,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -8748,9 +8748,9 @@ Switzerland,2018,1A4,Oil,,,,,
 Switzerland,2018,1A4A,Coal/peat,,,,,
 Switzerland,2018,1A4A,Natural gas,,,,,
 Switzerland,2018,1A4A,Oil,,,,,
-Switzerland,2018,1A4B,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
-Switzerland,2018,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
-Switzerland,2018,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
+Switzerland,2018,1A4B,Coal/peat,,,,,
+Switzerland,2018,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,gvt(CH-OFEV[2018]); ,,
+Switzerland,2018,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,gvt(CH-OFEV[2018]); ,,
 Switzerland,2018,1A4C,Coal/peat,,,,,
 Switzerland,2018,1A4C,Natural gas,,,,,
 Switzerland,2018,1A4C,Oil,,,,,
@@ -8953,12 +8953,12 @@ Switzerland,2019,1A1A,Oil,,,,,
 Switzerland,2019,1A1A1,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2019,1A1A1,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2019,1A1A1,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A2,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A3,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A2,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A3,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2019,1A1B,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2019,1A1B,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2019,1A1B,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -9046,9 +9046,9 @@ Switzerland,2019,1A4,Oil,,,,,
 Switzerland,2019,1A4A,Coal/peat,,,,,
 Switzerland,2019,1A4A,Natural gas,,,,,
 Switzerland,2019,1A4A,Oil,,,,,
-Switzerland,2019,1A4B,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
-Switzerland,2019,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
-Switzerland,2019,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
+Switzerland,2019,1A4B,Coal/peat,,,,,
+Switzerland,2019,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,gvt(CH-OFEV[2018]); ,,
+Switzerland,2019,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,gvt(CH-OFEV[2018]); ,,
 Switzerland,2019,1A4C,Coal/peat,,,,,
 Switzerland,2019,1A4C,Natural gas,,,,,
 Switzerland,2019,1A4C,Oil,,,,,
@@ -9251,12 +9251,12 @@ Switzerland,2020,1A1A,Oil,,,,,
 Switzerland,2020,1A1A1,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1A1,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1A1,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A2,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A3,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",report(WB[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A2,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A3,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(CHE-CO2[2012],CHE-FARC[2013])",gvt(CH-OFEV[2018]); ,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1B,Coal/peat,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1B,Natural gas,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1B,Oil,,"leg(CHE-CO2[2012],CHE-FARC[2013])",,,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -9344,9 +9344,9 @@ Switzerland,2020,1A4,Oil,,,,,
 Switzerland,2020,1A4A,Coal/peat,,,,,
 Switzerland,2020,1A4A,Natural gas,,,,,
 Switzerland,2020,1A4A,Oil,,,,,
-Switzerland,2020,1A4B,Coal/peat,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
-Switzerland,2020,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
-Switzerland,2020,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,report(WB[2018]); ,,
+Switzerland,2020,1A4B,Coal/peat,,,,,
+Switzerland,2020,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",,gvt(CH-OFEV[2018]); ,,
+Switzerland,2020,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",,gvt(CH-OFEV[2018]); ,,
 Switzerland,2020,1A4C,Coal/peat,,,,,
 Switzerland,2020,1A4C,Natural gas,,,,,
 Switzerland,2020,1A4C,Oil,,,,,
