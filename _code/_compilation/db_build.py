@@ -83,18 +83,14 @@ all_jur_sources["year"] = all_jur_sources["year"].astype(int)
 
 #------------------------Primary:Emissions trading systems---------------------------#
 
-ets_1_list = {"CO2":["eu_ets", "nzl_ets", "che_ets", "kor_ets", "kaz_ets", 
-                     "us_ca_cat", "us_rggi", 'can_obps',
-                     "can_nl_ets", "can_ns_ets", "can_qc_cat", "can_ab_ets", "can_sk_ets",
-                     "chn_sh_ets",
-                     'chn_sz_ets', 'chn_sh_ets', 'chn_bj_ets', 'chn_gd_ets', 'chn_tj_ets', 
-                     'chn_hb_ets', 'chn_cq_ets', 'chn_fj_ets']}
-
 ets_prices = etsPricesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price")
 #ets_prices = ets_prices.loc[ets_prices.ghg==gas]
 
 ets_scope = etsScopeModule.scope()["data"]
 ets_scope_sources = etsScopeModule.scope()["sources"]
+
+ets_1_list = list(ets_scope.keys()) #list of identifiers of ETS covering the selected gas
+ets_1_list.remove("us_ma_ets") #second scheme
 
 def ets_db_values(scheme_list, scheme_no):
     
@@ -126,17 +122,9 @@ def ets_db_values(scheme_list, scheme_no):
             except:
                 print(scheme, yr)
 
-ets_db_values(ets_1_list[gas], "scheme_1")
+ets_db_values(ets_1_list, "scheme_1")
 
 #--------------------------------Primary:Carbon taxes--------------------------------#
-
-taxes_1_list = {"CO2":["can_ab_tax", "arg_tax", "can_bc_tax", "aus_tax", "can_tax_I",
-                       "can_tax_II", "chl_tax", "col_tax", "dnk_tax", "est_tax", "fin_tax",
-                       "fra_tax", "isl_tax", "irl_tax", "jpn_tax", "lva_tax", "lie_tax",
-                       "mex_tax", "can_nb_tax", "can_nl_tax", "can_nt_tax", "nor_tax_I",
-                       "nor_tax_II", "pol_tax", "prt_tax", "can_pe_tax", "sgp_tax",
-                       "slo_tax", "zaf_tax", "swe_tax", "che_tax", "gbr_tax",
-                       "ukr_tax"]} #, "mex_zac_tax", "esp_tax"
 
 tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/")
 tax_rates.rename(columns={"product":"em_type"}, inplace=True)
@@ -144,6 +132,8 @@ tax_rates = tax_rates.loc[tax_rates.ghg==gas]
 
 taxes_scope = taxScopeModule.scope()["data"]
 taxes_scope_sources = taxScopeModule.scope()["sources"]
+
+taxes_1_list = list(taxes_scope.keys()) # list of identifiers of taxes covering the selected gas
 
 def tax_db_values(scheme_list, scheme_no):
     
@@ -178,7 +168,7 @@ def tax_db_values(scheme_list, scheme_no):
             except:
                 print(scheme, yr)
  
-tax_db_values(taxes_1_list[gas], "scheme_1")
+tax_db_values(taxes_1_list, "scheme_1")
 
 #----------------------------Second pricing scheme----------------------#
 # NOTE: The "second pricing scheme" columns are only used when, for a given 
