@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 United States,1989,0,,,,,,
 United States,1989,1,,,,,,
 United States,1989,1A,Coal/peat,,,,,

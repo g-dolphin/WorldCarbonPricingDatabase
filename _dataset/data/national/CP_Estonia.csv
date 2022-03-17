@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_id,tax_rate_excl_ex_clcu,tax_ex_rate,tax_rate_incl_ex_clcu,tax_curr_code,ets_id,ets_price,ets_curr_code
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_id,tax_rate_excl_ex_clcu,tax_ex_rate,tax_rate_incl_ex_clcu,tax_curr_code,ets_id,ets_price,ets_curr_code
 Estonia,1989,0,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,1989,1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,1989,1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3288,13 +3288,13 @@ Estonia,2000,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2000,1A1A1,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A1A1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A1A1,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A1A1,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A1A2,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A1A2,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A1A2,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A1A3,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A1A3,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A1A3,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A1B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3306,43 +3306,43 @@ Estonia,2000,1A1C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2000,1A2A,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2A,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2A,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2B,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2B,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2B,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2C,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2C,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2C,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2D,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2D,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2D,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2D,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2E,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2E,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2E,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2F,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2F,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2F,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2F,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2G,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2G,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2G,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2G,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2H,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2H,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2H,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2H,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2I,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2I,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2I,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2I,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2J,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2J,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2J,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2J,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2K,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2K,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2K,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2K,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2L,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2L,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2L,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2L,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2000,1A2M,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2000,1A2M,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2000,1A2M,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A2M,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2000,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3586,13 +3586,13 @@ Estonia,2001,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2001,1A1A1,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A1A1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A1A1,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A1A1,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A1A2,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A1A2,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A1A2,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A1A3,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A1A3,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A1A3,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A1B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3604,43 +3604,43 @@ Estonia,2001,1A1C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2001,1A2A,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2A,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2A,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2B,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2B,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2B,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2C,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2C,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2C,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2D,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2D,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2D,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2D,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2E,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2E,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2E,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2F,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2F,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2F,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2F,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2G,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2G,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2G,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2G,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2H,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2H,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2H,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2H,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2I,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2I,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2I,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2I,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2J,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2J,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2J,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2J,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2K,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2K,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2K,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2K,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2L,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2L,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2L,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2L,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2001,1A2M,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2001,1A2M,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2001,1A2M,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A2M,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2001,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3884,13 +3884,13 @@ Estonia,2002,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2002,1A1A1,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A1A1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A1A1,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A1A1,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A1A2,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A1A2,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A1A2,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A1A3,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A1A3,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A1A3,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A1B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3902,43 +3902,43 @@ Estonia,2002,1A1C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2002,1A2A,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2A,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2A,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2B,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2B,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2B,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2C,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2C,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2C,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2D,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2D,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2D,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2D,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2E,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2E,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2E,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2F,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2F,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2F,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2F,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2G,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2G,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2G,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2G,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2H,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2H,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2H,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2H,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2I,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2I,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2I,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2I,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2J,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2J,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2J,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2J,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2K,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2K,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2K,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2K,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2L,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2L,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2L,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2L,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2002,1A2M,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2002,1A2M,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2002,1A2M,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A2M,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2002,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4182,13 +4182,13 @@ Estonia,2003,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2003,1A1A1,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A1A1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A1A1,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A1A1,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A1A2,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A1A2,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A1A2,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A1A3,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A1A3,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A1A3,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A1B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4200,43 +4200,43 @@ Estonia,2003,1A1C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2003,1A2A,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2A,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2A,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2B,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2B,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2B,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2C,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2C,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2C,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2D,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2D,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2D,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2D,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2E,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2E,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2E,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2F,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2F,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2F,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2F,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2G,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2G,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2G,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2G,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2H,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2H,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2H,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2H,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2I,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2I,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2I,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2I,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2J,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2J,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2J,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2J,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2K,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2K,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2K,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2K,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2L,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2L,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2L,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2L,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2003,1A2M,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2003,1A2M,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2003,1A2M,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A2M,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2003,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4480,13 +4480,13 @@ Estonia,2004,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2004,1A1A1,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A1A1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A1A1,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A1A1,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A1A2,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A1A2,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A1A2,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A1A3,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A1A3,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A1A3,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A1B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4498,43 +4498,43 @@ Estonia,2004,1A1C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2004,1A2A,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2A,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2A,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2B,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2B,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2B,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2C,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2C,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2C,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2D,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2D,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2D,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2D,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2E,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2E,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2E,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2F,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2F,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2F,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2F,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2G,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2G,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2G,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2G,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2H,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2H,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2H,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2H,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2I,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2I,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2I,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2I,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2J,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2J,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2J,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2J,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2K,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2K,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2K,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2K,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2L,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2L,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2L,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2L,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
-Estonia,2004,1A2M,Coal/peat,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
+Estonia,2004,1A2M,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2004,1A2M,Natural gas,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A2M,Oil,1.0,0.0,est_tax,5.0,0.0,5.0,EEK,NA,NA,NA
 Estonia,2004,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4778,13 +4778,13 @@ Estonia,2005,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2005,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2005,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2005,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2005,1A1A1,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A1A1,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A1A1,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A1A2,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A1A2,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A1A2,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A1A3,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A1A3,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A1A3,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
@@ -4796,43 +4796,43 @@ Estonia,2005,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2005,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2005,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2005,1A2A,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2A,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2A,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2B,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2B,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2B,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2C,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2C,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2C,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2D,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2D,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2D,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2E,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2E,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2E,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2F,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2F,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2F,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2G,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2G,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2G,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2H,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2H,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2H,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2I,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2I,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2I,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2J,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2J,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2J,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2K,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2K,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2K,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2L,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2L,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2L,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
-Estonia,2005,1A2M,Coal/peat,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
+Estonia,2005,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,21.56,EUR
 Estonia,2005,1A2M,Natural gas,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A2M,Oil,1.0,1.0,est_tax,11.3,0.0,11.3,EEK,eu_ets,21.56,EUR
 Estonia,2005,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5076,13 +5076,13 @@ Estonia,2006,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2006,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2006,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2006,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2006,1A1A1,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A1A1,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A1A1,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A1A2,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A1A2,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A1A2,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A1A3,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A1A3,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A1A3,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
@@ -5094,43 +5094,43 @@ Estonia,2006,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2006,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2006,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2006,1A2A,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2A,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2A,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2B,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2B,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2B,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2C,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2C,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2C,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2D,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2D,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2D,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2E,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2E,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2E,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2F,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2F,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2F,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2G,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2G,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2G,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2H,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2H,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2H,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2I,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2I,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2I,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2J,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2J,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2J,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2K,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2K,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2K,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2L,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2L,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2L,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
-Estonia,2006,1A2M,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
+Estonia,2006,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,18.01,EUR
 Estonia,2006,1A2M,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A2M,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,18.01,EUR
 Estonia,2006,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5374,13 +5374,13 @@ Estonia,2007,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2007,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2007,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2007,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2007,1A1A1,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A1A1,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A1A1,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A1A2,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A1A2,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A1A2,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A1A3,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A1A3,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A1A3,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
@@ -5392,43 +5392,43 @@ Estonia,2007,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2007,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2007,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2007,1A2A,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2A,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2A,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2B,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2B,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2B,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2C,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2C,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2C,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2D,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2D,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2D,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2E,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2E,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2E,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2F,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2F,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2F,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2G,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2G,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2G,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2H,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2H,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2H,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2I,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2I,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2I,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2J,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2J,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2J,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2K,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2K,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2K,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2L,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2L,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2L,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
-Estonia,2007,1A2M,Coal/peat,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
+Estonia,2007,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,0.72,EUR
 Estonia,2007,1A2M,Natural gas,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A2M,Oil,1.0,1.0,est_tax,15.65,0.0,15.65,EEK,eu_ets,0.72,EUR
 Estonia,2007,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5672,13 +5672,13 @@ Estonia,2008,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2008,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2008,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2008,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2008,1A1A1,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A1A1,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A1A1,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A1A2,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A1A2,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A1A2,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A1A3,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A1A3,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A1A3,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
@@ -5690,43 +5690,43 @@ Estonia,2008,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2008,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2008,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2008,1A2A,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2A,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2A,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2B,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2B,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2B,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2C,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2C,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2C,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2D,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2D,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2D,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2E,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2E,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2E,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2F,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2F,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2F,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2G,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2G,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2G,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2H,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2H,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2H,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2I,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2I,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2I,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2J,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2J,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2J,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2K,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2K,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2K,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2L,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2L,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2L,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
-Estonia,2008,1A2M,Coal/peat,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
+Estonia,2008,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,22.45,EUR
 Estonia,2008,1A2M,Natural gas,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A2M,Oil,1.0,1.0,est_tax,23.5,0.0,23.5,EEK,eu_ets,22.45,EUR
 Estonia,2008,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5970,13 +5970,13 @@ Estonia,2009,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2009,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2009,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2009,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2009,1A1A1,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A1A1,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A1A1,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A1A2,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A1A2,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A1A2,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A1A3,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A1A3,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A1A3,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
@@ -5988,43 +5988,43 @@ Estonia,2009,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2009,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2009,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2009,1A2A,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2A,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2A,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2B,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2B,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2B,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2C,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2C,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2C,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2D,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2D,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2D,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2E,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2E,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2E,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2F,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2F,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2F,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2G,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2G,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2G,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2H,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2H,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2H,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2I,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2I,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2I,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2J,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2J,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2J,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2K,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2K,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2K,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2L,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2L,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2L,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
-Estonia,2009,1A2M,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
+Estonia,2009,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR
 Estonia,2009,1A2M,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A2M,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,13.15,EUR
 Estonia,2009,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6268,13 +6268,13 @@ Estonia,2010,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2010,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2010,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2010,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2010,1A1A1,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A1A1,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A1A1,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A1A2,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A1A2,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A1A2,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A1A3,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A1A3,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A1A3,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
@@ -6286,43 +6286,43 @@ Estonia,2010,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2010,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2010,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2010,1A2A,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2A,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2A,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2B,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2B,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2B,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2C,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2C,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2C,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2D,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2D,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2D,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2E,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2E,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2E,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2F,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2F,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2F,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2G,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2G,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2G,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2H,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2H,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2H,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2I,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2I,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2I,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2J,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2J,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2J,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2K,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2K,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2K,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2L,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2L,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2L,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
-Estonia,2010,1A2M,Coal/peat,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
+Estonia,2010,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR
 Estonia,2010,1A2M,Natural gas,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A2M,Oil,1.0,1.0,est_tax,31.3,0.0,31.3,EEK,eu_ets,14.34,EUR
 Estonia,2010,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6566,13 +6566,13 @@ Estonia,2011,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2011,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2011,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2011,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2011,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
@@ -6584,43 +6584,43 @@ Estonia,2011,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2011,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2011,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2011,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
-Estonia,2011,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
+Estonia,2011,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR
 Estonia,2011,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,12.94,EUR
 Estonia,2011,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6864,13 +6864,13 @@ Estonia,2012,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2012,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2012,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2012,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2012,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
@@ -6882,43 +6882,43 @@ Estonia,2012,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2012,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2012,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2012,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
-Estonia,2012,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
+Estonia,2012,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR
 Estonia,2012,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.38,EUR
 Estonia,2012,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7162,13 +7162,13 @@ Estonia,2013,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2013,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2013,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2013,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2013,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
@@ -7180,43 +7180,43 @@ Estonia,2013,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2013,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2013,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2013,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
-Estonia,2013,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
+Estonia,2013,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR
 Estonia,2013,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,4.47,EUR
 Estonia,2013,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7460,13 +7460,13 @@ Estonia,2014,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2014,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2014,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2014,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2014,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
@@ -7478,43 +7478,43 @@ Estonia,2014,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2014,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2014,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2014,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
-Estonia,2014,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
+Estonia,2014,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR
 Estonia,2014,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.95,EUR
 Estonia,2014,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7758,13 +7758,13 @@ Estonia,2015,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2015,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2015,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2015,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2015,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
@@ -7776,43 +7776,43 @@ Estonia,2015,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2015,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2015,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2015,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
-Estonia,2015,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
+Estonia,2015,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR
 Estonia,2015,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,7.68,EUR
 Estonia,2015,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8056,13 +8056,13 @@ Estonia,2016,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2016,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2016,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2016,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2016,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
@@ -8074,43 +8074,43 @@ Estonia,2016,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2016,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2016,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2016,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
-Estonia,2016,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
+Estonia,2016,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR
 Estonia,2016,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.35,EUR
 Estonia,2016,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8354,13 +8354,13 @@ Estonia,2017,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2017,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2017,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2017,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2017,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
@@ -8372,43 +8372,43 @@ Estonia,2017,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2017,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2017,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2017,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
-Estonia,2017,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
+Estonia,2017,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR
 Estonia,2017,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,5.83,EUR
 Estonia,2017,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8652,13 +8652,13 @@ Estonia,2018,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2018,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2018,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2018,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2018,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
@@ -8670,43 +8670,43 @@ Estonia,2018,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2018,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2018,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2018,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
-Estonia,2018,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
+Estonia,2018,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR
 Estonia,2018,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,15.82,EUR
 Estonia,2018,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8950,13 +8950,13 @@ Estonia,2019,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2019,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2019,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2019,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2019,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
@@ -8968,43 +8968,43 @@ Estonia,2019,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2019,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2019,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2019,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
-Estonia,2019,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
+Estonia,2019,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR
 Estonia,2019,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.84,EUR
 Estonia,2019,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9248,13 +9248,13 @@ Estonia,2020,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2020,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2020,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2020,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2020,1A1A1,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A1A1,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A1A1,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A1A2,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A1A2,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A1A2,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A1A3,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A1A3,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A1A3,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
@@ -9266,43 +9266,43 @@ Estonia,2020,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2020,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Estonia,2020,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Estonia,2020,1A2A,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2A,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2A,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2B,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2B,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2B,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2C,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2C,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2C,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2C,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2D,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2D,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2D,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2E,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2E,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2E,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2E,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2F,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2F,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2F,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2F,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2G,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2G,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2G,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2G,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2H,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2H,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2H,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2H,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2I,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2I,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2I,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2J,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2J,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2J,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2J,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2K,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2K,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2K,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2K,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2L,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2L,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2L,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2L,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
-Estonia,2020,1A2M,Coal/peat,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
+Estonia,2020,1A2M,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR
 Estonia,2020,1A2M,Natural gas,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A2M,Oil,1.0,1.0,est_tax,2.0,0.0,2.0,EUR,eu_ets,24.76,EUR
 Estonia,2020,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA

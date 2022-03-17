@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,ets_price
 France,1989,0,,,,,,
 France,1989,1,,,,,,
 France,1989,1A,Coal/peat,,,,,
@@ -7469,10 +7469,10 @@ France,2014,1A1A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dai
 France,2014,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2014,1A1A3,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2014,1A1A3,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2014,1A1B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2014,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2014,1A1B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2014,1A1B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2014,1A1C,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2014,1A1C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2014,1A1C,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2014,1A1C,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2014,1A2,Coal/peat,,,,,
@@ -7553,10 +7553,10 @@ France,2014,1A3E1,Oil,,,,,
 France,2014,1A4,Coal/peat,,,,,
 France,2014,1A4,Natural gas,,,,,
 France,2014,1A4,Oil,,,,,
-France,2014,1A4A,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2014,1A4A,Coal/peat,,,,,
 France,2014,1A4A,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2014,1A4A,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
-France,2014,1A4B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2014,1A4B,Coal/peat,,,,,
 France,2014,1A4B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2014,1A4B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2014,1A4C,Coal/peat,,,,,
@@ -7767,10 +7767,10 @@ France,2015,1A1A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dai
 France,2015,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A1A3,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A1A3,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2015,1A1B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2015,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A1B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A1B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2015,1A1C,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2015,1A1C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A1C,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A1C,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A2,Coal/peat,,,,,
@@ -7827,7 +7827,7 @@ France,2015,1A3A1,Oil,,,,,
 France,2015,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2015,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2015,1A3B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2015,1A3B,Coal/peat,,,,,
 France,2015,1A3B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2015,1A3B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2015,1A3C,Coal/peat,,,,,
@@ -7851,10 +7851,10 @@ France,2015,1A3E1,Oil,,,,,
 France,2015,1A4,Coal/peat,,,,,
 France,2015,1A4,Natural gas,,,,,
 France,2015,1A4,Oil,,,,,
-France,2015,1A4A,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2015,1A4A,Coal/peat,,,,,
 France,2015,1A4A,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2015,1A4A,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
-France,2015,1A4B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2015,1A4B,Coal/peat,,,,,
 France,2015,1A4B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2015,1A4B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2015,1A4C,Coal/peat,,,,,
@@ -8065,10 +8065,10 @@ France,2016,1A1A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dai
 France,2016,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A1A3,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A1A3,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2016,1A1B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2016,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A1B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A1B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2016,1A1C,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2016,1A1C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A1C,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A1C,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A2,Coal/peat,,,,,
@@ -8125,7 +8125,7 @@ France,2016,1A3A1,Oil,,,,,
 France,2016,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2016,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2016,1A3B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2016,1A3B,Coal/peat,,,,,
 France,2016,1A3B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2016,1A3B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2016,1A3C,Coal/peat,,,,,
@@ -8149,10 +8149,10 @@ France,2016,1A3E1,Oil,,,,,
 France,2016,1A4,Coal/peat,,,,,
 France,2016,1A4,Natural gas,,,,,
 France,2016,1A4,Oil,,,,,
-France,2016,1A4A,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2016,1A4A,Coal/peat,,,,,
 France,2016,1A4A,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2016,1A4A,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
-France,2016,1A4B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2016,1A4B,Coal/peat,,,,,
 France,2016,1A4B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2016,1A4B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2016,1A4C,Coal/peat,,,,,
@@ -8363,10 +8363,10 @@ France,2017,1A1A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of dai
 France,2017,1A1A3,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A1A3,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A1A3,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2017,1A1B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2017,1A1B,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A1B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A1B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2017,1A1C,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2017,1A1C,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A1C,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A1C,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2014]),leg(FR-PLF[2014]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A2,Coal/peat,,,,,
@@ -8423,7 +8423,7 @@ France,2017,1A3A1,Oil,,,,,
 France,2017,1A3A2,Coal/peat,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A3A2,Natural gas,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2017,1A3A2,Oil,,leg(EC[2014]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2017,1A3B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2017,1A3B,Coal/peat,,,,,
 France,2017,1A3B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2017,1A3B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2017,1A3C,Coal/peat,,,,,
@@ -8447,10 +8447,10 @@ France,2017,1A3E1,Oil,,,,,
 France,2017,1A4,Coal/peat,,,,,
 France,2017,1A4,Natural gas,,,,,
 France,2017,1A4,Oil,,,,,
-France,2017,1A4A,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2017,1A4A,Coal/peat,,,,,
 France,2017,1A4A,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2017,1A4A,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
-France,2017,1A4B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
+France,2017,1A4B,Coal/peat,,,,,
 France,2017,1A4B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2017,1A4B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2014]); merchandise road transport is exempted,,
 France,2017,1A4C,Coal/peat,,,,,
@@ -8661,10 +8661,10 @@ France,2018,1A1A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of dai
 France,2018,1A1A3,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A1A3,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A1A3,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2018,1A1B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2018,1A1B,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A1B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A1B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2018,1A1C,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2018,1A1C,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A1C,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A1C,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A2,Coal/peat,,,,,
@@ -8721,7 +8721,7 @@ France,2018,1A3A1,Oil,,,,,
 France,2018,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2018,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2018,1A3B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2018,1A3B,Coal/peat,,,,,
 France,2018,1A3B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2018,1A3B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2018,1A3C,Coal/peat,,,,,
@@ -8745,10 +8745,10 @@ France,2018,1A3E1,Oil,,,,,
 France,2018,1A4,Coal/peat,,,,,
 France,2018,1A4,Natural gas,,,,,
 France,2018,1A4,Oil,,,,,
-France,2018,1A4A,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2018,1A4A,Coal/peat,,,,,
 France,2018,1A4A,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2018,1A4A,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
-France,2018,1A4B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2018,1A4B,Coal/peat,,,,,
 France,2018,1A4B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2018,1A4B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2018,1A4C,Coal/peat,,,,,
@@ -8959,10 +8959,10 @@ France,2019,1A1A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of dai
 France,2019,1A1A3,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A1A3,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A1A3,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2019,1A1B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2019,1A1B,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A1B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A1B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2019,1A1C,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2019,1A1C,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A1C,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A1C,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",leg(EC[2018]),leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A2,Coal/peat,,,,,
@@ -9019,7 +9019,7 @@ France,2019,1A3A1,Oil,,,,,
 France,2019,1A3A2,Coal/peat,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A3A2,Natural gas,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2019,1A3A2,Oil,,leg(EC[2018]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2019,1A3B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2019,1A3B,Coal/peat,,,,,
 France,2019,1A3B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2019,1A3B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2019,1A3C,Coal/peat,,,,,
@@ -9043,10 +9043,10 @@ France,2019,1A3E1,Oil,,,,,
 France,2019,1A4,Coal/peat,,,,,
 France,2019,1A4,Natural gas,,,,,
 France,2019,1A4,Oil,,,,,
-France,2019,1A4A,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2019,1A4A,Coal/peat,,,,,
 France,2019,1A4A,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2019,1A4A,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
-France,2019,1A4B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2019,1A4B,Coal/peat,,,,,
 France,2019,1A4B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2019,1A4B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2019,1A4C,Coal/peat,,,,,
@@ -9257,10 +9257,10 @@ France,2020,1A1A2,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly av
 France,2020,1A1A3,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A1A3,Natural gas,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A1A3,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2020,1A1B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])","leg(EC[2018], EC[2020])",leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2020,1A1B,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A1B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])","leg(EC[2018], EC[2020])",leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A1B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])","leg(EC[2018], EC[2020])",leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2020,1A1C,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])","leg(EC[2018], EC[2020])",leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+France,2020,1A1C,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A1C,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])","leg(EC[2018], EC[2020])",leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A1C,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])","leg(EC[2018], EC[2020])",leg(FR-PLF[2018]); merchandise road transport is exempted,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A2,Coal/peat,,,,,
@@ -9317,7 +9317,7 @@ France,2020,1A3A1,Oil,,,,,
 France,2020,1A3A2,Coal/peat,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A3A2,Natural gas,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 France,2020,1A3A2,Oil,,"leg(EC[2018], EC[2020])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-France,2020,1A3B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2020,1A3B,Coal/peat,,,,,
 France,2020,1A3B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2020,1A3B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2020,1A3C,Coal/peat,,,,,
@@ -9341,10 +9341,10 @@ France,2020,1A3E1,Oil,,,,,
 France,2020,1A4,Coal/peat,,,,,
 France,2020,1A4,Natural gas,,,,,
 France,2020,1A4,Oil,,,,,
-France,2020,1A4A,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2020,1A4A,Coal/peat,,,,,
 France,2020,1A4A,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2020,1A4A,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
-France,2020,1A4B,Coal/peat,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
+France,2020,1A4B,Coal/peat,,,,,
 France,2020,1A4B,Natural gas,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2020,1A4B,Oil,"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",,leg(FR-PLF[2018]); merchandise road transport is exempted,,
 France,2020,1A4C,Coal/peat,,,,,

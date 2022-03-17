@@ -1,4 +1,4 @@
-Jurisdiction,Year,IPCC_cat_code,Product,tax,ets,tax_id,tax_rate_excl_ex_clcu,tax_ex_rate,tax_rate_incl_ex_clcu,tax_curr_code,ets_id,ets_price,ets_curr_code
+jurisdiction,year,ipcc_code,Product,tax,ets,tax_id,tax_rate_excl_ex_clcu,tax_ex_rate,tax_rate_incl_ex_clcu,tax_curr_code,ets_id,ets_price,ets_curr_code
 Newfoundland and Labrador,1989,0,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,1989,1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,1989,1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8950,61 +8950,61 @@ Newfoundland and Labrador,2019,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A1A1,Coal/peat,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
+Newfoundland and Labrador,2019,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A1A1,Natural gas,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A1A1,Oil,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
-Newfoundland and Labrador,2019,1A1A2,Coal/peat,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
+Newfoundland and Labrador,2019,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A1A2,Natural gas,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A1A2,Oil,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
-Newfoundland and Labrador,2019,1A1A3,Coal/peat,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
+Newfoundland and Labrador,2019,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A1A3,Natural gas,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A1A3,Oil,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
-Newfoundland and Labrador,2019,1A1B,Coal/peat,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
+Newfoundland and Labrador,2019,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A1B,Natural gas,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A1B,Oil,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
-Newfoundland and Labrador,2019,1A1C,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A1C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A1C,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A1C,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A2A,Coal/peat,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
+Newfoundland and Labrador,2019,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A2A,Natural gas,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A2A,Oil,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
-Newfoundland and Labrador,2019,1A2B,Coal/peat,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
+Newfoundland and Labrador,2019,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A2B,Natural gas,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A2B,Oil,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
-Newfoundland and Labrador,2019,1A2C,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A2C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2C,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2C,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A2D,Coal/peat,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
+Newfoundland and Labrador,2019,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A2D,Natural gas,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A2D,Oil,1.0,1.0,can_nl_tax,20.0,0.0,20.0,CAD,can_nl_ets,20.0,CAD
-Newfoundland and Labrador,2019,1A2E,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A2E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2E,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2E,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A2F,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A2F,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2F,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2F,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2G,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2G,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2G,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A2H,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A2H,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2H,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2H,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A2I,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
 Newfoundland and Labrador,2019,1A2I,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,20.0,CAD
-Newfoundland and Labrador,2019,1A2J,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A2J,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2J,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2J,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A2K,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A2K,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2K,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2K,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A2L,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A2L,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2L,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2L,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A2M,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A2M,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2M,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A2M,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9019,25 +9019,25 @@ Newfoundland and Labrador,2019,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A3B,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A3B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3B,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A3B,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A3C,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A3C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3C,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A3C,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A3D1,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A3D1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D1,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D1,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A3D2,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A3D2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D2,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D2,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A3E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A3E1,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A3E1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3E1,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A3E1,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A4,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9064,13 +9064,13 @@ Newfoundland and Labrador,2019,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A5A,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A5A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5A,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A5A,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A5B,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A5B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5B,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A5B,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2019,1A5C,Coal/peat,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2019,1A5C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5C,Natural gas,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1A5C,Oil,1.0,0.0,can_nl_tax,20.0,0.0,20.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2019,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9248,61 +9248,61 @@ Newfoundland and Labrador,2020,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A1A1,Coal/peat,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
+Newfoundland and Labrador,2020,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A1A1,Natural gas,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A1A1,Oil,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
-Newfoundland and Labrador,2020,1A1A2,Coal/peat,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
+Newfoundland and Labrador,2020,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A1A2,Natural gas,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A1A2,Oil,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
-Newfoundland and Labrador,2020,1A1A3,Coal/peat,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
+Newfoundland and Labrador,2020,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A1A3,Natural gas,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A1A3,Oil,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
-Newfoundland and Labrador,2020,1A1B,Coal/peat,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
+Newfoundland and Labrador,2020,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A1B,Natural gas,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A1B,Oil,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
-Newfoundland and Labrador,2020,1A1C,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A1C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A1C,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A1C,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A2A,Coal/peat,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
+Newfoundland and Labrador,2020,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A2A,Natural gas,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A2A,Oil,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
-Newfoundland and Labrador,2020,1A2B,Coal/peat,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
+Newfoundland and Labrador,2020,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A2B,Natural gas,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A2B,Oil,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
-Newfoundland and Labrador,2020,1A2C,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A2C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2C,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2C,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A2D,Coal/peat,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
+Newfoundland and Labrador,2020,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A2D,Natural gas,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A2D,Oil,1.0,1.0,can_nl_tax,30.0,0.0,30.0,CAD,can_nl_ets,30.0,CAD
-Newfoundland and Labrador,2020,1A2E,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A2E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2E,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2E,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A2F,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A2F,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2F,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2F,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2G,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2G,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2G,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A2H,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A2H,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2H,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2H,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A2I,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
 Newfoundland and Labrador,2020,1A2I,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,30.0,CAD
-Newfoundland and Labrador,2020,1A2J,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A2J,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2J,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2J,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A2K,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A2K,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2K,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2K,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A2L,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A2L,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2L,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2L,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A2M,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A2M,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2M,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A2M,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9317,25 +9317,25 @@ Newfoundland and Labrador,2020,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A3B,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A3B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3B,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A3B,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A3C,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A3C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3C,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A3C,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A3D1,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A3D1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D1,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D1,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A3D2,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A3D2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D2,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D2,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A3E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A3E1,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A3E1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3E1,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A3E1,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A4,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9362,13 +9362,13 @@ Newfoundland and Labrador,2020,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A5A,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A5A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5A,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A5A,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A5B,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A5B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5B,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A5B,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2020,1A5C,Coal/peat,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2020,1A5C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5C,Natural gas,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1A5C,Oil,1.0,0.0,can_nl_tax,30.0,0.0,30.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2020,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9546,61 +9546,61 @@ Newfoundland and Labrador,2021,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A1A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A1A1,Coal/peat,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
+Newfoundland and Labrador,2021,1A1A1,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A1A1,Natural gas,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A1A1,Oil,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
-Newfoundland and Labrador,2021,1A1A2,Coal/peat,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
+Newfoundland and Labrador,2021,1A1A2,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A1A2,Natural gas,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A1A2,Oil,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
-Newfoundland and Labrador,2021,1A1A3,Coal/peat,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
+Newfoundland and Labrador,2021,1A1A3,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A1A3,Natural gas,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A1A3,Oil,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
-Newfoundland and Labrador,2021,1A1B,Coal/peat,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
+Newfoundland and Labrador,2021,1A1B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A1B,Natural gas,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A1B,Oil,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
-Newfoundland and Labrador,2021,1A1C,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A1C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A1C,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A1C,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A2A,Coal/peat,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
+Newfoundland and Labrador,2021,1A2A,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A2A,Natural gas,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A2A,Oil,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
-Newfoundland and Labrador,2021,1A2B,Coal/peat,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
+Newfoundland and Labrador,2021,1A2B,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A2B,Natural gas,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A2B,Oil,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
-Newfoundland and Labrador,2021,1A2C,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A2C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2C,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2C,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A2D,Coal/peat,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
+Newfoundland and Labrador,2021,1A2D,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A2D,Natural gas,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A2D,Oil,1.0,1.0,can_nl_tax,40.0,0.0,40.0,CAD,can_nl_ets,40.0,CAD
-Newfoundland and Labrador,2021,1A2E,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A2E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2E,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2E,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A2F,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A2F,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2F,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2F,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2G,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2G,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2G,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A2H,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A2H,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2H,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2H,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2I,Coal/peat,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A2I,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
 Newfoundland and Labrador,2021,1A2I,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nl_ets,40.0,CAD
-Newfoundland and Labrador,2021,1A2J,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A2J,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2J,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2J,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A2K,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A2K,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2K,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2K,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A2L,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A2L,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2L,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2L,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A2M,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A2M,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2M,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A2M,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A3,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9615,25 +9615,25 @@ Newfoundland and Labrador,2021,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3A2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A3B,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A3B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3B,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A3B,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A3C,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A3C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3C,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A3C,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A3D1,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A3D1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D1,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D1,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A3D2,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A3D2,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D2,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D2,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A3E,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A3E1,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A3E1,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3E1,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A3E1,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A4,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9660,13 +9660,13 @@ Newfoundland and Labrador,2021,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A5A,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A5A,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5A,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A5A,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A5B,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A5B,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5B,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A5B,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
-Newfoundland and Labrador,2021,1A5C,Coal/peat,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
+Newfoundland and Labrador,2021,1A5C,Coal/peat,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5C,Natural gas,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1A5C,Oil,1.0,0.0,can_nl_tax,40.0,0.0,40.0,CAD,NA,NA,NA
 Newfoundland and Labrador,2021,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA
