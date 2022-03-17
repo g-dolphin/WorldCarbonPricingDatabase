@@ -25,36 +25,7 @@ Created on Tue Jul 20 11:55:02 2021
 # For carbon taxes, it is more tricky - and one has to take greater care - 
 # because a given fuel may be subject to the tax in one sector but not another. 
 
-def coverage():
-    
-    # EU ETS
-    
-    ## Jurisdictions
-    
-    # initial country coverage (2005)
-    eu_ets_ctry_I = []
-    
-    
-    ## Sectors
-    
-    # initial sectoral coverage 
-    eu_ets_ipcc_I = []
-    
-    
-    ## Coverage dictionaries
-    
-    eu_ets_jur_coverage = {}
-    
-    eu_ets_ipcc_coverage = {}
-
-    eu_ets_ipcc_coverage = {} # need to specify which F gas is covered
-    
-    ## Sources dictionary
-    
-    eu_ets_coverage_sources = {}
-
-    #-------------------------------------------------------------------------
-
+def scope():
     
     # California CaT
     
@@ -68,17 +39,12 @@ def coverage():
     # initial sectoral coverage 
     us_ca_cat_ipcc_I = []
     
-    ## Gases
-    
-    us_ca_cat_ghg_I = []
     
     ## Coverage dictionaries
     
     us_ca_cat_jur_coverage = {}
     
     us_ca_cat_ipcc_coverage = {}
-    
-    us_ca_cat_ghg_coverage = {}
     
     
     ## Sources dictionary
@@ -97,10 +63,6 @@ def coverage():
     
     chn_cq_ets_ipcc_I = []
     
-    ## Gases
-    
-    chn_cq_ets_ghg_I = []
-    
     ## Coverage dictionaries
     chn_cq_ets_jur_coverage = {2014:chn_cq_ets_jur_I,
                            2015:chn_cq_ets_jur_I, 2016:chn_cq_ets_jur_I,
@@ -114,16 +76,15 @@ def coverage():
                             2019:chn_cq_ets_ipcc_I, 2020:chn_cq_ets_ipcc_I,
                             2021:chn_cq_ets_ipcc_I}
 
-    chn_cq_ets_ghg_coverage = {}
-
     ## Sources dictionary
     
-    chn_cq_ets_coverage_sources = {2014:, 2015:, 
-                                   2016:, 2017:, 
-                                   2018:, 2019:, 
+    chn_cq_ets_coverage_sources = {2014:,
+                                   2015:, 2016:, 
+                                   2017:, 2018:, 
+                                   2019:,
                                    2020:, 2021:}
     
-    
+
     #----------------------------------------------------------------------------
     
     # Korea, Rep.
@@ -143,11 +104,6 @@ def coverage():
     # phase 3 scope (2021)
     kor_ets_ipcc_III = []
     
-    ## Gases
-    
-    kor_ets_ghg_I = []
-    
-    
     ## Coverage dictionaries
     kor_ets_jur_coverage = {2015:kor_ets_jur_I, 2016:kor_ets_jur_I,
                             2017:kor_ets_jur_I, 2018:kor_ets_jur_I,
@@ -158,8 +114,6 @@ def coverage():
                             2017:kor_ets_ipcc_I, 2018:kor_ets_ipcc_II,
                             2019:kor_ets_ipcc_II, 2020:kor_ets_ipcc_II,
                             2021:kor_ets_ipcc_III}
-    
-    kor_ets_ghg_coverage = {}
     
     ## Sources dictionary
     
@@ -189,10 +143,6 @@ def coverage():
     # extension to waste and synthetic GHGs (2013)
     nzl_ets_ipcc_III = []
     
-    ## Gases
-    
-    nzl_ets_ghg_I = []
-    
     ## Coverage dictionaries
     
     nzl_ets_jur_coverage = {2008:nzl_ets_jur_I,
@@ -213,7 +163,6 @@ def coverage():
                             2019:nzl_ets_ipcc_III, 2020:nzl_ets_ipcc_III,
                             2021:nzl_ets_ipcc_III}
     
-    nzl_ets_ghg_coverage = {}
 
     ## Sources dictionary
     
@@ -249,7 +198,7 @@ def coverage():
     ## Sources dictionary
     
     can_ns_ets_coverage_sources = {2019:, 2020:,
-                                   2021:}  
+                                   2021:}     
     
     #----------------------------------------------------------------------------
     
@@ -261,10 +210,6 @@ def coverage():
     
     ## Sectors (source: CO2 Ordinance)
     che_ets_ipcc_I = []
-
-    ## Gases
-    
-    che_ets_ghg_I = []
     
     ## Coverage dictionaries
     che_ets_jur_coverage = {2008:che_ets_jur_I,
@@ -285,8 +230,6 @@ def coverage():
                             2019:che_ets_ipcc_I, 2020:che_ets_ipcc_I,
                             2021:che_ets_ipcc_I}
     
-    nzl_ets_ghg_coverage = {}
-    
     ## Sources dictionary
     
     che_ets_coverage_sources = {2008:, 2009:,
@@ -301,38 +244,27 @@ def coverage():
                                2019:,
                                2020:, 
                                2021:}
-
+    
     #------------------------------All schemes dictionaries--------------------------------#
     
-    ets_coverage = {"eu_ets":{"jurisdictions":eu_ets_jur_coverage, 
-                                  "sectors":eu_ets_ipcc_coverage,
-                                  "gases":eu_ets_ghg_coverage},
-                    "us_ca_cat":{"jurisdictions":us_ca_cat_jur_coverage, 
-                                  "sectors":us_ca_cat_ipcc_coverage,
-                                  "gases":us_ca_cat_ghg_coverage},
+    ets_coverage = {"us_ca_cat":{"jurisdictions":us_ca_cat_jur_coverage, 
+                                  "sectors":us_ca_cat_ipcc_coverage},
                     "kor_ets":{"jurisdictions":kor_ets_jur_coverage, 
-                                  "sectors":kor_ets_ipcc_coverage,
-                                  "gases":kor_ets_ghg_coverage},
+                                  "sectors":kor_ets_ipcc_coverage},
                     "nzl_ets":{"jurisdictions":nzl_ets_jur_coverage, 
-                                  "sectors":nzl_ets_ipcc_coverage,
-                                  "gases":nzl_ets_ghg_coverage},
+                                  "sectors":nzl_ets_ipcc_coverage},
                     "che_ets":{"jurisdictions":che_ets_jur_coverage, 
-                                  "sectors":che_ets_ipcc_coverage,
-                                  "gases":che_ets_ghg_coverage},
+                                  "sectors":che_ets_ipcc_coverage},
                     "can_ns_ets":{"jurisdictions":can_ns_ets_jur_coverage, 
-                                  "sectors":can_ns_ets_ipcc_coverage,
-                                  "gases":can_ns_ets_ghg_coverage},
+                                  "sectors":can_ns_ets_ipcc_coverage},
                     "chn_cq_ets":{"jurisdictions":chn_cq_ets_jur_coverage, 
-                                  "sectors":chn_cq_ets_ipcc_coverage,
-                                  "gases":chn_cq_ets_ghg_coverage}}
+                                  "sectors":chn_cq_ets_ipcc_coverage}}
 
-    ets_coverage_sources = {"eu_ets":eu_ets_coverage_sources,
-                            "us_ca_cat":us_ca_cat_coverage_sources,
+    ets_coverage_sources = {"us_ca_cat":us_ca_cat_coverage_sources,
                             "kor_ets":kor_ets_coverage_sources,
                             "nzl_ets":nzl_ets_coverage_sources,
                             "che_ets":che_ets_coverage_sources,
-                            "can_ns_ets":can_ns_ets_coverage_sources,
-                            "chn_cq_ets":chn_cq_ets_coverage_sources}
+                            "can_ns_ets":can_ns_ets_coverage_sources}
     
     data_and_sources = {"data":ets_coverage, "sources":ets_coverage_sources}
     

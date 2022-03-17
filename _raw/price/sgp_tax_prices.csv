@@ -1,7 +1,7 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-sgp_tax,2019,CO2,Coal/peat,5,SGD,leg(SG[2018]),
-sgp_tax,2020,CO2,Coal/peat,5,SGD,leg(SG[2018]),
-sgp_tax,2021,CO2,Coal/peat,5,SGD,leg(SG[2018]),
+sgp_tax,2019,CO2,Coal,5,SGD,leg(SG[2018]),
+sgp_tax,2020,CO2,Coal,5,SGD,leg(SG[2018]),
+sgp_tax,2021,CO2,Coal,5,SGD,leg(SG[2018]),
 sgp_tax,2019,CO2,Oil,5,SGD,leg(SG[2018]),
 sgp_tax,2020,CO2,Oil,5,SGD,leg(SG[2018]),
 sgp_tax,2021,CO2,Oil,5,SGD,leg(SG[2018]),
