@@ -69,8 +69,8 @@ all_jur_list = ctry_list + subnat_list
 
 #----------------------------DB structure------------------------#
 
-all_jur = all_jur[["jurisdiction", "year", "ipcc_code", "product"]]
-all_jur_sources = all_jur_sources[["jurisdiction", "year", "ipcc_code", "product"]]
+all_jur = all_jur[["jurisdiction", "year", "ipcc_code", "Product"]]
+all_jur_sources = all_jur_sources[["jurisdiction", "year", "ipcc_code", "Product"]]
 
 all_jur_sources["year"] = all_jur_sources["year"].astype(int)
 
@@ -148,8 +148,8 @@ def tax_db_values(scheme_list, scheme_no):
     for scheme in scheme_list:
         print(scheme)
         for yr in taxes_scope[scheme]["jurisdictions"].keys():   
-            selection = (all_jur.year==yr) & (all_jur.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (all_jur.IPCC_cat_code.isin(taxes_scope[scheme]["sectors"][yr])) & (all_jur.Product.isin(taxes_scope[scheme]["fuels"][yr]))
-            selection_sources = (all_jur_sources.year==yr) & (all_jur_sources.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (all_jur_sources.IPCC_cat_code.isin(taxes_scope[scheme]["sectors"][yr])) & (all_jur_sources.product.isin(taxes_scope[scheme]["fuels"][yr]))
+            selection = (all_jur.year==yr) & (all_jur.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (all_jur.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (all_jur.Product.isin(taxes_scope[scheme]["fuels"][yr]))
+            selection_sources = (all_jur_sources.year==yr) & (all_jur_sources.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (all_jur_sources.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (all_jur_sources.Product.isin(taxes_scope[scheme]["fuels"][yr]))
     
             all_jur.loc[selection, columns["binary"]] = 1
             all_jur.loc[selection, columns["id"]] = scheme
@@ -159,12 +159,12 @@ def tax_db_values(scheme_list, scheme_no):
             
             try:
                 for type_em in ["Oil", "Natural gas", "Coal/peat"]:
-                    all_jur.loc[selection & (all_jur.product == type_em), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "rate"].item()                
-                    all_jur.loc[selection & (all_jur.product == type_em), columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "currency_code"].item()
+                    all_jur.loc[selection & (all_jur.Product == type_em), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "rate"].item()                
+                    all_jur.loc[selection & (all_jur.Product == type_em), columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "currency_code"].item()
                 
-#                    # Price data source
+#                   # Price data source
                     value = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "source"].item()+"; "+tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "comment"].item()
-                    all_jur_sources.loc[selection_sources & (all_jur_sources.product == type_em), columns["rate"]] = value
+                    all_jur_sources.loc[selection_sources & (all_jur_sources.Product == type_em), columns["rate"]] = value
                 
             except:
                 print(scheme, yr)
