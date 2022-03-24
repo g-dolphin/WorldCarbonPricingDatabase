@@ -2,7 +2,7 @@
 
 The .csv files in the above folders contain the carbon pricing schemes' institutional variables for [xx] national and [xx] sub-national jurisdictions. For each jurisdiction and each year between 1989 and 2020, these variables are recorded at the sector or sector-fuel level.  
 
-The first five columns of each dataframe (.csv file) record the `keys` of each entry. The corresponding column titles are: Jurisdiction, Year, IPCC_cat_code, IEA_CODE, Product. 
+The first five columns of each dataframe (.csv file) record the `keys` of each entry. The corresponding column titles are: jurisdiction, year, ipcc_code, iea_code, Product. 
 
 The remaining columns record the variables' value. The following variables are included. 
 - `tax`: a binary variable indicating coverage (1) or not (0) by a carbon tax
