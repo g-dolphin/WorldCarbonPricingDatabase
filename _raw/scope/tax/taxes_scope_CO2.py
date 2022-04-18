@@ -115,6 +115,33 @@ def scope():
     chl_tax_coverage_sources = {2017:"report(WB[2017])", 2018:"report(WB[2018])", 
                                 2019:"report(WB[2018])", 2020:"report(WB[2018])",
                                 2021:"report(WB[2021])"}
+    
+    #----------------------------------------------------------------------------
+
+    # Baja California
+
+    ## Jurisdiction
+    
+    mex_bc_tax_jur_I = ["Baja California"]
+
+    ## Sectors
+    
+    mex_bc_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_bc_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    mex_bc_tax_jur_coverage = {2020:}
+    
+    mex_bc_tax_ipcc_coverage = {2020:}     
+
+    mex_bc_tax_fuel_coverage = {2020:} 
+    
+    ## Sources dictionary
+    
+    mex_bc_tax_coverage_sources = {2020:}
 
     #----------------------------------------------------------------------------
     
@@ -1382,10 +1409,6 @@ def scope():
     zaf_tax_coverage_sources = {2019:"leg(SA[2019])", 2020:"leg(SA[2019])",
                                 2021:"leg(SA[2019])"}
     
-    #----------------------------------------------------------------------------
-    
-    # Spain (F-gases)
-    
     
     #----------------------------------------------------------------------------
 
@@ -1541,6 +1564,33 @@ def scope():
                                 2021:"leg(CHE-CO2[2013], CHE-FARC[2013])"}
 
     #----------------------------------------------------------------------------
+
+    # Tamaulipas
+    
+    ## Jurisdiction
+    
+    mex_tm_tax_jur_I = ["Tamaulipas"]
+
+    ## Sectors
+    
+    mex_tm_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_tm_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    mex_tm_tax_jur_coverage = {2021:}
+    
+    mex_tm_tax_ipcc_coverage = {2021:}     
+
+    mex_tm_tax_fuel_coverage = {2021:} 
+    
+    ## Sources dictionary
+    
+    mex_tm_tax_coverage_sources = {2021:}
+    
+    #----------------------------------------------------------------------------
     
     # Ukraine
     
@@ -1654,6 +1704,33 @@ def scope():
                                 2019:"leg(UK[2013a], UK[2013b])", 
                                 2020:"leg(UK[2013a], UK[2013b])",
                                 2021:"leg(UK[2013a], UK[2013b])"}
+    
+    #----------------------------------------------------------------------------
+
+    # Zacatecas
+    
+    ## Jurisdiction
+    
+    mex_za_tax_jur_I = ["Zacatecas"]
+
+    ## Sectors
+    
+    mex_za_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_za_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    mex_za_tax_jur_coverage = {2017:}
+    
+    mex_za_tax_ipcc_coverage = {2017:}     
+
+    mex_za_tax_fuel_coverage = {2017:} 
+    
+    ## Sources dictionary
+    
+    mex_za_tax_coverage_sources = {2017:}
     
     #----------------------------------------------------------------------------
     
