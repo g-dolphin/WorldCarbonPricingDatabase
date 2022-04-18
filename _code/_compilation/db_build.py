@@ -34,16 +34,10 @@ price_exemptions_nat = gen_func.concatenate(indir_exemptions_nat)
 price_exemptions_subnat = gen_func.concatenate(indir_exemptions_subnat)
 price_exemptions_all_jur = pd.concat([price_exemptions_nat, price_exemptions_subnat])
 
-price_exemptions_all_jur.rename(columns={'Jurisdiction':"jurisdiction", 
-                                         'Year':"year", 'IPCC_cat_code':"ipcc_code", 
-                                         'Tax_ex_rate':"tax_ex_rate",
-                                         'Tax_ex_rate_sources':"tax_ex_rate_sources"}, inplace=True)
-
-price_exemptions_all_jur.replace(to_replace={"Coal/peat":"Coal"}, inplace=True)
 
 #----------------------------DB structure------------------------#
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/jurisdictions.py")
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/dependencies/jurisdictions.py")
 read_file = stream.read()
 exec(read_file)
 

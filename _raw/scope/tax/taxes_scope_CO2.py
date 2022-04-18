@@ -883,6 +883,33 @@ def scope():
 
     #----------------------------------------------------------------------------
 
+    # Luxembourg
+
+    ## Jurisdiction
+    
+    lux_tax_jur_I = ["Luxembourg"]
+
+    ## Sectors
+    
+    lux_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    lux_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    lux_tax_jur_coverage = {2021:}
+    
+    lux_tax_ipcc_coverage = {2021:}     
+
+    lux_tax_fuel_coverage = {2021:} 
+    
+    ## Sources dictionary
+    
+    lux_tax_coverage_sources = {2021:}
+    
+    #----------------------------------------------------------------------------
+
     # Mexico
     
     ## Jurisdiction
@@ -923,6 +950,33 @@ def scope():
                                 2016:"leg(LIEP[2012])", 2017:"leg(LIEP[2012])", 
                                 2018:"leg(LIEP[2012])", 2019:"leg(LIEP[2012])", 
                                 2020:"leg(LIEP[2012])", 2021:"leg(LIEP[2012])"}
+
+    #----------------------------------------------------------------------------
+
+    # Netherlands
+
+    ## Jurisdiction
+    
+    nld_tax_jur_I = ["Netherlands"]
+
+    ## Sectors
+    
+    nld_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    nld_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    nld_tax_jur_coverage = {2021:}
+    
+    nld_tax_ipcc_coverage = {2021:}     
+
+    nld_tax_fuel_coverage = {2021:} 
+    
+    ## Sources dictionary
+    
+    nld_tax_coverage_sources = {2021:}
 
     #----------------------------------------------------------------------------
 
@@ -2028,15 +2082,21 @@ def scope():
                       "lie_tax":{"jurisdictions":lie_tax_jur_coverage, 
                                   "sectors":lie_tax_ipcc_coverage,
                                   "fuels":lie_tax_fuel_coverage},
+                      "lux_tax":{"jurisdictions":lux_tax_jur_coverage, 
+                                  "sectors":lux_tax_ipcc_coverage,
+                                  "fuels":lux_tax_fuel_coverage},
+                      "mex_tax":{"jurisdictions":mex_tax_jur_coverage, 
+                                  "sectors":mex_tax_ipcc_coverage,
+                                  "fuels":mex_tax_fuel_coverage},
+                      "nld_tax":{"jurisdictions":nld_tax_jur_coverage, 
+                                  "sectors":nld_tax_ipcc_coverage,
+                                  "fuels":nld_tax_fuel_coverage},
                       "nor_tax_I":{"jurisdictions":nor_tax_I_jur_coverage, 
                                   "sectors":nor_tax_I_ipcc_coverage,
                                   "fuels":nor_tax_I_fuel_coverage},
                       "nor_tax_II":{"jurisdictions":nor_tax_II_jur_coverage, 
                                   "sectors":nor_tax_II_ipcc_coverage,
                                   "fuels":nor_tax_II_fuel_coverage},
-                      "mex_tax":{"jurisdictions":mex_tax_jur_coverage, 
-                                  "sectors":mex_tax_ipcc_coverage,
-                                  "fuels":mex_tax_fuel_coverage},
                       "prt_tax":{"jurisdictions":prt_tax_jur_coverage, 
                                   "sectors":prt_tax_ipcc_coverage,
                                   "fuels":prt_tax_fuel_coverage},
@@ -2084,7 +2144,16 @@ def scope():
                                   "fuels":can_nl_tax_fuel_coverage},
                       "can_nt_tax":{"jurisdictions":can_nt_tax_jur_coverage, 
                                   "sectors":can_nt_tax_ipcc_coverage,
-                                  "fuels":can_nt_tax_fuel_coverage}}
+                                  "fuels":can_nt_tax_fuel_coverage},
+                      "mex_bc_tax":{"jurisdictions":mex_bc_tax_jur_coverage,
+                                    "sectors":mex_bc_tax_ipcc_coverage,
+                                    "fuels":mex_bc_tax_fuel_coverage}
+                      "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_coverage,
+                                    "sectors":mex_tm_tax_ipcc_coverage,
+                                    "fuels":mex_tm_tax_fuel_coverage}
+                      "mex_za_tax":{"jurisdictions":mex_za_tax_jur_coverage,
+                                    "sectors":mex_za_tax_ipcc_coverage,
+                                    "fuels":mex_za_tax_fuel_coverage}}                      
     
     taxes_coverage_sources = {"arg_tax":arg_tax_coverage_sources,
                               "aus_tax":aus_tax_coverage_sources,
@@ -2100,9 +2169,11 @@ def scope():
                               "jpn_tax":jpn_tax_coverage_sources,
                               "lie_tax":lie_tax_coverage_sources,
                               "lva_tax":lva_tax_coverage_sources,
+                              "lux_tax":lux_tax_coverage_sources,                              
+                              "mex_tax":mex_tax_coverage_sources,
+                              "nld_tax":nld_tax_coverage_sources,                              
                               "nor_tax_I":nor_tax_I_coverage_sources,
                               "nor_tax_II":nor_tax_II_coverage_sources,
-                              "mex_tax":mex_tax_coverage_sources,
                               "prt_tax":prt_tax_coverage_sources,
                               "pol_tax":pol_tax_coverage_sources,
                               "sgp_tax":sgp_tax_coverage_sources,
@@ -2118,7 +2189,10 @@ def scope():
                               "can_nb_tax":can_nb_tax_coverage_sources,
                               "can_pe_tax":can_pe_tax_coverage_sources,
                               "can_nl_tax":can_nl_tax_coverage_sources,
-                              "can_nt_tax":can_nt_tax_coverage_sources}
+                              "can_nt_tax":can_nt_tax_coverage_sources,
+                              "mex_bc_tax":mex_bc_tax_coverage_sources,
+                              "mex_tm_tax":mex_tm_tax_coverage_sources,
+                              "mex_za_tax":mex_za_tax_coverage_sources}
     
     
     data_and_sources = {"data":taxes_coverage, "sources":taxes_coverage_sources}
