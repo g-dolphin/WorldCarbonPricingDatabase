@@ -8,7 +8,7 @@ Baja California,mex_bc_tax,1,,,CO2,,
 BC GGIRCA,can_bc_ggirca,0,,,,,
 BC carbon tax,can_bc_tax,1,,,,,
 Beijing pilot ETS,chn_bj_ets,0,,,CO2,ICAP,
-California CaT,us_ca_cat,0,,,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",ICAP,
+California CaT,usa_ca_ets,0,,,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",ICAP,
 Canada federal OBPS,can_obps,0,,,CO2,,
 Canada federal fuel charge,can_tax_I,1,,,CO2,,most provinces
 Canada federal fuel charge,can_tax_II,1,,,CO2,,Yukon & Nunavut
