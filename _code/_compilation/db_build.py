@@ -20,8 +20,8 @@ gas = "CO2" # or CH4 / HFCs / PFCs / SF6
 
 gen_func = SourceFileLoader('general', '/Users/gd/GitHub/ECP/_code/compilation/dependencies/ecp_v3_gen_func.py').load_module()
 
-etsPricesModule = SourceFileLoader('ets_prices', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_preprocessing/ets_prices.py').load_module()
-taxRatesModule = SourceFileLoader('tax_rates', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_preprocessing/tax_rates.py').load_module()
+etsPricesModule = SourceFileLoader('ets_prices', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/ets_prices.py').load_module()
+taxRatesModule = SourceFileLoader('tax_rates', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/tax_rates.py').load_module()
 etsScopeModule = SourceFileLoader('ets_scope', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/scope/ets/ets_scope_'+gas+'.py').load_module()
 taxScopeModule = SourceFileLoader('taxes_scope', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/scope/tax/taxes_scope_'+gas+'.py').load_module()
 
@@ -37,7 +37,7 @@ price_exemptions_all_jur = pd.concat([price_exemptions_nat, price_exemptions_sub
 
 #----------------------------DB structure------------------------#
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/dependencies/jurisdictions.py")
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/jurisdictions.py")
 read_file = stream.read()
 exec(read_file)
 
@@ -53,16 +53,19 @@ wcpd_all_jur = pd.DataFrame()
 wcpd_all_jur_sources = pd.DataFrame()
 
 for jur in all_jur_list:
-    wcpd_structure["jurisdiction"] = jur
-    
-    if wcpd_all_jur.empty == True:
-        wcpd_all_jur = wcpd_structure
-        wcpd_all_jur_sources = wcpd_structure
-    else:
-        wcpd_all_jur = pd.concat([wcpd_all_jur, wcpd_structure], axis=0)
-        wcpd_all_jur_sources = pd.concat([wcpd_all_jur_sources, wcpd_structure], axis=0)
 
-#------------------------Primary:Emissions trading systems---------------------------#
+    temp = wcpd_structure.copy()
+    temp["jurisdiction"] = jur
+    
+    if (wcpd_all_jur.empty == True):
+        wcpd_all_jur = temp
+        wcpd_all_jur_sources = temp
+        
+    else:
+        wcpd_all_jur = pd.concat([wcpd_all_jur, temp], axis=0)
+        wcpd_all_jur_sources = pd.concat([wcpd_all_jur_sources, temp], axis=0)
+
+#------------------------Prices and scopes modules---------------------------#
 
 ets_prices = etsPricesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price")
 #ets_prices = ets_prices.loc[ets_prices.ghg==gas]
@@ -70,8 +73,14 @@ ets_prices = etsPricesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatab
 ets_scope = etsScopeModule.scope()["data"]
 ets_scope_sources = etsScopeModule.scope()["sources"]
 
-ets_1_list = list(ets_scope.keys()) #list of identifiers of ETS covering the selected gas
-ets_1_list.remove("us_ma_ets") #second scheme
+tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/")
+tax_rates.rename(columns={"product":"em_type"}, inplace=True)
+tax_rates = tax_rates.loc[tax_rates.ghg==gas]
+
+taxes_scope = taxScopeModule.scope()["data"]
+taxes_scope_sources = taxScopeModule.scope()["sources"]
+
+#------------------------Dataframe production functions---------------------------#
 
 def ets_db_values(scheme_list, scheme_no):
     
@@ -103,18 +112,6 @@ def ets_db_values(scheme_list, scheme_no):
             except:
                 print(scheme, yr)
 
-ets_db_values(ets_1_list, "scheme_1")
-
-#--------------------------------Primary:Carbon taxes--------------------------------#
-
-tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/")
-tax_rates.rename(columns={"product":"em_type"}, inplace=True)
-tax_rates = tax_rates.loc[tax_rates.ghg==gas]
-
-taxes_scope = taxScopeModule.scope()["data"]
-taxes_scope_sources = taxScopeModule.scope()["sources"]
-
-taxes_1_list = list(taxes_scope.keys()) # list of identifiers of taxes covering the selected gas
 
 def tax_db_values(scheme_list, scheme_no):
     
@@ -126,7 +123,6 @@ def tax_db_values(scheme_list, scheme_no):
                    "rate":"tax_2_rate_excl_ex_clcu", "curr_code":"tax_2_curr_code"}
 
     for scheme in scheme_list:
-        print(scheme)
         for yr in taxes_scope[scheme]["jurisdictions"].keys():   
             selection = (wcpd_all_jur.year==yr) & (wcpd_all_jur.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (wcpd_all_jur.Product.isin(taxes_scope[scheme]["fuels"][yr]))
             selection_sources = (wcpd_all_jur_sources.year==yr) & (wcpd_all_jur_sources.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur_sources.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (wcpd_all_jur_sources.Product.isin(taxes_scope[scheme]["fuels"][yr]))
@@ -148,10 +144,18 @@ def tax_db_values(scheme_list, scheme_no):
                 
             except:
                 print(scheme, yr)
- 
+
+#--------------------------------Primary pricing mechanism--------------------------------#
+
+ets_1_list = list(ets_scope.keys()) #list of identifiers of ETS covering the selected gas
+ets_1_list.remove("us_ma_ets") #second scheme
+
+taxes_1_list = list(taxes_scope.keys()) # list of identifiers of taxes covering the selected gas
+
+ets_db_values(ets_1_list, "scheme_1")
 tax_db_values(taxes_1_list, "scheme_1")
 
-#----------------------------Second pricing scheme----------------------#
+#----------------------------Secondary pricing mechanism----------------------#
 # NOTE: The "second pricing scheme" columns are only used when, for a given 
 #       jurisdiction, at least one sector is (in any given year) either 
 #       (i) covered by >1 carbon tax; OR 
@@ -160,12 +164,10 @@ tax_db_values(taxes_1_list, "scheme_1")
 #       the pricing scheme information is recorded in the primary columns
 #----------------------------Second:Emissions trading systems------------#
 
-ets_2_list = {"CO2":["us_ma_ets"]}
+ets_2_list = ["us_ma_ets"]
 ets_db_values(ets_2_list, "scheme_2")
 
-#----------------------------Second:carbon taxes------------#
-
-tax_2_list = {"CO2":[]}
+tax_2_list = []
 tax_db_values(tax_2_list, "scheme_2")
 
 #----------------------------------------------------------------#
@@ -228,12 +230,14 @@ wcpd_all_jur = wcpd_all_jur[["jurisdiction", "year", "ipcc_code",
                    "Product", "tax", "ets", "tax_id",
                    "tax_rate_excl_ex_clcu", "tax_ex_rate", 
                    "tax_rate_incl_ex_clcu", "tax_curr_code", "ets_id", "ets_price",
-                   "ets_curr_code"]]
+                   "ets_curr_code", "ets_2_id", "ets_2_price", "ets_2_curr_code"]]
 
 wcpd_all_jur_sources = wcpd_all_jur_sources[["jurisdiction", "year", "ipcc_code", 
                                    "Product", "tax", "ets",
                                    "tax_rate_excl_ex_clcu", "tax_ex_rate",
                                    "ets_price"]]
+
+
 
 # Breaking up dataframe into single jurisdiction .csv files
 std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
@@ -243,15 +247,14 @@ std_subnat_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x 
 subnat_dic = dict(zip(subnat_list, std_subnat_names))
 
 
+for jur in countries_dic:
+    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/"+gas+"/national/wcpd_"+gas.lower()+"_"+countries_dic[jur]+".csv", index=None)
+for jur in subnat_dic:
+    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/"+gas+"/subnational/wcpd_"+gas.lower()+"_"+subnat_dic[jur]+".csv", index=None)
 
 for jur in countries_dic:
-    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/national/CP_"+countries_dic[jur]+".csv", index=None)
+    wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/"+gas+"/national/wcpd_"+gas.lower()+"_"+countries_dic[jur]+".csv", index=None)
 for jur in subnat_dic:
-    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
-
-for jur in countries_dic:
-    wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/national/CP_"+countries_dic[jur]+".csv", index=None)
-for jur in subnat_dic:
-    wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/subnational/CP_"+subnat_dic[jur]+".csv", index=None)
+    wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/"+gas+"/subnational/wcpd_"+gas.lower()+"_"+subnat_dic[jur]+".csv", index=None)
     
     
