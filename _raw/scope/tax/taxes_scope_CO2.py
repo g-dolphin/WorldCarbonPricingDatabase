@@ -133,15 +133,15 @@ def scope():
     mex_bc_tax_fuel_I = []
 
     ## Coverage dictionaries
-    mex_bc_tax_jur_coverage = {2020:}
+    mex_bc_tax_jur_coverage = {} #2020:
     
-    mex_bc_tax_ipcc_coverage = {2020:}     
+    mex_bc_tax_ipcc_coverage = {} #2020:    
 
-    mex_bc_tax_fuel_coverage = {2020:} 
+    mex_bc_tax_fuel_coverage = {} #2020:
     
     ## Sources dictionary
     
-    mex_bc_tax_coverage_sources = {2020:}
+    mex_bc_tax_coverage_sources = {} #2020:
 
     #----------------------------------------------------------------------------
     
@@ -898,15 +898,15 @@ def scope():
     lux_tax_fuel_I = []
 
     ## Coverage dictionaries
-    lux_tax_jur_coverage = {2021:}
+    lux_tax_jur_coverage = {} #2021:
     
-    lux_tax_ipcc_coverage = {2021:}     
+    lux_tax_ipcc_coverage = {} #2021:     
 
-    lux_tax_fuel_coverage = {2021:} 
+    lux_tax_fuel_coverage = {} #2021:
     
     ## Sources dictionary
     
-    lux_tax_coverage_sources = {2021:}
+    lux_tax_coverage_sources = {} #2021:
     
     #----------------------------------------------------------------------------
 
@@ -968,15 +968,15 @@ def scope():
     nld_tax_fuel_I = []
 
     ## Coverage dictionaries
-    nld_tax_jur_coverage = {2021:}
+    nld_tax_jur_coverage = {} #2021:
     
-    nld_tax_ipcc_coverage = {2021:}     
+    nld_tax_ipcc_coverage = {} #2021:     
 
-    nld_tax_fuel_coverage = {2021:} 
+    nld_tax_fuel_coverage = {} #2021:
     
     ## Sources dictionary
     
-    nld_tax_coverage_sources = {2021:}
+    nld_tax_coverage_sources = {} #2021:
 
     #----------------------------------------------------------------------------
 
@@ -1634,15 +1634,15 @@ def scope():
     mex_tm_tax_fuel_I = []
 
     ## Coverage dictionaries
-    mex_tm_tax_jur_coverage = {2021:}
+    mex_tm_tax_jur_coverage = {} #2021:
     
-    mex_tm_tax_ipcc_coverage = {2021:}     
+    mex_tm_tax_ipcc_coverage = {} #2021:    
 
-    mex_tm_tax_fuel_coverage = {2021:} 
+    mex_tm_tax_fuel_coverage = {} #2021:
     
     ## Sources dictionary
     
-    mex_tm_tax_coverage_sources = {2021:}
+    mex_tm_tax_coverage_sources = {} #2021:
     
     #----------------------------------------------------------------------------
     
@@ -1776,15 +1776,15 @@ def scope():
     mex_za_tax_fuel_I = []
 
     ## Coverage dictionaries
-    mex_za_tax_jur_coverage = {2017:}
+    mex_za_tax_jur_coverage = {} #2017:
     
-    mex_za_tax_ipcc_coverage = {2017:}     
+    mex_za_tax_ipcc_coverage = {} #2017:    
 
-    mex_za_tax_fuel_coverage = {2017:} 
+    mex_za_tax_fuel_coverage = {} #2017:
     
     ## Sources dictionary
     
-    mex_za_tax_coverage_sources = {2017:}
+    mex_za_tax_coverage_sources = {} #2017:
     
     #----------------------------------------------------------------------------
     
@@ -2147,10 +2147,10 @@ def scope():
                                   "fuels":can_nt_tax_fuel_coverage},
                       "mex_bc_tax":{"jurisdictions":mex_bc_tax_jur_coverage,
                                     "sectors":mex_bc_tax_ipcc_coverage,
-                                    "fuels":mex_bc_tax_fuel_coverage}
+                                    "fuels":mex_bc_tax_fuel_coverage},
                       "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_coverage,
                                     "sectors":mex_tm_tax_ipcc_coverage,
-                                    "fuels":mex_tm_tax_fuel_coverage}
+                                    "fuels":mex_tm_tax_fuel_coverage},
                       "mex_za_tax":{"jurisdictions":mex_za_tax_jur_coverage,
                                     "sectors":mex_za_tax_ipcc_coverage,
                                     "fuels":mex_za_tax_fuel_coverage}}                      
