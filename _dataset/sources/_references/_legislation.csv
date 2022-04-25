@@ -1,4 +1,4 @@
-Jurisdiction,Legislation title - english,Legislation title - official language,Legislation reference,Year_enacted,Year_last_amendment,Year of consultation,URL,Key,
+jurisdiction,leg_title_english,leg_title_off_lang,leg_ref,year_enacted,year_last_amendment,Year of consultation,URL,Key,
 Alberta,Specified Emissions Gas Regulation,,139/2007,2007,2015,2015,http://www.qp.alberta.ca/documents/Regs/2007_139.pdf,AB-SGER,
 Alberta,Climate Change and Emissions Management Act - Ministerial Order,,58/2017,2017,,2021,https://www.alberta.ca/assets/documents/CCEMA-fund-credit-ministerial-order.PDF,AB,
 Alberta,Technology Innovation and Emissions Reduction Fund Credit Amount Order,,36/2020,2020,,2021,https://open.alberta.ca/dataset/14cf509d-115e-4dd1-adba-33ff8daa5603/resource/6bd40aae-2dbc-4dd8-97e6-0681c16abb5c/download/aep-ministerial-order-36-2020.pdf,AB,
@@ -87,6 +87,7 @@ Slovenia,U R E D B O o taksi za obremenjevanje zraka z emisijo ogljikovega dioks
 Slovenia,Regulation on the environmental tax on air pollution by carbon dioxide emissions,,48/2018,2018,,,,SL-CO2,
 Slovenia,Regulation amending the Regulation on the environmental tax on air pollution by carbon dioxide emissions,,168/20,2020,,,,SL-CO2,
 South Africa,Carbon Tax Act 15 of 2019,,No. 42483,2019,,2021,https://www.gov.za/sites/default/files/gcis_document/201905/4248323-5act15of2019carbontaxact.pdf,SA,
+Spain,"Ley 16/2013, de 29 de octubre, por la que se establecen determinadas medidas en materia de fiscalidad medioambiental y se adoptan otras medidas tributarias y financieras",,16/2013,2013,2018,2022,https://www.boe.es/buscar/act.php?id=BOE-A-2013-11331&b=6&tn=1&p=20141128#a5,ES-FG,
 Switzerland,Ordinance on the Reduction of CO2 Emissions (CO2 Ordinance),,SR 641.711,2013,,,https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20200101/en/pdf-a/fedlex-data-admin-ch-eli-cc-2012-856-20200101-en-pdf-a.pdf,CHE-CO2,
 Switzerland,Federal Act on the Reduction of CO2,,SR 641.71,2013,,2015,https://www.fedlex.admin.ch/eli/cc/2012/855/en,CHE-FARC,
 Ukraine,Tax code of Ukraine,,,2011,2018,2021,https://zakon.rada.gov.ua/laws/show/2755-17,UA,
