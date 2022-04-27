@@ -9546,15 +9546,15 @@ Shanghai Municipality,2021,1A1,Oil,,,,,
 Shanghai Municipality,2021,1A1A,Coal,,,,,
 Shanghai Municipality,2021,1A1A,Natural gas,,,,,
 Shanghai Municipality,2021,1A1A,Oil,,,,,
-Shanghai Municipality,2021,1A1A1,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A1A1,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A1A1,Oil,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A1A2,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A1A2,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A1A2,Oil,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A1A3,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A1A3,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A1A3,Oil,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,1A1A1,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A1A1,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A1A1,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A1A2,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A1A2,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A1A2,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A1A3,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A1A3,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A1A3,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,1A1B,Coal,,,,,
 Shanghai Municipality,2021,1A1B,Natural gas,,,,,
 Shanghai Municipality,2021,1A1B,Oil,,,,,
@@ -9564,18 +9564,18 @@ Shanghai Municipality,2021,1A1C,Oil,,,,,
 Shanghai Municipality,2021,1A2,Coal,,,,,
 Shanghai Municipality,2021,1A2,Natural gas,,,,,
 Shanghai Municipality,2021,1A2,Oil,,,,,
-Shanghai Municipality,2021,1A2A,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2A,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2A,Oil,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2B,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2B,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2B,Oil,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2C,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2C,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2C,Oil,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2D,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2D,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2D,Oil,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,1A2A,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2A,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2A,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2B,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2B,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2B,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2C,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2C,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2C,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2D,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2D,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2D,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,1A2E,Coal,,,,,
 Shanghai Municipality,2021,1A2E,Natural gas,,,,,
 Shanghai Municipality,2021,1A2E,Oil,,,,,
@@ -9594,12 +9594,12 @@ Shanghai Municipality,2021,1A2I,Oil,,,,,
 Shanghai Municipality,2021,1A2J,Coal,,,,,
 Shanghai Municipality,2021,1A2J,Natural gas,,,,,
 Shanghai Municipality,2021,1A2J,Oil,,,,,
-Shanghai Municipality,2021,1A2K,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2K,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2K,Oil,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2L,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2L,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A2L,Oil,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,1A2K,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2K,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2K,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2L,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2L,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A2L,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,1A2M,Coal,,,,,
 Shanghai Municipality,2021,1A2M,Natural gas,,,,,
 Shanghai Municipality,2021,1A2M,Oil,,,,,
@@ -9612,24 +9612,24 @@ Shanghai Municipality,2021,1A3A,Oil,,,,,
 Shanghai Municipality,2021,1A3A1,Coal,,,,,
 Shanghai Municipality,2021,1A3A1,Natural gas,,,,,
 Shanghai Municipality,2021,1A3A1,Oil,,,,,
-Shanghai Municipality,2021,1A3A2,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A3A2,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A3A2,Oil,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,1A3A2,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A3A2,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A3A2,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,1A3B,Coal,,,,,
 Shanghai Municipality,2021,1A3B,Natural gas,,,,,
 Shanghai Municipality,2021,1A3B,Oil,,,,,
-Shanghai Municipality,2021,1A3C,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A3C,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A3C,Oil,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,1A3C,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A3C,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A3C,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,1A3D,Coal,,,,,
 Shanghai Municipality,2021,1A3D,Natural gas,,,,,
 Shanghai Municipality,2021,1A3D,Oil,,,,,
 Shanghai Municipality,2021,1A3D1,Coal,,,,,
 Shanghai Municipality,2021,1A3D1,Natural gas,,,,,
 Shanghai Municipality,2021,1A3D1,Oil,,,,,
-Shanghai Municipality,2021,1A3D2,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A3D2,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A3D2,Oil,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,1A3D2,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A3D2,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A3D2,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,1A3E,Coal,,,,,
 Shanghai Municipality,2021,1A3E,Natural gas,,,,,
 Shanghai Municipality,2021,1A3E,Oil,,,,,
@@ -9639,9 +9639,9 @@ Shanghai Municipality,2021,1A3E1,Oil,,,,,
 Shanghai Municipality,2021,1A4,Coal,,,,,
 Shanghai Municipality,2021,1A4,Natural gas,,,,,
 Shanghai Municipality,2021,1A4,Oil,,,,,
-Shanghai Municipality,2021,1A4A,Coal,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A4A,Natural gas,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,1A4A,Oil,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,1A4A,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A4A,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,1A4A,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,1A4B,Coal,,,,,
 Shanghai Municipality,2021,1A4B,Natural gas,,,,,
 Shanghai Municipality,2021,1A4B,Oil,,,,,
@@ -9728,32 +9728,32 @@ Shanghai Municipality,2021,2A4B,NA,,,,,
 Shanghai Municipality,2021,2A4C,NA,,,,,
 Shanghai Municipality,2021,2A4D,NA,,,,,
 Shanghai Municipality,2021,2B,NA,,,,,
-Shanghai Municipality,2021,2B1,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B10,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B2,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B3,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B4,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B5,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B6,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B7,NA,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,2B1,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B10,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B2,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B3,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B4,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B5,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B6,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B7,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,2B8,NA,,,,,
-Shanghai Municipality,2021,2B8A,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B8B,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B8C,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B8D,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B8E,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B8F,NA,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,2B8A,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B8B,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B8C,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B8D,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B8E,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B8F,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,2B9,NA,,,,,
-Shanghai Municipality,2021,2B9A,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2B9B,NA,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,2B9A,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2B9B,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,2C,NA,,,,,
-Shanghai Municipality,2021,2C1,NA,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,2C1,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,2C2,NA,,,,,
-Shanghai Municipality,2021,2C3,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2C4,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2C5,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2C6,NA,,report(ICAP[2021]),,,
-Shanghai Municipality,2021,2C7,NA,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,2C3,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2C4,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2C5,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2C6,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shanghai Municipality,2021,2C7,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,2D,NA,,,,,
 Shanghai Municipality,2021,2D1,NA,,,,,
 Shanghai Municipality,2021,2D2,NA,,,,,
@@ -9773,7 +9773,7 @@ Shanghai Municipality,2021,2G2,NA,,,,,
 Shanghai Municipality,2021,2G3,NA,,,,,
 Shanghai Municipality,2021,2G4,NA,,,,,
 Shanghai Municipality,2021,2H,NA,,,,,
-Shanghai Municipality,2021,2H1,NA,,report(ICAP[2021]),,,
+Shanghai Municipality,2021,2H1,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shanghai Municipality,2021,2H2,NA,,,,,
 Shanghai Municipality,2021,2H3,NA,,,,,
 Shanghai Municipality,2021,3,NA,,,,,
