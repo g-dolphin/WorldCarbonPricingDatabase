@@ -1,4 +1,4 @@
-Jurisdiction,Year,Institution,URL,Last_accessed,Comment,Key
+jurisdiction,year,institution,url,last_accessed,comment,key
 Alberta,2015,Alberta Emissions Offset Registry,http://www.csaregistries.ca/albertacarbonregistries/home.cfm,,,AL
 Alberta,2016,Alberta Environment and Parks,http://aep.alberta.ca/climate-change/reports-and-data/default.aspx,,SGER Entitites Emissions,AL-SGER
 Alberta,2018,Alberta Government - Carbon levy and rebates,https://www.alberta.ca/climate-carbon-pricing.aspx#p184s3,,,AG-CLR
@@ -47,6 +47,7 @@ Quebec,,ICAP,https://icapcarbonaction.com/en/?option=com_etsmap&task=export&form
 Shanghai,2015,Shanghai Environment and Energy Exchange,http://www.cneeex.com/detail.jsp?main_colid=224&top_id=218&main_artid=6702,,,
 Shenzhen,2015,China Emission Exchange,http://www.cerx.cn/information/index_49.htm,,,
 South Africa,2020,South African Revenue Service,https://www.sars.gov.za/customs-and-excise/excise/environmental-levy-products/carbon-tax/,2021,,SAGOV(2020)
+Spain,,"Espana, Ministerio de Hacienda y funcion publica","https://sede-agenciatributaria-gob-es.translate.goog/Sede/impuestos-especiales-medioambientales/impuesto-sobre-gases-fluorados-efecto-invernadero.html?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=op,wapp",2022,Impuesto sobre gases fluorados de efecto invernadero,
 Sweden,2015,Swedish Taxation Agency,http://www.skatteverket.se/foretagorganisationer/skatter/punktskatter/energiskatter/skattesatser.4.77dbcb041438070e0395e96.html,,,SW-TA
 Switzerland,2015,Swiss Federal Office for the Environment,http://www.bafu.admin.ch/klima/13877/14510/14719/14741/index.html?lang=en#sprungmarke3_4,,,SW-FOEN
 Switzerland,2021,Swiss Emissions Registry,https://www.emissionsregistry.admin.ch/crweb/public/welcome.do,,,SW-ER

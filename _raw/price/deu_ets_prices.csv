@@ -1,2 +1,3 @@
 scheme_id,year,allowance_price,currency_code,source,comment
 deu_ets,2021,25,EUR,gvt(DEU-UBA[2021]),
+deu_ets,2022,,EUR,,
