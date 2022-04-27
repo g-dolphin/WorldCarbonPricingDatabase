@@ -64,88 +64,105 @@ def prices_df(path_prices):
     can_nl_ets_prices = pd.read_csv(path_prices+"//can_nl_ets_prices.csv")
     can_nl_ets_prices = can_nl_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
     
+
+    # ICAP Prices (EU ETS, NZL ETS, KOR ETS, CHN PROV ETS, CAN PROV)
+    icap_raw = pd.read_csv("/Users/gd/desktop/icap-graph-data-17-01-2022.csv",
+                           delimiter=";", encoding= 'latin-1', header=2, 
+                           low_memory=False)
     
+    icap_raw.drop([0], axis=0, inplace=True)
     
-    # ICAP Prices (EU ETS, NZL ETS, KOR ETS, CHN PROV ETS)
-    icap = pd.read_csv(path_prices+"/_ICAP_allowance_prices.csv",
-                       encoding= 'latin-1', header=2)
+    icap_raw.rename(columns={"Unnamed: 0":"Date"}, inplace=True)
     
-    icap.rename(columns={"Unnamed: 0":"Date"}, inplace=True)
+    chn_pilots_cols = []
+    
+    for i in range(251,273,3):
+        chn_pilots_cols = chn_pilots_cols + ["Unnamed: "+ str(i)]
+    
+    drop_cols = []
+    
+    for col in icap_raw.columns:
+        if "Unnamed" in col and col not in chn_pilots_cols:
+            drop_cols = drop_cols + [col]
+    
+    icap_raw.drop(drop_cols, axis=1, inplace=True)
     
     ## drop unnecessary columns
-    drop_cols = [x for x in icap.columns if 'Unnamed' in x]
-    icap.drop(drop_cols, axis=1, inplace=True)
     
-    drop_list = ['New ETS 1', 'New ETS 2', 'New ETS 3', 'New ETS 4', 'New ETS 5', 
+    drop_list = ['New ETS 4', 'New ETS 5', 
                  'New ETS 6', 'New ETS 7', 'New ETS 8', 'New ETS 9', 'New ETS 10', 
                  'Chinese Pilots', 'Kazakhstan']
     
-    icap.drop(drop_list, axis=1, inplace=True)
-    icap.drop([0,1], axis=0, inplace=True)
+    icap_raw.drop(drop_list, axis=1, inplace=True)
+    icap_raw.drop([1], axis=0, inplace=True)
     
     ## rename columns
-    icap.rename(columns={"Québec":"Quebec", "South Korea":"Korea, Rep."}, inplace=True)
+    icap_raw.rename(columns={"QuÃ©bec":"Quebec", "South Korea":"Korea, Rep.",
+                             "Unnamed: 251":"Shenzhen", "Unnamed: 254":"Shanghai", 
+                             "Unnamed: 257":"Beijing", "Unnamed: 260":"Guangdong",
+                             "Unnamed: 263":"Tianjin", "Unnamed: 266":"Hubei",
+                             "Unnamed: 269":"Chongqing", "Unnamed: 272":"Fujian"}, inplace=True)
+    
+    ## replace "," with "." in columns; convert to float
+    
+    for col in list(icap_raw.columns)[1:]:  
+        icap_raw[col] = icap_raw[col].str.replace(",", ".")
+        icap_raw[col] = icap_raw[col].astype(float)
     
     ## extract year from date string
     
-    icap["year"] = icap["Date"].str[6:]
-    
-    ## set allowance price columns to numeric
-    
-    for col in ['European Union', 'New Zealand', 'RGGI', 'California', 'Quebec',
-           'Ontario', 'Switzerland', 'Korea, Rep.', 'Shenzhen',
-           'Shanghai', 'Beijing', 'Guangdong', 'Tianjin', 'Hubei', 'Chongqing',
-           'Fujian']:
-    
-        icap[col] = icap[col].astype('float')
+    icap_raw["year"] = icap_raw["Date"].str[6:]
         
-    icap_average = icap.groupby(by="year").mean()
+    icap_raw_average = icap_raw.groupby(by="year").mean()
     
     ## replace column names with scheme identifiers
     
-    name_id_dic = {'European Union':"eu_ets", 'New Zealand':"nzl_ets", 'RGGI':"us_rggi", 
+    name_id_dic = {'European Union':"eu_ets", 'New Zealand':"nzl_ets", 
+                   'RGGI':"us_rggi", "United Kingdom":"gbr_ets", "China":"chn_ets",
                    'California':"us_ca_cat", 'Quebec':"can_qc_cat", 
                    'Switzerland':"che_ets", 'Korea, Rep.':"kor_ets",
+                   "Nova Scotia":"can_ns_ets", "Ontario":"can_on_ets",
                    'Shenzhen':"chn_sz_ets",'Shanghai':"chn_sh_ets", 'Beijing':"chn_bj_ets", 
                    'Guangdong':"chn_gd_ets", 'Tianjin':"chn_tj_ets", 
                    'Hubei':"chn_hb_ets", 'Chongqing':"chn_cq_ets", 'Fujian':"chn_fj_ets"}
     
-    icap_average = icap_average.rename(columns=name_id_dic)
-    icap_average = icap_average.reset_index()
+    icap_raw_average = icap_raw_average.rename(columns=name_id_dic)
+    icap_raw_average = icap_raw_average.reset_index()
     
-    icap_average = icap_average.drop(["us_rggi", "Ontario", "che_ets", 
-                            "us_ca_cat", "can_qc_cat"], axis=1)
+    icap_raw_average = icap_raw_average.drop(["us_rggi", "can_on_ets", "che_ets", 
+                            "us_ca_cat", "can_qc_cat", "can_ns_ets"], axis=1)
     
     ## add currency codes
-    icap_average = icap_average.melt(id_vars=["year"])
-    icap_average.columns = ["year", "scheme_id", "allowance_price"]
+    icap_raw_average = icap_raw_average.melt(id_vars=["year"])
+    icap_raw_average.columns = ["year", "scheme_id", "allowance_price"]
     
-    icap_average["currency_code"] = ""
+    icap_raw_average["currency_code"] = ""
     
     curr_codes = {"eu_ets":"EUR", "nzl_ets":"NZD", "kor_ets":"KRW",
-                  "chn_she_ets":"CNY", "chn_sha_ets":"CNY", "chn_bei_ets":"CNY", 
-                  'chn_gua_ets':"CNY", 'chn_tia_ets':"CNY", 'chn_hub_ets':"CNY",
-                  'chn_cho_ets':"CNY", 'chn_fuj_ets':"CNY"}
+                  "gbr_ets":"GBP", 'chn_ets':'CNY',
+                  "chn_sz_ets":"CNY", "chn_sh_ets":"CNY", "chn_bj_ets":"CNY", 
+                  'chn_gd_ets':"CNY", 'chn_tj_ets':"CNY", 'chn_hb_ets':"CNY",
+                  'chn_cq_ets':"CNY", 'chn_fj_ets':"CNY"}
     
     for scheme in curr_codes.keys():
-        icap_average.loc[icap_average.scheme_id==scheme, "currency_code"] = curr_codes[scheme]
+        icap_raw_average.loc[icap_raw_average.scheme_id==scheme, "currency_code"] = curr_codes[scheme]
     
-    icap_average["source"] = "db(ICAP-ETS[2021])"
-    icap_average["comment"] = "yearly average of daily prices provided by ICAP"
-    icap_average["year"] = icap_average["year"].astype(int)
+    icap_raw_average["source"] = "db(ICAP-ETS[2021])"
+    icap_raw_average["comment"] = "yearly average of daily prices provided by ICAP"
+    icap_raw_average["year"] = icap_raw_average["year"].astype(int)
     
     ## manually add EU ETS prices for 2005/2006/2007 - from Bloomberg
-    icap_average.loc[(icap_average.scheme_id=="eu_ets") & (icap_average.year==2005), "allowance_price"] = 21.56337209
-    icap_average.loc[(icap_average.scheme_id=="eu_ets") & (icap_average.year==2006), "allowance_price"] = 18.00976096
-    icap_average.loc[(icap_average.scheme_id=="eu_ets") & (icap_average.year==2007), "allowance_price"] = 0.717649402
-    
+    icap_raw_average.loc[(icap_raw_average.scheme_id=="eu_ets") & (icap_raw_average.year==2005), "allowance_price"] = 21.56337209
+    icap_raw_average.loc[(icap_raw_average.scheme_id=="eu_ets") & (icap_raw_average.year==2006), "allowance_price"] = 18.00976096
+    icap_raw_average.loc[(icap_raw_average.scheme_id=="eu_ets") & (icap_raw_average.year==2007), "allowance_price"] = 0.717649402
+        
     #-------------------------------------------------------------------
     
     # Aggregate data from all the sources
     df = pd.concat([rggi_prices, can_qc_cat_prices, us_ca_cat_prices,
                     us_ma_ets_prices,
                     che_ets_prices, kaz_ets_prices,
-                    icap_average, can_obps_prices, 
+                    icap_raw_average, can_obps_prices, 
                     can_ab_ets_prices, can_sk_ets_prices, 
                     can_nb_ets_prices, can_ns_ets_prices, 
                     can_nl_ets_prices])
