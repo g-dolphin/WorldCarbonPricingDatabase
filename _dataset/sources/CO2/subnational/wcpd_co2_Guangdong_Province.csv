@@ -9546,9 +9546,9 @@ Guangdong Province,2021,1A1,Oil,,,,,
 Guangdong Province,2021,1A1A,Coal,,,,,
 Guangdong Province,2021,1A1A,Natural gas,,,,,
 Guangdong Province,2021,1A1A,Oil,,,,,
-Guangdong Province,2021,1A1A1,Coal,,report(ICAP[2021]),,,
-Guangdong Province,2021,1A1A1,Natural gas,,report(ICAP[2021]),,,
-Guangdong Province,2021,1A1A1,Oil,,report(ICAP[2021]),,,
+Guangdong Province,2021,1A1A1,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,1A1A1,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,1A1A1,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Guangdong Province,2021,1A1A2,Coal,,,,,
 Guangdong Province,2021,1A1A2,Natural gas,,,,,
 Guangdong Province,2021,1A1A2,Oil,,,,,
@@ -9564,18 +9564,18 @@ Guangdong Province,2021,1A1C,Oil,,,,,
 Guangdong Province,2021,1A2,Coal,,,,,
 Guangdong Province,2021,1A2,Natural gas,,,,,
 Guangdong Province,2021,1A2,Oil,,,,,
-Guangdong Province,2021,1A2A,Coal,,report(ICAP[2021]),,,
-Guangdong Province,2021,1A2A,Natural gas,,report(ICAP[2021]),,,
-Guangdong Province,2021,1A2A,Oil,,report(ICAP[2021]),,,
+Guangdong Province,2021,1A2A,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,1A2A,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,1A2A,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Guangdong Province,2021,1A2B,Coal,,,,,
 Guangdong Province,2021,1A2B,Natural gas,,,,,
 Guangdong Province,2021,1A2B,Oil,,,,,
 Guangdong Province,2021,1A2C,Coal,,,,,
 Guangdong Province,2021,1A2C,Natural gas,,,,,
 Guangdong Province,2021,1A2C,Oil,,,,,
-Guangdong Province,2021,1A2D,Coal,,report(ICAP[2021]),,,
-Guangdong Province,2021,1A2D,Natural gas,,report(ICAP[2021]),,,
-Guangdong Province,2021,1A2D,Oil,,report(ICAP[2021]),,,
+Guangdong Province,2021,1A2D,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,1A2D,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,1A2D,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Guangdong Province,2021,1A2E,Coal,,,,,
 Guangdong Province,2021,1A2E,Natural gas,,,,,
 Guangdong Province,2021,1A2E,Oil,,,,,
@@ -9612,9 +9612,9 @@ Guangdong Province,2021,1A3A,Oil,,,,,
 Guangdong Province,2021,1A3A1,Coal,,,,,
 Guangdong Province,2021,1A3A1,Natural gas,,,,,
 Guangdong Province,2021,1A3A1,Oil,,,,,
-Guangdong Province,2021,1A3A2,Coal,,report(ICAP[2021]),,,
-Guangdong Province,2021,1A3A2,Natural gas,,report(ICAP[2021]),,,
-Guangdong Province,2021,1A3A2,Oil,,report(ICAP[2021]),,,
+Guangdong Province,2021,1A3A2,Coal,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,1A3A2,Natural gas,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,1A3A2,Oil,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Guangdong Province,2021,1A3B,Coal,,,,,
 Guangdong Province,2021,1A3B,Natural gas,,,,,
 Guangdong Province,2021,1A3B,Oil,,,,,
@@ -9719,7 +9719,7 @@ Guangdong Province,2021,2000,NA,,,,,
 Guangdong Province,2021,20000,NA,,,,,
 Guangdong Province,2021,200000,NA,,,,,
 Guangdong Province,2021,2A,NA,,,,,
-Guangdong Province,2021,2A1,NA,,report(ICAP[2021]),,,
+Guangdong Province,2021,2A1,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Guangdong Province,2021,2A2,NA,,,,,
 Guangdong Province,2021,2A3,NA,,,,,
 Guangdong Province,2021,2A4,NA,,,,,
@@ -9737,17 +9737,17 @@ Guangdong Province,2021,2B5,NA,,,,,
 Guangdong Province,2021,2B6,NA,,,,,
 Guangdong Province,2021,2B7,NA,,,,,
 Guangdong Province,2021,2B8,NA,,,,,
-Guangdong Province,2021,2B8A,NA,,report(ICAP[2021]),,,
-Guangdong Province,2021,2B8B,NA,,report(ICAP[2021]),,,
-Guangdong Province,2021,2B8C,NA,,report(ICAP[2021]),,,
-Guangdong Province,2021,2B8D,NA,,report(ICAP[2021]),,,
-Guangdong Province,2021,2B8E,NA,,report(ICAP[2021]),,,
+Guangdong Province,2021,2B8A,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,2B8B,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,2B8C,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,2B8D,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Guangdong Province,2021,2B8E,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Guangdong Province,2021,2B8F,NA,,,,,
 Guangdong Province,2021,2B9,NA,,,,,
 Guangdong Province,2021,2B9A,NA,,,,,
 Guangdong Province,2021,2B9B,NA,,,,,
 Guangdong Province,2021,2C,NA,,,,,
-Guangdong Province,2021,2C1,NA,,report(ICAP[2021]),,,
+Guangdong Province,2021,2C1,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Guangdong Province,2021,2C2,NA,,,,,
 Guangdong Province,2021,2C3,NA,,,,,
 Guangdong Province,2021,2C4,NA,,,,,
@@ -9773,7 +9773,7 @@ Guangdong Province,2021,2G2,NA,,,,,
 Guangdong Province,2021,2G3,NA,,,,,
 Guangdong Province,2021,2G4,NA,,,,,
 Guangdong Province,2021,2H,NA,,,,,
-Guangdong Province,2021,2H1,NA,,report(ICAP[2021]),,,
+Guangdong Province,2021,2H1,NA,,report(ICAP[2021]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Guangdong Province,2021,2H2,NA,,,,,
 Guangdong Province,2021,2H3,NA,,,,,
 Guangdong Province,2021,3,NA,,,,,
