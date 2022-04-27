@@ -220,10 +220,11 @@ tax_cols = ['tax_id', 'tax_rate_excl_ex_clcu', 'tax_curr_code',
             'tax_ex_rate', 'tax_rate_incl_ex_clcu']
 
 ets_1_cols = ['ets_id', 'ets_price', 'ets_curr_code']
-ets_2_cols = ['ets_2_id']#, 'ets_2_price', 'ets_curr_code']
+ets_2_cols = ['ets_2_id', 'ets_2_price', 'ets_2_curr_code']
 
 wcpd_all_jur.loc[wcpd_all_jur.tax==0.0, tax_cols] = "NA" 
 wcpd_all_jur.loc[wcpd_all_jur.ets==0.0, ets_1_cols] = "NA"
+wcpd_all_jur.loc[wcpd_all_jur.ets==0.0, ets_2_cols] = "NA"
 
 # Re-ordering columns
 wcpd_all_jur = wcpd_all_jur[["jurisdiction", "year", "ipcc_code",
