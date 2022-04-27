@@ -9546,15 +9546,15 @@ Beijing Municipality,2021,1A1,Oil,,,,,
 Beijing Municipality,2021,1A1A,Coal,,,,,
 Beijing Municipality,2021,1A1A,Natural gas,,,,,
 Beijing Municipality,2021,1A1A,Oil,,,,,
-Beijing Municipality,2021,1A1A1,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A1A1,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A1A1,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A1A2,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A1A2,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A1A2,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A1A3,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A1A3,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A1A3,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
+Beijing Municipality,2021,1A1A1,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A1A1,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A1A1,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A1A2,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A1A2,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A1A2,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A1A3,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A1A3,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A1A3,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Beijing Municipality,2021,1A1B,Coal,,,,,
 Beijing Municipality,2021,1A1B,Natural gas,,,,,
 Beijing Municipality,2021,1A1B,Oil,,,,,
@@ -9564,45 +9564,45 @@ Beijing Municipality,2021,1A1C,Oil,,,,,
 Beijing Municipality,2021,1A2,Coal,,,,,
 Beijing Municipality,2021,1A2,Natural gas,,,,,
 Beijing Municipality,2021,1A2,Oil,,,,,
-Beijing Municipality,2021,1A2A,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2A,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2A,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2B,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2B,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2B,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2C,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2C,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2C,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2D,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2D,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2D,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2E,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2E,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2E,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2F,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2F,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2F,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2G,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2G,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2G,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2H,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2H,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2H,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2I,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2I,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2I,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2J,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2J,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2J,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2K,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2K,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2K,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2L,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2L,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2L,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2M,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2M,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,1A2M,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,
+Beijing Municipality,2021,1A2A,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2A,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2A,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2B,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2B,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2B,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2C,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2C,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2C,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2D,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2D,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2D,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2E,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2E,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2E,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2F,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2F,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2F,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2G,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2G,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2G,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2H,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2H,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2H,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2I,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2I,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2I,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2J,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2J,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2J,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2K,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2K,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2K,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2L,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2L,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2L,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2M,Coal,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2M,Natural gas,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,1A2M,Oil,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Beijing Municipality,2021,1A3,Coal,,,,,
 Beijing Municipality,2021,1A3,Natural gas,,,,,
 Beijing Municipality,2021,1A3,Oil,,,,,
@@ -9719,7 +9719,7 @@ Beijing Municipality,2021,2000,NA,,,,,
 Beijing Municipality,2021,20000,NA,,,,,
 Beijing Municipality,2021,200000,NA,,,,,
 Beijing Municipality,2021,2A,NA,,,,,
-Beijing Municipality,2021,2A1,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,
+Beijing Municipality,2021,2A1,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Beijing Municipality,2021,2A2,NA,,,,,
 Beijing Municipality,2021,2A3,NA,,,,,
 Beijing Municipality,2021,2A4,NA,,,,,
@@ -9737,11 +9737,11 @@ Beijing Municipality,2021,2B5,NA,,,,,
 Beijing Municipality,2021,2B6,NA,,,,,
 Beijing Municipality,2021,2B7,NA,,,,,
 Beijing Municipality,2021,2B8,NA,,,,,
-Beijing Municipality,2021,2B8A,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,2B8B,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,2B8C,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,2B8D,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,2B8E,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,
+Beijing Municipality,2021,2B8A,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,2B8B,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,2B8C,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,2B8D,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,2B8E,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Beijing Municipality,2021,2B8F,NA,,,,,
 Beijing Municipality,2021,2B9,NA,,,,,
 Beijing Municipality,2021,2B9A,NA,,,,,
@@ -9826,8 +9826,8 @@ Beijing Municipality,2021,4C,NA,,,,,
 Beijing Municipality,2021,4C1,NA,,,,,
 Beijing Municipality,2021,4C2,NA,,,,,
 Beijing Municipality,2021,4D,NA,,,,,
-Beijing Municipality,2021,4D1,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,
-Beijing Municipality,2021,4D2,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,
+Beijing Municipality,2021,4D1,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Beijing Municipality,2021,4D2,NA,,"gvt(BJ[2020]), report(ICAP[2021])",,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Beijing Municipality,2021,4E,NA,,,,,
 Beijing Municipality,2021,5,NA,,,,,
 Beijing Municipality,2021,5A,NA,,,,,
