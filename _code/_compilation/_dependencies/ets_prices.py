@@ -66,7 +66,7 @@ def prices_df(path_prices):
     
 
     # ICAP Prices (EU ETS, NZL ETS, KOR ETS, CHN PROV ETS, CAN PROV)
-    icap_raw = pd.read_csv("/Users/gd/desktop/icap-graph-data-17-01-2022.csv",
+    icap_raw = pd.read_csv(path_prices+"/_ICAP_allowance_prices.csv",
                            delimiter=";", encoding= 'latin-1', header=2, 
                            low_memory=False)
     

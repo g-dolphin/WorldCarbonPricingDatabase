@@ -9546,63 +9546,63 @@ New Zealand,2021,1A1,Oil,,,,,
 New Zealand,2021,1A1A,Coal,,,,,
 New Zealand,2021,1A1A,Natural gas,,,,,
 New Zealand,2021,1A1A,Oil,,,,,
-New Zealand,2021,1A1A1,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A1A1,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A1A1,Oil,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,1A1A1,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A1A1,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A1A1,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,1A1A2,Coal,,,,,
 New Zealand,2021,1A1A2,Natural gas,,,,,
 New Zealand,2021,1A1A2,Oil,,,,,
 New Zealand,2021,1A1A3,Coal,,,,,
 New Zealand,2021,1A1A3,Natural gas,,,,,
 New Zealand,2021,1A1A3,Oil,,,,,
-New Zealand,2021,1A1B,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A1B,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A1B,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A1C,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A1C,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A1C,Oil,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,1A1B,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A1B,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A1B,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A1C,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A1C,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A1C,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,1A2,Coal,,,,,
 New Zealand,2021,1A2,Natural gas,,,,,
 New Zealand,2021,1A2,Oil,,,,,
-New Zealand,2021,1A2A,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2A,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2A,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2B,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2B,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2B,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2C,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2C,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2C,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2D,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2D,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2D,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2E,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2E,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2E,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2F,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2F,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2F,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2G,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2G,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2G,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2H,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2H,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2H,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2I,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2I,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2I,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2J,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2J,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2J,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2K,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2K,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2K,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2L,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2L,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2L,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2M,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2M,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A2M,Oil,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,1A2A,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2A,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2A,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2B,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2B,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2B,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2C,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2C,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2C,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2D,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2D,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2D,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2E,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2E,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2E,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2F,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2F,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2F,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2G,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2G,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2G,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2H,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2H,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2H,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2I,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2I,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2I,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2J,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2J,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2J,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2K,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2K,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2K,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2L,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2L,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2L,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2M,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2M,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A2M,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,1A3,Coal,,,,,
 New Zealand,2021,1A3,Natural gas,,,,,
 New Zealand,2021,1A3,Oil,,,,,
@@ -9612,15 +9612,15 @@ New Zealand,2021,1A3A,Oil,,,,,
 New Zealand,2021,1A3A1,Coal,,,,,
 New Zealand,2021,1A3A1,Natural gas,,,,,
 New Zealand,2021,1A3A1,Oil,,,,,
-New Zealand,2021,1A3A2,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A3A2,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A3A2,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A3B,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A3B,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A3B,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A3C,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A3C,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A3C,Oil,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,1A3A2,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A3A2,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A3A2,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A3B,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A3B,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A3B,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A3C,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A3C,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A3C,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,1A3D,Coal,,,,,
 New Zealand,2021,1A3D,Natural gas,,,,,
 New Zealand,2021,1A3D,Oil,,,,,
@@ -9639,24 +9639,24 @@ New Zealand,2021,1A3E1,Oil,,,,,
 New Zealand,2021,1A4,Coal,,,,,
 New Zealand,2021,1A4,Natural gas,,,,,
 New Zealand,2021,1A4,Oil,,,,,
-New Zealand,2021,1A4A,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4A,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4A,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4B,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4B,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4B,Oil,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,1A4A,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4A,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4A,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4B,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4B,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4B,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,1A4C,Coal,,,,,
 New Zealand,2021,1A4C,Natural gas,,,,,
 New Zealand,2021,1A4C,Oil,,,,,
-New Zealand,2021,1A4C1,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4C1,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4C1,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4C2,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4C2,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4C2,Oil,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4C3,Coal,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4C3,Natural gas,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,1A4C3,Oil,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,1A4C1,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4C1,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4C1,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4C2,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4C2,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4C2,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4C3,Coal,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4C3,Natural gas,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,1A4C3,Oil,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,1A5,Coal,,,,,
 New Zealand,2021,1A5,Natural gas,,,,,
 New Zealand,2021,1A5,Oil,,,,,
@@ -9719,61 +9719,61 @@ New Zealand,2021,2000,NA,,,,,
 New Zealand,2021,20000,NA,,,,,
 New Zealand,2021,200000,NA,,,,,
 New Zealand,2021,2A,NA,,,,,
-New Zealand,2021,2A1,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2A2,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2A3,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2A1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2A2,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2A3,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2A4,NA,,,,,
-New Zealand,2021,2A4A,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2A4B,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2A4C,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2A4D,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2A4A,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2A4B,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2A4C,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2A4D,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2B,NA,,,,,
-New Zealand,2021,2B1,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2B1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2B10,NA,,,,,
-New Zealand,2021,2B2,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B3,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B4,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B5,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B6,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B7,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2B2,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B3,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B4,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B5,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B6,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B7,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2B8,NA,,,,,
-New Zealand,2021,2B8A,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B8B,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B8C,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B8D,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B8E,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2B8F,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2B8A,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B8B,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B8C,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B8D,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B8E,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2B8F,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2B9,NA,,,,,
-New Zealand,2021,2B9A,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2B9A,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2B9B,NA,,,,,
 New Zealand,2021,2C,NA,,,,,
-New Zealand,2021,2C1,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2C2,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2C3,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2C4,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2C5,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2C6,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2C7,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2C1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2C2,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2C3,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2C4,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2C5,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2C6,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2C7,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2D,NA,,,,,
-New Zealand,2021,2D1,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2D2,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2D3,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2D4,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2D1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2D2,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2D3,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2D4,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2E,NA,,,,,
 New Zealand,2021,2F,NA,,,,,
-New Zealand,2021,2F1,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2F2,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2F3,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2F4,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2F5,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2F6,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2F1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2F2,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2F3,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2F4,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2F5,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2F6,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2G,NA,,,,,
-New Zealand,2021,2G1,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2G2,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2G3,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,2G4,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2G1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2G2,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2G3,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,2G4,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2H,NA,,,,,
-New Zealand,2021,2H1,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,2H1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,2H2,NA,,,,,
 New Zealand,2021,2H3,NA,,,,,
 New Zealand,2021,3,NA,,,,,
@@ -9782,8 +9782,8 @@ New Zealand,2021,3A1,NA,,,,,
 New Zealand,2021,3A2,NA,,,,,
 New Zealand,2021,3B,NA,,,,,
 New Zealand,2021,3B1,NA,,,,,
-New Zealand,2021,3B1A,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,3B1B,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,3B1A,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,3B1B,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,3B2,NA,,,,,
 New Zealand,2021,3B2A,NA,,,,,
 New Zealand,2021,3B2B,NA,,,,,
@@ -9818,13 +9818,13 @@ New Zealand,2021,3D1,NA,,,,,
 New Zealand,2021,3D2,NA,,,,,
 New Zealand,2021,4,NA,,,,,
 New Zealand,2021,4A,NA,,,,,
-New Zealand,2021,4A1,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,4A1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,4A2,NA,,,,,
 New Zealand,2021,4A3,NA,,,,,
 New Zealand,2021,4B,NA,,,,,
 New Zealand,2021,4C,NA,,,,,
-New Zealand,2021,4C1,NA,,leg(NZ-CCR[2020]),,,
-New Zealand,2021,4C2,NA,,leg(NZ-CCR[2020]),,,
+New Zealand,2021,4C1,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+New Zealand,2021,4C2,NA,,leg(NZ-CCR[2020]),,,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 New Zealand,2021,4D,NA,,,,,
 New Zealand,2021,4D1,NA,,,,,
 New Zealand,2021,4D2,NA,,,,,
