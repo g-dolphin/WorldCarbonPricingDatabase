@@ -179,7 +179,7 @@ wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
 
 #---------------------Sector-fuel scope exceptions----------------------#
  
-# Format: all_jur.loc[(all_jur.Jurisdiction=="jur_name") & (all_jur.Year==yr) & (all_jur.IPCC_cat_code=="ipcc_code") & (all_jur.Product=="prod_name"), ] #"Tax_dummy", "ETS_dummy"
+
 
 
 #------------------------------Exemptions----------------------------------#
