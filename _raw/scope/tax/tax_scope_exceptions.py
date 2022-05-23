@@ -1,0 +1,1 @@
+# Format: all_jur.loc[(all_jur.jurisdiction=="jur_name") & (all_jur.year==yr) & (all_jur.ipcc_code=="ipcc_code") & (all_jur.Product=="prod_name"), ] 
