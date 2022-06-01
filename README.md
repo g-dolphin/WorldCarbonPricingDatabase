@@ -36,7 +36,7 @@ If you use the dataset in scientific publication, we would appreciate a referenc
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+This work is licensed under a [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication License](https://creativecommons.org/publicdomain/zero/1.0/) 
 
 ## Contribution
 
