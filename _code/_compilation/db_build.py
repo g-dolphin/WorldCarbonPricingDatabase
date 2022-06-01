@@ -238,7 +238,13 @@ wcpd_all_jur_sources = wcpd_all_jur_sources[["jurisdiction", "year", "ipcc_code"
                                    "tax_rate_excl_ex_clcu", "tax_ex_rate",
                                    "ets_price"]]
 
+#------------------------------Calculating aggregate IPCC categories scope values----------------------------------#
 
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/sector_agg_scope.py")
+read_file = stream.read()
+exec(read_file)
+
+#------------------------------Writing files----------------------------------#
 
 # Breaking up dataframe into single jurisdiction .csv files
 std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
@@ -259,3 +265,4 @@ for jur in subnat_dic:
     wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/"+gas+"/subnational/wcpd_"+gas.lower()+"_"+subnat_dic[jur]+".csv", index=None)
     
     
+
