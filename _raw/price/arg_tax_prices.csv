@@ -2,12 +2,12 @@ scheme_id,year,ghg,product,rate,currency_code,source,comment
 arg_tax,2018,CO2,Coal,NA,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
 arg_tax,2019,CO2,Coal,6.24,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
 arg_tax,2020,CO2,Coal,5.94,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
-arg_tax,2021,CO2,Coal,,USD,,
+arg_tax,2021,CO2,Coal,5.5,USD,"leg(AR[2017]), report(WB[2021])",
 arg_tax,2018,CO2,Natural gas,0,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
 arg_tax,2019,CO2,Natural gas,0,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
 arg_tax,2020,CO2,Natural gas,0,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
-arg_tax,2021,CO2,Natural gas,,USD,,
-arg_tax,2018,CO2,Oil,10,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
-arg_tax,2019,CO2,Oil,10,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
-arg_tax,2020,CO2,Oil,10,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
-arg_tax,2021,CO2,Oil,,USD,,
+arg_tax,2021,CO2,Natural gas,0,USD,"leg(AR[2017]), report(WB[2021])",
+arg_tax,2018,CO2,Oil,10,USD,"leg(AR[2017]), report(WB[2018])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
+arg_tax,2019,CO2,Oil,6,USD,"leg(AR[2017]), report(WB[2019])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e."
+arg_tax,2020,CO2,Oil,6,USD,"leg(AR[2017]), report(WB[2019]), report(WB[2020])","for coal, petroleum coke and fuel oil, the tax entered into force in early 2019> Natural gas is exempted. The full rate of this tax is based on the local currency equivalent of USD10/tCO2e. WB[2020] notes that there were no major developments from 2019 to 2020."
+arg_tax,2021,CO2,Oil,5.5,USD,"leg(AR[2017]), report(WB[2021])",
