@@ -1,0 +1,7 @@
+scheme_id,year,ghg,product,rate,currency_code,source,comment
+nld_tax,2020,CO2,Coal,,EUR,,
+nld_tax,2020,CO2,Oil,,EUR,,
+nld_tax,2020,CO2,Natural gas,,EUR,,
+nld_tax,2021,CO2,Coal,,EUR,,
+nld_tax,2021,CO2,Oil,,EUR,,
+nld_tax,2021,CO2,Natural gas,,EUR,,
