@@ -1,7 +1,7 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-nld_tax,2020,CO2,Coal,,EUR,,
-nld_tax,2020,CO2,Oil,,EUR,,
-nld_tax,2020,CO2,Natural gas,,EUR,,
-nld_tax,2021,CO2,Coal,,EUR,,
-nld_tax,2021,CO2,Oil,,EUR,,
-nld_tax,2021,CO2,Natural gas,,EUR,,
+nld_tax_II,2021,CO2,Coal,,EUR,,the recorded rate is the difference between the minimum rate set by the legislation and the average of daily forward EUA prices
+nld_tax_II,2021,CO2,Oil,,EUR,,the recorded rate is the difference between the minimum rate set by the legislation and the average of daily forward EUA prices
+nld_tax_II,2021,CO2,Natural gas,,EUR,,the recorded rate is the difference between the minimum rate set by the legislation and the average of daily forward EUA prices
+nld_tax_II,2021,N2O,Coal,,EUR,,the recorded rate is the difference between the minimum rate set by the legislation and the average of daily forward EUA prices
+nld_tax_II,2021,N2O,Oil,,EUR,,the recorded rate is the difference between the minimum rate set by the legislation and the average of daily forward EUA prices
+nld_tax_II,2021,N2O,Natural gas,,EUR,,the recorded rate is the difference between the minimum rate set by the legislation and the average of daily forward EUA prices
