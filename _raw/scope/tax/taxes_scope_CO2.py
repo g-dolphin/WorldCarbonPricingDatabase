@@ -386,7 +386,7 @@ def scope():
                             2014:est_tax_jur_I, 2015:est_tax_jur_I,
                             2016:est_tax_jur_I, 2017:est_tax_jur_I,
                             2018:est_tax_jur_I, 2019:est_tax_jur_I, 
-                            2020:est_tax_jur_I}
+                            2020:est_tax_jur_I, 2021:est_tax_jur_I}
     
     est_tax_ipcc_scope = {2000:est_tax_ipcc_I, 2001:est_tax_ipcc_I,
                             2002:est_tax_ipcc_I, 2003:est_tax_ipcc_I,
@@ -398,7 +398,7 @@ def scope():
                             2014:est_tax_ipcc_I, 2015:est_tax_ipcc_I,
                             2016:est_tax_ipcc_I, 2017:est_tax_ipcc_I,
                             2018:est_tax_ipcc_I, 2019:est_tax_ipcc_I, 
-                            2020:est_tax_ipcc_I}
+                            2020:est_tax_ipcc_I, 2021:est_tax_ipcc_I}
     
     est_tax_fuel_scope = {2000:est_tax_fuel_I, 2001:est_tax_fuel_I,
                             2002:est_tax_fuel_I, 2003:est_tax_fuel_I,
@@ -410,7 +410,7 @@ def scope():
                             2014:est_tax_fuel_I, 2015:est_tax_fuel_I,
                             2016:est_tax_fuel_I, 2017:est_tax_fuel_I,
                             2018:est_tax_fuel_I, 2019:est_tax_fuel_I, 
-                            2020:est_tax_fuel_I}
+                            2020:est_tax_fuel_I, 2021:est_tax_fuel_I}
 
     ## Sources dictionary
     
@@ -427,11 +427,11 @@ def scope():
                                 2013:"leg(EST-ECA[2005])", 
                                 2014:"leg(EST-ECA[2005])", 
                                 2015:"leg(EST-ECA[2005])", 
-                                2016:"leg(EST-ECA[2005]), report(OECD[2019]), db(WCPD[2020])",
-                                2017:"leg(EST-ECA[2005]), report(OECD[2019]), db(WCPD[2020])", 
-                                2018:"leg(EST-ECA[2005]), report(OECD[2019]), db(WCPD[2020])", 
-                                2019:"leg(EST-ECA[2005]), report(OECD[2019]), db(WCPD[2020])", 
-                                2020:"leg(EST-ECA[2005]), report(OECD[2019]), db(WCPD[2020])",
+                                2016:"leg(EST-ECA[2005]), report(OECD[2019]), db(WBCPD[2020])",
+                                2017:"leg(EST-ECA[2005]), report(OECD[2019]), db(WBCPD[2020])", 
+                                2018:"leg(EST-ECA[2005]), report(OECD[2019]), db(WBCPD[2020])", 
+                                2019:"leg(EST-ECA[2005]), report(OECD[2019]), db(WBCPD[2020])", 
+                                2020:"leg(EST-ECA[2005]), report(OECD[2019]), db(WBCPD[2020])",
                                 2021:""}
 
     #----------------------------------------------------------------------------
@@ -575,12 +575,12 @@ def scope():
     fra_tax_jur_scope = {2014:fra_tax_jur_I, 2015:fra_tax_jur_I,
                             2016:fra_tax_jur_I, 2017:fra_tax_jur_I,
                             2018:fra_tax_jur_I, 2019:fra_tax_jur_I, 
-                            2020:fra_tax_jur_I}
+                            2020:fra_tax_jur_I, 2021:fra_tax_jur_I}
     
     fra_tax_ipcc_scope = {2014:fra_tax_ipcc_I, 2015:fra_tax_ipcc_II,
                             2016:fra_tax_ipcc_II, 2017:fra_tax_ipcc_II,
                             2018:fra_tax_ipcc_II, 2019:fra_tax_ipcc_II, 
-                            2020:fra_tax_ipcc_II}
+                            2020:fra_tax_ipcc_II, 2021:fra_tax_ipcc_II}
     
     fra_tax_fuel_scope = {2014:fra_tax_fuel_I, 2015:fra_tax_fuel_I,
                             2016:fra_tax_fuel_I, 2017:fra_tax_fuel_I,
@@ -616,6 +616,8 @@ def scope():
     
     isl_tax_fuel_I = ["Oil"]
 
+    isl_tax_fuel_II = ["Oil", "Natural gas"]
+
     ## scope dictionaries
     
     isl_tax_jur_scope = {2010:isl_tax_jur_I, 2011:isl_tax_jur_I,
@@ -623,21 +625,21 @@ def scope():
                             2014:isl_tax_jur_I, 2015:isl_tax_jur_I,
                             2016:isl_tax_jur_I, 2017:isl_tax_jur_I,
                             2018:isl_tax_jur_I, 2019:isl_tax_jur_I, 
-                            2020:isl_tax_jur_I}
+                            2020:isl_tax_jur_I, 2021:isl_tax_jur_I}
     
     isl_tax_ipcc_scope = {2010:isl_tax_ipcc_I, 2011:isl_tax_ipcc_I,
                              2012:isl_tax_ipcc_I, 2013:isl_tax_ipcc_I,
                              2014:isl_tax_ipcc_I, 2015:isl_tax_ipcc_I,
                              2016:isl_tax_ipcc_I, 2017:isl_tax_ipcc_I,
                              2018:isl_tax_ipcc_I, 2019:isl_tax_ipcc_I, 
-                             2020:isl_tax_ipcc_I}
+                             2020:isl_tax_ipcc_I, 2021:isl_tax_ipcc_I}
     
     isl_tax_fuel_scope = {2010:isl_tax_fuel_I, 2011:isl_tax_fuel_I,
-                             2012:isl_tax_fuel_I, 2013:isl_tax_fuel_I,
-                             2014:isl_tax_fuel_I, 2015:isl_tax_fuel_I,
-                             2016:isl_tax_fuel_I, 2017:isl_tax_fuel_I,
-                             2018:isl_tax_fuel_I, 2019:isl_tax_fuel_I, 
-                             2020:isl_tax_fuel_I}
+                             2012:isl_tax_fuel_I, 2013:isl_tax_fuel_II,
+                             2014:isl_tax_fuel_II, 2015:isl_tax_fuel_II,
+                             2016:isl_tax_fuel_II, 2017:isl_tax_fuel_II,
+                             2018:isl_tax_fuel_II, 2019:isl_tax_fuel_II, 
+                             2020:isl_tax_fuel_II, 2021:isl_tax_fuel_II}
 
     ## Sources dictionary
     
@@ -731,19 +733,19 @@ def scope():
                             2014:jpn_tax_jur_I, 2015:jpn_tax_jur_I,
                             2016:jpn_tax_jur_I, 2017:jpn_tax_jur_I,
                             2018:jpn_tax_jur_I, 2019:jpn_tax_jur_I, 
-                            2020:jpn_tax_jur_I}
+                            2020:jpn_tax_jur_I, 2021:jpn_tax_jur_I}
     
     jpn_tax_ipcc_scope = {2012:jpn_tax_ipcc_I, 2013:jpn_tax_ipcc_I,
                              2014:jpn_tax_ipcc_I, 2015:jpn_tax_ipcc_I,
                              2016:jpn_tax_ipcc_I, 2017:jpn_tax_ipcc_I,
                              2018:jpn_tax_ipcc_I, 2019:jpn_tax_ipcc_I, 
-                             2020:jpn_tax_ipcc_I}
+                             2020:jpn_tax_ipcc_I, 2021:jpn_tax_ipcc_I}
     
     jpn_tax_fuel_scope = {2012:jpn_tax_fuel_I, 2013:jpn_tax_fuel_I,
                              2014:jpn_tax_fuel_I, 2015:jpn_tax_fuel_I,
                              2016:jpn_tax_fuel_I, 2017:jpn_tax_fuel_I,
                              2018:jpn_tax_fuel_I, 2019:jpn_tax_fuel_I, 
-                             2020:jpn_tax_fuel_I}
+                             2020:jpn_tax_fuel_I, 2021:jpn_tax_fuel_I}
     
     ## Sources dictionary
     
@@ -846,7 +848,7 @@ def scope():
                             2014:lie_tax_jur_I, 2015:lie_tax_jur_I,
                             2016:lie_tax_jur_I, 2017:lie_tax_jur_I,
                             2018:lie_tax_jur_I, 2019:lie_tax_jur_I, 
-                            2020:lie_tax_jur_I}
+                            2020:lie_tax_jur_I, 2021:lie_tax_jur_I}
     
     lie_tax_ipcc_scope = {2008:lie_tax_ipcc_I, 2009:lie_tax_ipcc_I,
                              2010:lie_tax_ipcc_I, 2011:lie_tax_ipcc_I,
@@ -854,7 +856,7 @@ def scope():
                              2014:lie_tax_ipcc_I, 2015:lie_tax_ipcc_I,
                              2016:lie_tax_ipcc_I, 2017:lie_tax_ipcc_I,
                              2018:lie_tax_ipcc_I, 2019:lie_tax_ipcc_I, 
-                             2020:lie_tax_ipcc_I}
+                             2020:lie_tax_ipcc_I, 2021:lie_tax_ipcc_I}
     
     lie_tax_fuel_scope = {2008:lie_tax_fuel_I, 2009:lie_tax_fuel_I,
                              2010:lie_tax_fuel_I, 2011:lie_tax_fuel_I,
@@ -862,7 +864,7 @@ def scope():
                              2014:lie_tax_fuel_I, 2015:lie_tax_fuel_I,
                              2016:lie_tax_fuel_I, 2017:lie_tax_fuel_I,
                              2018:lie_tax_fuel_I, 2019:lie_tax_fuel_I, 
-                             2020:lie_tax_fuel_I}
+                             2020:lie_tax_fuel_I, 2021:lie_tax_fuel_I}
     
     ## Sources dictionary
     
@@ -891,18 +893,20 @@ def scope():
 
     ## Sectors
     
-    lux_tax_ipcc_I = []
+    lux_tax_ipcc_I = ["1A1B", "1A1C", "1A3A1", "1A3A2",
+                      "1A3B", "1A3C", "1A3D1", "1A3D2",
+                      "1A4A", "1A4B", "1A4C1", "1A4C2", "1A4C3"]
     
     ## Fuels
     
-    lux_tax_fuel_I = []
+    lux_tax_fuel_I = ["Oil", "Natural gas"]
 
     ## scope dictionaries
-    lux_tax_jur_scope = {} #2021:
+    lux_tax_jur_scope = {2021:lux_tax_jur_I}
     
-    lux_tax_ipcc_scope = {} #2021:     
+    lux_tax_ipcc_scope = {2021:lux_tax_ipcc_I}
 
-    lux_tax_fuel_scope = {} #2021:
+    lux_tax_fuel_scope = {2021:lux_tax_fuel_I}
     
     ## Sources dictionary
     
@@ -961,22 +965,52 @@ def scope():
 
     ## Sectors
     
-    nld_tax_ipcc_I = []
+    nld_tax_ipcc_I = ["1A1B", "1A1C", "1A2A", "1A2B", "1A2C", "1A2D",
+                      "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
+                      "1A2K", "1A2L", "1A2M"]
     
     ## Fuels
     
-    nld_tax_fuel_I = []
+    nld_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## scope dictionaries
-    nld_tax_jur_scope = {} #2021:
+    nld_tax_jur_scope = {2021:nld_tax_jur_I} 
     
-    nld_tax_ipcc_scope = {} #2021:     
+    nld_tax_ipcc_scope = {2021:nld_tax_ipcc_I}     
 
-    nld_tax_fuel_scope = {} #2021:
+    nld_tax_fuel_scope = {2021:nld_tax_fuel_I}
     
     ## Sources dictionary
     
-    nld_tax_scope_sources = {} #2021:
+    nld_tax_scope_sources = {2021:""}
+
+    #----------------------------------------------------------------------------
+
+    # Netherlands
+
+    ## Jurisdiction
+    
+    nld_tax_II_jur_I = ["Netherlands"]
+
+    ## Sectors
+    
+    nld_tax_II_ipcc_I = ["1A1A", "1A1A1", "1A1A2",
+                         "1A1A3"]
+    
+    ## Fuels
+    
+    nld_tax_II_fuel_I = ["Oil", "Natural gas", "Coal"]
+
+    ## scope dictionaries
+    nld_tax_II_jur_scope = {2022:nld_tax_II_jur_I} 
+    
+    nld_tax_II_ipcc_scope = {2022:nld_tax_II_ipcc_I}    
+
+    nld_tax_II_fuel_scope = {2022:nld_tax_II_fuel_I}
+    
+    ## Sources dictionary
+    
+    nld_tax_II_scope_sources = {"leg()"}
 
     #----------------------------------------------------------------------------
 
@@ -1732,13 +1766,13 @@ def scope():
                             2014:gbr_tax_jur_I, 2015:gbr_tax_jur_I,
                             2016:gbr_tax_jur_I, 2017:gbr_tax_jur_I,
                             2018:gbr_tax_jur_I, 2019:gbr_tax_jur_I, 
-                            2020:gbr_tax_jur_I}
+                            2020:gbr_tax_jur_I, 2021:gbr_tax_jur_I}
     
     gbr_tax_ipcc_scope = {2013:gbr_tax_ipcc_I,
                             2014:gbr_tax_ipcc_I, 2015:gbr_tax_ipcc_I,
                             2016:gbr_tax_ipcc_I, 2017:gbr_tax_ipcc_I,
                             2018:gbr_tax_ipcc_I, 2019:gbr_tax_ipcc_I, 
-                            2020:gbr_tax_ipcc_I}
+                            2020:gbr_tax_ipcc_I, 2021:gbr_tax_ipcc_I}
     
     gbr_tax_fuel_scope = {2013:gbr_tax_fuel_I,
                             2014:gbr_tax_fuel_I, 2015:gbr_tax_fuel_I,
