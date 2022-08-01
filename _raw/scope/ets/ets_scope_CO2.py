@@ -597,7 +597,7 @@ def scope():
     
     ## Sources dictionary
     
-    eu_ets_scope_sources = {2021:"leg(EC[2018], EC[2020])"}
+    eu_ets_scope_sources = {2021:"leg(UK-SI[2020])"}
     
     #------------------------------------------------------------------------
     
