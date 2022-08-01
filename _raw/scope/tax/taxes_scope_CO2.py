@@ -26,19 +26,19 @@ def scope():
     arg_tax_fuel_I = ["Oil"]
     arg_tax_fuel_II = ["Oil", "Coal"]
 
-    ## Coverage dictionaries
-    arg_tax_jur_coverage = {2018:arg_tax_jur_I, 2019:arg_tax_jur_I, 
+    ## scope dictionaries
+    arg_tax_jur_scope = {2018:arg_tax_jur_I, 2019:arg_tax_jur_I, 
                             2020:arg_tax_jur_I, 2021:arg_tax_jur_I}
     
-    arg_tax_ipcc_coverage = {2018:arg_tax_ipcc_I, 2019:arg_tax_ipcc_I, 
+    arg_tax_ipcc_scope = {2018:arg_tax_ipcc_I, 2019:arg_tax_ipcc_I, 
                              2020:arg_tax_ipcc_I, 2021:arg_tax_ipcc_I}     
 
-    arg_tax_fuel_coverage = {2018:arg_tax_fuel_I, 2019:arg_tax_fuel_II, 
+    arg_tax_fuel_scope = {2018:arg_tax_fuel_I, 2019:arg_tax_fuel_II, 
                              2020:arg_tax_fuel_II, 2021:arg_tax_fuel_II} 
     
     ## Sources dictionary
     
-    arg_tax_coverage_sources = {2018:"leg(AR[2017),report(WB[2018]])", 
+    arg_tax_scope_sources = {2018:"leg(AR[2017),report(WB[2018]])", 
                                 2019:"leg(AR[2017),report(WB[2018]])", 
                                 2020:"leg(AR[2017),report(WB[2018]])",
                                 2021:"leg(AR[2017),report(WB[2018]])"}
@@ -62,19 +62,19 @@ def scope():
     
     aus_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
-    aus_tax_jur_coverage = {2012:aus_tax_jur_I, 2013:aus_tax_jur_I, 
+    ## scope dictionaries
+    aus_tax_jur_scope = {2012:aus_tax_jur_I, 2013:aus_tax_jur_I, 
                             2014:aus_tax_jur_I}
     
-    aus_tax_ipcc_coverage = {2012:aus_tax_ipcc_I, 2013:aus_tax_ipcc_I, 
+    aus_tax_ipcc_scope = {2012:aus_tax_ipcc_I, 2013:aus_tax_ipcc_I, 
                              2014:aus_tax_ipcc_I}     
 
-    aus_tax_fuel_coverage = {2012:aus_tax_fuel_I, 2013:aus_tax_fuel_I, 
+    aus_tax_fuel_scope = {2012:aus_tax_fuel_I, 2013:aus_tax_fuel_I, 
                              2014:aus_tax_fuel_I} 
     
     ## Sources dictionary
     
-    aus_tax_coverage_sources = {2012:"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])", 
+    aus_tax_scope_sources = {2012:"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])", 
                                 2013:"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])", 
                                 2014:"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])"}
 
@@ -97,22 +97,22 @@ def scope():
     
     chl_tax_fuel_I = ["Oil", "Coal", "Natural gas"]
 
-    ## Coverage dictionaries
-    chl_tax_jur_coverage = {2017:chl_tax_jur_I, 2018:chl_tax_jur_I, 
+    ## scope dictionaries
+    chl_tax_jur_scope = {2017:chl_tax_jur_I, 2018:chl_tax_jur_I, 
                             2019:chl_tax_jur_I, 2020:chl_tax_jur_I, 
                             2021:chl_tax_jur_I}
     
-    chl_tax_ipcc_coverage = {2017:chl_tax_ipcc_I, 2018:chl_tax_ipcc_I, 
+    chl_tax_ipcc_scope = {2017:chl_tax_ipcc_I, 2018:chl_tax_ipcc_I, 
                              2019:chl_tax_ipcc_I, 2020:chl_tax_ipcc_I, 
                              2021:chl_tax_ipcc_I}     
 
-    chl_tax_fuel_coverage = {2017:chl_tax_fuel_I, 2018:chl_tax_fuel_I, 
+    chl_tax_fuel_scope = {2017:chl_tax_fuel_I, 2018:chl_tax_fuel_I, 
                              2019:chl_tax_fuel_I, 2020:chl_tax_fuel_I, 
                              2021:chl_tax_fuel_I} 
 
     ## Sources dictionary
     
-    chl_tax_coverage_sources = {2017:"report(WB[2017])", 2018:"report(WB[2018])", 
+    chl_tax_scope_sources = {2017:"report(WB[2017])", 2018:"report(WB[2018])", 
                                 2019:"report(WB[2018])", 2020:"report(WB[2018])",
                                 2021:"report(WB[2021])"}
     
@@ -132,16 +132,16 @@ def scope():
     
     mex_bc_tax_fuel_I = []
 
-    ## Coverage dictionaries
-    mex_bc_tax_jur_coverage = {} #2020:
+    ## scope dictionaries
+    mex_bc_tax_jur_scope = {} #2020:
     
-    mex_bc_tax_ipcc_coverage = {} #2020:    
+    mex_bc_tax_ipcc_scope = {} #2020:    
 
-    mex_bc_tax_fuel_coverage = {} #2020:
+    mex_bc_tax_fuel_scope = {} #2020:
     
     ## Sources dictionary
     
-    mex_bc_tax_coverage_sources = {} #2020:
+    mex_bc_tax_scope_sources = {} #2020:
 
     #----------------------------------------------------------------------------
     
@@ -153,7 +153,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     can_bc_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
                      "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
                      "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B", "1A3C",
@@ -171,23 +171,23 @@ def scope():
     
     
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    can_bc_tax_jur_coverage = {2011:can_bc_tax_jur_I,
+    can_bc_tax_jur_scope = {2011:can_bc_tax_jur_I,
                             2012:can_bc_tax_jur_I, 2013:can_bc_tax_jur_I,
                             2014:can_bc_tax_jur_I, 2015:can_bc_tax_jur_I,
                             2016:can_bc_tax_jur_I, 2017:can_bc_tax_jur_I,
                             2018:can_bc_tax_jur_I, 2019:can_bc_tax_jur_I, 
                             2020:can_bc_tax_jur_I}
     
-    can_bc_tax_ipcc_coverage = {2011:can_bc_tax_ipcc_I,
+    can_bc_tax_ipcc_scope = {2011:can_bc_tax_ipcc_I,
                             2012:can_bc_tax_ipcc_I, 2013:can_bc_tax_ipcc_I,
                             2014:can_bc_tax_ipcc_I, 2015:can_bc_tax_ipcc_I,
                             2016:can_bc_tax_ipcc_I, 2017:can_bc_tax_ipcc_I,
                             2018:can_bc_tax_ipcc_I, 2019:can_bc_tax_ipcc_I, 
                             2020:can_bc_tax_ipcc_I}
     
-    can_bc_tax_fuel_coverage = {2011:can_bc_tax_fuel_I,
+    can_bc_tax_fuel_scope = {2011:can_bc_tax_fuel_I,
                             2012:can_bc_tax_fuel_I, 2013:can_bc_tax_fuel_I,
                             2014:can_bc_tax_fuel_I, 2015:can_bc_tax_fuel_I,
                             2016:can_bc_tax_fuel_I, 2017:can_bc_tax_fuel_I,
@@ -196,7 +196,7 @@ def scope():
     
     ## Sources dictionary
     
-    can_bc_tax_coverage_sources = {2011:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
+    can_bc_tax_scope_sources = {2011:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
                                    2012:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
                                    2013:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
                                    2014:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
@@ -226,23 +226,23 @@ def scope():
     
     col_tax_fuel_I = ["Oil", "Natural gas"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    col_tax_jur_coverage = {2017:col_tax_jur_I, 2018:col_tax_jur_I, 
+    col_tax_jur_scope = {2017:col_tax_jur_I, 2018:col_tax_jur_I, 
                             2019:col_tax_jur_I, 2020:col_tax_jur_I, 
                             2021:col_tax_jur_I}
     
-    col_tax_ipcc_coverage = {2017:col_tax_ipcc_I, 2018:col_tax_ipcc_I, 
+    col_tax_ipcc_scope = {2017:col_tax_ipcc_I, 2018:col_tax_ipcc_I, 
                              2019:col_tax_ipcc_I, 2020:col_tax_ipcc_I, 
                              2021:col_tax_ipcc_I}     
 
-    col_tax_fuel_coverage = {2017:col_tax_fuel_I, 2018:col_tax_fuel_I, 
+    col_tax_fuel_scope = {2017:col_tax_fuel_I, 2018:col_tax_fuel_I, 
                              2019:col_tax_fuel_I, 2020:col_tax_fuel_I, 
                              2021:col_tax_fuel_I}     
 
     ## Sources dictionary
     
-    col_tax_coverage_sources = {2017:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])", 
+    col_tax_scope_sources = {2017:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])", 
                                 2018:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])", 
                                 2019:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])", 
                                 2020:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])",
@@ -269,9 +269,9 @@ def scope():
 
     dnk_tax_I_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
-    ## Coverage dictionaries
+    ## scope dictionaries
 
-    dnk_tax_jur_coverage = {1992:dnk_tax_jur_I,
+    dnk_tax_jur_scope = {1992:dnk_tax_jur_I,
                               1993:dnk_tax_jur_I, 1994:dnk_tax_jur_I,
                               1995:dnk_tax_jur_I, 1996:dnk_tax_jur_I,
                               1997:dnk_tax_jur_I, 1998:dnk_tax_jur_I,
@@ -288,7 +288,7 @@ def scope():
                               2019:dnk_tax_jur_I, 2020:dnk_tax_jur_I,
                               2021:dnk_tax_jur_I}
 
-    dnk_tax_ipcc_coverage = {1992:dnk_tax_ipcc_I,
+    dnk_tax_ipcc_scope = {1992:dnk_tax_ipcc_I,
                               1993:dnk_tax_ipcc_I, 1994:dnk_tax_ipcc_I,
                               1995:dnk_tax_ipcc_I, 1996:dnk_tax_ipcc_I,
                               1997:dnk_tax_ipcc_I, 1998:dnk_tax_ipcc_I,
@@ -305,7 +305,7 @@ def scope():
                               2019:dnk_tax_ipcc_II, 2020:dnk_tax_ipcc_II,
                               2021:dnk_tax_ipcc_II}
     
-    dnk_tax_fuel_coverage = {1992:dnk_tax_I_fuel_I,
+    dnk_tax_fuel_scope = {1992:dnk_tax_I_fuel_I,
                               1993:dnk_tax_I_fuel_I, 1994:dnk_tax_I_fuel_I,
                               1995:dnk_tax_I_fuel_I, 1996:dnk_tax_I_fuel_I,
                               1997:dnk_tax_I_fuel_I, 1998:dnk_tax_I_fuel_I,
@@ -324,7 +324,7 @@ def scope():
     
     ## Sources dictionary
     
-    dnk_tax_coverage_sources = {1992:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
+    dnk_tax_scope_sources = {1992:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
                                 1993:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
                                 1994:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
                                 1995:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
@@ -365,7 +365,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     est_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", 
                       "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
                       "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M"]
@@ -374,9 +374,9 @@ def scope():
     
     est_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    est_tax_jur_coverage = {2000:est_tax_jur_I, 2001:est_tax_jur_I,
+    est_tax_jur_scope = {2000:est_tax_jur_I, 2001:est_tax_jur_I,
                             2002:est_tax_jur_I, 2003:est_tax_jur_I,
                             2004:est_tax_jur_I, 2005:est_tax_jur_I,
                             2006:est_tax_jur_I, 2007:est_tax_jur_I,
@@ -388,7 +388,7 @@ def scope():
                             2018:est_tax_jur_I, 2019:est_tax_jur_I, 
                             2020:est_tax_jur_I}
     
-    est_tax_ipcc_coverage = {2000:est_tax_ipcc_I, 2001:est_tax_ipcc_I,
+    est_tax_ipcc_scope = {2000:est_tax_ipcc_I, 2001:est_tax_ipcc_I,
                             2002:est_tax_ipcc_I, 2003:est_tax_ipcc_I,
                             2004:est_tax_ipcc_I, 2005:est_tax_ipcc_I,
                             2006:est_tax_ipcc_I, 2007:est_tax_ipcc_I,
@@ -400,7 +400,7 @@ def scope():
                             2018:est_tax_ipcc_I, 2019:est_tax_ipcc_I, 
                             2020:est_tax_ipcc_I}
     
-    est_tax_fuel_coverage = {2000:est_tax_fuel_I, 2001:est_tax_fuel_I,
+    est_tax_fuel_scope = {2000:est_tax_fuel_I, 2001:est_tax_fuel_I,
                             2002:est_tax_fuel_I, 2003:est_tax_fuel_I,
                             2004:est_tax_fuel_I, 2005:est_tax_fuel_I,
                             2006:est_tax_fuel_I, 2007:est_tax_fuel_I,
@@ -414,7 +414,7 @@ def scope():
 
     ## Sources dictionary
     
-    est_tax_coverage_sources = {2000:"",
+    est_tax_scope_sources = {2000:"",
                                 2001:"", 2002:"", 2003:"",
                                 2004:"", 2005:"report(EST-SE[2009]) ", 
                                 2006:"report(EST-SE[2009])",
@@ -457,9 +457,9 @@ def scope():
 
     fin_tax_I_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
-    ## Coverage dictionaries
+    ## scope dictionaries
 
-    fin_tax_jur_coverage = {1990:fin_tax_jur_I,
+    fin_tax_jur_scope = {1990:fin_tax_jur_I,
                             1991:fin_tax_jur_I, 1992:fin_tax_jur_I,
                             1993:fin_tax_jur_I, 1994:fin_tax_jur_I,
                             1995:fin_tax_jur_I, 1996:fin_tax_jur_I,
@@ -477,7 +477,7 @@ def scope():
                             2019:fin_tax_jur_I, 2020:fin_tax_jur_I,
                             2021:fin_tax_jur_I}
 
-    fin_tax_ipcc_coverage = {1990:fin_tax_ipcc_I,
+    fin_tax_ipcc_scope = {1990:fin_tax_ipcc_I,
                              1991:fin_tax_ipcc_I, 1992:fin_tax_ipcc_I,
                              1993:fin_tax_ipcc_I, 1994:fin_tax_ipcc_I,
                              1995:fin_tax_ipcc_I, 1996:fin_tax_ipcc_I,
@@ -495,7 +495,7 @@ def scope():
                              2019:fin_tax_ipcc_II, 2020:fin_tax_ipcc_II,
                              2021:fin_tax_ipcc_II}
     
-    fin_tax_fuel_coverage = {1990:fin_tax_I_fuel_I,
+    fin_tax_fuel_scope = {1990:fin_tax_I_fuel_I,
                              1991:fin_tax_I_fuel_I, 1992:fin_tax_I_fuel_I,
                              1993:fin_tax_I_fuel_I, 1994:fin_tax_I_fuel_I,
                              1995:fin_tax_I_fuel_I, 1996:fin_tax_I_fuel_I,
@@ -515,7 +515,7 @@ def scope():
     
     ## Sources dictionary
     
-    fin_tax_coverage_sources = {1990:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
+    fin_tax_scope_sources = {1990:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
                                 1991:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
                                 1992:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
                                 1993:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
@@ -558,7 +558,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     fra_tax_ipcc_I = ["1A1B", "1A1C",
                       "1A4A", "1A4B"]
 
@@ -570,26 +570,26 @@ def scope():
     
     fra_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    fra_tax_jur_coverage = {2014:fra_tax_jur_I, 2015:fra_tax_jur_I,
+    fra_tax_jur_scope = {2014:fra_tax_jur_I, 2015:fra_tax_jur_I,
                             2016:fra_tax_jur_I, 2017:fra_tax_jur_I,
                             2018:fra_tax_jur_I, 2019:fra_tax_jur_I, 
                             2020:fra_tax_jur_I}
     
-    fra_tax_ipcc_coverage = {2014:fra_tax_ipcc_I, 2015:fra_tax_ipcc_II,
+    fra_tax_ipcc_scope = {2014:fra_tax_ipcc_I, 2015:fra_tax_ipcc_II,
                             2016:fra_tax_ipcc_II, 2017:fra_tax_ipcc_II,
                             2018:fra_tax_ipcc_II, 2019:fra_tax_ipcc_II, 
                             2020:fra_tax_ipcc_II}
     
-    fra_tax_fuel_coverage = {2014:fra_tax_fuel_I, 2015:fra_tax_fuel_I,
+    fra_tax_fuel_scope = {2014:fra_tax_fuel_I, 2015:fra_tax_fuel_I,
                             2016:fra_tax_fuel_I, 2017:fra_tax_fuel_I,
                             2018:fra_tax_fuel_I, 2019:fra_tax_fuel_I, 
                             2020:fra_tax_fuel_I, 2021:fra_tax_fuel_I}
 
     ## Sources dictionary
     
-    fra_tax_coverage_sources = {2014:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])", 
+    fra_tax_scope_sources = {2014:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])", 
                                 2015:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])", 
                                 2016:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",
                                 2017:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])", 
@@ -608,7 +608,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     isl_tax_ipcc_I = ["1A1B", "1A1C", "1A3B", "1A4A", "1A4B", 
                       "1A4C1", "1A4C2"]
 
@@ -616,23 +616,23 @@ def scope():
     
     isl_tax_fuel_I = ["Oil"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    isl_tax_jur_coverage = {2010:isl_tax_jur_I, 2011:isl_tax_jur_I,
+    isl_tax_jur_scope = {2010:isl_tax_jur_I, 2011:isl_tax_jur_I,
                             2012:isl_tax_jur_I, 2013:isl_tax_jur_I,
                             2014:isl_tax_jur_I, 2015:isl_tax_jur_I,
                             2016:isl_tax_jur_I, 2017:isl_tax_jur_I,
                             2018:isl_tax_jur_I, 2019:isl_tax_jur_I, 
                             2020:isl_tax_jur_I}
     
-    isl_tax_ipcc_coverage = {2010:isl_tax_ipcc_I, 2011:isl_tax_ipcc_I,
+    isl_tax_ipcc_scope = {2010:isl_tax_ipcc_I, 2011:isl_tax_ipcc_I,
                              2012:isl_tax_ipcc_I, 2013:isl_tax_ipcc_I,
                              2014:isl_tax_ipcc_I, 2015:isl_tax_ipcc_I,
                              2016:isl_tax_ipcc_I, 2017:isl_tax_ipcc_I,
                              2018:isl_tax_ipcc_I, 2019:isl_tax_ipcc_I, 
                              2020:isl_tax_ipcc_I}
     
-    isl_tax_fuel_coverage = {2010:isl_tax_fuel_I, 2011:isl_tax_fuel_I,
+    isl_tax_fuel_scope = {2010:isl_tax_fuel_I, 2011:isl_tax_fuel_I,
                              2012:isl_tax_fuel_I, 2013:isl_tax_fuel_I,
                              2014:isl_tax_fuel_I, 2015:isl_tax_fuel_I,
                              2016:isl_tax_fuel_I, 2017:isl_tax_fuel_I,
@@ -641,7 +641,7 @@ def scope():
 
     ## Sources dictionary
     
-    isl_tax_coverage_sources = {2010:"leg(ISL-ENRTA[2009])", 
+    isl_tax_scope_sources = {2010:"leg(ISL-ENRTA[2009])", 
                                 2011:"leg(ISL-ENRTA[2009])", 
                                 2012:"leg(ISL-ENRTA[2009])",
                                 2013:"leg(ISL-ENRTA[2009])", 
@@ -664,7 +664,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     irl_tax_ipcc_I = ["1A3A2", "1A3B", "1A3D1", 
                       "1A3D1", "1A3D2", "1A3E1", "1A4A", "1A4B", "1A4C1"]
 
@@ -673,23 +673,23 @@ def scope():
     irl_tax_fuel_I = ["Oil", "Natural gas"]
     irl_tax_fuel_II = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    irl_tax_jur_coverage = {2010:irl_tax_jur_I, 2011:irl_tax_jur_I,
+    irl_tax_jur_scope = {2010:irl_tax_jur_I, 2011:irl_tax_jur_I,
                             2012:irl_tax_jur_I, 2013:irl_tax_jur_I,
                             2014:irl_tax_jur_I, 2015:irl_tax_jur_I,
                             2016:irl_tax_jur_I, 2017:irl_tax_jur_I,
                             2018:irl_tax_jur_I, 2019:irl_tax_jur_I, 
                             2020:irl_tax_jur_I}
     
-    irl_tax_ipcc_coverage = {2010:irl_tax_ipcc_I, 2011:irl_tax_ipcc_I,
+    irl_tax_ipcc_scope = {2010:irl_tax_ipcc_I, 2011:irl_tax_ipcc_I,
                              2012:irl_tax_ipcc_I, 2013:irl_tax_ipcc_I,
                              2014:irl_tax_ipcc_I, 2015:irl_tax_ipcc_I,
                              2016:irl_tax_ipcc_I, 2017:irl_tax_ipcc_I,
                              2018:irl_tax_ipcc_I, 2019:irl_tax_ipcc_I, 
                              2020:irl_tax_ipcc_I}
     
-    irl_tax_fuel_coverage = {2010:irl_tax_fuel_I, 2011:irl_tax_fuel_I,
+    irl_tax_fuel_scope = {2010:irl_tax_fuel_I, 2011:irl_tax_fuel_I,
                              2012:irl_tax_fuel_I, 2013:irl_tax_fuel_II,
                              2014:irl_tax_fuel_II, 2015:irl_tax_fuel_I,
                              2016:irl_tax_fuel_II, 2017:irl_tax_fuel_II,
@@ -698,7 +698,7 @@ def scope():
     
     ## Sources dictionary
     
-    irl_tax_coverage_sources = {2010:"leg(IRL-FA[2010])", 2011:"leg(IRL-FA[2010])", 
+    irl_tax_scope_sources = {2010:"leg(IRL-FA[2010])", 2011:"leg(IRL-FA[2010])", 
                                 2012:"leg(IRL-FA[2010])", 2013:"leg(IRL-FA[2010])", 
                                 2014:"leg(IRL-FA[2010])", 2015:"leg(IRL-FA[2010])", 
                                 2016:"leg(IRL-FA[2010])", 2017:"leg(IRL-FA[2010])", 
@@ -715,7 +715,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     jpn_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3",
                       "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
                       "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M",
@@ -725,21 +725,21 @@ def scope():
     
     jpn_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    jpn_tax_jur_coverage = {2012:jpn_tax_jur_I, 2013:jpn_tax_jur_I,
+    jpn_tax_jur_scope = {2012:jpn_tax_jur_I, 2013:jpn_tax_jur_I,
                             2014:jpn_tax_jur_I, 2015:jpn_tax_jur_I,
                             2016:jpn_tax_jur_I, 2017:jpn_tax_jur_I,
                             2018:jpn_tax_jur_I, 2019:jpn_tax_jur_I, 
                             2020:jpn_tax_jur_I}
     
-    jpn_tax_ipcc_coverage = {2012:jpn_tax_ipcc_I, 2013:jpn_tax_ipcc_I,
+    jpn_tax_ipcc_scope = {2012:jpn_tax_ipcc_I, 2013:jpn_tax_ipcc_I,
                              2014:jpn_tax_ipcc_I, 2015:jpn_tax_ipcc_I,
                              2016:jpn_tax_ipcc_I, 2017:jpn_tax_ipcc_I,
                              2018:jpn_tax_ipcc_I, 2019:jpn_tax_ipcc_I, 
                              2020:jpn_tax_ipcc_I}
     
-    jpn_tax_fuel_coverage = {2012:jpn_tax_fuel_I, 2013:jpn_tax_fuel_I,
+    jpn_tax_fuel_scope = {2012:jpn_tax_fuel_I, 2013:jpn_tax_fuel_I,
                              2014:jpn_tax_fuel_I, 2015:jpn_tax_fuel_I,
                              2016:jpn_tax_fuel_I, 2017:jpn_tax_fuel_I,
                              2018:jpn_tax_fuel_I, 2019:jpn_tax_fuel_I, 
@@ -747,7 +747,7 @@ def scope():
     
     ## Sources dictionary
     
-    jpn_tax_coverage_sources = {2012:"leg(JP[2012]), gvt(MEJ-CT[2014])",
+    jpn_tax_scope_sources = {2012:"leg(JP[2012]), gvt(MEJ-CT[2014])",
                                 2013:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
                                 2014:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
                                 2015:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
@@ -768,7 +768,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     lva_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", 
                       "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
                       "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M"]
@@ -777,9 +777,9 @@ def scope():
     
     lva_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    lva_tax_jur_coverage = {2004:lva_tax_jur_I, 2005:lva_tax_jur_I,
+    lva_tax_jur_scope = {2004:lva_tax_jur_I, 2005:lva_tax_jur_I,
                             2006:lva_tax_jur_I, 2007:lva_tax_jur_I,
                             2008:lva_tax_jur_I, 2009:lva_tax_jur_I,
                             2010:lva_tax_jur_I, 2011:lva_tax_jur_I,
@@ -789,7 +789,7 @@ def scope():
                             2018:lva_tax_jur_I, 2019:lva_tax_jur_I, 
                             2020:lva_tax_jur_I}
     
-    lva_tax_ipcc_coverage = {2004:lva_tax_ipcc_I, 2005:lva_tax_ipcc_I,
+    lva_tax_ipcc_scope = {2004:lva_tax_ipcc_I, 2005:lva_tax_ipcc_I,
                              2006:lva_tax_ipcc_I, 2007:lva_tax_ipcc_I,
                              2008:lva_tax_ipcc_I, 2009:lva_tax_ipcc_I,
                              2010:lva_tax_ipcc_I, 2011:lva_tax_ipcc_I,
@@ -799,7 +799,7 @@ def scope():
                              2018:lva_tax_ipcc_I, 2019:lva_tax_ipcc_I, 
                              2020:lva_tax_ipcc_I}
     
-    lva_tax_fuel_coverage = {2004:lva_tax_fuel_I, 2005:lva_tax_fuel_I,
+    lva_tax_fuel_scope = {2004:lva_tax_fuel_I, 2005:lva_tax_fuel_I,
                              2006:lva_tax_fuel_I, 2007:lva_tax_fuel_I,
                              2008:lva_tax_fuel_I, 2009:lva_tax_fuel_I,
                              2010:lva_tax_fuel_I, 2011:lva_tax_fuel_I,
@@ -811,7 +811,7 @@ def scope():
 
     ## Sources dictionary
     
-    lva_tax_coverage_sources = {2004:"leg(LV-NRTL[2005])", 2005:"leg(LV-NRTL[2005])", 
+    lva_tax_scope_sources = {2004:"leg(LV-NRTL[2005])", 2005:"leg(LV-NRTL[2005])", 
                                 2006:"leg(LV-NRTL[2005])", 2007:"leg(LV-NRTL[2005])", 
                                 2008:"leg(LV-NRTL[2005])", 2009:"leg(LV-NRTL[2005])",
                                 2010:"leg(LV-NRTL[2005])", 2011:"leg(LV-NRTL[2005])", 
@@ -831,16 +831,16 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     lie_tax_ipcc_I = ["1A1A2", "1A1A3", "1A4B"]
 
     ## Fuels
     
     lie_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    lie_tax_jur_coverage = {2008:lie_tax_jur_I, 2009:lie_tax_jur_I,
+    lie_tax_jur_scope = {2008:lie_tax_jur_I, 2009:lie_tax_jur_I,
                             2010:lie_tax_jur_I, 2011:lie_tax_jur_I,
                             2012:lie_tax_jur_I, 2013:lie_tax_jur_I,
                             2014:lie_tax_jur_I, 2015:lie_tax_jur_I,
@@ -848,7 +848,7 @@ def scope():
                             2018:lie_tax_jur_I, 2019:lie_tax_jur_I, 
                             2020:lie_tax_jur_I}
     
-    lie_tax_ipcc_coverage = {2008:lie_tax_ipcc_I, 2009:lie_tax_ipcc_I,
+    lie_tax_ipcc_scope = {2008:lie_tax_ipcc_I, 2009:lie_tax_ipcc_I,
                              2010:lie_tax_ipcc_I, 2011:lie_tax_ipcc_I,
                              2012:lie_tax_ipcc_I, 2013:lie_tax_ipcc_I,
                              2014:lie_tax_ipcc_I, 2015:lie_tax_ipcc_I,
@@ -856,7 +856,7 @@ def scope():
                              2018:lie_tax_ipcc_I, 2019:lie_tax_ipcc_I, 
                              2020:lie_tax_ipcc_I}
     
-    lie_tax_fuel_coverage = {2008:lie_tax_fuel_I, 2009:lie_tax_fuel_I,
+    lie_tax_fuel_scope = {2008:lie_tax_fuel_I, 2009:lie_tax_fuel_I,
                              2010:lie_tax_fuel_I, 2011:lie_tax_fuel_I,
                              2012:lie_tax_fuel_I, 2013:lie_tax_fuel_I,
                              2014:lie_tax_fuel_I, 2015:lie_tax_fuel_I,
@@ -866,7 +866,7 @@ def scope():
     
     ## Sources dictionary
     
-    lie_tax_coverage_sources = {2008:"gvt(CH[2005], CH[2009])", 
+    lie_tax_scope_sources = {2008:"gvt(CH[2005], CH[2009])", 
                                 2009:"gvt(CH[2005], CH[2009])",
                                 2010:"gvt(CH[2005], CH[2009])", 
                                 2011:"gvt(CH[2005], CH[2009])", 
@@ -897,16 +897,16 @@ def scope():
     
     lux_tax_fuel_I = []
 
-    ## Coverage dictionaries
-    lux_tax_jur_coverage = {} #2021:
+    ## scope dictionaries
+    lux_tax_jur_scope = {} #2021:
     
-    lux_tax_ipcc_coverage = {} #2021:     
+    lux_tax_ipcc_scope = {} #2021:     
 
-    lux_tax_fuel_coverage = {} #2021:
+    lux_tax_fuel_scope = {} #2021:
     
     ## Sources dictionary
     
-    lux_tax_coverage_sources = {} #2021:
+    lux_tax_scope_sources = {} #2021:
     
     #----------------------------------------------------------------------------
 
@@ -927,26 +927,26 @@ def scope():
     
     mex_tax_fuel_I = ["Oil", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    mex_tax_jur_coverage = {2014:mex_tax_jur_I, 2015:mex_tax_jur_I,
+    mex_tax_jur_scope = {2014:mex_tax_jur_I, 2015:mex_tax_jur_I,
                             2016:mex_tax_jur_I, 2017:mex_tax_jur_I,
                             2018:mex_tax_jur_I, 2019:mex_tax_jur_I, 
                             2020:mex_tax_jur_I, 2021:mex_tax_jur_I}
     
-    mex_tax_ipcc_coverage = {2014:mex_tax_ipcc_I, 2015:mex_tax_ipcc_I,
+    mex_tax_ipcc_scope = {2014:mex_tax_ipcc_I, 2015:mex_tax_ipcc_I,
                              2016:mex_tax_ipcc_I, 2017:mex_tax_ipcc_I,
                              2018:mex_tax_ipcc_I, 2019:mex_tax_ipcc_I, 
                              2020:mex_tax_ipcc_I, 2021:mex_tax_ipcc_I}
     
-    mex_tax_fuel_coverage = {2014:mex_tax_fuel_I, 2015:mex_tax_fuel_I,
+    mex_tax_fuel_scope = {2014:mex_tax_fuel_I, 2015:mex_tax_fuel_I,
                              2016:mex_tax_fuel_I, 2017:mex_tax_fuel_I,
                              2018:mex_tax_fuel_I, 2019:mex_tax_fuel_I, 
                              2020:mex_tax_fuel_I, 2021:mex_tax_fuel_I}
     
     ## Sources dictionary
     
-    mex_tax_coverage_sources = {2014:"leg(LIEP[2012])", 2015:"leg(LIEP[2012])", 
+    mex_tax_scope_sources = {2014:"leg(LIEP[2012])", 2015:"leg(LIEP[2012])", 
                                 2016:"leg(LIEP[2012])", 2017:"leg(LIEP[2012])", 
                                 2018:"leg(LIEP[2012])", 2019:"leg(LIEP[2012])", 
                                 2020:"leg(LIEP[2012])", 2021:"leg(LIEP[2012])"}
@@ -967,16 +967,16 @@ def scope():
     
     nld_tax_fuel_I = []
 
-    ## Coverage dictionaries
-    nld_tax_jur_coverage = {} #2021:
+    ## scope dictionaries
+    nld_tax_jur_scope = {} #2021:
     
-    nld_tax_ipcc_coverage = {} #2021:     
+    nld_tax_ipcc_scope = {} #2021:     
 
-    nld_tax_fuel_coverage = {} #2021:
+    nld_tax_fuel_scope = {} #2021:
     
     ## Sources dictionary
     
-    nld_tax_coverage_sources = {} #2021:
+    nld_tax_scope_sources = {} #2021:
 
     #----------------------------------------------------------------------------
 
@@ -1006,9 +1006,9 @@ def scope():
     nor_tax_II_fuel_I = ["Oil", "Natural gas"]    
      
     
-    ## Coverage dictionaries
+    ## scope dictionaries
 
-    nor_tax_I_jur_coverage = {1991:nor_tax_I_jur_I, 1992:nor_tax_I_jur_I,
+    nor_tax_I_jur_scope = {1991:nor_tax_I_jur_I, 1992:nor_tax_I_jur_I,
                               1993:nor_tax_I_jur_I, 1994:nor_tax_I_jur_I,
                               1995:nor_tax_I_jur_I, 1996:nor_tax_I_jur_I,
                               1997:nor_tax_I_jur_I, 1998:nor_tax_I_jur_I,
@@ -1025,7 +1025,7 @@ def scope():
                               2019:nor_tax_I_jur_I, 2020:nor_tax_I_jur_I,
                               2021:nor_tax_I_jur_I}
 
-    nor_tax_I_ipcc_coverage = {1991:nor_tax_I_ipcc_I, 1992:nor_tax_I_ipcc_I,
+    nor_tax_I_ipcc_scope = {1991:nor_tax_I_ipcc_I, 1992:nor_tax_I_ipcc_I,
                                1993:nor_tax_I_ipcc_I, 1994:nor_tax_I_ipcc_I,
                                1995:nor_tax_I_ipcc_I, 1996:nor_tax_I_ipcc_I,
                                1997:nor_tax_I_ipcc_I, 1998:nor_tax_I_ipcc_I,
@@ -1042,7 +1042,7 @@ def scope():
                                2019:nor_tax_I_ipcc_II, 2020:nor_tax_I_ipcc_II,
                                2021:nor_tax_I_ipcc_II}
     
-    nor_tax_I_fuel_coverage = {1991:nor_tax_I_fuel_I, 1992:nor_tax_I_fuel_I,
+    nor_tax_I_fuel_scope = {1991:nor_tax_I_fuel_I, 1992:nor_tax_I_fuel_I,
                                1993:nor_tax_I_fuel_I, 1994:nor_tax_I_fuel_I,
                                1995:nor_tax_I_fuel_I, 1996:nor_tax_I_fuel_I,
                                1997:nor_tax_I_fuel_I, 1998:nor_tax_I_fuel_I,
@@ -1060,7 +1060,7 @@ def scope():
                                2021:nor_tax_I_fuel_II}
 
 
-    nor_tax_II_jur_coverage = {1991:nor_tax_II_jur_I, 1992:nor_tax_II_jur_I,
+    nor_tax_II_jur_scope = {1991:nor_tax_II_jur_I, 1992:nor_tax_II_jur_I,
                                1993:nor_tax_II_jur_I, 1994:nor_tax_II_jur_I,
                                1995:nor_tax_II_jur_I, 1996:nor_tax_II_jur_I,
                                1997:nor_tax_II_jur_I, 1998:nor_tax_II_jur_I,
@@ -1077,7 +1077,7 @@ def scope():
                                2019:nor_tax_II_jur_I, 2020:nor_tax_II_jur_I,
                                2021:nor_tax_II_jur_I}
 
-    nor_tax_II_ipcc_coverage = {1991:nor_tax_II_ipcc_I, 1992:nor_tax_II_ipcc_I,
+    nor_tax_II_ipcc_scope = {1991:nor_tax_II_ipcc_I, 1992:nor_tax_II_ipcc_I,
                                1993:nor_tax_II_ipcc_I, 1994:nor_tax_II_ipcc_I,
                                1995:nor_tax_II_ipcc_I, 1996:nor_tax_II_ipcc_I,
                                1997:nor_tax_II_ipcc_I, 1998:nor_tax_II_ipcc_I,
@@ -1094,7 +1094,7 @@ def scope():
                                2019:nor_tax_II_ipcc_I, 2020:nor_tax_II_ipcc_I,
                                2021:nor_tax_II_ipcc_I}
     
-    nor_tax_II_fuel_coverage = {1991:nor_tax_II_fuel_I, 1992:nor_tax_II_fuel_I,
+    nor_tax_II_fuel_scope = {1991:nor_tax_II_fuel_I, 1992:nor_tax_II_fuel_I,
                                1993:nor_tax_II_fuel_I, 1994:nor_tax_II_fuel_I,
                                1995:nor_tax_II_fuel_I, 1996:nor_tax_II_fuel_I,
                                1997:nor_tax_II_fuel_I, 1998:nor_tax_II_fuel_I,
@@ -1114,7 +1114,7 @@ def scope():
     
     ## Sources dictionary
     
-    nor_tax_I_coverage_sources = {1991:"leg(NOR-EA[1990])", 1992:"leg(NOR-EA[1990])",
+    nor_tax_I_scope_sources = {1991:"leg(NOR-EA[1990])", 1992:"leg(NOR-EA[1990])",
                                   1993:"leg(NOR-EA[1990])", 1994:"leg(NOR-EA[1990])",
                                   1995:"leg(NOR-EA[1990])", 1996:"leg(NOR-EA[1990])",
                                   1997:"leg(NOR-EA[1990])", 1998:"leg(NOR-EA[1990])",
@@ -1131,7 +1131,7 @@ def scope():
                                   2019:"leg(NOR-EA[1990])", 2020:"leg(NOR-EA[1990])",
                                   2021:"leg(NOR-EA[1990])"}
     
-    nor_tax_II_coverage_sources = {1991:"leg(NOR[1990])", 1992:"leg(NOR[1990])",
+    nor_tax_II_scope_sources = {1991:"leg(NOR[1990])", 1992:"leg(NOR[1990])",
                                    1993:"leg(NOR[1990])", 1994:"leg(NOR[1990])",
                                    1995:"leg(NOR[1990])", 1996:"leg(NOR[1990])",
                                    1997:"leg(NOR[1990])", 1998:"leg(NOR[1990])",
@@ -1166,9 +1166,9 @@ def scope():
 
     pol_tax_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
-    ## Coverage dictionaries
+    ## scope dictionaries
 
-    pol_tax_jur_coverage = {1990:pol_tax_jur_I,
+    pol_tax_jur_scope = {1990:pol_tax_jur_I,
                             1991:pol_tax_jur_I, 1992:pol_tax_jur_I,
                             1993:pol_tax_jur_I, 1994:pol_tax_jur_I,
                             1995:pol_tax_jur_I, 1996:pol_tax_jur_I,
@@ -1186,7 +1186,7 @@ def scope():
                             2019:pol_tax_jur_I, 2020:pol_tax_jur_I,
                             2021:pol_tax_jur_I}
 
-    pol_tax_ipcc_coverage = {1990:pol_tax_ipcc_I,
+    pol_tax_ipcc_scope = {1990:pol_tax_ipcc_I,
                              1991:pol_tax_ipcc_I, 1992:pol_tax_ipcc_I,
                              1993:pol_tax_ipcc_I, 1994:pol_tax_ipcc_I,
                              1995:pol_tax_ipcc_I, 1996:pol_tax_ipcc_I,
@@ -1204,7 +1204,7 @@ def scope():
                              2019:pol_tax_ipcc_I, 2020:pol_tax_ipcc_I,
                              2021:pol_tax_ipcc_I}
 
-    pol_tax_fuel_coverage = {1990:pol_tax_fuel_I,
+    pol_tax_fuel_scope = {1990:pol_tax_fuel_I,
                              1991:pol_tax_fuel_I, 1992:pol_tax_fuel_I,
                              1993:pol_tax_fuel_I, 1994:pol_tax_fuel_I,
                              1995:pol_tax_fuel_I, 1996:pol_tax_fuel_I,
@@ -1224,7 +1224,7 @@ def scope():
     
     ## Sources dictionary
     
-    pol_tax_coverage_sources = {1990:"report(OCED[2012], OECD-EP-P[2015])",
+    pol_tax_scope_sources = {1990:"report(OCED[2012], OECD-EP-P[2015])",
                                 1991:"report(OCED[2012], OECD-EP-P[2015])", 
                                 1992:"report(OCED[2012], OECD-EP-P[2015])",
                                 1993:"report(OCED[2012], OECD-EP-P[2015])", 
@@ -1275,23 +1275,23 @@ def scope():
     
     prt_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    prt_tax_jur_coverage = {2017:prt_tax_jur_I, 2018:prt_tax_jur_I, 
+    prt_tax_jur_scope = {2017:prt_tax_jur_I, 2018:prt_tax_jur_I, 
                             2019:prt_tax_jur_I, 2020:prt_tax_jur_I, 
                             2021:prt_tax_jur_I}
     
-    prt_tax_ipcc_coverage = {2017:prt_tax_ipcc_I, 2018:prt_tax_ipcc_I, 
+    prt_tax_ipcc_scope = {2017:prt_tax_ipcc_I, 2018:prt_tax_ipcc_I, 
                              2019:prt_tax_ipcc_I, 2020:prt_tax_ipcc_I, 
                              2021:prt_tax_ipcc_I}     
 
-    prt_tax_fuel_coverage = {2017:prt_tax_fuel_I, 2018:prt_tax_fuel_I, 
+    prt_tax_fuel_scope = {2017:prt_tax_fuel_I, 2018:prt_tax_fuel_I, 
                              2019:prt_tax_fuel_I, 2020:prt_tax_fuel_I, 
                              2021:prt_tax_fuel_I}     
 
     ## Sources dictionary
     
-    prt_tax_coverage_sources = {2017:"leg(PRT[2014]), gvt(PRT[2014])", 
+    prt_tax_scope_sources = {2017:"leg(PRT[2014]), gvt(PRT[2014])", 
                                 2018:"leg(PRT[2014]), gvt(PRT[2014])", 
                                 2019:"leg(PRT[2014]), gvt(PRT[2014])", 
                                 2020:"leg(PRT[2014]), gvt(PRT[2014])",
@@ -1318,19 +1318,19 @@ def scope():
     ## Fuel
     sgp_tax_fuel_I = ["Coal", "Oil", "Natural gas"]    
     
-    ## Coverage dictionaries
-    sgp_tax_jur_coverage = {2019:sgp_tax_jur_I, 2020:sgp_tax_jur_I,
+    ## scope dictionaries
+    sgp_tax_jur_scope = {2019:sgp_tax_jur_I, 2020:sgp_tax_jur_I,
                            2021:sgp_tax_jur_I}
     
-    sgp_tax_ipcc_coverage = {2019:sgp_tax_ipcc_I, 2020:sgp_tax_ipcc_I,
+    sgp_tax_ipcc_scope = {2019:sgp_tax_ipcc_I, 2020:sgp_tax_ipcc_I,
                             2021:sgp_tax_ipcc_I}     
 
-    sgp_tax_fuel_coverage = {2019:sgp_tax_fuel_I, 2020:sgp_tax_fuel_I,
+    sgp_tax_fuel_scope = {2019:sgp_tax_fuel_I, 2020:sgp_tax_fuel_I,
                             2021:sgp_tax_fuel_I}     
     
     ## Sources dictionary
     
-    sgp_tax_coverage_sources = {2019:"leg(SG[2018])", 2020:"leg(SG[2018])",
+    sgp_tax_scope_sources = {2019:"leg(SG[2018])", 2020:"leg(SG[2018])",
                                 2021:"leg(SG[2018])"}
     
     #----------------------------------------------------------------------------
@@ -1352,9 +1352,9 @@ def scope():
 
     slo_tax_I_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
-    ## Coverage dictionaries
+    ## scope dictionaries
 
-    slo_tax_jur_coverage = {1996:slo_tax_jur_I,
+    slo_tax_jur_scope = {1996:slo_tax_jur_I,
                             1997:slo_tax_jur_I, 1998:slo_tax_jur_I,
                             1999:slo_tax_jur_I, 2000:slo_tax_jur_I,
                             2001:slo_tax_jur_I, 2002:slo_tax_jur_I,
@@ -1369,7 +1369,7 @@ def scope():
                             2019:slo_tax_jur_I, 2020:slo_tax_jur_I,
                             2021:slo_tax_jur_I}
 
-    slo_tax_ipcc_coverage = {1995:slo_tax_ipcc_I, 1996:slo_tax_ipcc_I,
+    slo_tax_ipcc_scope = {1995:slo_tax_ipcc_I, 1996:slo_tax_ipcc_I,
                              1997:slo_tax_ipcc_I, 1998:slo_tax_ipcc_I,
                              1999:slo_tax_ipcc_I, 2000:slo_tax_ipcc_I,
                              2001:slo_tax_ipcc_I, 2002:slo_tax_ipcc_I,
@@ -1384,7 +1384,7 @@ def scope():
                              2019:slo_tax_ipcc_I, 2020:slo_tax_ipcc_I,
                              2021:slo_tax_ipcc_I}
     
-    slo_tax_fuel_coverage = {1996:nor_tax_I_fuel_I,
+    slo_tax_fuel_scope = {1996:nor_tax_I_fuel_I,
                              1997:slo_tax_I_fuel_I, 1998:slo_tax_I_fuel_I,
                              1999:slo_tax_I_fuel_I, 2000:slo_tax_I_fuel_I,
                              2001:slo_tax_I_fuel_I, 2002:slo_tax_I_fuel_I,
@@ -1401,7 +1401,7 @@ def scope():
     
     ## Sources dictionary
     
-    slo_tax_coverage_sources = {1996:"leg(SLO-CO2[1996])",
+    slo_tax_scope_sources = {1996:"leg(SLO-CO2[1996])",
                                 1997:"leg(SLO-CO2[1997])", 1998:"leg(SLO-CO2[1998])",
                                 1999:"leg(SLO-CO2[1998])", 2000:"leg(SLO-CO2[2000])",
                                 2001:"leg(SLO-CO2[2000])", 2002:"leg(SLO-CO2[2000])",
@@ -1448,19 +1448,19 @@ def scope():
     ## Fuel
     zaf_tax_fuel_I = ["Coal", "Oil", "Natural gas"]    
     
-    ## Coverage dictionaries
-    zaf_tax_jur_coverage = {2019:zaf_tax_jur_I, 2020:zaf_tax_jur_I,
+    ## scope dictionaries
+    zaf_tax_jur_scope = {2019:zaf_tax_jur_I, 2020:zaf_tax_jur_I,
                            2021:zaf_tax_jur_I}
     
-    zaf_tax_ipcc_coverage = {2019:zaf_tax_ipcc_I, 2020:zaf_tax_ipcc_I,
+    zaf_tax_ipcc_scope = {2019:zaf_tax_ipcc_I, 2020:zaf_tax_ipcc_I,
                             2021:zaf_tax_ipcc_I}     
 
-    zaf_tax_fuel_coverage = {2019:zaf_tax_fuel_I, 2020:zaf_tax_fuel_I,
+    zaf_tax_fuel_scope = {2019:zaf_tax_fuel_I, 2020:zaf_tax_fuel_I,
                             2021:zaf_tax_fuel_I}     
     
     ## Sources dictionary
     
-    zaf_tax_coverage_sources = {2019:"leg(SA[2019])", 2020:"leg(SA[2019])",
+    zaf_tax_scope_sources = {2019:"leg(SA[2019])", 2020:"leg(SA[2019])",
                                 2021:"leg(SA[2019])"}
     
     
@@ -1485,9 +1485,9 @@ def scope():
 
     swe_tax_fuel_I = ["Oil", "Coal", "Natural gas"]      
     
-    ## Coverage dictionaries
+    ## scope dictionaries
 
-    swe_tax_jur_coverage = {1991:swe_tax_jur_I, 1992:swe_tax_jur_I,
+    swe_tax_jur_scope = {1991:swe_tax_jur_I, 1992:swe_tax_jur_I,
                               1993:swe_tax_jur_I, 1994:swe_tax_jur_I,
                               1995:swe_tax_jur_I, 1996:swe_tax_jur_I,
                               1997:swe_tax_jur_I, 1998:swe_tax_jur_I,
@@ -1504,7 +1504,7 @@ def scope():
                               2019:swe_tax_jur_I, 2020:swe_tax_jur_I,
                               2021:swe_tax_jur_I}
 
-    swe_tax_ipcc_coverage = {1991:swe_tax_ipcc_I, 1992:swe_tax_ipcc_I,
+    swe_tax_ipcc_scope = {1991:swe_tax_ipcc_I, 1992:swe_tax_ipcc_I,
                               1993:swe_tax_ipcc_I, 1994:swe_tax_ipcc_I,
                               1995:swe_tax_ipcc_I, 1996:swe_tax_ipcc_I,
                               1997:swe_tax_ipcc_I, 1998:swe_tax_ipcc_I,
@@ -1521,7 +1521,7 @@ def scope():
                               2019:swe_tax_ipcc_II, 2020:swe_tax_ipcc_II,
                               2021:swe_tax_ipcc_II}
     
-    swe_tax_fuel_coverage = {1991:swe_tax_fuel_I, 1992:swe_tax_fuel_I,
+    swe_tax_fuel_scope = {1991:swe_tax_fuel_I, 1992:swe_tax_fuel_I,
                               1993:swe_tax_fuel_I, 1994:swe_tax_fuel_I,
                               1995:swe_tax_fuel_I, 1996:swe_tax_fuel_I,
                               1997:swe_tax_fuel_I, 1998:swe_tax_fuel_I,
@@ -1540,7 +1540,7 @@ def scope():
     
     ## Sources dictionary
     
-    swe_tax_coverage_sources = {1991:"report(SMF-CT[2011])", 1992:"report(SMF-CT[2011])",
+    swe_tax_scope_sources = {1991:"report(SMF-CT[2011])", 1992:"report(SMF-CT[2011])",
                                    1993:"report(SMF-CT[2011])", 1994:"report(SMF-CT[2011])",
                                    1995:"report(SMF-CT[2011])", 1996:"report(SMF-CT[2011])",
                                    1997:"report(SMF-CT[2011])", 1998:"report(SMF-CT[2011])",
@@ -1567,42 +1567,42 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     che_tax_ipcc_I = ["1A1A2", "1A1A3", "1A4B"]
 
     ## Fuels
     
     che_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    che_tax_jur_coverage = {2008:che_tax_jur_I, 2009:che_tax_jur_I,
+    che_tax_jur_scope = {2008:che_tax_jur_I, 2009:che_tax_jur_I,
                             2010:che_tax_jur_I, 2011:che_tax_jur_I,
                             2012:che_tax_jur_I, 2013:che_tax_jur_I,
                             2014:che_tax_jur_I, 2015:che_tax_jur_I,
                             2016:che_tax_jur_I, 2017:che_tax_jur_I,
                             2018:che_tax_jur_I, 2019:che_tax_jur_I, 
-                            2020:che_tax_jur_I}
+                            2020:che_tax_jur_I, 2021:che_tax_jur_I}
     
-    che_tax_ipcc_coverage = {2008:che_tax_ipcc_I, 2009:che_tax_ipcc_I,
+    che_tax_ipcc_scope = {2008:che_tax_ipcc_I, 2009:che_tax_ipcc_I,
                             2010:che_tax_ipcc_I, 2011:che_tax_ipcc_I,
                             2012:che_tax_ipcc_I, 2013:che_tax_ipcc_I,
                             2014:che_tax_ipcc_I, 2015:che_tax_ipcc_I,
                             2016:che_tax_ipcc_I, 2017:che_tax_ipcc_I,
                             2018:che_tax_ipcc_I, 2019:che_tax_ipcc_I, 
-                            2020:che_tax_ipcc_I}
+                            2020:che_tax_ipcc_I, 2021:che_tax_ipcc_I}
     
-    che_tax_fuel_coverage = {2008:che_tax_fuel_I, 2009:che_tax_fuel_I,
+    che_tax_fuel_scope = {2008:che_tax_fuel_I, 2009:che_tax_fuel_I,
                             2010:che_tax_fuel_I, 2011:che_tax_fuel_I,
                             2012:che_tax_fuel_I, 2013:che_tax_fuel_I,
                             2014:che_tax_fuel_I, 2015:che_tax_fuel_I,
                             2016:che_tax_fuel_I, 2017:che_tax_fuel_I,
                             2018:che_tax_fuel_I, 2019:che_tax_fuel_I, 
-                            2020:che_tax_fuel_I}
+                            2020:che_tax_fuel_I, 2021:che_tax_fuel_I}
     
     ## Sources dictionary
     
-    che_tax_coverage_sources = {2008:"gvt(CH[2005], CH[2009])", 
+    che_tax_scope_sources = {2008:"gvt(CH[2005], CH[2009])", 
                                 2009:"gvt(CH[2005], CH[2009])",
                                 2010:"gvt(CH[2005], CH[2009])", 
                                 2011:"gvt(CH[2005], CH[2009])", 
@@ -1633,16 +1633,16 @@ def scope():
     
     mex_tm_tax_fuel_I = []
 
-    ## Coverage dictionaries
-    mex_tm_tax_jur_coverage = {} #2021:
+    ## scope dictionaries
+    mex_tm_tax_jur_scope = {} #2021:
     
-    mex_tm_tax_ipcc_coverage = {} #2021:    
+    mex_tm_tax_ipcc_scope = {} #2021:    
 
-    mex_tm_tax_fuel_coverage = {} #2021:
+    mex_tm_tax_fuel_scope = {} #2021:
     
     ## Sources dictionary
     
-    mex_tm_tax_coverage_sources = {} #2021:
+    mex_tm_tax_scope_sources = {} #2021:
     
     #----------------------------------------------------------------------------
     
@@ -1654,7 +1654,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     ukr_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
                       "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
                       "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M",
@@ -1672,32 +1672,32 @@ def scope():
     # the scheme was suspended between 2015-2016
     ukr_tax_fuel_II = []
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    ukr_tax_jur_coverage = {2011:ukr_tax_jur_I,
+    ukr_tax_jur_scope = {2011:ukr_tax_jur_I,
                             2012:ukr_tax_jur_I, 2013:ukr_tax_jur_I,
                             2014:ukr_tax_jur_I, 2015:ukr_tax_jur_I,
                             2016:ukr_tax_jur_I, 2017:ukr_tax_jur_I,
                             2018:ukr_tax_jur_I, 2019:ukr_tax_jur_I, 
-                            2020:ukr_tax_jur_I}
+                            2020:ukr_tax_jur_I, 2021:ukr_tax_jur_I}
     
-    ukr_tax_ipcc_coverage = {2011:ukr_tax_ipcc_I,
+    ukr_tax_ipcc_scope = {2011:ukr_tax_ipcc_I,
                             2012:ukr_tax_ipcc_I, 2013:ukr_tax_ipcc_I,
                             2014:ukr_tax_ipcc_I, 2015:ukr_tax_ipcc_II,
                             2016:ukr_tax_ipcc_II, 2017:ukr_tax_ipcc_I,
                             2018:ukr_tax_ipcc_I, 2019:ukr_tax_ipcc_I, 
-                            2020:ukr_tax_ipcc_I}
+                            2020:ukr_tax_ipcc_I, 2021:ukr_tax_ipcc_I}
     
-    ukr_tax_fuel_coverage = {2011:ukr_tax_fuel_I,
+    ukr_tax_fuel_scope = {2011:ukr_tax_fuel_I,
                             2012:ukr_tax_fuel_I, 2013:ukr_tax_fuel_I,
                             2014:ukr_tax_fuel_I, 2015:ukr_tax_fuel_II,
                             2016:ukr_tax_fuel_II, 2017:ukr_tax_fuel_I,
                             2018:ukr_tax_fuel_I, 2019:ukr_tax_fuel_I, 
-                            2020:ukr_tax_fuel_I}
+                            2020:ukr_tax_fuel_I, 2021:ukr_tax_fuel_I}
     
     ## Sources dictionary
     
-    ukr_tax_coverage_sources = {2011:"leg(UA[2011], report(EBRD[2014])", 
+    ukr_tax_scope_sources = {2011:"leg(UA[2011], report(EBRD[2014])", 
                                 2012:"leg(UA[2011], report(EBRD[2014])",
                                 2013:"leg(UA[2011], report(EBRD[2014])", 
                                 2014:"leg(UA[2011], report(EBRD[2014])", 
@@ -1718,7 +1718,7 @@ def scope():
 
     ## Sectors
     
-    # initial coverage
+    # initial scope
     gbr_tax_ipcc_I = ["1A1A1", "1A1A2"]
 
 
@@ -1726,21 +1726,21 @@ def scope():
     
     gbr_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    gbr_tax_jur_coverage = {2013:gbr_tax_jur_I,
+    gbr_tax_jur_scope = {2013:gbr_tax_jur_I,
                             2014:gbr_tax_jur_I, 2015:gbr_tax_jur_I,
                             2016:gbr_tax_jur_I, 2017:gbr_tax_jur_I,
                             2018:gbr_tax_jur_I, 2019:gbr_tax_jur_I, 
                             2020:gbr_tax_jur_I}
     
-    gbr_tax_ipcc_coverage = {2013:gbr_tax_ipcc_I,
+    gbr_tax_ipcc_scope = {2013:gbr_tax_ipcc_I,
                             2014:gbr_tax_ipcc_I, 2015:gbr_tax_ipcc_I,
                             2016:gbr_tax_ipcc_I, 2017:gbr_tax_ipcc_I,
                             2018:gbr_tax_ipcc_I, 2019:gbr_tax_ipcc_I, 
                             2020:gbr_tax_ipcc_I}
     
-    gbr_tax_fuel_coverage = {2013:gbr_tax_fuel_I,
+    gbr_tax_fuel_scope = {2013:gbr_tax_fuel_I,
                             2014:gbr_tax_fuel_I, 2015:gbr_tax_fuel_I,
                             2016:gbr_tax_fuel_I, 2017:gbr_tax_fuel_I,
                             2018:gbr_tax_fuel_I, 2019:gbr_tax_fuel_I, 
@@ -1749,7 +1749,7 @@ def scope():
 
     ## Sources dictionary
     
-    gbr_tax_coverage_sources = {2013:"leg(UK[2013a], UK[2013b])", 
+    gbr_tax_scope_sources = {2013:"leg(UK[2013a], UK[2013b])", 
                                 2014:"leg(UK[2013a], UK[2013b])", 
                                 2015:"leg(UK[2013a], UK[2013b])", 
                                 2016:"leg(UK[2013a], UK[2013b])",
@@ -1758,10 +1758,65 @@ def scope():
                                 2019:"leg(UK[2013a], UK[2013b])", 
                                 2020:"leg(UK[2013a], UK[2013b])",
                                 2021:"leg(UK[2013a], UK[2013b])"}
-    
+
+
     #----------------------------------------------------------------------------
 
-    # Zacatecas
+    # Mexico - Baja California
+    
+    ## Jurisdiction
+    
+    mex_bc_tax_jur_I = ["Baja California"]
+
+    ## Sectors
+    
+    mex_bc_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_bc_tax_fuel_I = []
+
+    ## scope dictionaries
+    mex_bc_tax_jur_scope = {} #2017:
+    
+    mex_bc_tax_ipcc_scope = {} #2017:    
+
+    mex_bc_tax_fuel_scope = {} #2017:
+    
+    ## Sources dictionary
+    
+    mex_bc_tax_scope_sources = {} #2017:
+
+    #----------------------------------------------------------------------------
+
+    # Mexico - Tamaulipas
+    
+    ## Jurisdiction
+    
+    mex_tm_tax_jur_I = ["Tamaulipas"]
+
+    ## Sectors
+    
+    mex_tm_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_tm_tax_fuel_I = []
+
+    ## scope dictionaries
+    mex_tm_tax_jur_scope = {} #2017:
+    
+    mex_tm_tax_ipcc_scope = {} #2017:    
+
+    mex_tm_tax_fuel_scope = {} #2017:
+    
+    ## Sources dictionary
+    
+    mex_tm_tax_scope_sources = {} #2017: 
+
+    #----------------------------------------------------------------------------
+
+    # Mexico - Zacatecas
     
     ## Jurisdiction
     
@@ -1775,24 +1830,24 @@ def scope():
     
     mex_za_tax_fuel_I = []
 
-    ## Coverage dictionaries
-    mex_za_tax_jur_coverage = {} #2017:
+    ## scope dictionaries
+    mex_za_tax_jur_scope = {} #2017:
     
-    mex_za_tax_ipcc_coverage = {} #2017:    
+    mex_za_tax_ipcc_scope = {} #2017:    
 
-    mex_za_tax_fuel_coverage = {} #2017:
+    mex_za_tax_fuel_scope = {} #2017:
     
     ## Sources dictionary
     
-    mex_za_tax_coverage_sources = {} #2017:
-    
+    mex_za_tax_scope_sources = {} #2017:
+
     #----------------------------------------------------------------------------
     
     # Canada Federal Charge for most provinces
     
     ## Jurisdiction
     
-    # initial province coverage (2019)    
+    # initial province scope (2019)    
     can_tax_I_jur_I = ["Manitoba", "Ontario", "Saskatchewan", "New Brunswick"]
 
     # New Brunswick opts out and Alberta joins in (2020-2021)
@@ -1809,20 +1864,20 @@ def scope():
     
     can_tax_I_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    can_tax_I_jur_coverage = {2019:can_tax_I_jur_I, 2020:can_tax_I_jur_II,
+    can_tax_I_jur_scope = {2019:can_tax_I_jur_I, 2020:can_tax_I_jur_II,
                              2021:can_tax_I_jur_II}
     
-    can_tax_I_ipcc_coverage = {2019:can_tax_I_ipcc_I, 2020:can_tax_I_ipcc_I,
+    can_tax_I_ipcc_scope = {2019:can_tax_I_ipcc_I, 2020:can_tax_I_ipcc_I,
                              2021:can_tax_I_ipcc_I}
     
-    can_tax_I_fuel_coverage = {2019:can_tax_I_fuel_I, 2020:can_tax_I_fuel_I,
+    can_tax_I_fuel_scope = {2019:can_tax_I_fuel_I, 2020:can_tax_I_fuel_I,
                              2021:can_tax_I_fuel_I}
 
     ## Sources dictionary
     
-    can_tax_I_coverage_sources = {2019:"gvt(ECCC[2019])", 2020:"gvt(ECCC[2019])", 
+    can_tax_I_scope_sources = {2019:"gvt(ECCC[2019])", 2020:"gvt(ECCC[2019])", 
                                   2021:"gvt(ECCC[2019])"}
     
     #----------------------------------------------------------------------------
@@ -1844,20 +1899,20 @@ def scope():
     
     can_tax_II_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    can_tax_II_jur_coverage = {2019:can_tax_II_jur_I, 2020:can_tax_II_jur_I,
+    can_tax_II_jur_scope = {2019:can_tax_II_jur_I, 2020:can_tax_II_jur_I,
                              2021:can_tax_II_jur_I}
     
-    can_tax_II_ipcc_coverage = {2019:can_tax_II_ipcc_I, 2020:can_tax_II_ipcc_I,
+    can_tax_II_ipcc_scope = {2019:can_tax_II_ipcc_I, 2020:can_tax_II_ipcc_I,
                              2021:can_tax_II_ipcc_I}
     
-    can_tax_II_fuel_coverage = {2019:can_tax_II_fuel_I, 2020:can_tax_II_fuel_I,
+    can_tax_II_fuel_scope = {2019:can_tax_II_fuel_I, 2020:can_tax_II_fuel_I,
                              2021:can_tax_II_fuel_I}
 
     ## Sources dictionary
     
-    can_tax_II_coverage_sources = {2019:"gvt(ECCC[2019])", 2020:"gvt(ECCC[2019])", 
+    can_tax_II_scope_sources = {2019:"gvt(ECCC[2019])", 2020:"gvt(ECCC[2019])", 
                                    2021:"gvt(ECCC[2019])"}
     
     #----------------------------------------------------------------------------
@@ -1880,20 +1935,20 @@ def scope():
     
     can_ab_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    can_ab_tax_jur_coverage = {2017:can_ab_tax_jur_I, 2018:can_ab_tax_jur_I, 
+    can_ab_tax_jur_scope = {2017:can_ab_tax_jur_I, 2018:can_ab_tax_jur_I, 
                                2019:can_ab_tax_jur_I}
     
-    can_ab_tax_ipcc_coverage = {2017:can_ab_tax_ipcc_I, 2018:can_ab_tax_ipcc_I, 
+    can_ab_tax_ipcc_scope = {2017:can_ab_tax_ipcc_I, 2018:can_ab_tax_ipcc_I, 
                                 2019:can_ab_tax_ipcc_I}
     
-    can_ab_tax_fuel_coverage = {2017:can_ab_tax_fuel_I, 2018:can_ab_tax_fuel_I,
+    can_ab_tax_fuel_scope = {2017:can_ab_tax_fuel_I, 2018:can_ab_tax_fuel_I,
                                 2019:can_ab_tax_fuel_I}
 
     ## Sources dictionary
     
-    can_ab_tax_coverage_sources = {2017:"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])", 
+    can_ab_tax_scope_sources = {2017:"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])", 
                                    2018:"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])", 
                                    2019:"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])"}
     
@@ -1915,17 +1970,17 @@ def scope():
     
     can_nb_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    can_nb_tax_jur_coverage = {2020:can_nb_tax_jur_I, 2021:can_nb_tax_jur_I}
+    can_nb_tax_jur_scope = {2020:can_nb_tax_jur_I, 2021:can_nb_tax_jur_I}
     
-    can_nb_tax_ipcc_coverage = {2020:can_nb_tax_ipcc_I, 2021:can_nb_tax_ipcc_I}
+    can_nb_tax_ipcc_scope = {2020:can_nb_tax_ipcc_I, 2021:can_nb_tax_ipcc_I}
     
-    can_nb_tax_fuel_coverage = {2020:can_nb_tax_fuel_I, 2021:can_nb_tax_fuel_I}
+    can_nb_tax_fuel_scope = {2020:can_nb_tax_fuel_I, 2021:can_nb_tax_fuel_I}
 
     ## Sources dictionary
     
-    can_nb_tax_coverage_sources = {2020:"gvt(ECCC[2021]), report(KPMG[2020])", 
+    can_nb_tax_scope_sources = {2020:"gvt(ECCC[2021]), report(KPMG[2020])", 
                                    2021:"gvt(ECCC[2021]), report(KPMG[2020])"}
     
     #----------------------------------------------------------------------------
@@ -1948,20 +2003,20 @@ def scope():
     
     can_pe_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    can_pe_tax_jur_coverage = {2019:can_pe_tax_jur_I, 2020:can_pe_tax_jur_I, 
+    can_pe_tax_jur_scope = {2019:can_pe_tax_jur_I, 2020:can_pe_tax_jur_I, 
                                2021:can_pe_tax_jur_I}
     
-    can_pe_tax_ipcc_coverage = {2019:can_pe_tax_ipcc_I, 2020:can_pe_tax_ipcc_I, 
+    can_pe_tax_ipcc_scope = {2019:can_pe_tax_ipcc_I, 2020:can_pe_tax_ipcc_I, 
                                 2021:can_pe_tax_ipcc_I}
     
-    can_pe_tax_fuel_coverage = {2019:can_pe_tax_fuel_I, 2020:can_pe_tax_fuel_I, 
+    can_pe_tax_fuel_scope = {2019:can_pe_tax_fuel_I, 2020:can_pe_tax_fuel_I, 
                                 2021:can_pe_tax_fuel_I}
 
     ## Sources dictionary
     
-    can_pe_tax_coverage_sources = {2019:"gvt(ECCC[2021], PEI[2018])", 
+    can_pe_tax_scope_sources = {2019:"gvt(ECCC[2021], PEI[2018])", 
                                    2020:"gvt(ECCC[2021], PEI[2018])", 
                                    2021:"gvt(ECCC[2021], PEI[2018])"}
     
@@ -1984,20 +2039,20 @@ def scope():
     
     can_nl_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    can_nl_tax_jur_coverage = {2019:can_nl_tax_jur_I, 2020:can_nl_tax_jur_I, 
+    can_nl_tax_jur_scope = {2019:can_nl_tax_jur_I, 2020:can_nl_tax_jur_I, 
                                2021:can_nl_tax_jur_I}
     
-    can_nl_tax_ipcc_coverage = {2019:can_nl_tax_ipcc_I, 2020:can_nl_tax_ipcc_I, 
+    can_nl_tax_ipcc_scope = {2019:can_nl_tax_ipcc_I, 2020:can_nl_tax_ipcc_I, 
                                 2021:can_nl_tax_ipcc_I}
     
-    can_nl_tax_fuel_coverage = {2019:can_nl_tax_fuel_I, 2020:can_nl_tax_fuel_I, 
+    can_nl_tax_fuel_scope = {2019:can_nl_tax_fuel_I, 2020:can_nl_tax_fuel_I, 
                                 2021:can_nl_tax_fuel_I}
 
     ## Sources dictionary
     
-    can_nl_tax_coverage_sources = {2019:"leg(NL[2011])", 2020:"leg(NL[2011])", 
+    can_nl_tax_scope_sources = {2019:"leg(NL[2011])", 2020:"leg(NL[2011])", 
                                    2021:"leg(NL[2011])"}
     
     #----------------------------------------------------------------------------
@@ -2020,182 +2075,182 @@ def scope():
     
     can_nt_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## Coverage dictionaries
+    ## scope dictionaries
     
-    can_nt_tax_jur_coverage = {2019:can_nt_tax_jur_I, 2020:can_nt_tax_jur_I, 
+    can_nt_tax_jur_scope = {2019:can_nt_tax_jur_I, 2020:can_nt_tax_jur_I, 
                                2021:can_nt_tax_jur_I}
     
-    can_nt_tax_ipcc_coverage = {2019:can_nt_tax_ipcc_I, 2020:can_nt_tax_ipcc_I, 
+    can_nt_tax_ipcc_scope = {2019:can_nt_tax_ipcc_I, 2020:can_nt_tax_ipcc_I, 
                                 2021:can_nt_tax_ipcc_I}
     
-    can_nt_tax_fuel_coverage = {2019:can_nt_tax_fuel_I, 2020:can_nt_tax_fuel_I, 
+    can_nt_tax_fuel_scope = {2019:can_nt_tax_fuel_I, 2020:can_nt_tax_fuel_I, 
                                 2021:can_nt_tax_fuel_I}
 
     ## Sources dictionary
     
-    can_nt_tax_coverage_sources = {2019:"gvt(NWT[2020], ECCC[2021])", 
+    can_nt_tax_scope_sources = {2019:"gvt(NWT[2020], ECCC[2021])", 
                                    2020:"gvt(NWT[2020], ECCC[2021])", 
                                    2021:"gvt(NWT[2020], ECCC[2021])"}
 
 
     #------------------------------All schemes dictionaries--------------------------------#
 
-    taxes_coverage = {"arg_tax":{"jurisdictions":arg_tax_jur_coverage, 
-                                  "sectors":arg_tax_ipcc_coverage,
-                                  "fuels":arg_tax_fuel_coverage}, 
-                      "aus_tax":{"jurisdictions":aus_tax_jur_coverage, 
-                                  "sectors":aus_tax_ipcc_coverage,
-                                  "fuels":aus_tax_fuel_coverage}, 
-                      "chl_tax":{"jurisdictions":chl_tax_jur_coverage, 
-                                  "sectors":chl_tax_ipcc_coverage,
-                                  "fuels":chl_tax_fuel_coverage},
-                      "che_tax":{"jurisdictions":che_tax_jur_coverage, 
-                                  "sectors":che_tax_ipcc_coverage,
-                                  "fuels":che_tax_fuel_coverage},                      
-                      "col_tax":{"jurisdictions":col_tax_jur_coverage, 
-                                  "sectors":col_tax_ipcc_coverage,
-                                  "fuels":col_tax_fuel_coverage},
-                      "dnk_tax":{"jurisdictions":dnk_tax_jur_coverage, 
-                                  "sectors":dnk_tax_ipcc_coverage,
-                                  "fuels":dnk_tax_fuel_coverage},
-                      "est_tax":{"jurisdictions":est_tax_jur_coverage, 
-                                  "sectors":est_tax_ipcc_coverage,
-                                  "fuels":est_tax_fuel_coverage},
-                      "fin_tax":{"jurisdictions":fin_tax_jur_coverage, 
-                                  "sectors":fin_tax_ipcc_coverage,
-                                  "fuels":fin_tax_fuel_coverage},
-                      "fra_tax":{"jurisdictions":fra_tax_jur_coverage, 
-                                  "sectors":fra_tax_ipcc_coverage,
-                                  "fuels":fra_tax_fuel_coverage},
-                      "isl_tax":{"jurisdictions":isl_tax_jur_coverage, 
-                                  "sectors":isl_tax_ipcc_coverage,
-                                  "fuels":isl_tax_fuel_coverage},
-                      "irl_tax":{"jurisdictions":irl_tax_jur_coverage, 
-                                  "sectors":irl_tax_ipcc_coverage,
-                                  "fuels":irl_tax_fuel_coverage},
-                      "jpn_tax":{"jurisdictions":jpn_tax_jur_coverage, 
-                                  "sectors":jpn_tax_ipcc_coverage,
-                                  "fuels":jpn_tax_fuel_coverage},
-                      "lva_tax":{"jurisdictions":lva_tax_jur_coverage, 
-                                  "sectors":lva_tax_ipcc_coverage,
-                                  "fuels":lva_tax_fuel_coverage},
-                      "lie_tax":{"jurisdictions":lie_tax_jur_coverage, 
-                                  "sectors":lie_tax_ipcc_coverage,
-                                  "fuels":lie_tax_fuel_coverage},
-                      "lux_tax":{"jurisdictions":lux_tax_jur_coverage, 
-                                  "sectors":lux_tax_ipcc_coverage,
-                                  "fuels":lux_tax_fuel_coverage},
-                      "mex_tax":{"jurisdictions":mex_tax_jur_coverage, 
-                                  "sectors":mex_tax_ipcc_coverage,
-                                  "fuels":mex_tax_fuel_coverage},
-                      "nld_tax":{"jurisdictions":nld_tax_jur_coverage, 
-                                  "sectors":nld_tax_ipcc_coverage,
-                                  "fuels":nld_tax_fuel_coverage},
-                      "nor_tax_I":{"jurisdictions":nor_tax_I_jur_coverage, 
-                                  "sectors":nor_tax_I_ipcc_coverage,
-                                  "fuels":nor_tax_I_fuel_coverage},
-                      "nor_tax_II":{"jurisdictions":nor_tax_II_jur_coverage, 
-                                  "sectors":nor_tax_II_ipcc_coverage,
-                                  "fuels":nor_tax_II_fuel_coverage},
-                      "prt_tax":{"jurisdictions":prt_tax_jur_coverage, 
-                                  "sectors":prt_tax_ipcc_coverage,
-                                  "fuels":prt_tax_fuel_coverage},
-                      "pol_tax":{"jurisdictions":pol_tax_jur_coverage, 
-                                  "sectors":pol_tax_ipcc_coverage,
-                                  "fuels":pol_tax_fuel_coverage},                      
-                      "sgp_tax":{"jurisdictions":sgp_tax_jur_coverage, 
-                                  "sectors":sgp_tax_ipcc_coverage,
-                                  "fuels":sgp_tax_fuel_coverage},
-                      "swe_tax":{"jurisdictions":swe_tax_jur_coverage, 
-                                  "sectors":swe_tax_ipcc_coverage,
-                                  "fuels":swe_tax_fuel_coverage},
-                      "slo_tax":{"jurisdictions":slo_tax_jur_coverage, 
-                                  "sectors":slo_tax_ipcc_coverage,
-                                  "fuels":slo_tax_fuel_coverage},
-                      "zaf_tax":{"jurisdictions":zaf_tax_jur_coverage, 
-                                  "sectors":zaf_tax_ipcc_coverage,
-                                  "fuels":zaf_tax_fuel_coverage},
-                      "ukr_tax":{"jurisdictions":ukr_tax_jur_coverage, 
-                                  "sectors":ukr_tax_ipcc_coverage,
-                                  "fuels":ukr_tax_fuel_coverage},
-                      "gbr_tax":{"jurisdictions":gbr_tax_jur_coverage, 
-                                  "sectors":gbr_tax_ipcc_coverage,
-                                  "fuels":gbr_tax_fuel_coverage},
-                      "can_tax_I":{"jurisdictions":can_tax_I_jur_coverage, 
-                                  "sectors":can_tax_I_ipcc_coverage,
-                                  "fuels":can_tax_I_fuel_coverage},
-                      "can_tax_II":{"jurisdictions":can_tax_II_jur_coverage, 
-                                  "sectors":can_tax_II_ipcc_coverage,
-                                  "fuels":can_tax_II_fuel_coverage},
-                      "can_ab_tax":{"jurisdictions":can_ab_tax_jur_coverage, 
-                                  "sectors":can_ab_tax_ipcc_coverage,
-                                  "fuels":can_ab_tax_fuel_coverage},
-                      "can_bc_tax":{"jurisdictions":can_bc_tax_jur_coverage, 
-                                  "sectors":can_bc_tax_ipcc_coverage,
-                                  "fuels":can_bc_tax_fuel_coverage},
-                      "can_nb_tax":{"jurisdictions":can_nb_tax_jur_coverage, 
-                                  "sectors":can_nb_tax_ipcc_coverage,
-                                  "fuels":can_nb_tax_fuel_coverage},
-                      "can_pe_tax":{"jurisdictions":can_pe_tax_jur_coverage, 
-                                  "sectors":can_pe_tax_ipcc_coverage,
-                                  "fuels":can_pe_tax_fuel_coverage},
-                      "can_nl_tax":{"jurisdictions":can_nl_tax_jur_coverage, 
-                                  "sectors":can_nl_tax_ipcc_coverage,
-                                  "fuels":can_nl_tax_fuel_coverage},
-                      "can_nt_tax":{"jurisdictions":can_nt_tax_jur_coverage, 
-                                  "sectors":can_nt_tax_ipcc_coverage,
-                                  "fuels":can_nt_tax_fuel_coverage},
-                      "mex_bc_tax":{"jurisdictions":mex_bc_tax_jur_coverage,
-                                    "sectors":mex_bc_tax_ipcc_coverage,
-                                    "fuels":mex_bc_tax_fuel_coverage},
-                      "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_coverage,
-                                    "sectors":mex_tm_tax_ipcc_coverage,
-                                    "fuels":mex_tm_tax_fuel_coverage},
-                      "mex_za_tax":{"jurisdictions":mex_za_tax_jur_coverage,
-                                    "sectors":mex_za_tax_ipcc_coverage,
-                                    "fuels":mex_za_tax_fuel_coverage}}                      
+    taxes_scope = {"arg_tax":{"jurisdictions":arg_tax_jur_scope, 
+                                  "sectors":arg_tax_ipcc_scope,
+                                  "fuels":arg_tax_fuel_scope}, 
+                      "aus_tax":{"jurisdictions":aus_tax_jur_scope, 
+                                  "sectors":aus_tax_ipcc_scope,
+                                  "fuels":aus_tax_fuel_scope}, 
+                      "chl_tax":{"jurisdictions":chl_tax_jur_scope, 
+                                  "sectors":chl_tax_ipcc_scope,
+                                  "fuels":chl_tax_fuel_scope},
+                      "che_tax":{"jurisdictions":che_tax_jur_scope, 
+                                  "sectors":che_tax_ipcc_scope,
+                                  "fuels":che_tax_fuel_scope},                      
+                      "col_tax":{"jurisdictions":col_tax_jur_scope, 
+                                  "sectors":col_tax_ipcc_scope,
+                                  "fuels":col_tax_fuel_scope},
+                      "dnk_tax":{"jurisdictions":dnk_tax_jur_scope, 
+                                  "sectors":dnk_tax_ipcc_scope,
+                                  "fuels":dnk_tax_fuel_scope},
+                      "est_tax":{"jurisdictions":est_tax_jur_scope, 
+                                  "sectors":est_tax_ipcc_scope,
+                                  "fuels":est_tax_fuel_scope},
+                      "fin_tax":{"jurisdictions":fin_tax_jur_scope, 
+                                  "sectors":fin_tax_ipcc_scope,
+                                  "fuels":fin_tax_fuel_scope},
+                      "fra_tax":{"jurisdictions":fra_tax_jur_scope, 
+                                  "sectors":fra_tax_ipcc_scope,
+                                  "fuels":fra_tax_fuel_scope},
+                      "isl_tax":{"jurisdictions":isl_tax_jur_scope, 
+                                  "sectors":isl_tax_ipcc_scope,
+                                  "fuels":isl_tax_fuel_scope},
+                      "irl_tax":{"jurisdictions":irl_tax_jur_scope, 
+                                  "sectors":irl_tax_ipcc_scope,
+                                  "fuels":irl_tax_fuel_scope},
+                      "jpn_tax":{"jurisdictions":jpn_tax_jur_scope, 
+                                  "sectors":jpn_tax_ipcc_scope,
+                                  "fuels":jpn_tax_fuel_scope},
+                      "lva_tax":{"jurisdictions":lva_tax_jur_scope, 
+                                  "sectors":lva_tax_ipcc_scope,
+                                  "fuels":lva_tax_fuel_scope},
+                      "lie_tax":{"jurisdictions":lie_tax_jur_scope, 
+                                  "sectors":lie_tax_ipcc_scope,
+                                  "fuels":lie_tax_fuel_scope},
+                      "lux_tax":{"jurisdictions":lux_tax_jur_scope, 
+                                  "sectors":lux_tax_ipcc_scope,
+                                  "fuels":lux_tax_fuel_scope},
+                      "mex_tax":{"jurisdictions":mex_tax_jur_scope, 
+                                  "sectors":mex_tax_ipcc_scope,
+                                  "fuels":mex_tax_fuel_scope},
+                      "nld_tax":{"jurisdictions":nld_tax_jur_scope, 
+                                  "sectors":nld_tax_ipcc_scope,
+                                  "fuels":nld_tax_fuel_scope},
+                      "nor_tax_I":{"jurisdictions":nor_tax_I_jur_scope, 
+                                  "sectors":nor_tax_I_ipcc_scope,
+                                  "fuels":nor_tax_I_fuel_scope},
+                      "nor_tax_II":{"jurisdictions":nor_tax_II_jur_scope, 
+                                  "sectors":nor_tax_II_ipcc_scope,
+                                  "fuels":nor_tax_II_fuel_scope},
+                      "prt_tax":{"jurisdictions":prt_tax_jur_scope, 
+                                  "sectors":prt_tax_ipcc_scope,
+                                  "fuels":prt_tax_fuel_scope},
+                      "pol_tax":{"jurisdictions":pol_tax_jur_scope, 
+                                  "sectors":pol_tax_ipcc_scope,
+                                  "fuels":pol_tax_fuel_scope},                      
+                      "sgp_tax":{"jurisdictions":sgp_tax_jur_scope, 
+                                  "sectors":sgp_tax_ipcc_scope,
+                                  "fuels":sgp_tax_fuel_scope},
+                      "swe_tax":{"jurisdictions":swe_tax_jur_scope, 
+                                  "sectors":swe_tax_ipcc_scope,
+                                  "fuels":swe_tax_fuel_scope},
+                      "slo_tax":{"jurisdictions":slo_tax_jur_scope, 
+                                  "sectors":slo_tax_ipcc_scope,
+                                  "fuels":slo_tax_fuel_scope},
+                      "zaf_tax":{"jurisdictions":zaf_tax_jur_scope, 
+                                  "sectors":zaf_tax_ipcc_scope,
+                                  "fuels":zaf_tax_fuel_scope},
+                      "ukr_tax":{"jurisdictions":ukr_tax_jur_scope, 
+                                  "sectors":ukr_tax_ipcc_scope,
+                                  "fuels":ukr_tax_fuel_scope},
+                      "gbr_tax":{"jurisdictions":gbr_tax_jur_scope, 
+                                  "sectors":gbr_tax_ipcc_scope,
+                                  "fuels":gbr_tax_fuel_scope},
+                      "can_tax_I":{"jurisdictions":can_tax_I_jur_scope, 
+                                  "sectors":can_tax_I_ipcc_scope,
+                                  "fuels":can_tax_I_fuel_scope},
+                      "can_tax_II":{"jurisdictions":can_tax_II_jur_scope, 
+                                  "sectors":can_tax_II_ipcc_scope,
+                                  "fuels":can_tax_II_fuel_scope},
+                      "can_ab_tax":{"jurisdictions":can_ab_tax_jur_scope, 
+                                  "sectors":can_ab_tax_ipcc_scope,
+                                  "fuels":can_ab_tax_fuel_scope},
+                      "can_bc_tax":{"jurisdictions":can_bc_tax_jur_scope, 
+                                  "sectors":can_bc_tax_ipcc_scope,
+                                  "fuels":can_bc_tax_fuel_scope},
+                      "can_nb_tax":{"jurisdictions":can_nb_tax_jur_scope, 
+                                  "sectors":can_nb_tax_ipcc_scope,
+                                  "fuels":can_nb_tax_fuel_scope},
+                      "can_pe_tax":{"jurisdictions":can_pe_tax_jur_scope, 
+                                  "sectors":can_pe_tax_ipcc_scope,
+                                  "fuels":can_pe_tax_fuel_scope},
+                      "can_nl_tax":{"jurisdictions":can_nl_tax_jur_scope, 
+                                  "sectors":can_nl_tax_ipcc_scope,
+                                  "fuels":can_nl_tax_fuel_scope},
+                      "can_nt_tax":{"jurisdictions":can_nt_tax_jur_scope, 
+                                  "sectors":can_nt_tax_ipcc_scope,
+                                  "fuels":can_nt_tax_fuel_scope},
+                      "mex_bc_tax":{"jurisdictions":mex_bc_tax_jur_scope,
+                                    "sectors":mex_bc_tax_ipcc_scope,
+                                    "fuels":mex_bc_tax_fuel_scope},
+                      "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_scope,
+                                    "sectors":mex_tm_tax_ipcc_scope,
+                                    "fuels":mex_tm_tax_fuel_scope},
+                      "mex_za_tax":{"jurisdictions":mex_za_tax_jur_scope,
+                                    "sectors":mex_za_tax_ipcc_scope,
+                                    "fuels":mex_za_tax_fuel_scope}}                      
     
-    taxes_coverage_sources = {"arg_tax":arg_tax_coverage_sources,
-                              "aus_tax":aus_tax_coverage_sources,
-                              "che_tax":che_tax_coverage_sources,
-                              "chl_tax":chl_tax_coverage_sources,
-                              "col_tax":col_tax_coverage_sources,
-                              "dnk_tax":dnk_tax_coverage_sources,
-                              "est_tax":est_tax_coverage_sources,
-                              "fin_tax":fin_tax_coverage_sources,
-                              "fra_tax":fra_tax_coverage_sources,
-                              "isl_tax":isl_tax_coverage_sources,
-                              "irl_tax":irl_tax_coverage_sources,
-                              "jpn_tax":jpn_tax_coverage_sources,
-                              "lie_tax":lie_tax_coverage_sources,
-                              "lva_tax":lva_tax_coverage_sources,
-                              "lux_tax":lux_tax_coverage_sources,                              
-                              "mex_tax":mex_tax_coverage_sources,
-                              "nld_tax":nld_tax_coverage_sources,                              
-                              "nor_tax_I":nor_tax_I_coverage_sources,
-                              "nor_tax_II":nor_tax_II_coverage_sources,
-                              "prt_tax":prt_tax_coverage_sources,
-                              "pol_tax":pol_tax_coverage_sources,
-                              "sgp_tax":sgp_tax_coverage_sources,
-                              "slo_tax":slo_tax_coverage_sources,
-                              "zaf_tax":zaf_tax_coverage_sources,
-                              "swe_tax":swe_tax_coverage_sources,
-                              "ukr_tax":ukr_tax_coverage_sources,
-                              "gbr_tax":gbr_tax_coverage_sources,
-                              "can_tax_I":can_tax_I_coverage_sources,
-                              "can_tax_II":can_tax_II_coverage_sources,
-                              "can_ab_tax":can_ab_tax_coverage_sources,
-                              "can_bc_tax":can_bc_tax_coverage_sources,
-                              "can_nb_tax":can_nb_tax_coverage_sources,
-                              "can_pe_tax":can_pe_tax_coverage_sources,
-                              "can_nl_tax":can_nl_tax_coverage_sources,
-                              "can_nt_tax":can_nt_tax_coverage_sources,
-                              "mex_bc_tax":mex_bc_tax_coverage_sources,
-                              "mex_tm_tax":mex_tm_tax_coverage_sources,
-                              "mex_za_tax":mex_za_tax_coverage_sources}
+    taxes_scope_sources = {"arg_tax":arg_tax_scope_sources,
+                              "aus_tax":aus_tax_scope_sources,
+                              "che_tax":che_tax_scope_sources,
+                              "chl_tax":chl_tax_scope_sources,
+                              "col_tax":col_tax_scope_sources,
+                              "dnk_tax":dnk_tax_scope_sources,
+                              "est_tax":est_tax_scope_sources,
+                              "fin_tax":fin_tax_scope_sources,
+                              "fra_tax":fra_tax_scope_sources,
+                              "isl_tax":isl_tax_scope_sources,
+                              "irl_tax":irl_tax_scope_sources,
+                              "jpn_tax":jpn_tax_scope_sources,
+                              "lie_tax":lie_tax_scope_sources,
+                              "lva_tax":lva_tax_scope_sources,
+                              "lux_tax":lux_tax_scope_sources,                              
+                              "mex_tax":mex_tax_scope_sources,
+                              "nld_tax":nld_tax_scope_sources,                              
+                              "nor_tax_I":nor_tax_I_scope_sources,
+                              "nor_tax_II":nor_tax_II_scope_sources,
+                              "prt_tax":prt_tax_scope_sources,
+                              "pol_tax":pol_tax_scope_sources,
+                              "sgp_tax":sgp_tax_scope_sources,
+                              "slo_tax":slo_tax_scope_sources,
+                              "zaf_tax":zaf_tax_scope_sources,
+                              "swe_tax":swe_tax_scope_sources,
+                              "ukr_tax":ukr_tax_scope_sources,
+                              "gbr_tax":gbr_tax_scope_sources,
+                              "can_tax_I":can_tax_I_scope_sources,
+                              "can_tax_II":can_tax_II_scope_sources,
+                              "can_ab_tax":can_ab_tax_scope_sources,
+                              "can_bc_tax":can_bc_tax_scope_sources,
+                              "can_nb_tax":can_nb_tax_scope_sources,
+                              "can_pe_tax":can_pe_tax_scope_sources,
+                              "can_nl_tax":can_nl_tax_scope_sources,
+                              "can_nt_tax":can_nt_tax_scope_sources,
+                              "mex_bc_tax":mex_bc_tax_scope_sources,
+                              "mex_tm_tax":mex_tm_tax_scope_sources,
+                              "mex_za_tax":mex_za_tax_scope_sources}
     
     
-    data_and_sources = {"data":taxes_coverage, "sources":taxes_coverage_sources}
+    data_and_sources = {"data":taxes_scope, "sources":taxes_scope_sources}
     
     
     return data_and_sources
