@@ -6,6 +6,10 @@ Created on Mon Apr 18 14:57:58 2022
 @author: gd
 """
 
+# This script creates the files recording the tax exemption/rebate data
+# Current records have been manually constructed by encoding entries in raw csv files.
+# The next update of this file will code these exemptions in the dedicated section below
+
 import pandas as pd
 import numpy as np
 
@@ -33,6 +37,19 @@ for jur in all_jur_list:
 
 wcpd_all_jur["tax_ex_rate"] = np.nan
 wcpd_all_jur["tax_ex_rate_sources"] = np.nan
+
+
+#--------------------------------Exemption/rebate coding-----------------------------
+
+
+
+
+
+
+
+
+#-------------------------------------------------------------------------------------
+
 
 std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
 countries_dic = dict(zip(ctry_list, std_country_names))
