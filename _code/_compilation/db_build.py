@@ -182,7 +182,7 @@ wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
 
 
 
-#------------------------------Exemptions----------------------------------#
+#------------------------------Tax exemptions/rebates----------------------------------#
 
 # Price-based exemptions
 # Add (price-based) exemptions/rebate column for carbon taxes
