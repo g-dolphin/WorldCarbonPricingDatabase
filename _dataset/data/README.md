@@ -1,6 +1,6 @@
 # Carbon pricing mechanisms dataset
 
-The .csv files in the above folders contain the carbon pricing schemes' institutional variables for [xx] national and [xx] sub-national jurisdictions. For each jurisdiction and each year between 1989 and 2020, these variables are recorded at the sector or sector-fuel level.  
+The .csv files in the above folders contain the carbon pricing schemes' institutional variables for 198 national and 94 sub-national jurisdictions. For each jurisdiction and each year between 1989 and 2020, these variables are recorded at the sector or sector-fuel level.  
 
 The first five columns of each dataframe (.csv file) record the `keys` of each entry. The corresponding column titles are: jurisdiction, year, ipcc_code, iea_code, Product. 
 
@@ -20,9 +20,8 @@ It may be the case that different tax rates are applied to different fuels withi
 
 In such cases, the value recorded in the dataset is the highest rate applicable to the fuel category. The fuel- and/or sector-fuel-specific rates are recorded in the *country notes* associated with each country.
 
-## "NA" and empty values
+## "NA" values
 
-- **“NA” values** should not be interpreted as either ‘missing’ or ‘zero’. Rather they indicate that the column is ‘not applicable’ for the particular row you are looking at. There are several types of instances in which "NA" is used:
-    1. In `keys` columns: for instance, in the column “iea_code”, there is only such a code for IPCC Energy sectors, not the others. 
-    2. In `variables` columns:
-        - For the columns recording price level and exemptions, there will be an “NA” entry if there is no such scheme in place, i.e. if the value of the corresponding coverage binary column is set to 0.
+**“NA” values** indicate that the column is ‘not applicable’ for the particular row you are looking at. There are two instances in which "NA" is used:
+    1. In `keys` columns: in the column “iea_code”, there is only such a code for IPCC Energy sectors, not the others. 
+    2. In `variables` columns: there will be an “NA” entry if there is no such scheme in place, i.e. if the value of the corresponding coverage binary column is set to 0.
