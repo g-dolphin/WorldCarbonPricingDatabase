@@ -9556,11 +9556,11 @@ Luxembourg,2021,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Luxembourg,2021,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Luxembourg,2021,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Luxembourg,2021,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Luxembourg,2021,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Luxembourg,2021,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
+Luxembourg,2021,1A1B,Natural gas,1.0,1.0,lux_tax,20.0,,,EUR,eu_ets,53.54,EUR,,,
+Luxembourg,2021,1A1B,Oil,1.0,1.0,lux_tax,20.0,,,EUR,eu_ets,53.54,EUR,,,
 Luxembourg,2021,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Luxembourg,2021,1A1C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Luxembourg,2021,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
+Luxembourg,2021,1A1C,Natural gas,1.0,1.0,lux_tax,20.0,,,EUR,eu_ets,53.54,EUR,,,
+Luxembourg,2021,1A1C,Oil,1.0,1.0,lux_tax,20.0,,,EUR,eu_ets,53.54,EUR,,,
 Luxembourg,2021,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9610,26 +9610,26 @@ Luxembourg,2021,1A3A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3A1,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3A1,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Luxembourg,2021,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Luxembourg,2021,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
+Luxembourg,2021,1A3A2,Natural gas,1.0,1.0,lux_tax,20.0,,,EUR,eu_ets,53.54,EUR,,,
+Luxembourg,2021,1A3A2,Oil,1.0,1.0,lux_tax,20.0,,,EUR,eu_ets,53.54,EUR,,,
 Luxembourg,2021,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3B,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3B,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3C,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3C,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3D1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3D1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3D1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3D1,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3D1,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3D2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3D2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3D2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3D2,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A3D2,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9640,23 +9640,23 @@ Luxembourg,2021,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4A,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4A,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4B,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4B,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4C1,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4C1,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4C2,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4C2,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4C3,Natural gas,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2021,1A4C3,Oil,1.0,0.0,lux_tax,20.0,,,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A5,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2021,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
