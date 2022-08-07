@@ -910,7 +910,7 @@ def scope():
     
     ## Sources dictionary
     
-    lux_tax_scope_sources = {} #2021:
+    lux_tax_scope_sources = {2021:"leg()"} 
     
     #----------------------------------------------------------------------------
 
