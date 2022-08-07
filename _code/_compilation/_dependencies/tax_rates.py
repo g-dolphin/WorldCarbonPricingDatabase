@@ -22,7 +22,7 @@ def prices_df(path_prices):
     fileList = glob.glob("*_tax*_prices.csv")
 
     for fileName in fileList:        
-        df=pd.read_csv(fileName, keep_default_na=False, header=0,
+        df=pd.read_csv(fileName, keep_default_na=False, header=0, encoding="latin-1",
                        dtype={"product":str})
         df["rate"].replace(["NA", ""], np.nan, inplace=True)
         df["rate"] = df["rate"].astype(float)
