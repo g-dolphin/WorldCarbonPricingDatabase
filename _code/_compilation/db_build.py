@@ -14,7 +14,7 @@ import numpy as np
 from importlib.machinery import SourceFileLoader
 
 # Specify greenhouse gas for which the dataset is built
-gas = "CO2" # or CH4 / HFCs / PFCs / SF6
+gas = "CO2" # or CH4 / F-GASES / SF6
 
 # Load modules
 
@@ -27,8 +27,8 @@ taxScopeModule = SourceFileLoader('taxes_scope', '/Users/gd/GitHub/WorldCarbonPr
 
 # 1. Load original dataset
 
-indir_exemptions_nat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/national"
-indir_exemptions_subnat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/subnat"
+indir_exemptions_nat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/national"
+indir_exemptions_subnat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/subnat"
 
 price_exemptions_nat = gen_func.concatenate(indir_exemptions_nat)
 price_exemptions_subnat = gen_func.concatenate(indir_exemptions_subnat)
@@ -148,7 +148,7 @@ def tax_db_values(scheme_list, scheme_no):
 #--------------------------------Primary pricing mechanism--------------------------------#
 
 ets_1_list = list(ets_scope.keys()) #list of identifiers of ETS covering the selected gas
-ets_1_list.remove("us_ma_ets") #second scheme
+ets_1_list.remove("usa_ma_ets") #second scheme
 
 taxes_1_list = list(taxes_scope.keys()) # list of identifiers of taxes covering the selected gas
 
@@ -164,7 +164,7 @@ tax_db_values(taxes_1_list, "scheme_1")
 #       the pricing scheme information is recorded in the primary columns
 #----------------------------Second:Emissions trading systems------------#
 
-ets_2_list = ["us_ma_ets"]
+ets_2_list = ["usa_ma_ets"]
 ets_db_values(ets_2_list, "scheme_2")
 
 tax_2_list = []
@@ -210,7 +210,7 @@ wcpd_all_jur["tax_rate_excl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"].as
 wcpd_all_jur.loc[:, "tax_rate_incl_ex_clcu"] = wcpd_all_jur.loc[:, "tax_rate_excl_ex_clcu"]*(1-wcpd_all_jur.loc[:, "tax_ex_rate"])
 
 
-# Fill 'NA' values
+#---------------------------------- Fill 'NA' values----------------------------------#
 
 ## For 'Product' keys
 wcpd_all_jur.fillna({"Product":"NA"}, inplace=True)
@@ -225,6 +225,8 @@ ets_2_cols = ['ets_2_id', 'ets_2_price', 'ets_2_curr_code']
 wcpd_all_jur.loc[wcpd_all_jur.tax==0.0, tax_cols] = "NA" 
 wcpd_all_jur.loc[wcpd_all_jur.ets==0.0, ets_1_cols] = "NA"
 wcpd_all_jur.loc[wcpd_all_jur.ets==0.0, ets_2_cols] = "NA"
+
+wcpd_all_jur_sources.fillna("NA", inplace=True)
 
 # Re-ordering columns
 wcpd_all_jur = wcpd_all_jur[["jurisdiction", "year", "ipcc_code",
