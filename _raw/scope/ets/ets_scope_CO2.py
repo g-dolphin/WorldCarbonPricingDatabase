@@ -129,43 +129,43 @@ def scope():
     
     ## Jurisdictions
     # initial state scope (2009)
-    rggi_jur_I = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
+    usa_rggi_jur_I = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
                   "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont"]
     
     # New Jersey withdrawal (2012)
-    rggi_jur_II = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
+    usa_rggi_jur_II = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
                    "New Hampshire", "New York", "Rhode Island", "Vermont"]
     
     # Virginia joins the scheme (2021)
-    rggi_jur_III = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
+    usa_rggi_jur_III = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
                     "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont",
                     "Virginia"]
     
     ## Sectors
     
     # scope of the RGGI scheme is limited to IPCC sector 1A1A
-    rggi_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
+    usa_rggi_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
     
     ## scope dictionaries
-    rggi_jur_scope = { 2009:rggi_jur_I, 2010:rggi_jur_I,
-                            2011:rggi_jur_I, 2012:rggi_jur_II,
-                            2013:rggi_jur_II, 2014:rggi_jur_II,
-                            2015:rggi_jur_II, 2016:rggi_jur_II,
-                            2017:rggi_jur_II, 2018:rggi_jur_I,
-                            2019:rggi_jur_I, 2020:rggi_jur_I,
-                            2021:rggi_jur_III}
+    usa_rggi_jur_scope = { 2009:usa_rggi_jur_I, 2010:usa_rggi_jur_I,
+                            2011:usa_rggi_jur_I, 2012:usa_rggi_jur_II,
+                            2013:usa_rggi_jur_II, 2014:usa_rggi_jur_II,
+                            2015:usa_rggi_jur_II, 2016:usa_rggi_jur_II,
+                            2017:usa_rggi_jur_II, 2018:usa_rggi_jur_I,
+                            2019:usa_rggi_jur_I, 2020:usa_rggi_jur_I,
+                            2021:usa_rggi_jur_III}
     
-    rggi_ipcc_scope = { 2009:rggi_ipcc_I, 2010:rggi_ipcc_I,
-                            2011:rggi_ipcc_I, 2012:rggi_ipcc_I,
-                            2013:rggi_ipcc_I, 2014:rggi_ipcc_I,
-                            2015:rggi_ipcc_I, 2016:rggi_ipcc_I,
-                            2017:rggi_ipcc_I, 2018:rggi_ipcc_I,
-                            2019:rggi_ipcc_I, 2020:rggi_ipcc_I,
-                            2021:rggi_ipcc_I}
+    usa_rggi_ipcc_scope = { 2009:usa_rggi_ipcc_I, 2010:usa_rggi_ipcc_I,
+                            2011:usa_rggi_ipcc_I, 2012:usa_rggi_ipcc_I,
+                            2013:usa_rggi_ipcc_I, 2014:usa_rggi_ipcc_I,
+                            2015:usa_rggi_ipcc_I, 2016:usa_rggi_ipcc_I,
+                            2017:usa_rggi_ipcc_I, 2018:usa_rggi_ipcc_I,
+                            2019:usa_rggi_ipcc_I, 2020:usa_rggi_ipcc_I,
+                            2021:usa_rggi_ipcc_I}
     
     ## Sources dictionary
     
-    us_rggi_scope_sources = {2009:"gvt(RGGI-MOU[2005])", 2010:"gvt(RGGI-MOU[2005])", 
+    usa_rggi_scope_sources = {2009:"gvt(RGGI-MOU[2005])", 2010:"gvt(RGGI-MOU[2005])", 
                                 2011:"gvt(RGGI-MOU[2005])", 2012:"gvt(RGGI-MOU[2005], NJ[2011])", 
                                 2013:"gvt(RGGI-MOU[2005], NJ[2011])", 
                                 2014:"gvt(RGGI-MOU[2005], NJ[2011])", 
@@ -183,13 +183,13 @@ def scope():
     
     ## Jurisdictions
     
-    us_ca_cat_jur_I = ["California"]
-    us_ca_cat_jur_II = ["California", "Quebec"]
-    us_ca_cat_jur_III = ["California", "Quebec", "Ontario"]
+    usa_ca_ets_jur_I = ["California"]
+    usa_ca_ets_jur_II = ["California", "Quebec"]
+    usa_ca_ets_jur_III = ["California", "Quebec", "Ontario"]
     
     ## Sectors
     
-    us_ca_cat_ipcc_I = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
+    usa_ca_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
                         "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
                         "1A2L", "1A2M", "1A5A", "1C1A", "1C1B",
                         "2A1", "2A2", "2A3", "2C1", "2C5", "2H1",  
@@ -200,7 +200,7 @@ def scope():
                         "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
                         "2G3", "2G4", "2H1", "2H2", "2H3"]
     
-    us_ca_cat_ipcc_II = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
+    usa_ca_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
                          "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
                          "1A2L", "1A2M", "1A3B", "1A4A", "1A4B", "1A5A", "1C1A", "1C1B",
                          "2A1", "2A2", "2A3", "2C1", "2C5", "2H1",  
@@ -214,21 +214,21 @@ def scope():
     
     ## scope dictionaries
     
-    us_ca_cat_jur_scope = {2013:us_ca_cat_jur_I, 2014:us_ca_cat_jur_I, 
-                           2015:us_ca_cat_jur_II, 2016:us_ca_cat_jur_II, 
-                           2017:us_ca_cat_jur_II, 2018:us_ca_cat_jur_III, 
-                           2019:us_ca_cat_jur_II, 2020:us_ca_cat_jur_II, 
-                           2021:us_ca_cat_jur_II}
+    usa_ca_ets_jur_scope = {2013:usa_ca_ets_jur_I, 2014:usa_ca_ets_jur_I, 
+                           2015:usa_ca_ets_jur_II, 2016:usa_ca_ets_jur_II, 
+                           2017:usa_ca_ets_jur_II, 2018:usa_ca_ets_jur_III, 
+                           2019:usa_ca_ets_jur_II, 2020:usa_ca_ets_jur_II, 
+                           2021:usa_ca_ets_jur_II}
     
-    us_ca_cat_ipcc_scope = {2013:us_ca_cat_ipcc_I, 2014:us_ca_cat_ipcc_I, 
-                           2015:us_ca_cat_ipcc_II, 2016:us_ca_cat_ipcc_II, 
-                           2017:us_ca_cat_ipcc_II, 2018:us_ca_cat_ipcc_II, 
-                           2019:us_ca_cat_ipcc_II, 2020:us_ca_cat_ipcc_II, 
-                           2021:us_ca_cat_ipcc_II}
+    usa_ca_ets_ipcc_scope = {2013:usa_ca_ets_ipcc_I, 2014:usa_ca_ets_ipcc_I, 
+                           2015:usa_ca_ets_ipcc_II, 2016:usa_ca_ets_ipcc_II, 
+                           2017:usa_ca_ets_ipcc_II, 2018:usa_ca_ets_ipcc_II, 
+                           2019:usa_ca_ets_ipcc_II, 2020:usa_ca_ets_ipcc_II, 
+                           2021:usa_ca_ets_ipcc_II}
 
     ## Sources dictionary
     
-    us_ca_cat_scope_sources = {2012:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+    usa_ca_ets_scope_sources = {2012:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
                                   2013:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
                                   2014:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
                                   2015:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
@@ -274,23 +274,23 @@ def scope():
     # Massachusetts (ETS)
     
     ## Jurisdiction
-    us_ma_ets_jur_I = ["Massachusetts"]
+    usa_ma_ets_jur_I = ["Massachusetts"]
     
     
     ## Sectors
-    us_ma_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
+    usa_ma_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
     
     ## scope dictionaries
     
-    us_ma_ets_jur_scope = {2018:us_ma_ets_jur_I, 2019:us_ma_ets_jur_I,
-                              2020:us_ma_ets_jur_I, 2021:us_ma_ets_jur_I}
+    usa_ma_ets_jur_scope = {2018:usa_ma_ets_jur_I, 2019:usa_ma_ets_jur_I,
+                              2020:usa_ma_ets_jur_I, 2021:usa_ma_ets_jur_I}
     
-    us_ma_ets_ipcc_scope = {2018:us_ma_ets_ipcc_I, 2019:us_ma_ets_ipcc_I,
-                               2020:us_ma_ets_ipcc_I, 2021:us_ma_ets_ipcc_I}
+    usa_ma_ets_ipcc_scope = {2018:usa_ma_ets_ipcc_I, 2019:usa_ma_ets_ipcc_I,
+                               2020:usa_ma_ets_ipcc_I, 2021:usa_ma_ets_ipcc_I}
     
     ## Sources dictionary
     
-    us_ma_ets_scope_sources = {2018:"leg(MA[2017])", 2019:"leg(MA[2017])", 
+    usa_ma_ets_scope_sources = {2018:"leg(MA[2017])", 2019:"leg(MA[2017])", 
                                   2020:"leg(MA[2017])", 2021:"leg(MA[2017])"}
     
     #----------------------------------------------------------------------------
@@ -597,7 +597,7 @@ def scope():
     
     ## Sources dictionary
     
-    eu_ets_scope_sources = {2021:"leg(UK-SI[2020])"}
+    gbr_ets_scope_sources = {2021:"leg(UK-SI[2020])"}
     
     #------------------------------------------------------------------------
     
@@ -1196,16 +1196,10 @@ def scope():
     
     ets_scope = {"eu_ets":{"jurisdictions":eu_ets_jur_scope, 
                                   "sectors":eu_ets_ipcc_scope}, 
-                    "us_rggi":{"jurisdictions":rggi_jur_scope, 
-                              "sectors":rggi_ipcc_scope}, 
-                    "us_ca_cat":{"jurisdictions":us_ca_cat_jur_scope, 
-                              "sectors":us_ca_cat_ipcc_scope}, 
-                    "us_ma_ets":{"jurisdictions":us_ma_ets_jur_scope, 
-                              "sectors":us_ma_ets_ipcc_scope}, 
-                    "can_qc_cat":{"jurisdictions":can_qc_cat_jur_scope, 
-                              "sectors":can_qc_cat_ipcc_scope}, 
                     "che_ets":{"jurisdictions":che_ets_jur_scope, 
                               "sectors":che_ets_ipcc_scope}, 
+                    "gbr_ets":{"jurisdictions":gbr_ets_jur_scope, 
+                              "sectors":gbr_ets_ipcc_scope},                               
                     "kaz_ets":{"jurisdictions":kaz_ets_jur_scope, 
                               "sectors":kaz_ets_ipcc_scope},
                     "kor_ets":{"jurisdictions":kor_ets_jur_scope, 
@@ -1241,14 +1235,19 @@ def scope():
                     "can_ns_ets":{"jurisdictions":can_ns_ets_jur_scope, 
                               "sectors":can_ns_ets_ipcc_scope},
                     "can_nl_ets":{"jurisdictions":can_nl_ets_jur_scope, 
-                              "sectors":can_nl_ets_ipcc_scope}}
+                              "sectors":can_nl_ets_ipcc_scope},
+                    "usa_rggi":{"jurisdictions":usa_rggi_jur_scope, 
+                              "sectors":usa_rggi_ipcc_scope}, 
+                    "usa_ca_ets":{"jurisdictions":usa_ca_ets_jur_scope, 
+                              "sectors":usa_ca_ets_ipcc_scope}, 
+                    "usa_ma_ets":{"jurisdictions":usa_ma_ets_jur_scope, 
+                              "sectors":usa_ma_ets_ipcc_scope}, 
+                    "can_qc_cat":{"jurisdictions":can_qc_cat_jur_scope, 
+                              "sectors":can_qc_cat_ipcc_scope}}
 
     ets_scope_sources = {"eu_ets":eu_ets_scope_sources,
-                            "us_rggi":us_rggi_scope_sources,
-                            "us_ca_cat":us_ca_cat_scope_sources,
-                            "us_ma_ets":us_ma_ets_scope_sources,
-                            "can_qc_cat":can_qc_cat_scope_sources,
                             "che_ets":che_ets_scope_sources,
+                            "gbr_ets":gbr_ets_scope_sources,
                             "kaz_ets":kaz_ets_scope_sources,
                             "kor_ets":kor_ets_scope_sources,
                             "mex_ets":mex_ets_scope_sources,
@@ -1266,7 +1265,11 @@ def scope():
                             "can_sk_ets":can_sk_ets_scope_sources,
                             "can_nb_ets":can_nb_ets_scope_sources,
                             "can_ns_ets":can_ns_ets_scope_sources,
-                            "can_nl_ets":can_nl_ets_scope_sources}
+                            "can_nl_ets":can_nl_ets_scope_sources,
+                            "usa_rggi":usa_rggi_scope_sources,
+                            "usa_ca_ets":usa_ca_ets_scope_sources,
+                            "usa_ma_ets":usa_ma_ets_scope_sources,
+                            "can_qc_cat":can_qc_cat_scope_sources}
     
     data_and_sources = {"data":ets_scope, "sources":ets_scope_sources}
     

@@ -9549,60 +9549,60 @@ Slovenia,2021,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Slovenia,2021,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Slovenia,2021,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1A2,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1A2,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1A2,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1A3,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1A3,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1A3,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1B,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1B,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1B,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1C,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1C,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A1C,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1A2,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1A2,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1A2,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1A3,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1A3,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1A3,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1B,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1B,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1B,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1C,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1C,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A1C,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
 Slovenia,2021,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A2A,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2A,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2A,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2B,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2B,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2B,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2C,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2C,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2C,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2D,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2D,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2D,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2E,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2E,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2E,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2F,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2F,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2F,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2G,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2G,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2G,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2H,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2H,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2H,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2I,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2I,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2I,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2J,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2J,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2J,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2K,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2K,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2K,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2L,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2L,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2L,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2M,Coal,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2M,Natural gas,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
-Slovenia,2021,1A2M,Oil,1.0,1.0,slo_tax,,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2A,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2A,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2A,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2B,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2B,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2B,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2C,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2C,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2C,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2D,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2D,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2D,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2E,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2E,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2E,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2F,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2F,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2F,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2G,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2G,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2G,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2H,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2H,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2H,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2I,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2I,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2I,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2J,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2J,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2J,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2K,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2K,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2K,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2L,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2L,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2L,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2M,Coal,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2M,Natural gas,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
+Slovenia,2021,1A2M,Oil,1.0,1.0,slo_tax,17.3,,,EUR,eu_ets,53.54,EUR,,,
 Slovenia,2021,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9642,18 +9642,18 @@ Slovenia,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4B,Coal,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4B,Natural gas,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4B,Oil,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4B,Coal,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4B,Natural gas,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4B,Oil,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4C1,Coal,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4C1,Natural gas,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4C1,Oil,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4C2,Coal,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4C2,Natural gas,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
-Slovenia,2021,1A4C2,Oil,1.0,0.0,slo_tax,,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4C1,Coal,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4C1,Natural gas,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4C1,Oil,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4C2,Coal,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4C2,Natural gas,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
+Slovenia,2021,1A4C2,Oil,1.0,0.0,slo_tax,17.3,,,EUR,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Slovenia,2021,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

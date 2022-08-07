@@ -1,4 +1,4 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-nld_tax,2022,CO2,Coal,0,EUR,leg(NLD[2022]),the recorded rate is the difference between the minimum rate set by the legislation - Û14.9 - and the average of daily forward EUA prices
-nld_tax,2022,CO2,Oil,0,EUR,leg(NLD[2022]),the recorded rate is the difference between the minimum rate set by the legislation - Û14.9 - and the average of daily forward EUA prices
-nld_tax,2022,CO2,Natural gas,0,EUR,leg(NLD[2022]),the recorded rate is the difference between the minimum rate set by the legislation - Û14.9 - and the average of daily forward EUA prices
+nld_tax_II,2022,CO2,Coal,0,EUR,leg(NLD[2022]),the recorded rate is the difference between the minimum rate set by the legislation - Û14.9 - and the average of daily forward EUA prices
+nld_tax_II,2022,CO2,Oil,0,EUR,leg(NLD[2022]),the recorded rate is the difference between the minimum rate set by the legislation - Û14.9 - and the average of daily forward EUA prices
+nld_tax_II,2022,CO2,Natural gas,0,EUR,leg(NLD[2022]),the recorded rate is the difference between the minimum rate set by the legislation - Û14.9 - and the average of daily forward EUA prices
