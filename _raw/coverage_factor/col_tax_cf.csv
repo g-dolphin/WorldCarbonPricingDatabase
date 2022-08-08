@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 col_tax,Colombia,2017,0,NA,,
 col_tax,Colombia,2017,1,NA,,
 col_tax,Colombia,2017,1A,NA,,
