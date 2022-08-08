@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 can_bc_tax,British Columbia,2011,0,NA,,
 can_bc_tax,British Columbia,2011,1,NA,,
 can_bc_tax,British Columbia,2011,1A,NA,,

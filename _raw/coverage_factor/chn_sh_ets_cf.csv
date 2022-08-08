@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 chn_sh_ets,Shanghai Municipality,2013,0,NA,,
 chn_sh_ets,Shanghai Municipality,2013,1,NA,,
 chn_sh_ets,Shanghai Municipality,2013,1A,NA,,

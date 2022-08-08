@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 mex_za_tax,Zacatecas,2017,0,NA,,
 mex_za_tax,Zacatecas,2017,1,NA,,
 mex_za_tax,Zacatecas,2017,1A,NA,,
