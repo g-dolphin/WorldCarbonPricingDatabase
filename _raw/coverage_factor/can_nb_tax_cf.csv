@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 can_nb_tax,New Brunswick,2020,0,NA,,
 can_nb_tax,New Brunswick,2020,1,NA,,
 can_nb_tax,New Brunswick,2020,1A,NA,,

@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 swe_tax,Sweden,1991,0,NA,,
 swe_tax,Sweden,1991,1,NA,,
 swe_tax,Sweden,1991,1A,NA,,

@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 eu_ets,Austria,2005,0,NA,,
 eu_ets,Austria,2005,1,NA,,
 eu_ets,Austria,2005,1A,NA,,
