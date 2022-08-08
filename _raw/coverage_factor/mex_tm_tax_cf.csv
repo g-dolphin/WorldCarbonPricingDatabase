@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 mex_tm_tax,Tamaulipas,2021,0,NA,,
 mex_tm_tax,Tamaulipas,2021,1,NA,,
 mex_tm_tax,Tamaulipas,2021,1A,NA,,

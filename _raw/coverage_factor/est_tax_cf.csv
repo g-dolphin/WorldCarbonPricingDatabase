@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 est_tax,Estonia,2000,0,NA,,
 est_tax,Estonia,2000,1,NA,,
 est_tax,Estonia,2000,1A,NA,,

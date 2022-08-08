@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 usa_rggi,Connecticut,2009,0,NA,,
 usa_rggi,Connecticut,2009,1,NA,,
 usa_rggi,Connecticut,2009,1A,NA,,

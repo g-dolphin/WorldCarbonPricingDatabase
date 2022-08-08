@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 fin_tax,Finland,1990,0,NA,,
 fin_tax,Finland,1990,1,NA,,
 fin_tax,Finland,1990,1A,NA,,

@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 nor_tax_II,Norway,1991,0,NA,,
 nor_tax_II,Norway,1991,1,NA,,
 nor_tax_II,Norway,1991,1A,NA,,

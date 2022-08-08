@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,em_share,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
 isl_tax,Iceland,2010,0,NA,,
 isl_tax,Iceland,2010,1,NA,,
 isl_tax,Iceland,2010,1A,NA,,
