@@ -28,7 +28,7 @@ The repository is organised around three main directories:
 2. `_raw`, which contains the files recording or coding the pricing mechanisms' design features.
 3. `_code`, which contains scripts for the compilation of the dataset as well as short Python scripts for basic manipulation of the dataset files.
 
-*Note* The files located at the ``_raw`` directory contain some empty cells. These cells indicate 
+**Note** The files located at the ``_raw`` directory contain empty cells. These cells indicate that no relevant information has been recorded.
 
 ## Citation
 
