@@ -47,6 +47,36 @@ def coverage():
 
     #----------------------------------------------------------------------------
 
+    # Tamaulipas (Mexico)
+    
+    ## Jurisdiction
+    
+    mex_tm_tax_jur_I = ["Tamaulipas"]
+
+    ## Sectors
+    
+    mex_tm_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_tm_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    mex_tm_tax_jur_coverage = {2019:mex_tm_tax_jur_I, 
+                            2020:mex_tm_tax_jur_I, 2021:mex_tm_tax_jur_I}
+    
+    mex_tm_tax_ipcc_coverage = {2019:mex_tm_tax_ipcc_I, 
+                             2020:mex_tm_tax_ipcc_I, 2021:mex_tm_tax_ipcc_I}     
+
+    mex_tm_tax_fuel_coverage = {2019:mex_tm_tax_fuel_I, 
+                             2020:mex_tm_tax_fuel_I, 2021:mex_tm_tax_fuel_I} 
+    
+    ## Sources dictionary
+    
+    mex_tm_tax_coverage_sources = {2019:"", 
+                                2020:"",
+                                2021:""}
+
     #------------------------------All schemes dictionaries--------------------------------#
 
     taxes_coverage = {"sgp_tax":{"jurisdictions":sgp_tax_jur_coverage, 

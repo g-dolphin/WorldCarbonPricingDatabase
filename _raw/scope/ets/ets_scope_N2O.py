@@ -53,68 +53,6 @@ def scope():
     eu_ets_coverage_sources = {}
     
     
-    #-------------------------------------------------------------------------
-    
-    
-    # California CaT
-    
-    ## Jurisdictions
-    
-    # initial country coverage (2005)
-    us_ca_cat_ctry_I = []
-    
-    
-    ## Sectors
-    
-    # initial sectoral coverage 
-    us_ca_cat_ipcc_I = []
-    
-    
-    ## Coverage dictionaries
-    
-    us_ca_cat_jur_coverage = {}
-    
-    us_ca_cat_ipcc_coverage = {}
-    
-    
-    ## Sources dictionary
-    
-    us_ca_cat_coverage_sources = {}
-    
-    #----------------------------------------------------------------------------
-    
-    # Chongqing Municipality
-    
-    ## Jurisdiction
-    
-    chn_cq_ets_jur_I = ["Chongqing Municipality"]
-    
-    ## Sectors
-    
-    chn_cq_ets_ipcc_I = []
-    
-    ## Coverage dictionaries
-    chn_cq_ets_jur_coverage = {2014:chn_cq_ets_jur_I,
-                           2015:chn_cq_ets_jur_I, 2016:chn_cq_ets_jur_I,
-                           2017:chn_cq_ets_jur_I, 2018:chn_cq_ets_jur_I,
-                           2019:chn_cq_ets_jur_I, 2020:chn_cq_ets_jur_I,
-                           2021:chn_cq_ets_jur_I}
-    
-    chn_cq_ets_ipcc_coverage = {2014:chn_cq_ets_ipcc_I,
-                            2015:chn_cq_ets_ipcc_I, 2016:chn_cq_ets_ipcc_I,
-                            2017:chn_cq_ets_ipcc_I, 2018:chn_cq_ets_ipcc_I,
-                            2019:chn_cq_ets_ipcc_I, 2020:chn_cq_ets_ipcc_I,
-                            2021:chn_cq_ets_ipcc_I}
-
-    ## Sources dictionary
-    
-    chn_cq_ets_coverage_sources = {2014:,
-                                   2015:, 2016:, 
-                                   2017:, 2018:, 
-                                   2019:,
-                                   2020:, 2021:}
-    
-    
     #----------------------------------------------------------------------------
     
     # Korea, Rep.
@@ -206,32 +144,6 @@ def scope():
     
     #----------------------------------------------------------------------------
     
-    # Nova Scotia
-    
-    ## Jurisdiction
-    
-    can_ns_ets_jur_I = ["Nova Scotia"]
-
-    ## Sectors
-
-    # Provincial OBPS for industrial emitters and federal OBPS for electricity  
-    # and transmission sectors
-    can_ns_ets_ipcc_I = []
-    
-    ## Coverage dictionaries
-    can_ns_ets_jur_coverage = {2019:can_ns_ets_jur_I, 2020:can_ns_ets_jur_I,
-                               2021:can_ns_ets_jur_I}
-    
-    can_ns_ets_ipcc_coverage = {2019:can_ns_ets_ipcc_I, 2020:can_ns_ets_ipcc_I,
-                                2021:can_ns_ets_ipcc_I}     
-    
-    ## Sources dictionary
-    
-    can_ns_ets_coverage_sources = {2019:, 2020:,
-                                   2021:}  
-    
-    #----------------------------------------------------------------------------
-    
     # Switzerland
     
     ## Jurisdiction
@@ -275,15 +187,127 @@ def scope():
                                2020:, 
                                2021:}
 
+    #----------------------------------------------------------------------------
+    
+    # Alberta
+    
+    ## Jurisdiction
+    
+    can_ab_ets_jur_I = ["Nova Scotia"]
+
+    ## Sectors
+
+    # Provincial OBPS for industrial emitters and federal OBPS for electricity  
+    # and transmission sectors
+    can_ab_ets_ipcc_I = []
+    
+    ## Coverage dictionaries
+    can_ab_ets_jur_coverage = {2019:can_ab_ets_jur_I, 2020:can_ab_ets_jur_I,
+                               2021:can_ab_ets_jur_I}
+    
+    can_ns_ets_ipcc_coverage = {2019:can_ab_ets_ipcc_I, 2020:can_ab_ets_ipcc_I,
+                                2021:can_ab_ets_ipcc_I}     
+    
+    ## Sources dictionary
+    
+    can_ns_ets_coverage_sources = {2019:, 2020:,
+                                   2021:}  
+
+   #----------------------------------------------------------------------------
+    
+    # Nova Scotia
+    
+    ## Jurisdiction
+    
+    can_ns_ets_jur_I = ["Nova Scotia"]
+
+    ## Sectors
+
+    # Provincial OBPS for industrial emitters and federal OBPS for electricity  
+    # and transmission sectors
+    can_ns_ets_ipcc_I = []
+    
+    ## Coverage dictionaries
+    can_ns_ets_jur_coverage = {2019:can_ns_ets_jur_I, 2020:can_ns_ets_jur_I,
+                               2021:can_ns_ets_jur_I}
+    
+    can_ns_ets_ipcc_coverage = {2019:can_ns_ets_ipcc_I, 2020:can_ns_ets_ipcc_I,
+                                2021:can_ns_ets_ipcc_I}     
+    
+    ## Sources dictionary
+    
+    can_ns_ets_coverage_sources = {2019:, 2020:,
+                                   2021:}  
+
+    #-------------------------------------------------------------------------
+    
+    # California CaT
+    
+    ## Jurisdictions
+    
+    # initial country coverage (2005)
+    usa_ca_ets_ctry_I = []
+    
+    
+    ## Sectors
+    
+    # initial sectoral coverage 
+    usa_ca_ets_ipcc_I = []
+    
+    
+    ## Coverage dictionaries
+    
+    usa_ca_ets_jur_coverage = {}
+    
+    usa_ca_ets_ipcc_coverage = {}
+    
+    
+    ## Sources dictionary
+    
+    usa_ca_ets_coverage_sources = {}
+    
+    #----------------------------------------------------------------------------
+    
+    # Chongqing Municipality
+    
+    ## Jurisdiction
+    
+    chn_cq_ets_jur_I = ["Chongqing Municipality"]
+    
+    ## Sectors
+    
+    chn_cq_ets_ipcc_I = []
+    
+    ## Coverage dictionaries
+    chn_cq_ets_jur_coverage = {2014:chn_cq_ets_jur_I,
+                           2015:chn_cq_ets_jur_I, 2016:chn_cq_ets_jur_I,
+                           2017:chn_cq_ets_jur_I, 2018:chn_cq_ets_jur_I,
+                           2019:chn_cq_ets_jur_I, 2020:chn_cq_ets_jur_I,
+                           2021:chn_cq_ets_jur_I}
+    
+    chn_cq_ets_ipcc_coverage = {2014:chn_cq_ets_ipcc_I,
+                            2015:chn_cq_ets_ipcc_I, 2016:chn_cq_ets_ipcc_I,
+                            2017:chn_cq_ets_ipcc_I, 2018:chn_cq_ets_ipcc_I,
+                            2019:chn_cq_ets_ipcc_I, 2020:chn_cq_ets_ipcc_I,
+                            2021:chn_cq_ets_ipcc_I}
+
+    ## Sources dictionary
+    
+    chn_cq_ets_coverage_sources = {2014:,
+                                   2015:, 2016:, 
+                                   2017:, 2018:, 
+                                   2019:,
+                                   2020:, 2021:}
+
     #------------------------------All schemes dictionaries--------------------------------#
     
     ets_coverage = {"eu_ets":{"jurisdictions":eu_ets_jur_coverage, 
                                   "sectors":eu_ets_ipcc_coverage},
-                    "us_ca_cat":{"jurisdictions":us_ca_cat_jur_coverage, 
-                                  "sectors":us_ca_cat_ipcc_coverage},
+                    "usa_ca_ets":{"jurisdictions":usa_ca_ets_jur_coverage, 
+                                  "sectors":usa_ca_ets_ipcc_coverage},
                     "kor_ets":{"jurisdictions":kor_ets_jur_coverage, 
                                   "sectors":kor_ets_ipcc_coverage},
-                    "nzl_ets":{"jurisdictions":us_ca_cat_jur_coverage, 
+                    "nzl_ets":{"jurisdictions":usa_ca_ets_jur_coverage, 
                                   "sectors":nzl_ets_ipcc_coverage},
                     "che_ets":{"jurisdictions":che_ets_jur_coverage, 
                                   "sectors":che_ets_ipcc_coverage},
@@ -293,7 +317,7 @@ def scope():
                                   "sectors":chn_cq_ets_ipcc_coverage}}
 
     ets_coverage_sources = {"eu_ets":eu_ets_coverage_sources,
-                            "us_ca_cat":us_ca_cat_coverage_sources,
+                            "usa_ca_ets":usa_ca_ets_coverage_sources,
                             "kor_ets":kor_ets_coverage_sources,
                             "nzl_ets":nzl_ets_coverage_sources,
                             "che_ets":che_ets_coverage_sources,

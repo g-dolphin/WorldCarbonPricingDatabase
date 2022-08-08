@@ -47,14 +47,84 @@ def scope():
 
     #----------------------------------------------------------------------------
 
+    # Tamaulipas (Mexico)
+    
+    ## Jurisdiction
+    
+    mex_tm_tax_jur_I = ["Tamaulipas"]
+
+    ## Sectors
+    
+    mex_tm_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_tm_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    mex_tm_tax_jur_coverage = {2019:mex_tm_tax_jur_I, 
+                            2020:mex_tm_tax_jur_I, 2021:mex_tm_tax_jur_I}
+    
+    mex_tm_tax_ipcc_coverage = {2019:mex_tm_tax_ipcc_I, 
+                             2020:mex_tm_tax_ipcc_I, 2021:mex_tm_tax_ipcc_I}     
+
+    mex_tm_tax_fuel_coverage = {2019:mex_tm_tax_fuel_I, 
+                             2020:mex_tm_tax_fuel_I, 2021:mex_tm_tax_fuel_I} 
+    
+    ## Sources dictionary
+    
+    mex_tm_tax_coverage_sources = {2019:"", 
+                                2020:"",
+                                2021:""}
+
+    #----------------------------------------------------------------------------
+
+    # Tamaulipas (Mexico)
+    
+    ## Jurisdiction
+    
+    mex_za_tax_jur_I = ["Zacatecas"]
+
+    ## Sectors
+    
+    mex_za_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_za_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    mex_tm_tax_jur_coverage = {2019:mex_za_tax_jur_I, 
+                            2020:mex_za_tax_jur_I, 2021:mex_za_tax_jur_I}
+    
+    mex_tm_tax_ipcc_coverage = {2019:mex_za_tax_ipcc_I, 
+                             2020:mex_za_tax_ipcc_I, 2021:mex_za_tax_ipcc_I}     
+
+    mex_tm_tax_fuel_coverage = {2019:mex_za_tax_fuel_I, 
+                             2020:mex_za_tax_fuel_I, 2021:mex_za_tax_fuel_I} 
+    
+    ## Sources dictionary
+    
+    mex_tm_tax_coverage_sources = {2019:"", 
+                                2020:"",
+                                2021:""}
+
     #------------------------------All schemes dictionaries--------------------------------#
 
     taxes_coverage = {"sgp_tax":{"jurisdictions":sgp_tax_jur_coverage, 
                                   "sectors":sgp_tax_ipcc_coverage,
-                                  "fuels":sgp_tax_fuel_coverage}}
+                                  "fuels":sgp_tax_fuel_coverage}
+                      "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_coverage, 
+                                  "sectors":mex_tm_tax_ipcc_coverage,
+                                  "fuels":mex_tm_tax_fuel_coverage
+                       "mex_tm_tax":{"jurisdictions":mex_za_tax_jur_coverage, 
+                                  "sectors":mex_za_tax_ipcc_coverage,
+                                  "fuels":mex_za_tax_fuel_coverage}}
     
-    taxes_coverage_sources = {"sgp_tax":sgp_tax_coverage_sources}
-    
+    taxes_coverage_sources = {"sgp_tax":sgp_tax_coverage_sources,
+                              "sgp_tax":mex_tm_tax_coverage_sources,
+                              "sgp_tax":mex_za_tax_coverage_sources}
+                                
     
     data_and_sources = {"data":taxes_coverage, "sources":taxes_coverage_sources}
     

@@ -61,29 +61,29 @@ def scope():
     ## Jurisdictions
     
     # initial coverage
-    us_ca_cat_ctry_I = ["California"]
+    usa_ca_ets_ctry_I = ["California"]
     
     ## Sectors
     
     # initial sectoral coverage 
-    us_ca_cat_ipcc_I = []
+    usa_ca_ets_ipcc_I = []
     
     ## Gases
     
-    us_ca_cat_ghg_I = []
+    usa_ca_ets_ghg_I = []
     
     ## Coverage dictionaries
     
-    us_ca_cat_jur_coverage = {}
+    usa_ca_ets_jur_coverage = {}
     
-    us_ca_cat_ipcc_coverage = {}
+    usa_ca_ets_ipcc_coverage = {}
     
-    us_ca_cat_ghg_coverage = {}
+    usa_ca_ets_ghg_coverage = {}
     
     
     ## Sources dictionary
     
-    us_ca_cat_coverage_sources = {}
+    usa_ca_ets_coverage_sources = {}
     
     #----------------------------------------------------------------------------
     
@@ -307,9 +307,9 @@ def scope():
     ets_coverage = {"eu_ets":{"jurisdictions":eu_ets_jur_coverage, 
                                   "sectors":eu_ets_ipcc_coverage,
                                   "gases":eu_ets_ghg_coverage},
-                    "us_ca_cat":{"jurisdictions":us_ca_cat_jur_coverage, 
-                                  "sectors":us_ca_cat_ipcc_coverage,
-                                  "gases":us_ca_cat_ghg_coverage},
+                    "usa_ca_ets":{"jurisdictions":usa_ca_ets_jur_coverage, 
+                                  "sectors":usa_ca_ets_ipcc_coverage,
+                                  "gases":usa_ca_ets_ghg_coverage},
                     "kor_ets":{"jurisdictions":kor_ets_jur_coverage, 
                                   "sectors":kor_ets_ipcc_coverage,
                                   "gases":kor_ets_ghg_coverage},
@@ -327,7 +327,7 @@ def scope():
                                   "gases":chn_cq_ets_ghg_coverage}}
 
     ets_coverage_sources = {"eu_ets":eu_ets_coverage_sources,
-                            "us_ca_cat":us_ca_cat_coverage_sources,
+                            "usa_ca_ets":usa_ca_ets_coverage_sources,
                             "kor_ets":kor_ets_coverage_sources,
                             "nzl_ets":nzl_ets_coverage_sources,
                             "che_ets":che_ets_coverage_sources,
