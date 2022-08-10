@@ -1,2 +1,3 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-isl_tax_II,2021,F-GASES,NA,,,,
+isl_tax_II,2020,F-GASES,NA,1250,ISK,gvt(ISL[2022]),
+isl_tax_II,2021,F-GASES,NA,2500,ISK,gvt(ISL[2022]),
