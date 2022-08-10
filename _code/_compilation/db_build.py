@@ -73,9 +73,8 @@ ets_prices = etsPricesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatab
 ets_scope = etsScopeModule.scope()["data"]
 ets_scope_sources = etsScopeModule.scope()["sources"]
 
-tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/")
+tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/", gas)
 tax_rates.rename(columns={"product":"em_type"}, inplace=True)
-tax_rates = tax_rates.loc[tax_rates.ghg==gas]
 
 taxes_scope = taxScopeModule.scope()["data"]
 taxes_scope_sources = taxScopeModule.scope()["sources"]
