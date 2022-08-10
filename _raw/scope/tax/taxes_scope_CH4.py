@@ -23,11 +23,13 @@ def scope():
 
     ## Sectors
     
-    sgp_tax_ipcc_I = []
+    sgp_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
+                      "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
+                      "1A2J", "1A2K", "1A2L", "1A2M", "2A1", "2A2", "2A3", "2A4A", 
+                      "2A4B", "2A4C", "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5",
+                      "2B6", "2B7", "2B9A", "2B9B", "2B10", "2C1", "2C2", "2C3",
+                      "2C5", "2D1", "2D2", "2D3", "2D4", "2E"]
     
-    ## Fuels
-    
-    sgp_tax_fuel_I = []
 
     ## Coverage dictionaries
     sgp_tax_jur_coverage = {2019:sgp_tax_jur_I, 
@@ -35,9 +37,6 @@ def scope():
     
     sgp_tax_ipcc_coverage = {2019:sgp_tax_ipcc_I, 
                              2020:sgp_tax_ipcc_I, 2021:sgp_tax_ipcc_I}     
-
-    sgp_tax_fuel_coverage = {2019:sgp_tax_fuel_I, 
-                             2020:sgp_tax_fuel_I, 2021:sgp_tax_fuel_I} 
     
     ## Sources dictionary
     
@@ -56,10 +55,6 @@ def scope():
     ## Sectors
     
     mex_tm_tax_ipcc_I = []
-    
-    ## Fuels
-    
-    mex_tm_tax_fuel_I = []
 
     ## Coverage dictionaries
     mex_tm_tax_jur_coverage = {2019:mex_tm_tax_jur_I, 
@@ -68,8 +63,6 @@ def scope():
     mex_tm_tax_ipcc_coverage = {2019:mex_tm_tax_ipcc_I, 
                              2020:mex_tm_tax_ipcc_I, 2021:mex_tm_tax_ipcc_I}     
 
-    mex_tm_tax_fuel_coverage = {2019:mex_tm_tax_fuel_I, 
-                             2020:mex_tm_tax_fuel_I, 2021:mex_tm_tax_fuel_I} 
     
     ## Sources dictionary
     
@@ -79,7 +72,7 @@ def scope():
 
     #----------------------------------------------------------------------------
 
-    # Tamaulipas (Mexico)
+    # Zacatecas (Mexico)
     
     ## Jurisdiction
     
@@ -88,38 +81,28 @@ def scope():
     ## Sectors
     
     mex_za_tax_ipcc_I = []
-    
-    ## Fuels
-    
-    mex_za_tax_fuel_I = []
 
     ## Coverage dictionaries
-    mex_tm_tax_jur_coverage = {2019:mex_za_tax_jur_I, 
+    mex_za_tax_jur_coverage = {2019:mex_za_tax_jur_I, 
                             2020:mex_za_tax_jur_I, 2021:mex_za_tax_jur_I}
     
-    mex_tm_tax_ipcc_coverage = {2019:mex_za_tax_ipcc_I, 
+    mex_za_tax_ipcc_coverage = {2019:mex_za_tax_ipcc_I, 
                              2020:mex_za_tax_ipcc_I, 2021:mex_za_tax_ipcc_I}     
 
-    mex_tm_tax_fuel_coverage = {2019:mex_za_tax_fuel_I, 
-                             2020:mex_za_tax_fuel_I, 2021:mex_za_tax_fuel_I} 
-    
     ## Sources dictionary
     
-    mex_tm_tax_coverage_sources = {2019:"", 
+    mex_za_tax_coverage_sources = {2019:"", 
                                 2020:"",
                                 2021:""}
 
     #------------------------------All schemes dictionaries--------------------------------#
 
     taxes_coverage = {"sgp_tax":{"jurisdictions":sgp_tax_jur_coverage, 
-                                  "sectors":sgp_tax_ipcc_coverage,
-                                  "fuels":sgp_tax_fuel_coverage}
+                                  "sectors":sgp_tax_ipcc_coverage}
                       "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_coverage, 
-                                  "sectors":mex_tm_tax_ipcc_coverage,
-                                  "fuels":mex_tm_tax_fuel_coverage
-                       "mex_tm_tax":{"jurisdictions":mex_za_tax_jur_coverage, 
-                                  "sectors":mex_za_tax_ipcc_coverage,
-                                  "fuels":mex_za_tax_fuel_coverage}}
+                                    "sectors":mex_tm_tax_ipcc_coverage},
+                      "mex_za_tax":{"jurisdictions":mex_za_tax_jur_coverage, 
+                                    "sectors":mex_za_tax_ipcc_coverage}}
     
     taxes_coverage_sources = {"sgp_tax":sgp_tax_coverage_sources,
                               "sgp_tax":mex_tm_tax_coverage_sources,

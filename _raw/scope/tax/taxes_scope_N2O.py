@@ -25,9 +25,6 @@ def coverage():
     
     sgp_tax_ipcc_I = []
     
-    ## Fuels
-    
-    sgp_tax_fuel_I = []
 
     ## Coverage dictionaries
     sgp_tax_jur_coverage = {2019:sgp_tax_jur_I, 
@@ -36,8 +33,6 @@ def coverage():
     sgp_tax_ipcc_coverage = {2019:sgp_tax_ipcc_I, 
                              2020:sgp_tax_ipcc_I, 2021:sgp_tax_ipcc_I}     
 
-    sgp_tax_fuel_coverage = {2019:sgp_tax_fuel_I, 
-                             2020:sgp_tax_fuel_I, 2021:sgp_tax_fuel_I} 
     
     ## Sources dictionary
     
@@ -48,7 +43,7 @@ def coverage():
     #----------------------------------------------------------------------------
 
     # Tamaulipas (Mexico)
-    
+
     ## Jurisdiction
     
     mex_tm_tax_jur_I = ["Tamaulipas"]
@@ -57,9 +52,6 @@ def coverage():
     
     mex_tm_tax_ipcc_I = []
     
-    ## Fuels
-    
-    mex_tm_tax_fuel_I = []
 
     ## Coverage dictionaries
     mex_tm_tax_jur_coverage = {2019:mex_tm_tax_jur_I, 
@@ -67,13 +59,35 @@ def coverage():
     
     mex_tm_tax_ipcc_coverage = {2019:mex_tm_tax_ipcc_I, 
                              2020:mex_tm_tax_ipcc_I, 2021:mex_tm_tax_ipcc_I}     
-
-    mex_tm_tax_fuel_coverage = {2019:mex_tm_tax_fuel_I, 
-                             2020:mex_tm_tax_fuel_I, 2021:mex_tm_tax_fuel_I} 
     
     ## Sources dictionary
     
     mex_tm_tax_coverage_sources = {2019:"", 
+                                2020:"",
+                                2021:""}
+
+    #----------------------------------------------------------------------------
+
+    # Zacatecas (Mexico)
+    
+    ## Jurisdiction
+    
+    mex_za_tax_jur_I = ["Zacatecas"]
+
+    ## Sectors
+    
+    mex_za_tax_ipcc_I = []
+
+    ## Coverage dictionaries
+    mex_za_tax_jur_coverage = {2019:mex_za_tax_jur_I, 
+                            2020:mex_za_tax_jur_I, 2021:mex_za_tax_jur_I}
+    
+    mex_za_tax_ipcc_coverage = {2019:mex_za_tax_ipcc_I, 
+                             2020:mex_za_tax_ipcc_I, 2021:mex_za_tax_ipcc_I}     
+
+    ## Sources dictionary
+    
+    mex_za_tax_coverage_sources = {2019:"", 
                                 2020:"",
                                 2021:""}
 

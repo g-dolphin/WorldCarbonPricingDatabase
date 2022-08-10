@@ -41,7 +41,10 @@ stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_d
 read_file = stream.read()
 exec(read_file)
 
-wcpd_structure = pd.read_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/_aux_files/wcpd_structure.csv")
+if gas == "CO2":
+    wcpd_structure = pd.read_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv")
+else:
+    wcpd_structure = pd.read_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/_aux_files/wcpd_structure/wcpd_structure_nonCO2.csv")
 
 # Jurisdiction lists
 
@@ -112,7 +115,7 @@ def ets_db_values(scheme_list, scheme_no):
                 print(scheme, yr)
 
 
-def tax_db_values(scheme_list, scheme_no):
+def tax_db_values(scheme_list, scheme_no, gas):
     
     if scheme_no == "scheme_1":
         columns = {"id":"tax_id", "binary":"tax", "rate":"tax_rate_excl_ex_clcu", 
@@ -122,27 +125,51 @@ def tax_db_values(scheme_list, scheme_no):
                    "rate":"tax_2_rate_excl_ex_clcu", "curr_code":"tax_2_curr_code"}
 
     for scheme in scheme_list:
-        for yr in taxes_scope[scheme]["jurisdictions"].keys():   
-            selection = (wcpd_all_jur.year==yr) & (wcpd_all_jur.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (wcpd_all_jur.Product.isin(taxes_scope[scheme]["fuels"][yr]))
-            selection_sources = (wcpd_all_jur_sources.year==yr) & (wcpd_all_jur_sources.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur_sources.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (wcpd_all_jur_sources.Product.isin(taxes_scope[scheme]["fuels"][yr]))
-    
-            wcpd_all_jur.loc[selection, columns["binary"]] = 1
-            wcpd_all_jur.loc[selection, columns["id"]] = scheme
-            
-            # Scope data source 
-            wcpd_all_jur_sources.loc[selection_sources, columns["binary"]] = taxes_scope_sources[scheme][yr]
-            
-            try:
-                for type_em in ["Oil", "Natural gas", "Coal"]:
-                    wcpd_all_jur.loc[selection & (wcpd_all_jur.Product == type_em), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "rate"].item()                
-                    wcpd_all_jur.loc[selection & (wcpd_all_jur.Product == type_em), columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "currency_code"].item()
+        for yr in taxes_scope[scheme]["jurisdictions"].keys():
+            if gas == "CO2":   
+                selection = (wcpd_all_jur.year==yr) & (wcpd_all_jur.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (wcpd_all_jur.Product.isin(taxes_scope[scheme]["fuels"][yr]))
+                selection_sources = (wcpd_all_jur_sources.year==yr) & (wcpd_all_jur_sources.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur_sources.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (wcpd_all_jur_sources.Product.isin(taxes_scope[scheme]["fuels"][yr]))
+
+                wcpd_all_jur.loc[selection, columns["binary"]] = 1
+                wcpd_all_jur.loc[selection, columns["id"]] = scheme
+                
+                # Scope data source 
+                wcpd_all_jur_sources.loc[selection_sources, columns["binary"]] = taxes_scope_sources[scheme][yr]
+                
+                try:
+                    for type_em in ["Oil", "Natural gas", "Coal"]:
+                        wcpd_all_jur.loc[selection & (wcpd_all_jur.Product == type_em), columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "rate"].item()                
+                        wcpd_all_jur.loc[selection & (wcpd_all_jur.Product == type_em), columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "currency_code"].item()
+                    
+    #                   # Price data source
+                        value = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "source"].item()+"; "+tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "comment"].item()
+                        wcpd_all_jur_sources.loc[selection_sources & (wcpd_all_jur_sources.Product == type_em), columns["rate"]] = value
+                    
+                except:
+                    print(scheme, yr)
+
+            else:
+
+                selection = (wcpd_all_jur.year==yr) & (wcpd_all_jur.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) 
+                selection_sources = (wcpd_all_jur_sources.year==yr) & (wcpd_all_jur_sources.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur_sources.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr]))
+
+                wcpd_all_jur.loc[selection, columns["binary"]] = 1
+                wcpd_all_jur.loc[selection, columns["id"]] = scheme
+                
+                # Scope data source 
+                wcpd_all_jur_sources.loc[selection_sources, columns["binary"]] = taxes_scope_sources[scheme][yr]
+                
+                try:
+                    wcpd_all_jur.loc[selection, columns["rate"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr), "rate"].item()                
+                    wcpd_all_jur.loc[selection, columns["curr_code"]] = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr), "currency_code"].item()
                 
 #                   # Price data source
-                    value = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "source"].item()+"; "+tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr) & (tax_rates.em_type==type_em), "comment"].item()
-                    wcpd_all_jur_sources.loc[selection_sources & (wcpd_all_jur_sources.Product == type_em), columns["rate"]] = value
-                
-            except:
-                print(scheme, yr)
+                    value = tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr), "source"].item()+"; "+tax_rates.loc[(tax_rates.scheme_id==scheme) & (tax_rates.year==yr), "comment"].item()
+                    wcpd_all_jur_sources.loc[selection_sources, columns["rate"]] = value
+                    
+                except:
+                    print(scheme, yr)
+
 
 #--------------------------------Primary pricing mechanism--------------------------------#
 

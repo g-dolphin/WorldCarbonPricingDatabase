@@ -29,6 +29,10 @@ def scope():
     
     # EU ETS
     
+    ## Gases
+
+    eu_ets_gas_I = []
+
     ## Jurisdictions
     
     # initial country coverage (2005)
@@ -42,12 +46,13 @@ def scope():
     
     
     ## Coverage dictionaries
-    
+
+    eu_ets_gas_coverage = {} # need to specify which F gas is covered
+
     eu_ets_jur_coverage = {}
     
     eu_ets_ipcc_coverage = {}
 
-    eu_ets_ipcc_coverage = {} # need to specify which F gas is covered
     
     ## Sources dictionary
     
