@@ -124,6 +124,10 @@ def coverage():
 
     # Singapore
     
+    ## Gases
+
+    sgp_tax_gas_I = [""]
+
     ## Jurisdiction
     
     sgp_tax_jur_I = ["Singapore"]
@@ -131,10 +135,6 @@ def coverage():
     ## Sectors
     
     sgp_tax_ipcc_I = []
-    
-    ## Fuels
-    
-    sgp_tax_fuel_I = []
 
     ## Coverage dictionaries
     sgp_tax_jur_coverage = {2019:sgp_tax_jur_I, 
@@ -142,9 +142,6 @@ def coverage():
     
     sgp_tax_ipcc_coverage = {2019:sgp_tax_ipcc_I, 
                              2020:sgp_tax_ipcc_I, 2021:sgp_tax_ipcc_I}     
-
-    sgp_tax_fuel_coverage = {2019:, 
-                             2020:, 2021:} 
     
     ## Sources dictionary
     
@@ -163,11 +160,6 @@ def coverage():
     ## Sectors
     
     esp_tax_ipcc_I = []
-    
-    ## Fuels
-    
-    esp_tax_fuel_I = ["Oil"]
-    esp_tax_fuel_II = ["Oil", "Coal"]
 
     ## Coverage dictionaries
     esp_tax_jur_coverage = {2014:esp_tax_jur_I, 2015:esp_tax_jur_I, 
@@ -180,10 +172,6 @@ def coverage():
                              2018:esp_tax_ipcc_I, 2019:esp_tax_ipcc_I, 
                              2020:esp_tax_ipcc_I, 2021:esp_tax_ipcc_I}     
 
-    esp_tax_fuel_coverage = {2014:, 2015:,
-                             2016:, 2017:,
-                             2018:, 2019:, 
-                             2020:, 2021:} 
     
     ## Sources dictionary
     
@@ -197,7 +185,68 @@ def coverage():
                                 2021:""}
 
     
+   #----------------------------------------------------------------------------
+
+    # Tamaulipas (Mexico)
+
+    ## Gases
+
+    mex_tm_tax_gas_I = ["SF6", "HFC", "PFC"]
+
+    ## Jurisdiction
+    
+    mex_tm_tax_jur_I = ["Tamaulipas"]
+
+    ## Sectors
+    
+    mex_tm_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_tm_tax_fuel_I = []
+
+    ## Coverage dictionaries
+    mex_tm_tax_jur_coverage = {2019:mex_tm_tax_jur_I, 
+                            2020:mex_tm_tax_jur_I, 2021:mex_tm_tax_jur_I}
+    
+    mex_tm_tax_ipcc_coverage = {2019:mex_tm_tax_ipcc_I, 
+                             2020:mex_tm_tax_ipcc_I, 2021:mex_tm_tax_ipcc_I}     
+
+    
+    ## Sources dictionary
+    
+    mex_tm_tax_coverage_sources = {2019:"", 
+                                2020:"",
+                                2021:""}
+
     #----------------------------------------------------------------------------
+
+    # Zacatecas (Mexico)
+
+    ## Gases
+
+    mex_tm_tax_gas_I = ["SF6", "HFC", "PFC"]
+
+    ## Jurisdiction
+    
+    mex_za_tax_jur_I = ["Zacatecas"]
+
+    ## Sectors
+    
+    mex_za_tax_ipcc_I = []
+
+    ## Coverage dictionaries
+    mex_za_tax_jur_coverage = {2019:mex_za_tax_jur_I, 
+                            2020:mex_za_tax_jur_I, 2021:mex_za_tax_jur_I}
+    
+    mex_za_tax_ipcc_coverage = {2019:mex_za_tax_ipcc_I, 
+                             2020:mex_za_tax_ipcc_I, 2021:mex_za_tax_ipcc_I}     
+
+    ## Sources dictionary
+    
+    mex_za_tax_coverage_sources = {2019:"", 
+                                2020:"",
+                                2021:""}
 
     #------------------------------All schemes dictionaries--------------------------------#
 
