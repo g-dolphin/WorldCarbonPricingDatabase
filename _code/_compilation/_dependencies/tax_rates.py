@@ -13,7 +13,7 @@ import numpy as np
 
 path_prices = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/"
 
-def prices_df(path_prices):
+def prices_df(path_prices, gas):
 
     dfList = []
     
@@ -24,6 +24,9 @@ def prices_df(path_prices):
     for fileName in fileList:        
         df=pd.read_csv(fileName, keep_default_na=False, header=0, encoding="latin-1",
                        dtype={"product":str})
+
+        df = df.loc[df.ghg==gas]
+
         df["rate"].replace(["NA", ""], np.nan, inplace=True)
         df["rate"] = df["rate"].astype(float)
         
