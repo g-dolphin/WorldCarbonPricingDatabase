@@ -72,9 +72,49 @@ def scope():
     
     ## Sources dictionary
     
-    eu_ets_scope_sources = {2013:,2014:,2015:,
-                            2016:,2017:,2018:,
-                            2019:,2020:,2021:}
+    eu_ets_scope_sources = {2013:"leg(EC[2014])", 2014:"leg(EC[2014])",
+                            2015:"leg(EC[2014])", 2016:"leg(EC[2014])", 
+                            2017:"leg(EC[2014])", 2018:"leg(EC[2018])", 
+                            2019:"leg(EC[2018])", 2020:"leg(EC[2018], EC[2020])", 
+                            2021:"leg(EC[2018], EC[2020])"}
+
+    #----------------------------------------------------------------------------
+
+    # United Kingdom
+
+    ## Gases
+
+    gbr_ets_gas_I = ["PFC"]
+    
+    ## Jurisdictions
+    
+    gbr_ets_jur_I = ["United Kingdom"]
+ 
+    
+    ## Sectors
+    
+    # extension to domestic aviation and other industrial (processes) emissions (2012)
+    gbr_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
+                      "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
+                      "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
+                      "1C1A", "1C2B",
+                      "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", 
+                      "2B4", "2B5", "2B6", "2B7", "2B8F",
+                      "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
+    
+    
+    ## scope dictionaries
+    
+    gbr_ets_gas_scope = {2021:gbr_ets_gas_I}
+
+    gbr_ets_jur_scope = {2021:gbr_ets_jur_I}
+    
+    gbr_ets_ipcc_scope = {2021:gbr_ets_ipcc_I}
+    
+    
+    ## Sources dictionary
+    
+    gbr_ets_scope_sources = {2021:"leg(UK-SI[2020])"}
 
     #-------------------------------------------------------------------------
 
@@ -268,7 +308,7 @@ def scope():
 
     ## Gases
 
-    nzl_ets_gas_I = []
+    nzl_ets_gas_I = ["PFC", "HCF", "SF6"]
 
     ## Jurisdiction
     
@@ -277,14 +317,35 @@ def scope():
     ## Sectors
     
     # initial scope (2008)
-    nzl_ets_ipcc_I = []
+    nzl_ets_ipcc_I = ["3B1A", "3B1B"]
     
     # extension to power, industry, liquid fuels (road transport, heating fuels, 
     # domestic aviation) (2010)
-    nzl_ets_ipcc_II = []
+    nzl_ets_ipcc_II = ["1A1A1", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C", "1A2D", 
+                       "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", 
+                       "1A2L", "1A2M", "1A3A2", "1A3B", "1A3C", "1A4A", "1A4B",
+                       "1A4C1", "1A4C2", "1A4C3", 
+                       "2A1", "2A2", "2A3", "2A4A",
+                       "2A4B", "2A4C", "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5",
+                       "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F",
+                       "2B9A", "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2C7",
+                       "2D1", "2D2", "2D3", "2D4", "2F1", "2F2", "2F3", "2F4", "2F5",
+                       "2F6", "2G1", "2G2", "2G3", "2G4", "2H1",
+                       "3B1A", "3B1B"]
     
     # extension to waste and synthetic GHGs (2013)
-    nzl_ets_ipcc_III = []
+    nzl_ets_ipcc_III = ["1A1A1", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C", "1A2D", 
+                       "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", 
+                       "1A2L", "1A2M", "1A3A2", "1A3B", "1A3C", "1A4A", "1A4B",
+                       "1A4C1", "1A4C2", "1A4C3", 
+                       "2A1", "2A2", "2A3", "2A4A",
+                       "2A4B", "2A4C", "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5",
+                       "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F",
+                       "2B9A", "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2C7",
+                       "2D1", "2D2", "2D3", "2D4", "2F1", "2F2", "2F3", "2F4", "2F5",
+                       "2F6", "2G1", "2G2", "2G3", "2G4", "2H1",
+                       "3B1A", "3B1B",
+                       "4A1", "4C1", "4C2"]
     
     
     ## scope dictionaries
@@ -318,13 +379,13 @@ def scope():
 
     ## Sources dictionary
     
-    nzl_ets_scope_sources = {2008:, 2009:,
-                               2010:, 2011:, 
-                               2012:, 2013:, 
-                               2014:, 2015:, 
-                               2016:, 2017:, 
-                               2018:, 2019:,
-                               2020:, 2021:}
+    nzl_ets_scope_sources = {2008:"leg(NZ-CCR[2008])", 2009:"leg(NZ-CCR[2008])",
+                             2010:"leg(NZ-CCR[2008])", 2011:"leg(NZ-CCR[2011])", 
+                             2012:"leg(NZ-CCR[2011])", 2013:"leg(NZ-CCR[2013])", 
+                             2014:"leg(NZ-CCR[2013])", 2015:"leg(NZ-CCR[2013])", 
+                             2016:"leg(NZ-CCR[2013])", 2017:"leg(NZ-CCR[2013])", 
+                             2018:"leg(NZ-CCR[2013])", 2019:"leg(NZ-CCR[2013])",
+                             2020:"leg(NZ-CCR[2020])", 2021:"leg(NZ-CCR[2020])"}
     
     #----------------------------------------------------------------------------
     
@@ -413,6 +474,9 @@ def scope():
                  "che_ets":{"gases":che_ets_gas_scope,
                             "jurisdictions":che_ets_jur_scope, 
                             "sectors":che_ets_ipcc_scope},
+                 "gbr_ets":{"gases":gbr_ets_gas_scope,
+                            "jurisdictions":gbr_ets_jur_scope, 
+                            "sectors":gbr_ets_ipcc_scope},                            
                  "kor_ets":{"gases":kor_ets_gas_scope,
                             "jurisdictions":kor_ets_jur_scope, 
                             "sectors":kor_ets_ipcc_scope},
@@ -431,6 +495,7 @@ def scope():
 
     ets_scope_sources = {"eu_ets":eu_ets_scope_sources,                            
                          "che_ets":che_ets_scope_sources,
+                         "gbr_ets":gbr_ets_scope_sources,
                          "kor_ets":kor_ets_scope_sources,
                          "nzl_ets":nzl_ets_scope_sources,
                          "can_ns_ets":can_ns_ets_scope_sources,
