@@ -387,12 +387,12 @@ def scope():
     ## Sources dictionary
     
     nzl_ets_scope_sources = {2008:"leg(NZ-CCR[2008])", 2009:"leg(NZ-CCR[2008])",
-                               2010:"leg(NZ-CCR[2008])", 2011:"leg(NZ-CCR[2011])", 
-                               2012:"leg(NZ-CCR[2011])", 2013:"leg(NZ-CCR[2013])", 
-                               2014:"leg(NZ-CCR[2013])", 2015:"leg(NZ-CCR[2013])", 
-                               2016:"leg(NZ-CCR[2013])", 2017:"leg(NZ-CCR[2013])", 
-                               2018:"leg(NZ-CCR[2013])", 2019:"leg(NZ-CCR[2013])",
-                               2020:"leg(NZ-CCR[2020])", 2021:"leg(NZ-CCR[2020])"}
+                             2010:"leg(NZ-CCR[2008])", 2011:"leg(NZ-CCR[2011])", 
+                             2012:"leg(NZ-CCR[2011])", 2013:"leg(NZ-CCR[2013])", 
+                             2014:"leg(NZ-CCR[2013])", 2015:"leg(NZ-CCR[2013])", 
+                             2016:"leg(NZ-CCR[2013])", 2017:"leg(NZ-CCR[2013])", 
+                             2018:"leg(NZ-CCR[2013])", 2019:"leg(NZ-CCR[2013])",
+                             2020:"leg(NZ-CCR[2020])", 2021:"leg(NZ-CCR[2020])"}
 
     #----------------------------------------------------------------------------
     
@@ -562,10 +562,10 @@ def scope():
     ## Sources dictionary
     
     kor_ets_scope_sources = {2015:"leg(KR[2012], KR[2013])", 
-                                2016:"leg(KR[2012], KR[2013])", 
-                                2017:"leg(KR[2017])", 2018:"leg(KR[2018])", 
-                                2019:"leg(KR[2018])",
-                                2020:"leg(KR[2020])", 2021:"leg(KR[2020])"}
+                             2016:"leg(KR[2012], KR[2013])", 
+                             2017:"leg(KR[2017])", 2018:"leg(KR[2018])", 
+                             2019:"leg(KR[2018])",
+                             2020:"leg(KR[2020])", 2021:"leg(KR[2020])"}
 
     #----------------------------------------------------------------------------
 
@@ -580,12 +580,12 @@ def scope():
     
     # extension to domestic aviation and other industrial (processes) emissions (2012)
     gbr_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
-                     "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
-                     "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
-                     "1C1A", "1C2B",
-                     "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", 
-                     "2B4", "2B5", "2B6", "2B7", "2B8F",
-                     "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
+                      "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
+                      "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
+                      "1C1A", "1C2B",
+                      "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", 
+                      "2B4", "2B5", "2B6", "2B7", "2B8F",
+                      "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
     
     
     ## scope dictionaries
