@@ -204,7 +204,7 @@ wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
 # Price-based exemptions
 # Add (price-based) exemptions/rebate column for carbon taxes
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/_price_exemptions/tax/_price_exemptions_"+gas+".py")
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/_price_exemptions_tax_"+gas+".py")
 read_file = stream.read()
 exec(read_file)
 
