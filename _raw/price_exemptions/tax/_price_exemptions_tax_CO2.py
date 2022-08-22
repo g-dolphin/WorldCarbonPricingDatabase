@@ -287,11 +287,13 @@ tax_ex_slo_I = {"jurisdiction": tax_ex_slo_I_jur_scope, "ipcc": tax_ex_slo_I_ipc
                 "fuel":tax_ex_slo_I_fuel_scope, "value":tax_ex_slo_I_value}
 
 tax_ex_slo_I_source_value = "leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate"
-tax_ex_slo_I_source = {1992:tax_ex_slo_I_source_value, 1993:tax_ex_slo_I_source_value, 1994:tax_ex_slo_I_source_value, 
-                        1995:tax_ex_slo_I_source_value, 1996:tax_ex_slo_I_source_value, 1997:tax_ex_slo_I_source_value, 
+tax_ex_slo_I_source = {1996:tax_ex_slo_I_source_value, 1997:tax_ex_slo_I_source_value, 
                         1998:tax_ex_slo_I_source_value, 1999:tax_ex_slo_I_source_value, 2000:tax_ex_slo_I_source_value, 
                         2001:tax_ex_slo_I_source_value, 2002:tax_ex_slo_I_source_value, 2003:tax_ex_slo_I_source_value, 
-                        2004:tax_ex_slo_I_source_value}
+                        2004:tax_ex_slo_I_source_value, 2005:tax_ex_slo_I_source_value, 2006:tax_ex_slo_I_source_value,
+                        2007:tax_ex_slo_I_source_value, 2008:tax_ex_slo_I_source_value, 2009:tax_ex_slo_I_source_value,
+                        2010:tax_ex_slo_I_source_value, 2011:tax_ex_slo_I_source_value, 2012:tax_ex_slo_I_source_value,
+                        2013:tax_ex_slo_I_source_value, 2014:tax_ex_slo_I_source_value, 2015:tax_ex_slo_I_source_value}
 
 # ------------------
 
@@ -337,11 +339,14 @@ tax_ex_slo_II = {"jurisdiction": tax_ex_slo_II_jur_scope, "ipcc": tax_ex_slo_II_
                 "fuel":tax_ex_slo_II_fuel_scope, "value":tax_ex_slo_II_value}
 
 tax_ex_slo_II_source_value = "leg(SLO-CO2[1996], SLO-CO2[1998], SLO-CO2[2000], SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate"
-tax_ex_slo_II_source = {1992:tax_ex_slo_II_source_value, 1993:tax_ex_slo_II_source_value, 1994:tax_ex_slo_II_source_value, 
-                        1995:tax_ex_slo_II_source_value, 1996:tax_ex_slo_II_source_value, 1997:tax_ex_slo_II_source_value, 
+tax_ex_slo_II_source = {1996:tax_ex_slo_II_source_value, 1997:tax_ex_slo_II_source_value, 
                         1998:tax_ex_slo_II_source_value, 1999:tax_ex_slo_II_source_value, 2000:tax_ex_slo_II_source_value, 
                         2001:tax_ex_slo_II_source_value, 2002:tax_ex_slo_II_source_value, 2003:tax_ex_slo_II_source_value, 
-                        2004:tax_ex_slo_II_source_value}
+                        2004:tax_ex_slo_II_source_value, 2005:tax_ex_slo_II_source_value, 2006:tax_ex_slo_II_source_value,
+                        2007:tax_ex_slo_II_source_value, 2008:tax_ex_slo_II_source_value, 2009:tax_ex_slo_II_source_value,
+                        2010:tax_ex_slo_II_source_value, 2011:tax_ex_slo_II_source_value, 2012:tax_ex_slo_II_source_value,
+                        2013:tax_ex_slo_II_source_value, 2014:tax_ex_slo_II_source_value, 2015:tax_ex_slo_II_source_value}
+
 # ------------------
 
 tax_ex_slo_III_jur = ["Slovenia"]
@@ -362,11 +367,7 @@ tax_ex_slo_III = {"jurisdiction": tax_ex_slo_III_jur_scope, "ipcc": tax_ex_slo_I
                 "fuel":tax_ex_slo_III_fuel_scope, "value":tax_ex_slo_III_value}
 
 tax_ex_slo_III_source_value = "leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 30% of the base tax rate"
-tax_ex_slo_III_source = {1992:tax_ex_slo_III_source_value, 1993:tax_ex_slo_III_source_value, 1994:tax_ex_slo_III_source_value, 
-                        1995:tax_ex_slo_III_source_value, 1996:tax_ex_slo_III_source_value, 1997:tax_ex_slo_III_source_value, 
-                        1998:tax_ex_slo_III_source_value, 1999:tax_ex_slo_III_source_value, 2000:tax_ex_slo_III_source_value, 
-                        2001:tax_ex_slo_III_source_value, 2002:tax_ex_slo_III_source_value, 2003:tax_ex_slo_III_source_value, 
-                        2004:tax_ex_slo_III_source_value}
+tax_ex_slo_III_source = {1996:tax_ex_slo_III_source_value, 1997:tax_ex_slo_III_source_value}
 # ------------------
 
 tax_ex_slo_IV_jur = ["Slovenia"]
@@ -387,11 +388,7 @@ tax_ex_slo_IV = {"jurisdiction": tax_ex_slo_IV_jur_scope, "ipcc": tax_ex_slo_IV_
                 "fuel":tax_ex_slo_IV_fuel_scope, "value":tax_ex_slo_IV_value}
 
 tax_ex_slo_IV_source_value = "leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that natural gas and liquefied petroleum gas are subject to 70% of the base tax rate"
-tax_ex_slo_IV_source = {1992:tax_ex_slo_IV_source_value, 1993:tax_ex_slo_IV_source_value, 1994:tax_ex_slo_IV_source_value, 
-                        1995:tax_ex_slo_IV_source_value, 1996:tax_ex_slo_IV_source_value, 1997:tax_ex_slo_IV_source_value, 
-                        1998:tax_ex_slo_IV_source_value, 1999:tax_ex_slo_IV_source_value, 2000:tax_ex_slo_IV_source_value, 
-                        2001:tax_ex_slo_IV_source_value, 2002:tax_ex_slo_IV_source_value, 2003:tax_ex_slo_IV_source_value, 
-                        2004:tax_ex_slo_IV_source_value}
+tax_ex_slo_IV_source = {1998:tax_ex_slo_IV_source_value, 1999:tax_ex_slo_IV_source_value, 2000:tax_ex_slo_IV_source_value}
 
 # 'Sweden'
 
@@ -439,11 +436,14 @@ tax_ex_swe_I = {"jurisdiction": tax_ex_swe_I_jur_scope, "ipcc": tax_ex_swe_I_ipc
                 "fuel":tax_ex_swe_I_fuel_scope, "value":tax_ex_swe_I_value}
 
 tax_ex_swe_I_source_value = "report(SMF-CT[2011])"
-tax_ex_swe_I_source = {1992:tax_ex_swe_I_source_value, 1993:tax_ex_swe_I_source_value, 1994:tax_ex_swe_I_source_value, 
+tax_ex_swe_I_source = {1991:tax_ex_swe_I_source_value,
+                        1992:tax_ex_swe_I_source_value, 1993:tax_ex_swe_I_source_value, 1994:tax_ex_swe_I_source_value, 
                         1995:tax_ex_swe_I_source_value, 1996:tax_ex_swe_I_source_value, 1997:tax_ex_swe_I_source_value, 
                         1998:tax_ex_swe_I_source_value, 1999:tax_ex_swe_I_source_value, 2000:tax_ex_swe_I_source_value, 
-                        2001:tax_ex_swe_I_source_value, 2002:tax_ex_swe_I_source_value, 2003:tax_ex_swe_I_source_value, 
-                        2004:tax_ex_swe_I_source_value}
+                        2001:tax_ex_swe_I_source_value, 2002:tax_ex_swe_I_source_value, 2003:tax_ex_swe_I_source_value,
+                        2004:tax_ex_swe_I_source_value, 2005:tax_ex_swe_I_source_value, 2006:tax_ex_swe_I_source_value, 
+                        2007:tax_ex_swe_I_source_value, 2008:tax_ex_swe_I_source_value, 2009:tax_ex_swe_I_source_value, 
+                        2010:tax_ex_swe_I_source_value}
 
 # ------------------
 
@@ -494,11 +494,14 @@ tax_ex_swe_II = {"jurisdiction": tax_ex_swe_II_jur_scope, "ipcc": tax_ex_swe_II_
                 "fuel":tax_ex_swe_II_fuel_scope, "value":tax_ex_swe_II_value}
 
 tax_ex_swe_II_source_value = "report(SMF-CT[2011]); extrapolation from 2011 onward"
-tax_ex_swe_II_source = {1992:tax_ex_swe_II_source_value, 1993:tax_ex_swe_II_source_value, 1994:tax_ex_swe_II_source_value, 
-                        1995:tax_ex_swe_II_source_value, 1996:tax_ex_swe_II_source_value, 1997:tax_ex_swe_II_source_value, 
-                        1998:tax_ex_swe_II_source_value, 1999:tax_ex_swe_II_source_value, 2000:tax_ex_swe_II_source_value, 
-                        2001:tax_ex_swe_II_source_value, 2002:tax_ex_swe_II_source_value, 2003:tax_ex_swe_II_source_value, 
-                        2004:tax_ex_slo_IV_source_value}
+tax_ex_swe_II_source = {2000:tax_ex_swe_II_source_value, 2001:tax_ex_swe_II_source_value, 2002:tax_ex_swe_II_source_value, 
+                        2003:tax_ex_swe_II_source_value, 2004:tax_ex_slo_IV_source_value, 2005:tax_ex_slo_IV_source_value,
+                        2006:tax_ex_swe_II_source_value, 2007:tax_ex_slo_IV_source_value, 2008:tax_ex_slo_IV_source_value,
+                        2009:tax_ex_swe_II_source_value, 2010:tax_ex_slo_IV_source_value, 2011:tax_ex_slo_IV_source_value,
+                        2012:tax_ex_swe_II_source_value, 2013:tax_ex_slo_IV_source_value, 2014:tax_ex_slo_IV_source_value,
+                        2015:tax_ex_swe_II_source_value, 2016:tax_ex_slo_IV_source_value, 2017:tax_ex_slo_IV_source_value,
+                        2018:tax_ex_swe_II_source_value, 2019:tax_ex_slo_IV_source_value, 2020:tax_ex_slo_IV_source_value, 
+                        2021:tax_ex_slo_IV_source_value}
 
 # 'Switzerland' - no exemptions
 
@@ -569,13 +572,12 @@ tax_exemptions_sources = [tax_ex_arg_I_source, tax_ex_dnk_I_source, tax_ex_dnk_I
 
 i = 0
 for exemption in tax_exemptions:
-    print(exemption["jurisdiction"])
-    i+=1
     for yr in exemption["jurisdiction"].keys():
-        print(yr)
-        row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"])) & (wcpd_all_jur.Product.isin(exemption["fuel"]))
+        row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
         wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
-        wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = tax_exemptions_sources[i][str(yr)]
+        wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = tax_exemptions_sources[i][yr]
+
+    i+=1
 
 
 #std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
