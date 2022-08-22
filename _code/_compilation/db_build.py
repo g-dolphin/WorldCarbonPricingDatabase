@@ -27,13 +27,6 @@ taxScopeModule = SourceFileLoader('taxes_scope', '/Users/gd/GitHub/WorldCarbonPr
 
 # 1. Load original dataset
 
-indir_exemptions_nat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/national"
-indir_exemptions_subnat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/subnat"
-
-price_exemptions_nat = gen_func.concatenate(indir_exemptions_nat)
-price_exemptions_subnat = gen_func.concatenate(indir_exemptions_subnat)
-price_exemptions_all_jur = pd.concat([price_exemptions_nat, price_exemptions_subnat])
-
 
 #----------------------------DB structure------------------------#
 
@@ -213,16 +206,9 @@ wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
 # Price-based exemptions
 # Add (price-based) exemptions/rebate column for carbon taxes
 
-wcpd_all_jur = wcpd_all_jur.merge(price_exemptions_all_jur[["jurisdiction", "year", "ipcc_code", "Product", "tax_ex_rate"]], 
-                        on = ["jurisdiction", "year", "ipcc_code", "Product"], how="left")
-
-wcpd_all_jur_sources = wcpd_all_jur_sources.merge(price_exemptions_all_jur[["jurisdiction", "year", "ipcc_code", "Product", "tax_ex_rate_sources"]], 
-                                        on = ["jurisdiction", "year", "ipcc_code", "Product"], how="left")
-wcpd_all_jur_sources.rename(columns={"tax_ex_rate_sources":"tax_ex_rate"}, inplace=True)
-
-## Filling "tax_ex_rate" column with "NA" if no tax scheme
-wcpd_all_jur.loc[wcpd_all_jur.tax!=1, "tax_ex_rate"] = "NA"
-#all_jur.loc[(all_jur.tax==1) & (all_jur.tax_ex_rate==""), :] #checking whether we've missed any exemptions
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_preprocessing/_price_exemptions.py")
+read_file = stream.read()
+exec(read_file)
 
 wcpd_all_jur.loc[wcpd_all_jur.tax_ex_rate=="NA", "tax_ex_rate"] = np.nan # changing "NA" to NaN to be able to execute column multiplication
 wcpd_all_jur.loc[wcpd_all_jur.tax_ex_rate=="", "tax_ex_rate"] = np.nan
