@@ -25,15 +25,6 @@ taxRatesModule = SourceFileLoader('tax_rates', '/Users/gd/GitHub/WorldCarbonPric
 etsScopeModule = SourceFileLoader('ets_scope', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/scope/ets/ets_scope_'+gas+'.py').load_module()
 taxScopeModule = SourceFileLoader('taxes_scope', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/scope/tax/taxes_scope_'+gas+'.py').load_module()
 
-# 1. Load original dataset
-
-indir_exemptions_nat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/national"
-indir_exemptions_subnat = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/subnat"
-
-price_exemptions_nat = gen_func.concatenate(indir_exemptions_nat)
-price_exemptions_subnat = gen_func.concatenate(indir_exemptions_subnat)
-price_exemptions_all_jur = pd.concat([price_exemptions_nat, price_exemptions_subnat])
-
 
 #----------------------------DB structure------------------------#
 
@@ -179,7 +170,7 @@ ets_1_list.remove("usa_ma_ets") #second scheme
 taxes_1_list = list(taxes_scope.keys()) # list of identifiers of taxes covering the selected gas
 
 ets_db_values(ets_1_list, "scheme_1")
-tax_db_values(taxes_1_list, "scheme_1")
+tax_db_values(taxes_1_list, "scheme_1", gas)
 
 #----------------------------Secondary pricing mechanism----------------------#
 # NOTE: The "second pricing scheme" columns are only used when, for a given 
@@ -194,7 +185,7 @@ ets_2_list = ["usa_ma_ets"]
 ets_db_values(ets_2_list, "scheme_2")
 
 tax_2_list = []
-tax_db_values(tax_2_list, "scheme_2")
+tax_db_values(tax_2_list, "scheme_2", gas)
 
 #----------------------------------------------------------------#
  
@@ -213,24 +204,9 @@ wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
 # Price-based exemptions
 # Add (price-based) exemptions/rebate column for carbon taxes
 
-wcpd_all_jur = wcpd_all_jur.merge(price_exemptions_all_jur[["jurisdiction", "year", "ipcc_code", "Product", "tax_ex_rate"]], 
-                        on = ["jurisdiction", "year", "ipcc_code", "Product"], how="left")
-
-wcpd_all_jur_sources = wcpd_all_jur_sources.merge(price_exemptions_all_jur[["jurisdiction", "year", "ipcc_code", "Product", "tax_ex_rate_sources"]], 
-                                        on = ["jurisdiction", "year", "ipcc_code", "Product"], how="left")
-wcpd_all_jur_sources.rename(columns={"tax_ex_rate_sources":"tax_ex_rate"}, inplace=True)
-
-## Filling "tax_ex_rate" column with "NA" if no tax scheme
-wcpd_all_jur.loc[wcpd_all_jur.tax!=1, "tax_ex_rate"] = "NA"
-#all_jur.loc[(all_jur.tax==1) & (all_jur.tax_ex_rate==""), :] #checking whether we've missed any exemptions
-
-wcpd_all_jur.loc[wcpd_all_jur.tax_ex_rate=="NA", "tax_ex_rate"] = np.nan # changing "NA" to NaN to be able to execute column multiplication
-wcpd_all_jur.loc[wcpd_all_jur.tax_ex_rate=="", "tax_ex_rate"] = np.nan
-wcpd_all_jur.loc[wcpd_all_jur.tax_rate_excl_ex_clcu=="NA", "tax_rate_excl_ex_clcu"] = np.nan # changing "NA" to NaN to be able to execute column multiplication
-wcpd_all_jur.loc[wcpd_all_jur.tax_rate_excl_ex_clcu=="", "tax_rate_excl_ex_clcu"] = np.nan
-
-wcpd_all_jur["tax_ex_rate"] = wcpd_all_jur["tax_ex_rate"].astype(float)
-wcpd_all_jur["tax_rate_excl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"].astype(float)
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/_price_exemptions_tax_"+gas+".py")
+read_file = stream.read()
+exec(read_file)
 
 ## Calculate tax rate including rebate
 wcpd_all_jur.loc[:, "tax_rate_incl_ex_clcu"] = wcpd_all_jur.loc[:, "tax_rate_excl_ex_clcu"]*(1-wcpd_all_jur.loc[:, "tax_ex_rate"])
