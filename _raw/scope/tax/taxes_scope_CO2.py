@@ -789,7 +789,7 @@ def scope():
                             2014:lva_tax_jur_I, 2015:lva_tax_jur_I,
                             2016:lva_tax_jur_I, 2017:lva_tax_jur_I,
                             2018:lva_tax_jur_I, 2019:lva_tax_jur_I, 
-                            2020:lva_tax_jur_I}
+                            2020:lva_tax_jur_I, 2021:lva_tax_jur_I}
     
     lva_tax_ipcc_scope = {2004:lva_tax_ipcc_I, 2005:lva_tax_ipcc_I,
                              2006:lva_tax_ipcc_I, 2007:lva_tax_ipcc_I,
@@ -799,7 +799,7 @@ def scope():
                              2014:lva_tax_ipcc_I, 2015:lva_tax_ipcc_I,
                              2016:lva_tax_ipcc_I, 2017:lva_tax_ipcc_I,
                              2018:lva_tax_ipcc_I, 2019:lva_tax_ipcc_I, 
-                             2020:lva_tax_ipcc_I}
+                             2020:lva_tax_ipcc_I, 2021:lva_tax_ipcc_I}
     
     lva_tax_fuel_scope = {2004:lva_tax_fuel_I, 2005:lva_tax_fuel_I,
                              2006:lva_tax_fuel_I, 2007:lva_tax_fuel_I,
@@ -809,7 +809,7 @@ def scope():
                              2014:lva_tax_fuel_I, 2015:lva_tax_fuel_I,
                              2016:lva_tax_fuel_I, 2017:lva_tax_fuel_I,
                              2018:lva_tax_fuel_I, 2019:lva_tax_fuel_I, 
-                             2020:lva_tax_fuel_I}
+                             2020:lva_tax_fuel_I, 2021:lva_tax_fuel_I}
 
     ## Sources dictionary
     
@@ -829,7 +829,7 @@ def scope():
     
     ## Jurisdiction
     
-    lie_tax_jur_I = ["Liechstenstein"]
+    lie_tax_jur_I = ["Liechtenstein"]
 
     ## Sectors
     

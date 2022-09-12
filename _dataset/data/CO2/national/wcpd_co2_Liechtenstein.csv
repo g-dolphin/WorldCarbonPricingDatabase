@@ -5675,12 +5675,12 @@ Liechtenstein,2008,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A1A2,Coal,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A1A2,Natural gas,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A1A2,Oil,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A1A3,Coal,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A1A3,Natural gas,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A1A3,Oil,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5768,9 +5768,9 @@ Liechtenstein,2008,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A4B,Coal,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A4B,Natural gas,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A4B,Oil,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5973,12 +5973,12 @@ Liechtenstein,2009,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
 Liechtenstein,2009,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
 Liechtenstein,2009,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
-Liechtenstein,2009,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
-Liechtenstein,2009,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
-Liechtenstein,2009,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
-Liechtenstein,2009,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
-Liechtenstein,2009,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
-Liechtenstein,2009,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
+Liechtenstein,2009,1A1A2,Coal,1.0,1.0,lie_tax,12.0,0.0,12.0,CHF,eu_ets,13.15,EUR,,,
+Liechtenstein,2009,1A1A2,Natural gas,1.0,1.0,lie_tax,12.0,0.0,12.0,CHF,eu_ets,13.15,EUR,,,
+Liechtenstein,2009,1A1A2,Oil,1.0,1.0,lie_tax,12.0,0.0,12.0,CHF,eu_ets,13.15,EUR,,,
+Liechtenstein,2009,1A1A3,Coal,1.0,1.0,lie_tax,12.0,0.0,12.0,CHF,eu_ets,13.15,EUR,,,
+Liechtenstein,2009,1A1A3,Natural gas,1.0,1.0,lie_tax,12.0,0.0,12.0,CHF,eu_ets,13.15,EUR,,,
+Liechtenstein,2009,1A1A3,Oil,1.0,1.0,lie_tax,12.0,0.0,12.0,CHF,eu_ets,13.15,EUR,,,
 Liechtenstein,2009,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
 Liechtenstein,2009,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
 Liechtenstein,2009,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.15,EUR,,,
@@ -6066,9 +6066,9 @@ Liechtenstein,2009,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2009,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2009,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2009,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2009,1A4B,Coal,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2009,1A4B,Natural gas,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2009,1A4B,Oil,1.0,0.0,lie_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6271,12 +6271,12 @@ Liechtenstein,2010,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
 Liechtenstein,2010,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
 Liechtenstein,2010,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
-Liechtenstein,2010,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
-Liechtenstein,2010,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
-Liechtenstein,2010,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
-Liechtenstein,2010,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
-Liechtenstein,2010,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
-Liechtenstein,2010,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
+Liechtenstein,2010,1A1A2,Coal,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,14.34,EUR,,,
+Liechtenstein,2010,1A1A2,Natural gas,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,14.34,EUR,,,
+Liechtenstein,2010,1A1A2,Oil,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,14.34,EUR,,,
+Liechtenstein,2010,1A1A3,Coal,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,14.34,EUR,,,
+Liechtenstein,2010,1A1A3,Natural gas,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,14.34,EUR,,,
+Liechtenstein,2010,1A1A3,Oil,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,14.34,EUR,,,
 Liechtenstein,2010,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
 Liechtenstein,2010,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
 Liechtenstein,2010,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.34,EUR,,,
@@ -6364,9 +6364,9 @@ Liechtenstein,2010,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2010,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2010,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2010,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2010,1A4B,Coal,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2010,1A4B,Natural gas,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2010,1A4B,Oil,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6569,12 +6569,12 @@ Liechtenstein,2011,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
 Liechtenstein,2011,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
 Liechtenstein,2011,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
-Liechtenstein,2011,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
-Liechtenstein,2011,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
-Liechtenstein,2011,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
-Liechtenstein,2011,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
-Liechtenstein,2011,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
-Liechtenstein,2011,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
+Liechtenstein,2011,1A1A2,Coal,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,12.94,EUR,,,
+Liechtenstein,2011,1A1A2,Natural gas,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,12.94,EUR,,,
+Liechtenstein,2011,1A1A2,Oil,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,12.94,EUR,,,
+Liechtenstein,2011,1A1A3,Coal,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,12.94,EUR,,,
+Liechtenstein,2011,1A1A3,Natural gas,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,12.94,EUR,,,
+Liechtenstein,2011,1A1A3,Oil,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,12.94,EUR,,,
 Liechtenstein,2011,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
 Liechtenstein,2011,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
 Liechtenstein,2011,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,12.94,EUR,,,
@@ -6662,9 +6662,9 @@ Liechtenstein,2011,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2011,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2011,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2011,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2011,1A4B,Coal,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2011,1A4B,Natural gas,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2011,1A4B,Oil,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6867,12 +6867,12 @@ Liechtenstein,2012,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
 Liechtenstein,2012,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
 Liechtenstein,2012,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
-Liechtenstein,2012,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
-Liechtenstein,2012,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
-Liechtenstein,2012,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
-Liechtenstein,2012,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
-Liechtenstein,2012,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
-Liechtenstein,2012,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
+Liechtenstein,2012,1A1A2,Coal,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,7.38,EUR,,,
+Liechtenstein,2012,1A1A2,Natural gas,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,7.38,EUR,,,
+Liechtenstein,2012,1A1A2,Oil,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,7.38,EUR,,,
+Liechtenstein,2012,1A1A3,Coal,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,7.38,EUR,,,
+Liechtenstein,2012,1A1A3,Natural gas,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,7.38,EUR,,,
+Liechtenstein,2012,1A1A3,Oil,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,7.38,EUR,,,
 Liechtenstein,2012,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
 Liechtenstein,2012,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
 Liechtenstein,2012,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.38,EUR,,,
@@ -6960,9 +6960,9 @@ Liechtenstein,2012,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2012,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2012,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2012,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2012,1A4B,Coal,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2012,1A4B,Natural gas,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2012,1A4B,Oil,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7165,12 +7165,12 @@ Liechtenstein,2013,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
 Liechtenstein,2013,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
 Liechtenstein,2013,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
-Liechtenstein,2013,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
-Liechtenstein,2013,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
-Liechtenstein,2013,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
-Liechtenstein,2013,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
-Liechtenstein,2013,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
-Liechtenstein,2013,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
+Liechtenstein,2013,1A1A2,Coal,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,4.47,EUR,,,
+Liechtenstein,2013,1A1A2,Natural gas,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,4.47,EUR,,,
+Liechtenstein,2013,1A1A2,Oil,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,4.47,EUR,,,
+Liechtenstein,2013,1A1A3,Coal,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,4.47,EUR,,,
+Liechtenstein,2013,1A1A3,Natural gas,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,4.47,EUR,,,
+Liechtenstein,2013,1A1A3,Oil,1.0,1.0,lie_tax,36.0,0.0,36.0,CHF,eu_ets,4.47,EUR,,,
 Liechtenstein,2013,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
 Liechtenstein,2013,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
 Liechtenstein,2013,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.47,EUR,,,
@@ -7258,9 +7258,9 @@ Liechtenstein,2013,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2013,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2013,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2013,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2013,1A4B,Coal,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2013,1A4B,Natural gas,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2013,1A4B,Oil,1.0,0.0,lie_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7463,12 +7463,12 @@ Liechtenstein,2014,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
 Liechtenstein,2014,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
 Liechtenstein,2014,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
-Liechtenstein,2014,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
-Liechtenstein,2014,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
-Liechtenstein,2014,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
-Liechtenstein,2014,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
-Liechtenstein,2014,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
-Liechtenstein,2014,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
+Liechtenstein,2014,1A1A2,Coal,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,5.95,EUR,,,
+Liechtenstein,2014,1A1A2,Natural gas,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,5.95,EUR,,,
+Liechtenstein,2014,1A1A2,Oil,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,5.95,EUR,,,
+Liechtenstein,2014,1A1A3,Coal,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,5.95,EUR,,,
+Liechtenstein,2014,1A1A3,Natural gas,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,5.95,EUR,,,
+Liechtenstein,2014,1A1A3,Oil,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,5.95,EUR,,,
 Liechtenstein,2014,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
 Liechtenstein,2014,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
 Liechtenstein,2014,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.95,EUR,,,
@@ -7556,9 +7556,9 @@ Liechtenstein,2014,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2014,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2014,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2014,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2014,1A4B,Coal,1.0,0.0,lie_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2014,1A4B,Natural gas,1.0,0.0,lie_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2014,1A4B,Oil,1.0,0.0,lie_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7761,12 +7761,12 @@ Liechtenstein,2015,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
 Liechtenstein,2015,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
 Liechtenstein,2015,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Liechtenstein,2015,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Liechtenstein,2015,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Liechtenstein,2015,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Liechtenstein,2015,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Liechtenstein,2015,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Liechtenstein,2015,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
+Liechtenstein,2015,1A1A2,Coal,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,7.68,EUR,,,
+Liechtenstein,2015,1A1A2,Natural gas,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,7.68,EUR,,,
+Liechtenstein,2015,1A1A2,Oil,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,7.68,EUR,,,
+Liechtenstein,2015,1A1A3,Coal,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,7.68,EUR,,,
+Liechtenstein,2015,1A1A3,Natural gas,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,7.68,EUR,,,
+Liechtenstein,2015,1A1A3,Oil,1.0,1.0,lie_tax,60.0,0.0,60.0,CHF,eu_ets,7.68,EUR,,,
 Liechtenstein,2015,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
 Liechtenstein,2015,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
 Liechtenstein,2015,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
@@ -7854,9 +7854,9 @@ Liechtenstein,2015,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2015,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2015,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2015,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2015,1A4B,Coal,1.0,0.0,lie_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2015,1A4B,Natural gas,1.0,0.0,lie_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2015,1A4B,Oil,1.0,0.0,lie_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8059,12 +8059,12 @@ Liechtenstein,2016,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
 Liechtenstein,2016,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
 Liechtenstein,2016,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Liechtenstein,2016,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Liechtenstein,2016,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Liechtenstein,2016,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Liechtenstein,2016,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Liechtenstein,2016,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Liechtenstein,2016,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
+Liechtenstein,2016,1A1A2,Coal,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.35,EUR,,,
+Liechtenstein,2016,1A1A2,Natural gas,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.35,EUR,,,
+Liechtenstein,2016,1A1A2,Oil,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.35,EUR,,,
+Liechtenstein,2016,1A1A3,Coal,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.35,EUR,,,
+Liechtenstein,2016,1A1A3,Natural gas,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.35,EUR,,,
+Liechtenstein,2016,1A1A3,Oil,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.35,EUR,,,
 Liechtenstein,2016,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
 Liechtenstein,2016,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
 Liechtenstein,2016,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
@@ -8152,9 +8152,9 @@ Liechtenstein,2016,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2016,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2016,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2016,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2016,1A4B,Coal,1.0,0.0,lie_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2016,1A4B,Natural gas,1.0,0.0,lie_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2016,1A4B,Oil,1.0,0.0,lie_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8357,12 +8357,12 @@ Liechtenstein,2017,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
 Liechtenstein,2017,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
 Liechtenstein,2017,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
-Liechtenstein,2017,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
-Liechtenstein,2017,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
-Liechtenstein,2017,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
-Liechtenstein,2017,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
-Liechtenstein,2017,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
-Liechtenstein,2017,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
+Liechtenstein,2017,1A1A2,Coal,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.83,EUR,,,
+Liechtenstein,2017,1A1A2,Natural gas,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.83,EUR,,,
+Liechtenstein,2017,1A1A2,Oil,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.83,EUR,,,
+Liechtenstein,2017,1A1A3,Coal,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.83,EUR,,,
+Liechtenstein,2017,1A1A3,Natural gas,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.83,EUR,,,
+Liechtenstein,2017,1A1A3,Oil,1.0,1.0,lie_tax,84.0,0.0,84.0,CHF,eu_ets,5.83,EUR,,,
 Liechtenstein,2017,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
 Liechtenstein,2017,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
 Liechtenstein,2017,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.83,EUR,,,
@@ -8450,9 +8450,9 @@ Liechtenstein,2017,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2017,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2017,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2017,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2017,1A4B,Coal,1.0,0.0,lie_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2017,1A4B,Natural gas,1.0,0.0,lie_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2017,1A4B,Oil,1.0,0.0,lie_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8655,12 +8655,12 @@ Liechtenstein,2018,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
 Liechtenstein,2018,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
 Liechtenstein,2018,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
-Liechtenstein,2018,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
-Liechtenstein,2018,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
-Liechtenstein,2018,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
-Liechtenstein,2018,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
-Liechtenstein,2018,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
-Liechtenstein,2018,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
+Liechtenstein,2018,1A1A2,Coal,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,15.82,EUR,,,
+Liechtenstein,2018,1A1A2,Natural gas,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,15.82,EUR,,,
+Liechtenstein,2018,1A1A2,Oil,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,15.82,EUR,,,
+Liechtenstein,2018,1A1A3,Coal,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,15.82,EUR,,,
+Liechtenstein,2018,1A1A3,Natural gas,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,15.82,EUR,,,
+Liechtenstein,2018,1A1A3,Oil,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,15.82,EUR,,,
 Liechtenstein,2018,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
 Liechtenstein,2018,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
 Liechtenstein,2018,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
@@ -8748,9 +8748,9 @@ Liechtenstein,2018,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2018,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2018,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2018,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2018,1A4B,Coal,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2018,1A4B,Natural gas,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2018,1A4B,Oil,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8953,12 +8953,12 @@ Liechtenstein,2019,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
 Liechtenstein,2019,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
 Liechtenstein,2019,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
-Liechtenstein,2019,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
-Liechtenstein,2019,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
-Liechtenstein,2019,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
-Liechtenstein,2019,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
-Liechtenstein,2019,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
-Liechtenstein,2019,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
+Liechtenstein,2019,1A1A2,Coal,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.84,EUR,,,
+Liechtenstein,2019,1A1A2,Natural gas,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.84,EUR,,,
+Liechtenstein,2019,1A1A2,Oil,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.84,EUR,,,
+Liechtenstein,2019,1A1A3,Coal,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.84,EUR,,,
+Liechtenstein,2019,1A1A3,Natural gas,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.84,EUR,,,
+Liechtenstein,2019,1A1A3,Oil,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.84,EUR,,,
 Liechtenstein,2019,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
 Liechtenstein,2019,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
 Liechtenstein,2019,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.84,EUR,,,
@@ -9046,9 +9046,9 @@ Liechtenstein,2019,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2019,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2019,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2019,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2019,1A4B,Coal,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2019,1A4B,Natural gas,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2019,1A4B,Oil,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9251,12 +9251,12 @@ Liechtenstein,2020,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
 Liechtenstein,2020,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
 Liechtenstein,2020,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
-Liechtenstein,2020,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
-Liechtenstein,2020,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
-Liechtenstein,2020,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
-Liechtenstein,2020,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
-Liechtenstein,2020,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
-Liechtenstein,2020,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
+Liechtenstein,2020,1A1A2,Coal,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.76,EUR,,,
+Liechtenstein,2020,1A1A2,Natural gas,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.76,EUR,,,
+Liechtenstein,2020,1A1A2,Oil,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.76,EUR,,,
+Liechtenstein,2020,1A1A3,Coal,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.76,EUR,,,
+Liechtenstein,2020,1A1A3,Natural gas,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.76,EUR,,,
+Liechtenstein,2020,1A1A3,Oil,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,24.76,EUR,,,
 Liechtenstein,2020,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
 Liechtenstein,2020,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
 Liechtenstein,2020,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.76,EUR,,,
@@ -9344,9 +9344,9 @@ Liechtenstein,2020,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2020,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2020,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2020,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2020,1A4B,Coal,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2020,1A4B,Natural gas,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2020,1A4B,Oil,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9549,12 +9549,12 @@ Liechtenstein,2021,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Liechtenstein,2021,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Liechtenstein,2021,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Liechtenstein,2021,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Liechtenstein,2021,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Liechtenstein,2021,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Liechtenstein,2021,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Liechtenstein,2021,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Liechtenstein,2021,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
+Liechtenstein,2021,1A1A2,Coal,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,53.54,EUR,,,
+Liechtenstein,2021,1A1A2,Natural gas,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,53.54,EUR,,,
+Liechtenstein,2021,1A1A2,Oil,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,53.54,EUR,,,
+Liechtenstein,2021,1A1A3,Coal,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,53.54,EUR,,,
+Liechtenstein,2021,1A1A3,Natural gas,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,53.54,EUR,,,
+Liechtenstein,2021,1A1A3,Oil,1.0,1.0,lie_tax,96.0,0.0,96.0,CHF,eu_ets,53.54,EUR,,,
 Liechtenstein,2021,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Liechtenstein,2021,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Liechtenstein,2021,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
@@ -9642,9 +9642,9 @@ Liechtenstein,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2021,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2021,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Liechtenstein,2021,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liechtenstein,2021,1A4B,Coal,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2021,1A4B,Natural gas,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Liechtenstein,2021,1A4B,Oil,1.0,0.0,lie_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
