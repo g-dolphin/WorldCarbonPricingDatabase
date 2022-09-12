@@ -2373,7 +2373,7 @@ Slovenia,1996,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,1996,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,1996,4B,NA,NA,NA,NA,NA,NA
 Slovenia,1996,4C,NA,NA,NA,NA,NA,NA
-Slovenia,1996,4C1,NA,NA,NA,NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 50% of the base tax rate,NA
+Slovenia,1996,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,1996,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,1996,4D,NA,NA,NA,NA,NA,NA
 Slovenia,1996,4D1,NA,NA,NA,NA,NA,NA
@@ -2671,7 +2671,7 @@ Slovenia,1997,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,1997,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,1997,4B,NA,NA,NA,NA,NA,NA
 Slovenia,1997,4C,NA,NA,NA,NA,NA,NA
-Slovenia,1997,4C1,NA,NA,NA,NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 50% of the base tax rate,NA
+Slovenia,1997,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,1997,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,1997,4D,NA,NA,NA,NA,NA,NA
 Slovenia,1997,4D1,NA,NA,NA,NA,NA,NA
@@ -2969,7 +2969,7 @@ Slovenia,1998,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,1998,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,1998,4B,NA,NA,NA,NA,NA,NA
 Slovenia,1998,4C,NA,NA,NA,NA,NA,NA
-Slovenia,1998,4C1,NA,NA,NA,NA,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,1998,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,1998,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,1998,4D,NA,NA,NA,NA,NA,NA
 Slovenia,1998,4D1,NA,NA,NA,NA,NA,NA
@@ -3267,7 +3267,7 @@ Slovenia,1999,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,1999,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,1999,4B,NA,NA,NA,NA,NA,NA
 Slovenia,1999,4C,NA,NA,NA,NA,NA,NA
-Slovenia,1999,4C1,NA,NA,NA,NA,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,1999,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,1999,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,1999,4D,NA,NA,NA,NA,NA,NA
 Slovenia,1999,4D1,NA,NA,NA,NA,NA,NA
@@ -3288,7 +3288,7 @@ Slovenia,2000,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2000,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2000,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2000,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2000,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2000,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,NA
 Slovenia,2000,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2000,1A1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2000,1A1A2,Coal,leg(SLO-CO2[2000]),NA,"leg(SLO-CO2[2000]), journal(MAR-MUR[2007]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,NA
@@ -3565,7 +3565,7 @@ Slovenia,2000,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2000,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2000,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2000,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2000,4C1,NA,NA,NA,NA,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2000,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2000,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2000,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2000,4D1,NA,NA,NA,NA,NA,NA
@@ -3586,7 +3586,7 @@ Slovenia,2001,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2001,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2001,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2001,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2001,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[2000]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2001,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,NA
 Slovenia,2001,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2001,1A1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2001,1A1A2,Coal,leg(SLO-CO2[2000]),NA,"leg(SLO-CO2[2000]), journal(MAR-MUR[2007]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,NA
@@ -3863,7 +3863,7 @@ Slovenia,2001,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2001,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2001,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2001,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2001,4C1,NA,NA,NA,NA,leg(SLO-CO2[2000]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2001,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2001,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2001,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2001,4D1,NA,NA,NA,NA,NA,NA
@@ -3884,7 +3884,7 @@ Slovenia,2002,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2002,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2002,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2002,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2002,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[2000]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2002,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,NA
 Slovenia,2002,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2002,1A1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2002,1A1A2,Coal,leg(SLO-CO2[2000]),NA,"leg(SLO-CO2[2000]), journal(MAR-MUR[2007]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,NA
@@ -4161,7 +4161,7 @@ Slovenia,2002,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2002,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2002,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2002,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2002,4C1,NA,NA,NA,NA,leg(SLO-CO2[2000]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2002,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2002,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2002,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2002,4D1,NA,NA,NA,NA,NA,NA
@@ -4182,7 +4182,7 @@ Slovenia,2003,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2003,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2003,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2003,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2003,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2003,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,NA
 Slovenia,2003,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2003,1A1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2003,1A1A2,Coal,leg(SLO-CO2[2000]),NA,"leg(SLO-CO2[2000]), journal(MAR-MUR[2007]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,NA
@@ -4459,7 +4459,7 @@ Slovenia,2003,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2003,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2003,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2003,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2003,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2003,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2003,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2003,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2003,4D1,NA,NA,NA,NA,NA,NA
@@ -4480,7 +4480,7 @@ Slovenia,2004,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2004,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2004,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2004,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2004,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2004,1A1A1,Coal,NA,NA,NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,NA
 Slovenia,2004,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2004,1A1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2004,1A1A2,Coal,leg(SLO-CO2[2000]),NA,"leg(SLO-CO2[2000]), journal(MAR-MUR[2007]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,NA
@@ -4757,7 +4757,7 @@ Slovenia,2004,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2004,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2004,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2004,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2004,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2004,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2004,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2004,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2004,4D1,NA,NA,NA,NA,NA,NA
@@ -4778,7 +4778,7 @@ Slovenia,2005,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2005,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2005,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2005,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2005,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2005,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2005,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2005,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2005,1A1A2,Coal,leg(SLO-CO2[2000]),leg(EC[2003]),"leg(SLO-CO2[2000]), journal(MAR-MUR[2007]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -5055,7 +5055,7 @@ Slovenia,2005,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2005,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2005,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2005,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2005,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2005,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2005,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2005,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2005,4D1,NA,NA,NA,NA,NA,NA
@@ -5076,7 +5076,7 @@ Slovenia,2006,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2006,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2006,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2006,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2006,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2006,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2006,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2006,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2006,1A1A2,Coal,leg(SLO-CO2[2000]),leg(EC[2003]),"leg(SLO-CO2[2000]), journal(MAR-MUR[2007]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -5353,7 +5353,7 @@ Slovenia,2006,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2006,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2006,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2006,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2006,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2006,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2006,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2006,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2006,4D1,NA,NA,NA,NA,NA,NA
@@ -5374,7 +5374,7 @@ Slovenia,2007,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2007,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2007,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2007,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2007,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2007,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2007,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2007,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2007,1A1A2,Coal,leg(SLO-CO2[2006]),leg(EC[2003]),"leg(SLO-CO2[2006]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -5651,7 +5651,7 @@ Slovenia,2007,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2007,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2007,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2007,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2007,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2007,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2007,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2007,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2007,4D1,NA,NA,NA,NA,NA,NA
@@ -5672,7 +5672,7 @@ Slovenia,2008,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2008,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2008,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2008,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2008,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2008,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2008,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2008,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2008,1A1A2,Coal,leg(SLO-CO2[2008]),leg(EC[2003]),"leg(SLO-CO2[2008]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -5949,7 +5949,7 @@ Slovenia,2008,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2008,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2008,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2008,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2008,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2008,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2008,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2008,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2008,4D1,NA,NA,NA,NA,NA,NA
@@ -5970,7 +5970,7 @@ Slovenia,2009,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2009,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2009,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2009,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2009,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2009,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2009,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2009,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2009,1A1A2,Coal,leg(SLO-CO2[2009a]),leg(EC[2003]),"leg(SLO-CO2[2009a]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -6247,7 +6247,7 @@ Slovenia,2009,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2009,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2009,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2009,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2009,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2009,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2009,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2009,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2009,4D1,NA,NA,NA,NA,NA,NA
@@ -6268,7 +6268,7 @@ Slovenia,2010,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2010,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2010,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2010,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2010,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2010,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2010,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2010,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2010,1A1A2,Coal,leg(SLO-CO2[2009b]),leg(EC[2003]),"leg(SLO-CO2[2009b]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -6545,7 +6545,7 @@ Slovenia,2010,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2010,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2010,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2010,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2010,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2010,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2010,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2010,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2010,4D1,NA,NA,NA,NA,NA,NA
@@ -6566,7 +6566,7 @@ Slovenia,2011,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2011,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2011,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2011,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2011,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2011,1A1A1,Coal,NA,leg(EC[2003]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2011,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2011,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2011,1A1A2,Coal,leg(SLO-CO2[2010]),leg(EC[2003]),"leg(SLO-CO2[2010]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -6843,7 +6843,7 @@ Slovenia,2011,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2011,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2011,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2011,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2011,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2011,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2011,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2011,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2011,4D1,NA,NA,NA,NA,NA,NA
@@ -6864,7 +6864,7 @@ Slovenia,2012,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2012,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2012,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2012,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2012,1A1A1,Coal,NA,leg(EC[2014]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2012,1A1A1,Coal,NA,leg(EC[2014]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2012,1A1A2,Coal,leg(SLO-CO2[2011]),leg(EC[2014]),"leg(SLO-CO2[2011]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -7141,7 +7141,7 @@ Slovenia,2012,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2012,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2012,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2012,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2012,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2012,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2012,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2012,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2012,4D1,NA,NA,NA,NA,NA,NA
@@ -7162,7 +7162,7 @@ Slovenia,2013,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2013,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2013,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2013,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2013,1A1A1,Coal,NA,leg(EC[2014]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2013,1A1A1,Coal,NA,leg(EC[2014]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2013,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2013,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2013,1A1A2,Coal,leg(SLO-CO2[2012]),leg(EC[2014]),"leg(SLO-CO2[2012]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -7439,7 +7439,7 @@ Slovenia,2013,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2013,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2013,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2013,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2013,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2013,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2013,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2013,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2013,4D1,NA,NA,NA,NA,NA,NA
@@ -7460,7 +7460,7 @@ Slovenia,2014,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2014,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2014,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2014,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2014,1A1A1,Coal,NA,leg(EC[2014]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2014,1A1A1,Coal,NA,leg(EC[2014]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2014,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2014,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2014,1A1A2,Coal,leg(SLO-CO2[2013]),leg(EC[2014]),"leg(SLO-CO2[2013]), db(OECD-EP[2015]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -7737,7 +7737,7 @@ Slovenia,2014,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2014,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2014,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2014,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2014,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2014,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2014,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2014,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2014,4D1,NA,NA,NA,NA,NA,NA
@@ -7758,7 +7758,7 @@ Slovenia,2015,1A1,Oil,NA,NA,NA,NA,NA
 Slovenia,2015,1A1A,Coal,NA,NA,NA,NA,NA
 Slovenia,2015,1A1A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2015,1A1A,Oil,NA,NA,NA,NA,NA
-Slovenia,2015,1A1A1,Coal,NA,leg(EC[2014]),NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2015,1A1A1,Coal,NA,leg(EC[2014]),NA,leg(SLO-CO2[1996]); art. 4 of the legislation stipulates that coal used for electricity generation is subject to 50% of the base tax rate,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2015,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2015,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2015,1A1A2,Coal,leg(SLO-CO2[2014]),leg(EC[2014]),"leg(SLO-CO2[2014]); The tax applies to CO2 emissions resulting from the combustion of fossil fuels and is paid by the seller of the fuel to final consumers (i.e. upstream distributors), art. 6 of SLO-CO2[1996].",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8035,7 +8035,7 @@ Slovenia,2015,4A2,NA,NA,NA,NA,NA,NA
 Slovenia,2015,4A3,NA,NA,NA,NA,NA,NA
 Slovenia,2015,4B,NA,NA,NA,NA,NA,NA
 Slovenia,2015,4C,NA,NA,NA,NA,NA,NA
-Slovenia,2015,4C1,NA,NA,NA,NA,leg(SLO-CO2[2002]); art. 4 of the legislation stipulates that organic compounds incinerated in refuse incineration plants are subject to 10% of the base tax rate,NA
+Slovenia,2015,4C1,NA,NA,NA,NA,NA,NA
 Slovenia,2015,4C2,NA,NA,NA,NA,NA,NA
 Slovenia,2015,4D,NA,NA,NA,NA,NA,NA
 Slovenia,2015,4D1,NA,NA,NA,NA,NA,NA

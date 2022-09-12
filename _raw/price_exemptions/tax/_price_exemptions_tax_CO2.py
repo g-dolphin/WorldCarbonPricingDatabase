@@ -31,7 +31,7 @@ wcpd_all_jur_sources.rename(columns={"tax_ex_rate_sources":"tax_ex_rate"}, inpla
 
 # Set default non-"NA" values to 0
 wcpd_all_jur.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = 0
-wcpd_all_jur_sources.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = 0
+wcpd_all_jur_sources.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = "NA"
 
 
 #--------------------------------Exemption/rebate coding-----------------------------
