@@ -7761,18 +7761,18 @@ Portugal,2015,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
 Portugal,2015,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
 Portugal,2015,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1A2,Coal,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1A2,Natural gas,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1A2,Oil,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1A3,Coal,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1A3,Natural gas,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1A3,Oil,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1B,Coal,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1B,Natural gas,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1B,Oil,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1C,Coal,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1C,Natural gas,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
+Portugal,2015,1A1C,Oil,1.0,1.0,prt_tax,5.0,0.0,5.0,EUR,eu_ets,7.68,EUR,,,
 Portugal,2015,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7821,15 +7821,15 @@ Portugal,2015,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A3A1,Coal,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A3A1,Natural gas,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A3A1,Oil,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
 Portugal,2015,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
 Portugal,2015,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.68,EUR,,,
-Portugal,2015,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A3B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A3B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A3B,Coal,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A3B,Natural gas,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A3B,Oil,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7851,21 +7851,21 @@ Portugal,2015,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4A,Coal,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4A,Natural gas,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4A,Oil,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4B,Coal,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4B,Natural gas,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4B,Oil,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4C1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4C1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2015,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4C1,Coal,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4C1,Natural gas,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4C1,Oil,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4C2,Coal,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4C2,Natural gas,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2015,1A4C2,Oil,1.0,0.0,prt_tax,5.0,0.0,5.0,EUR,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2015,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8059,18 +8059,18 @@ Portugal,2016,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
 Portugal,2016,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
 Portugal,2016,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1A2,Coal,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1A2,Natural gas,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1A2,Oil,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1A3,Coal,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1A3,Natural gas,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1A3,Oil,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1B,Coal,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1B,Natural gas,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1B,Oil,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1C,Coal,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1C,Natural gas,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
+Portugal,2016,1A1C,Oil,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,5.35,EUR,,,
 Portugal,2016,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8119,15 +8119,15 @@ Portugal,2016,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A3A1,Coal,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A3A1,Natural gas,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A3A1,Oil,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
 Portugal,2016,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
 Portugal,2016,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.35,EUR,,,
-Portugal,2016,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A3B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A3B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A3B,Coal,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A3B,Natural gas,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A3B,Oil,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8149,21 +8149,21 @@ Portugal,2016,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4A,Coal,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4A,Natural gas,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4A,Oil,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4B,Coal,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4B,Natural gas,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4B,Oil,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4C1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4C1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Portugal,2016,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4C1,Coal,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4C1,Natural gas,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4C1,Oil,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4C2,Coal,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4C2,Natural gas,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
+Portugal,2016,1A4C2,Oil,1.0,0.0,prt_tax,6.9,0.0,6.9,EUR,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2016,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8655,10 +8655,10 @@ Portugal,2018,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Portugal,2018,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
 Portugal,2018,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
 Portugal,2018,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.82,EUR,,,
-Portugal,2018,1A1A2,Coal,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,15.82,EUR,,,
+Portugal,2018,1A1A2,Coal,1.0,1.0,prt_tax,6.9,0.9,0.6899999999999998,EUR,eu_ets,15.82,EUR,,,
 Portugal,2018,1A1A2,Natural gas,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,15.82,EUR,,,
 Portugal,2018,1A1A2,Oil,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,15.82,EUR,,,
-Portugal,2018,1A1A3,Coal,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,15.82,EUR,,,
+Portugal,2018,1A1A3,Coal,1.0,1.0,prt_tax,6.9,0.9,0.6899999999999998,EUR,eu_ets,15.82,EUR,,,
 Portugal,2018,1A1A3,Natural gas,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,15.82,EUR,,,
 Portugal,2018,1A1A3,Oil,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,15.82,EUR,,,
 Portugal,2018,1A1B,Coal,1.0,1.0,prt_tax,6.9,0.0,6.9,EUR,eu_ets,15.82,EUR,,,
