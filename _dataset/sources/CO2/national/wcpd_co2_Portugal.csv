@@ -7821,9 +7821,9 @@ Portugal,2015,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2015,1A3A1,Coal,NA,NA,NA,leg(PRT[2014]),NA
-Portugal,2015,1A3A1,Natural gas,NA,NA,NA,leg(PRT[2014]),NA
-Portugal,2015,1A3A1,Oil,NA,NA,NA,leg(PRT[2014]),NA
+Portugal,2015,1A3A1,Coal,NA,NA,NA,NA,NA
+Portugal,2015,1A3A1,Natural gas,NA,NA,NA,NA,NA
+Portugal,2015,1A3A1,Oil,NA,NA,NA,NA,NA
 Portugal,2015,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2015,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2015,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8119,9 +8119,9 @@ Portugal,2016,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2016,1A3A1,Coal,NA,NA,NA,"leg(PRT[2014], PRT[2016])",NA
-Portugal,2016,1A3A1,Natural gas,NA,NA,NA,"leg(PRT[2014], PRT[2016])",NA
-Portugal,2016,1A3A1,Oil,NA,NA,NA,"leg(PRT[2014], PRT[2016])",NA
+Portugal,2016,1A3A1,Coal,NA,NA,NA,NA,NA
+Portugal,2016,1A3A1,Natural gas,NA,NA,NA,NA,NA
+Portugal,2016,1A3A1,Oil,NA,NA,NA,NA,NA
 Portugal,2016,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2016,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2016,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8417,9 +8417,9 @@ Portugal,2017,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2017,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2017,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2017,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2017,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",NA
-Portugal,2017,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",NA
-Portugal,2017,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016])",NA
+Portugal,2017,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2017,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2017,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -8652,15 +8652,15 @@ Portugal,2018,1A1,Oil,NA,NA,NA,NA,NA
 Portugal,2018,1A1A,Coal,NA,NA,NA,NA,NA
 Portugal,2018,1A1A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2018,1A1A,Oil,NA,NA,NA,NA,NA
-Portugal,2018,1A1A1,Coal,NA,leg(EC[2018]),NA,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A1,Natural gas,NA,leg(EC[2018]),NA,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A1,Oil,NA,leg(EC[2018]),NA,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2018,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2018,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2018,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -9549,12 +9549,12 @@ Portugal,2021,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2021,1A1A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2021,1A1A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2021,1A1A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2021,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2021,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2021,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2021,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2021,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2021,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2021,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2021,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2021,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2021,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2021,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2021,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2021,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2021,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2021,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
