@@ -1,16 +1,16 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
 lva_tax,2004,CO2,Coal,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2005,CO2,Coal,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
-lva_tax,2006,CO2,Coal,0.1,LVL,leg(LVA-NRTL[2006]),the tax rate had yet to become effective
-lva_tax,2007,CO2,Coal,0.1,LVL,leg(LVA-NRTL[2006]),the carbon tax does not apply to peat
-lva_tax,2008,CO2,Coal,0.2,LVL,leg(LVA-NRTL[2006]),the carbon tax does not apply to peat
-lva_tax,2009,CO2,Coal,0.3,LVL,leg(LVA-NRTL[2009]),the carbon tax does not apply to peat
-lva_tax,2010,CO2,Coal,0.45,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
-lva_tax,2011,CO2,Coal,0.775,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
-lva_tax,2012,CO2,Coal,1.325,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
-lva_tax,2013,CO2,Coal,2,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
-lva_tax,2014,CO2,Coal,2,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
-lva_tax,2015,CO2,Coal,2,LVL,leg(LVA-NRTL[2010]),the carbon tax does not apply to peat
+lva_tax,2006,CO2,Coal,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The tax rate had yet to become effective"
+lva_tax,2007,CO2,Coal,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
+lva_tax,2008,CO2,Coal,0.28,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
+lva_tax,2009,CO2,Coal,0.42,EUR,leg(LVA-NRTL[2009]),"The tax rate is 0.3 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
+lva_tax,2010,CO2,Coal,0.64,EUR,leg(LVA-NRTL[2010]),"The tax rate is 0.45 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
+lva_tax,2011,CO2,Coal,1.1,EUR,leg(LVA-NRTL[2010]),"The tax rate is 0.775 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
+lva_tax,2012,CO2,Coal,1.89,EUR,leg(LVA-NRTL[2010]),"The tax rate is 1.335 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
+lva_tax,2013,CO2,Coal,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
+lva_tax,2014,CO2,Coal,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
+lva_tax,2015,CO2,Coal,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804. The carbon tax does not apply to peat"
 lva_tax,2016,CO2,Coal,3.5,EUR,report(WB[2017]),the carbon tax does not apply to peat
 lva_tax,2017,CO2,Coal,4.5,EUR,report(WB[2017]),the carbon tax does not apply to peat
 lva_tax,2018,CO2,Coal,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",the carbon tax does not apply to peat
@@ -19,16 +19,16 @@ lva_tax,2020,CO2,Coal,9,EUR,db(WBCPD[2020]),the carbon tax does not apply to pea
 lva_tax,2021,CO2,Coal,12,EUR,db(WBCPD[2020]),the carbon tax does not apply to peat
 lva_tax,2004,CO2,Oil,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2005,CO2,Oil,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
-lva_tax,2006,CO2,Oil,0.1,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2007,CO2,Oil,0.1,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2008,CO2,Oil,0.2,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2009,CO2,Oil,0.3,LVL,leg(LVA-NRTL[2009]),
-lva_tax,2010,CO2,Oil,0.45,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2011,CO2,Oil,0.775,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2012,CO2,Oil,1.325,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2013,CO2,Oil,2,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2014,CO2,Oil,2,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2015,CO2,Oil,2,LVL,leg(LVA-NRTL[2010]),
+lva_tax,2006,CO2,Oil,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2007,CO2,Oil,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2008,CO2,Oil,0.28,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2009,CO2,Oil,0.42,EUR,leg(LVA-NRTL[2009]),"The tax rate is 0.3 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2010,CO2,Oil,0.64,EUR,leg(LVA-NRTL[2010]),"The tax rate is 0.45 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2011,CO2,Oil,1.1,EUR,leg(LVA-NRTL[2010]),"The tax rate is 0.775 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2012,CO2,Oil,1.89,EUR,leg(LVA-NRTL[2010]),"The tax rate is 1.335 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2013,CO2,Oil,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2014,CO2,Oil,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2015,CO2,Oil,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
 lva_tax,2016,CO2,Oil,3.5,EUR,report(WB[2017]),
 lva_tax,2017,CO2,Oil,4.5,EUR,report(WB[2017]),
 lva_tax,2018,CO2,Oil,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",
@@ -37,16 +37,16 @@ lva_tax,2020,CO2,Oil,9,EUR,db(WBCPD[2020]),
 lva_tax,2021,CO2,Oil,12,EUR,db(WBCPD[2020]),
 lva_tax,2004,CO2,Natural gas,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2005,CO2,Natural gas,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
-lva_tax,2006,CO2,Natural gas,0.1,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2007,CO2,Natural gas,0.1,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2008,CO2,Natural gas,0.2,LVL,leg(LVA-NRTL[2006]),
-lva_tax,2009,CO2,Natural gas,0.3,LVL,leg(LVA-NRTL[2009]),
-lva_tax,2010,CO2,Natural gas,0.45,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2011,CO2,Natural gas,0.775,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2012,CO2,Natural gas,1.325,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2013,CO2,Natural gas,2,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2014,CO2,Natural gas,2,LVL,leg(LVA-NRTL[2010]),
-lva_tax,2015,CO2,Natural gas,2,LVL,leg(LVA-NRTL[2010]),
+lva_tax,2006,CO2,Natural gas,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2007,CO2,Natural gas,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2008,CO2,Natural gas,0.28,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2009,CO2,Natural gas,0.42,EUR,leg(LVA-NRTL[2009]),"The tax rate is 0.3 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2010,CO2,Natural gas,0.64,EUR,leg(LVA-NRTL[2010]),"The tax rate is 0.45 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2011,CO2,Natural gas,1.1,EUR,leg(LVA-NRTL[2010]),"The tax rate is 0.775 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2012,CO2,Natural gas,1.89,EUR,leg(LVA-NRTL[2010]),"The tax rate is 1.335 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2013,CO2,Natural gas,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2014,CO2,Natural gas,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
+lva_tax,2015,CO2,Natural gas,2.85,EUR,leg(LVA-NRTL[2010]),"The tax rate is 2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
 lva_tax,2016,CO2,Natural gas,3.5,EUR,report(WB[2017]),
 lva_tax,2017,CO2,Natural gas,4.5,EUR,report(WB[2017]),
 lva_tax,2018,CO2,Natural gas,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",
