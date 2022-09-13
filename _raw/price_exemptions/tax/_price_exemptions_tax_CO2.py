@@ -208,18 +208,19 @@ tax_ex_prt_II_ipcc = ["1A1A1", "1A1A2", "1A1A3"]
 
 tax_ex_prt_II_fuel = ["Coal"]
 
-tax_ex_prt_II_jur_scope = {2019:tax_ex_prt_II_jur, 2020:tax_ex_prt_II_jur}
+tax_ex_prt_II_jur_scope = {2018:tax_ex_prt_II_jur, 2019:tax_ex_prt_II_jur, 2020:tax_ex_prt_II_jur}
 
-tax_ex_prt_II_ipcc_scope = {2019:tax_ex_prt_II_ipcc, 2020:tax_ex_prt_II_ipcc}
+tax_ex_prt_II_ipcc_scope = {2018:tax_ex_prt_II_ipcc, 2019:tax_ex_prt_II_ipcc, 2020:tax_ex_prt_II_ipcc}
 
-tax_ex_prt_II_fuel_scope = {2019:tax_ex_prt_II_fuel, 2020:tax_ex_prt_II_fuel}
+tax_ex_prt_II_fuel_scope = {2018:tax_ex_prt_II_fuel, 2019:tax_ex_prt_II_fuel, 2020:tax_ex_prt_II_fuel}
 
-tax_ex_prt_II_value = {2019:0.75, 2020:0.5}
+tax_ex_prt_II_value = {2018:0.9 , 2019:0.75, 2020:0.5}
 
 tax_ex_prt_II = {"jurisdiction": tax_ex_prt_II_jur_scope, "ipcc": tax_ex_prt_II_ipcc_scope,
                 "fuel":tax_ex_prt_II_fuel_scope, "value":tax_ex_prt_II_value}
 
-tax_ex_prt_II_source = {2019:"leg(PRT[2014], PRT[2016], PRT[2018])",
+tax_ex_prt_II_source = {2018:"leg(PRT[2014], PRT[2016], PRT[2018])",
+                        2019:"leg(PRT[2014], PRT[2016], PRT[2018])",
                         2020:"leg(PRT[2014], PRT[2016], PRT[2018])"}
 
 # ------------------
