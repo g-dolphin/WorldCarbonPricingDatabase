@@ -1311,21 +1311,27 @@ def scope():
 
     ## scope dictionaries
     
-    prt_tax_jur_scope = {2017:prt_tax_jur_I, 2018:prt_tax_jur_I, 
+    prt_tax_jur_scope = {2015:prt_tax_jur_I, 2016:prt_tax_jur_I,
+                         2017:prt_tax_jur_I, 2018:prt_tax_jur_I, 
                             2019:prt_tax_jur_I, 2020:prt_tax_jur_I, 
                             2021:prt_tax_jur_I}
     
-    prt_tax_ipcc_scope = {2017:prt_tax_ipcc_I, 2018:prt_tax_ipcc_I, 
+    prt_tax_ipcc_scope = {2015:prt_tax_ipcc_I, 2016:prt_tax_ipcc_I, 
+                            2017:prt_tax_ipcc_I, 2018:prt_tax_ipcc_I, 
                              2019:prt_tax_ipcc_I, 2020:prt_tax_ipcc_I, 
                              2021:prt_tax_ipcc_I}     
 
-    prt_tax_fuel_scope = {2017:prt_tax_fuel_I, 2018:prt_tax_fuel_I, 
+    prt_tax_fuel_scope = {2015:prt_tax_fuel_I, 2016:prt_tax_fuel_I,
+                           2017:prt_tax_fuel_I, 2018:prt_tax_fuel_I,
+                           2017:prt_tax_fuel_I, 2018:prt_tax_fuel_I, 
                              2019:prt_tax_fuel_I, 2020:prt_tax_fuel_I, 
                              2021:prt_tax_fuel_I}     
 
     ## Sources dictionary
     
-    prt_tax_scope_sources = {2017:"leg(PRT[2014]), gvt(PRT[2014])", 
+    prt_tax_scope_sources = {2015:"leg(PRT[2014]), gvt(PRT[2014])",
+                            2016:"leg(PRT[2014]), gvt(PRT[2014])",
+                             2017:"leg(PRT[2014]), gvt(PRT[2014])", 
                                 2018:"leg(PRT[2014]), gvt(PRT[2014])", 
                                 2019:"leg(PRT[2014]), gvt(PRT[2014])", 
                                 2020:"leg(PRT[2014]), gvt(PRT[2014])",
