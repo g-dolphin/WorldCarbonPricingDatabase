@@ -11,7 +11,7 @@ The database records information on the sectoral scope and price associated with
 
 A key feature of this dataset is that it provides information structured by territorial jurisdiction, not carbon pricing mechanism. This is achieved by mapping information available for each carbon pricing mechanism onto jurisdictions. This mapping accounts for the possibility that multiple schemes apply to the same emissions sectors and, in such instances, presents information separately for each scheme. It also covers a long period of time (1990-2020) and, hence, allows to (re)construct time series of prices applied to emissions in the jurisdictions where such prices were in place. In addition, its disaggregation by IPCC 2006 sectors  allows for a straightforward integration with several other data sources following the same sectoral disaggregation. 
 
-More details about the methodology supporting the construction of the dataset and the variables included in it are provided in the associated Data Descriptor available [https://doi.org/10.1038/s41597-022-01659-x](https://doi.org/10.1038/s41597-022-01659-x).
+More details about the methodology supporting the construction of the dataset and the variables included in it are provided in the associated Data Descriptor available at [https://doi.org/10.1038/s41597-022-01659-x](https://doi.org/10.1038/s41597-022-01659-x).
 
 ### Scope
 
