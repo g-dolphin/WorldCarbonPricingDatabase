@@ -4,6 +4,8 @@ The present dataset constitutes an extension of a dataset initially developed wh
 
 This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990. To date, it is the most comprehensive attempt at providing a consistent-across-jurisdiction description of carbon pricing mechanisms in terms of their sectoral (and fuel) coverage as well as the associated price signal.
 
+In a separate project, it is used in combination with greenhouse gas emissions data to calculate an emissions-weighted average carbon price. This project is hosted here: [https://github.com/g-dolphin/ECP](https://github.com/g-dolphin/ECP).
+
 ## Dataset 
 ### Description
 
