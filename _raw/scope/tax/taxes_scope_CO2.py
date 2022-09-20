@@ -445,13 +445,13 @@ def scope():
     ## Sectors
     fin_tax_ipcc_I = ["1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
                       "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
-                      "1A2K", "1A2L", "1A2M", "1A3A2", 
+                      "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B",
                       "1A4A", "1A4B", "1A4C1", "1A4C2"]
 
     fin_tax_ipcc_II = ["1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
-                      "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
-                      "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B", 
-                      "1A4A", "1A4B", "1A4C1", "1A4C2"]
+                       "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
+                       "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B", 
+                       "1A4A", "1A4B", "1A4C1", "1A4C2"]
 
     ## Fuels
 

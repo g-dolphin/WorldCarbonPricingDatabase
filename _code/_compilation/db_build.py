@@ -204,7 +204,7 @@ wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
 # Price-based exemptions
 # Add (price-based) exemptions/rebate column for carbon taxes
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/_price_exemptions_tax_"+gas+".py")
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_rebates/tax/_price_exemptions_tax_"+gas+".py")
 read_file = stream.read()
 exec(read_file)
 
@@ -243,10 +243,11 @@ wcpd_all_jur_sources = wcpd_all_jur_sources[["jurisdiction", "year", "ipcc_code"
                                    "ets_price"]]
 
 #------------------------------Calculating aggregate IPCC categories scope values----------------------------------#
+# currently not used - the script needs review as it doesn't seem to record the desired output
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/sector_agg_scope.py")
-read_file = stream.read()
-exec(read_file)
+#stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/sector_agg_scope.py")
+#read_file = stream.read()
+#exec(read_file)
 
 #------------------------------Writing files----------------------------------#
 
