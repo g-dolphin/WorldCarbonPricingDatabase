@@ -122,177 +122,66 @@ def scope():
                                2017:"leg(EC[2014])", 2018:"leg(EC[2018])", 
                                2019:"leg(EC[2018])", 2020:"leg(EC[2018], EC[2020])", 
                                2021:"leg(EC[2018], EC[2020])"}
-    
-    #------------------------------------------------------------------------
-    
-    # Regional Greenhouse Gas Initiative
-    
-    ## Jurisdictions
-    # initial state scope (2009)
-    usa_rggi_jur_I = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
-                  "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont"]
-    
-    # New Jersey withdrawal (2012)
-    usa_rggi_jur_II = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
-                   "New Hampshire", "New York", "Rhode Island", "Vermont"]
-    
-    # Virginia joins the scheme (2021)
-    usa_rggi_jur_III = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
-                    "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont",
-                    "Virginia"]
-    
-    ## Sectors
-    
-    # scope of the RGGI scheme is limited to IPCC sector 1A1A
-    usa_rggi_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
-    
-    ## scope dictionaries
-    usa_rggi_jur_scope = { 2009:usa_rggi_jur_I, 2010:usa_rggi_jur_I,
-                            2011:usa_rggi_jur_I, 2012:usa_rggi_jur_II,
-                            2013:usa_rggi_jur_II, 2014:usa_rggi_jur_II,
-                            2015:usa_rggi_jur_II, 2016:usa_rggi_jur_II,
-                            2017:usa_rggi_jur_II, 2018:usa_rggi_jur_I,
-                            2019:usa_rggi_jur_I, 2020:usa_rggi_jur_I,
-                            2021:usa_rggi_jur_III}
-    
-    usa_rggi_ipcc_scope = { 2009:usa_rggi_ipcc_I, 2010:usa_rggi_ipcc_I,
-                            2011:usa_rggi_ipcc_I, 2012:usa_rggi_ipcc_I,
-                            2013:usa_rggi_ipcc_I, 2014:usa_rggi_ipcc_I,
-                            2015:usa_rggi_ipcc_I, 2016:usa_rggi_ipcc_I,
-                            2017:usa_rggi_ipcc_I, 2018:usa_rggi_ipcc_I,
-                            2019:usa_rggi_ipcc_I, 2020:usa_rggi_ipcc_I,
-                            2021:usa_rggi_ipcc_I}
-    
-    ## Sources dictionary
-    
-    usa_rggi_scope_sources = {2009:"gvt(RGGI-MOU[2005])", 2010:"gvt(RGGI-MOU[2005])", 
-                                2011:"gvt(RGGI-MOU[2005])", 2012:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2013:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2014:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2015:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2016:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2017:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2018:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2019:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2020:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2021:"gvt(RGGI-MOU[2005], NJ[2011])"}
-    
-    #----------------------------------------------------------------------------
-    
-    # California-Quebec-Ontario
-    
-    ## Jurisdictions
-    
-    usa_ca_ets_jur_I = ["California"]
-    usa_ca_ets_jur_II = ["California", "Quebec"]
-    usa_ca_ets_jur_III = ["California", "Quebec", "Ontario"]
-    
-    ## Sectors
-    
-    usa_ca_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
-                        "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
-                        "1A2L", "1A2M", "1A5A", "1C1A", "1C1B",
-                        "2A1", "2A2", "2A3", "2C1", "2C5", "2H1",  
-                        "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
-                        "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
-                        "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
-                        "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
-                        "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
-                        "2G3", "2G4", "2H1", "2H2", "2H3"]
-    
-    usa_ca_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
-                         "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
-                         "1A2L", "1A2M", "1A3B", "1A4A", "1A4B", "1A5A", "1C1A", "1C1B",
-                         "2A1", "2A2", "2A3", "2C1", "2C5", "2H1",  
-                         "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
-                         "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
-                         "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
-                         "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
-                         "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
-                         "2G3", "2G4", "2H1", "2H2", "2H3"]
-    
-    
-    ## scope dictionaries
-    
-    usa_ca_ets_jur_scope = {2013:usa_ca_ets_jur_I, 2014:usa_ca_ets_jur_I, 
-                           2015:usa_ca_ets_jur_II, 2016:usa_ca_ets_jur_II, 
-                           2017:usa_ca_ets_jur_II, 2018:usa_ca_ets_jur_III, 
-                           2019:usa_ca_ets_jur_II, 2020:usa_ca_ets_jur_II, 
-                           2021:usa_ca_ets_jur_II}
-    
-    usa_ca_ets_ipcc_scope = {2013:usa_ca_ets_ipcc_I, 2014:usa_ca_ets_ipcc_I, 
-                           2015:usa_ca_ets_ipcc_II, 2016:usa_ca_ets_ipcc_II, 
-                           2017:usa_ca_ets_ipcc_II, 2018:usa_ca_ets_ipcc_II, 
-                           2019:usa_ca_ets_ipcc_II, 2020:usa_ca_ets_ipcc_II, 
-                           2021:usa_ca_ets_ipcc_II}
-
-    ## Sources dictionary
-    
-    usa_ca_ets_scope_sources = {2012:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2013:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2014:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2015:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2016:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2017:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2018:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2019:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2020:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2021:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])"}
 
     #----------------------------------------------------------------------------
     
-    # Quebec
+    # Canada Federal OBPS
     
     ## Jurisdiction
-    can_qc_cat_jur_I = ["Quebec"]
     
-    
+    # initial province scope (2019-2020)
+    can_obps_jur_I = ["Manitoba", "Ontario", "New Brunswick", "Prince Edward Island", "Yukon", "Nunavut"]
+
+    # New Brunswick transitions to its provincial OBPS (2021)
+    can_obps_jur_II = ["Manitoba", "Ontario", "Prince Edward Island", "Yukon", "Nunavut"]
+
     ## Sectors
-    can_qc_cat_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
-                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
-                         "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "2A1", "2A2", "2A3", 
-                         "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
-                         "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
-                         "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
-                         "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
-                         "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
-                         "2G3", "2G4", "2H1", "2H2", "2H3"]
+    
+    can_obps_ipcc_I = ["1A1A1", "1A1A2", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", 
+                       "1A2F", "1A2I", "1B1", "1B1A", "1B1A1", "1B1A11", "1B1A12", 
+                       "1B1A13", "1B1A14", "1B1A2", "1B1A21", "1B1A22", "1B1B", 
+                       "1B2", "1B2A", "1B2A1", "1B2A2", "1B2A3", "1B2A31", "1B2A32", 
+                       "1B2A33", "1B2A34", "1B2A35", "1B2A36", "1B2B", "1B2B1", 
+                       "1B2B2", "1B2B3", "1B2B31", "1B2B32", "1B2B33", "1B2B34", 
+                       "1B2B35", "1B2B36", "2A1", "2A2", "2A3", "2A4", "2A4A", 
+                       "2A4B", "2A4C", "2A4D", "2B", "2B1", "2B10", "2B2", "2B3", 
+                       "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", "2B8C", 
+                       "2B8D", "2B8E", "2B8F", "2B9", "2B9A", "2B9B", "2C1", "2C2", 
+                       "2C3", "2C4", "2C5", "2C6", "2C7", "2H1", "2H2"]
     
     ## scope dictionaries
+    can_obps_jur_scope = {2019:can_obps_jur_I, 2020:can_obps_jur_I,
+                             2021:can_obps_jur_II}
     
-    can_qc_cat_jur_scope = {2013:can_qc_cat_jur_I, 2014:can_qc_cat_jur_I}
-    
-    can_qc_cat_ipcc_scope = {2013:can_qc_cat_ipcc_I, 2014:can_qc_cat_ipcc_I}
+    can_obps_ipcc_scope = {2019:can_obps_ipcc_I, 2020:can_obps_ipcc_I,
+                              2021:can_obps_ipcc_I}     
     
     ## Sources dictionary
     
-    can_qc_cat_scope_sources = {2013:"leg(QC[2011], QC[2012], QC[2013])", 
-                                   2014:"leg(QC[2011], QC[2012], QC[2013])"}
-    
+    can_obps_scope_sources = {2019:"leg(SOR[2019])",
+                                 2020:"leg(SOR[2019])", 2021:"leg(SOR[2019])"}
+
     #----------------------------------------------------------------------------
     
-    # Massachusetts (ETS)
-    
+    # China national ETS    
+
     ## Jurisdiction
-    usa_ma_ets_jur_I = ["Massachusetts"]
     
+    chn_ets_jur_I = ["China"]
     
     ## Sectors
-    usa_ma_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
+    
+    chn_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
     
     ## scope dictionaries
+    chn_ets_jur_scope = {2021:chn_ets_jur_I}
     
-    usa_ma_ets_jur_scope = {2018:usa_ma_ets_jur_I, 2019:usa_ma_ets_jur_I,
-                              2020:usa_ma_ets_jur_I, 2021:usa_ma_ets_jur_I}
-    
-    usa_ma_ets_ipcc_scope = {2018:usa_ma_ets_ipcc_I, 2019:usa_ma_ets_ipcc_I,
-                               2020:usa_ma_ets_ipcc_I, 2021:usa_ma_ets_ipcc_I}
+    chn_ets_ipcc_scope = {2021:chn_ets_ipcc_I}
     
     ## Sources dictionary
     
-    usa_ma_ets_scope_sources = {2018:"leg(MA[2017])", 2019:"leg(MA[2017])", 
-                                  2020:"leg(MA[2017])", 2021:"leg(MA[2017])"}
-    
+    chn_ets_scope_sources = {2021:"gvt(BJ[2020]), report(ICAP[2021])"}
+
     #----------------------------------------------------------------------------
     
     # Mexico (ETS)
@@ -594,11 +483,181 @@ def scope():
     
     gbr_ets_ipcc_scope = {2021:gbr_ets_ipcc_I}
     
-    
     ## Sources dictionary
     
     gbr_ets_scope_sources = {2021:"leg(UK-SI[2020])"}
+
+
+    #------------------------------------------------------------------------
     
+    # Regional Greenhouse Gas Initiative
+    
+    ## Jurisdictions
+    # initial state scope (2009)
+    usa_rggi_jur_I = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
+                  "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont"]
+    
+    # New Jersey withdrawal (2012)
+    usa_rggi_jur_II = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
+                   "New Hampshire", "New York", "Rhode Island", "Vermont"]
+    
+    # Virginia joins the scheme (2021)
+    usa_rggi_jur_III = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
+                    "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont",
+                    "Virginia"]
+    
+    ## Sectors
+    
+    # scope of the RGGI scheme is limited to IPCC sector 1A1A
+    usa_rggi_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
+    
+    ## scope dictionaries
+    usa_rggi_jur_scope = { 2009:usa_rggi_jur_I, 2010:usa_rggi_jur_I,
+                            2011:usa_rggi_jur_I, 2012:usa_rggi_jur_II,
+                            2013:usa_rggi_jur_II, 2014:usa_rggi_jur_II,
+                            2015:usa_rggi_jur_II, 2016:usa_rggi_jur_II,
+                            2017:usa_rggi_jur_II, 2018:usa_rggi_jur_I,
+                            2019:usa_rggi_jur_I, 2020:usa_rggi_jur_I,
+                            2021:usa_rggi_jur_III}
+    
+    usa_rggi_ipcc_scope = { 2009:usa_rggi_ipcc_I, 2010:usa_rggi_ipcc_I,
+                            2011:usa_rggi_ipcc_I, 2012:usa_rggi_ipcc_I,
+                            2013:usa_rggi_ipcc_I, 2014:usa_rggi_ipcc_I,
+                            2015:usa_rggi_ipcc_I, 2016:usa_rggi_ipcc_I,
+                            2017:usa_rggi_ipcc_I, 2018:usa_rggi_ipcc_I,
+                            2019:usa_rggi_ipcc_I, 2020:usa_rggi_ipcc_I,
+                            2021:usa_rggi_ipcc_I}
+    
+    ## Sources dictionary
+    
+    usa_rggi_scope_sources = {2009:"gvt(RGGI-MOU[2005])", 2010:"gvt(RGGI-MOU[2005])", 
+                                2011:"gvt(RGGI-MOU[2005])", 2012:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2013:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2014:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2015:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2016:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2017:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2018:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2019:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2020:"gvt(RGGI-MOU[2005], NJ[2011])", 
+                                2021:"gvt(RGGI-MOU[2005], NJ[2011])"}
+    
+    #----------------------------------------------------------------------------
+    
+    # California-Quebec-Ontario
+    
+    ## Jurisdictions
+    
+    usa_ca_ets_jur_I = ["California"]
+    usa_ca_ets_jur_II = ["California", "Quebec"]
+    usa_ca_ets_jur_III = ["California", "Quebec", "Ontario"]
+    
+    ## Sectors
+    
+    usa_ca_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
+                        "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
+                        "1A2L", "1A2M", "1A5A", "1C1A", "1C1B",
+                        "2A1", "2A2", "2A3", "2C1", "2C5", "2H1",  
+                        "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
+                        "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
+                        "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
+                        "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
+                        "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
+                        "2G3", "2G4", "2H1", "2H2", "2H3"]
+    
+    usa_ca_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
+                         "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
+                         "1A2L", "1A2M", "1A3B", "1A4A", "1A4B", "1A5A", "1C1A", "1C1B",
+                         "2A1", "2A2", "2A3", "2C1", "2C5", "2H1",  
+                         "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
+                         "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
+                         "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
+                         "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
+                         "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
+                         "2G3", "2G4", "2H1", "2H2", "2H3"]
+    
+    
+    ## scope dictionaries
+    
+    usa_ca_ets_jur_scope = {2013:usa_ca_ets_jur_I, 2014:usa_ca_ets_jur_I, 
+                           2015:usa_ca_ets_jur_II, 2016:usa_ca_ets_jur_II, 
+                           2017:usa_ca_ets_jur_II, 2018:usa_ca_ets_jur_III, 
+                           2019:usa_ca_ets_jur_II, 2020:usa_ca_ets_jur_II, 
+                           2021:usa_ca_ets_jur_II}
+    
+    usa_ca_ets_ipcc_scope = {2013:usa_ca_ets_ipcc_I, 2014:usa_ca_ets_ipcc_I, 
+                           2015:usa_ca_ets_ipcc_II, 2016:usa_ca_ets_ipcc_II, 
+                           2017:usa_ca_ets_ipcc_II, 2018:usa_ca_ets_ipcc_II, 
+                           2019:usa_ca_ets_ipcc_II, 2020:usa_ca_ets_ipcc_II, 
+                           2021:usa_ca_ets_ipcc_II}
+
+    ## Sources dictionary
+    
+    usa_ca_ets_scope_sources = {2012:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2013:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2014:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2015:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2016:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2017:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2018:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2019:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2020:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
+                                  2021:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])"}
+
+    #----------------------------------------------------------------------------
+    
+    # Quebec
+    
+    ## Jurisdiction
+    can_qc_cat_jur_I = ["Quebec"]
+    
+    
+    ## Sectors
+    can_qc_cat_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
+                         "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "2A1", "2A2", "2A3", 
+                         "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
+                         "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
+                         "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
+                         "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
+                         "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
+                         "2G3", "2G4", "2H1", "2H2", "2H3"]
+    
+    ## scope dictionaries
+    
+    can_qc_cat_jur_scope = {2013:can_qc_cat_jur_I, 2014:can_qc_cat_jur_I}
+    
+    can_qc_cat_ipcc_scope = {2013:can_qc_cat_ipcc_I, 2014:can_qc_cat_ipcc_I}
+    
+    ## Sources dictionary
+    
+    can_qc_cat_scope_sources = {2013:"leg(QC[2011], QC[2012], QC[2013])", 
+                                   2014:"leg(QC[2011], QC[2012], QC[2013])"}
+    
+    #----------------------------------------------------------------------------
+    
+    # Massachusetts (ETS)
+    
+    ## Jurisdiction
+    usa_ma_ets_jur_I = ["Massachusetts"]
+    
+    
+    ## Sectors
+    usa_ma_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
+    
+    ## scope dictionaries
+    
+    usa_ma_ets_jur_scope = {2018:usa_ma_ets_jur_I, 2019:usa_ma_ets_jur_I,
+                              2020:usa_ma_ets_jur_I, 2021:usa_ma_ets_jur_I}
+    
+    usa_ma_ets_ipcc_scope = {2018:usa_ma_ets_ipcc_I, 2019:usa_ma_ets_ipcc_I,
+                               2020:usa_ma_ets_ipcc_I, 2021:usa_ma_ets_ipcc_I}
+    
+    ## Sources dictionary
+    
+    usa_ma_ets_scope_sources = {2018:"leg(MA[2017])", 2019:"leg(MA[2017])", 
+                                  2020:"leg(MA[2017])", 2021:"leg(MA[2017])"}
+
     #------------------------------------------------------------------------
     
     # Beijing Municipality
@@ -610,6 +669,12 @@ def scope():
     ## Sectors
     
     chn_bj_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A2B", "1A2C", "1A2D",  
+                         "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",  
+                         "1A2L", "1A2M", "2A1","2B8A", "2B8B", "2B8C", "2B8D", 
+                         "2B8E", "4D1", "4D2"]
+
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_bj_ets_ipcc_II = ["1A2A", "1A2B", "1A2C", "1A2D",  
                          "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",  
                          "1A2L", "1A2M", "2A1","2B8A", "2B8B", "2B8C", "2B8D", 
                          "2B8E", "4D1", "4D2"]
@@ -625,7 +690,7 @@ def scope():
                             2015:chn_bj_ets_ipcc_I, 2016:chn_bj_ets_ipcc_I,
                             2017:chn_bj_ets_ipcc_I, 2018:chn_bj_ets_ipcc_I,
                             2019:chn_bj_ets_ipcc_I, 2020:chn_bj_ets_ipcc_I,
-                            2021:chn_bj_ets_ipcc_I}
+                            2021:chn_bj_ets_ipcc_II}
     
     ## Sources dictionary
     
@@ -649,9 +714,12 @@ def scope():
     chn_cq_ets_jur_I = ["Chongqing Municipality"]
     
     ## Sectors
-    
+
     chn_cq_ets_ipcc_I = ["1A1A1", "1A2A", "2A1", "2B5", "2C1", "2C2", "2C3"]
     
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_cq_ets_ipcc_II = ["1A2A", "2A1", "2B5", "2C1", "2C2", "2C3"]
+
     ## scope dictionaries
     chn_cq_ets_jur_scope = {2014:chn_cq_ets_jur_I,
                            2015:chn_cq_ets_jur_I, 2016:chn_cq_ets_jur_I,
@@ -663,7 +731,7 @@ def scope():
                             2015:chn_cq_ets_ipcc_I, 2016:chn_cq_ets_ipcc_I,
                             2017:chn_cq_ets_ipcc_I, 2018:chn_cq_ets_ipcc_I,
                             2019:chn_cq_ets_ipcc_I, 2020:chn_cq_ets_ipcc_I,
-                            2021:chn_cq_ets_ipcc_I}
+                            2021:chn_cq_ets_ipcc_II}
 
     ## Sources dictionary
     
@@ -688,7 +756,13 @@ def scope():
                      "2B1", "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", 
                      "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", 
                      "2B9B", "2C1", "2C3", "2C4", "2C5","2C6", "2C7", "2H1"]
-    
+
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_fj_ets_ipcc_II = ["1A2A", "1A2B", "1A2D", "1A2K", "1A3A2", "2A4A", 
+                     "2B1", "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", 
+                     "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", 
+                     "2B9B", "2C1", "2C3", "2C4", "2C5","2C6", "2C7", "2H1"]
+
     ## scope dictionaries
     chn_fj_ets_jur_scope = {2016:chn_fj_ets_jur_I,
                            2017:chn_fj_ets_jur_I, 2018:chn_fj_ets_jur_I,
@@ -698,7 +772,7 @@ def scope():
     chn_fj_ets_ipcc_scope = {2016:chn_fj_ets_ipcc_I,
                             2017:chn_fj_ets_ipcc_I, 2018:chn_fj_ets_ipcc_I,
                             2019:chn_fj_ets_ipcc_I, 2020:chn_fj_ets_ipcc_I,
-                            2021:chn_fj_ets_ipcc_I}    
+                            2021:chn_fj_ets_ipcc_II}
     
     ## Sources dictionary
     
@@ -727,7 +801,11 @@ def scope():
     # extension to papermaking and domestic aviation (2016)
     chn_gd_ets_ipcc_II = ["1A1A1", "1A2A", "1A2D", "1A3A2", "2A1", "2B8A", 
                       "2B8B", "2B8C", "2B8D", "2B8E", "2C1", "2H1"]
-    
+
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_gd_ets_ipcc_III = ["1A2A", "1A2D", "1A3A2", "2A1", "2B8A", 
+                            "2B8B", "2B8C", "2B8D", "2B8E", "2C1", "2H1"]
+
     ## scope dictionaries
     chn_gd_ets_jur_scope = {2013:chn_gd_ets_jur_I, 2014:chn_gd_ets_jur_I,
                            2015:chn_gd_ets_jur_I, 2016:chn_gd_ets_jur_I,
@@ -739,7 +817,7 @@ def scope():
                             2015:chn_gd_ets_ipcc_I, 2016:chn_gd_ets_ipcc_II,
                             2017:chn_gd_ets_ipcc_II, 2018:chn_gd_ets_ipcc_II,
                             2019:chn_gd_ets_ipcc_II, 2020:chn_gd_ets_ipcc_II,
-                            2021:chn_gd_ets_ipcc_II}  
+                            2021:chn_gd_ets_ipcc_III}  
 
     ## Sources dictionary
     
@@ -766,18 +844,25 @@ def scope():
     
     # initial scope (2014-2015)
     chn_hb_ets_ipcc_I = ["1A1A1", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2G", 
-                     "1A2L", "2A1", "2A3", "2B1", "2B10", "2B2", "2B3", "2B4", 
-                     "2B5", "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", 
-                     "2B8F", "2B9A", "2B9B", "2C1", "2C3", "2C4", "2C5", "2C6", 
-                     "2C7", "2G1", "2H1", "2H2"]
+                         "1A2L", "2A1", "2A3", "2B1", "2B10", "2B2", "2B3", "2B4", 
+                         "2B5", "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", 
+                         "2B8F", "2B9A", "2B9B", "2C1", "2C3", "2C4", "2C5", "2C6", 
+                         "2C7", "2G1", "2H1", "2H2"]
 
     # extension to new sectors over the threshold (2016)
     chn_hb_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A2B", "1A2C", "1A2D", 
-                      "1A2E", "1A2G", "1A2L", "2A1", "2A3", "2A4A", "2B1", "2B10", 
-                      "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", 
-                      "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", 
-                      "2C3", "2C4", "2C5", "2C6", "2C7", "2G1", "2H1", "2H2"]
-    
+                          "1A2E", "1A2G", "1A2L", "2A1", "2A3", "2A4A", "2B1", "2B10", 
+                          "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", 
+                          "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", 
+                          "2C3", "2C4", "2C5", "2C6", "2C7", "2G1", "2H1", "2H2"]
+
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_hb_ets_ipcc_III = ["1A2A", "1A2B", "1A2C", "1A2D", 
+                          "1A2E", "1A2G", "1A2L", "2A1", "2A3", "2A4A", "2B1", "2B10", 
+                          "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", 
+                          "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", 
+                          "2C3", "2C4", "2C5", "2C6", "2C7", "2G1", "2H1", "2H2"]
+
     ## scope dictionaries
     chn_hb_ets_jur_scope = {2014:chn_hb_ets_jur_I,
                            2015:chn_hb_ets_jur_I, 2016:chn_hb_ets_jur_I,
@@ -789,7 +874,7 @@ def scope():
                             2015:chn_hb_ets_ipcc_I, 2016:chn_hb_ets_ipcc_II,
                             2017:chn_hb_ets_ipcc_II, 2018:chn_hb_ets_ipcc_II,
                             2019:chn_hb_ets_ipcc_II, 2020:chn_hb_ets_ipcc_II,
-                            2021:chn_hb_ets_ipcc_II}  
+                            2021:chn_hb_ets_ipcc_III}  
 
     ## Sources dictionary
     
@@ -826,6 +911,13 @@ def scope():
                          "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", 
                          "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", 
                          "2C3", "2C4", "2C5", "2C6", "2C7", "2H1"]
+
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_sh_ets_ipcc_III = ["1A2A", "1A2B", "1A2C", "1A2D", 
+                          "1A2K", "1A2L", "1A3A2", "1A3C", "1A3D2", "1A4A", "2B1", 
+                          "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", 
+                          "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", 
+                          "2C3", "2C4", "2C5", "2C6", "2C7", "2H1"]
     
     ## scope dictionaries
     chn_sh_ets_jur_scope = {2013:chn_sh_ets_jur_I, 2014:chn_sh_ets_jur_I,
@@ -838,7 +930,7 @@ def scope():
                             2015:chn_sh_ets_ipcc_I, 2016:chn_sh_ets_ipcc_II,
                             2017:chn_sh_ets_ipcc_II, 2018:chn_sh_ets_ipcc_II,
                             2019:chn_sh_ets_ipcc_II, 2020:chn_sh_ets_ipcc_II,
-                            2021:chn_sh_ets_ipcc_II}  
+                            2021:chn_sh_ets_ipcc_III}  
 
     ## Sources dictionary
     
@@ -863,6 +955,12 @@ def scope():
                          "1A2M", "1A3B", "1A3D2", "1B2B", "1B2B1", "1B2B2", "1B2B3", 
                          "1B2B31", "1B2B32", "1B2B33", "1B2B34", "1B2B35", "1B2B36"]
     
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_sz_ets_ipcc_II = ["1A2A", "1A2B", "1A2C", "1A2D", "1A2E", 
+                         "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", 
+                         "1A2M", "1A3B", "1A3D2", "1B2B", "1B2B1", "1B2B2", "1B2B3", 
+                         "1B2B31", "1B2B32", "1B2B33", "1B2B34", "1B2B35", "1B2B36"]
+
     ## scope dictionaries
     chn_sz_ets_jur_scope = {2013:chn_sz_ets_jur_I, 2014:chn_sz_ets_jur_I,
                            2015:chn_sz_ets_jur_I, 2016:chn_sz_ets_jur_I,
@@ -874,7 +972,7 @@ def scope():
                             2015:chn_sz_ets_ipcc_I, 2016:chn_sz_ets_ipcc_I,
                             2017:chn_sz_ets_ipcc_I, 2018:chn_sz_ets_ipcc_I,
                             2019:chn_sz_ets_ipcc_I, 2020:chn_sz_ets_ipcc_I,
-                            2021:chn_sz_ets_ipcc_I}
+                            2021:chn_sz_ets_ipcc_II}
 
     ## Sources dictionary
     
@@ -905,7 +1003,13 @@ def scope():
                           "1A3A2", "1B2A31", "1B2B31", "2B1", "2B10", "2B2", "2B3", 
                           "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D", 
                           "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2H1"]
-    
+
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_tj_ets_ipcc_III = ["1A2A", "1A2C", "1A2D", "1A2K", 
+                          "1A3A2", "1B2A31", "1B2B31", "2B1", "2B10", "2B2", "2B3", 
+                          "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D", 
+                          "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2H1"]
+
     ## scope dictionaries
     chn_tj_ets_jur_scope = {2013:chn_tj_ets_jur_I, 2014:chn_tj_ets_jur_I,
                                2015:chn_tj_ets_jur_I, 2016:chn_tj_ets_jur_I,
@@ -917,7 +1021,7 @@ def scope():
                             2015:chn_tj_ets_ipcc_I, 2016:chn_tj_ets_ipcc_I,
                             2017:chn_tj_ets_ipcc_I, 2018:chn_tj_ets_ipcc_I,
                             2019:chn_tj_ets_ipcc_II, 2020:chn_tj_ets_ipcc_II,
-                            2021:chn_tj_ets_ipcc_II}     
+                            2021:chn_tj_ets_ipcc_III}     
     
     ## Sources dictionary
     
@@ -926,46 +1030,6 @@ def scope():
                                    2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
                                    2019:"report(ICAP[2021])", 2020:"report(ICAP[2021])", 
                                    2021:"report(ICAP[2021])"}
-
-
-    #----------------------------------------------------------------------------
-    
-    # Canada Federal OBPS
-    
-    ## Jurisdiction
-    
-    # initial province scope (2019-2020)
-    can_obps_jur_I = ["Manitoba", "Ontario", "New Brunswick", "Prince Edward Island", "Yukon", "Nunavut"]
-
-    # New Brunswick transitions to its provincial OBPS (2021)
-    can_obps_jur_II = ["Manitoba", "Ontario", "Prince Edward Island", "Yukon", "Nunavut"]
-
-    ## Sectors
-    
-    can_obps_ipcc_I = ["1A1A1", "1A1A2", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", 
-                       "1A2F", "1A2I", "1B1", "1B1A", "1B1A1", "1B1A11", "1B1A12", 
-                       "1B1A13", "1B1A14", "1B1A2", "1B1A21", "1B1A22", "1B1B", 
-                       "1B2", "1B2A", "1B2A1", "1B2A2", "1B2A3", "1B2A31", "1B2A32", 
-                       "1B2A33", "1B2A34", "1B2A35", "1B2A36", "1B2B", "1B2B1", 
-                       "1B2B2", "1B2B3", "1B2B31", "1B2B32", "1B2B33", "1B2B34", 
-                       "1B2B35", "1B2B36", "2A1", "2A2", "2A3", "2A4", "2A4A", 
-                       "2A4B", "2A4C", "2A4D", "2B", "2B1", "2B10", "2B2", "2B3", 
-                       "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", "2B8C", 
-                       "2B8D", "2B8E", "2B8F", "2B9", "2B9A", "2B9B", "2C1", "2C2", 
-                       "2C3", "2C4", "2C5", "2C6", "2C7", "2H1", "2H2"]
-    
-    ## scope dictionaries
-    can_obps_jur_scope = {2019:can_obps_jur_I, 2020:can_obps_jur_I,
-                             2021:can_obps_jur_II}
-    
-    can_obps_ipcc_scope = {2019:can_obps_ipcc_I, 2020:can_obps_ipcc_I,
-                              2021:can_obps_ipcc_I}     
-    
-    ## Sources dictionary
-    
-    can_obps_scope_sources = {2019:"leg(SOR[2019])",
-                                 2020:"leg(SOR[2019])", 2021:"leg(SOR[2019])"}
-
 
     #----------------------------------------------------------------------------
     
@@ -1208,6 +1272,8 @@ def scope():
                               "sectors":mex_ets_ipcc_scope},                        
                     "nzl_ets":{"jurisdictions":nzl_ets_jur_scope, 
                               "sectors":nzl_ets_ipcc_scope}, 
+                    "chn_ets":{"jurisdictions":chn_ets_jur_scope, 
+                              "sectors":chn_ets_ipcc_scope},
                     "chn_bj_ets":{"jurisdictions":chn_bj_ets_jur_scope, 
                               "sectors":chn_bj_ets_ipcc_scope},
                     "chn_cq_ets":{"jurisdictions":chn_cq_ets_jur_scope, 
@@ -1252,6 +1318,7 @@ def scope():
                             "kor_ets":kor_ets_scope_sources,
                             "mex_ets":mex_ets_scope_sources,
                             "nzl_ets":nzl_ets_scope_sources,
+                            "chn_ets":chn_ets_scope_sources,
                             "chn_bj_ets":chn_bj_ets_scope_sources,
                             "chn_cq_ets":chn_cq_ets_scope_sources,
                             "chn_fj_ets":chn_fj_ets_scope_sources,
