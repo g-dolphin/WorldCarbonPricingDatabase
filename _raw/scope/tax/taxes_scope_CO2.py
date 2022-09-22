@@ -163,13 +163,6 @@ def scope():
     ## Fuels
     
     can_bc_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
-    
-    
-    ## Greenhouse gases
-    
-    can_bc_tax_gas_I = ["CO2", "CH4", "N2O"]
-    
-    
 
     ## scope dictionaries
     
@@ -178,21 +171,21 @@ def scope():
                             2014:can_bc_tax_jur_I, 2015:can_bc_tax_jur_I,
                             2016:can_bc_tax_jur_I, 2017:can_bc_tax_jur_I,
                             2018:can_bc_tax_jur_I, 2019:can_bc_tax_jur_I, 
-                            2020:can_bc_tax_jur_I}
+                            2020:can_bc_tax_jur_I, 2021:can_bc_tax_jur_I}
     
     can_bc_tax_ipcc_scope = {2011:can_bc_tax_ipcc_I,
                             2012:can_bc_tax_ipcc_I, 2013:can_bc_tax_ipcc_I,
                             2014:can_bc_tax_ipcc_I, 2015:can_bc_tax_ipcc_I,
                             2016:can_bc_tax_ipcc_I, 2017:can_bc_tax_ipcc_I,
                             2018:can_bc_tax_ipcc_I, 2019:can_bc_tax_ipcc_I, 
-                            2020:can_bc_tax_ipcc_I}
+                            2020:can_bc_tax_ipcc_I, 2021:can_bc_tax_ipcc_I}
     
     can_bc_tax_fuel_scope = {2011:can_bc_tax_fuel_I,
                             2012:can_bc_tax_fuel_I, 2013:can_bc_tax_fuel_I,
                             2014:can_bc_tax_fuel_I, 2015:can_bc_tax_fuel_I,
                             2016:can_bc_tax_fuel_I, 2017:can_bc_tax_fuel_I,
                             2018:can_bc_tax_fuel_I, 2019:can_bc_tax_fuel_I, 
-                            2020:can_bc_tax_fuel_I}
+                            2020:can_bc_tax_fuel_I, 2021:can_bc_tax_fuel_I}
     
     ## Sources dictionary
     
