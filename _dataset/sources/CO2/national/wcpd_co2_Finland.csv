@@ -9555,54 +9555,54 @@ Finland,2021,1A1A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); ye
 Finland,2021,1A1A3,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Finland,2021,1A1A3,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Finland,2021,1A1A3,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A1B,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A1B,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A1B,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A1C,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A1C,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A1C,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A1B,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A1B,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A1B,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A1C,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A1C,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A1C,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Finland,2021,1A2,Coal,NA,NA,NA,NA,NA
 Finland,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Finland,2021,1A2,Oil,NA,NA,NA,NA,NA
-Finland,2021,1A2A,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2A,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2A,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2B,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2B,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2B,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2C,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2C,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2C,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2D,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2D,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2D,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2E,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2E,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2E,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2F,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2F,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2F,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2G,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2G,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2G,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2H,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2H,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2H,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2I,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2I,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2I,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2J,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2J,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2J,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2K,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2K,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2K,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2L,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2L,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2L,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2M,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2M,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A2M,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2A,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2A,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2A,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2B,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2B,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2B,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2C,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2C,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2C,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2D,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2D,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2D,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2E,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2E,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2E,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2F,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2F,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2F,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2G,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2G,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2G,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2H,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2H,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2H,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2I,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2I,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2I,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2J,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2J,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2J,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2K,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2K,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2K,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2L,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2L,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2L,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2M,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2M,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A2M,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Finland,2021,1A3,Coal,NA,NA,NA,NA,NA
 Finland,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 Finland,2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -9612,12 +9612,12 @@ Finland,2021,1A3A,Oil,NA,NA,NA,NA,NA
 Finland,2021,1A3A1,Coal,NA,NA,NA,NA,NA
 Finland,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Finland,2021,1A3A1,Oil,NA,NA,NA,NA,NA
-Finland,2021,1A3A2,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A3A2,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A3A2,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Finland,2021,1A3B,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A3B,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A3B,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
+Finland,2021,1A3A2,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); the carbon tax does not apply to peat,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A3A2,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A3A2,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])","leg(EC[2018], EC[2020])",db(EC-TED[2021]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Finland,2021,1A3B,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); the carbon tax does not apply to peat,NA,NA
+Finland,2021,1A3B,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
+Finland,2021,1A3B,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
 Finland,2021,1A3C,Coal,NA,NA,NA,NA,NA
 Finland,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
 Finland,2021,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9639,21 +9639,21 @@ Finland,2021,1A3E1,Oil,NA,NA,NA,NA,NA
 Finland,2021,1A4,Coal,NA,NA,NA,NA,NA
 Finland,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Finland,2021,1A4,Oil,NA,NA,NA,NA,NA
-Finland,2021,1A4A,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4A,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4A,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4B,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4B,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4B,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
+Finland,2021,1A4A,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); the carbon tax does not apply to peat,NA,NA
+Finland,2021,1A4A,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
+Finland,2021,1A4A,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
+Finland,2021,1A4B,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); the carbon tax does not apply to peat,NA,NA
+Finland,2021,1A4B,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
+Finland,2021,1A4B,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
 Finland,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Finland,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Finland,2021,1A4C,Oil,NA,NA,NA,NA,NA
-Finland,2021,1A4C1,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4C1,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4C1,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4C2,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4C2,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
-Finland,2021,1A4C2,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,; ,NA,NA
+Finland,2021,1A4C1,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); the carbon tax does not apply to peat,NA,NA
+Finland,2021,1A4C1,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
+Finland,2021,1A4C1,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
+Finland,2021,1A4C2,Coal,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); the carbon tax does not apply to peat,NA,NA
+Finland,2021,1A4C2,Natural gas,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
+Finland,2021,1A4C2,Oil,"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",NA,db(EC-TED[2021]); ,NA,NA
 Finland,2021,1A4C3,Coal,NA,NA,NA,NA,NA
 Finland,2021,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Finland,2021,1A4C3,Oil,NA,NA,NA,NA,NA
