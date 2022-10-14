@@ -675,21 +675,21 @@ def scope():
                             2014:irl_tax_jur_I, 2015:irl_tax_jur_I,
                             2016:irl_tax_jur_I, 2017:irl_tax_jur_I,
                             2018:irl_tax_jur_I, 2019:irl_tax_jur_I, 
-                            2020:irl_tax_jur_I}
+                            2020:irl_tax_jur_I, 2021:irl_tax_jur_I}
     
     irl_tax_ipcc_scope = {2010:irl_tax_ipcc_I, 2011:irl_tax_ipcc_I,
                              2012:irl_tax_ipcc_I, 2013:irl_tax_ipcc_I,
                              2014:irl_tax_ipcc_I, 2015:irl_tax_ipcc_I,
                              2016:irl_tax_ipcc_I, 2017:irl_tax_ipcc_I,
                              2018:irl_tax_ipcc_I, 2019:irl_tax_ipcc_I, 
-                             2020:irl_tax_ipcc_I}
+                             2020:irl_tax_ipcc_I, 2021:irl_tax_ipcc_I}
     
     irl_tax_fuel_scope = {2010:irl_tax_fuel_I, 2011:irl_tax_fuel_I,
                              2012:irl_tax_fuel_I, 2013:irl_tax_fuel_II,
                              2014:irl_tax_fuel_II, 2015:irl_tax_fuel_I,
                              2016:irl_tax_fuel_II, 2017:irl_tax_fuel_II,
                              2018:irl_tax_fuel_II, 2019:irl_tax_fuel_II, 
-                             2020:irl_tax_fuel_II}
+                             2020:irl_tax_fuel_II, 2021:irl_tax_fuel_II}
     
     ## Sources dictionary
     
