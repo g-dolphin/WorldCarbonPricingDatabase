@@ -9555,12 +9555,12 @@ Sweden,2021,1A1A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yea
 Sweden,2021,1A1A3,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2021,1A1A3,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2021,1A1A3,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2021,1A1B,Coal,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2021,1A1B,Natural gas,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2021,1A1B,Oil,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2021,1A1C,Coal,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2021,1A1C,Natural gas,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2021,1A1C,Oil,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2021,1A1B,Coal,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2021,1A1B,Natural gas,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2021,1A1B,Oil,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2021,1A1C,Coal,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2021,1A1C,Natural gas,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2021,1A1C,Oil,report(SMF-CT[2011]),"leg(EC[2018], EC[2020])",db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2021,1A2,Coal,NA,NA,NA,NA,NA
 Sweden,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Sweden,2021,1A2,Oil,NA,NA,NA,NA,NA
@@ -9615,9 +9615,9 @@ Sweden,2021,1A3A1,Oil,NA,NA,NA,NA,NA
 Sweden,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2021,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2021,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2021,1A3B,Coal,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A3B,Natural gas,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A3B,Oil,report(SMF-CT[2011]),NA,; ,NA,NA
+Sweden,2021,1A3B,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A3B,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A3B,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
 Sweden,2021,1A3C,Coal,NA,NA,NA,NA,NA
 Sweden,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
 Sweden,2021,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9639,21 +9639,21 @@ Sweden,2021,1A3E1,Oil,NA,NA,NA,NA,NA
 Sweden,2021,1A4,Coal,NA,NA,NA,NA,NA
 Sweden,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Sweden,2021,1A4,Oil,NA,NA,NA,NA,NA
-Sweden,2021,1A4A,Coal,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A4A,Natural gas,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A4A,Oil,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A4B,Coal,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A4B,Natural gas,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A4B,Oil,report(SMF-CT[2011]),NA,; ,NA,NA
+Sweden,2021,1A4A,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A4A,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A4A,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A4B,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A4B,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A4B,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
 Sweden,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Sweden,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Sweden,2021,1A4C,Oil,NA,NA,NA,NA,NA
-Sweden,2021,1A4C1,Coal,report(SMF-CT[2011]),NA,; ,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that natural gas and liquefied petroleum gas are subject to 70% of the base tax rate,NA
-Sweden,2021,1A4C1,Natural gas,report(SMF-CT[2011]),NA,; ,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that natural gas and liquefied petroleum gas are subject to 70% of the base tax rate,NA
-Sweden,2021,1A4C1,Oil,report(SMF-CT[2011]),NA,; ,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that natural gas and liquefied petroleum gas are subject to 70% of the base tax rate,NA
-Sweden,2021,1A4C2,Coal,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A4C2,Natural gas,report(SMF-CT[2011]),NA,; ,NA,NA
-Sweden,2021,1A4C2,Oil,report(SMF-CT[2011]),NA,; ,NA,NA
+Sweden,2021,1A4C1,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that natural gas and liquefied petroleum gas are subject to 70% of the base tax rate,NA
+Sweden,2021,1A4C1,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that natural gas and liquefied petroleum gas are subject to 70% of the base tax rate,NA
+Sweden,2021,1A4C1,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,leg(SLO-CO2[1998]); art. 4 of the legislation stipulates that natural gas and liquefied petroleum gas are subject to 70% of the base tax rate,NA
+Sweden,2021,1A4C2,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A4C2,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2021,1A4C2,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
 Sweden,2021,1A4C3,Coal,NA,NA,NA,NA,NA
 Sweden,2021,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Sweden,2021,1A4C3,Oil,NA,NA,NA,NA,NA

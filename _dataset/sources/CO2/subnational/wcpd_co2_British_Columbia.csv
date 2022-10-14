@@ -9546,63 +9546,63 @@ British Columbia,2021,1A1,Oil,NA,NA,NA,NA,NA
 British Columbia,2021,1A1A,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A1A,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A1,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A1,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A1,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A2,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A2,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A2,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A3,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A3,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A1A3,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A1B,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A1B,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A1B,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A1C,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A1C,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A1C,Oil,NA,NA,NA,NA,NA
+British Columbia,2021,1A1A1,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1A1,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1A1,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1A2,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1A2,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1A2,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1A3,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1A3,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1A3,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1B,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1B,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1B,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1C,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1C,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A1C,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
 British Columbia,2021,1A2,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A2,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2A,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2A,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2A,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2B,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2B,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2B,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2C,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2C,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2C,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2D,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2D,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2D,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2E,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2E,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2E,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2F,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2F,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2F,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2G,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2G,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2G,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2H,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2H,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2H,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2I,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2I,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2I,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2J,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2J,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2J,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2K,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2K,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2K,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2L,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2L,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2L,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A2M,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A2M,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A2M,Oil,NA,NA,NA,NA,NA
+British Columbia,2021,1A2A,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2A,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2A,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2B,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2B,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2B,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2C,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2C,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2C,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2D,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2D,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2D,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2E,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2E,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2E,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2F,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2F,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2F,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2G,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2G,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2G,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2H,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2H,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2H,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2I,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2I,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2I,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2J,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2J,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2J,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2K,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2K,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2K,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2L,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2L,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2L,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2M,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2M,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A2M,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
 British Columbia,2021,1A3,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -9612,63 +9612,63 @@ British Columbia,2021,1A3A,Oil,NA,NA,NA,NA,NA
 British Columbia,2021,1A3A1,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A3A1,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A3A2,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A3A2,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A3A2,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A3B,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A3B,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A3B,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A3C,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A3C,Oil,NA,NA,NA,NA,NA
+British Columbia,2021,1A3A2,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3A2,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3A2,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3B,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3B,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3B,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3C,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3C,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3C,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
 British Columbia,2021,1A3D,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A3D,Oil,NA,NA,NA,NA,NA
 British Columbia,2021,1A3D1,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A3D1,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A3D1,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A3D2,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A3D2,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A3D2,Oil,NA,NA,NA,NA,NA
+British Columbia,2021,1A3D2,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3D2,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3D2,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
 British Columbia,2021,1A3E,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A3E,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A3E1,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A3E1,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A3E1,Oil,NA,NA,NA,NA,NA
+British Columbia,2021,1A3E1,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3E1,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A3E1,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
 British Columbia,2021,1A4,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A4,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A4A,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A4A,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A4A,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A4B,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A4B,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A4B,Oil,NA,NA,NA,NA,NA
+British Columbia,2021,1A4A,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4A,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4A,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4B,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4B,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4B,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
 British Columbia,2021,1A4C,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A4C,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A4C1,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A4C1,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A4C1,Oil,NA,NA,NA,report(WB[2014]),NA
-British Columbia,2021,1A4C2,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A4C2,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A4C2,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A4C3,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A4C3,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A4C3,Oil,NA,NA,NA,NA,NA
+British Columbia,2021,1A4C1,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4C1,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4C1,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,report(WB[2014]),NA
+British Columbia,2021,1A4C2,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4C2,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4C2,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4C3,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4C3,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A4C3,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
 British Columbia,2021,1A5,Coal,NA,NA,NA,NA,NA
 British Columbia,2021,1A5,Natural gas,NA,NA,NA,NA,NA
 British Columbia,2021,1A5,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A5A,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A5A,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A5A,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A5B,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A5B,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A5B,Oil,NA,NA,NA,NA,NA
-British Columbia,2021,1A5C,Coal,NA,NA,NA,NA,NA
-British Columbia,2021,1A5C,Natural gas,NA,NA,NA,NA,NA
-British Columbia,2021,1A5C,Oil,NA,NA,NA,NA,NA
+British Columbia,2021,1A5A,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A5A,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A5A,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A5B,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A5B,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A5B,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A5C,Coal,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A5C,Natural gas,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
+British Columbia,2021,1A5C,Oil,"leg(BC-CTA[2008]), gvt(BCGOV[2021])",NA,gvt(ECCC[2021]); ,NA,NA
 British Columbia,2021,1B,NA,NA,NA,NA,NA,NA
 British Columbia,2021,1B1,NA,NA,NA,NA,NA,NA
 British Columbia,2021,1B1A,NA,NA,NA,NA,NA,NA

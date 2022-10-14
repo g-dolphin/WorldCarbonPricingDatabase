@@ -70,7 +70,7 @@ def prices_df(path_prices):
                            delimiter=";", encoding= 'latin-1', header=2, 
                            low_memory=False)
     
-    icap_raw.drop([0], axis=0, inplace=True)
+    icap_raw.drop([0,1], axis=0, inplace=True)
     
     icap_raw.rename(columns={"Unnamed: 0":"Date"}, inplace=True)
     
@@ -89,12 +89,11 @@ def prices_df(path_prices):
     
     ## drop unnecessary columns
     
-    drop_list = ['New ETS 4', 'New ETS 5', 
-                 'New ETS 6', 'New ETS 7', 'New ETS 8', 'New ETS 9', 'New ETS 10', 
+    drop_list = ['New ETS 5', 'New ETS 6', 'New ETS 7', 
+                 'New ETS 8', 'New ETS 9', 'New ETS 10', 
                  'Chinese Pilots', 'Kazakhstan']
     
     icap_raw.drop(drop_list, axis=1, inplace=True)
-    icap_raw.drop([1], axis=0, inplace=True)
     
     ## rename columns
     icap_raw.rename(columns={"QuÃ©bec":"Quebec", "South Korea":"Korea, Rep.",
@@ -115,9 +114,9 @@ def prices_df(path_prices):
         
     icap_raw_average = icap_raw.groupby(by="year").mean()
     
-    ## replace column names with scheme identifiers
+    ## replace column names with carbon pricing scheme identifiers
     
-    name_id_dic = {'European Union':"eu_ets", 'New Zealand':"nzl_ets", 
+    name_id_dic = {'European Union':"eu_ets", 'New Zealand':"nzl_ets", "Germany":"deu_ets",
                    'RGGI':"usa_rggi", "United Kingdom":"gbr_ets", "China":"chn_ets",
                    'California':"usa_ca_ets", 'Quebec':"can_qc_cat", 
                    'Switzerland':"che_ets", 'Korea, Rep.':"kor_ets",
@@ -130,7 +129,7 @@ def prices_df(path_prices):
     icap_raw_average = icap_raw_average.reset_index()
     
     icap_raw_average = icap_raw_average.drop(["usa_rggi", "can_on_ets", "che_ets", 
-                            "usa_ca_ets", "can_qc_cat", "can_ns_ets"], axis=1)
+                                              "usa_ca_ets", "can_qc_cat", "can_ns_ets"], axis=1)
     
     ## add currency codes
     icap_raw_average = icap_raw_average.melt(id_vars=["year"])
@@ -139,7 +138,7 @@ def prices_df(path_prices):
     icap_raw_average["currency_code"] = ""
     
     curr_codes = {"eu_ets":"EUR", "nzl_ets":"NZD", "kor_ets":"KRW",
-                  "gbr_ets":"GBP", 'chn_ets':'CNY',
+                  "gbr_ets":"GBP", 'chn_ets':'CNY', "deu_ets":"EUR",
                   "chn_sz_ets":"CNY", "chn_sh_ets":"CNY", "chn_bj_ets":"CNY", 
                   'chn_gd_ets':"CNY", 'chn_tj_ets':"CNY", 'chn_hb_ets':"CNY",
                   'chn_cq_ets':"CNY", 'chn_fj_ets':"CNY"}
