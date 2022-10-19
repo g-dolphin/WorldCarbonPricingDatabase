@@ -13,7 +13,7 @@ def scope():
     
     arg_tax_jur_I = ["Argentina"]
 
-    ## Sectors
+    ## IPCC categories
     
     arg_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
                       "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
@@ -52,7 +52,7 @@ def scope():
     
     aus_tax_jur_I = ["Australia"]
 
-    ## Sectors
+    ## IPCC categories
     
     aus_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A2B", "1A2C",
                       "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
@@ -87,7 +87,7 @@ def scope():
     
     chl_tax_jur_I = ["Chile"]
 
-    ## Sectors
+    ## IPCC categories
     
     chl_tax_ipcc_I = ["1A1A1", "1A2A",
                       "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
@@ -124,7 +124,7 @@ def scope():
     
     mex_bc_tax_jur_I = ["Baja California"]
 
-    ## Sectors
+    ## IPCC categories
     
     mex_bc_tax_ipcc_I = []
     
@@ -151,7 +151,7 @@ def scope():
     
     can_bc_tax_jur_I = ["British Columbia"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     can_bc_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
@@ -209,7 +209,7 @@ def scope():
     
     col_tax_jur_I = ["Colombia"]
 
-    ## Sectors
+    ## IPCC categories
     
     col_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A2A",
                       "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
@@ -249,7 +249,7 @@ def scope():
     
     dnk_tax_jur_I = ["Denmark"]
     
-    ## Sectors
+    ## IPCC categories
     dnk_tax_ipcc_I = ["1A1A1", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
                         "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
                         "1A2K", "1A2L", "1A2M", "1A3B", "1A4A", "1A4B",
@@ -356,7 +356,7 @@ def scope():
     
     est_tax_jur_I = ["Estonia"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     est_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", 
@@ -435,7 +435,7 @@ def scope():
     
     fin_tax_jur_I = ["Finland"]
     
-    ## Sectors
+    ## IPCC categories
     fin_tax_ipcc_I = ["1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
                       "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
                       "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B",
@@ -549,7 +549,7 @@ def scope():
     
     fra_tax_jur_I = ["France"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     fra_tax_ipcc_I = ["1A1B", "1A1C",
@@ -599,7 +599,7 @@ def scope():
     
     isl_tax_jur_I = ["Iceland"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     isl_tax_ipcc_I = ["1A1B", "1A1C", "1A3B", "1A4A", "1A4B", 
@@ -657,7 +657,7 @@ def scope():
     
     irl_tax_jur_I = ["Ireland"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     irl_tax_ipcc_I = ["1A3A2", "1A3B", "1A3D1", 
@@ -708,7 +708,7 @@ def scope():
     
     jpn_tax_jur_I = ["Japan"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     jpn_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3",
@@ -761,7 +761,7 @@ def scope():
     
     lva_tax_jur_I = ["Latvia"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     lva_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", 
@@ -824,7 +824,7 @@ def scope():
     
     lie_tax_jur_I = ["Liechtenstein"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     lie_tax_ipcc_I = ["1A1A2", "1A1A3", "1A4B"]
@@ -884,7 +884,7 @@ def scope():
     
     lux_tax_jur_I = ["Luxembourg"]
 
-    ## Sectors
+    ## IPCC categories
     
     lux_tax_ipcc_I = ["1A1B", "1A1C", "1A3A1", "1A3A2",
                       "1A3B", "1A3C", "1A3D1", "1A3D2",
@@ -913,7 +913,7 @@ def scope():
     
     mex_tax_jur_I = ["Mexico"]
 
-    ## Sectors
+    ## IPCC categories
     
     mex_tax_ipcc_I = ["1A1A1", "1A1B", "1A1C", 
                       "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
@@ -956,7 +956,7 @@ def scope():
     
     nld_tax_jur_I = ["Netherlands"]
 
-    ## Sectors
+    ## IPCC categories
     
     nld_tax_ipcc_I = ["1A1B", "1A1C", "1A2A", "1A2B", "1A2C", "1A2D",
                       "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
@@ -985,7 +985,7 @@ def scope():
     
     nld_tax_II_jur_I = ["Netherlands"]
 
-    ## Sectors
+    ## IPCC categories
     
     nld_tax_II_ipcc_I = ["1A1A", "1A1A1", "1A1A2",
                          "1A1A3"]
@@ -1014,7 +1014,7 @@ def scope():
     nor_tax_I_jur_I = ["Norway"]
     nor_tax_II_jur_I = ["Norway"]
     
-    ## Sectors
+    ## IPCC categories
     nor_tax_I_ipcc_I = ["1A1A1", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
                         "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
                         "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B", "1A4A", "1A4B",
@@ -1184,7 +1184,7 @@ def scope():
     
     pol_tax_jur_I = ["Poland"]
     
-    ## Sectors
+    ## IPCC categories
     pol_tax_ipcc_I = ["1A1A1", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", 
                       "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M"]
     
@@ -1293,7 +1293,7 @@ def scope():
     
     prt_tax_jur_I = ["Portugal"]
 
-    ## Sectors
+    ## IPCC categories
     
     prt_tax_ipcc_I = ["1A1A2", "1A1A3", "1A1B", "1A1C",
                       "1A3A1", "1A3B", "1A4A", "1A4B", "1A4C1", "1A4C2"]
@@ -1339,7 +1339,7 @@ def scope():
     sgp_tax_jur_I = ["Singapore"]
     
     
-    ## Sectors
+    ## IPCC categories
     
     sgp_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
                      "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
@@ -1374,7 +1374,7 @@ def scope():
     
     slo_tax_jur_I = ["Slovenia"]
     
-    ## Sectors
+    ## IPCC categories
     slo_tax_ipcc_I = ["1A1A2", "1A1A3", "1A1B", "1A1C", 
                       "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
                       "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", 
@@ -1458,7 +1458,7 @@ def scope():
     zaf_tax_jur_I = ["South Africa"]
     
     
-    ## Sectors
+    ## IPCC categories
     
     zaf_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
                       "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
@@ -1505,7 +1505,7 @@ def scope():
     
     swe_tax_jur_I = ["Sweden"]
     
-    ## Sectors
+    ## IPCC categories
     swe_tax_ipcc_I = ["1A1B", "1A1C", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E",
                       "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", "1A2L",
                       "1A2M", "1A3B", "1A4A", "1A4B", "1A4C1", "1A4C2"]
@@ -1598,7 +1598,7 @@ def scope():
     
     che_tax_jur_I = ["Switzerland"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     che_tax_ipcc_I = ["1A1A2", "1A1A3", "1A4B"]
@@ -1658,7 +1658,7 @@ def scope():
     
     mex_tm_tax_jur_I = ["Tamaulipas"]
 
-    ## Sectors
+    ## IPCC categories
     
     mex_tm_tax_ipcc_I = []
     
@@ -1685,7 +1685,7 @@ def scope():
     
     ukr_tax_jur_I = ["Ukraine"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     ukr_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
@@ -1749,7 +1749,7 @@ def scope():
     
     gbr_tax_jur_I = ["United Kingdom"]
 
-    ## Sectors
+    ## IPCC categories
     
     # initial scope
     gbr_tax_ipcc_I = ["1A1A1", "1A1A2"]
@@ -1801,24 +1801,33 @@ def scope():
     
     mex_bc_tax_jur_I = ["Baja California"]
 
-    ## Sectors
+    ## IPCC categories
     
-    mex_bc_tax_ipcc_I = []
+    mex_bc_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
+                         "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
+                         "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", 
+                         "2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C", "2A4D",
+                         "2B1", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A",
+                         "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B",
+                         "2B10", "2C1","2C2","2C3", "2C4", "2C5","2C6", "2C7",
+                         "2D1", "2D2", "2D3","2D4", "20", "200", "2000", "20000",
+                         "200000", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                         "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
     
     ## Fuels
     
-    mex_bc_tax_fuel_I = []
+    mex_bc_tax_fuel_I = ["Coal", "Natural gas", "Oil"]
 
     ## scope dictionaries
-    mex_bc_tax_jur_scope = {} #2017:
+    mex_bc_tax_jur_scope = {2020: mex_bc_tax_jur_I, 2021: mex_bc_tax_jur_I}
     
-    mex_bc_tax_ipcc_scope = {} #2017:    
+    mex_bc_tax_ipcc_scope = {2020: mex_bc_tax_ipcc_I, 2021: mex_bc_tax_ipcc_I}  
 
-    mex_bc_tax_fuel_scope = {} #2017:
+    mex_bc_tax_fuel_scope = {2020: mex_bc_tax_fuel_I, 2021: mex_bc_tax_fuel_I}
     
     ## Sources dictionary
     
-    mex_bc_tax_scope_sources = {} #2017:
+    mex_bc_tax_scope_sources = {2020:" ", 2021:" "}
 
     #----------------------------------------------------------------------------
 
@@ -1828,24 +1837,33 @@ def scope():
     
     mex_tm_tax_jur_I = ["Tamaulipas"]
 
-    ## Sectors
+    ## IPCC categories
     
-    mex_tm_tax_ipcc_I = []
-    
+    mex_tm_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
+                         "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
+                         "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", 
+                         "2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C", "2A4D",
+                         "2B1", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A",
+                         "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B",
+                         "2B10", "2C1","2C2","2C3", "2C4", "2C5","2C6", "2C7",
+                         "2D1", "2D2", "2D3","2D4", "20", "200", "2000", "20000",
+                         "200000", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                         "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
+
     ## Fuels
     
-    mex_tm_tax_fuel_I = []
+    mex_tm_tax_fuel_I = ["Coal", "Natural gas", "Oil"]
 
     ## scope dictionaries
-    mex_tm_tax_jur_scope = {} #2017:
+    mex_tm_tax_jur_scope = {2021: mex_tm_tax_jur_I}
     
-    mex_tm_tax_ipcc_scope = {} #2017:    
+    mex_tm_tax_ipcc_scope = {2021: mex_tm_tax_ipcc_I}  
 
-    mex_tm_tax_fuel_scope = {} #2017:
+    mex_tm_tax_fuel_scope = {2021: mex_tm_tax_fuel_I}
     
     ## Sources dictionary
     
-    mex_tm_tax_scope_sources = {} #2017: 
+    mex_tm_tax_scope_sources = {2021:" "} 
 
     #----------------------------------------------------------------------------
 
@@ -1855,24 +1873,33 @@ def scope():
     
     mex_za_tax_jur_I = ["Zacatecas"]
 
-    ## Sectors
+    ## IPCC categories
     
-    mex_za_tax_ipcc_I = []
+    mex_za_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
+                         "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
+                         "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", 
+                         "2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C", "2A4D",
+                         "2B1", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A",
+                         "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B",
+                         "2B10", "2C1","2C2","2C3", "2C4", "2C5","2C6", "2C7",
+                         "2D1", "2D2", "2D3","2D4", "20", "200", "2000", "20000",
+                         "200000", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                         "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
     
     ## Fuels
     
-    mex_za_tax_fuel_I = []
+    mex_za_tax_fuel_I = ["Coal", "Natural gas", "Oil"]
 
     ## scope dictionaries
-    mex_za_tax_jur_scope = {} #2017:
+    mex_za_tax_jur_scope = {2020: mex_za_tax_jur_I, 2021: mex_za_tax_jur_I}
     
-    mex_za_tax_ipcc_scope = {} #2017:    
+    mex_za_tax_ipcc_scope = {2020: mex_za_tax_ipcc_I, 2021: mex_za_tax_ipcc_I}  
 
-    mex_za_tax_fuel_scope = {} #2017:
+    mex_za_tax_fuel_scope = {2020: mex_za_tax_fuel_I, 2021: mex_za_tax_fuel_I}
     
     ## Sources dictionary
     
-    mex_za_tax_scope_sources = {} #2017:
+    mex_za_tax_scope_sources = {2020:" ", 2021:" "}
 
     #----------------------------------------------------------------------------
     
@@ -1886,7 +1913,7 @@ def scope():
     # New Brunswick opts out and Alberta joins in (2020-2021)
     can_tax_I_jur_II = ["Manitoba", "Ontario", "Saskatchewan", "Alberta"]
 
-    ## Sectors
+    ## IPCC categories
     
     can_tax_I_ipcc_I = ["1A1A3", "1A1B", "1A1C", "1A2G", "1A2H", "1A2J", "1A2K", 
                        "1A2L", "1A2M", "1A3A2", "1A3B", "1A3C", "1A3D1", 
@@ -1921,7 +1948,7 @@ def scope():
     
     can_tax_II_jur_I = ["Yukon", "Nunavut"]
 
-    ## Sectors
+    ## IPCC categories
     
     # excluding aviation fuels
     can_tax_II_ipcc_I = ["1A1A3", "1A1B", "1A1C", "1A2G", "1A2H", "1A2J", "1A2K", 
@@ -1956,7 +1983,7 @@ def scope():
     
     can_ab_tax_jur_I = ["Alberta"]
 
-    ## Sectors (2017-2019)
+    ## IPCC categories (2017-2019)
     
     can_ab_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A2B", "1A2C", "1A2D", 
                          "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", 
@@ -1993,7 +2020,7 @@ def scope():
     
     can_nb_tax_jur_I = ["New Brunswick"]
 
-    ## Sectors (2020-2021)
+    ## IPCC categories (2020-2021)
     
     can_nb_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A3B", "1A3C", 
                          "1A3D1", "1A3D2", "1A3E1", "1A4A", "1A4B", 
@@ -2024,7 +2051,7 @@ def scope():
     
     can_pe_tax_jur_I = ["Prince Edward Island"]
 
-    ## Sectors
+    ## IPCC categories
     
     can_pe_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
                          "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
@@ -2061,7 +2088,7 @@ def scope():
     
     can_nl_tax_jur_I = ["Newfoundland and Labrador"]
 
-    ## Sectors
+    ## IPCC categories
     
     can_nl_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
                          "1A2C", "1A2D", "1A2E", "1A2F", "1A2H", "1A2J", "1A2K", 
@@ -2096,7 +2123,7 @@ def scope():
     
     can_nt_tax_jur_I = ["Northwest Territories"]
 
-    ## Sectors
+    ## IPCC categories
     
     can_nt_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
                          "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 

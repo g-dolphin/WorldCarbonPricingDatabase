@@ -27,7 +27,7 @@ Created on Tue Jul 20 11:55:02 2021
 
 def scope():
     
-    # EU ETS
+    # European Union ETS (eu_ets)
     
     ## Jurisdictions
     
@@ -67,7 +67,7 @@ def scope():
                      "Slovenia", "Spain", "Sweden"]
     
     
-    ## Sectors
+    ## IPCC categories
     
     # initial sectoral scope 
     eu_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
@@ -125,7 +125,7 @@ def scope():
 
     #----------------------------------------------------------------------------
     
-    # Canada Federal OBPS
+    # Canada Federal OBPS (can_ets)
     
     ## Jurisdiction
     
@@ -135,7 +135,7 @@ def scope():
     # New Brunswick transitions to its provincial OBPS (2021)
     can_obps_jur_II = ["Manitoba", "Ontario", "Prince Edward Island", "Yukon", "Nunavut"]
 
-    ## Sectors
+    ## IPCC categories
     
     can_obps_ipcc_I = ["1A1A1", "1A1A2", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", 
                        "1A2F", "1A2I", "1B1", "1B1A", "1B1A1", "1B1A11", "1B1A12", 
@@ -163,13 +163,13 @@ def scope():
 
     #----------------------------------------------------------------------------
     
-    # China national ETS    
+    # China national ETS (chn_ets)
 
     ## Jurisdiction
     
     chn_ets_jur_I = ["China"]
     
-    ## Sectors
+    ## IPCC categories
     
     chn_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
     
@@ -183,14 +183,36 @@ def scope():
     chn_ets_scope_sources = {2021:"gvt(BJ[2020]), report(ICAP[2021])"}
 
     #----------------------------------------------------------------------------
+
+    # German ETS (deu_ets)
+
+    # Jurisdiction
+    deu_ets_jur_I = ["Germany"]
+
+    # IPCC categories - covering categories not covered by the EU ETS
+    deu_ets_ipcc_I = ["1A3B", "1A3C", "1A3D2", "1A3E1",  
+                      "1A4A", "1A4B", "1A4C1", "1A4C2", "1A4C3",
+                      "1A5A", "1A5B"]
+
+    ## scope dictionaries
     
-    # Mexico (ETS)
+    deu_ets_jur_scope = {2021:deu_ets_jur_I}
+    
+    deu_ets_ipcc_scope = {2021:deu_ets_ipcc_I}
+    
+    ## Sources dictionary
+    
+    deu_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])"}
+
+    #----------------------------------------------------------------------------
+    
+    # Mexico ETS (mex_ets)
     
     ## Jurisdiction
     mex_ets_jur_I = ["Mexico"]
     
     
-    ## Sectors
+    ## IPCC categories
     mex_ets_ipcc_I = ["1A1A1", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C", "1A2D",
                       "1A2E", "1A2G", "1A2I",  "1B1A11", "1B1A12", "1B1A13", 
                       "1B1A14", "1B1A21", "1B1A22", "1B1B", "1B2A1", "1B2A2", 
@@ -219,7 +241,7 @@ def scope():
     
     nzl_ets_jur_I = ["New Zealand"]
     
-    ## Sectors
+    ## IPCC categories
     
     # initial scope (2008)
     nzl_ets_ipcc_I = ["3B1A", "3B1B"]
@@ -291,7 +313,7 @@ def scope():
     
     che_ets_jur_I = ["Switzerland"]
     
-    ## Sectors (source: CO2 Ordinance)
+    ## IPCC categories (source: CO2 Ordinance)
     che_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
                       "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
                       "1A2J", "1A2K", "1A2L", "1A2M",
@@ -342,7 +364,7 @@ def scope():
     
     kaz_ets_jur_I = ["Kazakhstan"]
     
-    ## Sectors
+    ## IPCC categories
     
     # initial scope (2013-2015)
     kaz_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A2A", "1A2B", "1A2C", 
@@ -397,7 +419,7 @@ def scope():
     
     kor_ets_jur_I = ["Korea, Rep."]
     
-    ## Sectors
+    ## IPCC categories
     
     # initial scope (2015)
     kor_ets_ipcc_I = ["1A1A1", "1A2A", "1A1B",
@@ -465,7 +487,7 @@ def scope():
     gbr_ets_jur_I = ["United Kingdom"]
  
     
-    ## Sectors
+    ## IPCC categories
     
     # extension to domestic aviation and other industrial (processes) emissions (2012)
     gbr_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
@@ -506,7 +528,7 @@ def scope():
                     "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont",
                     "Virginia"]
     
-    ## Sectors
+    ## IPCC categories
     
     # scope of the RGGI scheme is limited to IPCC sector 1A1A
     usa_rggi_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
@@ -552,7 +574,7 @@ def scope():
     usa_ca_ets_jur_II = ["California", "Quebec"]
     usa_ca_ets_jur_III = ["California", "Quebec", "Ontario"]
     
-    ## Sectors
+    ## IPCC categories
     
     usa_ca_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
                         "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
@@ -612,7 +634,7 @@ def scope():
     can_qc_cat_jur_I = ["Quebec"]
     
     
-    ## Sectors
+    ## IPCC categories
     can_qc_cat_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
                          "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
                          "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "2A1", "2A2", "2A3", 
@@ -642,7 +664,7 @@ def scope():
     usa_ma_ets_jur_I = ["Massachusetts"]
     
     
-    ## Sectors
+    ## IPCC categories
     usa_ma_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
     
     ## scope dictionaries
@@ -666,7 +688,7 @@ def scope():
     
     chn_bj_ets_jur_I = ["Beijing Municipality"]
     
-    ## Sectors
+    ## IPCC categories
     
     chn_bj_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A2B", "1A2C", "1A2D",  
                          "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",  
@@ -713,7 +735,7 @@ def scope():
     
     chn_cq_ets_jur_I = ["Chongqing Municipality"]
     
-    ## Sectors
+    ## IPCC categories
 
     chn_cq_ets_ipcc_I = ["1A1A1", "1A2A", "2A1", "2B5", "2C1", "2C2", "2C3"]
     
@@ -750,7 +772,7 @@ def scope():
     
     chn_fj_ets_jur_I = ["Fujian Province"]
     
-    ## Sectors
+    ## IPCC categories
     
     chn_fj_ets_ipcc_I = ["1A1A1", "1A2A", "1A2B", "1A2D", "1A2K", "1A3A2", "2A4A", 
                      "2B1", "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", 
@@ -792,7 +814,7 @@ def scope():
     
     chn_gd_ets_jur_I = ["Guangdong Province"]
     
-    ## Sectors
+    ## IPCC categories
     
     # initial scope (2013-2015)
     chn_gd_ets_ipcc_I = ["1A1A1", "1A2A", "2A1", "2B8A", "2B8B", "2B8C", "2B8D", 
@@ -840,7 +862,7 @@ def scope():
     
     chn_hb_ets_jur_I = ["Hubei Province"]
     
-    ## Sectors
+    ## IPCC categories
     
     # initial scope (2014-2015)
     chn_hb_ets_ipcc_I = ["1A1A1", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2G", 
@@ -849,7 +871,7 @@ def scope():
                          "2B8F", "2B9A", "2B9B", "2C1", "2C3", "2C4", "2C5", "2C6", 
                          "2C7", "2G1", "2H1", "2H2"]
 
-    # extension to new sectors over the threshold (2016)
+    # extension to new IPCC categories over the threshold (2016)
     chn_hb_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A2B", "1A2C", "1A2D", 
                           "1A2E", "1A2G", "1A2L", "2A1", "2A3", "2A4A", "2B1", "2B10", 
                           "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", 
@@ -896,7 +918,7 @@ def scope():
     
     chn_sh_ets_jur_I = ["Shanghai Municipality"]
     
-    ## Sectors
+    ## IPCC categories
     
     # initial scope (2013-2015)
     chn_sh_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A2B", "1A2C", "1A2D", 
@@ -948,7 +970,7 @@ def scope():
     
     chn_sz_ets_jur_I = ["Shenzhen"]
     
-    ## Sectors
+    ## IPCC categories
     
     chn_sz_ets_ipcc_I = ["1A1A1", "1A1A2", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", 
                          "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", 
@@ -991,7 +1013,7 @@ def scope():
     
     chn_tj_ets_jur_I = ["Tianjin Municipality"]
     
-    ## Sectors
+    ## IPCC categories
     
     # initial scope (2013-2018)
     chn_tj_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A2C", "1B2A31", "1B2B31", 
@@ -1039,7 +1061,7 @@ def scope():
     
     can_ab_ets_jur_I = ["Alberta"]
 
-    ## Sectors
+    ## IPCC categories
 
     # SGER (2007-2017)   
     can_ab_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1B", "1A2C", "1A2E", "1A4C1", "1B1A", 
@@ -1137,7 +1159,7 @@ def scope():
     
     can_sk_ets_jur_I = ["Saskatchewan"]
 
-    ## Sectors
+    ## IPCC categories
 
     # Provincial OBPS for industrial emitters and federal OBPS for electricity  
     # and transmission sectors
@@ -1178,7 +1200,7 @@ def scope():
     
     can_nb_ets_jur_I = ["New Brunswick"]
 
-    ## Sectors 
+    ## IPCC categories 
 
     # Provincial OBPS (2021)
     can_nb_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1B", "1A2B", "1A2D", "1A2E", 
@@ -1202,7 +1224,7 @@ def scope():
     
     can_ns_ets_jur_I = ["Nova Scotia"]
 
-    ## Sectors
+    ## IPCC categories
 
     # Provincial OBPS for industrial emitters and federal OBPS for electricity  
     # and transmission sectors
@@ -1234,7 +1256,7 @@ def scope():
     
     can_nl_ets_jur_I = ["Newfoundland and Labrador"]
 
-    ## Sectors
+    ## IPCC categories
 
     # Provincial OBPS for industrial emitters and federal OBPS for electricity  
     # and transmission sectors
@@ -1261,7 +1283,9 @@ def scope():
     ets_scope = {"eu_ets":{"jurisdictions":eu_ets_jur_scope, 
                                   "sectors":eu_ets_ipcc_scope}, 
                     "che_ets":{"jurisdictions":che_ets_jur_scope, 
-                              "sectors":che_ets_ipcc_scope}, 
+                              "sectors":che_ets_ipcc_scope},
+                    "deu_ets":{"jurisdictions":deu_ets_jur_scope, 
+                              "sectors":deu_ets_ipcc_scope}, 
                     "gbr_ets":{"jurisdictions":gbr_ets_jur_scope, 
                               "sectors":gbr_ets_ipcc_scope},                               
                     "kaz_ets":{"jurisdictions":kaz_ets_jur_scope, 
@@ -1313,6 +1337,7 @@ def scope():
 
     ets_scope_sources = {"eu_ets":eu_ets_scope_sources,
                             "che_ets":che_ets_scope_sources,
+                            "deu_ets":deu_ets_scope_sources,
                             "gbr_ets":gbr_ets_scope_sources,
                             "kaz_ets":kaz_ets_scope_sources,
                             "kor_ets":kor_ets_scope_sources,
