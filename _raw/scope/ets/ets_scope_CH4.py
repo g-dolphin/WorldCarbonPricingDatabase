@@ -317,8 +317,6 @@ def scope():
 
     ## Sectors
 
-    # Provincial OBPS for industrial emitters and federal OBPS for electricity  
-    # and transmission sectors
     can_ab_ets_ipcc_I = []
     
     ## scope dictionaries
@@ -374,6 +372,8 @@ def scope():
                             "sectors":kor_ets_ipcc_scope},
                  "nzl_ets":{"jurisdictions":nzl_ets_jur_scope, 
                             "sectors":nzl_ets_ipcc_scope},
+                 "can_ab_ets":{"jurisdictions":can_ab_ets_jur_scope,
+                               "sectors":can_ab_ets_ipcc_scope},
                  "can_ns_ets":{"jurisdictions":can_ns_ets_jur_scope, 
                                "sectors":can_ns_ets_ipcc_scope},
                  "chn_cq_ets":{"jurisdictions":chn_cq_ets_jur_scope, 
@@ -384,6 +384,7 @@ def scope():
     ets_scope_sources = {"che_ets":che_ets_scope_sources,
                          "kor_ets":kor_ets_scope_sources,
                          "nzl_ets":nzl_ets_scope_sources,
+                         "can_ab_ets":can_ab_ets_scope_sources,
                          "can_ns_ets":can_ns_ets_scope_sources,
                          "usa_ca_ets":usa_ca_ets_scope_sources,
                          "chn_cq_ets":chn_cq_ets_scope_sources}
