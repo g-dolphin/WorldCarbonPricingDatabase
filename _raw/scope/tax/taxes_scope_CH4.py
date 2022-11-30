@@ -36,10 +36,10 @@ def scope():
 
     ## scope dictionaries
     sgp_tax_jur_scope = {2019:sgp_tax_jur_I, 
-                            2020:sgp_tax_jur_I, 2021:sgp_tax_jur_I}
+                         2020:sgp_tax_jur_I, 2021:sgp_tax_jur_I}
     
     sgp_tax_ipcc_scope = {2019:sgp_tax_ipcc_I, 
-                             2020:sgp_tax_ipcc_I, 2021:sgp_tax_ipcc_I}    
+                          2020:sgp_tax_ipcc_I, 2021:sgp_tax_ipcc_I}    
 
     sgp_tax_fuel_scope = {2019:sgp_tax_fuel_I, 
                              2020:sgp_tax_fuel_I, 2021:sgp_tax_fuel_I}     
@@ -47,8 +47,8 @@ def scope():
     ## Sources dictionary
     
     sgp_tax_scope_sources = {2019:"", 
-                                2020:"",
-                                2021:""}
+                             2020:"",
+                             2021:""}
 
     #----------------------------------------------------------------------------
 

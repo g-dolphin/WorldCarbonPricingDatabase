@@ -250,8 +250,14 @@ def scope():
     
     che_ets_jur_I = ["Switzerland"]
     
-    ## Sectors (source: CO2 Ordinance)
-    che_ets_ipcc_I = []
+    ## Sectors 
+    che_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
+                      "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
+                      "1A2J", "1A2K", "1A2L", "1A2M",
+                      "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", "2B4",
+                      "2B7", "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F",
+                      "2C1", "2C2", "2C3", "2C4", 
+                      "2C5", "2C6", "2C7", "2H1"]
     
     ## scope dictionaries
     che_ets_jur_scope = {2008:che_ets_jur_I,
@@ -274,18 +280,18 @@ def scope():
     
     ## Sources dictionary
     
-    che_ets_scope_sources = {2008:, 2009:,
-                               2010:, 2011:, 
-                               2012:, 
-                               2013:, 
-                               2014:,
-                               2015:, 
-                               2016:, 
-                               2017:, 
-                               2018:, 
-                               2019:,
-                               2020:, 
-                               2021:}
+    che_ets_scope_sources = {2008:"gvt(CH[2009])", 2009:"gvt(CH[2009])",
+                               2010:"gvt(CH[2009])", 2011:"gvt(CH[2009])", 
+                               2012:"gvt(CH[2009])", 
+                               2013:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
+                               2014:"leg(CHE-CO2[2012],CHE-FARC[2013])",
+                               2015:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
+                               2016:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
+                               2017:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
+                               2018:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
+                               2019:"leg(CHE-CO2[2012],CHE-FARC[2013])",
+                               2020:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
+                               2021:"leg(CHE-CO2[2020],CHE-FARC[2013])"}
 
     #----------------------------------------------------------------------------
     
@@ -293,24 +299,22 @@ def scope():
     
     ## Jurisdiction
     
-    can_ab_ets_jur_I = ["Nova Scotia"]
+    can_ab_ets_jur_I = ["Alberta"]
 
     ## Sectors
 
-    # Provincial OBPS for industrial emitters and federal OBPS for electricity  
-    # and transmission sectors
     can_ab_ets_ipcc_I = []
     
     ## scope dictionaries
     can_ab_ets_jur_scope = {2019:can_ab_ets_jur_I, 2020:can_ab_ets_jur_I,
                                2021:can_ab_ets_jur_I}
     
-    can_ns_ets_ipcc_scope = {2019:can_ab_ets_ipcc_I, 2020:can_ab_ets_ipcc_I,
+    can_ab_ets_ipcc_scope = {2019:can_ab_ets_ipcc_I, 2020:can_ab_ets_ipcc_I,
                                 2021:can_ab_ets_ipcc_I}     
     
     ## Sources dictionary
     
-    can_ns_ets_scope_sources = {2019:, 2020:,
+    can_ab_ets_scope_sources = {2019:, 2020:,
                                    2021:}  
 
    #----------------------------------------------------------------------------
@@ -325,7 +329,12 @@ def scope():
 
     # Provincial OBPS for industrial emitters and federal OBPS for electricity  
     # and transmission sectors
-    can_ns_ets_ipcc_I = []
+    can_ns_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
+                         "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "1B2A", "1B2A1", 
+                         "1B2A2", "1B2A3", "1B2A31", "1B2A32", "1B2A33", "1B2A34", 
+                         "1B2A35", "1B2A36", "1B2B", "1B2B1", "1B2B2", "1B2B3", 
+                         "1B2B31", "1B2B32", "1B2B33", "1B2B34", "1B2B35", "1B2B36"]
     
     ## scope dictionaries
     can_ns_ets_jur_scope = {2019:can_ns_ets_jur_I, 2020:can_ns_ets_jur_I,
@@ -336,20 +345,12 @@ def scope():
     
     ## Sources dictionary
     
-    can_ns_ets_scope_sources = {2019:, 2020:,
-                                   2021:}  
+    can_ns_ets_scope_sources = {2019:"gvt(ECCC[2021])", 2020:"gvt(ECCC[2021])",
+                                   2021:"gvt(ECCC[2021])"}     
 
     #-------------------------------------------------------------------------
     
     # California CaT
-    
-    ## Jurisdictions
-    
-    # initial country scope (2005)
-    usa_ca_ets_jur_I = []
-    
-    
-    ## Sectors
     
     ## Jurisdictions
     
@@ -412,7 +413,10 @@ def scope():
     
     ## Sectors
     
-    chn_cq_ets_ipcc_I = []
+    chn_cq_ets_ipcc_I = ["1A1A1", "1A2A", "2A1", "2B5", "2C1", "2C2", "2C3"]
+    
+    # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
+    chn_cq_ets_ipcc_II = ["1A2A", "2A1", "2B5", "2C1", "2C2", "2C3"]
     
     ## scope dictionaries
     chn_cq_ets_jur_scope = {2014:chn_cq_ets_jur_I,
@@ -425,15 +429,15 @@ def scope():
                             2015:chn_cq_ets_ipcc_I, 2016:chn_cq_ets_ipcc_I,
                             2017:chn_cq_ets_ipcc_I, 2018:chn_cq_ets_ipcc_I,
                             2019:chn_cq_ets_ipcc_I, 2020:chn_cq_ets_ipcc_I,
-                            2021:chn_cq_ets_ipcc_I}
+                            2021:chn_cq_ets_ipcc_II}
 
     ## Sources dictionary
     
     chn_cq_ets_scope_sources = {2014:,
-                                   2015:, 2016:, 
-                                   2017:, 2018:, 
-                                   2019:,
-                                   2020:, 2021:}
+                                2015:, 2016:, 
+                                2017:, 2018:, 
+                                2019:,
+                                2020:, 2021:}
 
     #------------------------------All schemes dictionaries--------------------------------#
     
@@ -449,6 +453,8 @@ def scope():
                             "sectors":che_ets_ipcc_scope},
                  "can_ns_ets":{"jurisdictions":can_ns_ets_jur_scope, 
                                 "sectors":can_ns_ets_ipcc_scope},
+                 "can_ab_ets":{"jurisdiction":can_ab_ets_jur_scope,
+                               "sectors":can_ab_ets_ipcc_scope},
                  "chn_cq_ets":{"jurisdictions":chn_cq_ets_jur_scope, 
                                 "sectors":chn_cq_ets_ipcc_scope},
                  "usa_ca_ets":{"jurisdictions":usa_ca_ets_jur_scope, 
@@ -459,8 +465,10 @@ def scope():
                          "kor_ets":kor_ets_scope_sources,
                          "nzl_ets":nzl_ets_scope_sources,
                          "che_ets":che_ets_scope_sources,
-                         "can_ns_ets":che_ets_scope_sources,
-                         "usa_ca_ets":usa_ca_ets_scope_sources}
+                         "can_ns_ets":can_ns_ets_scope_sources,
+                         "can_ab_ets":can_ab_ets_scope_sources,
+                         "usa_ca_ets":usa_ca_ets_scope_sources,
+                         "chn_cq_ets":chn_cq_ets_scope_sources}
     
     data_and_sources = {"data":ets_scope, "sources":ets_scope_sources}
     
