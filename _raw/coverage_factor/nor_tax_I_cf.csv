@@ -3807,7 +3807,7 @@ nor_tax_I,Norway,2009,1A3,NA,,
 nor_tax_I,Norway,2009,1A3A,NA,,
 nor_tax_I,Norway,2009,1A3A1,NA,,
 nor_tax_I,Norway,2009,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2009,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2009,1A3B,1,,
 nor_tax_I,Norway,2009,1A3C,NA,,
 nor_tax_I,Norway,2009,1A3D,NA,,
 nor_tax_I,Norway,2009,1A3D1,NA,,
@@ -3815,11 +3815,11 @@ nor_tax_I,Norway,2009,1A3D2,NA,,
 nor_tax_I,Norway,2009,1A3E,NA,,
 nor_tax_I,Norway,2009,1A3E1,NA,,
 nor_tax_I,Norway,2009,1A4,NA,,
-nor_tax_I,Norway,2009,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2009,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2009,1A4A,1,,
+nor_tax_I,Norway,2009,1A4B,1,,
 nor_tax_I,Norway,2009,1A4C,NA,,
 nor_tax_I,Norway,2009,1A4C1,NA,,
-nor_tax_I,Norway,2009,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2009,1A4C2,1,,
 nor_tax_I,Norway,2009,1A4C3,NA,,
 nor_tax_I,Norway,2009,1A5,NA,,
 nor_tax_I,Norway,2009,1A5A,NA,,
@@ -4017,7 +4017,7 @@ nor_tax_I,Norway,2010,1A3,NA,,
 nor_tax_I,Norway,2010,1A3A,NA,,
 nor_tax_I,Norway,2010,1A3A1,NA,,
 nor_tax_I,Norway,2010,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2010,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2010,1A3B,1,,
 nor_tax_I,Norway,2010,1A3C,NA,,
 nor_tax_I,Norway,2010,1A3D,NA,,
 nor_tax_I,Norway,2010,1A3D1,NA,,
@@ -4025,11 +4025,11 @@ nor_tax_I,Norway,2010,1A3D2,NA,,
 nor_tax_I,Norway,2010,1A3E,NA,,
 nor_tax_I,Norway,2010,1A3E1,NA,,
 nor_tax_I,Norway,2010,1A4,NA,,
-nor_tax_I,Norway,2010,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2010,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2010,1A4A,1,,
+nor_tax_I,Norway,2010,1A4B,1,,
 nor_tax_I,Norway,2010,1A4C,NA,,
 nor_tax_I,Norway,2010,1A4C1,NA,,
-nor_tax_I,Norway,2010,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2010,1A4C2,1,,
 nor_tax_I,Norway,2010,1A4C3,NA,,
 nor_tax_I,Norway,2010,1A5,NA,,
 nor_tax_I,Norway,2010,1A5A,NA,,
@@ -4227,7 +4227,7 @@ nor_tax_I,Norway,2011,1A3,NA,,
 nor_tax_I,Norway,2011,1A3A,NA,,
 nor_tax_I,Norway,2011,1A3A1,NA,,
 nor_tax_I,Norway,2011,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2011,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2011,1A3B,1,,
 nor_tax_I,Norway,2011,1A3C,NA,,
 nor_tax_I,Norway,2011,1A3D,NA,,
 nor_tax_I,Norway,2011,1A3D1,NA,,
@@ -4235,11 +4235,11 @@ nor_tax_I,Norway,2011,1A3D2,NA,,
 nor_tax_I,Norway,2011,1A3E,NA,,
 nor_tax_I,Norway,2011,1A3E1,NA,,
 nor_tax_I,Norway,2011,1A4,NA,,
-nor_tax_I,Norway,2011,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2011,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2011,1A4A,1,,
+nor_tax_I,Norway,2011,1A4B,1,,
 nor_tax_I,Norway,2011,1A4C,NA,,
 nor_tax_I,Norway,2011,1A4C1,NA,,
-nor_tax_I,Norway,2011,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2011,1A4C2,1,,
 nor_tax_I,Norway,2011,1A4C3,NA,,
 nor_tax_I,Norway,2011,1A5,NA,,
 nor_tax_I,Norway,2011,1A5A,NA,,
@@ -4437,7 +4437,7 @@ nor_tax_I,Norway,2012,1A3,NA,,
 nor_tax_I,Norway,2012,1A3A,NA,,
 nor_tax_I,Norway,2012,1A3A1,NA,,
 nor_tax_I,Norway,2012,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2012,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2012,1A3B,1,,
 nor_tax_I,Norway,2012,1A3C,NA,,
 nor_tax_I,Norway,2012,1A3D,NA,,
 nor_tax_I,Norway,2012,1A3D1,NA,,
@@ -4445,11 +4445,11 @@ nor_tax_I,Norway,2012,1A3D2,NA,,
 nor_tax_I,Norway,2012,1A3E,NA,,
 nor_tax_I,Norway,2012,1A3E1,NA,,
 nor_tax_I,Norway,2012,1A4,NA,,
-nor_tax_I,Norway,2012,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2012,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2012,1A4A,1,,
+nor_tax_I,Norway,2012,1A4B,1,,
 nor_tax_I,Norway,2012,1A4C,NA,,
 nor_tax_I,Norway,2012,1A4C1,NA,,
-nor_tax_I,Norway,2012,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2012,1A4C2,1,,
 nor_tax_I,Norway,2012,1A4C3,NA,,
 nor_tax_I,Norway,2012,1A5,NA,,
 nor_tax_I,Norway,2012,1A5A,NA,,
@@ -4647,7 +4647,7 @@ nor_tax_I,Norway,2013,1A3,NA,,
 nor_tax_I,Norway,2013,1A3A,NA,,
 nor_tax_I,Norway,2013,1A3A1,NA,,
 nor_tax_I,Norway,2013,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2013,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2013,1A3B,1,,
 nor_tax_I,Norway,2013,1A3C,NA,,
 nor_tax_I,Norway,2013,1A3D,NA,,
 nor_tax_I,Norway,2013,1A3D1,NA,,
@@ -4655,11 +4655,11 @@ nor_tax_I,Norway,2013,1A3D2,NA,,
 nor_tax_I,Norway,2013,1A3E,NA,,
 nor_tax_I,Norway,2013,1A3E1,NA,,
 nor_tax_I,Norway,2013,1A4,NA,,
-nor_tax_I,Norway,2013,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2013,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2013,1A4A,1,,
+nor_tax_I,Norway,2013,1A4B,1,,
 nor_tax_I,Norway,2013,1A4C,NA,,
 nor_tax_I,Norway,2013,1A4C1,NA,,
-nor_tax_I,Norway,2013,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2013,1A4C2,1,,
 nor_tax_I,Norway,2013,1A4C3,NA,,
 nor_tax_I,Norway,2013,1A5,NA,,
 nor_tax_I,Norway,2013,1A5A,NA,,
@@ -4857,7 +4857,7 @@ nor_tax_I,Norway,2014,1A3,NA,,
 nor_tax_I,Norway,2014,1A3A,NA,,
 nor_tax_I,Norway,2014,1A3A1,NA,,
 nor_tax_I,Norway,2014,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2014,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2014,1A3B,1,,
 nor_tax_I,Norway,2014,1A3C,NA,,
 nor_tax_I,Norway,2014,1A3D,NA,,
 nor_tax_I,Norway,2014,1A3D1,NA,,
@@ -4865,11 +4865,11 @@ nor_tax_I,Norway,2014,1A3D2,NA,,
 nor_tax_I,Norway,2014,1A3E,NA,,
 nor_tax_I,Norway,2014,1A3E1,NA,,
 nor_tax_I,Norway,2014,1A4,NA,,
-nor_tax_I,Norway,2014,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2014,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2014,1A4A,1,,
+nor_tax_I,Norway,2014,1A4B,1,,
 nor_tax_I,Norway,2014,1A4C,NA,,
 nor_tax_I,Norway,2014,1A4C1,NA,,
-nor_tax_I,Norway,2014,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2014,1A4C2,1,,
 nor_tax_I,Norway,2014,1A4C3,NA,,
 nor_tax_I,Norway,2014,1A5,NA,,
 nor_tax_I,Norway,2014,1A5A,NA,,
@@ -5067,7 +5067,7 @@ nor_tax_I,Norway,2015,1A3,NA,,
 nor_tax_I,Norway,2015,1A3A,NA,,
 nor_tax_I,Norway,2015,1A3A1,NA,,
 nor_tax_I,Norway,2015,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2015,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2015,1A3B,1,,
 nor_tax_I,Norway,2015,1A3C,NA,,
 nor_tax_I,Norway,2015,1A3D,NA,,
 nor_tax_I,Norway,2015,1A3D1,NA,,
@@ -5075,11 +5075,11 @@ nor_tax_I,Norway,2015,1A3D2,NA,,
 nor_tax_I,Norway,2015,1A3E,NA,,
 nor_tax_I,Norway,2015,1A3E1,NA,,
 nor_tax_I,Norway,2015,1A4,NA,,
-nor_tax_I,Norway,2015,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2015,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2015,1A4A,1,,
+nor_tax_I,Norway,2015,1A4B,1,,
 nor_tax_I,Norway,2015,1A4C,NA,,
 nor_tax_I,Norway,2015,1A4C1,NA,,
-nor_tax_I,Norway,2015,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2015,1A4C2,1,,
 nor_tax_I,Norway,2015,1A4C3,NA,,
 nor_tax_I,Norway,2015,1A5,NA,,
 nor_tax_I,Norway,2015,1A5A,NA,,
@@ -5277,7 +5277,7 @@ nor_tax_I,Norway,2016,1A3,NA,,
 nor_tax_I,Norway,2016,1A3A,NA,,
 nor_tax_I,Norway,2016,1A3A1,NA,,
 nor_tax_I,Norway,2016,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2016,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2016,1A3B,1,,
 nor_tax_I,Norway,2016,1A3C,NA,,
 nor_tax_I,Norway,2016,1A3D,NA,,
 nor_tax_I,Norway,2016,1A3D1,NA,,
@@ -5285,11 +5285,11 @@ nor_tax_I,Norway,2016,1A3D2,NA,,
 nor_tax_I,Norway,2016,1A3E,NA,,
 nor_tax_I,Norway,2016,1A3E1,NA,,
 nor_tax_I,Norway,2016,1A4,NA,,
-nor_tax_I,Norway,2016,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2016,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2016,1A4A,1,,
+nor_tax_I,Norway,2016,1A4B,1,,
 nor_tax_I,Norway,2016,1A4C,NA,,
 nor_tax_I,Norway,2016,1A4C1,NA,,
-nor_tax_I,Norway,2016,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2016,1A4C2,1,,
 nor_tax_I,Norway,2016,1A4C3,NA,,
 nor_tax_I,Norway,2016,1A5,NA,,
 nor_tax_I,Norway,2016,1A5A,NA,,
@@ -5487,7 +5487,7 @@ nor_tax_I,Norway,2017,1A3,NA,,
 nor_tax_I,Norway,2017,1A3A,NA,,
 nor_tax_I,Norway,2017,1A3A1,NA,,
 nor_tax_I,Norway,2017,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2017,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2017,1A3B,1,,
 nor_tax_I,Norway,2017,1A3C,NA,,
 nor_tax_I,Norway,2017,1A3D,NA,,
 nor_tax_I,Norway,2017,1A3D1,NA,,
@@ -5495,11 +5495,11 @@ nor_tax_I,Norway,2017,1A3D2,NA,,
 nor_tax_I,Norway,2017,1A3E,NA,,
 nor_tax_I,Norway,2017,1A3E1,NA,,
 nor_tax_I,Norway,2017,1A4,NA,,
-nor_tax_I,Norway,2017,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2017,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2017,1A4A,1,,
+nor_tax_I,Norway,2017,1A4B,1,,
 nor_tax_I,Norway,2017,1A4C,NA,,
 nor_tax_I,Norway,2017,1A4C1,NA,,
-nor_tax_I,Norway,2017,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2017,1A4C2,1,,
 nor_tax_I,Norway,2017,1A4C3,NA,,
 nor_tax_I,Norway,2017,1A5,NA,,
 nor_tax_I,Norway,2017,1A5A,NA,,
@@ -5697,7 +5697,7 @@ nor_tax_I,Norway,2018,1A3,NA,,
 nor_tax_I,Norway,2018,1A3A,NA,,
 nor_tax_I,Norway,2018,1A3A1,NA,,
 nor_tax_I,Norway,2018,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2018,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2018,1A3B,1,,
 nor_tax_I,Norway,2018,1A3C,NA,,
 nor_tax_I,Norway,2018,1A3D,NA,,
 nor_tax_I,Norway,2018,1A3D1,NA,,
@@ -5705,11 +5705,11 @@ nor_tax_I,Norway,2018,1A3D2,NA,,
 nor_tax_I,Norway,2018,1A3E,NA,,
 nor_tax_I,Norway,2018,1A3E1,NA,,
 nor_tax_I,Norway,2018,1A4,NA,,
-nor_tax_I,Norway,2018,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2018,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2018,1A4A,1,,
+nor_tax_I,Norway,2018,1A4B,1,,
 nor_tax_I,Norway,2018,1A4C,NA,,
 nor_tax_I,Norway,2018,1A4C1,NA,,
-nor_tax_I,Norway,2018,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2018,1A4C2,1,,
 nor_tax_I,Norway,2018,1A4C3,NA,,
 nor_tax_I,Norway,2018,1A5,NA,,
 nor_tax_I,Norway,2018,1A5A,NA,,
@@ -5907,7 +5907,7 @@ nor_tax_I,Norway,2019,1A3,NA,,
 nor_tax_I,Norway,2019,1A3A,NA,,
 nor_tax_I,Norway,2019,1A3A1,NA,,
 nor_tax_I,Norway,2019,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2019,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2019,1A3B,1,,
 nor_tax_I,Norway,2019,1A3C,NA,,
 nor_tax_I,Norway,2019,1A3D,NA,,
 nor_tax_I,Norway,2019,1A3D1,NA,,
@@ -5915,11 +5915,11 @@ nor_tax_I,Norway,2019,1A3D2,NA,,
 nor_tax_I,Norway,2019,1A3E,NA,,
 nor_tax_I,Norway,2019,1A3E1,NA,,
 nor_tax_I,Norway,2019,1A4,NA,,
-nor_tax_I,Norway,2019,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2019,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2019,1A4A,1,,
+nor_tax_I,Norway,2019,1A4B,1,,
 nor_tax_I,Norway,2019,1A4C,NA,,
 nor_tax_I,Norway,2019,1A4C1,NA,,
-nor_tax_I,Norway,2019,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2019,1A4C2,1,,
 nor_tax_I,Norway,2019,1A4C3,NA,,
 nor_tax_I,Norway,2019,1A5,NA,,
 nor_tax_I,Norway,2019,1A5A,NA,,
@@ -6117,7 +6117,7 @@ nor_tax_I,Norway,2020,1A3,NA,,
 nor_tax_I,Norway,2020,1A3A,NA,,
 nor_tax_I,Norway,2020,1A3A1,NA,,
 nor_tax_I,Norway,2020,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2020,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2020,1A3B,1,,
 nor_tax_I,Norway,2020,1A3C,NA,,
 nor_tax_I,Norway,2020,1A3D,NA,,
 nor_tax_I,Norway,2020,1A3D1,NA,,
@@ -6125,11 +6125,11 @@ nor_tax_I,Norway,2020,1A3D2,NA,,
 nor_tax_I,Norway,2020,1A3E,NA,,
 nor_tax_I,Norway,2020,1A3E1,NA,,
 nor_tax_I,Norway,2020,1A4,NA,,
-nor_tax_I,Norway,2020,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2020,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2020,1A4A,1,,
+nor_tax_I,Norway,2020,1A4B,1,,
 nor_tax_I,Norway,2020,1A4C,NA,,
 nor_tax_I,Norway,2020,1A4C1,NA,,
-nor_tax_I,Norway,2020,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2020,1A4C2,1,,
 nor_tax_I,Norway,2020,1A4C3,NA,,
 nor_tax_I,Norway,2020,1A5,NA,,
 nor_tax_I,Norway,2020,1A5A,NA,,
@@ -6327,7 +6327,7 @@ nor_tax_I,Norway,2021,1A3,NA,,
 nor_tax_I,Norway,2021,1A3A,NA,,
 nor_tax_I,Norway,2021,1A3A1,NA,,
 nor_tax_I,Norway,2021,1A3A2,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2021,1A3B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2021,1A3B,1,,
 nor_tax_I,Norway,2021,1A3C,NA,,
 nor_tax_I,Norway,2021,1A3D,NA,,
 nor_tax_I,Norway,2021,1A3D1,NA,,
@@ -6335,11 +6335,11 @@ nor_tax_I,Norway,2021,1A3D2,NA,,
 nor_tax_I,Norway,2021,1A3E,NA,,
 nor_tax_I,Norway,2021,1A3E1,NA,,
 nor_tax_I,Norway,2021,1A4,NA,,
-nor_tax_I,Norway,2021,1A4A,0.1,,EU ETS covered entities are exempt from the tax
-nor_tax_I,Norway,2021,1A4B,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2021,1A4A,1,,
+nor_tax_I,Norway,2021,1A4B,1,,
 nor_tax_I,Norway,2021,1A4C,NA,,
 nor_tax_I,Norway,2021,1A4C1,NA,,
-nor_tax_I,Norway,2021,1A4C2,0.1,,EU ETS covered entities are exempt from the tax
+nor_tax_I,Norway,2021,1A4C2,1,,
 nor_tax_I,Norway,2021,1A4C3,NA,,
 nor_tax_I,Norway,2021,1A5,NA,,
 nor_tax_I,Norway,2021,1A5A,NA,,
