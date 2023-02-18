@@ -2,3 +2,4 @@ scheme_id,year,allowance_weighted_price,currency_code,source,comment
 can_nb_ets,2019,20,CAD,"gvt(ECCC[2020]), report(IETA[2020])",the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 can_nb_ets,2020,30,CAD,"gvt(ECCC[2020]), report(IETA[2020])",the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 can_nb_ets,2021,40,CAD,web(OSLER[2021]),the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+can_nb_ets,2022,50,CAD,,
