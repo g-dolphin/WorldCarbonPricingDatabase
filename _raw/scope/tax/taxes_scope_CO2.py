@@ -166,40 +166,46 @@ def scope():
 
     ## scope dictionaries
     
-    can_bc_tax_jur_scope = {2011:can_bc_tax_jur_I,
+    can_bc_tax_jur_scope = {2008:can_bc_tax_jur_I, 2009:can_bc_tax_jur_I,
+                            2010:can_bc_tax_jur_I, 2011:can_bc_tax_jur_I,
                             2012:can_bc_tax_jur_I, 2013:can_bc_tax_jur_I,
                             2014:can_bc_tax_jur_I, 2015:can_bc_tax_jur_I,
                             2016:can_bc_tax_jur_I, 2017:can_bc_tax_jur_I,
                             2018:can_bc_tax_jur_I, 2019:can_bc_tax_jur_I, 
                             2020:can_bc_tax_jur_I, 2021:can_bc_tax_jur_I}
     
-    can_bc_tax_ipcc_scope = {2011:can_bc_tax_ipcc_I,
-                            2012:can_bc_tax_ipcc_I, 2013:can_bc_tax_ipcc_I,
-                            2014:can_bc_tax_ipcc_I, 2015:can_bc_tax_ipcc_I,
-                            2016:can_bc_tax_ipcc_I, 2017:can_bc_tax_ipcc_I,
-                            2018:can_bc_tax_ipcc_I, 2019:can_bc_tax_ipcc_I, 
-                            2020:can_bc_tax_ipcc_I, 2021:can_bc_tax_ipcc_I}
+    can_bc_tax_ipcc_scope = {2008:can_bc_tax_ipcc_I, 2009:can_bc_tax_ipcc_I,
+                             2010:can_bc_tax_ipcc_I, 2011:can_bc_tax_ipcc_I,
+                             2012:can_bc_tax_ipcc_I, 2013:can_bc_tax_ipcc_I,
+                             2014:can_bc_tax_ipcc_I, 2015:can_bc_tax_ipcc_I,
+                             2016:can_bc_tax_ipcc_I, 2017:can_bc_tax_ipcc_I,
+                             2018:can_bc_tax_ipcc_I, 2019:can_bc_tax_ipcc_I, 
+                             2020:can_bc_tax_ipcc_I, 2021:can_bc_tax_ipcc_I}
     
-    can_bc_tax_fuel_scope = {2011:can_bc_tax_fuel_I,
-                            2012:can_bc_tax_fuel_I, 2013:can_bc_tax_fuel_I,
-                            2014:can_bc_tax_fuel_I, 2015:can_bc_tax_fuel_I,
-                            2016:can_bc_tax_fuel_I, 2017:can_bc_tax_fuel_I,
-                            2018:can_bc_tax_fuel_I, 2019:can_bc_tax_fuel_I, 
-                            2020:can_bc_tax_fuel_I, 2021:can_bc_tax_fuel_I}
+    can_bc_tax_fuel_scope = {2008:can_bc_tax_fuel_I, 2009:can_bc_tax_fuel_I,
+                             2010:can_bc_tax_fuel_I, 2011:can_bc_tax_fuel_I,
+                             2012:can_bc_tax_fuel_I, 2013:can_bc_tax_fuel_I,
+                             2014:can_bc_tax_fuel_I, 2015:can_bc_tax_fuel_I,
+                             2016:can_bc_tax_fuel_I, 2017:can_bc_tax_fuel_I,
+                             2018:can_bc_tax_fuel_I, 2019:can_bc_tax_fuel_I, 
+                             2020:can_bc_tax_fuel_I, 2021:can_bc_tax_fuel_I}
     
     ## Sources dictionary
     
-    can_bc_tax_scope_sources = {2011:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                   2012:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                   2013:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                   2014:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                   2015:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                   2016:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                   2017:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                   2018:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                   2019:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                   2020:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                   2021:"leg(BC-CTA[2008]), gvt(BCGOV[2021])"}
+    can_bc_tax_scope_sources = {2008:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
+                                2009:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
+                                2010:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
+                                2011:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
+                                2012:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
+                                2013:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
+                                2014:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
+                                2015:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
+                                2016:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
+                                2017:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
+                                2018:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
+                                2019:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
+                                2020:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
+                                2021:"leg(BC-CTA[2008]), gvt(BCGOV[2021])"}
 
     #----------------------------------------------------------------------------
 
