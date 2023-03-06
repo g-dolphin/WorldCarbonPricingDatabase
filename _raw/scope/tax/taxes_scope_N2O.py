@@ -62,11 +62,22 @@ def scope():
 
     ## Sectors
     
-    mex_tm_tax_ipcc_I = []
+    mex_tm_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
+                         "1A2A", "1A2B", "1A2C", "1A2D", "1A2E",
+                         "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
+                         "1A2K", "1A2L", "1A2M",  
+                         "2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C",
+                         "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5", 
+                         "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D",
+                         "2B8E", "2B8F", "2B9A", "2B9B", "2B10", "2C1",
+                         "2C2", "2C3", "2C4", "2C5", "2C6", "2C7", "2D1",
+                         "2D2", "2D3", "2D4", "2E1", "2E2", "2E3", "2E4",
+                         "2E5", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                         "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
  
     ## Sectors
     
-    mex_tm_tax_fuel_I = []
+    mex_tm_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## scope dictionaries
     mex_tm_tax_jur_scope = {2019:mex_tm_tax_jur_I, 
@@ -94,11 +105,22 @@ def scope():
 
     ## Sectors
     
-    mex_za_tax_ipcc_I = []
+    mex_za_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
+                         "1A2A", "1A2B", "1A2C", "1A2D", "1A2E",
+                         "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
+                         "1A2K", "1A2L", "1A2M",  
+                         "2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C",
+                         "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5", 
+                         "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D",
+                         "2B8E", "2B8F", "2B9A", "2B9B", "2B10", "2C1",
+                         "2C2", "2C3", "2C4", "2C5", "2C6", "2C7", "2D1",
+                         "2D2", "2D3", "2D4", "2E1", "2E2", "2E3", "2E4",
+                         "2E5", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                         "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
 
     ## Fuels
     
-    mex_za_tax_fuel_I = []
+    mex_za_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## scope dictionaries
     mex_za_tax_jur_scope = {2019:mex_za_tax_jur_I, 

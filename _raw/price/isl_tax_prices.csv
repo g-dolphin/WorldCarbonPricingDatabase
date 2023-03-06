@@ -35,3 +35,5 @@ isl_tax,2018,CO2,Natural gas,3500,ISK,report(WB[2018]),Rate converted back from 
 isl_tax,2019,CO2,Natural gas,3850,ISK,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018])",10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.
 isl_tax,2020,CO2,Natural gas,4235,ISK,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018])",10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.
 isl_tax,2021,CO2,Natural gas,,ISK,,
+isl_tax,2020,F-GASES,NA,1250,ISK,gvt(ISL[2022]),
+isl_tax,2021,F-GASES,NA,2500,ISK,gvt(ISL[2022]),
