@@ -90,7 +90,7 @@ def scope():
     
     ## Gases
 
-    isl_tax_gas_scope_I = []
+    isl_tax_gas_scope_I = ["SF6", "HFCs", "PFCs"]
 
     ## Jurisdiction
     
@@ -98,11 +98,18 @@ def scope():
 
     ## Sectors
     
-    isl_tax_II_ipcc_I = []
+    isl_tax_II_ipcc_I = ["2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C",
+                          "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5", 
+                          "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D",
+                          "2B8E", "2B8F", "2B9A", "2B9B", "2B10", "2C1",
+                          "2C2", "2C3", "2C4", "2C5", "2C6", "2C7", "2D1",
+                          "2D2", "2D3", "2D4", "2E1", "2E2", "2E3", "2E4",
+                          "2E5", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                          "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
     
 
     ## scope dictionaries
-    isl_tax_gas_scope = {}
+    isl_tax_gas_scope = {2020:isl_tax_gas_scope_I, 2021:isl_tax_gas_scope_I}
 
     isl_tax_II_jur_scope = {2020:isl_tax_II_jur_I, 2021:isl_tax_II_jur_I}
     
@@ -119,7 +126,7 @@ def scope():
     
     ## Gases
 
-    sgp_tax_gas_I = [""]
+    sgp_tax_gas_I = ["SF6", "HFCs", "PFCs"]
 
     ## Jurisdiction
     
@@ -127,10 +134,18 @@ def scope():
 
     ## Sectors
     
-    sgp_tax_ipcc_I = []
+    sgp_tax_ipcc_I = ["2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C",
+                      "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5", 
+                      "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D",
+                      "2B8E", "2B8F", "2B9A", "2B9B", "2B10", "2C1",
+                      "2C2", "2C3", "2C4", "2C5", "2C6", "2C7", "2D1",
+                      "2D2", "2D3", "2D4", "2E1", "2E2", "2E3", "2E4",
+                      "2E5", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                      "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
 
     ## scope dictionaries
-    sgp_tax_gas_scope = {}
+    sgp_tax_gas_scope = {2019:sgp_tax_gas_I, 
+                            2020:sgp_tax_gas_I, 2021:sgp_tax_gas_I}
     
     sgp_tax_jur_scope = {2019:sgp_tax_jur_I, 
                             2020:sgp_tax_jur_I, 2021:sgp_tax_jur_I}
@@ -150,7 +165,7 @@ def scope():
 
     ## Gases
 
-    esp_tax_gas_I = ["SF6", "HFC", "PFC"]
+    esp_tax_gas_I = ["SF6", "HFCs", "PFCs"]
 
     ## Jurisdiction
     
@@ -158,10 +173,20 @@ def scope():
 
     ## Sectors
     
-    esp_tax_ipcc_I = []
+    esp_tax_ipcc_I = ["2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C",
+                      "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5", 
+                      "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D",
+                      "2B8E", "2B8F", "2B9A", "2B9B", "2B10", "2C1",
+                      "2C2", "2C3", "2C4", "2C5", "2C6", "2C7", "2D1",
+                      "2D2", "2D3", "2D4", "2E1", "2E2", "2E3", "2E4",
+                      "2E5", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                      "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
 
     ## scope dictionaries
-    esp_tax_gas_scope = {}
+    esp_tax_gas_scope = {2014:esp_tax_gas_I, 2015:esp_tax_gas_I, 
+                            2016:esp_tax_gas_I, 2017:esp_tax_gas_I,
+                            2018:esp_tax_gas_I, 2019:esp_tax_gas_I, 
+                            2020:esp_tax_gas_I, 2021:esp_tax_gas_I}
     
     esp_tax_jur_scope = {2014:esp_tax_jur_I, 2015:esp_tax_jur_I, 
                             2016:esp_tax_jur_I, 2017:esp_tax_jur_I,
@@ -192,7 +217,7 @@ def scope():
 
     ## Gases
 
-    mex_tm_tax_gas_I = ["SF6", "HFC", "PFC"]
+    mex_tm_tax_gas_I = ["SF6", "HFCs", "PFCs"]
 
     ## Jurisdiction
     
@@ -225,7 +250,7 @@ def scope():
 
     ## Gases
 
-    mex_za_tax_gas_I = ["SF6", "HFC", "PFC"]
+    mex_za_tax_gas_I = ["SF6", "HFCs", "PFCs"]
 
     ## Jurisdiction
     
