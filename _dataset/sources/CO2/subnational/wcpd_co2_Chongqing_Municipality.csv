@@ -7460,9 +7460,9 @@ Chongqing Municipality,2014,1A1,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A1A,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A1A,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1A1,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A1A1,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A1A1,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2014,1A1A1,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2014,1A1A1,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2014,1A1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -7478,9 +7478,9 @@ Chongqing Municipality,2014,1A1C,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A2A,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A2A,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,1A2A,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,1A2A,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2014,1A2A,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2014,1A2A,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2014,1A2B,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2B,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,1A2B,Oil,NA,NA,NA,NA,NA
@@ -7633,7 +7633,7 @@ Chongqing Municipality,2014,2000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,20000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,200000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2A,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,2A1,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,2A1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2014,2A2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2A3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2A4,NA,NA,NA,NA,NA,NA
@@ -7647,7 +7647,7 @@ Chongqing Municipality,2014,2B10,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B4,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,2B5,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,2B5,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2014,2B6,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B7,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B8,NA,NA,NA,NA,NA,NA
@@ -7661,9 +7661,9 @@ Chongqing Municipality,2014,2B9,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B9A,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2B9B,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2C,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,2C1,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,2C2,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2014,2C3,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2014,2C1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2014,2C2,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2014,2C3,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2014,2C4,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2C5,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2014,2C6,NA,NA,NA,NA,NA,NA
@@ -7758,9 +7758,9 @@ Chongqing Municipality,2015,1A1,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A1A,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A1A,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1A1,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A1A1,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A1A1,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2015,1A1A1,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2015,1A1A1,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2015,1A1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -7776,9 +7776,9 @@ Chongqing Municipality,2015,1A1C,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A2A,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A2A,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,1A2A,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,1A2A,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2015,1A2A,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2015,1A2A,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2015,1A2B,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2B,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,1A2B,Oil,NA,NA,NA,NA,NA
@@ -7931,7 +7931,7 @@ Chongqing Municipality,2015,2000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,20000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,200000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2A,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,2A1,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,2A1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2015,2A2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2A3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2A4,NA,NA,NA,NA,NA,NA
@@ -7945,7 +7945,7 @@ Chongqing Municipality,2015,2B10,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B4,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,2B5,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,2B5,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2015,2B6,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B7,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B8,NA,NA,NA,NA,NA,NA
@@ -7959,9 +7959,9 @@ Chongqing Municipality,2015,2B9,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B9A,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2B9B,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2C,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,2C1,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,2C2,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2015,2C3,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2015,2C1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2015,2C2,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2015,2C3,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2015,2C4,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2C5,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2015,2C6,NA,NA,NA,NA,NA,NA
@@ -8056,9 +8056,9 @@ Chongqing Municipality,2016,1A1,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A1A,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A1A,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1A1,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A1A1,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A1A1,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2016,1A1A1,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2016,1A1A1,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2016,1A1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -8074,9 +8074,9 @@ Chongqing Municipality,2016,1A1C,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A2A,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A2A,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,1A2A,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,1A2A,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2016,1A2A,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2016,1A2A,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2016,1A2B,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2B,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,1A2B,Oil,NA,NA,NA,NA,NA
@@ -8229,7 +8229,7 @@ Chongqing Municipality,2016,2000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,20000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,200000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2A,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,2A1,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,2A1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2016,2A2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2A3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2A4,NA,NA,NA,NA,NA,NA
@@ -8243,7 +8243,7 @@ Chongqing Municipality,2016,2B10,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B4,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,2B5,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,2B5,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2016,2B6,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B7,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B8,NA,NA,NA,NA,NA,NA
@@ -8257,9 +8257,9 @@ Chongqing Municipality,2016,2B9,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B9A,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2B9B,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2C,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,2C1,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,2C2,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2016,2C3,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2016,2C1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2016,2C2,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2016,2C3,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2016,2C4,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2C5,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2016,2C6,NA,NA,NA,NA,NA,NA
@@ -8354,9 +8354,9 @@ Chongqing Municipality,2017,1A1,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A1A,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A1A,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1A1,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A1A1,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A1A1,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2017,1A1A1,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2017,1A1A1,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2017,1A1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -8372,9 +8372,9 @@ Chongqing Municipality,2017,1A1C,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A2A,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A2A,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,1A2A,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,1A2A,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2017,1A2A,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2017,1A2A,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2017,1A2B,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2B,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,1A2B,Oil,NA,NA,NA,NA,NA
@@ -8527,7 +8527,7 @@ Chongqing Municipality,2017,2000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,20000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,200000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2A,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,2A1,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,2A1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2017,2A2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2A3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2A4,NA,NA,NA,NA,NA,NA
@@ -8541,7 +8541,7 @@ Chongqing Municipality,2017,2B10,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B4,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,2B5,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,2B5,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2017,2B6,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B7,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B8,NA,NA,NA,NA,NA,NA
@@ -8555,9 +8555,9 @@ Chongqing Municipality,2017,2B9,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B9A,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2B9B,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2C,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,2C1,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,2C2,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2017,2C3,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2017,2C1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2017,2C2,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2017,2C3,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2017,2C4,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2C5,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2017,2C6,NA,NA,NA,NA,NA,NA
@@ -8652,9 +8652,9 @@ Chongqing Municipality,2018,1A1,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A1A,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A1A,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1A1,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A1A1,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A1A1,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2018,1A1A1,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2018,1A1A1,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2018,1A1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -8670,9 +8670,9 @@ Chongqing Municipality,2018,1A1C,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A2A,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A2A,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,1A2A,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,1A2A,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2018,1A2A,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2018,1A2A,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2018,1A2B,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2B,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,1A2B,Oil,NA,NA,NA,NA,NA
@@ -8825,7 +8825,7 @@ Chongqing Municipality,2018,2000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,20000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,200000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2A,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,2A1,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,2A1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2018,2A2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2A3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2A4,NA,NA,NA,NA,NA,NA
@@ -8839,7 +8839,7 @@ Chongqing Municipality,2018,2B10,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B4,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,2B5,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,2B5,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2018,2B6,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B7,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B8,NA,NA,NA,NA,NA,NA
@@ -8853,9 +8853,9 @@ Chongqing Municipality,2018,2B9,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B9A,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2B9B,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2C,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,2C1,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,2C2,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2018,2C3,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2018,2C1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2018,2C2,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2018,2C3,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2018,2C4,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2C5,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2018,2C6,NA,NA,NA,NA,NA,NA
@@ -8950,9 +8950,9 @@ Chongqing Municipality,2019,1A1,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1A1,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A1A1,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A1A1,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2019,1A1A1,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2019,1A1A1,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2019,1A1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -8968,9 +8968,9 @@ Chongqing Municipality,2019,1A1C,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A2A,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A2A,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,1A2A,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,1A2A,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2019,1A2A,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2019,1A2A,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2019,1A2B,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2B,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,1A2B,Oil,NA,NA,NA,NA,NA
@@ -9123,7 +9123,7 @@ Chongqing Municipality,2019,2000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,20000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,200000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2A,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,2A1,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,2A1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2019,2A2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2A3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2A4,NA,NA,NA,NA,NA,NA
@@ -9137,7 +9137,7 @@ Chongqing Municipality,2019,2B10,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B4,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,2B5,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,2B5,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2019,2B6,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B7,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B8,NA,NA,NA,NA,NA,NA
@@ -9151,9 +9151,9 @@ Chongqing Municipality,2019,2B9,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B9A,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2B9B,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2C,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,2C1,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,2C2,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2019,2C3,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2019,2C1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2019,2C2,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2019,2C3,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2019,2C4,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2C5,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2019,2C6,NA,NA,NA,NA,NA,NA
@@ -9248,9 +9248,9 @@ Chongqing Municipality,2020,1A1,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1A1,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A1A1,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A1A1,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2020,1A1A1,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2020,1A1A1,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2020,1A1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -9266,9 +9266,9 @@ Chongqing Municipality,2020,1A1C,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A2A,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A2A,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,1A2A,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,1A2A,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2020,1A2A,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2020,1A2A,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2020,1A2B,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2B,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,1A2B,Oil,NA,NA,NA,NA,NA
@@ -9421,7 +9421,7 @@ Chongqing Municipality,2020,2000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,20000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,200000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2A,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,2A1,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,2A1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2020,2A2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2A3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2A4,NA,NA,NA,NA,NA,NA
@@ -9435,7 +9435,7 @@ Chongqing Municipality,2020,2B10,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B4,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,2B5,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,2B5,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2020,2B6,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B7,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B8,NA,NA,NA,NA,NA,NA
@@ -9449,9 +9449,9 @@ Chongqing Municipality,2020,2B9,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B9A,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2B9B,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2C,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,2C1,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,2C2,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2020,2C3,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2020,2C1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2020,2C2,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2020,2C3,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2020,2C4,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2C5,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2020,2C6,NA,NA,NA,NA,NA,NA
@@ -9564,9 +9564,9 @@ Chongqing Municipality,2021,1A1C,Oil,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2,Oil,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A2A,Coal,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A2A,Natural gas,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,1A2A,Oil,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,1A2A,Coal,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2021,1A2A,Natural gas,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2021,1A2A,Oil,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2021,1A2B,Coal,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2B,Natural gas,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,1A2B,Oil,NA,NA,NA,NA,NA
@@ -9719,7 +9719,7 @@ Chongqing Municipality,2021,2000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,20000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,200000,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2A,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,2A1,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,2A1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2021,2A2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2A3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2A4,NA,NA,NA,NA,NA,NA
@@ -9733,7 +9733,7 @@ Chongqing Municipality,2021,2B10,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B2,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B3,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B4,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,2B5,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,2B5,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2021,2B6,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B7,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B8,NA,NA,NA,NA,NA,NA
@@ -9747,9 +9747,9 @@ Chongqing Municipality,2021,2B9,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B9A,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2B9B,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2C,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,2C1,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,2C2,NA,NA,NA,NA,NA,NA
-Chongqing Municipality,2021,2C3,NA,NA,NA,NA,NA,NA
+Chongqing Municipality,2021,2C1,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2021,2C2,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Chongqing Municipality,2021,2C3,NA,NA,report(ICAP[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Chongqing Municipality,2021,2C4,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2C5,NA,NA,NA,NA,NA,NA
 Chongqing Municipality,2021,2C6,NA,NA,NA,NA,NA,NA
