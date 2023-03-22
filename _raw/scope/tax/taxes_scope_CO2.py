@@ -1607,7 +1607,7 @@ def scope():
     ## IPCC categories
     
     # initial scope
-    che_tax_ipcc_I = ["1A1A2", "1A1A3", "1A4B"]
+    che_tax_ipcc_I = ["1A1A2", "1A1A3", "1A4A", "1A4B"]
 
     ## Fuels
     
@@ -1621,7 +1621,8 @@ def scope():
                             2014:che_tax_jur_I, 2015:che_tax_jur_I,
                             2016:che_tax_jur_I, 2017:che_tax_jur_I,
                             2018:che_tax_jur_I, 2019:che_tax_jur_I, 
-                            2020:che_tax_jur_I, 2021:che_tax_jur_I}
+                            2020:che_tax_jur_I, 2021:che_tax_jur_I,
+                            2022:che_tax_jur_I}
     
     che_tax_ipcc_scope = {2008:che_tax_ipcc_I, 2009:che_tax_ipcc_I,
                             2010:che_tax_ipcc_I, 2011:che_tax_ipcc_I,
@@ -1629,7 +1630,8 @@ def scope():
                             2014:che_tax_ipcc_I, 2015:che_tax_ipcc_I,
                             2016:che_tax_ipcc_I, 2017:che_tax_ipcc_I,
                             2018:che_tax_ipcc_I, 2019:che_tax_ipcc_I, 
-                            2020:che_tax_ipcc_I, 2021:che_tax_ipcc_I}
+                            2020:che_tax_ipcc_I, 2021:che_tax_ipcc_I,
+                            2022:che_tax_ipcc_I}
     
     che_tax_fuel_scope = {2008:che_tax_fuel_I, 2009:che_tax_fuel_I,
                             2010:che_tax_fuel_I, 2011:che_tax_fuel_I,
@@ -1637,7 +1639,8 @@ def scope():
                             2014:che_tax_fuel_I, 2015:che_tax_fuel_I,
                             2016:che_tax_fuel_I, 2017:che_tax_fuel_I,
                             2018:che_tax_fuel_I, 2019:che_tax_fuel_I, 
-                            2020:che_tax_fuel_I, 2021:che_tax_fuel_I}
+                            2020:che_tax_fuel_I, 2021:che_tax_fuel_I,
+                            2022:che_tax_fuel_I}
     
     ## Sources dictionary
     
@@ -1654,7 +1657,8 @@ def scope():
                                 2018:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
                                 2019:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
                                 2020:"leg(CHE-CO2[2013], CHE-FARC[2013])",
-                                2021:"leg(CHE-CO2[2013], CHE-FARC[2013])"}
+                                2021:"leg(CHE-CO2[2013], CHE-FARC[2013])",
+                                2022:"leg(CHE-CO2[2013], CHE-FARC[2013])"}
 
     #----------------------------------------------------------------------------
 
