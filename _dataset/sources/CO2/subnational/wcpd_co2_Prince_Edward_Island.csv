@@ -8950,12 +8950,12 @@ Prince Edward Island,2019,1A1,Oil,NA,NA,NA,NA,NA
 Prince Edward Island,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Prince Edward Island,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Prince Edward Island,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1A1A1,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A1A2,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
+Prince Edward Island,2019,1A1A1,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A1A2,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A1A3,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A1A3,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A1A3,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
@@ -8968,33 +8968,33 @@ Prince Edward Island,2019,1A1C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[202
 Prince Edward Island,2019,1A2,Coal,NA,NA,NA,NA,NA
 Prince Edward Island,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Prince Edward Island,2019,1A2,Oil,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1A2A,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2B,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2C,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2D,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2E,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2F,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
+Prince Edward Island,2019,1A2A,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2B,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2C,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2D,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2E,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2F,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2G,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A2G,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A2G,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A2H,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A2H,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A2H,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2I,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2019,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
+Prince Edward Island,2019,1A2I,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1A2J,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A2J,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A2J,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
@@ -9074,38 +9074,38 @@ Prince Edward Island,2019,1A5C,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[20
 Prince Edward Island,2019,1A5C,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1A5C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2019,1B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A11,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A12,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A13,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A14,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A21,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1A22,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B1B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A31,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A32,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A33,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A34,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A35,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2A36,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B31,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B32,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B33,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B34,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B35,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,1B2B36,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2019,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A11,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A12,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A13,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A14,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A21,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1A22,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B1B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2A36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,1B2B36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,1B3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,1C,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,1C1,NA,NA,NA,NA,NA,NA
@@ -9123,41 +9123,41 @@ Prince Edward Island,2019,2000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,20000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,200000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,2A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2A3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2A4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2A4A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2A4B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2A4C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2A4D,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B10,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B5,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B6,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B7,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B8,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B8A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B8B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B8C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B8D,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B8E,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B8F,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B9,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B9A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2B9B,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2019,2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2A4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2A4A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2A4B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2A4C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2A4D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B10,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B8,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B8A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B8B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B8C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B8D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B8E,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B8F,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B9,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B9A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2B9B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,2C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2C1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2C2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2C3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2C4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2C5,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2C6,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2C7,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2019,2C1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2C2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2C3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2C4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2C5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2C6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2C7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,2D,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,2D1,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,2D2,NA,NA,NA,NA,NA,NA
@@ -9177,8 +9177,8 @@ Prince Edward Island,2019,2G2,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,2G3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,2G4,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,2H,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2H1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2019,2H2,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2019,2H1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2019,2H2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2019,2H3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2019,3A,NA,NA,NA,NA,NA,NA
@@ -9248,12 +9248,12 @@ Prince Edward Island,2020,1A1,Oil,NA,NA,NA,NA,NA
 Prince Edward Island,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Prince Edward Island,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Prince Edward Island,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1A1A1,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A1A2,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
+Prince Edward Island,2020,1A1A1,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A1A2,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A1A3,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A1A3,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A1A3,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
@@ -9266,33 +9266,33 @@ Prince Edward Island,2020,1A1C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[202
 Prince Edward Island,2020,1A2,Coal,NA,NA,NA,NA,NA
 Prince Edward Island,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Prince Edward Island,2020,1A2,Oil,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1A2A,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2B,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2C,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2D,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2E,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2F,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
+Prince Edward Island,2020,1A2A,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2B,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2C,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2D,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2E,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2F,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2G,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A2G,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A2G,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A2H,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A2H,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A2H,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2I,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
-Prince Edward Island,2020,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
+Prince Edward Island,2020,1A2I,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),"gvt(ECCC[2021], PEI[2018]); ",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1A2J,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A2J,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A2J,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
@@ -9372,38 +9372,38 @@ Prince Edward Island,2020,1A5C,Coal,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[20
 Prince Edward Island,2020,1A5C,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1A5C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,"gvt(ECCC[2021], PEI[2018]); ",NA,NA
 Prince Edward Island,2020,1B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A11,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A12,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A13,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A14,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A21,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1A22,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B1B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A31,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A32,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A33,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A34,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A35,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2A36,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B31,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B32,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B33,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B34,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B35,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,1B2B36,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2020,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A11,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A12,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A13,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A14,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A21,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1A22,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B1B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2A36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,1B2B36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,1B3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,1C,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,1C1,NA,NA,NA,NA,NA,NA
@@ -9421,41 +9421,41 @@ Prince Edward Island,2020,2000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,20000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,200000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,2A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2A3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2A4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2A4A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2A4B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2A4C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2A4D,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B10,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B5,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B6,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B7,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B8,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B8A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B8B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B8C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B8D,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B8E,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B8F,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B9,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B9A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2B9B,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2020,2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2A4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2A4A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2A4B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2A4C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2A4D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B10,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B8,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B8A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B8B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B8C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B8D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B8E,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B8F,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B9,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B9A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2B9B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,2C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2C1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2C2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2C3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2C4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2C5,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2C6,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2C7,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2020,2C1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2C2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2C3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2C4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2C5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2C6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2C7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,2D,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,2D1,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,2D2,NA,NA,NA,NA,NA,NA
@@ -9475,8 +9475,8 @@ Prince Edward Island,2020,2G2,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,2G3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,2G4,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,2H,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2H1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2020,2H2,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2020,2H1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2020,2H2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2020,2H3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2020,3A,NA,NA,NA,NA,NA,NA
@@ -9546,12 +9546,12 @@ Prince Edward Island,2021,1A1,Oil,NA,NA,NA,NA,NA
 Prince Edward Island,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Prince Edward Island,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Prince Edward Island,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1A1A1,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A1A2,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
+Prince Edward Island,2021,1A1A1,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A1,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A1,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A2,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A2,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A1A2,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2021,1A1A3,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A1A3,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A1A3,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
@@ -9564,33 +9564,33 @@ Prince Edward Island,2021,1A1C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be 
 Prince Edward Island,2021,1A2,Coal,NA,NA,NA,NA,NA
 Prince Edward Island,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Prince Edward Island,2021,1A2,Oil,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1A2A,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2B,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2C,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2D,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2E,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2F,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
+Prince Edward Island,2021,1A2A,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2A,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2A,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2B,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2B,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2B,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2C,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2C,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2C,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2D,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2D,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2D,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2E,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2E,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2E,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2F,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2F,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2F,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2021,1A2G,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A2G,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A2G,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A2H,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A2H,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A2H,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2I,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
-Prince Edward Island,2021,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
+Prince Edward Island,2021,1A2I,Coal,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2I,Natural gas,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1A2I,Oil,"gvt(ECCC[2021], PEI[2018])",leg(SOR[2019]),; rate to be confirmed,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2021,1A2J,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A2J,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A2J,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
@@ -9670,38 +9670,38 @@ Prince Edward Island,2021,1A5C,Coal,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be
 Prince Edward Island,2021,1A5C,Natural gas,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1A5C,Oil,"gvt(ECCC[2021], PEI[2018])",NA,; rate to be confirmed,NA,NA
 Prince Edward Island,2021,1B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A11,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A12,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A13,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A14,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A21,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1A22,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B1B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A31,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A32,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A33,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A34,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A35,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2A36,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B31,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B32,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B33,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B34,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B35,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,1B2B36,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2021,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A11,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A12,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A13,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A14,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A21,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1A22,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B1B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2A36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,1B2B36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2021,1B3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,1C,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,1C1,NA,NA,NA,NA,NA,NA
@@ -9719,41 +9719,41 @@ Prince Edward Island,2021,2000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,20000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,200000,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,2A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2A1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2A2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2A3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2A4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2A4A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2A4B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2A4C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2A4D,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B10,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B5,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B6,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B7,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B8,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B8A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B8B,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B8C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B8D,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B8E,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B8F,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B9,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B9A,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2B9B,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2021,2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2A4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2A4A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2A4B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2A4C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2A4D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B10,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B8,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B8A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B8B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B8C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B8D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B8E,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B8F,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B9,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B9A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2B9B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2021,2C,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2C1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2C2,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2C3,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2C4,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2C5,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2C6,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2C7,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2021,2C1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2C2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2C3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2C4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2C5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2C6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2C7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2021,2D,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,2D1,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,2D2,NA,NA,NA,NA,NA,NA
@@ -9773,8 +9773,8 @@ Prince Edward Island,2021,2G2,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,2G3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,2G4,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,2H,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2H1,NA,NA,NA,NA,NA,NA
-Prince Edward Island,2021,2H2,NA,NA,NA,NA,NA,NA
+Prince Edward Island,2021,2H1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Prince Edward Island,2021,2H2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Prince Edward Island,2021,2H3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,3,NA,NA,NA,NA,NA,NA
 Prince Edward Island,2021,3A,NA,NA,NA,NA,NA,NA

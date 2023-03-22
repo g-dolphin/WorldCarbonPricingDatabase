@@ -9615,57 +9615,57 @@ Germany,2021,1A3A1,Oil,NA,NA,NA,NA,NA
 Germany,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Germany,2021,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Germany,2021,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Germany,2021,1A3B,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A3B,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A3B,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A3C,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A3C,Oil,NA,NA,NA,NA,NA
+Germany,2021,1A3B,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3B,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3B,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3C,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3C,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3C,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Germany,2021,1A3D,Coal,NA,NA,NA,NA,NA
 Germany,2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 Germany,2021,1A3D,Oil,NA,NA,NA,NA,NA
 Germany,2021,1A3D1,Coal,NA,NA,NA,NA,NA
 Germany,2021,1A3D1,Natural gas,NA,NA,NA,NA,NA
 Germany,2021,1A3D1,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A3D2,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A3D2,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A3D2,Oil,NA,NA,NA,NA,NA
+Germany,2021,1A3D2,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3D2,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3D2,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Germany,2021,1A3E,Coal,NA,NA,NA,NA,NA
 Germany,2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 Germany,2021,1A3E,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A3E1,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A3E1,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A3E1,Oil,NA,NA,NA,NA,NA
+Germany,2021,1A3E1,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3E1,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A3E1,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Germany,2021,1A4,Coal,NA,NA,NA,NA,NA
 Germany,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Germany,2021,1A4,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A4A,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A4A,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A4A,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A4B,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A4B,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A4B,Oil,NA,NA,NA,NA,NA
+Germany,2021,1A4A,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4A,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4A,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4B,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4B,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4B,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Germany,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Germany,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Germany,2021,1A4C,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A4C1,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A4C1,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A4C2,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A4C2,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A4C3,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A4C3,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A4C3,Oil,NA,NA,NA,NA,NA
+Germany,2021,1A4C1,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4C1,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4C1,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4C2,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4C2,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4C2,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4C3,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4C3,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A4C3,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Germany,2021,1A5,Coal,NA,NA,NA,NA,NA
 Germany,2021,1A5,Natural gas,NA,NA,NA,NA,NA
 Germany,2021,1A5,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A5A,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A5A,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A5A,Oil,NA,NA,NA,NA,NA
-Germany,2021,1A5B,Coal,NA,NA,NA,NA,NA
-Germany,2021,1A5B,Natural gas,NA,NA,NA,NA,NA
-Germany,2021,1A5B,Oil,NA,NA,NA,NA,NA
+Germany,2021,1A5A,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A5A,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A5A,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A5B,Coal,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A5B,Natural gas,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Germany,2021,1A5B,Oil,NA,gvt(DEU-UBA[2021]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Germany,2021,1A5C,Coal,NA,NA,NA,NA,NA
 Germany,2021,1A5C,Natural gas,NA,NA,NA,NA,NA
 Germany,2021,1A5C,Oil,NA,NA,NA,NA,NA

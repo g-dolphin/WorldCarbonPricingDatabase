@@ -8652,63 +8652,63 @@ Ontario,2018,1A1,Oil,NA,NA,NA,NA,NA
 Ontario,2018,1A1A,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A1A,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A1A,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A1A1,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A1A1,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A1A2,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A1A2,Oil,NA,NA,NA,NA,NA
+Ontario,2018,1A1A1,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1A1,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1A1,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1A2,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1A2,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1A2,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,1A1A3,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A1A3,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A1B,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A1B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A1B,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A1C,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A1C,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A1C,Oil,NA,NA,NA,NA,NA
+Ontario,2018,1A1B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1C,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1C,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A1C,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,1A2,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A2,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A2,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2A,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2A,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2A,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2B,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2B,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2C,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2C,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2C,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2D,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2D,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2D,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2E,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2E,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2E,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2F,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2F,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2F,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2G,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2G,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2G,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2H,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2H,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2H,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2I,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2I,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2I,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2J,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2J,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2J,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2K,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2K,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2K,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2L,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2L,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2L,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A2M,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A2M,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A2M,Oil,NA,NA,NA,NA,NA
+Ontario,2018,1A2A,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2A,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2A,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2C,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2C,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2C,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2D,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2D,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2D,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2E,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2E,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2E,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2F,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2F,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2F,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2G,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2G,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2G,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2H,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2H,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2H,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2I,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2I,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2I,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2J,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2J,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2J,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2K,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2K,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2K,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2L,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2L,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2L,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2M,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2M,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A2M,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,1A3,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A3,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A3,Oil,NA,NA,NA,NA,NA
@@ -8721,9 +8721,9 @@ Ontario,2018,1A3A1,Oil,NA,NA,NA,NA,NA
 Ontario,2018,1A3A2,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A3A2,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A3B,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A3B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A3B,Oil,NA,NA,NA,NA,NA
+Ontario,2018,1A3B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A3B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A3B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,1A3C,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8745,12 +8745,12 @@ Ontario,2018,1A3E1,Oil,NA,NA,NA,NA,NA
 Ontario,2018,1A4,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A4,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A4,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A4A,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A4A,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A4A,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A4B,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A4B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A4B,Oil,NA,NA,NA,NA,NA
+Ontario,2018,1A4A,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A4A,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A4A,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A4B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A4B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A4B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,1A4C,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8766,9 +8766,9 @@ Ontario,2018,1A4C3,Oil,NA,NA,NA,NA,NA
 Ontario,2018,1A5,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A5,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A5,Oil,NA,NA,NA,NA,NA
-Ontario,2018,1A5A,Coal,NA,NA,NA,NA,NA
-Ontario,2018,1A5A,Natural gas,NA,NA,NA,NA,NA
-Ontario,2018,1A5A,Oil,NA,NA,NA,NA,NA
+Ontario,2018,1A5A,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A5A,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1A5A,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,1A5B,Coal,NA,NA,NA,NA,NA
 Ontario,2018,1A5B,Natural gas,NA,NA,NA,NA,NA
 Ontario,2018,1A5B,Oil,NA,NA,NA,NA,NA
@@ -8811,8 +8811,8 @@ Ontario,2018,1B2B36,NA,NA,NA,NA,NA,NA
 Ontario,2018,1B3,NA,NA,NA,NA,NA,NA
 Ontario,2018,1C,NA,NA,NA,NA,NA,NA
 Ontario,2018,1C1,NA,NA,NA,NA,NA,NA
-Ontario,2018,1C1A,NA,NA,NA,NA,NA,NA
-Ontario,2018,1C1B,NA,NA,NA,NA,NA,NA
+Ontario,2018,1C1A,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,1C1B,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,1C1C,NA,NA,NA,NA,NA,NA
 Ontario,2018,1C2,NA,NA,NA,NA,NA,NA
 Ontario,2018,1C2A,NA,NA,NA,NA,NA,NA
@@ -8825,63 +8825,63 @@ Ontario,2018,2000,NA,NA,NA,NA,NA,NA
 Ontario,2018,20000,NA,NA,NA,NA,NA,NA
 Ontario,2018,200000,NA,NA,NA,NA,NA,NA
 Ontario,2018,2A,NA,NA,NA,NA,NA,NA
-Ontario,2018,2A1,NA,NA,NA,NA,NA,NA
-Ontario,2018,2A2,NA,NA,NA,NA,NA,NA
-Ontario,2018,2A3,NA,NA,NA,NA,NA,NA
-Ontario,2018,2A4,NA,NA,NA,NA,NA,NA
-Ontario,2018,2A4A,NA,NA,NA,NA,NA,NA
-Ontario,2018,2A4B,NA,NA,NA,NA,NA,NA
-Ontario,2018,2A4C,NA,NA,NA,NA,NA,NA
-Ontario,2018,2A4D,NA,NA,NA,NA,NA,NA
+Ontario,2018,2A1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2A2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2A3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2A4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2A4A,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2A4B,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2A4C,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2A4D,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,2B,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B1,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B10,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B2,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B3,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B4,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B5,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B6,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B7,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B8,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B8A,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B8B,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B8C,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B8D,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B8E,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B8F,NA,NA,NA,NA,NA,NA
+Ontario,2018,2B1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B10,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B5,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B6,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B7,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B8,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B8A,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B8B,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B8C,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B8D,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B8E,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B8F,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,2B9,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B9A,NA,NA,NA,NA,NA,NA
-Ontario,2018,2B9B,NA,NA,NA,NA,NA,NA
+Ontario,2018,2B9A,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2B9B,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,2C,NA,NA,NA,NA,NA,NA
-Ontario,2018,2C1,NA,NA,NA,NA,NA,NA
-Ontario,2018,2C2,NA,NA,NA,NA,NA,NA
-Ontario,2018,2C3,NA,NA,NA,NA,NA,NA
-Ontario,2018,2C4,NA,NA,NA,NA,NA,NA
-Ontario,2018,2C5,NA,NA,NA,NA,NA,NA
-Ontario,2018,2C6,NA,NA,NA,NA,NA,NA
-Ontario,2018,2C7,NA,NA,NA,NA,NA,NA
+Ontario,2018,2C1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2C2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2C3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2C4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2C5,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2C6,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2C7,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,2D,NA,NA,NA,NA,NA,NA
-Ontario,2018,2D1,NA,NA,NA,NA,NA,NA
-Ontario,2018,2D2,NA,NA,NA,NA,NA,NA
-Ontario,2018,2D3,NA,NA,NA,NA,NA,NA
-Ontario,2018,2D4,NA,NA,NA,NA,NA,NA
-Ontario,2018,2E,NA,NA,NA,NA,NA,NA
+Ontario,2018,2D1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2D2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2D3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2D4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2E,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,2F,NA,NA,NA,NA,NA,NA
-Ontario,2018,2F1,NA,NA,NA,NA,NA,NA
-Ontario,2018,2F2,NA,NA,NA,NA,NA,NA
-Ontario,2018,2F3,NA,NA,NA,NA,NA,NA
-Ontario,2018,2F4,NA,NA,NA,NA,NA,NA
-Ontario,2018,2F5,NA,NA,NA,NA,NA,NA
-Ontario,2018,2F6,NA,NA,NA,NA,NA,NA
+Ontario,2018,2F1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2F2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2F3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2F4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2F5,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2F6,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,2G,NA,NA,NA,NA,NA,NA
-Ontario,2018,2G1,NA,NA,NA,NA,NA,NA
-Ontario,2018,2G2,NA,NA,NA,NA,NA,NA
-Ontario,2018,2G3,NA,NA,NA,NA,NA,NA
-Ontario,2018,2G4,NA,NA,NA,NA,NA,NA
+Ontario,2018,2G1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2G2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2G3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2G4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,2H,NA,NA,NA,NA,NA,NA
-Ontario,2018,2H1,NA,NA,NA,NA,NA,NA
-Ontario,2018,2H2,NA,NA,NA,NA,NA,NA
-Ontario,2018,2H3,NA,NA,NA,NA,NA,NA
+Ontario,2018,2H1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2H2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+Ontario,2018,2H3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 Ontario,2018,3,NA,NA,NA,NA,NA,NA
 Ontario,2018,3A,NA,NA,NA,NA,NA,NA
 Ontario,2018,3A1,NA,NA,NA,NA,NA,NA
@@ -8950,12 +8950,12 @@ Ontario,2019,1A1,Oil,NA,NA,NA,NA,NA
 Ontario,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Ontario,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Ontario,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Ontario,2019,1A1A1,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A1A1,Oil,NA,NA,NA,NA,NA
-Ontario,2019,1A1A2,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A1A2,Oil,NA,NA,NA,NA,NA
+Ontario,2019,1A1A1,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A1A1,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2019,1A1A3,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A1A3,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A1A3,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
@@ -8968,33 +8968,33 @@ Ontario,2019,1A1C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A2,Coal,NA,NA,NA,NA,NA
 Ontario,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Ontario,2019,1A2,Oil,NA,NA,NA,NA,NA
-Ontario,2019,1A2A,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A2A,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A2A,Oil,NA,NA,NA,NA,NA
-Ontario,2019,1A2B,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A2B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A2B,Oil,NA,NA,NA,NA,NA
-Ontario,2019,1A2C,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A2C,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A2C,Oil,NA,NA,NA,NA,NA
-Ontario,2019,1A2D,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A2D,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A2D,Oil,NA,NA,NA,NA,NA
-Ontario,2019,1A2E,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A2E,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A2E,Oil,NA,NA,NA,NA,NA
-Ontario,2019,1A2F,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A2F,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A2F,Oil,NA,NA,NA,NA,NA
+Ontario,2019,1A2A,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2A,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2A,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2B,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2B,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2B,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2C,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2C,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2C,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2D,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2D,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2D,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2E,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2E,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2E,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2F,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2F,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2F,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2019,1A2G,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A2G,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A2G,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A2H,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A2H,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A2H,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
-Ontario,2019,1A2I,Coal,NA,NA,NA,NA,NA
-Ontario,2019,1A2I,Natural gas,NA,NA,NA,NA,NA
-Ontario,2019,1A2I,Oil,NA,NA,NA,NA,NA
+Ontario,2019,1A2I,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2I,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1A2I,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2019,1A2J,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A2J,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A2J,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
@@ -9074,38 +9074,38 @@ Ontario,2019,1A5C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A5C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1A5C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2019,1B,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A1,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A11,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A12,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A13,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A14,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A2,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A21,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1A22,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B1B,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A1,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A2,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A3,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A31,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A32,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A33,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A34,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A35,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2A36,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B1,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B2,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B3,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B31,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B32,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B33,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B34,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B35,NA,NA,NA,NA,NA,NA
-Ontario,2019,1B2B36,NA,NA,NA,NA,NA,NA
+Ontario,2019,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A11,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A12,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A13,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A14,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A21,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1A22,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B1B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2A36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,1B2B36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2019,1B3,NA,NA,NA,NA,NA,NA
 Ontario,2019,1C,NA,NA,NA,NA,NA,NA
 Ontario,2019,1C1,NA,NA,NA,NA,NA,NA
@@ -9123,41 +9123,41 @@ Ontario,2019,2000,NA,NA,NA,NA,NA,NA
 Ontario,2019,20000,NA,NA,NA,NA,NA,NA
 Ontario,2019,200000,NA,NA,NA,NA,NA,NA
 Ontario,2019,2A,NA,NA,NA,NA,NA,NA
-Ontario,2019,2A1,NA,NA,NA,NA,NA,NA
-Ontario,2019,2A2,NA,NA,NA,NA,NA,NA
-Ontario,2019,2A3,NA,NA,NA,NA,NA,NA
-Ontario,2019,2A4,NA,NA,NA,NA,NA,NA
-Ontario,2019,2A4A,NA,NA,NA,NA,NA,NA
-Ontario,2019,2A4B,NA,NA,NA,NA,NA,NA
-Ontario,2019,2A4C,NA,NA,NA,NA,NA,NA
-Ontario,2019,2A4D,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B1,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B10,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B2,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B3,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B4,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B5,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B6,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B7,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B8,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B8A,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B8B,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B8C,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B8D,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B8E,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B8F,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B9,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B9A,NA,NA,NA,NA,NA,NA
-Ontario,2019,2B9B,NA,NA,NA,NA,NA,NA
+Ontario,2019,2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2A4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2A4A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2A4B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2A4C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2A4D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B10,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B8,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B8A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B8B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B8C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B8D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B8E,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B8F,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B9,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B9A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2B9B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2019,2C,NA,NA,NA,NA,NA,NA
-Ontario,2019,2C1,NA,NA,NA,NA,NA,NA
-Ontario,2019,2C2,NA,NA,NA,NA,NA,NA
-Ontario,2019,2C3,NA,NA,NA,NA,NA,NA
-Ontario,2019,2C4,NA,NA,NA,NA,NA,NA
-Ontario,2019,2C5,NA,NA,NA,NA,NA,NA
-Ontario,2019,2C6,NA,NA,NA,NA,NA,NA
-Ontario,2019,2C7,NA,NA,NA,NA,NA,NA
+Ontario,2019,2C1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2C2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2C3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2C4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2C5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2C6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2C7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2019,2D,NA,NA,NA,NA,NA,NA
 Ontario,2019,2D1,NA,NA,NA,NA,NA,NA
 Ontario,2019,2D2,NA,NA,NA,NA,NA,NA
@@ -9177,8 +9177,8 @@ Ontario,2019,2G2,NA,NA,NA,NA,NA,NA
 Ontario,2019,2G3,NA,NA,NA,NA,NA,NA
 Ontario,2019,2G4,NA,NA,NA,NA,NA,NA
 Ontario,2019,2H,NA,NA,NA,NA,NA,NA
-Ontario,2019,2H1,NA,NA,NA,NA,NA,NA
-Ontario,2019,2H2,NA,NA,NA,NA,NA,NA
+Ontario,2019,2H1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2019,2H2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2019,2H3,NA,NA,NA,NA,NA,NA
 Ontario,2019,3,NA,NA,NA,NA,NA,NA
 Ontario,2019,3A,NA,NA,NA,NA,NA,NA
@@ -9248,12 +9248,12 @@ Ontario,2020,1A1,Oil,NA,NA,NA,NA,NA
 Ontario,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Ontario,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Ontario,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Ontario,2020,1A1A1,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A1A1,Oil,NA,NA,NA,NA,NA
-Ontario,2020,1A1A2,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A1A2,Oil,NA,NA,NA,NA,NA
+Ontario,2020,1A1A1,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A1A1,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2020,1A1A3,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A1A3,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A1A3,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
@@ -9266,33 +9266,33 @@ Ontario,2020,1A1C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A2,Coal,NA,NA,NA,NA,NA
 Ontario,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Ontario,2020,1A2,Oil,NA,NA,NA,NA,NA
-Ontario,2020,1A2A,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A2A,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A2A,Oil,NA,NA,NA,NA,NA
-Ontario,2020,1A2B,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A2B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A2B,Oil,NA,NA,NA,NA,NA
-Ontario,2020,1A2C,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A2C,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A2C,Oil,NA,NA,NA,NA,NA
-Ontario,2020,1A2D,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A2D,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A2D,Oil,NA,NA,NA,NA,NA
-Ontario,2020,1A2E,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A2E,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A2E,Oil,NA,NA,NA,NA,NA
-Ontario,2020,1A2F,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A2F,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A2F,Oil,NA,NA,NA,NA,NA
+Ontario,2020,1A2A,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2A,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2A,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2B,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2B,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2B,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2C,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2C,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2C,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2D,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2D,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2D,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2E,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2E,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2E,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2F,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2F,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2F,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2020,1A2G,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A2G,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A2G,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A2H,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A2H,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A2H,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
-Ontario,2020,1A2I,Coal,NA,NA,NA,NA,NA
-Ontario,2020,1A2I,Natural gas,NA,NA,NA,NA,NA
-Ontario,2020,1A2I,Oil,NA,NA,NA,NA,NA
+Ontario,2020,1A2I,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2I,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1A2I,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2020,1A2J,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A2J,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A2J,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
@@ -9372,38 +9372,38 @@ Ontario,2020,1A5C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A5C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1A5C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2020,1B,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A1,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A11,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A12,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A13,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A14,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A2,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A21,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1A22,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B1B,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A1,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A2,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A3,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A31,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A32,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A33,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A34,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A35,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2A36,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B1,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B2,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B3,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B31,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B32,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B33,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B34,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B35,NA,NA,NA,NA,NA,NA
-Ontario,2020,1B2B36,NA,NA,NA,NA,NA,NA
+Ontario,2020,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A11,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A12,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A13,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A14,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A21,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1A22,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B1B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2A36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,1B2B36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2020,1B3,NA,NA,NA,NA,NA,NA
 Ontario,2020,1C,NA,NA,NA,NA,NA,NA
 Ontario,2020,1C1,NA,NA,NA,NA,NA,NA
@@ -9421,41 +9421,41 @@ Ontario,2020,2000,NA,NA,NA,NA,NA,NA
 Ontario,2020,20000,NA,NA,NA,NA,NA,NA
 Ontario,2020,200000,NA,NA,NA,NA,NA,NA
 Ontario,2020,2A,NA,NA,NA,NA,NA,NA
-Ontario,2020,2A1,NA,NA,NA,NA,NA,NA
-Ontario,2020,2A2,NA,NA,NA,NA,NA,NA
-Ontario,2020,2A3,NA,NA,NA,NA,NA,NA
-Ontario,2020,2A4,NA,NA,NA,NA,NA,NA
-Ontario,2020,2A4A,NA,NA,NA,NA,NA,NA
-Ontario,2020,2A4B,NA,NA,NA,NA,NA,NA
-Ontario,2020,2A4C,NA,NA,NA,NA,NA,NA
-Ontario,2020,2A4D,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B1,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B10,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B2,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B3,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B4,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B5,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B6,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B7,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B8,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B8A,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B8B,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B8C,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B8D,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B8E,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B8F,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B9,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B9A,NA,NA,NA,NA,NA,NA
-Ontario,2020,2B9B,NA,NA,NA,NA,NA,NA
+Ontario,2020,2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2A4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2A4A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2A4B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2A4C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2A4D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B10,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B8,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B8A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B8B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B8C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B8D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B8E,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B8F,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B9,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B9A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2B9B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2020,2C,NA,NA,NA,NA,NA,NA
-Ontario,2020,2C1,NA,NA,NA,NA,NA,NA
-Ontario,2020,2C2,NA,NA,NA,NA,NA,NA
-Ontario,2020,2C3,NA,NA,NA,NA,NA,NA
-Ontario,2020,2C4,NA,NA,NA,NA,NA,NA
-Ontario,2020,2C5,NA,NA,NA,NA,NA,NA
-Ontario,2020,2C6,NA,NA,NA,NA,NA,NA
-Ontario,2020,2C7,NA,NA,NA,NA,NA,NA
+Ontario,2020,2C1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2C2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2C3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2C4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2C5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2C6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2C7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2020,2D,NA,NA,NA,NA,NA,NA
 Ontario,2020,2D1,NA,NA,NA,NA,NA,NA
 Ontario,2020,2D2,NA,NA,NA,NA,NA,NA
@@ -9475,8 +9475,8 @@ Ontario,2020,2G2,NA,NA,NA,NA,NA,NA
 Ontario,2020,2G3,NA,NA,NA,NA,NA,NA
 Ontario,2020,2G4,NA,NA,NA,NA,NA,NA
 Ontario,2020,2H,NA,NA,NA,NA,NA,NA
-Ontario,2020,2H1,NA,NA,NA,NA,NA,NA
-Ontario,2020,2H2,NA,NA,NA,NA,NA,NA
+Ontario,2020,2H1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2020,2H2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2020,2H3,NA,NA,NA,NA,NA,NA
 Ontario,2020,3,NA,NA,NA,NA,NA,NA
 Ontario,2020,3A,NA,NA,NA,NA,NA,NA
@@ -9546,12 +9546,12 @@ Ontario,2021,1A1,Oil,NA,NA,NA,NA,NA
 Ontario,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Ontario,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Ontario,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Ontario,2021,1A1A1,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A1A1,Oil,NA,NA,NA,NA,NA
-Ontario,2021,1A1A2,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A1A2,Oil,NA,NA,NA,NA,NA
+Ontario,2021,1A1A1,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A1A1,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2021,1A1A3,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A1A3,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A1A3,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
@@ -9564,33 +9564,33 @@ Ontario,2021,1A1C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A2,Coal,NA,NA,NA,NA,NA
 Ontario,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Ontario,2021,1A2,Oil,NA,NA,NA,NA,NA
-Ontario,2021,1A2A,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A2A,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A2A,Oil,NA,NA,NA,NA,NA
-Ontario,2021,1A2B,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A2B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A2B,Oil,NA,NA,NA,NA,NA
-Ontario,2021,1A2C,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A2C,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A2C,Oil,NA,NA,NA,NA,NA
-Ontario,2021,1A2D,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A2D,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A2D,Oil,NA,NA,NA,NA,NA
-Ontario,2021,1A2E,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A2E,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A2E,Oil,NA,NA,NA,NA,NA
-Ontario,2021,1A2F,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A2F,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A2F,Oil,NA,NA,NA,NA,NA
+Ontario,2021,1A2A,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2A,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2A,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2B,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2B,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2B,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2C,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2C,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2C,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2D,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2D,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2D,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2E,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2E,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2E,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2F,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2F,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2F,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2021,1A2G,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A2G,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A2G,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A2H,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A2H,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A2H,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
-Ontario,2021,1A2I,Coal,NA,NA,NA,NA,NA
-Ontario,2021,1A2I,Natural gas,NA,NA,NA,NA,NA
-Ontario,2021,1A2I,Oil,NA,NA,NA,NA,NA
+Ontario,2021,1A2I,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2I,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1A2I,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2021,1A2J,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A2J,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A2J,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
@@ -9670,38 +9670,38 @@ Ontario,2021,1A5C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A5C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1A5C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Ontario,2021,1B,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A1,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A11,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A12,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A13,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A14,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A2,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A21,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1A22,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B1B,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A1,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A2,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A3,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A31,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A32,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A33,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A34,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A35,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2A36,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B1,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B2,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B3,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B31,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B32,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B33,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B34,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B35,NA,NA,NA,NA,NA,NA
-Ontario,2021,1B2B36,NA,NA,NA,NA,NA,NA
+Ontario,2021,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A11,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A12,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A13,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A14,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A21,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1A22,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B1B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2A36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B31,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B32,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B33,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B34,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B35,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,1B2B36,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2021,1B3,NA,NA,NA,NA,NA,NA
 Ontario,2021,1C,NA,NA,NA,NA,NA,NA
 Ontario,2021,1C1,NA,NA,NA,NA,NA,NA
@@ -9719,41 +9719,41 @@ Ontario,2021,2000,NA,NA,NA,NA,NA,NA
 Ontario,2021,20000,NA,NA,NA,NA,NA,NA
 Ontario,2021,200000,NA,NA,NA,NA,NA,NA
 Ontario,2021,2A,NA,NA,NA,NA,NA,NA
-Ontario,2021,2A1,NA,NA,NA,NA,NA,NA
-Ontario,2021,2A2,NA,NA,NA,NA,NA,NA
-Ontario,2021,2A3,NA,NA,NA,NA,NA,NA
-Ontario,2021,2A4,NA,NA,NA,NA,NA,NA
-Ontario,2021,2A4A,NA,NA,NA,NA,NA,NA
-Ontario,2021,2A4B,NA,NA,NA,NA,NA,NA
-Ontario,2021,2A4C,NA,NA,NA,NA,NA,NA
-Ontario,2021,2A4D,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B1,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B10,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B2,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B3,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B4,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B5,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B6,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B7,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B8,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B8A,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B8B,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B8C,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B8D,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B8E,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B8F,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B9,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B9A,NA,NA,NA,NA,NA,NA
-Ontario,2021,2B9B,NA,NA,NA,NA,NA,NA
+Ontario,2021,2A1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2A2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2A3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2A4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2A4A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2A4B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2A4C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2A4D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B10,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B8,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B8A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B8B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B8C,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B8D,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B8E,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B8F,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B9,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B9A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2B9B,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2021,2C,NA,NA,NA,NA,NA,NA
-Ontario,2021,2C1,NA,NA,NA,NA,NA,NA
-Ontario,2021,2C2,NA,NA,NA,NA,NA,NA
-Ontario,2021,2C3,NA,NA,NA,NA,NA,NA
-Ontario,2021,2C4,NA,NA,NA,NA,NA,NA
-Ontario,2021,2C5,NA,NA,NA,NA,NA,NA
-Ontario,2021,2C6,NA,NA,NA,NA,NA,NA
-Ontario,2021,2C7,NA,NA,NA,NA,NA,NA
+Ontario,2021,2C1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2C2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2C3,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2C4,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2C5,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2C6,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2C7,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2021,2D,NA,NA,NA,NA,NA,NA
 Ontario,2021,2D1,NA,NA,NA,NA,NA,NA
 Ontario,2021,2D2,NA,NA,NA,NA,NA,NA
@@ -9773,8 +9773,8 @@ Ontario,2021,2G2,NA,NA,NA,NA,NA,NA
 Ontario,2021,2G3,NA,NA,NA,NA,NA,NA
 Ontario,2021,2G4,NA,NA,NA,NA,NA,NA
 Ontario,2021,2H,NA,NA,NA,NA,NA,NA
-Ontario,2021,2H1,NA,NA,NA,NA,NA,NA
-Ontario,2021,2H2,NA,NA,NA,NA,NA,NA
+Ontario,2021,2H1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+Ontario,2021,2H2,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Ontario,2021,2H3,NA,NA,NA,NA,NA,NA
 Ontario,2021,3,NA,NA,NA,NA,NA,NA
 Ontario,2021,3A,NA,NA,NA,NA,NA,NA
