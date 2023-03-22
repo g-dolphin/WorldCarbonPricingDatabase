@@ -314,7 +314,15 @@ def scope():
     che_ets_jur_I = ["Switzerland"]
     
     ## IPCC categories (source: CO2 Ordinance)
-    che_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
+    che_ets_ipcc_I = ["1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
+                      "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
+                      "1A2J", "1A2K", "1A2L", "1A2M",
+                      "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", "2B4",
+                      "2B7", "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F",
+                      "2C1", "2C2", "2C3", "2C4", 
+                      "2C5", "2C6", "2C7", "2H1"]
+
+    che_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
                       "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
                       "1A2J", "1A2K", "1A2L", "1A2M",
                       "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", "2B4",
@@ -330,7 +338,7 @@ def scope():
                             2015:che_ets_jur_I, 2016:che_ets_jur_I,
                             2017:che_ets_jur_I, 2018:che_ets_jur_I,
                             2019:che_ets_jur_I, 2020:che_ets_jur_I,
-                            2021:che_ets_jur_I}
+                            2021:che_ets_jur_I, 2022:che_ets_jur_I}
     
     che_ets_ipcc_scope = {2008:che_ets_ipcc_I,
                             2009:che_ets_ipcc_I, 2010:che_ets_ipcc_I,
@@ -338,8 +346,8 @@ def scope():
                             2013:che_ets_ipcc_I, 2014:che_ets_ipcc_I,
                             2015:che_ets_ipcc_I, 2016:che_ets_ipcc_I,
                             2017:che_ets_ipcc_I, 2018:che_ets_ipcc_I,
-                            2019:che_ets_ipcc_I, 2020:che_ets_ipcc_I,
-                            2021:che_ets_ipcc_I}
+                            2019:che_ets_ipcc_I, 2020:che_ets_ipcc_II,
+                            2021:che_ets_ipcc_II, 2022:che_ets_ipcc_II}
     
     ## Sources dictionary
     
@@ -354,7 +362,8 @@ def scope():
                                2018:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
                                2019:"leg(CHE-CO2[2012],CHE-FARC[2013])",
                                2020:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
-                               2021:"leg(CHE-CO2[2020],CHE-FARC[2013])"}
+                               2021:"leg(CHE-CO2[2020],CHE-FARC[2013])",
+                               2021:" "}
     
     #----------------------------------------------------------------------------
     
