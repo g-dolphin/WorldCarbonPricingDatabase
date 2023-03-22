@@ -7460,9 +7460,9 @@ Hubei Province,2014,1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2014,1A1A,Coal,NA,NA,NA,NA,NA
 Hubei Province,2014,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2014,1A1A,Oil,NA,NA,NA,NA,NA
-Hubei Province,2014,1A1A1,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A1A1,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A1A1,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,1A1A1,Coal,NA,NA,NA,NA,NA
+Hubei Province,2014,1A1A1,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2014,1A1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2014,1A1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2014,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2014,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -7478,27 +7478,27 @@ Hubei Province,2014,1A1C,Oil,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2,Oil,NA,NA,NA,NA,NA
-Hubei Province,2014,1A2A,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2A,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2A,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2B,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2B,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2B,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2C,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2C,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2C,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2D,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2D,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2D,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2E,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2E,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2E,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,1A2A,Coal,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2A,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2A,Oil,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2B,Coal,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2B,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2B,Oil,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2C,Coal,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2C,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2C,Oil,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2D,Coal,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2D,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2D,Oil,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2E,Coal,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2E,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2E,Oil,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2F,Coal,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2F,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2F,Oil,NA,NA,NA,NA,NA
-Hubei Province,2014,1A2G,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2G,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2G,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,1A2G,Coal,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2G,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2G,Oil,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2H,Coal,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2H,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2H,Oil,NA,NA,NA,NA,NA
@@ -7511,9 +7511,9 @@ Hubei Province,2014,1A2J,Oil,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2K,Coal,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2K,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2K,Oil,NA,NA,NA,NA,NA
-Hubei Province,2014,1A2L,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2L,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,1A2L,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,1A2L,Coal,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2L,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2014,1A2L,Oil,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2M,Coal,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2M,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2014,1A2M,Oil,NA,NA,NA,NA,NA
@@ -7633,41 +7633,41 @@ Hubei Province,2014,2000,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,20000,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,200000,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2A,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2A1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2A1,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2A2,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2A3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2A3,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2A4,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2A4A,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2A4B,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2A4C,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2A4D,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2B,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2B1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B10,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2B1,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B10,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B2,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B3,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B4,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B5,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B6,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B7,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2B8,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2B8A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B8B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B8C,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B8D,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B8E,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B8F,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2B8A,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B8B,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B8C,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B8D,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B8E,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B8F,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2B9,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2B9A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2B9B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2B9A,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2B9B,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2C,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2C1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2C1,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2C2,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2C3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2C4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2C5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2C6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2C7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2C3,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2C4,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2C5,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2C6,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2C7,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2D,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2D1,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2D2,NA,NA,NA,NA,NA,NA
@@ -7682,13 +7682,13 @@ Hubei Province,2014,2F4,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2F5,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2F6,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2G,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2G1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2G1,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2G2,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2G3,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2G4,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2H,NA,NA,NA,NA,NA,NA
-Hubei Province,2014,2H1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2014,2H2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2014,2H1,NA,NA,NA,NA,NA,NA
+Hubei Province,2014,2H2,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,2H3,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,3,NA,NA,NA,NA,NA,NA
 Hubei Province,2014,3A,NA,NA,NA,NA,NA,NA
@@ -7758,9 +7758,9 @@ Hubei Province,2015,1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2015,1A1A,Coal,NA,NA,NA,NA,NA
 Hubei Province,2015,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2015,1A1A,Oil,NA,NA,NA,NA,NA
-Hubei Province,2015,1A1A1,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A1A1,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A1A1,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,1A1A1,Coal,NA,NA,NA,NA,NA
+Hubei Province,2015,1A1A1,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2015,1A1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2015,1A1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2015,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2015,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -7776,27 +7776,27 @@ Hubei Province,2015,1A1C,Oil,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2,Oil,NA,NA,NA,NA,NA
-Hubei Province,2015,1A2A,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2A,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2A,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2B,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2B,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2B,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2C,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2C,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2C,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2D,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2D,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2D,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2E,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2E,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2E,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,1A2A,Coal,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2A,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2A,Oil,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2B,Coal,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2B,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2B,Oil,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2C,Coal,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2C,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2C,Oil,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2D,Coal,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2D,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2D,Oil,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2E,Coal,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2E,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2E,Oil,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2F,Coal,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2F,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2F,Oil,NA,NA,NA,NA,NA
-Hubei Province,2015,1A2G,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2G,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2G,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,1A2G,Coal,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2G,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2G,Oil,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2H,Coal,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2H,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2H,Oil,NA,NA,NA,NA,NA
@@ -7809,9 +7809,9 @@ Hubei Province,2015,1A2J,Oil,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2K,Coal,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2K,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2K,Oil,NA,NA,NA,NA,NA
-Hubei Province,2015,1A2L,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2L,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,1A2L,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,1A2L,Coal,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2L,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2015,1A2L,Oil,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2M,Coal,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2M,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2015,1A2M,Oil,NA,NA,NA,NA,NA
@@ -7931,41 +7931,41 @@ Hubei Province,2015,2000,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,20000,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,200000,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2A,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2A1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2A1,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2A2,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2A3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2A3,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2A4,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2A4A,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2A4B,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2A4C,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2A4D,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2B,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2B1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B10,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2B1,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B10,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B2,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B3,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B4,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B5,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B6,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B7,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2B8,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2B8A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B8B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B8C,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B8D,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B8E,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B8F,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2B8A,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B8B,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B8C,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B8D,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B8E,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B8F,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2B9,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2B9A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2B9B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2B9A,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2B9B,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2C,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2C1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2C1,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2C2,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2C3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2C4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2C5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2C6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2C7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2C3,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2C4,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2C5,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2C6,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2C7,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2D,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2D1,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2D2,NA,NA,NA,NA,NA,NA
@@ -7980,13 +7980,13 @@ Hubei Province,2015,2F4,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2F5,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2F6,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2G,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2G1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2G1,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2G2,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2G3,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2G4,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2H,NA,NA,NA,NA,NA,NA
-Hubei Province,2015,2H1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2015,2H2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2015,2H1,NA,NA,NA,NA,NA,NA
+Hubei Province,2015,2H2,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,2H3,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,3,NA,NA,NA,NA,NA,NA
 Hubei Province,2015,3A,NA,NA,NA,NA,NA,NA
@@ -8056,15 +8056,15 @@ Hubei Province,2016,1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2016,1A1A,Coal,NA,NA,NA,NA,NA
 Hubei Province,2016,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2016,1A1A,Oil,NA,NA,NA,NA,NA
-Hubei Province,2016,1A1A1,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A1A1,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A1A1,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A1A2,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A1A2,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A1A2,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A1A3,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A1A3,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A1A3,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,1A1A1,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A1A1,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A1A1,Oil,NA,NA,NA,NA,NA
+Hubei Province,2016,1A1A2,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A1A2,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A1A2,Oil,NA,NA,NA,NA,NA
+Hubei Province,2016,1A1A3,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A1A3,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A1A3,Oil,NA,NA,NA,NA,NA
 Hubei Province,2016,1A1B,Coal,NA,NA,NA,NA,NA
 Hubei Province,2016,1A1B,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2016,1A1B,Oil,NA,NA,NA,NA,NA
@@ -8074,27 +8074,27 @@ Hubei Province,2016,1A1C,Oil,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2,Oil,NA,NA,NA,NA,NA
-Hubei Province,2016,1A2A,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2A,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2A,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2B,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2B,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2B,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2C,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2C,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2C,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2D,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2D,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2D,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2E,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2E,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2E,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,1A2A,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2A,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2A,Oil,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2B,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2B,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2B,Oil,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2C,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2C,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2C,Oil,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2D,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2D,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2D,Oil,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2E,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2E,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2E,Oil,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2F,Coal,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2F,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2F,Oil,NA,NA,NA,NA,NA
-Hubei Province,2016,1A2G,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2G,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2G,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,1A2G,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2G,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2G,Oil,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2H,Coal,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2H,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2H,Oil,NA,NA,NA,NA,NA
@@ -8107,9 +8107,9 @@ Hubei Province,2016,1A2J,Oil,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2K,Coal,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2K,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2K,Oil,NA,NA,NA,NA,NA
-Hubei Province,2016,1A2L,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2L,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,1A2L,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,1A2L,Coal,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2L,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2016,1A2L,Oil,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2M,Coal,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2M,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2016,1A2M,Oil,NA,NA,NA,NA,NA
@@ -8229,41 +8229,41 @@ Hubei Province,2016,2000,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,20000,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,200000,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2A,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2A1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2A1,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2A2,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2A3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2A3,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2A4,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2A4A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2A4A,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2A4B,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2A4C,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2A4D,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2B,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2B1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B10,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2B1,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B10,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B2,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B3,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B4,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B5,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B6,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B7,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2B8,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2B8A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B8B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B8C,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B8D,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B8E,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B8F,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2B8A,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B8B,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B8C,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B8D,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B8E,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B8F,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2B9,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2B9A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2B9B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2B9A,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2B9B,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2C,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2C1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2C1,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2C2,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2C3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2C4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2C5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2C6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2C7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2C3,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2C4,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2C5,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2C6,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2C7,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2D,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2D1,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2D2,NA,NA,NA,NA,NA,NA
@@ -8278,13 +8278,13 @@ Hubei Province,2016,2F4,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2F5,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2F6,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2G,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2G1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2G1,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2G2,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2G3,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2G4,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2H,NA,NA,NA,NA,NA,NA
-Hubei Province,2016,2H1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2016,2H2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2016,2H1,NA,NA,NA,NA,NA,NA
+Hubei Province,2016,2H2,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,2H3,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,3,NA,NA,NA,NA,NA,NA
 Hubei Province,2016,3A,NA,NA,NA,NA,NA,NA
@@ -8354,15 +8354,15 @@ Hubei Province,2017,1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2017,1A1A,Coal,NA,NA,NA,NA,NA
 Hubei Province,2017,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2017,1A1A,Oil,NA,NA,NA,NA,NA
-Hubei Province,2017,1A1A1,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A1A1,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A1A1,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A1A2,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A1A2,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A1A2,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A1A3,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A1A3,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A1A3,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,1A1A1,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A1A1,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A1A1,Oil,NA,NA,NA,NA,NA
+Hubei Province,2017,1A1A2,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A1A2,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A1A2,Oil,NA,NA,NA,NA,NA
+Hubei Province,2017,1A1A3,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A1A3,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A1A3,Oil,NA,NA,NA,NA,NA
 Hubei Province,2017,1A1B,Coal,NA,NA,NA,NA,NA
 Hubei Province,2017,1A1B,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2017,1A1B,Oil,NA,NA,NA,NA,NA
@@ -8372,27 +8372,27 @@ Hubei Province,2017,1A1C,Oil,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2,Oil,NA,NA,NA,NA,NA
-Hubei Province,2017,1A2A,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2A,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2A,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2B,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2B,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2B,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2C,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2C,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2C,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2D,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2D,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2D,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2E,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2E,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2E,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,1A2A,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2A,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2A,Oil,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2B,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2B,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2B,Oil,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2C,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2C,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2C,Oil,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2D,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2D,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2D,Oil,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2E,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2E,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2E,Oil,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2F,Coal,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2F,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2F,Oil,NA,NA,NA,NA,NA
-Hubei Province,2017,1A2G,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2G,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2G,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,1A2G,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2G,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2G,Oil,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2H,Coal,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2H,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2H,Oil,NA,NA,NA,NA,NA
@@ -8405,9 +8405,9 @@ Hubei Province,2017,1A2J,Oil,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2K,Coal,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2K,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2K,Oil,NA,NA,NA,NA,NA
-Hubei Province,2017,1A2L,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2L,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,1A2L,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,1A2L,Coal,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2L,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2017,1A2L,Oil,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2M,Coal,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2M,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2017,1A2M,Oil,NA,NA,NA,NA,NA
@@ -8527,41 +8527,41 @@ Hubei Province,2017,2000,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,20000,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,200000,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2A,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2A1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2A1,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2A2,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2A3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2A3,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2A4,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2A4A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2A4A,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2A4B,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2A4C,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2A4D,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2B,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2B1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B10,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2B1,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B10,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B2,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B3,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B4,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B5,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B6,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B7,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2B8,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2B8A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B8B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B8C,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B8D,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B8E,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B8F,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2B8A,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B8B,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B8C,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B8D,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B8E,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B8F,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2B9,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2B9A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2B9B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2B9A,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2B9B,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2C,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2C1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2C1,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2C2,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2C3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2C4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2C5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2C6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2C7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2C3,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2C4,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2C5,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2C6,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2C7,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2D,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2D1,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2D2,NA,NA,NA,NA,NA,NA
@@ -8576,13 +8576,13 @@ Hubei Province,2017,2F4,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2F5,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2F6,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2G,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2G1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2G1,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2G2,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2G3,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2G4,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2H,NA,NA,NA,NA,NA,NA
-Hubei Province,2017,2H1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2017,2H2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2017,2H1,NA,NA,NA,NA,NA,NA
+Hubei Province,2017,2H2,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,2H3,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,3,NA,NA,NA,NA,NA,NA
 Hubei Province,2017,3A,NA,NA,NA,NA,NA,NA
@@ -8652,15 +8652,15 @@ Hubei Province,2018,1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2018,1A1A,Coal,NA,NA,NA,NA,NA
 Hubei Province,2018,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2018,1A1A,Oil,NA,NA,NA,NA,NA
-Hubei Province,2018,1A1A1,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A1A1,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A1A1,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A1A2,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A1A2,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A1A2,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A1A3,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A1A3,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A1A3,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,1A1A1,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A1A1,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A1A1,Oil,NA,NA,NA,NA,NA
+Hubei Province,2018,1A1A2,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A1A2,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A1A2,Oil,NA,NA,NA,NA,NA
+Hubei Province,2018,1A1A3,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A1A3,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A1A3,Oil,NA,NA,NA,NA,NA
 Hubei Province,2018,1A1B,Coal,NA,NA,NA,NA,NA
 Hubei Province,2018,1A1B,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2018,1A1B,Oil,NA,NA,NA,NA,NA
@@ -8670,27 +8670,27 @@ Hubei Province,2018,1A1C,Oil,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2,Oil,NA,NA,NA,NA,NA
-Hubei Province,2018,1A2A,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2A,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2A,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2B,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2B,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2B,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2C,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2C,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2C,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2D,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2D,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2D,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2E,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2E,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2E,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,1A2A,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2A,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2A,Oil,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2B,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2B,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2B,Oil,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2C,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2C,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2C,Oil,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2D,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2D,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2D,Oil,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2E,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2E,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2E,Oil,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2F,Coal,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2F,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2F,Oil,NA,NA,NA,NA,NA
-Hubei Province,2018,1A2G,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2G,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2G,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,1A2G,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2G,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2G,Oil,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2H,Coal,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2H,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2H,Oil,NA,NA,NA,NA,NA
@@ -8703,9 +8703,9 @@ Hubei Province,2018,1A2J,Oil,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2K,Coal,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2K,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2K,Oil,NA,NA,NA,NA,NA
-Hubei Province,2018,1A2L,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2L,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,1A2L,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,1A2L,Coal,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2L,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2018,1A2L,Oil,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2M,Coal,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2M,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2018,1A2M,Oil,NA,NA,NA,NA,NA
@@ -8825,41 +8825,41 @@ Hubei Province,2018,2000,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,20000,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,200000,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2A,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2A1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2A1,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2A2,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2A3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2A3,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2A4,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2A4A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2A4A,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2A4B,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2A4C,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2A4D,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2B,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2B1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B10,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2B1,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B10,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B2,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B3,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B4,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B5,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B6,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B7,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2B8,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2B8A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B8B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B8C,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B8D,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B8E,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B8F,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2B8A,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B8B,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B8C,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B8D,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B8E,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B8F,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2B9,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2B9A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2B9B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2B9A,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2B9B,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2C,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2C1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2C1,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2C2,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2C3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2C4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2C5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2C6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2C7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2C3,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2C4,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2C5,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2C6,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2C7,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2D,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2D1,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2D2,NA,NA,NA,NA,NA,NA
@@ -8874,13 +8874,13 @@ Hubei Province,2018,2F4,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2F5,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2F6,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2G,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2G1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2G1,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2G2,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2G3,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2G4,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2H,NA,NA,NA,NA,NA,NA
-Hubei Province,2018,2H1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2018,2H2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2018,2H1,NA,NA,NA,NA,NA,NA
+Hubei Province,2018,2H2,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,2H3,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,3,NA,NA,NA,NA,NA,NA
 Hubei Province,2018,3A,NA,NA,NA,NA,NA,NA
@@ -8950,15 +8950,15 @@ Hubei Province,2019,1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Hubei Province,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Hubei Province,2019,1A1A1,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A1A1,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A1A1,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A1A2,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A1A2,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A1A2,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A1A3,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A1A3,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A1A3,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,1A1A1,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A1A1,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A1A1,Oil,NA,NA,NA,NA,NA
+Hubei Province,2019,1A1A2,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A1A2,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A1A2,Oil,NA,NA,NA,NA,NA
+Hubei Province,2019,1A1A3,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A1A3,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A1A3,Oil,NA,NA,NA,NA,NA
 Hubei Province,2019,1A1B,Coal,NA,NA,NA,NA,NA
 Hubei Province,2019,1A1B,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2019,1A1B,Oil,NA,NA,NA,NA,NA
@@ -8968,27 +8968,27 @@ Hubei Province,2019,1A1C,Oil,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2,Oil,NA,NA,NA,NA,NA
-Hubei Province,2019,1A2A,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2A,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2A,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2B,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2B,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2B,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2C,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2C,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2C,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2D,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2D,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2D,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2E,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2E,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2E,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,1A2A,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2A,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2A,Oil,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2B,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2B,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2B,Oil,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2C,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2C,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2C,Oil,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2D,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2D,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2D,Oil,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2E,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2E,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2E,Oil,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2F,Coal,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2F,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2F,Oil,NA,NA,NA,NA,NA
-Hubei Province,2019,1A2G,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2G,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2G,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,1A2G,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2G,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2G,Oil,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2H,Coal,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2H,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2H,Oil,NA,NA,NA,NA,NA
@@ -9001,9 +9001,9 @@ Hubei Province,2019,1A2J,Oil,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2K,Coal,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2K,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2K,Oil,NA,NA,NA,NA,NA
-Hubei Province,2019,1A2L,Coal,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2L,Natural gas,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,1A2L,Oil,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,1A2L,Coal,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2L,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2019,1A2L,Oil,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2M,Coal,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2M,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2019,1A2M,Oil,NA,NA,NA,NA,NA
@@ -9123,41 +9123,41 @@ Hubei Province,2019,2000,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,20000,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,200000,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2A,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2A1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2A1,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2A2,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2A3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2A3,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2A4,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2A4A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2A4A,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2A4B,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2A4C,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2A4D,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2B,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2B1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B10,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2B1,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B10,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B2,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B3,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B4,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B5,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B6,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B7,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2B8,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2B8A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B8B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B8C,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B8D,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B8E,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B8F,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2B8A,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B8B,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B8C,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B8D,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B8E,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B8F,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2B9,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2B9A,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2B9B,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2B9A,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2B9B,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2C,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2C1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2C1,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2C2,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2C3,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2C4,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2C5,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2C6,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2C7,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2C3,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2C4,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2C5,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2C6,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2C7,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2D,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2D1,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2D2,NA,NA,NA,NA,NA,NA
@@ -9172,13 +9172,13 @@ Hubei Province,2019,2F4,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2F5,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2F6,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2G,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2G1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2G1,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2G2,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2G3,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2G4,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2H,NA,NA,NA,NA,NA,NA
-Hubei Province,2019,2H1,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2019,2H2,NA,NA,"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2019,2H1,NA,NA,NA,NA,NA,NA
+Hubei Province,2019,2H2,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,2H3,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,3,NA,NA,NA,NA,NA,NA
 Hubei Province,2019,3A,NA,NA,NA,NA,NA,NA
@@ -9248,15 +9248,15 @@ Hubei Province,2020,1A1,Oil,NA,NA,NA,NA,NA
 Hubei Province,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Hubei Province,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Hubei Province,2020,1A1A1,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A1A1,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A1A1,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A1A2,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A1A2,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A1A2,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A1A3,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A1A3,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A1A3,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,1A1A1,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A1A1,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A1A1,Oil,NA,NA,NA,NA,NA
+Hubei Province,2020,1A1A2,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A1A2,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A1A2,Oil,NA,NA,NA,NA,NA
+Hubei Province,2020,1A1A3,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A1A3,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A1A3,Oil,NA,NA,NA,NA,NA
 Hubei Province,2020,1A1B,Coal,NA,NA,NA,NA,NA
 Hubei Province,2020,1A1B,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2020,1A1B,Oil,NA,NA,NA,NA,NA
@@ -9266,27 +9266,27 @@ Hubei Province,2020,1A1C,Oil,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2,Oil,NA,NA,NA,NA,NA
-Hubei Province,2020,1A2A,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2A,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2A,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2B,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2B,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2B,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2C,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2C,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2C,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2D,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2D,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2D,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2E,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2E,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2E,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,1A2A,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2A,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2A,Oil,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2B,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2B,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2B,Oil,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2C,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2C,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2C,Oil,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2D,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2D,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2D,Oil,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2E,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2E,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2E,Oil,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2F,Coal,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2F,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2F,Oil,NA,NA,NA,NA,NA
-Hubei Province,2020,1A2G,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2G,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2G,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,1A2G,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2G,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2G,Oil,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2H,Coal,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2H,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2H,Oil,NA,NA,NA,NA,NA
@@ -9299,9 +9299,9 @@ Hubei Province,2020,1A2J,Oil,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2K,Coal,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2K,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2K,Oil,NA,NA,NA,NA,NA
-Hubei Province,2020,1A2L,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2L,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,1A2L,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,1A2L,Coal,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2L,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2020,1A2L,Oil,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2M,Coal,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2M,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2020,1A2M,Oil,NA,NA,NA,NA,NA
@@ -9421,41 +9421,41 @@ Hubei Province,2020,2000,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,20000,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,200000,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2A,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2A1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2A1,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2A2,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2A3,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2A3,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2A4,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2A4A,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2A4A,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2A4B,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2A4C,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2A4D,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2B,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2B1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B10,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B2,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B3,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B4,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B5,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B6,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B7,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2B1,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B10,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B2,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B3,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B4,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B5,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B6,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B7,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2B8,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2B8A,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B8B,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B8C,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B8D,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B8E,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B8F,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2B8A,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B8B,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B8C,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B8D,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B8E,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B8F,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2B9,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2B9A,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2B9B,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2B9A,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2B9B,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2C,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2C1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2C1,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2C2,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2C3,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2C4,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2C5,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2C6,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2C7,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2C3,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2C4,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2C5,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2C6,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2C7,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2D,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2D1,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2D2,NA,NA,NA,NA,NA,NA
@@ -9470,13 +9470,13 @@ Hubei Province,2020,2F4,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2F5,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2F6,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2G,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2G1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2G1,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2G2,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2G3,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2G4,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2H,NA,NA,NA,NA,NA,NA
-Hubei Province,2020,2H1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2020,2H2,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2020,2H1,NA,NA,NA,NA,NA,NA
+Hubei Province,2020,2H2,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,2H3,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,3,NA,NA,NA,NA,NA,NA
 Hubei Province,2020,3A,NA,NA,NA,NA,NA,NA
@@ -9564,27 +9564,27 @@ Hubei Province,2021,1A1C,Oil,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2,Coal,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2,Oil,NA,NA,NA,NA,NA
-Hubei Province,2021,1A2A,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2A,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2A,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2B,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2B,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2B,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2C,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2C,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2C,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2D,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2D,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2D,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2E,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2E,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2E,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,1A2A,Coal,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2A,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2A,Oil,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2B,Coal,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2B,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2B,Oil,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2C,Coal,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2C,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2C,Oil,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2D,Coal,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2D,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2D,Oil,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2E,Coal,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2E,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2E,Oil,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2F,Coal,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2F,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2F,Oil,NA,NA,NA,NA,NA
-Hubei Province,2021,1A2G,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2G,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2G,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,1A2G,Coal,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2G,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2G,Oil,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2H,Coal,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2H,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2H,Oil,NA,NA,NA,NA,NA
@@ -9597,9 +9597,9 @@ Hubei Province,2021,1A2J,Oil,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2K,Coal,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2K,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2K,Oil,NA,NA,NA,NA,NA
-Hubei Province,2021,1A2L,Coal,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2L,Natural gas,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,1A2L,Oil,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,1A2L,Coal,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2L,Natural gas,NA,NA,NA,NA,NA
+Hubei Province,2021,1A2L,Oil,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2M,Coal,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2M,Natural gas,NA,NA,NA,NA,NA
 Hubei Province,2021,1A2M,Oil,NA,NA,NA,NA,NA
@@ -9719,41 +9719,41 @@ Hubei Province,2021,2000,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,20000,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,200000,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2A,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2A1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2A1,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2A2,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2A3,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2A3,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2A4,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2A4A,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2A4A,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2A4B,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2A4C,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2A4D,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2B,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2B1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B10,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B2,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B3,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B4,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B5,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B6,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B7,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2B1,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B10,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B2,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B3,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B4,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B5,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B6,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B7,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2B8,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2B8A,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B8B,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B8C,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B8D,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B8E,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B8F,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2B8A,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B8B,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B8C,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B8D,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B8E,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B8F,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2B9,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2B9A,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2B9B,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2B9A,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2B9B,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2C,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2C1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2C1,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2C2,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2C3,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2C4,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2C5,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2C6,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2C7,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2C3,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2C4,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2C5,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2C6,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2C7,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2D,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2D1,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2D2,NA,NA,NA,NA,NA,NA
@@ -9768,13 +9768,13 @@ Hubei Province,2021,2F4,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2F5,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2F6,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2G,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2G1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2G1,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2G2,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2G3,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2G4,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2H,NA,NA,NA,NA,NA,NA
-Hubei Province,2021,2H1,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Hubei Province,2021,2H2,NA,NA,"leg(HB[2020]), report(ICAP[2021])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Hubei Province,2021,2H1,NA,NA,NA,NA,NA,NA
+Hubei Province,2021,2H2,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,2H3,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,3,NA,NA,NA,NA,NA,NA
 Hubei Province,2021,3A,NA,NA,NA,NA,NA,NA

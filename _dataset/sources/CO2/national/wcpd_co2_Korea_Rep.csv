@@ -7758,63 +7758,63 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2015,1A1A,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1A1,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A1A1,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A1A1,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,1A1A1,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1A1,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1A1,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1A3,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A1B,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A1B,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A1B,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,1A1B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A1B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A1C,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A2A,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2A,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2A,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2B,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2B,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2B,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2C,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2C,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2C,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2D,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2D,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2D,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2E,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2E,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2E,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2F,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2F,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2F,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2G,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2G,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2G,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2H,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2H,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2H,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2I,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2I,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2I,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2J,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2J,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2J,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,1A2A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2B,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2C,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2C,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2C,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2D,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2D,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2D,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2E,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2E,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2E,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2F,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2F,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2F,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2G,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2G,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2G,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2H,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2H,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2H,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2I,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2I,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2I,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2J,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2J,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2J,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2K,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2K,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A2K,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A2L,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2L,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2L,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2M,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2M,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A2M,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,1A2L,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2L,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2L,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2M,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2M,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A2M,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3,Oil,NA,NA,NA,NA,NA
@@ -7824,9 +7824,9 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2015,1A3A1,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3A1,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3A1,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A3A2,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A3A2,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A3A2,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,1A3A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A3A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A3A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3B,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3B,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A3B,Oil,NA,NA,NA,NA,NA
@@ -7851,12 +7851,12 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2015,1A4,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,1A4A,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A4A,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A4A,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A4B,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A4B,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,1A4B,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,1A4A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A4A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A4A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A4B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A4B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,1A4B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,1A4C,Oil,NA,NA,NA,NA,NA
@@ -7931,46 +7931,46 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2015,20000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,200000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2A1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2A2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2A3,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,2A1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2A2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2A4,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2A4A,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,2A4A,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2A4B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2A4C,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2A4D,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2B,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2B1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B10,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B3,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B4,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B5,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B6,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B7,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,2B1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B10,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2B8,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2B8A,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B8B,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B8C,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B8D,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B8E,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B8F,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,2B8A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B8B,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B8C,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B8D,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B8E,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B8F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2B9,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2B9A,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2B9B,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,2B9A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2B9B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2C,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2C1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2C2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2C3,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2C4,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2C5,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2C6,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2C7,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,2C1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2C2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2C3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2C4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2C5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2C6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2C7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2D1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2D2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2D3,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2D4,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,2D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2D2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2D3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2D4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2F1,NA,NA,NA,NA,NA,NA
@@ -7985,8 +7985,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2015,2G3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2G4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2H,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,2H1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,2H2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,2H1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,2H2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,2H3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,3A,NA,NA,NA,NA,NA,NA
@@ -8030,7 +8030,7 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2015,3D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,4A1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,4A1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4A2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4B,NA,NA,NA,NA,NA,NA
@@ -8038,8 +8038,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2015,4C1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4C2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2015,4D1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2015,4D2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2015,4D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2015,4D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,4E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,5,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2015,5A,NA,NA,NA,NA,NA,NA
@@ -8056,63 +8056,63 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2016,1A1A,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1A1,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A1A1,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A1A1,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,1A1A1,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1A1,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1A1,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1A3,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A1B,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A1B,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A1B,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,1A1B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A1B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A1C,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A2A,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2A,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2A,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2B,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2B,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2B,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2C,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2C,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2C,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2D,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2D,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2D,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2E,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2E,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2E,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2F,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2F,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2F,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2G,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2G,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2G,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2H,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2H,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2H,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2I,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2I,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2I,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2J,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2J,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2J,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,1A2A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2B,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2C,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2C,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2C,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2D,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2D,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2D,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2E,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2E,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2E,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2F,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2F,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2F,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2G,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2G,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2G,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2H,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2H,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2H,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2I,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2I,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2I,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2J,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2J,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2J,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2K,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2K,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A2K,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A2L,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2L,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2L,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2M,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2M,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A2M,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,1A2L,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2L,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2L,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2M,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2M,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A2M,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3,Oil,NA,NA,NA,NA,NA
@@ -8122,9 +8122,9 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2016,1A3A1,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3A1,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3A1,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A3A2,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A3A2,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A3A2,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,1A3A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A3A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A3A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3B,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3B,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A3B,Oil,NA,NA,NA,NA,NA
@@ -8149,12 +8149,12 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2016,1A4,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,1A4A,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A4A,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A4A,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A4B,Coal,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A4B,Natural gas,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,1A4B,Oil,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,1A4A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A4A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A4A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A4B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A4B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,1A4B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8229,46 +8229,46 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2016,20000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,200000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2A1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2A2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2A3,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,2A1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2A2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2A4,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2A4A,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,2A4A,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2A4B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2A4C,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2A4D,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2B,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2B1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B10,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B3,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B4,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B5,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B6,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B7,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,2B1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B10,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2B8,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2B8A,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B8B,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B8C,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B8D,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B8E,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B8F,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,2B8A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B8B,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B8C,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B8D,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B8E,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B8F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2B9,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2B9A,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2B9B,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,2B9A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2B9B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2C,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2C1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2C2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2C3,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2C4,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2C5,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2C6,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2C7,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,2C1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2C2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2C3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2C4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2C5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2C6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2C7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2D1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2D2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2D3,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2D4,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,2D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2D2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2D3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2D4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2F1,NA,NA,NA,NA,NA,NA
@@ -8283,8 +8283,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2016,2G3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2G4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2H,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,2H1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,2H2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,2H1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,2H2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,2H3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,3A,NA,NA,NA,NA,NA,NA
@@ -8328,7 +8328,7 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2016,3D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,4A1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,4A1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4A2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4B,NA,NA,NA,NA,NA,NA
@@ -8336,8 +8336,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2016,4C1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4C2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2016,4D1,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2016,4D2,NA,NA,"leg(KR[2012], KR[2013])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2016,4D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2016,4D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,4E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,5,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2016,5A,NA,NA,NA,NA,NA,NA
@@ -8354,63 +8354,63 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2017,1A1A,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1A1,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A1A1,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A1A1,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,1A1A1,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1A1,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1A1,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1A3,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A1B,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A1B,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A1B,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,1A1B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A1B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A1C,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A2A,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2A,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2A,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2B,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2B,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2B,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2C,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2C,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2C,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2D,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2D,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2D,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2E,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2E,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2E,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2F,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2F,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2F,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2G,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2G,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2G,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2H,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2H,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2H,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2I,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2I,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2I,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2J,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2J,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2J,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,1A2A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2B,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2C,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2C,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2C,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2D,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2D,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2D,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2E,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2E,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2E,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2F,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2F,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2F,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2G,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2G,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2G,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2H,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2H,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2H,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2I,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2I,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2I,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2J,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2J,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2J,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2K,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2K,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A2K,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A2L,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2L,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2L,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2M,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2M,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A2M,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,1A2L,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2L,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2L,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2M,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2M,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A2M,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3,Oil,NA,NA,NA,NA,NA
@@ -8420,9 +8420,9 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2017,1A3A1,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3A1,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3A1,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A3A2,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A3A2,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A3A2,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,1A3A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A3A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A3A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3B,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3B,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A3B,Oil,NA,NA,NA,NA,NA
@@ -8447,12 +8447,12 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2017,1A4,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,1A4A,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A4A,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A4A,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A4B,Coal,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A4B,Natural gas,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,1A4B,Oil,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,1A4A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A4A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A4A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A4B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A4B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,1A4B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8527,46 +8527,46 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2017,20000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,200000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2A1,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2A2,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2A3,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,2A1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2A2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2A4,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2A4A,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,2A4A,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2A4B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2A4C,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2A4D,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2B,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2B1,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B10,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B2,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B3,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B4,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B5,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B6,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B7,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,2B1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B10,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2B8,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2B8A,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B8B,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B8C,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B8D,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B8E,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B8F,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,2B8A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B8B,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B8C,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B8D,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B8E,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B8F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2B9,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2B9A,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2B9B,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,2B9A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2B9B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2C,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2C1,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2C2,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2C3,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2C4,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2C5,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2C6,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2C7,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,2C1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2C2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2C3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2C4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2C5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2C6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2C7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2D1,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2D2,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2D3,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2D4,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,2D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2D2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2D3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2D4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2F1,NA,NA,NA,NA,NA,NA
@@ -8581,8 +8581,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2017,2G3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2G4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2H,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,2H1,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,2H2,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,2H1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,2H2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,2H3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,3A,NA,NA,NA,NA,NA,NA
@@ -8626,7 +8626,7 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2017,3D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,4A1,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,4A1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4A2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4B,NA,NA,NA,NA,NA,NA
@@ -8634,8 +8634,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2017,4C1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4C2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2017,4D1,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2017,4D2,NA,NA,leg(KR[2017]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2017,4D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2017,4D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,4E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,5,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2017,5A,NA,NA,NA,NA,NA,NA
@@ -8652,63 +8652,63 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2018,1A1A,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A1A,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A1A,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A1A1,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1A1,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1A1,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1A2,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1A2,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1A2,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1A3,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1A3,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1A3,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1B,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1B,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A1B,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,1A1A1,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A1,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A1,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A2,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A3,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A3,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1A3,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A1B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A1C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A1C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A1C,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A2A,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2A,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2A,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2B,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2B,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2B,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2C,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2C,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2C,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2D,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2D,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2D,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2E,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2E,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2E,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2F,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2F,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2F,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2G,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2G,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2G,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2H,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2H,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2H,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2I,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2I,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2I,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2J,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2J,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2J,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,1A2A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2B,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2C,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2C,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2C,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2D,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2D,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2D,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2E,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2E,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2E,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2F,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2F,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2F,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2G,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2G,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2G,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2H,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2H,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2H,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2I,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2I,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2I,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2J,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2J,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2J,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2K,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2K,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A2K,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A2L,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2L,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2L,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2M,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2M,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A2M,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,1A2L,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2L,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2L,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2M,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2M,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A2M,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3,Oil,NA,NA,NA,NA,NA
@@ -8718,9 +8718,9 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2018,1A3A1,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3A1,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3A1,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A3A2,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A3A2,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A3A2,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,1A3A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A3A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A3A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3B,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3B,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A3B,Oil,NA,NA,NA,NA,NA
@@ -8745,12 +8745,12 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2018,1A4,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,1A4A,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A4A,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A4A,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A4B,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A4B,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,1A4B,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,1A4A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A4A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A4A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A4B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A4B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,1A4B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8825,46 +8825,46 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2018,20000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,200000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2A1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2A2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2A3,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,2A1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2A2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2A4,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2A4A,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,2A4A,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2A4B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2A4C,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2A4D,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2B,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2B1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B10,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B3,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B4,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B5,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B6,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B7,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,2B1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B10,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2B8,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2B8A,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B8B,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B8C,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B8D,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B8E,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B8F,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,2B8A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B8B,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B8C,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B8D,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B8E,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B8F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2B9,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2B9A,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2B9B,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,2B9A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2B9B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2C,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2C1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2C2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2C3,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2C4,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2C5,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2C6,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2C7,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,2C1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2C2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2C3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2C4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2C5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2C6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2C7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2D1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2D2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2D3,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2D4,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,2D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2D2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2D3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2D4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2F1,NA,NA,NA,NA,NA,NA
@@ -8879,8 +8879,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2018,2G3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2G4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2H,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,2H1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,2H2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,2H1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,2H2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,2H3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,3A,NA,NA,NA,NA,NA,NA
@@ -8924,7 +8924,7 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2018,3D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,4A1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,4A1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4A2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4B,NA,NA,NA,NA,NA,NA
@@ -8932,8 +8932,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2018,4C1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4C2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2018,4D1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2018,4D2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2018,4D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2018,4D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,4E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,5,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2018,5A,NA,NA,NA,NA,NA,NA
@@ -8950,63 +8950,63 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2019,1A1A,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A1A,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A1A1,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1A1,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1A1,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1A2,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1A2,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1A2,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1A3,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1A3,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1A3,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1B,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1B,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A1B,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,1A1A1,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A1,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A1,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A2,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A3,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A3,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1A3,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A1B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A1C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A1C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A1C,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A2A,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2A,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2A,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2B,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2B,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2B,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2C,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2C,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2C,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2D,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2D,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2D,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2E,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2E,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2E,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2F,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2F,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2F,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2G,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2G,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2G,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2H,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2H,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2H,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2I,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2I,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2I,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2J,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2J,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2J,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,1A2A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2B,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2C,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2C,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2C,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2D,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2D,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2D,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2E,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2E,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2E,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2F,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2F,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2F,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2G,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2G,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2G,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2H,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2H,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2H,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2I,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2I,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2I,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2J,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2J,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2J,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2K,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2K,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A2K,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A2L,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2L,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2L,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2M,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2M,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A2M,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,1A2L,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2L,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2L,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2M,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2M,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A2M,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3,Oil,NA,NA,NA,NA,NA
@@ -9016,9 +9016,9 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2019,1A3A1,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3A1,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3A1,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A3A2,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A3A2,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A3A2,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,1A3A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A3A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A3A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3B,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3B,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A3B,Oil,NA,NA,NA,NA,NA
@@ -9043,12 +9043,12 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2019,1A4,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,1A4A,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A4A,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A4A,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A4B,Coal,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A4B,Natural gas,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,1A4B,Oil,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,1A4A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A4A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A4A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A4B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A4B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,1A4B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9123,46 +9123,46 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2019,20000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,200000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2A1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2A2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2A3,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,2A1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2A2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2A4,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2A4A,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,2A4A,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2A4B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2A4C,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2A4D,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2B,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2B1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B10,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B3,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B4,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B5,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B6,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B7,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,2B1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B10,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2B8,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2B8A,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B8B,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B8C,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B8D,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B8E,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B8F,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,2B8A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B8B,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B8C,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B8D,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B8E,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B8F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2B9,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2B9A,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2B9B,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,2B9A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2B9B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2C,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2C1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2C2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2C3,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2C4,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2C5,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2C6,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2C7,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,2C1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2C2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2C3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2C4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2C5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2C6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2C7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2D1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2D2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2D3,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2D4,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,2D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2D2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2D3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2D4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2F1,NA,NA,NA,NA,NA,NA
@@ -9177,8 +9177,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2019,2G3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2G4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2H,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,2H1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,2H2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,2H1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,2H2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,2H3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,3A,NA,NA,NA,NA,NA,NA
@@ -9222,7 +9222,7 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2019,3D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,4A1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,4A1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4A2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4B,NA,NA,NA,NA,NA,NA
@@ -9230,8 +9230,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2019,4C1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4C2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2019,4D1,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2019,4D2,NA,NA,leg(KR[2018]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2019,4D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2019,4D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,4E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,5,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2019,5A,NA,NA,NA,NA,NA,NA
@@ -9248,63 +9248,63 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2020,1A1A,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A1A,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A1A1,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1A1,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1A1,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1A2,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1A2,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1A2,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1A3,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1A3,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1A3,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1B,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1B,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A1B,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,1A1A1,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A1,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A1,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A2,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A3,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A3,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1A3,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A1B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A1C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A1C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A1C,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A2A,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2A,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2A,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2B,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2B,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2B,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2C,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2C,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2C,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2D,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2D,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2D,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2E,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2E,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2E,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2F,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2F,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2F,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2G,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2G,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2G,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2H,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2H,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2H,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2I,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2I,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2I,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2J,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2J,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2J,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,1A2A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2B,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2C,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2C,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2C,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2D,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2D,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2D,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2E,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2E,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2E,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2F,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2F,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2F,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2G,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2G,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2G,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2H,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2H,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2H,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2I,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2I,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2I,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2J,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2J,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2J,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2K,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2K,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A2K,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A2L,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2L,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2L,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2M,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2M,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A2M,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,1A2L,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2L,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2L,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2M,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2M,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A2M,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3,Oil,NA,NA,NA,NA,NA
@@ -9314,9 +9314,9 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2020,1A3A1,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3A1,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3A1,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A3A2,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A3A2,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A3A2,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,1A3A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A3A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A3A2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3B,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3B,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A3B,Oil,NA,NA,NA,NA,NA
@@ -9341,12 +9341,12 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2020,1A4,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,1A4A,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A4A,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A4A,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A4B,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A4B,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,1A4B,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,1A4A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A4A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A4A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A4B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A4B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,1A4B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9421,46 +9421,46 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2020,20000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,200000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2A1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2A2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2A3,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,2A1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2A2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2A4,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2A4A,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,2A4A,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2A4B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2A4C,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2A4D,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2B,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2B1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B10,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B3,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B4,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B5,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B6,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B7,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,2B1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B10,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2B8,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2B8A,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B8B,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B8C,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B8D,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B8E,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B8F,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,2B8A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B8B,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B8C,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B8D,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B8E,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B8F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2B9,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2B9A,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2B9B,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,2B9A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2B9B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2C,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2C1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2C2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2C3,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2C4,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2C5,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2C6,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2C7,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,2C1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2C2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2C3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2C4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2C5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2C6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2C7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2D1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2D2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2D3,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2D4,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,2D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2D2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2D3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2D4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2F1,NA,NA,NA,NA,NA,NA
@@ -9475,8 +9475,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2020,2G3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2G4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2H,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,2H1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,2H2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,2H1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,2H2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,2H3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,3A,NA,NA,NA,NA,NA,NA
@@ -9520,7 +9520,7 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2020,3D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,4A1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,4A1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4A2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4B,NA,NA,NA,NA,NA,NA
@@ -9528,8 +9528,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2020,4C1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4C2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2020,4D1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2020,4D2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2020,4D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2020,4D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,4E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,5,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2020,5A,NA,NA,NA,NA,NA,NA
@@ -9546,63 +9546,63 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2021,1A1A,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A1A,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A1A1,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1A1,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1A1,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1A2,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1A2,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1A2,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1A3,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1A3,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1A3,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1B,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1B,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A1B,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,1A1A1,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A1,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A1,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A2,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A3,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A3,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1A3,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A1B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A1C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A1C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A1C,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A2,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A2,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A2,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A2A,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2A,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2A,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2B,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2B,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2B,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2C,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2C,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2C,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2D,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2D,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2D,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2E,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2E,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2E,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2F,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2F,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2F,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2G,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2G,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2G,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2H,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2H,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2H,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2I,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2I,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2I,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2J,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2J,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2J,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2K,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2K,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2K,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2L,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2L,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2L,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2M,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2M,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A2M,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,1A2A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2B,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2C,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2C,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2C,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2D,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2D,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2D,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2E,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2E,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2E,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2F,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2F,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2F,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2G,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2G,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2G,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2H,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2H,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2H,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2I,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2I,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2I,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2J,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2J,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2J,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2K,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2K,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2K,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2L,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2L,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2L,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2M,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2M,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A2M,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -9612,24 +9612,24 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2021,1A3A1,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3A1,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3A2,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3A2,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3A2,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3B,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3B,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3B,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3C,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3C,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3C,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,1A3A2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3A2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3A2,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3B,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3C,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3C,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3C,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D1,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D1,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3D1,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A3D2,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3D2,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A3D2,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,1A3D2,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3D2,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A3D2,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3E,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A3E,Oil,NA,NA,NA,NA,NA
@@ -9639,12 +9639,12 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2021,1A4,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4,Oil,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,1A4A,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A4A,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A4A,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A4B,Coal,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A4B,Natural gas,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,1A4B,Oil,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,1A4A,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A4A,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A4A,Oil,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A4B,Coal,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A4B,Natural gas,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,1A4B,Oil,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4C,Coal,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9719,46 +9719,46 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2021,20000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,200000,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2A1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2A2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2A3,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,2A1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2A2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2A4,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2A4A,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,2A4A,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2A4B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2A4C,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2A4D,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2B,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2B1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B10,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B3,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B4,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B5,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B6,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B7,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,2B1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B10,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2B8,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2B8A,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B8B,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B8C,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B8D,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B8E,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B8F,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,2B8A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B8B,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B8C,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B8D,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B8E,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B8F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2B9,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2B9A,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2B9B,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,2B9A,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2B9B,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2C,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2C1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2C2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2C3,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2C4,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2C5,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2C6,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2C7,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,2C1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2C2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2C3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2C4,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2C5,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2C6,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2C7,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2D1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2D2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2D3,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2D4,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,2D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2D2,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2D3,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2D4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2F,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2F1,NA,NA,NA,NA,NA,NA
@@ -9773,8 +9773,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2021,2G3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2G4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2H,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,2H1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,2H2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,2H1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,2H2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,2H3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,3A,NA,NA,NA,NA,NA,NA
@@ -9818,7 +9818,7 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2021,3D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4A,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,4A1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,4A1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4A2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4A3,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4B,NA,NA,NA,NA,NA,NA
@@ -9826,8 +9826,8 @@ jurisdiction,year,ipcc_code,Product,tax,ets,tax_rate_excl_ex_clcu,tax_ex_rate,et
 "Korea, Rep.",2021,4C1,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4C2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4D,NA,NA,NA,NA,NA,NA
-"Korea, Rep.",2021,4D1,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-"Korea, Rep.",2021,4D2,NA,NA,leg(KR[2020]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+"Korea, Rep.",2021,4D1,NA,NA,NA,NA,NA,NA
+"Korea, Rep.",2021,4D2,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,4E,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,5,NA,NA,NA,NA,NA,NA
 "Korea, Rep.",2021,5A,NA,NA,NA,NA,NA,NA
