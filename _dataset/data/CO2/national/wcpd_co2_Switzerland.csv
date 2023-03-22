@@ -5672,9 +5672,9 @@ Switzerland,2008,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2008,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2008,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
+Switzerland,2008,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2008,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2008,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A2,Coal,1.0,1.0,che_tax,12.0,0.0,12.0,CHF,che_ets,,,,,
 Switzerland,2008,1A1A2,Natural gas,1.0,1.0,che_tax,12.0,0.0,12.0,CHF,che_ets,,,,,
 Switzerland,2008,1A1A2,Oil,1.0,1.0,che_tax,12.0,0.0,12.0,CHF,che_ets,,,,,
@@ -5765,9 +5765,9 @@ Switzerland,2008,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2008,1A4A,Coal,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2008,1A4A,Natural gas,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2008,1A4A,Oil,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A4B,Coal,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A4B,Natural gas,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A4B,Oil,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
@@ -5970,9 +5970,9 @@ Switzerland,2009,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2009,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2009,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
+Switzerland,2009,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2009,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2009,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A2,Coal,1.0,1.0,che_tax,12.0,0.0,12.0,CHF,che_ets,,,,,
 Switzerland,2009,1A1A2,Natural gas,1.0,1.0,che_tax,12.0,0.0,12.0,CHF,che_ets,,,,,
 Switzerland,2009,1A1A2,Oil,1.0,1.0,che_tax,12.0,0.0,12.0,CHF,che_ets,,,,,
@@ -6063,9 +6063,9 @@ Switzerland,2009,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2009,1A4A,Coal,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2009,1A4A,Natural gas,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2009,1A4A,Oil,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A4B,Coal,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A4B,Natural gas,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A4B,Oil,1.0,0.0,che_tax,12.0,0.0,12.0,CHF,NA,NA,NA,NA,NA,NA
@@ -6268,9 +6268,9 @@ Switzerland,2010,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2010,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2010,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
+Switzerland,2010,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2010,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2010,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A2,Coal,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
 Switzerland,2010,1A1A2,Natural gas,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
 Switzerland,2010,1A1A2,Oil,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
@@ -6361,9 +6361,9 @@ Switzerland,2010,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2010,1A4A,Coal,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2010,1A4A,Natural gas,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2010,1A4A,Oil,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A4B,Coal,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A4B,Natural gas,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A4B,Oil,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
@@ -6566,9 +6566,9 @@ Switzerland,2011,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2011,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2011,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
+Switzerland,2011,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2011,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2011,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A2,Coal,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
 Switzerland,2011,1A1A2,Natural gas,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
 Switzerland,2011,1A1A2,Oil,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
@@ -6659,9 +6659,9 @@ Switzerland,2011,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2011,1A4A,Coal,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2011,1A4A,Natural gas,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2011,1A4A,Oil,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A4B,Coal,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A4B,Natural gas,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A4B,Oil,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
@@ -6864,9 +6864,9 @@ Switzerland,2012,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2012,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2012,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
+Switzerland,2012,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2012,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2012,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A2,Coal,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
 Switzerland,2012,1A1A2,Natural gas,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
 Switzerland,2012,1A1A2,Oil,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
@@ -6957,9 +6957,9 @@ Switzerland,2012,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2012,1A4A,Coal,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2012,1A4A,Natural gas,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2012,1A4A,Oil,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A4B,Coal,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A4B,Natural gas,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A4B,Oil,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
@@ -7162,9 +7162,9 @@ Switzerland,2013,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2013,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
-Switzerland,2013,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,,,,,
+Switzerland,2013,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2013,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2013,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A2,Coal,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
 Switzerland,2013,1A1A2,Natural gas,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
 Switzerland,2013,1A1A2,Oil,1.0,1.0,che_tax,36.0,0.0,36.0,CHF,che_ets,,,,,
@@ -7255,9 +7255,9 @@ Switzerland,2013,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2013,1A4A,Coal,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2013,1A4A,Natural gas,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2013,1A4A,Oil,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A4B,Coal,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A4B,Natural gas,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A4B,Oil,1.0,0.0,che_tax,36.0,0.0,36.0,CHF,NA,NA,NA,NA,NA,NA
@@ -7460,9 +7460,9 @@ Switzerland,2014,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2014,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,30.18,CHF,,,
-Switzerland,2014,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,30.18,CHF,,,
-Switzerland,2014,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,30.18,CHF,,,
+Switzerland,2014,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2014,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2014,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A1A2,Coal,1.0,1.0,che_tax,60.0,0.0,60.0,CHF,che_ets,30.18,CHF,,,
 Switzerland,2014,1A1A2,Natural gas,1.0,1.0,che_tax,60.0,0.0,60.0,CHF,che_ets,30.18,CHF,,,
 Switzerland,2014,1A1A2,Oil,1.0,1.0,che_tax,60.0,0.0,60.0,CHF,che_ets,30.18,CHF,,,
@@ -7553,9 +7553,9 @@ Switzerland,2014,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2014,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2014,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2014,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2014,1A4A,Coal,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2014,1A4A,Natural gas,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2014,1A4A,Oil,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A4B,Coal,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A4B,Natural gas,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2014,1A4B,Oil,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
@@ -7758,9 +7758,9 @@ Switzerland,2015,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2015,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,11.72,CHF,,,
-Switzerland,2015,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,11.72,CHF,,,
-Switzerland,2015,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,11.72,CHF,,,
+Switzerland,2015,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2015,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2015,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A1A2,Coal,1.0,1.0,che_tax,60.0,0.0,60.0,CHF,che_ets,11.72,CHF,,,
 Switzerland,2015,1A1A2,Natural gas,1.0,1.0,che_tax,60.0,0.0,60.0,CHF,che_ets,11.72,CHF,,,
 Switzerland,2015,1A1A2,Oil,1.0,1.0,che_tax,60.0,0.0,60.0,CHF,che_ets,11.72,CHF,,,
@@ -7851,9 +7851,9 @@ Switzerland,2015,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2015,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2015,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2015,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2015,1A4A,Coal,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2015,1A4A,Natural gas,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2015,1A4A,Oil,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A4B,Coal,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A4B,Natural gas,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2015,1A4B,Oil,1.0,0.0,che_tax,60.0,0.0,60.0,CHF,NA,NA,NA,NA,NA,NA
@@ -8056,9 +8056,9 @@ Switzerland,2016,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2016,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,7.64,CHF,,,
-Switzerland,2016,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,7.64,CHF,,,
-Switzerland,2016,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,7.64,CHF,,,
+Switzerland,2016,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2016,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2016,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A1A2,Coal,1.0,1.0,che_tax,84.0,0.0,84.0,CHF,che_ets,7.64,CHF,,,
 Switzerland,2016,1A1A2,Natural gas,1.0,1.0,che_tax,84.0,0.0,84.0,CHF,che_ets,7.64,CHF,,,
 Switzerland,2016,1A1A2,Oil,1.0,1.0,che_tax,84.0,0.0,84.0,CHF,che_ets,7.64,CHF,,,
@@ -8149,9 +8149,9 @@ Switzerland,2016,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2016,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2016,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2016,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2016,1A4A,Coal,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2016,1A4A,Natural gas,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2016,1A4A,Oil,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A4B,Coal,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A4B,Natural gas,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2016,1A4B,Oil,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
@@ -8354,9 +8354,9 @@ Switzerland,2017,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2017,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,7.09,CHF,,,
-Switzerland,2017,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,7.09,CHF,,,
-Switzerland,2017,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,7.09,CHF,,,
+Switzerland,2017,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2017,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2017,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A1A2,Coal,1.0,1.0,che_tax,84.0,0.0,84.0,CHF,che_ets,7.09,CHF,,,
 Switzerland,2017,1A1A2,Natural gas,1.0,1.0,che_tax,84.0,0.0,84.0,CHF,che_ets,7.09,CHF,,,
 Switzerland,2017,1A1A2,Oil,1.0,1.0,che_tax,84.0,0.0,84.0,CHF,che_ets,7.09,CHF,,,
@@ -8447,9 +8447,9 @@ Switzerland,2017,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2017,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2017,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2017,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2017,1A4A,Coal,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2017,1A4A,Natural gas,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2017,1A4A,Oil,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A4B,Coal,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A4B,Natural gas,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2017,1A4B,Oil,1.0,0.0,che_tax,84.0,0.0,84.0,CHF,NA,NA,NA,NA,NA,NA
@@ -8652,9 +8652,9 @@ Switzerland,2018,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2018,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,6.57,CHF,,,
-Switzerland,2018,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,6.57,CHF,,,
-Switzerland,2018,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,6.57,CHF,,,
+Switzerland,2018,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2018,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2018,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A1A2,Coal,1.0,1.0,che_tax,96.0,0.0,96.0,CHF,che_ets,6.57,CHF,,,
 Switzerland,2018,1A1A2,Natural gas,1.0,1.0,che_tax,96.0,0.0,96.0,CHF,che_ets,6.57,CHF,,,
 Switzerland,2018,1A1A2,Oil,1.0,1.0,che_tax,96.0,0.0,96.0,CHF,che_ets,6.57,CHF,,,
@@ -8745,9 +8745,9 @@ Switzerland,2018,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2018,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2018,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2018,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2018,1A4A,Coal,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2018,1A4A,Natural gas,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2018,1A4A,Oil,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A4B,Coal,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A4B,Natural gas,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2018,1A4B,Oil,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
@@ -8950,9 +8950,9 @@ Switzerland,2019,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2019,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,12.68,CHF,,,
-Switzerland,2019,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,12.68,CHF,,,
-Switzerland,2019,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,12.68,CHF,,,
+Switzerland,2019,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2019,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2019,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A1A2,Coal,1.0,1.0,che_tax,96.0,0.0,96.0,CHF,che_ets,12.68,CHF,,,
 Switzerland,2019,1A1A2,Natural gas,1.0,1.0,che_tax,96.0,0.0,96.0,CHF,che_ets,12.68,CHF,,,
 Switzerland,2019,1A1A2,Oil,1.0,1.0,che_tax,96.0,0.0,96.0,CHF,che_ets,12.68,CHF,,,
@@ -9043,9 +9043,9 @@ Switzerland,2019,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2019,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2019,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2019,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2019,1A4A,Coal,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2019,1A4A,Natural gas,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2019,1A4A,Oil,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A4B,Coal,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A4B,Natural gas,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2019,1A4B,Oil,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
@@ -9341,9 +9341,9 @@ Switzerland,2020,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2020,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2020,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2020,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2020,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2020,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2020,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2020,1A4A,Coal,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2020,1A4A,Natural gas,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2020,1A4A,Oil,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2020,1A4B,Coal,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2020,1A4B,Natural gas,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2020,1A4B,Oil,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
@@ -9639,9 +9639,9 @@ Switzerland,2021,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2021,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2021,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2021,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2021,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2021,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2021,1A4A,Coal,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2021,1A4A,Natural gas,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2021,1A4A,Oil,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2021,1A4B,Coal,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2021,1A4B,Natural gas,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2021,1A4B,Oil,1.0,0.0,che_tax,96.0,0.0,96.0,CHF,NA,NA,NA,NA,NA,NA
@@ -9844,63 +9844,63 @@ Switzerland,2022,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A1C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,1A1A1,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1A1,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1A2,Coal,1.0,1.0,che_tax,120.0,0.0,120.0,CHF,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1A2,Natural gas,1.0,1.0,che_tax,120.0,0.0,120.0,CHF,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1A2,Oil,1.0,1.0,che_tax,120.0,0.0,120.0,CHF,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1A3,Coal,1.0,1.0,che_tax,120.0,0.0,120.0,CHF,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1A3,Natural gas,1.0,1.0,che_tax,120.0,0.0,120.0,CHF,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1A3,Oil,1.0,1.0,che_tax,120.0,0.0,120.0,CHF,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1B,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A1C,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2F,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2F,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2G,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2G,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2H,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2H,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2I,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2I,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2J,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2J,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2K,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2K,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2L,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2L,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2M,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A2M,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,1A2A,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2A,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2A,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2B,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2B,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2C,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2C,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2D,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2D,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2D,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2E,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2E,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2E,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2F,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2F,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2F,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2G,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2G,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2G,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2H,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2H,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2H,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2I,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2I,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2I,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2J,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2J,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2J,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2K,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2K,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2K,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2L,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2L,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2L,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2M,Coal,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2M,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,1A2M,Oil,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9937,12 +9937,12 @@ Switzerland,2022,1A3E1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A4A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,1A4B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,1A4A,Coal,1.0,0.0,che_tax,120.0,0.0,120.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2022,1A4A,Natural gas,1.0,0.0,che_tax,120.0,0.0,120.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2022,1A4A,Oil,1.0,0.0,che_tax,120.0,0.0,120.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2022,1A4B,Coal,1.0,0.0,che_tax,120.0,0.0,120.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2022,1A4B,Natural gas,1.0,0.0,che_tax,120.0,0.0,120.0,CHF,NA,NA,NA,NA,NA,NA
+Switzerland,2022,1A4B,Oil,1.0,0.0,che_tax,120.0,0.0,120.0,CHF,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10017,41 +10017,41 @@ Switzerland,2022,2000,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,20000,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,200000,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2A1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2A2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2A3,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,2A1,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2A2,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2A3,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,2A4,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2A4A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,2A4A,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,2A4B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2A4C,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2A4D,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,2B1,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,2B10,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B3,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B4,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,2B2,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2B3,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2B4,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,2B5,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2B6,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B7,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,2B7,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,2B8,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B8A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B8B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B8C,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B8D,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B8E,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2B8F,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,2B8A,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2B8B,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2B8C,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2B8D,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2B8E,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2B8F,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,2B9,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2B9A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2B9B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2C,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2C1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2C2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2C3,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2C4,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2C5,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2C6,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2C7,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,2C1,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2C2,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2C3,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2C4,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2C5,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2C6,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
+Switzerland,2022,2C7,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,2D,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2D1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2D2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10071,7 +10071,7 @@ Switzerland,2022,2G2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2G3,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2G4,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2H,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2022,2H1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,2022,2H1,NA,0.0,1.0,NA,NA,NA,NA,NA,che_ets,76.49,CHF,,,
 Switzerland,2022,2H2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,2H3,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2022,3,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
