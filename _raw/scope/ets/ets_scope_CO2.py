@@ -98,7 +98,7 @@ def scope():
                             2015:eu_ets_jur_IV, 2016:eu_ets_jur_IV,
                             2017:eu_ets_jur_IV, 2018:eu_ets_jur_IV,
                             2019:eu_ets_jur_IV, 2020:eu_ets_jur_IV,
-                            2021:eu_ets_jur_V}
+                            2021:eu_ets_jur_V, 2022:eu_ets_jur_V}
     
     eu_ets_ipcc_scope = {2005:eu_ets_ipcc_I, 2006:eu_ets_ipcc_I,
                             2007:eu_ets_ipcc_I, 2008:eu_ets_ipcc_I,
@@ -108,7 +108,7 @@ def scope():
                             2015:eu_ets_ipcc_II, 2016:eu_ets_ipcc_II,
                             2017:eu_ets_ipcc_II, 2018:eu_ets_ipcc_II,
                             2019:eu_ets_ipcc_II, 2020:eu_ets_ipcc_II,
-                            2021:eu_ets_ipcc_II}
+                            2021:eu_ets_ipcc_II, 2022:eu_ets_ipcc_II}
     
     
     ## Sources dictionary
@@ -121,7 +121,7 @@ def scope():
                                2015:"leg(EC[2014])", 2016:"leg(EC[2014])", 
                                2017:"leg(EC[2014])", 2018:"leg(EC[2018])", 
                                2019:"leg(EC[2018])", 2020:"leg(EC[2018], EC[2020])", 
-                               2021:"leg(EC[2018], EC[2020])"}
+                               2021:"leg(EC[2018], EC[2020])", 2022:" "}
 
     #----------------------------------------------------------------------------
     
