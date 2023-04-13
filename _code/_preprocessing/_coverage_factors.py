@@ -20,7 +20,7 @@ for scheme in taxes_1_list:
             for sector in ipcc:
 
                 df = df.append({'scheme_id':scheme, "Jurisdiction":jurisdiction,
-                                "Year":year, "IPCC_code":sector}, ignore_index=True)
+                                "Year":year, "ipcc_code":sector}, ignore_index=True)
 
 for scheme in ets_1_list:
     print(scheme)
@@ -31,7 +31,7 @@ for scheme in ets_1_list:
             for sector in ipcc:
                  
                 df = df.append({'scheme_id':scheme, "Jurisdiction":jurisdiction,
-                                "Year":year, "IPCC_code":sector}, ignore_index=True)
+                                "Year":year, "ipcc_code":sector}, ignore_index=True)
 
 # Fill values
 
@@ -39,8 +39,8 @@ for scheme in taxes_1_list:
     for year in taxes_coverage[scheme]["jurisdictions"].keys():
         for jurisdiction in taxes_coverage[scheme]["jurisdictions"][year]:        
             
-            row = (df.scheme_id==scheme) & (df.Year==year) & (df.Jurisdiction==jurisdiction) & (~df.IPCC_code.isin(taxes_coverage[scheme]["sectors"][year]))
-            row2 = (df.scheme_id==scheme) & (df.Year==year) & (df.Jurisdiction==jurisdiction) & (df.IPCC_code.isin(taxes_coverage[scheme]["sectors"][year]))
+            row = (df.scheme_id==scheme) & (df.Year==year) & (df.Jurisdiction==jurisdiction) & (~df.ipcc_code.isin(taxes_coverage[scheme]["sectors"][year]))
+            row2 = (df.scheme_id==scheme) & (df.Year==year) & (df.Jurisdiction==jurisdiction) & (df.ipcc_code.isin(taxes_coverage[scheme]["sectors"][year]))
             
             df.loc[row, "coverage_factor"] = "NA"
             df.loc[row2, "coverage_factor"] = 1
@@ -49,8 +49,8 @@ for scheme in ets_1_list:
     for year in ets_coverage[scheme]["jurisdictions"].keys():
         for jurisdiction in ets_coverage[scheme]["jurisdictions"][year]:        
             
-            row = (df.scheme_id==scheme) & (df.Year==year) & (df.Jurisdiction==jurisdiction) & (~df.IPCC_code.isin(ets_coverage[scheme]["sectors"][year]))
-            row2 = (df.scheme_id==scheme) & (df.Year==year) & (df.Jurisdiction==jurisdiction) & (df.IPCC_code.isin(ets_coverage[scheme]["sectors"][year]))
+            row = (df.scheme_id==scheme) & (df.year==year) & (df.jurisdiction==jurisdiction) & (~df.ipcc_code.isin(ets_coverage[scheme]["sectors"][year]))
+            row2 = (df.scheme_id==scheme) & (df.year==year) & (df.jurisdiction==jurisdiction) & (df.ipcc_code.isin(ets_coverage[scheme]["sectors"][year]))
             
             df.loc[row, "coverage_factor"] = "NA"
             df.loc[row2, "coverage_factor"] = 1
