@@ -11,9 +11,9 @@ col_tax,2019,CO2,Oil,16422,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DI
 col_tax,2020,CO2,Coal,NA,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DIAN[2020])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2020,CO2,Natural gas,17211,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DIAN[2020])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2020,CO2,Oil,17211,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DIAN[2020])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
-col_tax,2021,CO2,Coal,NA,COP,report(leg(COL-DIAN[2021]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
-col_tax,2021,CO2,Natural gas,17660,COP,report(leg(COL-DIAN[2021]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
-col_tax,2021,CO2,Oil,17660,COP,report(leg(COL-DIAN[2021]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
-col_tax,2022,CO2,Coal,NA,COP,report(leg(COL-DIAN[2022]),
-col_tax,2022,CO2,Natural gas,18829,COP,report(leg(COL-DIAN[2022]),
-col_tax,2022,CO2,Oil,18829,COP,report(leg(COL-DIAN[2022]),
+col_tax,2021,CO2,Coal,NA,COP,leg(COL-DIAN[2022]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
+col_tax,2021,CO2,Natural gas,17660,COP,leg(COL-DIAN[2022]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
+col_tax,2021,CO2,Oil,17660,COP,leg(COL-DIAN[2022]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
+col_tax,2022,CO2,Coal,NA,COP,leg(COL-DIAN[2022]),
+col_tax,2022,CO2,Natural gas,18829,COP,leg(COL-DIAN[2022]),
+col_tax,2022,CO2,Oil,18829,COP,leg(COL-DIAN[2022]),
