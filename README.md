@@ -34,7 +34,7 @@ The repository is organised around three main directories:
 
 ## Citation
 
-If you use the dataset in scientific publication, we would appreciate a reference to the following paper:
+If you use the dataset in scientific publication, please reference the following paper:
 
 ``Dolphin, G., Xiahou, Q. World carbon pricing database: sources and methods. Sci Data 9, 573 (2022)``. The article is available in Open Access at [https://doi.org/10.1038/s41597-022-01659-x](https://doi.org/10.1038/s41597-022-01659-x).
 
