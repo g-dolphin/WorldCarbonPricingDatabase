@@ -8,7 +8,7 @@ Concordances typically require the calculation of distribution weights (or keys)
 
 1 to many concordances require either (i) aggregation of ISIC categories into 1 or (ii) calculation of distribution keys relying on auxiliary data.
 
-For instance, one can construct distribution keys based on national accounts data. This is the approach followed for the construction of (FIGARO)[https://ec.europa.eu/eurostat/web/esa-supply-use-input-tables/figaro]. The methodology is as follows:
+For instance, one can construct distribution keys based on national accounts data. This is the approach followed for the construction of [FIGARO](https://ec.europa.eu/eurostat/web/esa-supply-use-input-tables/figaro). The methodology is as follows:
 - Assume that the emission intensity (emissions/unit of monetary output) is equal to that of the EU27 average
 - Multiply by monetary output of country C
 - Sum estimated emissions over all N categories
