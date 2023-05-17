@@ -9844,15 +9844,15 @@ Virginia,2022,1A1,Oil,NA,NA,NA,NA,NA
 Virginia,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Virginia,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Virginia,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Virginia,2022,1A1A1,Coal,NA,NA,NA,NA,NA
-Virginia,2022,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Virginia,2022,1A1A1,Oil,NA,NA,NA,NA,NA
-Virginia,2022,1A1A2,Coal,NA,NA,NA,NA,NA
-Virginia,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Virginia,2022,1A1A2,Oil,NA,NA,NA,NA,NA
-Virginia,2022,1A1A3,Coal,NA,NA,NA,NA,NA
-Virginia,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
-Virginia,2022,1A1A3,Oil,NA,NA,NA,NA,NA
+Virginia,2022,1A1A1,Coal,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Virginia,2022,1A1A1,Natural gas,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Virginia,2022,1A1A1,Oil,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Virginia,2022,1A1A2,Coal,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Virginia,2022,1A1A2,Natural gas,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Virginia,2022,1A1A2,Oil,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Virginia,2022,1A1A3,Coal,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Virginia,2022,1A1A3,Natural gas,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
+Virginia,2022,1A1A3,Oil,NA,"gvt(RGGI-MOU[2005], NJ[2011])",NA,NA,db(RGGI[2022]); RGGI CO2 Allowance Tracking System - Transaction Price Report
 Virginia,2022,1A1B,Coal,NA,NA,NA,NA,NA
 Virginia,2022,1A1B,Natural gas,NA,NA,NA,NA,NA
 Virginia,2022,1A1B,Oil,NA,NA,NA,NA,NA

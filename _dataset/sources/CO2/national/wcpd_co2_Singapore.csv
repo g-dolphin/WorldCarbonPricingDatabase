@@ -9844,63 +9844,63 @@ Singapore,2022,1A1,Oil,NA,NA,NA,NA,NA
 Singapore,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Singapore,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Singapore,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A1A1,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A1A1,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A1A2,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A1A2,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A1A3,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A1A3,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A1B,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A1B,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A1B,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A1C,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A1C,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A1C,Oil,NA,NA,NA,NA,NA
+Singapore,2022,1A1A1,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1A1,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1A1,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1A2,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1A2,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1A2,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1A3,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1A3,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1A3,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1B,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1B,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1B,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1C,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1C,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A1C,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
 Singapore,2022,1A2,Coal,NA,NA,NA,NA,NA
 Singapore,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Singapore,2022,1A2,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2A,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2A,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2A,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2B,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2B,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2B,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2C,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2C,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2C,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2D,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2D,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2D,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2E,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2E,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2E,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2F,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2F,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2G,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2G,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2H,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2H,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2I,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2I,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2I,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2J,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2J,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2K,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2K,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2L,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2L,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2M,Coal,NA,NA,NA,NA,NA
-Singapore,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-Singapore,2022,1A2M,Oil,NA,NA,NA,NA,NA
+Singapore,2022,1A2A,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2A,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2A,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2B,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2B,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2B,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2C,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2C,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2C,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2D,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2D,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2D,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2E,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2E,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2E,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2F,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2F,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2F,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2G,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2G,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2G,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2H,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2H,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2H,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2I,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2I,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2I,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2J,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2J,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2J,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2K,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2K,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2K,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2L,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2L,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2L,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2M,Coal,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2M,Natural gas,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
+Singapore,2022,1A2M,Oil,leg(SG[2018]),NA,db(WB[2022]);,NA,NA
 Singapore,2022,1A3,Coal,NA,NA,NA,NA,NA
 Singapore,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Singapore,2022,1A3,Oil,NA,NA,NA,NA,NA

@@ -9844,15 +9844,15 @@ Japan,2022,1A1,Oil,NA,NA,NA,NA,NA
 Japan,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Japan,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Japan,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A1A1,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A1A1,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A1A2,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A1A2,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A1A3,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A1A3,Oil,NA,NA,NA,NA,NA
+Japan,2022,1A1A1,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A1A1,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A1A1,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A1A2,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A1A2,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A1A2,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A1A3,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A1A3,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A1A3,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
 Japan,2022,1A1B,Coal,NA,NA,NA,NA,NA
 Japan,2022,1A1B,Natural gas,NA,NA,NA,NA,NA
 Japan,2022,1A1B,Oil,NA,NA,NA,NA,NA
@@ -9862,45 +9862,45 @@ Japan,2022,1A1C,Oil,NA,NA,NA,NA,NA
 Japan,2022,1A2,Coal,NA,NA,NA,NA,NA
 Japan,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Japan,2022,1A2,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2A,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2A,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2A,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2B,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2B,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2B,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2C,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2C,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2C,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2D,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2D,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2D,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2E,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2E,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2E,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2F,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2F,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2G,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2G,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2H,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2H,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2I,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2I,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2I,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2J,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2J,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2K,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2K,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2L,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2L,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A2M,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A2M,Oil,NA,NA,NA,NA,NA
+Japan,2022,1A2A,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2A,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2A,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2B,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2B,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2B,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2C,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2C,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2C,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2D,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2D,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2D,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2E,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2E,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2E,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2F,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2F,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2F,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2G,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2G,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2G,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2H,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2H,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2H,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2I,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2I,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2I,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2J,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2J,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2J,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2K,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2K,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2K,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2L,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2L,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2L,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2M,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2M,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A2M,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
 Japan,2022,1A3,Coal,NA,NA,NA,NA,NA
 Japan,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Japan,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -9913,9 +9913,9 @@ Japan,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 Japan,2022,1A3A2,Coal,NA,NA,NA,NA,NA
 Japan,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Japan,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-Japan,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Japan,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Japan,2022,1A3B,Oil,NA,NA,NA,NA,NA
+Japan,2022,1A3B,Coal,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A3B,Natural gas,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
+Japan,2022,1A3B,Oil,"leg(JP[2012]), gvt(MEJ-CT[2014])",NA,"report(IEA-JP[2021]), db(WBCPD[2022]); ",NA,NA
 Japan,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Japan,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Japan,2022,1A3C,Oil,NA,NA,NA,NA,NA
