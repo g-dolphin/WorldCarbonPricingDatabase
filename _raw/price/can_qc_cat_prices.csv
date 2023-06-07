@@ -1,3 +1,4 @@
 scheme_id,year,allowance_weighted_price,currency_code,source,comment
 can_qc_cat,2013,10.75,CAD,db(ICAP-ETS[2021]),calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 can_qc_cat,2014,13.43388409,CAD,db(ICAP-ETS[2021]),calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+can_qc_cat,2022,36.29,CAD,db(ICAP-ETS[2022]),average auction price
