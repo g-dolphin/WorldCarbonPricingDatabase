@@ -2,3 +2,4 @@ scheme_id,year,allowance_weighted_price,currency_code,source,comment
 can_obps,2019,20,CAD,"gvt(ECCC[2020]), report(IETA[2020])", the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 can_obps,2020,30,CAD,"gvt(ECCC[2020]), report(IETA[2020])", the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 can_obps,2021,40,CAD,"gvt(ECCC[2020]), report(IETA[2020])", the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
+can_obps,2022,50,CAD,report(ECCC[2020]),
