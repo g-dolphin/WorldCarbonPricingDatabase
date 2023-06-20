@@ -1,0 +1,4 @@
+scheme_id,year,ghg,product,rate,currency_code,source,comment
+mex_sm_tax,2022,CO2,Coal,43,MXN,leg(CFEMM[2022]),
+mex_sm_tax,2022,CO2,Oil,43,MXN,leg(CFEMM[2022]),
+mex_sm_tax,2022,CO2,Natural Gas,43,MXN,leg(CFEMM[2022]),
