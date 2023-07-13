@@ -2,3 +2,4 @@ scheme_id,year,allowance_weighted_price,currency_code,source,comment
 can_ns_ets,2019,NA,NA,,no data available
 can_ns_ets,2020,24.32,CAD,"gvt(ECCC[2021], NSE[2020a], NSE[2020b])",allowance-weighted settlement auction prices in June 2020 and December 2020
 can_ns_ets,2021,36.71,CAD,"gvt(ECCC[2021], NSE[2021])",settlement auction prices in June 2021
+can_ns_ets,2022,34.63,CAD,"gvt(ECCC[2022]), db(ICAP-ETS[2022])",average auction price
