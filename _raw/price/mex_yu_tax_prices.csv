@@ -2,3 +2,9 @@ scheme_id,year,ghg,product,rate,currency_code,source,comment
 mex_yu_tax,2022,CO2,Coal,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
 mex_yu_tax,2022,CO2,Oil,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
 mex_yu_tax,2022,CO2,Natural gas,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
+mex_yu_tax,2022,CH4,Coal,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
+mex_yu_tax,2022,CH4,Oil,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
+mex_yu_tax,2022,CH4,Natural gas,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
+mex_yu_tax,2022,N2O,Coal,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
+mex_yu_tax,2022,N2O,Oil,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
+mex_yu_tax,2022,N2O,Natural gas,259.79,MXN,"leg(TLSY[2021]), db(WB[2022])",calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70
