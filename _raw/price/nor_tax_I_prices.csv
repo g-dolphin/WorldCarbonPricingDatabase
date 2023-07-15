@@ -30,6 +30,7 @@ nor_tax_I,2018,CO2,Coal,187.4062969,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2018]
 nor_tax_I,2019,CO2,Coal,,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2019]),report(IEA-EPT[2020])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,2020,CO2,Coal,,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2020]),report(IEA-EPT[2020])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,2021,CO2,Coal,,NOK,,
+nor_tax_I,2022,CO2,Coal,766,NOK,db(WBCPD[2022]),
 nor_tax_I,1991,CO2,Oil,300,NOK,"leg(NOR[1933]),report(IEA-EPT[2018])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,1992,CO2,Oil,400,NOK,"leg(NOR[1933]),report(IEA-EPT[2018])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,1993,CO2,Oil,400,NOK,"leg(NOR[1933]),report(IEA-EPT[2018])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
@@ -61,7 +62,7 @@ nor_tax_I,2018,CO2,Oil,580,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2018]),report(
 nor_tax_I,2019,CO2,Oil,590,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2019]),report(IEA-EPT[2020])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,2020,CO2,Oil,590,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2020]),report(IEA-EPT[2020])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,2021,CO2,Oil,,NOK,,
-nor_tax_I,2022,CO2,Oil,766,NOK,,
+nor_tax_I,2022,CO2,Oil,766,NOK,db(WBCPD[2022]),
 nor_tax_I,1991,CO2,Natural gas,0,NOK,"leg(NOR[1933]),report(IEA-EPT[2018])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,1992,CO2,Natural gas,0,NOK,"leg(NOR[1933]),report(IEA-EPT[2018])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,1993,CO2,Natural gas,0,NOK,"leg(NOR[1933]),report(IEA-EPT[2018])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
@@ -93,4 +94,4 @@ nor_tax_I,2018,CO2,Natural gas,500,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2018])
 nor_tax_I,2019,CO2,Natural gas,510,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2019]),report(IEA-EPT[2020])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,2020,CO2,Natural gas,540,NOK,"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2020]),report(IEA-EPT[2020])",The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).
 nor_tax_I,2021,CO2,Natural gas,,NOK,,
-nor_tax_I,2022,CO2,Natural gas,766,NOK,,
+nor_tax_I,2022,CO2,Natural gas,766,NOK,db(WBCPD[2022]),
