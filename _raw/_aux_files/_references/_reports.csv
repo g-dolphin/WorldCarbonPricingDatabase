@@ -1,88 +1,88 @@
-jurisdiction,year,title,institution,citation_key
-Australia,2017,Auction December 2017,Australian Government - Clean Energy Regulator,AU-A-I
-Australia,2017,Auction April 2017,Australian Government - Clean Energy Regulator,AU-A-II
-Australia,2016,Auction November 2016,Australian Government - Clean Energy Regulator,AU-A-III
-Australia,2016,Auction April 2016,Australian Government - Clean Energy Regulator,AU-A-IV
-Australia,2011,Australia's carbon pricing mechanism,Center for Climate and Energy solution,CCES - CPM
-British Columbia,2015,Climate Action Plan,Government of British Columbia,BC - CAP
-Canada,2020,Carbon Market Business Brief - Canada Federal Output-Based Pricing System (OBPS),IETA,IETA
-China ETS pilots,2015,China Carbon Market Monitor,Partnership for Market Readiness,PMR-CHP
-Colombia,2019,Taxing energy use,OECD,OECD-TEU-COL
-Colombia,2019,Nota tecnica,Mexico - Plataforma Mexicana de Carbono,Mexico
-"Connecticut, Delaware, Maine, Massachussets, Maryland, New Hampshire, New Jersey, New York, Rhode Island, Vermont",2015,FCP CO2 allowance allocation,RGGI,RGGI-FCP
-"Connecticut, Delaware, Maine, Massachussets, Maryland, New Hampshire, New Jersey, New York, Rhode Island, Vermont",2015,SCP CO2 allowance allocation,RGGI,RGGI-SCP
-Denmark,2002,Energy Policies of IEA Countries: Denmark,IEA,IEA-DK
-"Denmark, Nordic countries",2006,The Use of Economic Instruments in Nordic and Baltic Environmental Policy,Nordic Council,NC-EIN
-Estonia,2001,Environmental Performance Reviews - Estonia Second Review,Economic Commission for Europe,ECE
+jurisdiction,year,title,institution,citation_key,sourceID
+Australia,2017,Auction December 2017,Australian Government - Clean Energy Regulator,AU-A-I,AUS-rep-001
+Australia,2017,Auction April 2017,Australian Government - Clean Energy Regulator,AU-A-II,AUS-rep-002
+Australia,2016,Auction November 2016,Australian Government - Clean Energy Regulator,AU-A-III,AUS-rep-003
+Australia,2016,Auction April 2016,Australian Government - Clean Energy Regulator,AU-A-IV,AUS-rep-004
+Australia,2011,Australia's carbon pricing mechanism,Center for Climate and Energy solution,CCES - CPM,AUS-rep-005
+British Columbia,2015,Climate Action Plan,Government of British Columbia,BC - CAP,CAN-BC-rep-001
+Canada,2020,Carbon Market Business Brief - Canada Federal Output-Based Pricing System (OBPS),IETA,IETA,CAN-rep-001
+China,2015,China Carbon Market Monitor,Partnership for Market Readiness,PMR-CHP,CHN-rep-001
+Colombia,2019,Taxing energy use,OECD,OECD-TEU-COL,COL-rep-001
+Colombia,2019,Nota tecnica,Mexico - Plataforma Mexicana de Carbono,Mexico,COL-rep-002
+"Connecticut, Delaware, Maine, Massachussets, Maryland, New Hampshire, New Jersey, New York, Rhode Island, Vermont",2015,FCP CO2 allowance allocation,RGGI,RGGI-FCP,
+"Connecticut, Delaware, Maine, Massachussets, Maryland, New Hampshire, New Jersey, New York, Rhode Island, Vermont",2015,SCP CO2 allowance allocation,RGGI,RGGI-SCP,
+Denmark,2002,Energy Policies of IEA Countries: Denmark,IEA,IEA-DK,DNK-rep-001
+multi_jur,2006,The Use of Economic Instruments in Nordic and Baltic Environmental Policy,Nordic Council,NC-EIN,
+Estonia,2001,Environmental Performance Reviews - Estonia Second Review,Economic Commission for Europe,ECE,EST-rep-001
 Estonia,2003,"Policies to Reduce Greenhouse Gas Emissions in Industry -
 Successful Approaches and Lessons Learned:
-Workshop Report ",OECD-IEA,OECD-IEA
-Estonia,2017,OECD Environmental Performance Reviews: Estonia 2017,OECD,OECD
-Estonia,2009,Environmental Taxes,Statistics Estonia,EST-SE
-Estonia,2019,Taxing Energy Use - Country note: Estonia,OECD,OECD
-Finland,2007,Energy Policies of IEA Countries: Finland,IEA,IEA-FI
-Japan,2009,Japan's Voluntary Emissions Trading Scheme,Ministry of the Environment,JME - JVETS
-Japan,2021,Japan 2021 Energy Policy Review,IEA,IEA-JP
-Kazakhstan,2021,Kazakhstan Emissions Trading Scheme,ICAP,ICAP - KZ
-Kazakhstan,2020,Emissions Trading Worldwide,ICAP,ICAP
-Kazakhstan,2016,Emissions Trading in Kazakhstan,DEHSt,DEHST
-Kazakhstan,2016,KAZAKHSTAN:AN EMISSIONS TRADING CASE STUDY,IETA,IETA
-"Korea, Rep.",2017,Korea ETS Map Factsheet,ICAP,ICAP - FS - K
-"Korea, Rep.",2018,Korea ETS Map Factsheet,ICAP,ICAP - FS - K
-Mexico,2021,Mexico ETS Map Factsheet,ICAP,ICAP - MX
-multi_jur,2013,Effective Carbon Prices,OECD,OECD - ECP
-multi_jur,2021,ICAP ETS Map Factsheets,ICAP,ICAP
-multi_jur,2014,Emissions Trading Worldwide - Status Report 2014,ICAP,ICAP - SR
-multi_jur,2015,Emissions Trading Worldwide - Status Report 2015,ICAP,ICAP - SR
-multi_jur,2015,ETS Map Factsheet,ICAP,ICAP - FS
-multi_jur,2003,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2004,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2005,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2006,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2007,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2008,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2009,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2010,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2011,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2012,State and trends of the carbon market,WB,WB - SCM
-multi_jur,2013,Mapping Carbon Pricing Initiatives,WB,WB - CPI
-multi_jur,2014,Carbon Pricing Brief,WB,WB - CPB
-multi_jur,2014,State and trends of carbon pricing,WB,WB - STCP
-multi_jur,2015,State and trends of carbon pricing,WB,WB - STCP
-multi_jur,2015,Background note on Carbon Tax,WB,WB - BCT
-multi_jur,2017,Carbon Tax Guide: A Handbook for Policy Makers,WB,WB
-multi_jur,2016,State and trends of carbon pricing,WB,WB - STCP
-multi_jur,2017,State and trends of carbon pricing,WB,WB - STCP
-multi_jur,2018,State and trends of carbon pricing,WB,WB - STCP
-multi_jur,2019,State and trends of carbon pricing,WB,WB - STCP
-multi_jur,2020,State and trends of carbon pricing,WB,WB - STCP
-multi_jur,2021,State and trends of carbon pricing,WB,WB - STCP
-multi_jur,2012,Carbon Pricing Report,CETRiE,CETRiE - CPR
-multi_jur,2009,Carbon Taxes: A Review of Experience and Policy Design Considerations,US National Renewable Energy Laboratory,SUM-BIR
-multi_jur,2015,Energy Prices and Taxes,IEA,IEA-EPT
-multi_jur,2018,Energy Prices and Taxes,IEA,IEA-EPT
-multi_jur,2020,Energy Prices and Taxes,IEA,IEA-EPT
-multi_jur,2013,Evaluation of environmental tax reforms,IEEP,IEEP-ETR
-multi_jur,2015,EU ETS Handbook,European Commission,EC-ETS
-New Brunswick,2020,"New Brunswick - tax on carbon-emitting products starts April 1, 2020",KPMG,KPMG
-Norway,2001,Energy Policies of IEA Countries: Norway,IEA,IEA-NO
+Workshop Report ",OECD-IEA,OECD-IEA,EST-rep-002
+Estonia,2017,OECD Environmental Performance Reviews: Estonia 2017,OECD,OECD,EST-rep-003
+Estonia,2009,Environmental Taxes,Statistics Estonia,EST-SE,EST-rep-004
+Estonia,2019,Taxing Energy Use - Country note: Estonia,OECD,OECD,EST-rep-005
+Finland,2007,Energy Policies of IEA Countries: Finland,IEA,IEA-FI,FIN-rep-001
+Japan,2009,Japan's Voluntary Emissions Trading Scheme,Ministry of the Environment,JME - JVETS,JPN-rep-001
+Japan,2021,Japan 2021 Energy Policy Review,IEA,IEA-JP,JPN-rep-002
+Kazakhstan,2021,Kazakhstan Emissions Trading Scheme,ICAP,ICAP - KZ,KAZ-rep-001
+Kazakhstan,2020,Emissions Trading Worldwide,ICAP,ICAP,KAZ-rep-002
+Kazakhstan,2016,Emissions Trading in Kazakhstan,DEHSt,DEHST,KAZ-rep-003
+Kazakhstan,2016,KAZAKHSTAN:AN EMISSIONS TRADING CASE STUDY,IETA,IETA,KAZ-rep-004
+"Korea, Rep.",2017,Korea ETS Map Factsheet,ICAP,ICAP - FS - K,KOR-rep-001
+"Korea, Rep.",2018,Korea ETS Map Factsheet,ICAP,ICAP - FS - K,KOR-rep-002
+Mexico,2021,Mexico ETS Map Factsheet,ICAP,ICAP - MX,MEX-rep-001
+multi_jur,2013,Effective Carbon Prices,OECD,OECD - ECP,MULT-rep-001
+multi_jur,2021,ICAP ETS Map Factsheets,ICAP,ICAP,MULT-rep-002
+multi_jur,2014,Emissions Trading Worldwide - Status Report 2014,ICAP,ICAP - SR,MULT-rep-003
+multi_jur,2015,Emissions Trading Worldwide - Status Report 2015,ICAP,ICAP - SR,MULT-rep-004
+multi_jur,2015,ETS Map Factsheet,ICAP,ICAP - FS,MULT-rep-005
+multi_jur,2003,State and trends of the carbon market,WB,WB - SCM,MULT-rep-006
+multi_jur,2004,State and trends of the carbon market,WB,WB - SCM,MULT-rep-007
+multi_jur,2005,State and trends of the carbon market,WB,WB - SCM,MULT-rep-008
+multi_jur,2006,State and trends of the carbon market,WB,WB - SCM,MULT-rep-009
+multi_jur,2007,State and trends of the carbon market,WB,WB - SCM,MULT-rep-010
+multi_jur,2008,State and trends of the carbon market,WB,WB - SCM,MULT-rep-011
+multi_jur,2009,State and trends of the carbon market,WB,WB - SCM,MULT-rep-012
+multi_jur,2010,State and trends of the carbon market,WB,WB - SCM,MULT-rep-013
+multi_jur,2011,State and trends of the carbon market,WB,WB - SCM,MULT-rep-014
+multi_jur,2012,State and trends of the carbon market,WB,WB - SCM,MULT-rep-015
+multi_jur,2013,Mapping Carbon Pricing Initiatives,WB,WB - CPI,MULT-rep-016
+multi_jur,2014,Carbon Pricing Brief,WB,WB - CPB,MULT-rep-017
+multi_jur,2014,State and trends of carbon pricing,WB,WB - STCP,MULT-rep-018
+multi_jur,2015,State and trends of carbon pricing,WB,WB - STCP,MULT-rep-019
+multi_jur,2015,Background note on Carbon Tax,WB,WB - BCT,MULT-rep-020
+multi_jur,2017,Carbon Tax Guide: A Handbook for Policy Makers,WB,WB,MULT-rep-021
+multi_jur,2016,State and trends of carbon pricing,WB,WB - STCP,MULT-rep-022
+multi_jur,2017,State and trends of carbon pricing,WB,WB - STCP,MULT-rep-023
+multi_jur,2018,State and trends of carbon pricing,WB,WB - STCP,MULT-rep-024
+multi_jur,2019,State and trends of carbon pricing,WB,WB - STCP,MULT-rep-025
+multi_jur,2020,State and trends of carbon pricing,WB,WB - STCP,MULT-rep-026
+multi_jur,2021,State and trends of carbon pricing,WB,WB - STCP,MULT-rep-027
+multi_jur,2012,Carbon Pricing Report,CETRiE,CETRiE - CPR,MULT-rep-028
+multi_jur,2009,Carbon Taxes: A Review of Experience and Policy Design Considerations,US National Renewable Energy Laboratory,SUM-BIR,MULT-rep-029
+multi_jur,2015,Energy Prices and Taxes,IEA,IEA-EPT,MULT-rep-030
+multi_jur,2018,Energy Prices and Taxes,IEA,IEA-EPT,MULT-rep-031
+multi_jur,2020,Energy Prices and Taxes,IEA,IEA-EPT,MULT-rep-032
+multi_jur,2013,Evaluation of environmental tax reforms,IEEP,IEEP-ETR,MULT-rep-033
+multi_jur,2015,EU ETS Handbook,European Commission,EC-ETS,MULT-rep-034
+New Brunswick,2020,"New Brunswick - tax on carbon-emitting products starts April 1, 2020",KPMG,KPMG,CAN-NB-rep-001
+Norway,2001,Energy Policies of IEA Countries: Norway,IEA,IEA-NO,NOR-rep-001
 Poland,2012,"OECD Economic Surveys
-POLAND",OECD,OECD
-Poland,2015,OECD Environmental Performand Reviews - Poland,OECD ,OECD - EP - P
-Quebec,2013,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-I
-Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-II
-Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-III
-Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-IV
-Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-V
-Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VI
-Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VII
-Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VII
-Quebec,2013,Free Allowances,Gouvernement du Quebec,QC-FA-I
-Quebec,2014,Free Allowances,Gouvernement du Quebec,QC-FA-II
-South Africa,2020,Carbon Market Business Brief - South Africa,IETA,IETA
-South Africa,2021,Carbon Market Business Brief - South Africa,IETA,IETA
-Sweden,2011,CO2 Taxation in Sweden - 20 years of experience and looking ahead,Swedish Ministry of Finance (Hammar&Hakerfeldt),SMF - CT
-Switzerland,2015,CLIMATE CHANGE LEGISLATION IN SWITZERLAND - AN EXCERPT FROM The 2015 Global Climate Legislation Study A Review of Climate Change Legislation in 99 Countries,GLOBE,GLOBE-SWI
-Tokyo Cap and Trade,2014,,Argus,TK-CAT
-Ukraine,2014,Improving the existing carbon charge in Ukraine as an interim policy towards emissions trading ,European Bank for Reconstruction and Development,EBRD
-Washington State,2014,Report to the Washington State Governorâ Office,Carbon Emissions Reduction Taskforce,CERT - G
+POLAND",OECD,OECD,POL-rep-001
+Poland,2015,OECD Environmental Performand Reviews - Poland,OECD ,OECD - EP - P,POL-rep-002
+Quebec,2013,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-I,CAN-QC-rep-001
+Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-II,CAN-QC-rep-002
+Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-III,CAN-QC-rep-003
+Quebec,2014,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-IV,CAN-QC-rep-004
+Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-V,CAN-QC-rep-005
+Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VI,CAN-QC-rep-006
+Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VII,CAN-QC-rep-007
+Quebec,2015,Vente aux encheres d'unites d'emission de gaz a effet de serre,Gouvernement du Quebec,QC-AR-VII,CAN-QC-rep-008
+Quebec,2013,Free Allowances,Gouvernement du Quebec,QC-FA-I,CAN-QC-rep-009
+Quebec,2014,Free Allowances,Gouvernement du Quebec,QC-FA-II,CAN-QC-rep-010
+South Africa,2020,Carbon Market Business Brief - South Africa,IETA,IETA,ZAF-rep-001
+South Africa,2021,Carbon Market Business Brief - South Africa,IETA,IETA,ZAF-rep-002
+Sweden,2011,CO2 Taxation in Sweden - 20 years of experience and looking ahead,Swedish Ministry of Finance (Hammar&Hakerfeldt),SMF - CT,SWE-rep-001
+Switzerland,2015,CLIMATE CHANGE LEGISLATION IN SWITZERLAND - AN EXCERPT FROM The 2015 Global Climate Legislation Study A Review of Climate Change Legislation in 99 Countries,GLOBE,GLOBE-SWI,CHE-rep-001
+Tokyo,2014,,Argus,TK-CAT,JPN-TK-001
+Ukraine,2014,Improving the existing carbon charge in Ukraine as an interim policy towards emissions trading ,European Bank for Reconstruction and Development,EBRD,UKR-rep-001
+Washington State,2014,Report to the Washington State Governorâ Office,Carbon Emissions Reduction Taskforce,CERT - G,USA-WA-001
