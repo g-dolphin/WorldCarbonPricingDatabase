@@ -14,14 +14,14 @@ using PyPlot
 path_nat = "/Users/GD/Desktop/wcpdb_nat.csv"
 path_subnat = "/Users/GD/Desktop/wcpdb_subnat.csv"
 
-data_nat = CSV.read(path_nat, DataFrame)
-data_subnat = CSV.read(path_subnat, DataFrame)
+dataNat = CSV.read(path_nat, DataFrame)
+dataSubnat = CSV.read(path_subnat, DataFrame)
 
-data_nat_2018 = data_nat[data_nat[:Year] .== 2018, :]
-data_subnat_2018 = data_subnat[data_subnat[:Year] .== 2018, :]
+dataNat_yearSel = dataNat[dataNat[:Year] .== 2021, :]
+dataSubnat_yearSel = dataSubnat[dataSubnat[:Year] .== 2021, :]
 
-dropmissing!(data_nat_2018, [:Tax_dummy, :ETS_dummy])
-dropmissing!(data_subnat_2018, [:Tax_dummy, :ETS_dummy])
+dropmissing!(dataNat_yearSel, [:Tax_dummy, :ETS_dummy])
+dropmissing!(dataSubnat_yearSel, [:Tax_dummy, :ETS_dummy])
 
 gdf_nat = groupby(data_nat_2018, [:Jurisdiction, :Year])
 gdf_subnat = groupby(data_subnat_2018, [:Jurisdiction, :Year])
