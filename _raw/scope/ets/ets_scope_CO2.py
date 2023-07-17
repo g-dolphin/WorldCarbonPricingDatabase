@@ -80,12 +80,12 @@ def scope():
     
     # extension to domestic aviation and other industrial (processes) emissions (2012)
     eu_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
-                     "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
-                     "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
-                     "1C1A", "1C2B",
-                     "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", 
-                     "2B4", "2B5", "2B6", "2B7", "2B8F",
-                     "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
+                      "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
+                      "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
+                      "1C1A", "1C2B",
+                      "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", 
+                      "2B4", "2B5", "2B6", "2B7", "2B8F",
+                      "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
     
     
     ## scope dictionaries
@@ -124,8 +124,30 @@ def scope():
                                2021:"leg(EC[2018], EC[2020])", 2022:" "}
 
     #----------------------------------------------------------------------------
+
+    # AUT-Austrian ETS (aut_ets)
+
+    # Jurisdiction
+    aut_ets_jur_I = ["Austria"]
+
+    # IPCC categories - covering categories not covered by the EU ETS
+    aut_ets_ipcc_I = ["1A3B", "1A3C", "1A3D2", "1A3E1",  
+                      "1A4A", "1A4B", "1A4C1", "1A4C2", "1A4C3",
+                      "1A5A", "1A5B"]
+
+    ## scope dictionaries
     
-    # Canada Federal OBPS (can_ets)
+    aut_ets_jur_scope = {2022:aut_ets_jur_I}
+    
+    aut_ets_ipcc_scope = {2022:aut_ets_jur_I}
+    
+    ## Sources dictionary
+    
+    aut_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])"}
+
+    #----------------------------------------------------------------------------
+    
+    # CAN-Federal OBPS (can_ets)
     
     ## Jurisdiction
     
@@ -174,17 +196,18 @@ def scope():
     chn_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
     
     ## scope dictionaries
-    chn_ets_jur_scope = {2021:chn_ets_jur_I}
+    chn_ets_jur_scope = {2021:chn_ets_jur_I, 2022:chn_ets_jur_I}
     
-    chn_ets_ipcc_scope = {2021:chn_ets_ipcc_I}
+    chn_ets_ipcc_scope = {2021:chn_ets_ipcc_I, 2022:chn_ets_ipcc_I}
     
     ## Sources dictionary
     
-    chn_ets_scope_sources = {2021:"gvt(BJ[2020]), report(ICAP[2021])"}
+    chn_ets_scope_sources = {2021:"gvt(BJ[2020]), report(ICAP[2021])",
+                             2022:"report(ICAP[2023])"}
 
     #----------------------------------------------------------------------------
 
-    # German ETS (deu_ets)
+    # DEU-German ETS (deu_ets)
 
     # Jurisdiction
     deu_ets_jur_I = ["Germany"]
@@ -196,13 +219,13 @@ def scope():
 
     ## scope dictionaries
     
-    deu_ets_jur_scope = {2021:deu_ets_jur_I}
+    deu_ets_jur_scope = {2021:deu_ets_jur_I, 2022:deu_ets_jur_I}
     
-    deu_ets_ipcc_scope = {2021:deu_ets_ipcc_I}
+    deu_ets_ipcc_scope = {2021:deu_ets_ipcc_I, 2022:deu_ets_jur_I}
     
     ## Sources dictionary
     
-    deu_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])"}
+    deu_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])"}
 
     #----------------------------------------------------------------------------
     
@@ -401,13 +424,13 @@ def scope():
                             2015:kaz_ets_jur_I, 2016:kaz_ets_jur_I,
                             2017:kaz_ets_jur_I, 2018:kaz_ets_jur_I,
                             2019:kaz_ets_jur_I, 2020:kaz_ets_jur_I,
-                            2021:kaz_ets_jur_I}
+                            2021:kaz_ets_jur_I, 2022:kaz_ets_jur_I}
     
     kaz_ets_ipcc_scope = {2013:kaz_ets_ipcc_I, 2014:kaz_ets_ipcc_I,
                              2015:kaz_ets_ipcc_I, 2016:kaz_ets_ipcc_II,
                              2017:kaz_ets_ipcc_II, 2018:kaz_ets_ipcc_III,
                              2019:kaz_ets_ipcc_III, 2020:kaz_ets_ipcc_III,
-                             2021:kaz_ets_ipcc_III}
+                             2021:kaz_ets_ipcc_III, 2022:kaz_ets_ipcc_III}
     
     ## Sources dictionary
     
@@ -418,7 +441,8 @@ def scope():
                                 2018:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
                                 2019:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])",
                                 2020:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
-                                2021:"leg(KZ[2021]), gvt(KZ[2021]), report(ICAP - KZ[2021])"}
+                                2021:"leg(KZ[2021]), gvt(KZ[2021]), report(ICAP - KZ[2021])",
+                                2022:"report(ICAP[2023])"}
 
     #----------------------------------------------------------------------------
     
@@ -470,14 +494,14 @@ def scope():
     
     ## scope dictionaries
     kor_ets_jur_scope = {2015:kor_ets_jur_I, 2016:kor_ets_jur_I,
-                            2017:kor_ets_jur_I, 2018:kor_ets_jur_I,
-                            2019:kor_ets_jur_I, 2020:kor_ets_jur_I,
-                            2021:kor_ets_jur_I}
+                         2017:kor_ets_jur_I, 2018:kor_ets_jur_I,
+                         2019:kor_ets_jur_I, 2020:kor_ets_jur_I,
+                         2021:kor_ets_jur_I}
     
     kor_ets_ipcc_scope = {2015:kor_ets_ipcc_I, 2016:kor_ets_ipcc_I,
-                            2017:kor_ets_ipcc_I, 2018:kor_ets_ipcc_II,
-                            2019:kor_ets_ipcc_II, 2020:kor_ets_ipcc_II,
-                            2021:kor_ets_ipcc_III}
+                          2017:kor_ets_ipcc_I, 2018:kor_ets_ipcc_II,
+                          2019:kor_ets_ipcc_II, 2020:kor_ets_ipcc_II,
+                          2021:kor_ets_ipcc_III}
     
     ## Sources dictionary
     
@@ -488,7 +512,30 @@ def scope():
                              2020:"leg(KR[2020])", 2021:"leg(KR[2020])"}
 
     #----------------------------------------------------------------------------
+    # Montenegro
 
+    mne_ets_jur_I = ["Montenegro"]
+
+    mne_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
+                      "1A2B", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
+                      "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
+                      "2A1", "2A2", "2A3", "2A4A", 
+                      "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
+
+    mne_ets_jur_scope = {2020:mne_ets_jur_I,
+                         2021:mne_ets_jur_I,
+                         2022:mne_ets_jur_I}
+    
+    mne_ets_ipcc_scope = {2020:mne_ets_ipcc_I,
+                          2021:mne_ets_ipcc_I,
+                          2022:mne_ets_ipcc_I}
+
+    ## Sources dictionary
+    
+    mne_ets_scope_sources = {2020:"report(ICAP[2023])", 2021:"report(ICAP[2023])",
+                             2022:"report(ICAP[2023])"}
+
+    #----------------------------------------------------------------------------
     # United Kingdom
     
     ## Jurisdictions
@@ -520,8 +567,7 @@ def scope():
 
 
     #------------------------------------------------------------------------
-    
-    # Regional Greenhouse Gas Initiative
+    # USA-Regional Greenhouse Gas Initiative
     
     ## Jurisdictions
     # initial state scope (2009)
@@ -636,38 +682,28 @@ def scope():
                                   2021:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])"}
 
     #----------------------------------------------------------------------------
+    # USA-Oregon 
+
+    usa_or_ets_jur_I = ["Oregon"]
+
+    usa_or_ets_ipcc_I = []
+
+    usa_or_ets_jur_scope = {2020:usa_or_ets_jur_I,
+                            2021:usa_or_ets_jur_I,
+                            2022:usa_or_ets_jur_I}
     
-    # Quebec
-    
-    ## Jurisdiction
-    can_qc_cat_jur_I = ["Quebec"]
-    
-    
-    ## IPCC categories
-    can_qc_cat_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
-                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
-                         "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "2A1", "2A2", "2A3", 
-                         "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
-                         "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
-                         "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
-                         "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
-                         "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
-                         "2G3", "2G4", "2H1", "2H2", "2H3"]
-    
-    ## scope dictionaries
-    
-    can_qc_cat_jur_scope = {2013:can_qc_cat_jur_I, 2014:can_qc_cat_jur_I}
-    
-    can_qc_cat_ipcc_scope = {2013:can_qc_cat_ipcc_I, 2014:can_qc_cat_ipcc_I}
-    
+    usa_or_ets_ipcc_scope = {2020:usa_or_ets_ipcc_I,
+                             2021:usa_or_ets_ipcc_I,
+                             2022:usa_or_ets_ipcc_I}
+
     ## Sources dictionary
     
-    can_qc_cat_scope_sources = {2013:"leg(QC[2011], QC[2012], QC[2013])", 
-                                   2014:"leg(QC[2011], QC[2012], QC[2013])"}
-    
+    usa_or_ets_scope_sources = {2020:"report(ICAP[2023])", 2021:"report(ICAP[2023])",
+                                2022:"report(ICAP[2023])"}
+
+
     #----------------------------------------------------------------------------
-    
-    # Massachusetts (ETS)
+    # USA-Massachusetts
     
     ## Jurisdiction
     usa_ma_ets_jur_I = ["Massachusetts"]
@@ -688,6 +724,21 @@ def scope():
     
     usa_ma_ets_scope_sources = {2018:"leg(MA[2017])", 2019:"leg(MA[2017])", 
                                   2020:"leg(MA[2017])", 2021:"leg(MA[2017])"}
+
+    #------------------------------------------------------------------------
+    # USA-Washington
+
+    usa_wa_ets_jur_I = ["Washington"]
+
+    usa_wa_ets_ipcc_I = []
+
+    usa_wa_ets_jur_scope = {2023:usa_wa_ets_jur_I}
+    
+    usa_wa_ets_ipcc_scope = {2023:usa_wa_ets_ipcc_I}
+
+    ## Sources dictionary
+    
+    usa_wa_ets_scope_sources = {2023:"report(ICAP[2023])"}
 
     #------------------------------------------------------------------------
     
@@ -756,13 +807,13 @@ def scope():
                            2015:chn_cq_ets_jur_I, 2016:chn_cq_ets_jur_I,
                            2017:chn_cq_ets_jur_I, 2018:chn_cq_ets_jur_I,
                            2019:chn_cq_ets_jur_I, 2020:chn_cq_ets_jur_I,
-                           2021:chn_cq_ets_jur_I}
+                           2021:chn_cq_ets_jur_I, 2022:chn_cq_ets_jur_I}
     
     chn_cq_ets_ipcc_scope = {2014:chn_cq_ets_ipcc_I,
                             2015:chn_cq_ets_ipcc_I, 2016:chn_cq_ets_ipcc_I,
                             2017:chn_cq_ets_ipcc_I, 2018:chn_cq_ets_ipcc_I,
                             2019:chn_cq_ets_ipcc_I, 2020:chn_cq_ets_ipcc_I,
-                            2021:chn_cq_ets_ipcc_II}
+                            2021:chn_cq_ets_ipcc_II, 2022:chn_cq_ets_ipcc_II}
 
     ## Sources dictionary
     
@@ -1156,9 +1207,39 @@ def scope():
                                    2020:"gvt(ABGOV[2021], ABGOV[2021b])",
                                    2021:"gvt(ABGOV[2021], ABGOV[2021b])"}    
 
-
     #----------------------------------------------------------------------------
     
+    # Quebec
+    
+    ## Jurisdiction
+    can_qc_cat_jur_I = ["Quebec"]
+    
+    
+    ## IPCC categories
+    can_qc_cat_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
+                         "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "2A1", "2A2", "2A3", 
+                         "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
+                         "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
+                         "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
+                         "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
+                         "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
+                         "2G3", "2G4", "2H1", "2H2", "2H3"]
+    
+    ## scope dictionaries
+    
+    can_qc_cat_jur_scope = {2013:can_qc_cat_jur_I, 2014:can_qc_cat_jur_I}
+    
+    can_qc_cat_ipcc_scope = {2013:can_qc_cat_ipcc_I, 2014:can_qc_cat_ipcc_I}
+    
+    ## Sources dictionary
+    
+    can_qc_cat_scope_sources = {2013:"leg(QC[2011], QC[2012], QC[2013])", 
+                                   2014:"leg(QC[2011], QC[2012], QC[2013])"}
+    
+
+    #----------------------------------------------------------------------------
+
     # Saskatchewan
     # Saskatchewan is coded as a stand alone scheme encompassing the Federal OBPS
     # and the provincial OBPS because the existing  structure does not allow to 
@@ -1291,6 +1372,8 @@ def scope():
     
     ets_scope = {"eu_ets":{"jurisdictions":eu_ets_jur_scope, 
                                   "sectors":eu_ets_ipcc_scope}, 
+                    "aut_ets":{"jurisdictions":aut_ets_jur_scope, 
+                              "sectors":aut_ets_ipcc_scope},
                     "che_ets":{"jurisdictions":che_ets_jur_scope, 
                               "sectors":che_ets_ipcc_scope},
                     "deu_ets":{"jurisdictions":deu_ets_jur_scope, 
@@ -1302,7 +1385,9 @@ def scope():
                     "kor_ets":{"jurisdictions":kor_ets_jur_scope, 
                               "sectors":kor_ets_ipcc_scope},
                     "mex_ets":{"jurisdictions":mex_ets_jur_scope, 
-                              "sectors":mex_ets_ipcc_scope},                        
+                              "sectors":mex_ets_ipcc_scope},  
+                    "mne_ets":{"jurisdictions":mne_ets_jur_scope, 
+                              "sectors":mne_ets_ipcc_scope},                        
                     "nzl_ets":{"jurisdictions":nzl_ets_jur_scope, 
                               "sectors":nzl_ets_ipcc_scope}, 
                     "chn_ets":{"jurisdictions":chn_ets_jur_scope, 
@@ -1334,23 +1419,29 @@ def scope():
                     "can_ns_ets":{"jurisdictions":can_ns_ets_jur_scope, 
                               "sectors":can_ns_ets_ipcc_scope},
                     "can_nl_ets":{"jurisdictions":can_nl_ets_jur_scope, 
-                              "sectors":can_nl_ets_ipcc_scope},
-                    "usa_rggi":{"jurisdictions":usa_rggi_jur_scope, 
-                              "sectors":usa_rggi_ipcc_scope}, 
+                              "sectors":can_nl_ets_ipcc_scope}, 
+                    "can_qc_cat":{"jurisdictions":can_qc_cat_jur_scope, 
+                              "sectors":can_qc_cat_ipcc_scope}, 
                     "usa_ca_ets":{"jurisdictions":usa_ca_ets_jur_scope, 
                               "sectors":usa_ca_ets_ipcc_scope}, 
                     "usa_ma_ets":{"jurisdictions":usa_ma_ets_jur_scope, 
-                              "sectors":usa_ma_ets_ipcc_scope}, 
-                    "can_qc_cat":{"jurisdictions":can_qc_cat_jur_scope, 
-                              "sectors":can_qc_cat_ipcc_scope}}
+                              "sectors":usa_ma_ets_ipcc_scope},
+                    "usa_or_ets":{"jurisdictions":usa_or_ets_jur_scope, 
+                              "sectors":usa_or_ets_ipcc_scope},
+                    "usa_rggi":{"jurisdictions":usa_rggi_jur_scope, 
+                              "sectors":usa_rggi_ipcc_scope},
+                    "usa_wa_ets":{"jurisdictions":usa_wa_ets_jur_scope, 
+                              "sectors":usa_wa_ets_ipcc_scope}}
 
     ets_scope_sources = {"eu_ets":eu_ets_scope_sources,
+                            "aut_ets":aut_ets_scope_sources,
                             "che_ets":che_ets_scope_sources,
                             "deu_ets":deu_ets_scope_sources,
                             "gbr_ets":gbr_ets_scope_sources,
                             "kaz_ets":kaz_ets_scope_sources,
                             "kor_ets":kor_ets_scope_sources,
                             "mex_ets":mex_ets_scope_sources,
+                            "mne_ets":mne_ets_scope_sources,                            
                             "nzl_ets":nzl_ets_scope_sources,
                             "chn_ets":chn_ets_scope_sources,
                             "chn_bj_ets":chn_bj_ets_scope_sources,
@@ -1367,10 +1458,12 @@ def scope():
                             "can_nb_ets":can_nb_ets_scope_sources,
                             "can_ns_ets":can_ns_ets_scope_sources,
                             "can_nl_ets":can_nl_ets_scope_sources,
-                            "usa_rggi":usa_rggi_scope_sources,
+                            "can_qc_cat":can_qc_cat_scope_sources,
                             "usa_ca_ets":usa_ca_ets_scope_sources,
                             "usa_ma_ets":usa_ma_ets_scope_sources,
-                            "can_qc_cat":can_qc_cat_scope_sources}
+                            "usa_or_ets":usa_or_ets_scope_sources,
+                            "usa_rggi":usa_rggi_scope_sources,
+                            "usa_wa_ets":usa_wa_ets_scope_sources}
     
     data_and_sources = {"data":ets_scope, "sources":ets_scope_sources}
     
