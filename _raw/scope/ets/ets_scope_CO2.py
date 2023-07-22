@@ -733,15 +733,15 @@ def scope():
     usa_wa_ets_jur_I = ["Washington"]
 
     usa_wa_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
-                        "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
-                        "1A2L", "1A2M", "1A5A", "1C1A", "1C1B",
-                        "2A1", "2A2", "2A3", "2C1", "2C5", "2H1",  
-                        "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
-                        "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
-                        "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
-                        "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
-                        "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
-                        "2G3", "2G4", "2H1", "2H2", "2H3"]
+                         "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
+                         "1A2L", "1A2M", "1A5A", "1C1A", "1C1B",
+                         "2A1", "2A2", "2A3", "2C1", "2C5", "2H1",  
+                         "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B1", "2B10", "2B2", 
+                         "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", "2B8A", "2B8B", 
+                         "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2C2", 
+                         "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2","2D3", "2D4", 
+                         "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
+                         "2G3", "2G4", "2H1", "2H2", "2H3"]
 
     usa_wa_ets_jur_scope = {2023:usa_wa_ets_jur_I}
     
@@ -768,22 +768,22 @@ def scope():
 
     # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
     chn_bj_ets_ipcc_II = ["1A2A", "1A2B", "1A2C", "1A2D",  
-                         "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",  
-                         "1A2L", "1A2M", "2A1","2B8A", "2B8B", "2B8C", "2B8D", 
-                         "2B8E", "4D1", "4D2"]
+                          "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",  
+                          "1A2L", "1A2M", "2A1","2B8A", "2B8B", "2B8C", "2B8D", 
+                          "2B8E", "4D1", "4D2"]
     
     ## scope dictionaries
     chn_bj_ets_jur_scope = {2013:chn_bj_ets_jur_I, 2014:chn_bj_ets_jur_I,
                            2015:chn_bj_ets_jur_I, 2016:chn_bj_ets_jur_I,
                            2017:chn_bj_ets_jur_I, 2018:chn_bj_ets_jur_I,
                            2019:chn_bj_ets_jur_I, 2020:chn_bj_ets_jur_I,
-                           2021:chn_bj_ets_jur_I}
+                           2021:chn_bj_ets_jur_I, 2022:chn_bj_ets_jur_I}
     
     chn_bj_ets_ipcc_scope = {2013:chn_bj_ets_ipcc_I, 2014:chn_bj_ets_ipcc_I,
                             2015:chn_bj_ets_ipcc_I, 2016:chn_bj_ets_ipcc_I,
                             2017:chn_bj_ets_ipcc_I, 2018:chn_bj_ets_ipcc_I,
                             2019:chn_bj_ets_ipcc_I, 2020:chn_bj_ets_ipcc_I,
-                            2021:chn_bj_ets_ipcc_II}
+                            2021:chn_bj_ets_ipcc_II, 2022:chn_bj_ets_ipcc_II,}
     
     ## Sources dictionary
     
@@ -795,7 +795,8 @@ def scope():
                                    2018:"gvt(BJ[2020]), report(ICAP[2021])", 
                                    2019:"gvt(BJ[2020]), report(ICAP[2021])", 
                                    2020:"gvt(BJ[2020]), report(ICAP[2021])", 
-                                   2021:"gvt(BJ[2020]), report(ICAP[2021])"}
+                                   2021:"gvt(BJ[2020]), report(ICAP[2021])",
+                                   2022:"report(ICAP[2023])"}
     
 
     #----------------------------------------------------------------------------
@@ -829,10 +830,11 @@ def scope():
     ## Sources dictionary
     
     chn_cq_ets_scope_sources = {2014:"report(ICAP[2021])",
-                                   2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
-                                   2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
-                                   2019:"report(ICAP[2021])",
-                                   2020:"report(ICAP[2021])", 2021:"report(ICAP[2021])"}
+                                2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
+                                2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
+                                2019:"report(ICAP[2021])",
+                                2020:"report(ICAP[2021])", 2021:"report(ICAP[2021])",
+                                2022:"report(ICAP[2023])"}
     
 
     #----------------------------------------------------------------------------
@@ -846,35 +848,36 @@ def scope():
     ## IPCC categories
     
     chn_fj_ets_ipcc_I = ["1A1A1", "1A2A", "1A2B", "1A2D", "1A2K", "1A3A2", "2A4A", 
-                     "2B1", "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", 
-                     "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", 
-                     "2B9B", "2C1", "2C3", "2C4", "2C5","2C6", "2C7", "2H1"]
+                         "2B1", "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", 
+                         "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", 
+                         "2B9B", "2C1", "2C3", "2C4", "2C5","2C6", "2C7", "2H1"]
 
     # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
     chn_fj_ets_ipcc_II = ["1A2A", "1A2B", "1A2D", "1A2K", "1A3A2", "2A4A", 
-                     "2B1", "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", 
-                     "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", 
-                     "2B9B", "2C1", "2C3", "2C4", "2C5","2C6", "2C7", "2H1"]
+                          "2B1", "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", 
+                          "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", 
+                          "2B9B", "2C1", "2C3", "2C4", "2C5","2C6", "2C7", "2H1"]
 
     ## scope dictionaries
     chn_fj_ets_jur_scope = {2016:chn_fj_ets_jur_I,
                            2017:chn_fj_ets_jur_I, 2018:chn_fj_ets_jur_I,
                            2019:chn_fj_ets_jur_I, 2020:chn_fj_ets_jur_I,
-                           2021:chn_fj_ets_jur_I}
+                           2021:chn_fj_ets_jur_I, 2022:chn_fj_ets_jur_I}
     
     chn_fj_ets_ipcc_scope = {2016:chn_fj_ets_ipcc_I,
                             2017:chn_fj_ets_ipcc_I, 2018:chn_fj_ets_ipcc_I,
                             2019:chn_fj_ets_ipcc_I, 2020:chn_fj_ets_ipcc_I,
-                            2021:chn_fj_ets_ipcc_II}
+                            2021:chn_fj_ets_ipcc_II, 2022:chn_fj_ets_ipcc_II}
     
     ## Sources dictionary
     
     chn_fj_ets_scope_sources = {2016:"web(FJ[2018]), report(ICAP[2021])", 
-                                   2017:"web(FJ[2018]), report(ICAP[2021])", 
-                                   2018:"web(FJ[2018]), report(ICAP[2021])", 
-                                   2019:"web(FJ[2018]), report(ICAP[2021])",
-                                   2020:"web(FJ[2018]), report(ICAP[2021])", 
-                                   2021:"web(FJ[2018]), report(ICAP[2021])"}
+                                2017:"web(FJ[2018]), report(ICAP[2021])", 
+                                2018:"web(FJ[2018]), report(ICAP[2021])", 
+                                2019:"web(FJ[2018]), report(ICAP[2021])",
+                                2020:"web(FJ[2018]), report(ICAP[2021])", 
+                                2021:"web(FJ[2018]), report(ICAP[2021])",
+                                2022:"report(ICAP[2023])"}
     
 
     #----------------------------------------------------------------------------
@@ -889,11 +892,11 @@ def scope():
     
     # initial scope (2013-2015)
     chn_gd_ets_ipcc_I = ["1A1A1", "1A2A", "2A1", "2B8A", "2B8B", "2B8C", "2B8D", 
-                     "2B8E", "2C1"]
+                         "2B8E", "2C1"]
 
     # extension to papermaking and domestic aviation (2016)
     chn_gd_ets_ipcc_II = ["1A1A1", "1A2A", "1A2D", "1A3A2", "2A1", "2B8A", 
-                      "2B8B", "2B8C", "2B8D", "2B8E", "2C1", "2H1"]
+                          "2B8B", "2B8C", "2B8D", "2B8E", "2C1", "2H1"]
 
     # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
     chn_gd_ets_ipcc_III = ["1A2A", "1A2D", "1A3A2", "2A1", "2B8A", 
@@ -901,16 +904,16 @@ def scope():
 
     ## scope dictionaries
     chn_gd_ets_jur_scope = {2013:chn_gd_ets_jur_I, 2014:chn_gd_ets_jur_I,
-                           2015:chn_gd_ets_jur_I, 2016:chn_gd_ets_jur_I,
-                           2017:chn_gd_ets_jur_I, 2018:chn_gd_ets_jur_I,
-                           2019:chn_gd_ets_jur_I, 2020:chn_gd_ets_jur_I,
-                           2021:chn_gd_ets_jur_I}
+                            2015:chn_gd_ets_jur_I, 2016:chn_gd_ets_jur_I,
+                            2017:chn_gd_ets_jur_I, 2018:chn_gd_ets_jur_I,
+                            2019:chn_gd_ets_jur_I, 2020:chn_gd_ets_jur_I,
+                            2021:chn_gd_ets_jur_I, 2022:chn_gd_ets_jur_I}
     
     chn_gd_ets_ipcc_scope = {2013:chn_gd_ets_ipcc_I, 2014:chn_gd_ets_ipcc_I,
                             2015:chn_gd_ets_ipcc_I, 2016:chn_gd_ets_ipcc_II,
                             2017:chn_gd_ets_ipcc_II, 2018:chn_gd_ets_ipcc_II,
                             2019:chn_gd_ets_ipcc_II, 2020:chn_gd_ets_ipcc_II,
-                            2021:chn_gd_ets_ipcc_III}  
+                            2021:chn_gd_ets_ipcc_III, 2022:chn_gd_ets_ipcc_III}  
 
     ## Sources dictionary
     
@@ -922,7 +925,8 @@ def scope():
                                    2018:"report(ICAP[2021])", 
                                    2019:"report(ICAP[2021])",
                                    2020:"report(ICAP[2021])", 
-                                   2021:"report(ICAP[2021])"}
+                                   2021:"report(ICAP[2021])",
+                                   2022:"report(ICAP[2023])"}
 
 
     #----------------------------------------------------------------------------
@@ -951,23 +955,23 @@ def scope():
 
     # introduction of China national ETS and integration of "1A1A1", "1A1A2", "1A1A3" categories into that mechanism (2021)
     chn_hb_ets_ipcc_III = ["1A2A", "1A2B", "1A2C", "1A2D", 
-                          "1A2E", "1A2G", "1A2L", "2A1", "2A3", "2A4A", "2B1", "2B10", 
-                          "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", 
-                          "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", 
-                          "2C3", "2C4", "2C5", "2C6", "2C7", "2G1", "2H1", "2H2"]
+                           "1A2E", "1A2G", "1A2L", "2A1", "2A3", "2A4A", "2B1", "2B10", 
+                           "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", 
+                           "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2C1", 
+                           "2C3", "2C4", "2C5", "2C6", "2C7", "2G1", "2H1", "2H2"]
 
     ## scope dictionaries
     chn_hb_ets_jur_scope = {2014:chn_hb_ets_jur_I,
                            2015:chn_hb_ets_jur_I, 2016:chn_hb_ets_jur_I,
                            2017:chn_hb_ets_jur_I, 2018:chn_hb_ets_jur_I,
                            2019:chn_hb_ets_jur_I, 2020:chn_hb_ets_jur_I,
-                           2021:chn_hb_ets_jur_I}
+                           2021:chn_hb_ets_jur_I, 2022:chn_hb_ets_jur_I}
     
     chn_hb_ets_ipcc_scope = {2014:chn_hb_ets_ipcc_I,
                             2015:chn_hb_ets_ipcc_I, 2016:chn_hb_ets_ipcc_II,
                             2017:chn_hb_ets_ipcc_II, 2018:chn_hb_ets_ipcc_II,
                             2019:chn_hb_ets_ipcc_II, 2020:chn_hb_ets_ipcc_II,
-                            2021:chn_hb_ets_ipcc_III}  
+                            2021:chn_hb_ets_ipcc_III, 2022:chn_hb_ets_ipcc_III}  
 
     ## Sources dictionary
     
@@ -978,7 +982,7 @@ def scope():
                                    2018:"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])", 
                                    2019:"leg(HB[2014]), gvt(HB[2014]), report(ICAP[2021])",
                                    2020:"leg(HB[2020]), report(ICAP[2021])", 
-                                   2021:"leg(HB[2020]), report(ICAP[2021])"}
+                                   2021:"leg(HB[2020]), report(ICAP[2021])", 2022:"report(ICAP[2023])"}
     
 
     #----------------------------------------------------------------------------
@@ -1017,13 +1021,13 @@ def scope():
                            2015:chn_sh_ets_jur_I, 2016:chn_sh_ets_jur_I,
                            2017:chn_sh_ets_jur_I, 2018:chn_sh_ets_jur_I,
                            2019:chn_sh_ets_jur_I, 2020:chn_sh_ets_jur_I,
-                           2021:chn_sh_ets_jur_I}
+                           2021:chn_sh_ets_jur_I, 2022:chn_sh_ets_jur_I}
     
     chn_sh_ets_ipcc_scope = {2013:chn_sh_ets_jur_I, 2014:chn_sh_ets_ipcc_I,
                             2015:chn_sh_ets_ipcc_I, 2016:chn_sh_ets_ipcc_II,
                             2017:chn_sh_ets_ipcc_II, 2018:chn_sh_ets_ipcc_II,
                             2019:chn_sh_ets_ipcc_II, 2020:chn_sh_ets_ipcc_II,
-                            2021:chn_sh_ets_ipcc_III}  
+                            2021:chn_sh_ets_ipcc_III, 2022:chn_sh_ets_ipcc_III}  
 
     ## Sources dictionary
     
@@ -1031,7 +1035,7 @@ def scope():
                                    2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
                                    2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
                                    2019:"report(ICAP[2021])", 2020:"report(ICAP[2021])", 
-                                   2021:"report(ICAP[2021])"}
+                                   2021:"report(ICAP[2021])", 2022:"report(ICAP[2023])"}
     
     #----------------------------------------------------------------------------
     
@@ -1059,13 +1063,13 @@ def scope():
                            2015:chn_sz_ets_jur_I, 2016:chn_sz_ets_jur_I,
                            2017:chn_sz_ets_jur_I, 2018:chn_sz_ets_jur_I,
                            2019:chn_sz_ets_jur_I, 2020:chn_sz_ets_jur_I,
-                           2021:chn_sz_ets_jur_I}
+                           2021:chn_sz_ets_jur_I, 2022:chn_sz_ets_jur_I}
     
     chn_sz_ets_ipcc_scope = {2013:chn_sz_ets_ipcc_I, 2014:chn_sz_ets_ipcc_I,
                             2015:chn_sz_ets_ipcc_I, 2016:chn_sz_ets_ipcc_I,
                             2017:chn_sz_ets_ipcc_I, 2018:chn_sz_ets_ipcc_I,
                             2019:chn_sz_ets_ipcc_I, 2020:chn_sz_ets_ipcc_I,
-                            2021:chn_sz_ets_ipcc_II}
+                            2021:chn_sz_ets_ipcc_II, 2022:chn_sz_ets_ipcc_II}
 
     ## Sources dictionary
     
@@ -1073,7 +1077,7 @@ def scope():
                                    2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
                                    2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
                                    2019:"report(ICAP[2021])", 2020:"report(ICAP[2021])", 
-                                   2021:"report(ICAP[2021])"}
+                                   2021:"report(ICAP[2021])", 2022:"report(ICAP[2023])"}
 
 
     #----------------------------------------------------------------------------
@@ -1108,13 +1112,13 @@ def scope():
                                2015:chn_tj_ets_jur_I, 2016:chn_tj_ets_jur_I,
                                2017:chn_tj_ets_jur_I, 2018:chn_tj_ets_jur_I,
                                2019:chn_tj_ets_jur_I, 2020:chn_tj_ets_jur_I,
-                               2021:chn_tj_ets_jur_I}
+                               2021:chn_tj_ets_jur_I, 2022:chn_tj_ets_jur_I}
     
     chn_tj_ets_ipcc_scope = {2013:chn_tj_ets_jur_I, 2014:chn_tj_ets_ipcc_I,
                             2015:chn_tj_ets_ipcc_I, 2016:chn_tj_ets_ipcc_I,
                             2017:chn_tj_ets_ipcc_I, 2018:chn_tj_ets_ipcc_I,
                             2019:chn_tj_ets_ipcc_II, 2020:chn_tj_ets_ipcc_II,
-                            2021:chn_tj_ets_ipcc_III}     
+                            2021:chn_tj_ets_ipcc_III, 2022:chn_tj_ets_ipcc_III}     
     
     ## Sources dictionary
     
@@ -1122,7 +1126,7 @@ def scope():
                                    2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
                                    2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
                                    2019:"report(ICAP[2021])", 2020:"report(ICAP[2021])", 
-                                   2021:"report(ICAP[2021])"}
+                                   2021:"report(ICAP[2021])", 2022:"report(ICAP[2021])"}
 
     #----------------------------------------------------------------------------
     
