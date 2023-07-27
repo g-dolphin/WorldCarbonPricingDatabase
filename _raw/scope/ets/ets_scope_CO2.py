@@ -248,13 +248,16 @@ def scope():
     
     ## scope dictionaries
     
-    mex_ets_jur_scope = {2021:mex_ets_jur_I}
+    mex_ets_jur_scope = {2021:mex_ets_jur_I,
+                         2022:mex_ets_jur_I}
     
-    mex_ets_ipcc_scope = {2021:mex_ets_ipcc_I}
+    mex_ets_ipcc_scope = {2021:mex_ets_ipcc_I,
+                          2022:mex_ets_ipcc_I}
     
     ## Sources dictionary
     
-    mex_ets_scope_sources = {2021:"leg(MX[2019])"}
+    mex_ets_scope_sources = {2021:"leg(MX[2019])",
+                             2022:"report(ICAP[2023])"}
 
     #----------------------------------------------------------------------------
     
@@ -285,37 +288,37 @@ def scope():
     
     # extension to waste and synthetic GHGs (2013)
     nzl_ets_ipcc_III = ["1A1A1", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C", "1A2D", 
-                       "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", 
-                       "1A2L", "1A2M", "1A3A2", "1A3B", "1A3C", "1A4A", "1A4B",
-                       "1A4C1", "1A4C2", "1A4C3", 
-                       "2A1", "2A2", "2A3", "2A4A",
-                       "2A4B", "2A4C", "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5",
-                       "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F",
-                       "2B9A", "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2C7",
-                       "2D1", "2D2", "2D3", "2D4", "2F1", "2F2", "2F3", "2F4", "2F5",
-                       "2F6", "2G1", "2G2", "2G3", "2G4", "2H1",
-                       "3B1A", "3B1B",
-                       "4A1", "4C1", "4C2"]
+                        "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K", 
+                        "1A2L", "1A2M", "1A3A2", "1A3B", "1A3C", "1A4A", "1A4B",
+                        "1A4C1", "1A4C2", "1A4C3", 
+                        "2A1", "2A2", "2A3", "2A4A",
+                        "2A4B", "2A4C", "2A4D", "2B1", "2B2", "2B3", "2B4", "2B5",
+                        "2B6", "2B7", "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F",
+                        "2B9A", "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2C7",
+                        "2D1", "2D2", "2D3", "2D4", "2F1", "2F2", "2F3", "2F4", "2F5",
+                        "2F6", "2G1", "2G2", "2G3", "2G4", "2H1",
+                        "3B1A", "3B1B",
+                        "4A1", "4C1", "4C2"]
     
     ## scope dictionaries
     
     nzl_ets_jur_scope = {2008:nzl_ets_jur_I,
-                            2009:nzl_ets_jur_I, 2010:nzl_ets_jur_I,
-                            2011:nzl_ets_jur_I, 2012:nzl_ets_jur_I,
-                            2013:nzl_ets_jur_I, 2014:nzl_ets_jur_I,
-                            2015:nzl_ets_jur_I, 2016:nzl_ets_jur_I,
-                            2017:nzl_ets_jur_I, 2018:nzl_ets_jur_I,
-                            2019:nzl_ets_jur_I, 2020:nzl_ets_jur_I,
-                            2021:nzl_ets_jur_I}
+                         2009:nzl_ets_jur_I, 2010:nzl_ets_jur_I,
+                         2011:nzl_ets_jur_I, 2012:nzl_ets_jur_I,
+                         2013:nzl_ets_jur_I, 2014:nzl_ets_jur_I,
+                         2015:nzl_ets_jur_I, 2016:nzl_ets_jur_I,
+                         2017:nzl_ets_jur_I, 2018:nzl_ets_jur_I,
+                         2019:nzl_ets_jur_I, 2020:nzl_ets_jur_I,
+                         2021:nzl_ets_jur_I, 2022:nzl_ets_jur_I}
     
     nzl_ets_ipcc_scope = {2008:nzl_ets_ipcc_I,
-                            2009:nzl_ets_ipcc_I, 2010:nzl_ets_ipcc_II,
-                            2011:nzl_ets_ipcc_II, 2012:nzl_ets_ipcc_II,
-                            2013:nzl_ets_ipcc_III, 2014:nzl_ets_ipcc_III,
-                            2015:nzl_ets_ipcc_III, 2016:nzl_ets_ipcc_III,
-                            2017:nzl_ets_ipcc_III, 2018:nzl_ets_ipcc_III,
-                            2019:nzl_ets_ipcc_III, 2020:nzl_ets_ipcc_III,
-                            2021:nzl_ets_ipcc_III}
+                          2009:nzl_ets_ipcc_I, 2010:nzl_ets_ipcc_II,
+                          2011:nzl_ets_ipcc_II, 2012:nzl_ets_ipcc_II,
+                          2013:nzl_ets_ipcc_III, 2014:nzl_ets_ipcc_III,
+                          2015:nzl_ets_ipcc_III, 2016:nzl_ets_ipcc_III,
+                          2017:nzl_ets_ipcc_III, 2018:nzl_ets_ipcc_III,
+                          2019:nzl_ets_ipcc_III, 2020:nzl_ets_ipcc_III,
+                          2021:nzl_ets_ipcc_III, 2022:nzl_ets_ipcc_III}
     
 
     ## Sources dictionary
@@ -326,7 +329,8 @@ def scope():
                              2014:"leg(NZ-CCR[2013])", 2015:"leg(NZ-CCR[2013])", 
                              2016:"leg(NZ-CCR[2013])", 2017:"leg(NZ-CCR[2013])", 
                              2018:"leg(NZ-CCR[2013])", 2019:"leg(NZ-CCR[2013])",
-                             2020:"leg(NZ-CCR[2020])", 2021:"leg(NZ-CCR[2020])"}
+                             2020:"leg(NZ-CCR[2020])", 2021:"leg(NZ-CCR[2020])",
+                             2022:"leg(NZ-CCR[2020]), report(ICAP[2023])"}
 
     #----------------------------------------------------------------------------
     
@@ -468,16 +472,16 @@ def scope():
         
     # phase 2 scope (2018)
     kor_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A1B",
-                  "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
-                  "1A2I", "1A2J", "1A2L", "1A2M",
-                  "1A3A2", 
-                  "1A4A", "1A4B",
-                  "2A1", "2A2", "2A3", "2A4A", 
-                  "2B1", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", 
-                  "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2B10",
-                  "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2", 
-                  "2D3", "2D4", "2H1", "2H2",
-                  "4A1", "4D1", "4D2"]
+                        "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
+                        "1A2I", "1A2J", "1A2L", "1A2M",
+                        "1A3A2", 
+                        "1A4A", "1A4B",
+                        "2A1", "2A2", "2A3", "2A4A", 
+                        "2B1", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A", "2B8B", 
+                        "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B", "2B10",
+                        "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2C7", "2D1", "2D2", 
+                        "2D3", "2D4", "2H1", "2H2",
+                        "4A1", "4D1", "4D2"]
     
     # phase 3 scope (2021)
     kor_ets_ipcc_III = ["1A1A1", "1A1A2", "1A1A3", "1A2A", "1A1B",
@@ -496,12 +500,12 @@ def scope():
     kor_ets_jur_scope = {2015:kor_ets_jur_I, 2016:kor_ets_jur_I,
                          2017:kor_ets_jur_I, 2018:kor_ets_jur_I,
                          2019:kor_ets_jur_I, 2020:kor_ets_jur_I,
-                         2021:kor_ets_jur_I}
+                         2021:kor_ets_jur_I, 2022:kor_ets_jur_I}
     
     kor_ets_ipcc_scope = {2015:kor_ets_ipcc_I, 2016:kor_ets_ipcc_I,
                           2017:kor_ets_ipcc_I, 2018:kor_ets_ipcc_II,
                           2019:kor_ets_ipcc_II, 2020:kor_ets_ipcc_II,
-                          2021:kor_ets_ipcc_III}
+                          2021:kor_ets_ipcc_III, 2022:kor_ets_ipcc_III}
     
     ## Sources dictionary
     
@@ -509,7 +513,8 @@ def scope():
                              2016:"leg(KR[2012], KR[2013])", 
                              2017:"leg(KR[2017])", 2018:"leg(KR[2018])", 
                              2019:"leg(KR[2018])",
-                             2020:"leg(KR[2020])", 2021:"leg(KR[2020])"}
+                             2020:"leg(KR[2020])", 2021:"leg(KR[2020])",
+                             2022:"report(ICAP[2023])"}
 
     #----------------------------------------------------------------------------
     # Montenegro
@@ -557,13 +562,16 @@ def scope():
     
     ## scope dictionaries
     
-    gbr_ets_jur_scope = {2021:gbr_ets_jur_I}
+    gbr_ets_jur_scope = {2021:gbr_ets_jur_I,
+                         2022:gbr_ets_jur_I}
     
-    gbr_ets_ipcc_scope = {2021:gbr_ets_ipcc_I}
+    gbr_ets_ipcc_scope = {2021:gbr_ets_ipcc_I,
+                          2022:gbr_ets_ipcc_I}
     
     ## Sources dictionary
     
-    gbr_ets_scope_sources = {2021:"leg(UK-SI[2020])"}
+    gbr_ets_scope_sources = {2021:"leg(UK-SI[2020])",
+                             2022:"leg(UK-SI[2020])"}
 
 
     #------------------------------------------------------------------------
@@ -572,16 +580,11 @@ def scope():
     ## Jurisdictions
     # initial state scope (2009)
     usa_rggi_jur_I = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
-                  "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont"]
+                       "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont"]
     
     # New Jersey withdrawal (2012)
     usa_rggi_jur_II = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
-                   "New Hampshire", "New York", "Rhode Island", "Vermont"]
-    
-    # Virginia joins the scheme (2021)
-    usa_rggi_jur_III = ["Connecticut", "Delaware", "Maine", "Maryland", "Massachusetts", 
-                    "New Hampshire", "New Jersey", "New York", "Rhode Island", "Vermont",
-                    "Virginia"]
+                       "New Hampshire", "New York", "Rhode Island", "Vermont"]
     
     ## IPCC categories
     
@@ -595,7 +598,7 @@ def scope():
                             2015:usa_rggi_jur_II, 2016:usa_rggi_jur_II,
                             2017:usa_rggi_jur_II, 2018:usa_rggi_jur_I,
                             2019:usa_rggi_jur_I, 2020:usa_rggi_jur_I,
-                            2021:usa_rggi_jur_III}
+                            2021:usa_rggi_jur_I, 2022:usa_rggi_jur_I}
     
     usa_rggi_ipcc_scope = { 2009:usa_rggi_ipcc_I, 2010:usa_rggi_ipcc_I,
                             2011:usa_rggi_ipcc_I, 2012:usa_rggi_ipcc_I,
@@ -603,7 +606,7 @@ def scope():
                             2015:usa_rggi_ipcc_I, 2016:usa_rggi_ipcc_I,
                             2017:usa_rggi_ipcc_I, 2018:usa_rggi_ipcc_I,
                             2019:usa_rggi_ipcc_I, 2020:usa_rggi_ipcc_I,
-                            2021:usa_rggi_ipcc_I}
+                            2021:usa_rggi_ipcc_I, 2022:usa_rggi_ipcc_I}
     
     ## Sources dictionary
     
@@ -617,7 +620,8 @@ def scope():
                                 2018:"gvt(RGGI-MOU[2005], NJ[2011])", 
                                 2019:"gvt(RGGI-MOU[2005], NJ[2011])", 
                                 2020:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2021:"gvt(RGGI-MOU[2005], NJ[2011])"}
+                                2021:"gvt(RGGI-MOU[2005], NJ[2011])",
+                                2022:"gvt(RGGI-MOU[2005], NJ[2011])"}
     
     #----------------------------------------------------------------------------
     
@@ -660,13 +664,13 @@ def scope():
                            2015:usa_ca_ets_jur_II, 2016:usa_ca_ets_jur_II, 
                            2017:usa_ca_ets_jur_II, 2018:usa_ca_ets_jur_III, 
                            2019:usa_ca_ets_jur_II, 2020:usa_ca_ets_jur_II, 
-                           2021:usa_ca_ets_jur_II}
+                           2021:usa_ca_ets_jur_II, 2022:usa_ca_ets_jur_II}
     
     usa_ca_ets_ipcc_scope = {2013:usa_ca_ets_ipcc_I, 2014:usa_ca_ets_ipcc_I, 
-                           2015:usa_ca_ets_ipcc_II, 2016:usa_ca_ets_ipcc_II, 
-                           2017:usa_ca_ets_ipcc_II, 2018:usa_ca_ets_ipcc_II, 
-                           2019:usa_ca_ets_ipcc_II, 2020:usa_ca_ets_ipcc_II, 
-                           2021:usa_ca_ets_ipcc_II}
+                             2015:usa_ca_ets_ipcc_II, 2016:usa_ca_ets_ipcc_II, 
+                             2017:usa_ca_ets_ipcc_II, 2018:usa_ca_ets_ipcc_II, 
+                             2019:usa_ca_ets_ipcc_II, 2020:usa_ca_ets_ipcc_II, 
+                             2021:usa_ca_ets_ipcc_II, 2022:usa_ca_ets_ipcc_II}
 
     ## Sources dictionary
     
@@ -717,15 +721,18 @@ def scope():
     ## scope dictionaries
     
     usa_ma_ets_jur_scope = {2018:usa_ma_ets_jur_I, 2019:usa_ma_ets_jur_I,
-                              2020:usa_ma_ets_jur_I, 2021:usa_ma_ets_jur_I}
+                            2020:usa_ma_ets_jur_I, 2021:usa_ma_ets_jur_I,
+                            2022:usa_ma_ets_jur_I}
     
     usa_ma_ets_ipcc_scope = {2018:usa_ma_ets_ipcc_I, 2019:usa_ma_ets_ipcc_I,
-                               2020:usa_ma_ets_ipcc_I, 2021:usa_ma_ets_ipcc_I}
+                             2020:usa_ma_ets_ipcc_I, 2021:usa_ma_ets_ipcc_I,
+                             2022:usa_ma_ets_ipcc_I}
     
     ## Sources dictionary
     
     usa_ma_ets_scope_sources = {2018:"leg(MA[2017])", 2019:"leg(MA[2017])", 
-                                  2020:"leg(MA[2017])", 2021:"leg(MA[2017])"}
+                                2020:"leg(MA[2017])", 2021:"leg(MA[2017])",
+                                2022:"leg(MA[2017])"}
 
     #------------------------------------------------------------------------
     # USA-Washington
