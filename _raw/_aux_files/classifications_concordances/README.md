@@ -1,4 +1,4 @@
-The file `ipcc2006Full_isic_map` conttains an ISIC/IPCC concordance matrix. Three types of concordances exist:
+The file `ipcc2006Full_isic_map` contains an ISIC/IPCC concordance matrix. Three types of concordances exist:
 - 1 to 1
 -  1 to N
 - N to 1
