@@ -181,7 +181,7 @@ def scope():
     ## Sources dictionary
     
     can_obps_scope_sources = {2019:"leg(SOR[2019])",
-                                 2020:"leg(SOR[2019])", 2021:"leg(SOR[2019])"}
+                              2020:"leg(SOR[2019])", 2021:"leg(SOR[2019])"}
 
     #----------------------------------------------------------------------------
     
@@ -1382,7 +1382,7 @@ def scope():
                                2021:can_nl_ets_jur_I}
     
     can_nl_ets_ipcc_scope = {2019:can_nl_ets_ipcc_I, 2020:can_nl_ets_ipcc_I,
-                                2021:can_nl_ets_ipcc_I}     
+                             2021:can_nl_ets_ipcc_I}     
     
     ## Sources dictionary
     
