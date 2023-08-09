@@ -50,20 +50,21 @@ tax_ex_arg_I_ipcc = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
 tax_ex_arg_I_fuel = ["Coal"]
 
 tax_ex_arg_I_jur_scope = {2019:tax_ex_arg_I_jur, 2020:tax_ex_arg_I_jur, 
-                          2021:tax_ex_arg_I_jur}
+                          2021:tax_ex_arg_I_jur, 2022:tax_ex_arg_I_jur}
 
 tax_ex_arg_I_ipcc_scope = {2019:tax_ex_arg_I_ipcc, 2020:tax_ex_arg_I_ipcc, 
-                          2021:tax_ex_arg_I_ipcc}
+                           2021:tax_ex_arg_I_ipcc, 2022:tax_ex_arg_I_ipcc}
 
 tax_ex_arg_I_fuel_scope = {2019:tax_ex_arg_I_fuel, 2020:tax_ex_arg_I_fuel, 
-                          2021:tax_ex_arg_I_fuel}
+                           2021:tax_ex_arg_I_fuel, 2022:tax_ex_arg_I_fuel}
 
-tax_ex_arg_I_value = {2019:0.9, 2020:0.9, 2021:0.9}
+tax_ex_arg_I_value = {2019:0.9, 2020:0.8, 2021:0.7, 2022:0.6}
 
 tax_ex_arg_I = {"jurisdiction": tax_ex_arg_I_jur_scope, "ipcc": tax_ex_arg_I_ipcc_scope,
                 "fuel":tax_ex_arg_I_fuel_scope, "value":tax_ex_arg_I_value}
 
-tax_ex_arg_I_source = {2019:"db(WBCPDB[2020])", 2020:"db(WBCPDB[2020])", 2021:"db(WBCPDB[2020])"}
+tax_ex_arg_I_source = {2019:"db(WBCPDB[2020])", 2020:"db(WBCPDB[2020])", 
+                       2021:"db(WBCPDB[2020])", 2022:"db(WBCPDB[2023])",}
 
 # 'Australia' - no exemptions
 
