@@ -176,7 +176,8 @@ def scope():
                             2014:can_bc_tax_jur_I, 2015:can_bc_tax_jur_I,
                             2016:can_bc_tax_jur_I, 2017:can_bc_tax_jur_I,
                             2018:can_bc_tax_jur_I, 2019:can_bc_tax_jur_I, 
-                            2020:can_bc_tax_jur_I, 2021:can_bc_tax_jur_I}
+                            2020:can_bc_tax_jur_I, 2021:can_bc_tax_jur_I,
+                            2022:can_bc_tax_jur_I}
     
     can_bc_tax_ipcc_scope = {2008:can_bc_tax_ipcc_I, 2009:can_bc_tax_ipcc_I,
                              2010:can_bc_tax_ipcc_I, 2011:can_bc_tax_ipcc_I,
@@ -184,7 +185,8 @@ def scope():
                              2014:can_bc_tax_ipcc_I, 2015:can_bc_tax_ipcc_I,
                              2016:can_bc_tax_ipcc_I, 2017:can_bc_tax_ipcc_I,
                              2018:can_bc_tax_ipcc_I, 2019:can_bc_tax_ipcc_I, 
-                             2020:can_bc_tax_ipcc_I, 2021:can_bc_tax_ipcc_I}
+                             2020:can_bc_tax_ipcc_I, 2021:can_bc_tax_ipcc_I,
+                             2022:can_bc_tax_ipcc_I}
     
     can_bc_tax_fuel_scope = {2008:can_bc_tax_fuel_I, 2009:can_bc_tax_fuel_I,
                              2010:can_bc_tax_fuel_I, 2011:can_bc_tax_fuel_I,
@@ -192,7 +194,8 @@ def scope():
                              2014:can_bc_tax_fuel_I, 2015:can_bc_tax_fuel_I,
                              2016:can_bc_tax_fuel_I, 2017:can_bc_tax_fuel_I,
                              2018:can_bc_tax_fuel_I, 2019:can_bc_tax_fuel_I, 
-                             2020:can_bc_tax_fuel_I, 2021:can_bc_tax_fuel_I}
+                             2020:can_bc_tax_fuel_I, 2021:can_bc_tax_fuel_I,
+                             2022:can_bc_tax_fuel_I}
     
     ## Sources dictionary
     
@@ -209,7 +212,8 @@ def scope():
                                 2018:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
                                 2019:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
                                 2020:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                2021:"leg(BC-CTA[2008]), gvt(BCGOV[2021])"}
+                                2021:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
+                                2022:"leg(BC-CTA[2008]), gvt(BCG)V[2021])"}
 
     #----------------------------------------------------------------------------
 
@@ -1967,18 +1971,18 @@ def scope():
     ## scope dictionaries
     
     can_tax_I_jur_scope = {2019:can_tax_I_jur_I, 2020:can_tax_I_jur_II,
-                             2021:can_tax_I_jur_II}
+                             2021:can_tax_I_jur_II, 2022:can_tax_I_jur_II}
     
     can_tax_I_ipcc_scope = {2019:can_tax_I_ipcc_I, 2020:can_tax_I_ipcc_I,
-                             2021:can_tax_I_ipcc_I}
+                             2021:can_tax_I_ipcc_I, 2022:can_tax_I_ipcc_I}
     
     can_tax_I_fuel_scope = {2019:can_tax_I_fuel_I, 2020:can_tax_I_fuel_I,
-                             2021:can_tax_I_fuel_I}
+                             2021:can_tax_I_fuel_I, 2022:can_tax_I_fuel_I}
 
     ## Sources dictionary
     
     can_tax_I_scope_sources = {2019:"gvt(ECCC[2019])", 2020:"gvt(ECCC[2019])", 
-                                  2021:"gvt(ECCC[2019])"}
+                                  2021:"gvt(ECCC[2019])", 2022:"gvt(ECCC[2019])"}
     
     #----------------------------------------------------------------------------
     
@@ -2002,18 +2006,18 @@ def scope():
     ## scope dictionaries
     
     can_tax_II_jur_scope = {2019:can_tax_II_jur_I, 2020:can_tax_II_jur_I,
-                             2021:can_tax_II_jur_I}
+                             2021:can_tax_II_jur_I, 2022:can_tax_II_jur_I}
     
     can_tax_II_ipcc_scope = {2019:can_tax_II_ipcc_I, 2020:can_tax_II_ipcc_I,
-                             2021:can_tax_II_ipcc_I}
+                             2021:can_tax_II_ipcc_I, 2022:can_tax_II_ipcc_I}
     
     can_tax_II_fuel_scope = {2019:can_tax_II_fuel_I, 2020:can_tax_II_fuel_I,
-                             2021:can_tax_II_fuel_I}
+                             2021:can_tax_II_fuel_I, 2022:can_tax_II_fuel_I}
 
     ## Sources dictionary
     
     can_tax_II_scope_sources = {2019:"gvt(ECCC[2019])", 2020:"gvt(ECCC[2019])", 
-                                   2021:"gvt(ECCC[2019])"}
+                                   2021:"gvt(ECCC[2019])", 2022:"gvt(ECCC[2019])"}
     
     #----------------------------------------------------------------------------
     
@@ -2072,16 +2076,20 @@ def scope():
 
     ## scope dictionaries
     
-    can_nb_tax_jur_scope = {2020:can_nb_tax_jur_I, 2021:can_nb_tax_jur_I}
+    can_nb_tax_jur_scope = {2020:can_nb_tax_jur_I, 2021:can_nb_tax_jur_I,
+                            2022:can_nb_tax_jur_I}
     
-    can_nb_tax_ipcc_scope = {2020:can_nb_tax_ipcc_I, 2021:can_nb_tax_ipcc_I}
+    can_nb_tax_ipcc_scope = {2020:can_nb_tax_ipcc_I, 2021:can_nb_tax_ipcc_I,
+                             2022:can_nb_tax_ipcc_I}
     
-    can_nb_tax_fuel_scope = {2020:can_nb_tax_fuel_I, 2021:can_nb_tax_fuel_I}
+    can_nb_tax_fuel_scope = {2020:can_nb_tax_fuel_I, 2021:can_nb_tax_fuel_I,
+                             2022:can_nb_tax_fuel_I}
 
     ## Sources dictionary
     
     can_nb_tax_scope_sources = {2020:"gvt(ECCC[2021]), report(KPMG[2020])", 
-                                   2021:"gvt(ECCC[2021]), report(KPMG[2020])"}
+                                   2021:"gvt(ECCC[2021]), report(KPMG[2020])",
+                                   2022:"gvt(ECCC[2021]), report(KPMG[2020])"}
     
     #----------------------------------------------------------------------------
     
@@ -2106,19 +2114,20 @@ def scope():
     ## scope dictionaries
     
     can_pe_tax_jur_scope = {2019:can_pe_tax_jur_I, 2020:can_pe_tax_jur_I, 
-                               2021:can_pe_tax_jur_I}
+                               2021:can_pe_tax_jur_I, 2022:can_pe_tax_jur_I}
     
     can_pe_tax_ipcc_scope = {2019:can_pe_tax_ipcc_I, 2020:can_pe_tax_ipcc_I, 
-                                2021:can_pe_tax_ipcc_I}
+                                2021:can_pe_tax_ipcc_I, 2022:can_pe_tax_ipcc_I}
     
     can_pe_tax_fuel_scope = {2019:can_pe_tax_fuel_I, 2020:can_pe_tax_fuel_I, 
-                                2021:can_pe_tax_fuel_I}
+                                2021:can_pe_tax_fuel_I, 2022:can_pe_tax_fuel_I}
 
     ## Sources dictionary
     
     can_pe_tax_scope_sources = {2019:"gvt(ECCC[2021], PEI[2018])", 
                                    2020:"gvt(ECCC[2021], PEI[2018])", 
-                                   2021:"gvt(ECCC[2021], PEI[2018])"}
+                                   2021:"gvt(ECCC[2021], PEI[2018])",
+                                   2022:"gvt(ECCC[2021], PEI[2018])"}
     
     #----------------------------------------------------------------------------
     
@@ -2142,18 +2151,18 @@ def scope():
     ## scope dictionaries
     
     can_nl_tax_jur_scope = {2019:can_nl_tax_jur_I, 2020:can_nl_tax_jur_I, 
-                               2021:can_nl_tax_jur_I}
+                               2021:can_nl_tax_jur_I, 2022:can_nl_tax_jur_I}
     
     can_nl_tax_ipcc_scope = {2019:can_nl_tax_ipcc_I, 2020:can_nl_tax_ipcc_I, 
-                                2021:can_nl_tax_ipcc_I}
+                                2021:can_nl_tax_ipcc_I, 2022:can_nl_tax_ipcc_I}
     
     can_nl_tax_fuel_scope = {2019:can_nl_tax_fuel_I, 2020:can_nl_tax_fuel_I, 
-                                2021:can_nl_tax_fuel_I}
+                                2021:can_nl_tax_fuel_I, 2022:can_nl_tax_fuel_I}
 
     ## Sources dictionary
     
     can_nl_tax_scope_sources = {2019:"leg(NL[2011])", 2020:"leg(NL[2011])", 
-                                   2021:"leg(NL[2011])"}
+                                   2021:"leg(NL[2011])", 2022:"leg(NL[2011])"}
     
     #----------------------------------------------------------------------------
     
@@ -2178,19 +2187,20 @@ def scope():
     ## scope dictionaries
     
     can_nt_tax_jur_scope = {2019:can_nt_tax_jur_I, 2020:can_nt_tax_jur_I, 
-                               2021:can_nt_tax_jur_I}
+                               2021:can_nt_tax_jur_I, 2022:can_nt_tax_jur_I}
     
     can_nt_tax_ipcc_scope = {2019:can_nt_tax_ipcc_I, 2020:can_nt_tax_ipcc_I, 
-                                2021:can_nt_tax_ipcc_I}
+                                2021:can_nt_tax_ipcc_I, 2022:can_nt_tax_ipcc_I}
     
     can_nt_tax_fuel_scope = {2019:can_nt_tax_fuel_I, 2020:can_nt_tax_fuel_I, 
-                                2021:can_nt_tax_fuel_I}
+                                2021:can_nt_tax_fuel_I, 2022:can_nt_tax_fuel_I}
 
     ## Sources dictionary
     
     can_nt_tax_scope_sources = {2019:"gvt(NWT[2020], ECCC[2021])", 
                                    2020:"gvt(NWT[2020], ECCC[2021])", 
-                                   2021:"gvt(NWT[2020], ECCC[2021])"}
+                                   2021:"gvt(NWT[2020], ECCC[2021])",
+                                   2022:"gvt(NWT[2020], ECCC[2021])"}
 
 
     #------------------------------All schemes dictionaries--------------------------------#
