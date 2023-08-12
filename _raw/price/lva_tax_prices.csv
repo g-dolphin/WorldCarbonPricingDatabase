@@ -16,7 +16,7 @@ lva_tax,2017,CO2,Coal,4.5,EUR,report(WB[2017]),the carbon tax does not apply to 
 lva_tax,2018,CO2,Coal,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",the carbon tax does not apply to peat
 lva_tax,2019,CO2,Coal,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",the carbon tax does not apply to peat
 lva_tax,2020,CO2,Coal,9,EUR,db(WBCPD[2020]),the carbon tax does not apply to peat
-lva_tax,2021,CO2,Coal,12,EUR,db(WBCPD[2020]),the carbon tax does not apply to peat
+lva_tax,2021,CO2,Coal,12,EUR,db(WBCPD[2020]),"the carbon tax exemption for the use of peat in combustion installations is abolished starting from January 1, 2021."
 lva_tax,2022,CO2,Coal,15,EUR,db(WBCPD[2022]),
 lva_tax,2004,CO2,Oil,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2005,CO2,Oil,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
