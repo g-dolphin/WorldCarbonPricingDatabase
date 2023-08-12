@@ -157,6 +157,9 @@ def scope():
     # New Brunswick transitions to its provincial OBPS (2021)
     can_obps_jur_II = ["Manitoba", "Ontario", "Prince Edward Island", "Yukon", "Nunavut"]
 
+    # Ontario transitions to its provincial OBPS (2022)
+    can_obps_jur_III = ["Manitoba", "Prince Edward Island", "Yukon", "Nunavut"]
+
     ## IPCC categories
     
     can_obps_ipcc_I = ["1A1A1", "1A1A2", "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", 
@@ -173,15 +176,16 @@ def scope():
     
     ## scope dictionaries
     can_obps_jur_scope = {2019:can_obps_jur_I, 2020:can_obps_jur_I,
-                             2021:can_obps_jur_II}
+                             2021:can_obps_jur_II, 2022:can_obps_jur_III}
     
     can_obps_ipcc_scope = {2019:can_obps_ipcc_I, 2020:can_obps_ipcc_I,
-                              2021:can_obps_ipcc_I}     
+                              2021:can_obps_ipcc_I, 2022:can_obps_ipcc_I}     
     
     ## Sources dictionary
     
     can_obps_scope_sources = {2019:"leg(SOR[2019])",
-                              2020:"leg(SOR[2019])", 2021:"leg(SOR[2019])"}
+                              2020:"leg(SOR[2019])", 2021:"leg(SOR[2019])",
+                              2022:"leg(SOR[2019])"}
 
     #----------------------------------------------------------------------------
     
@@ -1173,7 +1177,7 @@ def scope():
                           "4A1", "4A2", "4A3", "4B", "4C", "4C1", "4C2", "4D", 
                           "4D1", "4D2", "4E"]
 
-    # TIER (2020-2021)   
+    # TIER (2020-2022)   
     can_ab_ets_ipcc_III = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", 
                            "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
                            "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "1B1A", 
@@ -1200,7 +1204,7 @@ def scope():
                                2015:can_ab_ets_jur_I, 2016:can_ab_ets_jur_I,
                                2017:can_ab_ets_jur_I, 2018:can_ab_ets_jur_I,
                                2019:can_ab_ets_jur_I, 2020:can_ab_ets_jur_I,
-                               2021:can_ab_ets_jur_I}
+                               2021:can_ab_ets_jur_I, 2022:can_ab_ets_jur_I}
     
     can_ab_ets_ipcc_scope = {2007:can_ab_ets_ipcc_I, 2008:can_ab_ets_ipcc_I,
                                 2009:can_ab_ets_ipcc_I, 2010:can_ab_ets_ipcc_I,
@@ -1209,7 +1213,7 @@ def scope():
                                 2015:can_ab_ets_ipcc_I, 2016:can_ab_ets_ipcc_I,
                                 2017:can_ab_ets_ipcc_I, 2018:can_ab_ets_ipcc_II,
                                 2019:can_ab_ets_ipcc_II, 2020:can_ab_ets_ipcc_III,
-                                2021:can_ab_ets_ipcc_III}     
+                                2021:can_ab_ets_ipcc_III, 2022:can_ab_ets_ipcc_III}     
     
     ## Sources dictionary
     
@@ -1227,7 +1231,8 @@ def scope():
                                    2018:"gvt(ALBGOV[2019])",
                                    2019:"gvt(ALBGOV[2019])", 
                                    2020:"gvt(ABGOV[2021], ABGOV[2021b])",
-                                   2021:"gvt(ABGOV[2021], ABGOV[2021b])"}    
+                                   2021:"gvt(ABGOV[2021], ABGOV[2021b])",
+                                   2022:"gvt(ABGOV[2021], ABGOV[2021b])"}    
 
     #----------------------------------------------------------------------------
     
@@ -1292,16 +1297,17 @@ def scope():
     
     ## scope dictionaries
     can_sk_ets_jur_scope = {2019:can_sk_ets_jur_I, 2020:can_sk_ets_jur_I,
-                               2021:can_sk_ets_jur_I}
+                               2021:can_sk_ets_jur_I, 2022:can_sk_ets_jur_I}
     
     can_sk_ets_ipcc_scope = {2019:can_sk_ets_ipcc_I, 2020:can_sk_ets_ipcc_I,
-                                2021:can_sk_ets_ipcc_I}     
+                                2021:can_sk_ets_ipcc_I, 2022:can_sk_ets_ipcc_I}     
     
     ## Sources dictionary
     
     can_sk_ets_scope_sources = {2019:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])", 
                                    2020:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])",
-                                   2021:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])"}    
+                                   2021:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])",
+                                   2022:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])"}    
 
 
     #----------------------------------------------------------------------------
@@ -1319,13 +1325,13 @@ def scope():
                          "1A2J", "2A2", "2H1", "2H2", "3D1"]
     
     ## scope dictionaries
-    can_nb_ets_jur_scope = {2021:can_nb_ets_jur_I}
+    can_nb_ets_jur_scope = {2021:can_nb_ets_jur_I, 2022:can_nb_ets_jur_I}
     
-    can_nb_ets_ipcc_scope = {2021:can_nb_ets_ipcc_I}     
+    can_nb_ets_ipcc_scope = {2021:can_nb_ets_ipcc_I, 2022:can_nb_ets_jur_I}     
     
     ## Sources dictionary
     
-    can_nb_ets_scope_sources = {2021:"gvt(ECCC[2021])"}    
+    can_nb_ets_scope_sources = {2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])"}    
 
 
     #----------------------------------------------------------------------------
@@ -1349,15 +1355,15 @@ def scope():
     
     ## scope dictionaries
     can_ns_ets_jur_scope = {2019:can_ns_ets_jur_I, 2020:can_ns_ets_jur_I,
-                               2021:can_ns_ets_jur_I}
+                               2021:can_ns_ets_jur_I, 2022:can_ns_ets_jur_I}
     
     can_ns_ets_ipcc_scope = {2019:can_ns_ets_ipcc_I, 2020:can_ns_ets_ipcc_I,
-                                2021:can_ns_ets_ipcc_I}     
+                                2021:can_ns_ets_ipcc_I, 2022:can_ns_ets_ipcc_I}     
     
     ## Sources dictionary
     
     can_ns_ets_scope_sources = {2019:"gvt(ECCC[2021])", 2020:"gvt(ECCC[2021])",
-                                   2021:"gvt(ECCC[2021])"}     
+                                   2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])"}     
 
 
     #----------------------------------------------------------------------------
@@ -1379,15 +1385,15 @@ def scope():
     
     ## scope dictionaries
     can_nl_ets_jur_scope = {2019:can_nl_ets_jur_I, 2020:can_nl_ets_jur_I,
-                               2021:can_nl_ets_jur_I}
+                               2021:can_nl_ets_jur_I, 2022:can_nl_ets_jur_I}
     
     can_nl_ets_ipcc_scope = {2019:can_nl_ets_ipcc_I, 2020:can_nl_ets_ipcc_I,
-                             2021:can_nl_ets_ipcc_I}     
+                             2021:can_nl_ets_ipcc_I, 2022:can_nl_ets_ipcc_I}     
     
     ## Sources dictionary
     
     can_nl_ets_scope_sources = {2019:"gvt(NL[2019])", 2020:"gvt(NL[2019])",
-                                   2021:"gvt(NL[2019])"}  
+                                   2021:"gvt(NL[2019])", 2022:"gvt(NL[2019])"}  
 
     
     #------------------------------All schemes dictionaries--------------------------------#
