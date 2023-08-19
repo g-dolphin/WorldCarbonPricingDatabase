@@ -6,6 +6,8 @@ This dataset contains information on carbon pricing mechanisms (carbon taxes or 
 
 In a separate project, it is used in combination with greenhouse gas emissions data to calculate an emissions-weighted average carbon price. This project is hosted here: [https://github.com/g-dolphin/ECP](https://github.com/g-dolphin/ECP).
 
+If this dataset has been useful to you or simply think it's cool, feel free to give it a ⭐!
+
 ## Dataset 
 ### Description
 
