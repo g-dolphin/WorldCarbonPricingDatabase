@@ -9910,45 +9910,45 @@ Ireland,2022,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Ireland,2022,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Ireland,2022,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Ireland,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Ireland,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Ireland,2022,1A3B,Oil,NA,NA,NA,NA,NA
+Ireland,2022,1A3A2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Ireland,2022,1A3A2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Ireland,2022,1A3A2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Ireland,2022,1A3B,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3B,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3B,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A3D1,Coal,NA,NA,NA,NA,NA
-Ireland,2022,1A3D1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2022,1A3D1,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A3D2,Coal,NA,NA,NA,NA,NA
-Ireland,2022,1A3D2,Natural gas,NA,NA,NA,NA,NA
-Ireland,2022,1A3D2,Oil,NA,NA,NA,NA,NA
+Ireland,2022,1A3D1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D2,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D2,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A3E1,Coal,NA,NA,NA,NA,NA
-Ireland,2022,1A3E1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2022,1A3E1,Oil,NA,NA,NA,NA,NA
+Ireland,2022,1A3E1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3E1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A4A,Coal,NA,NA,NA,NA,NA
-Ireland,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
-Ireland,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Ireland,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Ireland,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Ireland,2022,1A4A,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4A,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4A,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4B,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4B,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4B,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A4C1,Coal,NA,NA,NA,NA,NA
-Ireland,2022,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2022,1A4C1,Oil,NA,NA,NA,NA,NA
+Ireland,2022,1A4C1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4C1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A4C2,Oil,NA,NA,NA,NA,NA

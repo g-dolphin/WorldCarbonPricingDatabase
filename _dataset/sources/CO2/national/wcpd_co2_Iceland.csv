@@ -9854,11 +9854,11 @@ Iceland,2022,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily p
 Iceland,2022,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Iceland,2022,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Iceland,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Iceland,2022,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Iceland,2022,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Iceland,2022,1A1B,Natural gas,leg(ISL-ENRTA[2009]), ,db(WBCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Iceland,2022,1A1B,Oil,leg(ISL-ENRTA[2009]), ,db(WBCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Iceland,2022,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Iceland,2022,1A1C,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Iceland,2022,1A1C,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Iceland,2022,1A1C,Natural gas,leg(ISL-ENRTA[2009]), ,db(WBCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Iceland,2022,1A1C,Oil,leg(ISL-ENRTA[2009]), ,db(WBCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Iceland,2022,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -9914,8 +9914,8 @@ Iceland,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily p
 Iceland,2022,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Iceland,2022,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Iceland,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Iceland,2022,1A3B,Oil,NA,NA,NA,NA,NA
+Iceland,2022,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
+Iceland,2022,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
 Iceland,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9938,20 +9938,20 @@ Iceland,2022,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2022,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
-Iceland,2022,1A4A,Oil,NA,NA,NA,NA,NA
+Iceland,2022,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
+Iceland,2022,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
 Iceland,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Iceland,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Iceland,2022,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
+Iceland,2022,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
 Iceland,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2022,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Iceland,2022,1A4C1,Oil,NA,NA,NA,NA,NA
+Iceland,2022,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
+Iceland,2022,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
 Iceland,2022,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Iceland,2022,1A4C2,Oil,NA,NA,NA,NA,NA
+Iceland,2022,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
+Iceland,2022,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,db(WBCPD[2022]); ,NA,NA
 Iceland,2022,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A4C3,Oil,NA,NA,NA,NA,NA
