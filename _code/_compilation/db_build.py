@@ -21,7 +21,7 @@ os.chdir("/Users/gd/GitHub/WorldCarbonPricingDatabase")
 
 # Load modules
 
-gen_func = SourceFileLoader('general', '/Users/gd/GitHub/ECP/_code/compilation/dependencies/dep_ecp/ecp_v3_gen_func.py').load_module()
+gen_func = SourceFileLoader('general', '/Users/gd/GitHub/ECP/_code/compilation/_dependencies/dep_ecp/ecp_v3_gen_func.py').load_module()
 
 etsPricesModule = SourceFileLoader('ets_prices', '_code/_compilation/_dependencies/ets_prices.py').load_module()
 taxRatesModule = SourceFileLoader('tax_rates', '_code/_compilation/_dependencies/tax_rates.py').load_module()
@@ -214,7 +214,7 @@ wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
 # Price-based exemptions
 # Add (price-based) exemptions/rebate column for carbon taxes
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_rebates/tax/_price_exemptions_tax_"+gas+".py")
+stream = open("_raw/priceRebates/tax/_price_exemptions_tax_"+gas+".py")
 read_file = stream.read()
 exec(read_file)
 
@@ -242,15 +242,15 @@ wcpd_all_jur_sources.fillna("NA", inplace=True)
 
 # Re-ordering columns
 wcpd_all_jur = wcpd_all_jur[["jurisdiction", "year", "ipcc_code",
-                   "Product", "tax", "ets", "tax_id",
-                   "tax_rate_excl_ex_clcu", "tax_ex_rate", 
-                   "tax_rate_incl_ex_clcu", "tax_curr_code", "ets_id", "ets_price",
-                   "ets_curr_code", "ets_2_id", "ets_2_price", "ets_2_curr_code"]]
+                            "Product", "tax", "ets", "tax_id",
+                            "tax_rate_excl_ex_clcu", "tax_ex_rate", 
+                            "tax_rate_incl_ex_clcu", "tax_curr_code", "ets_id", "ets_price",
+                            "ets_curr_code", "ets_2_id", "ets_2_price", "ets_2_curr_code"]]
 
 wcpd_all_jur_sources = wcpd_all_jur_sources[["jurisdiction", "year", "ipcc_code", 
-                                   "Product", "tax", "ets",
-                                   "tax_rate_excl_ex_clcu", "tax_ex_rate",
-                                   "ets_price"]]
+                                            "Product", "tax", "ets",
+                                            "tax_rate_excl_ex_clcu", "tax_ex_rate",
+                                            "ets_price"]]
 
 #------------------------------Calculating aggregate IPCC categories scope values----------------------------------#
 # currently not used - the script needs review as it doesn't seem to record the desired output

@@ -9847,60 +9847,60 @@ Slovenia,2022,1A1A,Oil,NA,NA,NA,NA,NA
 Slovenia,2022,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2022,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2022,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1C,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A1C,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1A2,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1A2,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1A2,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1A3,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1A3,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1A3,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1B,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1B,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1B,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1C,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1C,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A1C,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2022,1A2,Coal,NA,NA,NA,NA,NA
 Slovenia,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2022,1A2,Oil,NA,NA,NA,NA,NA
-Slovenia,2022,1A2A,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2A,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2A,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2B,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2B,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2C,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2C,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2C,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2D,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2D,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2D,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2E,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2E,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2E,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2F,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2F,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2F,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2G,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2G,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2G,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2H,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2H,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2H,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2I,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2I,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2I,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2J,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2J,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2J,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2K,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2K,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2K,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2L,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2L,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2L,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2M,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2M,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Slovenia,2022,1A2M,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2A,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2A,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2A,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2B,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2B,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2B,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2C,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2C,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2C,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2D,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2D,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2D,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2E,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2E,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2E,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2F,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2F,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2F,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2G,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2G,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2G,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2H,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2H,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2H,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2I,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2I,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2I,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2J,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2J,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2J,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2K,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2K,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2K,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2L,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2L,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2L,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2M,Coal,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2M,Natural gas,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Slovenia,2022,1A2M,Oil,leg(SLO-CO2[2020]), ,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Slovenia,2022,1A3,Coal,NA,NA,NA,NA,NA
 Slovenia,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -9940,18 +9940,18 @@ Slovenia,2022,1A4,Oil,NA,NA,NA,NA,NA
 Slovenia,2022,1A4A,Coal,NA,NA,NA,NA,NA
 Slovenia,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Slovenia,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Slovenia,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Slovenia,2022,1A4B,Coal,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,NA
+Slovenia,2022,1A4B,Natural gas,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,NA
+Slovenia,2022,1A4B,Oil,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,NA
 Slovenia,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Slovenia,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Slovenia,2022,1A4C1,Coal,NA,NA,NA,NA,NA
-Slovenia,2022,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2022,1A4C1,Oil,NA,NA,NA,NA,NA
-Slovenia,2022,1A4C2,Coal,NA,NA,NA,NA,NA
-Slovenia,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2022,1A4C2,Oil,NA,NA,NA,NA,NA
+Slovenia,2022,1A4C1,Coal,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,NA
+Slovenia,2022,1A4C1,Natural gas,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,NA
+Slovenia,2022,1A4C1,Oil,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,NA
+Slovenia,2022,1A4C2,Coal,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); ",NA,NA
+Slovenia,2022,1A4C2,Natural gas,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for natural gas between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,NA
+Slovenia,2022,1A4C2,Oil,leg(SLO-CO2[2020]),NA,"leg(SLO-CO2[2022]), db(WBCPD[2022]); The tax was suspended for motor gasoline, fuel oil and heating oil between 21/08/2022 and 31/07/2022, and from 13/09/2022 onwards.",NA,NA
 Slovenia,2022,1A4C3,Coal,NA,NA,NA,NA,NA
 Slovenia,2022,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2022,1A4C3,Oil,NA,NA,NA,NA,NA
