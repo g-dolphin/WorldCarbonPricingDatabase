@@ -15,14 +15,38 @@ path_prices = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price"
 
 
 def prices_df(path_prices):
-    # RGGI Prices - taken from ICAP
+    # Austria
+    aut_ets_prices = pd.read_csv(path_prices+"/aut_ets_prices.csv")
+    aut_ets_prices = aut_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
+    
+    # Kazakhstan
+    kaz_ets_prices = pd.read_csv(path_prices+"/kaz_ets_prices.csv")
+    kaz_ets_prices = kaz_ets_prices.rename(columns={"allowance_price":"allowance_price"})
+
+    # Mexico
+    mex_ets_prices = pd.read_csv(path_prices+"/mex_ets_prices.csv")
+    mex_ets_prices = mex_ets_prices.rename(columns={"allowance_price":"allowance_price"})
+
+    # Montenegro
+    mne_ets_prices = pd.read_csv(path_prices+"/mne_ets_prices.csv")
+    mne_ets_prices = mne_ets_prices.rename(columns={"allowance_price":"allowance_price"})
+
+    # Switzerland
+    che_ets_prices = pd.read_csv(path_prices+"/che_ets_prices.csv")
+    che_ets_prices = che_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
+
+    # RGGI Prices
     usa_rggi_prices = pd.read_csv(path_prices+"/usa_rggi_prices.csv")
     usa_rggi_prices.loc[:, "allowance_price"] = usa_rggi_prices.allowance_weighted_price/0.90718474
     usa_rggi_prices = usa_rggi_prices.drop(["allowance_weighted_price"], axis=1)
 
-    # California CaT
+    # Massachusetts CaT
     usa_ma_ets_prices = pd.read_csv(path_prices+"/usa_ma_ets_prices.csv")
     usa_ma_ets_prices = usa_ma_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
+
+    # Oregon CaT
+    usa_or_ets_prices = pd.read_csv(path_prices+"/usa_or_ets_prices.csv")
+    usa_or_ets_prices = usa_or_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
     
     # Quebec CaT
     can_qc_cat_prices = pd.read_csv(path_prices+"/can_qc_cat_prices.csv")
@@ -31,15 +55,7 @@ def prices_df(path_prices):
     # California CaT
     usa_ca_ets_prices = pd.read_csv(path_prices+"/usa_ca_ets_prices.csv")
     usa_ca_ets_prices = usa_ca_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
-    
-    # Kazakhstan
-    kaz_ets_prices = pd.read_csv(path_prices+"/kaz_ets_prices.csv")
-    kaz_ets_prices = kaz_ets_prices.rename(columns={"allowance_price":"allowance_price"})
 
-    # Switzerland
-    che_ets_prices = pd.read_csv(path_prices+"/che_ets_prices.csv")
-    che_ets_prices = che_ets_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
-    
     # Canadian federal OBPS
     can_obps_prices = pd.read_csv(path_prices+"/can_obps_prices.csv")
     can_obps_prices = can_obps_prices.rename(columns={"allowance_weighted_price":"allowance_price"})
@@ -128,6 +144,7 @@ def prices_df(path_prices):
     icap_raw_average = icap_raw_average.rename(columns=name_id_dic)
     icap_raw_average = icap_raw_average.reset_index()
     
+    # drop policy instruments whose info is not taken from ICAP
     icap_raw_average = icap_raw_average.drop(["usa_rggi", "can_on_ets", "che_ets", 
                                               "usa_ca_ets", "can_qc_cat", "can_ns_ets"], axis=1)
     
@@ -158,11 +175,12 @@ def prices_df(path_prices):
     #-------------------------------------------------------------------
     
     # Aggregate data from all the sources
-    df = pd.concat([usa_rggi_prices, can_qc_cat_prices, usa_ca_ets_prices,
-                    usa_ma_ets_prices,
-                    che_ets_prices, kaz_ets_prices,
-                    icap_raw_average, can_obps_prices, 
-                    can_ab_ets_prices, can_sk_ets_prices, 
+    df = pd.concat([icap_raw_average,
+                    aut_ets_prices, che_ets_prices, kaz_ets_prices,
+                    mex_ets_prices, mne_ets_prices,
+                    usa_rggi_prices, can_qc_cat_prices, usa_ca_ets_prices,
+                    usa_ma_ets_prices, usa_or_ets_prices,
+                    can_obps_prices, can_ab_ets_prices, can_sk_ets_prices, 
                     can_nb_ets_prices, can_ns_ets_prices, 
                     can_nl_ets_prices])
     
