@@ -16,26 +16,29 @@ from importlib.machinery import SourceFileLoader
 # Specify greenhouse gas for which the dataset is built
 gas = "CO2" # or CH4 / F-GASES / SF6
 
+# set current directory
+os.chdir("/Users/gd/GitHub/WorldCarbonPricingDatabase")
+
 # Load modules
 
-gen_func = SourceFileLoader('general', '/Users/gd/GitHub/ECP/_code/compilation/dependencies/ecp_v3_gen_func.py').load_module()
+gen_func = SourceFileLoader('general', '/Users/gd/GitHub/ECP/_code/compilation/dependencies/dep_ecp/ecp_v3_gen_func.py').load_module()
 
-etsPricesModule = SourceFileLoader('ets_prices', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/ets_prices.py').load_module()
-taxRatesModule = SourceFileLoader('tax_rates', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/tax_rates.py').load_module()
-etsScopeModule = SourceFileLoader('ets_scope', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/scope/ets/ets_scope_'+gas+'.py').load_module()
-taxScopeModule = SourceFileLoader('taxes_scope', '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/scope/tax/taxes_scope_'+gas+'.py').load_module()
+etsPricesModule = SourceFileLoader('ets_prices', '_code/_compilation/_dependencies/ets_prices.py').load_module()
+taxRatesModule = SourceFileLoader('tax_rates', '_code/_compilation/_dependencies/tax_rates.py').load_module()
+etsScopeModule = SourceFileLoader('ets_scope', '_raw/scope/ets/ets_scope_'+gas+'.py').load_module()
+taxScopeModule = SourceFileLoader('taxes_scope', '_raw/scope/tax/taxes_scope_'+gas+'.py').load_module()
 
 
 #----------------------------DB structure------------------------#
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/jurisdictions.py")
+stream = open("_code/_compilation/_dependencies/jurisdictions.py")
 read_file = stream.read()
 exec(read_file)
 
 if gas == "CO2":
-    wcpd_structure = pd.read_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv")
+    wcpd_structure = pd.read_csv("_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv")
 else:
-    wcpd_structure = pd.read_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/_aux_files/wcpd_structure/wcpd_structure_nonCO2.csv")
+    wcpd_structure = pd.read_csv("_raw/_aux_files/wcpd_structure/wcpd_structure_nonCO2.csv")
 
 # Jurisdiction lists
 
@@ -61,13 +64,13 @@ for jur in all_jur_list:
 
 #------------------------Prices and scopes modules---------------------------#
 
-ets_prices = etsPricesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price")
+ets_prices = etsPricesModule.prices_df("_raw/price")
 #ets_prices = ets_prices.loc[ets_prices.ghg==gas]
 
 ets_scope = etsScopeModule.scope()["data"]
 ets_scope_sources = etsScopeModule.scope()["sources"]
 
-tax_rates = taxRatesModule.prices_df("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/", gas)
+tax_rates = taxRatesModule.prices_df("_raw/price/", gas)
 tax_rates.rename(columns={"product":"em_type"}, inplace=True)
 
 taxes_scope = taxScopeModule.scope()["data"]
@@ -85,6 +88,7 @@ def ets_db_values(scheme_list, scheme_no):
                    "curr_code":"ets_2_curr_code"}
     
     for scheme in scheme_list:
+        print(scheme)
         for yr in ets_scope[scheme]["jurisdictions"].keys():   
             selection = (wcpd_all_jur.year==yr) & (wcpd_all_jur.jurisdiction.isin(ets_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur.ipcc_code.isin(ets_scope[scheme]["sectors"][yr]))
             selection_sources = (wcpd_all_jur_sources.year==yr) & (wcpd_all_jur_sources.jurisdiction.isin(ets_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur_sources.ipcc_code.isin(ets_scope[scheme]["sectors"][yr]))
@@ -116,6 +120,7 @@ def tax_db_values(scheme_list, scheme_no, gas):
                    "rate":"tax_2_rate_excl_ex_clcu", "curr_code":"tax_2_curr_code"}
 
     for scheme in scheme_list:
+        print(scheme)
         for yr in taxes_scope[scheme]["jurisdictions"].keys():
             if gas == "CO2":   
                 selection = (wcpd_all_jur.year==yr) & (wcpd_all_jur.jurisdiction.isin(taxes_scope[scheme]["jurisdictions"][yr])) & (wcpd_all_jur.ipcc_code.isin(taxes_scope[scheme]["sectors"][yr])) & (wcpd_all_jur.Product.isin(taxes_scope[scheme]["fuels"][yr]))
@@ -166,6 +171,11 @@ def tax_db_values(scheme_list, scheme_no, gas):
 
 ets_1_list = list(ets_scope.keys()) #list of identifiers of ETS covering the selected gas
 ets_1_list.remove("usa_ma_ets") #second scheme
+
+# check if any scheme is missing from prices data frame
+etsCheck = list(set(ets_1_list)-(set(ets_1_list).intersection(set(ets_prices.scheme_id.unique()))))
+if len(etsCheck)>0:
+    print("Prices for the following schemes are missing: ", etsCheck)
 
 taxes_1_list = list(taxes_scope.keys()) # list of identifiers of taxes covering the selected gas
 

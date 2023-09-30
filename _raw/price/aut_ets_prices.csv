@@ -1,0 +1,2 @@
+scheme_id,year,allowance_price,currency_code,source,comment
+aut_ets,2022,30,EUR,db(ICAP[2022]),"the Austrian NEHG entered into force on Oct 1, 2022"

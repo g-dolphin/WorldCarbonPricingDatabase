@@ -7,7 +7,7 @@ Created on Tue Aug 24 14:37:49 2021
 """
 
 
-# We need to produce data frames whose entries are consistent with the main records (I.e., there should be a coverage factor value only for rows where a scheme is actually in place)
+# We need to produce data frames whose entries are consistent with the main records (i.e., there should be a coverage factor value only for rows where a scheme is actually in place)
 # The strategy implemented below uses the dictionaries of schemes created (this will ensure that we don't include more - or less - schemes than those in the dataset)
 # We first create default data frames with default coverage factor value 1.
 # We then introduce scheme-jurisdiction - specific values.
