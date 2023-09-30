@@ -1,2 +1,3 @@
 scheme_id,year,allowance_price,currency_code,source,comment
-mex_ets,2021,NA,MXN,report(ICAP - MX[2021]),
+mex_ets,2021,NA,MXN,report(ICAP - MX[2021]),-
+mex_ets,2022,0,MXN,report(ICAP - MX[2022]),-

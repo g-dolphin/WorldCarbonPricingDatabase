@@ -687,7 +687,8 @@ def scope():
                                   2018:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
                                   2019:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
                                   2020:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2021:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])"}
+                                  2021:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",
+                                  2022:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])"}
 
     #----------------------------------------------------------------------------
     # USA-Oregon 
@@ -698,18 +699,13 @@ def scope():
                          "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
                          "1A2L", "1A2M", "1A3B", "1A4A", "1A4B", "1A5A"]
 
-    usa_or_ets_jur_scope = {2020:usa_or_ets_jur_I,
-                            2021:usa_or_ets_jur_I,
-                            2022:usa_or_ets_jur_I}
+    usa_or_ets_jur_scope = {2022:usa_or_ets_jur_I}
     
-    usa_or_ets_ipcc_scope = {2020:usa_or_ets_ipcc_I,
-                             2021:usa_or_ets_ipcc_I,
-                             2022:usa_or_ets_ipcc_I}
+    usa_or_ets_ipcc_scope = {2022:usa_or_ets_ipcc_I}
 
     ## Sources dictionary
     
-    usa_or_ets_scope_sources = {2020:"report(ICAP[2023])", 2021:"report(ICAP[2023])",
-                                2022:"report(ICAP[2023])"}
+    usa_or_ets_scope_sources = {2022:"report(ICAP[2023])"}
 
 
     #----------------------------------------------------------------------------
