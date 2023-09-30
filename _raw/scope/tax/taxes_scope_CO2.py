@@ -1100,7 +1100,7 @@ def scope():
                               2015:nor_tax_I_jur_I, 2016:nor_tax_I_jur_I,
                               2017:nor_tax_I_jur_I, 2018:nor_tax_I_jur_I,
                               2019:nor_tax_I_jur_I, 2020:nor_tax_I_jur_I,
-                              2021:nor_tax_I_jur_I, 2022:nor_tax_jur_I}
+                              2021:nor_tax_I_jur_I, 2022:nor_tax_I_jur_I}
 
     nor_tax_I_ipcc_scope = {1991:nor_tax_I_ipcc_I, 1992:nor_tax_I_ipcc_I,
                                1993:nor_tax_I_ipcc_I, 1994:nor_tax_I_ipcc_I,

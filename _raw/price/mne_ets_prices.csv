@@ -1,0 +1,4 @@
+scheme_id,year,allowance_price,currency_code,source,comment
+mne_ets,2020,0,EUR,db(ICAP[2022]),-
+mne_ets,2021,0,EUR,db(ICAP[2022]),-
+mne_ets,2022,0,EUR,db(ICAP[2022]),-
