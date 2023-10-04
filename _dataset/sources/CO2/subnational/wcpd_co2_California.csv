@@ -9844,63 +9844,63 @@ California,2022,1A1,Oil,NA,NA,NA,NA,NA
 California,2022,1A1A,Coal,NA,NA,NA,NA,NA
 California,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A1A,Oil,NA,NA,NA,NA,NA
-California,2022,1A1A1,Coal,NA,NA,NA,NA,NA
-California,2022,1A1A1,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A1A1,Oil,NA,NA,NA,NA,NA
-California,2022,1A1A2,Coal,NA,NA,NA,NA,NA
-California,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A1A2,Oil,NA,NA,NA,NA,NA
+California,2022,1A1A1,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1A1,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1A1,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1A2,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1A2,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1A2,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,1A1A3,Coal,NA,NA,NA,NA,NA
 California,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A1A3,Oil,NA,NA,NA,NA,NA
-California,2022,1A1B,Coal,NA,NA,NA,NA,NA
-California,2022,1A1B,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A1B,Oil,NA,NA,NA,NA,NA
-California,2022,1A1C,Coal,NA,NA,NA,NA,NA
-California,2022,1A1C,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A1C,Oil,NA,NA,NA,NA,NA
+California,2022,1A1B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1C,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1C,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A1C,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,1A2,Coal,NA,NA,NA,NA,NA
 California,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A2,Oil,NA,NA,NA,NA,NA
-California,2022,1A2A,Coal,NA,NA,NA,NA,NA
-California,2022,1A2A,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2A,Oil,NA,NA,NA,NA,NA
-California,2022,1A2B,Coal,NA,NA,NA,NA,NA
-California,2022,1A2B,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2B,Oil,NA,NA,NA,NA,NA
-California,2022,1A2C,Coal,NA,NA,NA,NA,NA
-California,2022,1A2C,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2C,Oil,NA,NA,NA,NA,NA
-California,2022,1A2D,Coal,NA,NA,NA,NA,NA
-California,2022,1A2D,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2D,Oil,NA,NA,NA,NA,NA
-California,2022,1A2E,Coal,NA,NA,NA,NA,NA
-California,2022,1A2E,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2E,Oil,NA,NA,NA,NA,NA
-California,2022,1A2F,Coal,NA,NA,NA,NA,NA
-California,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2F,Oil,NA,NA,NA,NA,NA
-California,2022,1A2G,Coal,NA,NA,NA,NA,NA
-California,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2G,Oil,NA,NA,NA,NA,NA
-California,2022,1A2H,Coal,NA,NA,NA,NA,NA
-California,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2H,Oil,NA,NA,NA,NA,NA
-California,2022,1A2I,Coal,NA,NA,NA,NA,NA
-California,2022,1A2I,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2I,Oil,NA,NA,NA,NA,NA
-California,2022,1A2J,Coal,NA,NA,NA,NA,NA
-California,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2J,Oil,NA,NA,NA,NA,NA
-California,2022,1A2K,Coal,NA,NA,NA,NA,NA
-California,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2K,Oil,NA,NA,NA,NA,NA
-California,2022,1A2L,Coal,NA,NA,NA,NA,NA
-California,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2L,Oil,NA,NA,NA,NA,NA
-California,2022,1A2M,Coal,NA,NA,NA,NA,NA
-California,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A2M,Oil,NA,NA,NA,NA,NA
+California,2022,1A2A,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2A,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2A,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2C,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2C,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2C,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2D,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2D,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2D,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2E,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2E,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2E,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2F,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2F,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2F,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2G,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2G,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2G,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2H,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2H,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2H,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2I,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2I,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2I,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2J,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2J,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2J,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2K,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2K,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2K,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2L,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2L,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2L,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2M,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2M,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A2M,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,1A3,Coal,NA,NA,NA,NA,NA
 California,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -9913,9 +9913,9 @@ California,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 California,2022,1A3A2,Coal,NA,NA,NA,NA,NA
 California,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-California,2022,1A3B,Coal,NA,NA,NA,NA,NA
-California,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A3B,Oil,NA,NA,NA,NA,NA
+California,2022,1A3B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A3B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A3B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,1A3C,Coal,NA,NA,NA,NA,NA
 California,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9937,12 +9937,12 @@ California,2022,1A3E1,Oil,NA,NA,NA,NA,NA
 California,2022,1A4,Coal,NA,NA,NA,NA,NA
 California,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A4,Oil,NA,NA,NA,NA,NA
-California,2022,1A4A,Coal,NA,NA,NA,NA,NA
-California,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A4A,Oil,NA,NA,NA,NA,NA
-California,2022,1A4B,Coal,NA,NA,NA,NA,NA
-California,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A4B,Oil,NA,NA,NA,NA,NA
+California,2022,1A4A,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A4A,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A4A,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A4B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A4B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A4B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,1A4C,Coal,NA,NA,NA,NA,NA
 California,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9958,9 +9958,9 @@ California,2022,1A4C3,Oil,NA,NA,NA,NA,NA
 California,2022,1A5,Coal,NA,NA,NA,NA,NA
 California,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A5,Oil,NA,NA,NA,NA,NA
-California,2022,1A5A,Coal,NA,NA,NA,NA,NA
-California,2022,1A5A,Natural gas,NA,NA,NA,NA,NA
-California,2022,1A5A,Oil,NA,NA,NA,NA,NA
+California,2022,1A5A,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A5A,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1A5A,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,1A5B,Coal,NA,NA,NA,NA,NA
 California,2022,1A5B,Natural gas,NA,NA,NA,NA,NA
 California,2022,1A5B,Oil,NA,NA,NA,NA,NA
@@ -10003,8 +10003,8 @@ California,2022,1B2B36,NA,NA,NA,NA,NA,NA
 California,2022,1B3,NA,NA,NA,NA,NA,NA
 California,2022,1C,NA,NA,NA,NA,NA,NA
 California,2022,1C1,NA,NA,NA,NA,NA,NA
-California,2022,1C1A,NA,NA,NA,NA,NA,NA
-California,2022,1C1B,NA,NA,NA,NA,NA,NA
+California,2022,1C1A,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,1C1B,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,1C1C,NA,NA,NA,NA,NA,NA
 California,2022,1C2,NA,NA,NA,NA,NA,NA
 California,2022,1C2A,NA,NA,NA,NA,NA,NA
@@ -10017,63 +10017,63 @@ California,2022,2000,NA,NA,NA,NA,NA,NA
 California,2022,20000,NA,NA,NA,NA,NA,NA
 California,2022,200000,NA,NA,NA,NA,NA,NA
 California,2022,2A,NA,NA,NA,NA,NA,NA
-California,2022,2A1,NA,NA,NA,NA,NA,NA
-California,2022,2A2,NA,NA,NA,NA,NA,NA
-California,2022,2A3,NA,NA,NA,NA,NA,NA
-California,2022,2A4,NA,NA,NA,NA,NA,NA
-California,2022,2A4A,NA,NA,NA,NA,NA,NA
-California,2022,2A4B,NA,NA,NA,NA,NA,NA
-California,2022,2A4C,NA,NA,NA,NA,NA,NA
-California,2022,2A4D,NA,NA,NA,NA,NA,NA
+California,2022,2A1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2A2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2A3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2A4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2A4A,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2A4B,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2A4C,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2A4D,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,2B,NA,NA,NA,NA,NA,NA
-California,2022,2B1,NA,NA,NA,NA,NA,NA
-California,2022,2B10,NA,NA,NA,NA,NA,NA
-California,2022,2B2,NA,NA,NA,NA,NA,NA
-California,2022,2B3,NA,NA,NA,NA,NA,NA
-California,2022,2B4,NA,NA,NA,NA,NA,NA
-California,2022,2B5,NA,NA,NA,NA,NA,NA
-California,2022,2B6,NA,NA,NA,NA,NA,NA
-California,2022,2B7,NA,NA,NA,NA,NA,NA
-California,2022,2B8,NA,NA,NA,NA,NA,NA
-California,2022,2B8A,NA,NA,NA,NA,NA,NA
-California,2022,2B8B,NA,NA,NA,NA,NA,NA
-California,2022,2B8C,NA,NA,NA,NA,NA,NA
-California,2022,2B8D,NA,NA,NA,NA,NA,NA
-California,2022,2B8E,NA,NA,NA,NA,NA,NA
-California,2022,2B8F,NA,NA,NA,NA,NA,NA
+California,2022,2B1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B10,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B5,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B6,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B7,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B8,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B8A,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B8B,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B8C,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B8D,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B8E,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B8F,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,2B9,NA,NA,NA,NA,NA,NA
-California,2022,2B9A,NA,NA,NA,NA,NA,NA
-California,2022,2B9B,NA,NA,NA,NA,NA,NA
+California,2022,2B9A,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2B9B,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,2C,NA,NA,NA,NA,NA,NA
-California,2022,2C1,NA,NA,NA,NA,NA,NA
-California,2022,2C2,NA,NA,NA,NA,NA,NA
-California,2022,2C3,NA,NA,NA,NA,NA,NA
-California,2022,2C4,NA,NA,NA,NA,NA,NA
-California,2022,2C5,NA,NA,NA,NA,NA,NA
-California,2022,2C6,NA,NA,NA,NA,NA,NA
-California,2022,2C7,NA,NA,NA,NA,NA,NA
+California,2022,2C1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2C2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2C3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2C4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2C5,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2C6,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2C7,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,2D,NA,NA,NA,NA,NA,NA
-California,2022,2D1,NA,NA,NA,NA,NA,NA
-California,2022,2D2,NA,NA,NA,NA,NA,NA
-California,2022,2D3,NA,NA,NA,NA,NA,NA
-California,2022,2D4,NA,NA,NA,NA,NA,NA
-California,2022,2E,NA,NA,NA,NA,NA,NA
+California,2022,2D1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2D2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2D3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2D4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2E,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,2F,NA,NA,NA,NA,NA,NA
-California,2022,2F1,NA,NA,NA,NA,NA,NA
-California,2022,2F2,NA,NA,NA,NA,NA,NA
-California,2022,2F3,NA,NA,NA,NA,NA,NA
-California,2022,2F4,NA,NA,NA,NA,NA,NA
-California,2022,2F5,NA,NA,NA,NA,NA,NA
-California,2022,2F6,NA,NA,NA,NA,NA,NA
+California,2022,2F1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2F2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2F3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2F4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2F5,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2F6,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,2G,NA,NA,NA,NA,NA,NA
-California,2022,2G1,NA,NA,NA,NA,NA,NA
-California,2022,2G2,NA,NA,NA,NA,NA,NA
-California,2022,2G3,NA,NA,NA,NA,NA,NA
-California,2022,2G4,NA,NA,NA,NA,NA,NA
+California,2022,2G1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2G2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2G3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2G4,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,2H,NA,NA,NA,NA,NA,NA
-California,2022,2H1,NA,NA,NA,NA,NA,NA
-California,2022,2H2,NA,NA,NA,NA,NA,NA
-California,2022,2H3,NA,NA,NA,NA,NA,NA
+California,2022,2H1,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2H2,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+California,2022,2H3,NA,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,db(ICAP-ETS[2021]); calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 California,2022,3,NA,NA,NA,NA,NA,NA
 California,2022,3A,NA,NA,NA,NA,NA,NA
 California,2022,3A1,NA,NA,NA,NA,NA,NA

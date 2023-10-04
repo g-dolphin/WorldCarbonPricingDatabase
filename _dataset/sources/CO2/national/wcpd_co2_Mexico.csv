@@ -9546,51 +9546,51 @@ Mexico,2021,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A1A1,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A1A1,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A1A1,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A1A1,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1A1,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1A1,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2021,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A1B,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A1B,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A1B,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A1C,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A1C,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A1C,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A1B,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1B,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1B,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1C,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1C,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1C,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A2A,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2A,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A2A,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2B,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2B,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A2B,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2C,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2C,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A2C,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2D,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2D,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A2D,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2E,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2E,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A2E,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A2A,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2A,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2A,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2B,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2B,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2B,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2C,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2C,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2C,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2D,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2D,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2D,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2E,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2E,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2E,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2F,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2G,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2G,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A2G,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A2G,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2G,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2G,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2H,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2I,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
-Mexico,2021,1A2I,Natural gas,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1A2I,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A2I,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2I,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2I,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2J,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
@@ -9673,35 +9673,35 @@ Mexico,2021,1B,NA,NA,NA,NA,NA,NA
 Mexico,2021,1B1,NA,NA,NA,NA,NA,NA
 Mexico,2021,1B1A,NA,NA,NA,NA,NA,NA
 Mexico,2021,1B1A1,NA,NA,NA,NA,NA,NA
-Mexico,2021,1B1A11,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B1A12,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B1A13,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B1A14,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,1B1A11,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B1A12,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B1A13,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B1A14,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1B1A2,NA,NA,NA,NA,NA,NA
-Mexico,2021,1B1A21,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B1A22,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B1B,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,1B1A21,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B1A22,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B1B,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1B2,NA,NA,NA,NA,NA,NA
 Mexico,2021,1B2A,NA,NA,NA,NA,NA,NA
-Mexico,2021,1B2A1,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2A2,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,1B2A1,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2A2,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1B2A3,NA,NA,NA,NA,NA,NA
-Mexico,2021,1B2A31,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2A32,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2A33,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2A34,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2A35,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2A36,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,1B2A31,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2A32,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2A33,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2A34,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2A35,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2A36,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1B2B,NA,NA,NA,NA,NA,NA
-Mexico,2021,1B2B1,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2B2,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,1B2B1,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2B2,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1B2B3,NA,NA,NA,NA,NA,NA
-Mexico,2021,1B2B31,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2B32,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2B33,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2B34,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2B35,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,1B2B36,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,1B2B31,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2B32,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2B33,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2B34,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2B35,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1B2B36,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1B3,NA,NA,NA,NA,NA,NA
 Mexico,2021,1C,NA,NA,NA,NA,NA,NA
 Mexico,2021,1C1,NA,NA,NA,NA,NA,NA
@@ -9719,41 +9719,41 @@ Mexico,2021,2000,NA,NA,NA,NA,NA,NA
 Mexico,2021,20000,NA,NA,NA,NA,NA,NA
 Mexico,2021,200000,NA,NA,NA,NA,NA,NA
 Mexico,2021,2A,NA,NA,NA,NA,NA,NA
-Mexico,2021,2A1,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2A2,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2A3,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,2A1,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2A2,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2A3,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,2A4,NA,NA,NA,NA,NA,NA
 Mexico,2021,2A4A,NA,NA,NA,NA,NA,NA
 Mexico,2021,2A4B,NA,NA,NA,NA,NA,NA
 Mexico,2021,2A4C,NA,NA,NA,NA,NA,NA
 Mexico,2021,2A4D,NA,NA,NA,NA,NA,NA
 Mexico,2021,2B,NA,NA,NA,NA,NA,NA
-Mexico,2021,2B1,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B10,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B2,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B3,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B4,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B5,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B6,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B7,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,2B1,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B10,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B2,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B3,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B4,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B5,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B6,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B7,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,2B8,NA,NA,NA,NA,NA,NA
-Mexico,2021,2B8A,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B8B,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B8C,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B8D,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B8E,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B8F,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,2B8A,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B8B,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B8C,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B8D,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B8E,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B8F,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,2B9,NA,NA,NA,NA,NA,NA
-Mexico,2021,2B9A,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2B9B,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,2B9A,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2B9B,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,2C,NA,NA,NA,NA,NA,NA
-Mexico,2021,2C1,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2C2,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2C3,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2C4,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2C5,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2C6,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2C7,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,2C1,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2C2,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2C3,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2C4,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2C5,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2C6,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2C7,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,2D,NA,NA,NA,NA,NA,NA
 Mexico,2021,2D1,NA,NA,NA,NA,NA,NA
 Mexico,2021,2D2,NA,NA,NA,NA,NA,NA
@@ -9773,8 +9773,8 @@ Mexico,2021,2G2,NA,NA,NA,NA,NA,NA
 Mexico,2021,2G3,NA,NA,NA,NA,NA,NA
 Mexico,2021,2G4,NA,NA,NA,NA,NA,NA
 Mexico,2021,2H,NA,NA,NA,NA,NA,NA
-Mexico,2021,2H1,NA,NA,leg(MX[2019]),NA,NA,NA
-Mexico,2021,2H2,NA,NA,leg(MX[2019]),NA,NA,NA
+Mexico,2021,2H1,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
+Mexico,2021,2H2,NA,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
 Mexico,2021,2H3,NA,NA,NA,NA,NA,NA
 Mexico,2021,3,NA,NA,NA,NA,NA,NA
 Mexico,2021,3A,NA,NA,NA,NA,NA,NA
@@ -9844,63 +9844,63 @@ Mexico,2022,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A1A1,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A1A1,Oil,NA,NA,NA,NA,NA
+Mexico,2022,1A1A1,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1A1,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1A1,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2022,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A1B,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A1B,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A1C,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A1C,Oil,NA,NA,NA,NA,NA
+Mexico,2022,1A1B,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1B,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1B,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1C,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1C,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1C,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2A,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2A,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2B,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2B,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2C,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2C,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2D,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2D,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2E,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2E,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2F,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A2A,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2A,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2A,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2B,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2B,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2B,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2C,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2C,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2C,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2D,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2D,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2D,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2E,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2E,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2E,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2F,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2G,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2G,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2H,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2G,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2G,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2G,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2H,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2I,Coal,NA,NA,NA,NA,NA
-Mexico,2022,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2I,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2J,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2I,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2I,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2I,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2J,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2K,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2K,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2L,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2L,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2M,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2M,Oil,NA,NA,NA,NA,NA
+Mexico,2022,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -9910,12 +9910,12 @@ Mexico,2022,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2022,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A3A2,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A3B,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A3B,Oil,NA,NA,NA,NA,NA
+Mexico,2022,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9940,15 +9940,15 @@ Mexico,2022,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2022,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A4B,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Mexico,2022,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A4C1,Coal,NA,NA,NA,NA,NA
+Mexico,2022,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A4C1,Oil,NA,NA,NA,NA,NA
+Mexico,2022,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -9971,35 +9971,35 @@ Mexico,2022,1B,NA,NA,NA,NA,NA,NA
 Mexico,2022,1B1,NA,NA,NA,NA,NA,NA
 Mexico,2022,1B1A,NA,NA,NA,NA,NA,NA
 Mexico,2022,1B1A1,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B1A11,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B1A12,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B1A13,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B1A14,NA,NA,NA,NA,NA,NA
+Mexico,2022,1B1A11,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B1A12,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B1A13,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B1A14,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1B1A2,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B1A21,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B1A22,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B1B,NA,NA,NA,NA,NA,NA
+Mexico,2022,1B1A21,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B1A22,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B1B,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1B2,NA,NA,NA,NA,NA,NA
 Mexico,2022,1B2A,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2A1,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2A2,NA,NA,NA,NA,NA,NA
+Mexico,2022,1B2A1,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2A2,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1B2A3,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2A31,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2A32,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2A33,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2A34,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2A35,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2A36,NA,NA,NA,NA,NA,NA
+Mexico,2022,1B2A31,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2A32,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2A33,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2A34,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2A35,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2A36,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1B2B,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2B1,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2B2,NA,NA,NA,NA,NA,NA
+Mexico,2022,1B2B1,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2B2,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1B2B3,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2B31,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2B32,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2B33,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2B34,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2B35,NA,NA,NA,NA,NA,NA
-Mexico,2022,1B2B36,NA,NA,NA,NA,NA,NA
+Mexico,2022,1B2B31,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2B32,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2B33,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2B34,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2B35,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1B2B36,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1B3,NA,NA,NA,NA,NA,NA
 Mexico,2022,1C,NA,NA,NA,NA,NA,NA
 Mexico,2022,1C1,NA,NA,NA,NA,NA,NA
@@ -10017,41 +10017,41 @@ Mexico,2022,2000,NA,NA,NA,NA,NA,NA
 Mexico,2022,20000,NA,NA,NA,NA,NA,NA
 Mexico,2022,200000,NA,NA,NA,NA,NA,NA
 Mexico,2022,2A,NA,NA,NA,NA,NA,NA
-Mexico,2022,2A1,NA,NA,NA,NA,NA,NA
-Mexico,2022,2A2,NA,NA,NA,NA,NA,NA
-Mexico,2022,2A3,NA,NA,NA,NA,NA,NA
+Mexico,2022,2A1,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2A2,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2A3,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,2A4,NA,NA,NA,NA,NA,NA
 Mexico,2022,2A4A,NA,NA,NA,NA,NA,NA
 Mexico,2022,2A4B,NA,NA,NA,NA,NA,NA
 Mexico,2022,2A4C,NA,NA,NA,NA,NA,NA
 Mexico,2022,2A4D,NA,NA,NA,NA,NA,NA
 Mexico,2022,2B,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B1,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B10,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B2,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B3,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B4,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B5,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B6,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B7,NA,NA,NA,NA,NA,NA
+Mexico,2022,2B1,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B10,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B2,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B3,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B4,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B5,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B6,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B7,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,2B8,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B8A,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B8B,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B8C,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B8D,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B8E,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B8F,NA,NA,NA,NA,NA,NA
+Mexico,2022,2B8A,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B8B,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B8C,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B8D,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B8E,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B8F,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,2B9,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B9A,NA,NA,NA,NA,NA,NA
-Mexico,2022,2B9B,NA,NA,NA,NA,NA,NA
+Mexico,2022,2B9A,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2B9B,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,2C,NA,NA,NA,NA,NA,NA
-Mexico,2022,2C1,NA,NA,NA,NA,NA,NA
-Mexico,2022,2C2,NA,NA,NA,NA,NA,NA
-Mexico,2022,2C3,NA,NA,NA,NA,NA,NA
-Mexico,2022,2C4,NA,NA,NA,NA,NA,NA
-Mexico,2022,2C5,NA,NA,NA,NA,NA,NA
-Mexico,2022,2C6,NA,NA,NA,NA,NA,NA
-Mexico,2022,2C7,NA,NA,NA,NA,NA,NA
+Mexico,2022,2C1,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2C2,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2C3,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2C4,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2C5,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2C6,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2C7,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,2D,NA,NA,NA,NA,NA,NA
 Mexico,2022,2D1,NA,NA,NA,NA,NA,NA
 Mexico,2022,2D2,NA,NA,NA,NA,NA,NA
@@ -10071,8 +10071,8 @@ Mexico,2022,2G2,NA,NA,NA,NA,NA,NA
 Mexico,2022,2G3,NA,NA,NA,NA,NA,NA
 Mexico,2022,2G4,NA,NA,NA,NA,NA,NA
 Mexico,2022,2H,NA,NA,NA,NA,NA,NA
-Mexico,2022,2H1,NA,NA,NA,NA,NA,NA
-Mexico,2022,2H2,NA,NA,NA,NA,NA,NA
+Mexico,2022,2H1,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
+Mexico,2022,2H2,NA,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
 Mexico,2022,2H3,NA,NA,NA,NA,NA,NA
 Mexico,2022,3,NA,NA,NA,NA,NA,NA
 Mexico,2022,3A,NA,NA,NA,NA,NA,NA
