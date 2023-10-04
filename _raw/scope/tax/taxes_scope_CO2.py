@@ -1379,7 +1379,8 @@ def scope():
                                 2018:"leg(PRT[2014]), gvt(PRT[2014])", 
                                 2019:"leg(PRT[2014]), gvt(PRT[2014])", 
                                 2020:"leg(PRT[2014]), gvt(PRT[2014])",
-                                2021:"leg(PRT[2014]), gvt(PRT[2014])"}
+                                2021:"leg(PRT[2014]), gvt(PRT[2014])",
+                                2022:"leg(PRT[2014]), gvt(PRT[2014])"}
 
     #----------------------------------------------------------------------------
 
@@ -1835,25 +1836,25 @@ def scope():
     ## scope dictionaries
     
     gbr_tax_jur_scope = {2013:gbr_tax_jur_I,
-                            2014:gbr_tax_jur_I, 2015:gbr_tax_jur_I,
-                            2016:gbr_tax_jur_I, 2017:gbr_tax_jur_I,
-                            2018:gbr_tax_jur_I, 2019:gbr_tax_jur_I, 
-                            2020:gbr_tax_jur_I, 2021:gbr_tax_jur_I,
-                            202:gbr_tax_jur_I}
+                         2014:gbr_tax_jur_I, 2015:gbr_tax_jur_I,
+                         2016:gbr_tax_jur_I, 2017:gbr_tax_jur_I,
+                         2018:gbr_tax_jur_I, 2019:gbr_tax_jur_I, 
+                         2020:gbr_tax_jur_I, 2021:gbr_tax_jur_I,
+                         2022:gbr_tax_jur_I}
     
     gbr_tax_ipcc_scope = {2013:gbr_tax_ipcc_I,
-                            2014:gbr_tax_ipcc_I, 2015:gbr_tax_ipcc_I,
-                            2016:gbr_tax_ipcc_I, 2017:gbr_tax_ipcc_I,
-                            2018:gbr_tax_ipcc_I, 2019:gbr_tax_ipcc_I, 
-                            2020:gbr_tax_ipcc_I, 2021:gbr_tax_ipcc_I,
-                            2022:gbr_tax_ipcc_I}
+                         2014:gbr_tax_ipcc_I, 2015:gbr_tax_ipcc_I,
+                         2016:gbr_tax_ipcc_I, 2017:gbr_tax_ipcc_I,
+                         2018:gbr_tax_ipcc_I, 2019:gbr_tax_ipcc_I, 
+                         2020:gbr_tax_ipcc_I, 2021:gbr_tax_ipcc_I,
+                         2022:gbr_tax_ipcc_I}
     
     gbr_tax_fuel_scope = {2013:gbr_tax_fuel_I,
-                            2014:gbr_tax_fuel_I, 2015:gbr_tax_fuel_I,
-                            2016:gbr_tax_fuel_I, 2017:gbr_tax_fuel_I,
-                            2018:gbr_tax_fuel_I, 2019:gbr_tax_fuel_I, 
-                            2020:gbr_tax_fuel_I, 2021:gbr_tax_fuel_I,
-                            2022:gbr_tax_fuel_I}
+                         2014:gbr_tax_fuel_I, 2015:gbr_tax_fuel_I,
+                         2016:gbr_tax_fuel_I, 2017:gbr_tax_fuel_I,
+                         2018:gbr_tax_fuel_I, 2019:gbr_tax_fuel_I, 
+                         2020:gbr_tax_fuel_I, 2021:gbr_tax_fuel_I,
+                         2022:gbr_tax_fuel_I}
 
 
     ## Sources dictionary
@@ -2375,7 +2376,8 @@ def scope():
                               "lva_tax":lva_tax_scope_sources,
                               "lux_tax":lux_tax_scope_sources,                              
                               "mex_tax":mex_tax_scope_sources,
-                              "nld_tax":nld_tax_scope_sources,                              
+                              "nld_tax":nld_tax_scope_sources,
+                              "nld_tax_II":nld_tax_II_scope_sources,                             
                               "nor_tax_I":nor_tax_I_scope_sources,
                               "nor_tax_II":nor_tax_II_scope_sources,
                               "prt_tax":prt_tax_scope_sources,

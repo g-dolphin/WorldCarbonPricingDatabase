@@ -9847,12 +9847,12 @@ Liechtenstein,2022,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -9940,9 +9940,9 @@ Liechtenstein,2022,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Liechtenstein,2022,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2022,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2022,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4C,Oil,NA,NA,NA,NA,NA
