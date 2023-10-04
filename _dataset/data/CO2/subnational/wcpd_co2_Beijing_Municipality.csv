@@ -9862,45 +9862,45 @@ Beijing Municipality,2022,1A1C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2F,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2F,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2G,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2G,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2H,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2H,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2I,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2I,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2J,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2J,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2K,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2K,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2L,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2L,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2M,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,1A2M,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Beijing Municipality,2022,1A2A,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2A,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2A,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2B,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2B,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2C,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2C,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2D,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2D,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2D,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2E,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2E,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2E,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2F,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2F,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2F,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2G,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2G,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2G,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2H,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2H,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2H,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2I,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2I,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2I,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2J,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2J,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2J,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2K,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2K,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2K,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2L,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2L,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2L,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2M,Coal,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2M,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,1A2M,Oil,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
 Beijing Municipality,2022,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10017,7 +10017,7 @@ Beijing Municipality,2022,2000,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,20000,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,200000,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,2A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,2A1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Beijing Municipality,2022,2A1,NA,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
 Beijing Municipality,2022,2A2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,2A3,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,2A4,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10035,11 +10035,11 @@ Beijing Municipality,2022,2B5,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,2B6,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,2B7,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,2B8,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,2B8A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,2B8B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,2B8C,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,2B8D,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,2B8E,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Beijing Municipality,2022,2B8A,NA,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,2B8B,NA,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,2B8C,NA,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,2B8D,NA,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,2B8E,NA,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
 Beijing Municipality,2022,2B8F,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,2B9,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,2B9A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10124,8 +10124,8 @@ Beijing Municipality,2022,4C,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,4C1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,4C2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,4D,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,4D1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Beijing Municipality,2022,4D2,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Beijing Municipality,2022,4D1,NA,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
+Beijing Municipality,2022,4D2,NA,0.0,1.0,NA,NA,NA,NA,NA,chn_bj_ets,85.85,CNY,,,
 Beijing Municipality,2022,4E,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,5,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beijing Municipality,2022,5A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

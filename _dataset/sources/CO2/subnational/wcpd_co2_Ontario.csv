@@ -9850,15 +9850,15 @@ Ontario,2022,1A1A1,Oil,NA,NA,NA,NA,NA
 Ontario,2022,1A1A2,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A1A2,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A1A3,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A1A3,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A1B,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A1B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A1B,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A1C,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A1C,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A1C,Oil,NA,NA,NA,NA,NA
+Ontario,2022,1A1A3,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A1A3,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A1A3,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A1B,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A1B,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A1B,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A1C,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A1C,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A1C,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Ontario,2022,1A2,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -9880,27 +9880,27 @@ Ontario,2022,1A2E,Oil,NA,NA,NA,NA,NA
 Ontario,2022,1A2F,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A2F,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A2G,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A2G,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A2H,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A2H,Oil,NA,NA,NA,NA,NA
+Ontario,2022,1A2G,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2G,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2G,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2H,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2H,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2H,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Ontario,2022,1A2I,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A2I,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A2I,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A2J,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A2J,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A2K,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A2K,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A2L,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A2L,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A2M,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A2M,Oil,NA,NA,NA,NA,NA
+Ontario,2022,1A2J,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2J,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2J,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2K,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2K,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2K,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2L,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2L,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2L,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2M,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2M,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A2M,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Ontario,2022,1A3,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -9910,39 +9910,39 @@ Ontario,2022,1A3A,Oil,NA,NA,NA,NA,NA
 Ontario,2022,1A3A1,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A3A1,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A3A2,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A3B,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A3C,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A3C,Oil,NA,NA,NA,NA,NA
+Ontario,2022,1A3A2,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3A2,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3A2,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3B,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3B,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3B,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3C,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3C,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3C,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Ontario,2022,1A3D,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A3D,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A3D1,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A3D1,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A3D1,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A3D2,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A3D2,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A3D2,Oil,NA,NA,NA,NA,NA
+Ontario,2022,1A3D1,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3D1,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3D1,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3D2,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3D2,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3D2,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Ontario,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A3E,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A3E1,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A3E1,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A3E1,Oil,NA,NA,NA,NA,NA
+Ontario,2022,1A3E1,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3E1,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A3E1,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Ontario,2022,1A4,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A4,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A4A,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Ontario,2022,1A4A,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A4A,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A4A,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A4B,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A4B,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A4B,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Ontario,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9958,15 +9958,15 @@ Ontario,2022,1A4C3,Oil,NA,NA,NA,NA,NA
 Ontario,2022,1A5,Coal,NA,NA,NA,NA,NA
 Ontario,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 Ontario,2022,1A5,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A5A,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A5A,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A5A,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A5B,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A5B,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A5B,Oil,NA,NA,NA,NA,NA
-Ontario,2022,1A5C,Coal,NA,NA,NA,NA,NA
-Ontario,2022,1A5C,Natural gas,NA,NA,NA,NA,NA
-Ontario,2022,1A5C,Oil,NA,NA,NA,NA,NA
+Ontario,2022,1A5A,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A5A,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A5A,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A5B,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A5B,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A5B,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A5C,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A5C,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Ontario,2022,1A5C,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Ontario,2022,1B,NA,NA,NA,NA,NA,NA
 Ontario,2022,1B1,NA,NA,NA,NA,NA,NA
 Ontario,2022,1B1A,NA,NA,NA,NA,NA,NA
