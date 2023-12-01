@@ -580,17 +580,3 @@ for exemption in tax_exemptions:
         wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = tax_exemptions_sources[i][yr]
 
     i+=1
-
-
-#std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
-#countries_dic = dict(zip(ctry_list, std_country_names))
-
-#std_subnat_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in subnat_list]
-#subnat_dic = dict(zip(subnat_list, std_subnat_names))
-
-#for jur in countries_dic:
-#    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/national/tax_ex_"+countries_dic[jur]+".csv", index=None)
-#for jur in subnat_dic:
-#    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/subnat/tax_ex_"+subnat_dic[jur]+".csv", index=None)
-
-    
