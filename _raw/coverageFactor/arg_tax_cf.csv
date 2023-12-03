@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_CO2,source,comment
 arg_tax,Argentina,2018,0,NA,,
 arg_tax,Argentina,2018,1,NA,,
 arg_tax,Argentina,2018,1A,NA,,
