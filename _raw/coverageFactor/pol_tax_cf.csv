@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_CO2,source,comment
 pol_tax,Poland,1990,0,NA,,
 pol_tax,Poland,1990,1,NA,,
 pol_tax,Poland,1990,1A,NA,,
@@ -3154,25 +3154,25 @@ pol_tax,Poland,2005,1,NA,,
 pol_tax,Poland,2005,1A,NA,,
 pol_tax,Poland,2005,1A1,NA,,
 pol_tax,Poland,2005,1A1A,NA,,
-pol_tax,Poland,2005,1A1A1,0.1,,
-pol_tax,Poland,2005,1A1A2,NA,,
-pol_tax,Poland,2005,1A1A3,NA,,
-pol_tax,Poland,2005,1A1B,NA,,
-pol_tax,Poland,2005,1A1C,NA,,
+pol_tax,Poland,2005,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2005,1A2,NA,,
-pol_tax,Poland,2005,1A2A,0.1,,
-pol_tax,Poland,2005,1A2B,0.1,,
-pol_tax,Poland,2005,1A2C,0.1,,
-pol_tax,Poland,2005,1A2D,0.1,,
-pol_tax,Poland,2005,1A2E,0.1,,
-pol_tax,Poland,2005,1A2F,0.1,,
-pol_tax,Poland,2005,1A2G,0.1,,
-pol_tax,Poland,2005,1A2H,0.1,,
-pol_tax,Poland,2005,1A2I,0.1,,
-pol_tax,Poland,2005,1A2J,0.1,,
-pol_tax,Poland,2005,1A2K,0.1,,
-pol_tax,Poland,2005,1A2L,0.1,,
-pol_tax,Poland,2005,1A2M,0.1,,
+pol_tax,Poland,2005,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2B,1,,
+pol_tax,Poland,2005,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2005,1A3,NA,,
 pol_tax,Poland,2005,1A3A,NA,,
 pol_tax,Poland,2005,1A3A1,NA,,
@@ -3245,11 +3245,11 @@ pol_tax,Poland,2005,2000,NA,,
 pol_tax,Poland,2005,20000,NA,,
 pol_tax,Poland,2005,200000,NA,,
 pol_tax,Poland,2005,2A,NA,,
-pol_tax,Poland,2005,2A1,NA,,
-pol_tax,Poland,2005,2A2,NA,,
-pol_tax,Poland,2005,2A3,NA,,
+pol_tax,Poland,2005,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2005,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2005,2A4,NA,,
-pol_tax,Poland,2005,2A4A,NA,,
+pol_tax,Poland,2005,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2005,2A4B,NA,,
 pol_tax,Poland,2005,2A4C,NA,,
 pol_tax,Poland,2005,2A4D,NA,,
@@ -3273,7 +3273,7 @@ pol_tax,Poland,2005,2B9,NA,,
 pol_tax,Poland,2005,2B9A,NA,,
 pol_tax,Poland,2005,2B9B,NA,,
 pol_tax,Poland,2005,2C,NA,,
-pol_tax,Poland,2005,2C1,NA,,
+pol_tax,Poland,2005,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2005,2C2,NA,,
 pol_tax,Poland,2005,2C3,NA,,
 pol_tax,Poland,2005,2C4,NA,,
@@ -3299,7 +3299,7 @@ pol_tax,Poland,2005,2G2,NA,,
 pol_tax,Poland,2005,2G3,NA,,
 pol_tax,Poland,2005,2G4,NA,,
 pol_tax,Poland,2005,2H,NA,,
-pol_tax,Poland,2005,2H1,NA,,
+pol_tax,Poland,2005,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2005,2H2,NA,,
 pol_tax,Poland,2005,2H3,NA,,
 pol_tax,Poland,2005,3,NA,,
@@ -3364,25 +3364,25 @@ pol_tax,Poland,2006,1,NA,,
 pol_tax,Poland,2006,1A,NA,,
 pol_tax,Poland,2006,1A1,NA,,
 pol_tax,Poland,2006,1A1A,NA,,
-pol_tax,Poland,2006,1A1A1,0.1,,
-pol_tax,Poland,2006,1A1A2,NA,,
-pol_tax,Poland,2006,1A1A3,NA,,
-pol_tax,Poland,2006,1A1B,NA,,
-pol_tax,Poland,2006,1A1C,NA,,
+pol_tax,Poland,2006,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2006,1A2,NA,,
-pol_tax,Poland,2006,1A2A,0.1,,
-pol_tax,Poland,2006,1A2B,0.1,,
-pol_tax,Poland,2006,1A2C,0.1,,
-pol_tax,Poland,2006,1A2D,0.1,,
-pol_tax,Poland,2006,1A2E,0.1,,
-pol_tax,Poland,2006,1A2F,0.1,,
-pol_tax,Poland,2006,1A2G,0.1,,
-pol_tax,Poland,2006,1A2H,0.1,,
-pol_tax,Poland,2006,1A2I,0.1,,
-pol_tax,Poland,2006,1A2J,0.1,,
-pol_tax,Poland,2006,1A2K,0.1,,
-pol_tax,Poland,2006,1A2L,0.1,,
-pol_tax,Poland,2006,1A2M,0.1,,
+pol_tax,Poland,2006,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2B,1,,
+pol_tax,Poland,2006,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2006,1A3,NA,,
 pol_tax,Poland,2006,1A3A,NA,,
 pol_tax,Poland,2006,1A3A1,NA,,
@@ -3455,11 +3455,11 @@ pol_tax,Poland,2006,2000,NA,,
 pol_tax,Poland,2006,20000,NA,,
 pol_tax,Poland,2006,200000,NA,,
 pol_tax,Poland,2006,2A,NA,,
-pol_tax,Poland,2006,2A1,NA,,
-pol_tax,Poland,2006,2A2,NA,,
-pol_tax,Poland,2006,2A3,NA,,
+pol_tax,Poland,2006,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2006,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2006,2A4,NA,,
-pol_tax,Poland,2006,2A4A,NA,,
+pol_tax,Poland,2006,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2006,2A4B,NA,,
 pol_tax,Poland,2006,2A4C,NA,,
 pol_tax,Poland,2006,2A4D,NA,,
@@ -3483,7 +3483,7 @@ pol_tax,Poland,2006,2B9,NA,,
 pol_tax,Poland,2006,2B9A,NA,,
 pol_tax,Poland,2006,2B9B,NA,,
 pol_tax,Poland,2006,2C,NA,,
-pol_tax,Poland,2006,2C1,NA,,
+pol_tax,Poland,2006,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2006,2C2,NA,,
 pol_tax,Poland,2006,2C3,NA,,
 pol_tax,Poland,2006,2C4,NA,,
@@ -3509,7 +3509,7 @@ pol_tax,Poland,2006,2G2,NA,,
 pol_tax,Poland,2006,2G3,NA,,
 pol_tax,Poland,2006,2G4,NA,,
 pol_tax,Poland,2006,2H,NA,,
-pol_tax,Poland,2006,2H1,NA,,
+pol_tax,Poland,2006,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2006,2H2,NA,,
 pol_tax,Poland,2006,2H3,NA,,
 pol_tax,Poland,2006,3,NA,,
@@ -3574,25 +3574,25 @@ pol_tax,Poland,2007,1,NA,,
 pol_tax,Poland,2007,1A,NA,,
 pol_tax,Poland,2007,1A1,NA,,
 pol_tax,Poland,2007,1A1A,NA,,
-pol_tax,Poland,2007,1A1A1,0.1,,
-pol_tax,Poland,2007,1A1A2,NA,,
-pol_tax,Poland,2007,1A1A3,NA,,
-pol_tax,Poland,2007,1A1B,NA,,
-pol_tax,Poland,2007,1A1C,NA,,
+pol_tax,Poland,2007,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2007,1A2,NA,,
-pol_tax,Poland,2007,1A2A,0.1,,
-pol_tax,Poland,2007,1A2B,0.1,,
-pol_tax,Poland,2007,1A2C,0.1,,
-pol_tax,Poland,2007,1A2D,0.1,,
-pol_tax,Poland,2007,1A2E,0.1,,
-pol_tax,Poland,2007,1A2F,0.1,,
-pol_tax,Poland,2007,1A2G,0.1,,
-pol_tax,Poland,2007,1A2H,0.1,,
-pol_tax,Poland,2007,1A2I,0.1,,
-pol_tax,Poland,2007,1A2J,0.1,,
-pol_tax,Poland,2007,1A2K,0.1,,
-pol_tax,Poland,2007,1A2L,0.1,,
-pol_tax,Poland,2007,1A2M,0.1,,
+pol_tax,Poland,2007,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2B,1,,
+pol_tax,Poland,2007,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2007,1A3,NA,,
 pol_tax,Poland,2007,1A3A,NA,,
 pol_tax,Poland,2007,1A3A1,NA,,
@@ -3665,11 +3665,11 @@ pol_tax,Poland,2007,2000,NA,,
 pol_tax,Poland,2007,20000,NA,,
 pol_tax,Poland,2007,200000,NA,,
 pol_tax,Poland,2007,2A,NA,,
-pol_tax,Poland,2007,2A1,NA,,
-pol_tax,Poland,2007,2A2,NA,,
-pol_tax,Poland,2007,2A3,NA,,
+pol_tax,Poland,2007,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2007,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2007,2A4,NA,,
-pol_tax,Poland,2007,2A4A,NA,,
+pol_tax,Poland,2007,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2007,2A4B,NA,,
 pol_tax,Poland,2007,2A4C,NA,,
 pol_tax,Poland,2007,2A4D,NA,,
@@ -3693,7 +3693,7 @@ pol_tax,Poland,2007,2B9,NA,,
 pol_tax,Poland,2007,2B9A,NA,,
 pol_tax,Poland,2007,2B9B,NA,,
 pol_tax,Poland,2007,2C,NA,,
-pol_tax,Poland,2007,2C1,NA,,
+pol_tax,Poland,2007,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2007,2C2,NA,,
 pol_tax,Poland,2007,2C3,NA,,
 pol_tax,Poland,2007,2C4,NA,,
@@ -3719,7 +3719,7 @@ pol_tax,Poland,2007,2G2,NA,,
 pol_tax,Poland,2007,2G3,NA,,
 pol_tax,Poland,2007,2G4,NA,,
 pol_tax,Poland,2007,2H,NA,,
-pol_tax,Poland,2007,2H1,NA,,
+pol_tax,Poland,2007,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2007,2H2,NA,,
 pol_tax,Poland,2007,2H3,NA,,
 pol_tax,Poland,2007,3,NA,,
@@ -3784,25 +3784,25 @@ pol_tax,Poland,2008,1,NA,,
 pol_tax,Poland,2008,1A,NA,,
 pol_tax,Poland,2008,1A1,NA,,
 pol_tax,Poland,2008,1A1A,NA,,
-pol_tax,Poland,2008,1A1A1,0.1,,
-pol_tax,Poland,2008,1A1A2,NA,,
-pol_tax,Poland,2008,1A1A3,NA,,
-pol_tax,Poland,2008,1A1B,NA,,
-pol_tax,Poland,2008,1A1C,NA,,
+pol_tax,Poland,2008,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2008,1A2,NA,,
-pol_tax,Poland,2008,1A2A,0.1,,
-pol_tax,Poland,2008,1A2B,0.1,,
-pol_tax,Poland,2008,1A2C,0.1,,
-pol_tax,Poland,2008,1A2D,0.1,,
-pol_tax,Poland,2008,1A2E,0.1,,
-pol_tax,Poland,2008,1A2F,0.1,,
-pol_tax,Poland,2008,1A2G,0.1,,
-pol_tax,Poland,2008,1A2H,0.1,,
-pol_tax,Poland,2008,1A2I,0.1,,
-pol_tax,Poland,2008,1A2J,0.1,,
-pol_tax,Poland,2008,1A2K,0.1,,
-pol_tax,Poland,2008,1A2L,0.1,,
-pol_tax,Poland,2008,1A2M,0.1,,
+pol_tax,Poland,2008,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2B,1,,
+pol_tax,Poland,2008,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2008,1A3,NA,,
 pol_tax,Poland,2008,1A3A,NA,,
 pol_tax,Poland,2008,1A3A1,NA,,
@@ -3875,11 +3875,11 @@ pol_tax,Poland,2008,2000,NA,,
 pol_tax,Poland,2008,20000,NA,,
 pol_tax,Poland,2008,200000,NA,,
 pol_tax,Poland,2008,2A,NA,,
-pol_tax,Poland,2008,2A1,NA,,
-pol_tax,Poland,2008,2A2,NA,,
-pol_tax,Poland,2008,2A3,NA,,
+pol_tax,Poland,2008,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2008,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2008,2A4,NA,,
-pol_tax,Poland,2008,2A4A,NA,,
+pol_tax,Poland,2008,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2008,2A4B,NA,,
 pol_tax,Poland,2008,2A4C,NA,,
 pol_tax,Poland,2008,2A4D,NA,,
@@ -3903,7 +3903,7 @@ pol_tax,Poland,2008,2B9,NA,,
 pol_tax,Poland,2008,2B9A,NA,,
 pol_tax,Poland,2008,2B9B,NA,,
 pol_tax,Poland,2008,2C,NA,,
-pol_tax,Poland,2008,2C1,NA,,
+pol_tax,Poland,2008,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2008,2C2,NA,,
 pol_tax,Poland,2008,2C3,NA,,
 pol_tax,Poland,2008,2C4,NA,,
@@ -3929,7 +3929,7 @@ pol_tax,Poland,2008,2G2,NA,,
 pol_tax,Poland,2008,2G3,NA,,
 pol_tax,Poland,2008,2G4,NA,,
 pol_tax,Poland,2008,2H,NA,,
-pol_tax,Poland,2008,2H1,NA,,
+pol_tax,Poland,2008,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2008,2H2,NA,,
 pol_tax,Poland,2008,2H3,NA,,
 pol_tax,Poland,2008,3,NA,,
@@ -3994,25 +3994,25 @@ pol_tax,Poland,2009,1,NA,,
 pol_tax,Poland,2009,1A,NA,,
 pol_tax,Poland,2009,1A1,NA,,
 pol_tax,Poland,2009,1A1A,NA,,
-pol_tax,Poland,2009,1A1A1,0.1,,
-pol_tax,Poland,2009,1A1A2,NA,,
-pol_tax,Poland,2009,1A1A3,NA,,
-pol_tax,Poland,2009,1A1B,NA,,
-pol_tax,Poland,2009,1A1C,NA,,
+pol_tax,Poland,2009,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2009,1A2,NA,,
-pol_tax,Poland,2009,1A2A,0.1,,
-pol_tax,Poland,2009,1A2B,0.1,,
-pol_tax,Poland,2009,1A2C,0.1,,
-pol_tax,Poland,2009,1A2D,0.1,,
-pol_tax,Poland,2009,1A2E,0.1,,
-pol_tax,Poland,2009,1A2F,0.1,,
-pol_tax,Poland,2009,1A2G,0.1,,
-pol_tax,Poland,2009,1A2H,0.1,,
-pol_tax,Poland,2009,1A2I,0.1,,
-pol_tax,Poland,2009,1A2J,0.1,,
-pol_tax,Poland,2009,1A2K,0.1,,
-pol_tax,Poland,2009,1A2L,0.1,,
-pol_tax,Poland,2009,1A2M,0.1,,
+pol_tax,Poland,2009,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2B,1,,
+pol_tax,Poland,2009,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2009,1A3,NA,,
 pol_tax,Poland,2009,1A3A,NA,,
 pol_tax,Poland,2009,1A3A1,NA,,
@@ -4085,11 +4085,11 @@ pol_tax,Poland,2009,2000,NA,,
 pol_tax,Poland,2009,20000,NA,,
 pol_tax,Poland,2009,200000,NA,,
 pol_tax,Poland,2009,2A,NA,,
-pol_tax,Poland,2009,2A1,NA,,
-pol_tax,Poland,2009,2A2,NA,,
-pol_tax,Poland,2009,2A3,NA,,
+pol_tax,Poland,2009,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2009,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2009,2A4,NA,,
-pol_tax,Poland,2009,2A4A,NA,,
+pol_tax,Poland,2009,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2009,2A4B,NA,,
 pol_tax,Poland,2009,2A4C,NA,,
 pol_tax,Poland,2009,2A4D,NA,,
@@ -4113,7 +4113,7 @@ pol_tax,Poland,2009,2B9,NA,,
 pol_tax,Poland,2009,2B9A,NA,,
 pol_tax,Poland,2009,2B9B,NA,,
 pol_tax,Poland,2009,2C,NA,,
-pol_tax,Poland,2009,2C1,NA,,
+pol_tax,Poland,2009,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2009,2C2,NA,,
 pol_tax,Poland,2009,2C3,NA,,
 pol_tax,Poland,2009,2C4,NA,,
@@ -4139,7 +4139,7 @@ pol_tax,Poland,2009,2G2,NA,,
 pol_tax,Poland,2009,2G3,NA,,
 pol_tax,Poland,2009,2G4,NA,,
 pol_tax,Poland,2009,2H,NA,,
-pol_tax,Poland,2009,2H1,NA,,
+pol_tax,Poland,2009,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2009,2H2,NA,,
 pol_tax,Poland,2009,2H3,NA,,
 pol_tax,Poland,2009,3,NA,,
@@ -4204,25 +4204,25 @@ pol_tax,Poland,2010,1,NA,,
 pol_tax,Poland,2010,1A,NA,,
 pol_tax,Poland,2010,1A1,NA,,
 pol_tax,Poland,2010,1A1A,NA,,
-pol_tax,Poland,2010,1A1A1,0.1,,
-pol_tax,Poland,2010,1A1A2,NA,,
-pol_tax,Poland,2010,1A1A3,NA,,
-pol_tax,Poland,2010,1A1B,NA,,
-pol_tax,Poland,2010,1A1C,NA,,
+pol_tax,Poland,2010,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2010,1A2,NA,,
-pol_tax,Poland,2010,1A2A,0.1,,
-pol_tax,Poland,2010,1A2B,0.1,,
-pol_tax,Poland,2010,1A2C,0.1,,
-pol_tax,Poland,2010,1A2D,0.1,,
-pol_tax,Poland,2010,1A2E,0.1,,
-pol_tax,Poland,2010,1A2F,0.1,,
-pol_tax,Poland,2010,1A2G,0.1,,
-pol_tax,Poland,2010,1A2H,0.1,,
-pol_tax,Poland,2010,1A2I,0.1,,
-pol_tax,Poland,2010,1A2J,0.1,,
-pol_tax,Poland,2010,1A2K,0.1,,
-pol_tax,Poland,2010,1A2L,0.1,,
-pol_tax,Poland,2010,1A2M,0.1,,
+pol_tax,Poland,2010,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2B,1,,
+pol_tax,Poland,2010,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2010,1A3,NA,,
 pol_tax,Poland,2010,1A3A,NA,,
 pol_tax,Poland,2010,1A3A1,NA,,
@@ -4295,11 +4295,11 @@ pol_tax,Poland,2010,2000,NA,,
 pol_tax,Poland,2010,20000,NA,,
 pol_tax,Poland,2010,200000,NA,,
 pol_tax,Poland,2010,2A,NA,,
-pol_tax,Poland,2010,2A1,NA,,
-pol_tax,Poland,2010,2A2,NA,,
-pol_tax,Poland,2010,2A3,NA,,
+pol_tax,Poland,2010,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2010,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2010,2A4,NA,,
-pol_tax,Poland,2010,2A4A,NA,,
+pol_tax,Poland,2010,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2010,2A4B,NA,,
 pol_tax,Poland,2010,2A4C,NA,,
 pol_tax,Poland,2010,2A4D,NA,,
@@ -4323,7 +4323,7 @@ pol_tax,Poland,2010,2B9,NA,,
 pol_tax,Poland,2010,2B9A,NA,,
 pol_tax,Poland,2010,2B9B,NA,,
 pol_tax,Poland,2010,2C,NA,,
-pol_tax,Poland,2010,2C1,NA,,
+pol_tax,Poland,2010,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2010,2C2,NA,,
 pol_tax,Poland,2010,2C3,NA,,
 pol_tax,Poland,2010,2C4,NA,,
@@ -4349,7 +4349,7 @@ pol_tax,Poland,2010,2G2,NA,,
 pol_tax,Poland,2010,2G3,NA,,
 pol_tax,Poland,2010,2G4,NA,,
 pol_tax,Poland,2010,2H,NA,,
-pol_tax,Poland,2010,2H1,NA,,
+pol_tax,Poland,2010,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2010,2H2,NA,,
 pol_tax,Poland,2010,2H3,NA,,
 pol_tax,Poland,2010,3,NA,,
@@ -4414,25 +4414,25 @@ pol_tax,Poland,2011,1,NA,,
 pol_tax,Poland,2011,1A,NA,,
 pol_tax,Poland,2011,1A1,NA,,
 pol_tax,Poland,2011,1A1A,NA,,
-pol_tax,Poland,2011,1A1A1,0.1,,
-pol_tax,Poland,2011,1A1A2,NA,,
-pol_tax,Poland,2011,1A1A3,NA,,
-pol_tax,Poland,2011,1A1B,NA,,
-pol_tax,Poland,2011,1A1C,NA,,
+pol_tax,Poland,2011,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2011,1A2,NA,,
-pol_tax,Poland,2011,1A2A,0.1,,
-pol_tax,Poland,2011,1A2B,0.1,,
-pol_tax,Poland,2011,1A2C,0.1,,
-pol_tax,Poland,2011,1A2D,0.1,,
-pol_tax,Poland,2011,1A2E,0.1,,
-pol_tax,Poland,2011,1A2F,0.1,,
-pol_tax,Poland,2011,1A2G,0.1,,
-pol_tax,Poland,2011,1A2H,0.1,,
-pol_tax,Poland,2011,1A2I,0.1,,
-pol_tax,Poland,2011,1A2J,0.1,,
-pol_tax,Poland,2011,1A2K,0.1,,
-pol_tax,Poland,2011,1A2L,0.1,,
-pol_tax,Poland,2011,1A2M,0.1,,
+pol_tax,Poland,2011,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2B,1,,
+pol_tax,Poland,2011,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2011,1A3,NA,,
 pol_tax,Poland,2011,1A3A,NA,,
 pol_tax,Poland,2011,1A3A1,NA,,
@@ -4505,11 +4505,11 @@ pol_tax,Poland,2011,2000,NA,,
 pol_tax,Poland,2011,20000,NA,,
 pol_tax,Poland,2011,200000,NA,,
 pol_tax,Poland,2011,2A,NA,,
-pol_tax,Poland,2011,2A1,NA,,
-pol_tax,Poland,2011,2A2,NA,,
-pol_tax,Poland,2011,2A3,NA,,
+pol_tax,Poland,2011,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2011,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2011,2A4,NA,,
-pol_tax,Poland,2011,2A4A,NA,,
+pol_tax,Poland,2011,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2011,2A4B,NA,,
 pol_tax,Poland,2011,2A4C,NA,,
 pol_tax,Poland,2011,2A4D,NA,,
@@ -4533,7 +4533,7 @@ pol_tax,Poland,2011,2B9,NA,,
 pol_tax,Poland,2011,2B9A,NA,,
 pol_tax,Poland,2011,2B9B,NA,,
 pol_tax,Poland,2011,2C,NA,,
-pol_tax,Poland,2011,2C1,NA,,
+pol_tax,Poland,2011,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2011,2C2,NA,,
 pol_tax,Poland,2011,2C3,NA,,
 pol_tax,Poland,2011,2C4,NA,,
@@ -4559,7 +4559,7 @@ pol_tax,Poland,2011,2G2,NA,,
 pol_tax,Poland,2011,2G3,NA,,
 pol_tax,Poland,2011,2G4,NA,,
 pol_tax,Poland,2011,2H,NA,,
-pol_tax,Poland,2011,2H1,NA,,
+pol_tax,Poland,2011,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2011,2H2,NA,,
 pol_tax,Poland,2011,2H3,NA,,
 pol_tax,Poland,2011,3,NA,,
@@ -4624,25 +4624,25 @@ pol_tax,Poland,2012,1,NA,,
 pol_tax,Poland,2012,1A,NA,,
 pol_tax,Poland,2012,1A1,NA,,
 pol_tax,Poland,2012,1A1A,NA,,
-pol_tax,Poland,2012,1A1A1,0.1,,
-pol_tax,Poland,2012,1A1A2,NA,,
-pol_tax,Poland,2012,1A1A3,NA,,
-pol_tax,Poland,2012,1A1B,NA,,
-pol_tax,Poland,2012,1A1C,NA,,
+pol_tax,Poland,2012,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2012,1A2,NA,,
-pol_tax,Poland,2012,1A2A,0.1,,
-pol_tax,Poland,2012,1A2B,0.1,,
-pol_tax,Poland,2012,1A2C,0.1,,
-pol_tax,Poland,2012,1A2D,0.1,,
-pol_tax,Poland,2012,1A2E,0.1,,
-pol_tax,Poland,2012,1A2F,0.1,,
-pol_tax,Poland,2012,1A2G,0.1,,
-pol_tax,Poland,2012,1A2H,0.1,,
-pol_tax,Poland,2012,1A2I,0.1,,
-pol_tax,Poland,2012,1A2J,0.1,,
-pol_tax,Poland,2012,1A2K,0.1,,
-pol_tax,Poland,2012,1A2L,0.1,,
-pol_tax,Poland,2012,1A2M,0.1,,
+pol_tax,Poland,2012,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2B,1,,
+pol_tax,Poland,2012,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2012,1A3,NA,,
 pol_tax,Poland,2012,1A3A,NA,,
 pol_tax,Poland,2012,1A3A1,NA,,
@@ -4715,11 +4715,11 @@ pol_tax,Poland,2012,2000,NA,,
 pol_tax,Poland,2012,20000,NA,,
 pol_tax,Poland,2012,200000,NA,,
 pol_tax,Poland,2012,2A,NA,,
-pol_tax,Poland,2012,2A1,NA,,
-pol_tax,Poland,2012,2A2,NA,,
-pol_tax,Poland,2012,2A3,NA,,
+pol_tax,Poland,2012,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2012,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2012,2A4,NA,,
-pol_tax,Poland,2012,2A4A,NA,,
+pol_tax,Poland,2012,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2012,2A4B,NA,,
 pol_tax,Poland,2012,2A4C,NA,,
 pol_tax,Poland,2012,2A4D,NA,,
@@ -4743,7 +4743,7 @@ pol_tax,Poland,2012,2B9,NA,,
 pol_tax,Poland,2012,2B9A,NA,,
 pol_tax,Poland,2012,2B9B,NA,,
 pol_tax,Poland,2012,2C,NA,,
-pol_tax,Poland,2012,2C1,NA,,
+pol_tax,Poland,2012,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2012,2C2,NA,,
 pol_tax,Poland,2012,2C3,NA,,
 pol_tax,Poland,2012,2C4,NA,,
@@ -4769,7 +4769,7 @@ pol_tax,Poland,2012,2G2,NA,,
 pol_tax,Poland,2012,2G3,NA,,
 pol_tax,Poland,2012,2G4,NA,,
 pol_tax,Poland,2012,2H,NA,,
-pol_tax,Poland,2012,2H1,NA,,
+pol_tax,Poland,2012,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2012,2H2,NA,,
 pol_tax,Poland,2012,2H3,NA,,
 pol_tax,Poland,2012,3,NA,,
@@ -4834,25 +4834,25 @@ pol_tax,Poland,2013,1,NA,,
 pol_tax,Poland,2013,1A,NA,,
 pol_tax,Poland,2013,1A1,NA,,
 pol_tax,Poland,2013,1A1A,NA,,
-pol_tax,Poland,2013,1A1A1,0.1,,
-pol_tax,Poland,2013,1A1A2,NA,,
-pol_tax,Poland,2013,1A1A3,NA,,
-pol_tax,Poland,2013,1A1B,NA,,
-pol_tax,Poland,2013,1A1C,NA,,
+pol_tax,Poland,2013,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2013,1A2,NA,,
-pol_tax,Poland,2013,1A2A,0.1,,
-pol_tax,Poland,2013,1A2B,0.1,,
-pol_tax,Poland,2013,1A2C,0.1,,
-pol_tax,Poland,2013,1A2D,0.1,,
-pol_tax,Poland,2013,1A2E,0.1,,
-pol_tax,Poland,2013,1A2F,0.1,,
-pol_tax,Poland,2013,1A2G,0.1,,
-pol_tax,Poland,2013,1A2H,0.1,,
-pol_tax,Poland,2013,1A2I,0.1,,
-pol_tax,Poland,2013,1A2J,0.1,,
-pol_tax,Poland,2013,1A2K,0.1,,
-pol_tax,Poland,2013,1A2L,0.1,,
-pol_tax,Poland,2013,1A2M,0.1,,
+pol_tax,Poland,2013,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2B,1,,
+pol_tax,Poland,2013,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2013,1A3,NA,,
 pol_tax,Poland,2013,1A3A,NA,,
 pol_tax,Poland,2013,1A3A1,NA,,
@@ -4925,11 +4925,11 @@ pol_tax,Poland,2013,2000,NA,,
 pol_tax,Poland,2013,20000,NA,,
 pol_tax,Poland,2013,200000,NA,,
 pol_tax,Poland,2013,2A,NA,,
-pol_tax,Poland,2013,2A1,NA,,
-pol_tax,Poland,2013,2A2,NA,,
-pol_tax,Poland,2013,2A3,NA,,
+pol_tax,Poland,2013,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2013,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2013,2A4,NA,,
-pol_tax,Poland,2013,2A4A,NA,,
+pol_tax,Poland,2013,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2013,2A4B,NA,,
 pol_tax,Poland,2013,2A4C,NA,,
 pol_tax,Poland,2013,2A4D,NA,,
@@ -4953,7 +4953,7 @@ pol_tax,Poland,2013,2B9,NA,,
 pol_tax,Poland,2013,2B9A,NA,,
 pol_tax,Poland,2013,2B9B,NA,,
 pol_tax,Poland,2013,2C,NA,,
-pol_tax,Poland,2013,2C1,NA,,
+pol_tax,Poland,2013,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2013,2C2,NA,,
 pol_tax,Poland,2013,2C3,NA,,
 pol_tax,Poland,2013,2C4,NA,,
@@ -4979,7 +4979,7 @@ pol_tax,Poland,2013,2G2,NA,,
 pol_tax,Poland,2013,2G3,NA,,
 pol_tax,Poland,2013,2G4,NA,,
 pol_tax,Poland,2013,2H,NA,,
-pol_tax,Poland,2013,2H1,NA,,
+pol_tax,Poland,2013,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2013,2H2,NA,,
 pol_tax,Poland,2013,2H3,NA,,
 pol_tax,Poland,2013,3,NA,,
@@ -5044,25 +5044,25 @@ pol_tax,Poland,2014,1,NA,,
 pol_tax,Poland,2014,1A,NA,,
 pol_tax,Poland,2014,1A1,NA,,
 pol_tax,Poland,2014,1A1A,NA,,
-pol_tax,Poland,2014,1A1A1,0.1,,
-pol_tax,Poland,2014,1A1A2,NA,,
-pol_tax,Poland,2014,1A1A3,NA,,
-pol_tax,Poland,2014,1A1B,NA,,
-pol_tax,Poland,2014,1A1C,NA,,
+pol_tax,Poland,2014,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2014,1A2,NA,,
-pol_tax,Poland,2014,1A2A,0.1,,
-pol_tax,Poland,2014,1A2B,0.1,,
-pol_tax,Poland,2014,1A2C,0.1,,
-pol_tax,Poland,2014,1A2D,0.1,,
-pol_tax,Poland,2014,1A2E,0.1,,
-pol_tax,Poland,2014,1A2F,0.1,,
-pol_tax,Poland,2014,1A2G,0.1,,
-pol_tax,Poland,2014,1A2H,0.1,,
-pol_tax,Poland,2014,1A2I,0.1,,
-pol_tax,Poland,2014,1A2J,0.1,,
-pol_tax,Poland,2014,1A2K,0.1,,
-pol_tax,Poland,2014,1A2L,0.1,,
-pol_tax,Poland,2014,1A2M,0.1,,
+pol_tax,Poland,2014,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2B,1,,
+pol_tax,Poland,2014,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2014,1A3,NA,,
 pol_tax,Poland,2014,1A3A,NA,,
 pol_tax,Poland,2014,1A3A1,NA,,
@@ -5135,11 +5135,11 @@ pol_tax,Poland,2014,2000,NA,,
 pol_tax,Poland,2014,20000,NA,,
 pol_tax,Poland,2014,200000,NA,,
 pol_tax,Poland,2014,2A,NA,,
-pol_tax,Poland,2014,2A1,NA,,
-pol_tax,Poland,2014,2A2,NA,,
-pol_tax,Poland,2014,2A3,NA,,
+pol_tax,Poland,2014,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2014,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2014,2A4,NA,,
-pol_tax,Poland,2014,2A4A,NA,,
+pol_tax,Poland,2014,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2014,2A4B,NA,,
 pol_tax,Poland,2014,2A4C,NA,,
 pol_tax,Poland,2014,2A4D,NA,,
@@ -5163,7 +5163,7 @@ pol_tax,Poland,2014,2B9,NA,,
 pol_tax,Poland,2014,2B9A,NA,,
 pol_tax,Poland,2014,2B9B,NA,,
 pol_tax,Poland,2014,2C,NA,,
-pol_tax,Poland,2014,2C1,NA,,
+pol_tax,Poland,2014,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2014,2C2,NA,,
 pol_tax,Poland,2014,2C3,NA,,
 pol_tax,Poland,2014,2C4,NA,,
@@ -5189,7 +5189,7 @@ pol_tax,Poland,2014,2G2,NA,,
 pol_tax,Poland,2014,2G3,NA,,
 pol_tax,Poland,2014,2G4,NA,,
 pol_tax,Poland,2014,2H,NA,,
-pol_tax,Poland,2014,2H1,NA,,
+pol_tax,Poland,2014,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2014,2H2,NA,,
 pol_tax,Poland,2014,2H3,NA,,
 pol_tax,Poland,2014,3,NA,,
@@ -5254,25 +5254,25 @@ pol_tax,Poland,2015,1,NA,,
 pol_tax,Poland,2015,1A,NA,,
 pol_tax,Poland,2015,1A1,NA,,
 pol_tax,Poland,2015,1A1A,NA,,
-pol_tax,Poland,2015,1A1A1,0.1,,
-pol_tax,Poland,2015,1A1A2,NA,,
-pol_tax,Poland,2015,1A1A3,NA,,
-pol_tax,Poland,2015,1A1B,NA,,
-pol_tax,Poland,2015,1A1C,NA,,
+pol_tax,Poland,2015,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2015,1A2,NA,,
-pol_tax,Poland,2015,1A2A,0.1,,
-pol_tax,Poland,2015,1A2B,0.1,,
-pol_tax,Poland,2015,1A2C,0.1,,
-pol_tax,Poland,2015,1A2D,0.1,,
-pol_tax,Poland,2015,1A2E,0.1,,
-pol_tax,Poland,2015,1A2F,0.1,,
-pol_tax,Poland,2015,1A2G,0.1,,
-pol_tax,Poland,2015,1A2H,0.1,,
-pol_tax,Poland,2015,1A2I,0.1,,
-pol_tax,Poland,2015,1A2J,0.1,,
-pol_tax,Poland,2015,1A2K,0.1,,
-pol_tax,Poland,2015,1A2L,0.1,,
-pol_tax,Poland,2015,1A2M,0.1,,
+pol_tax,Poland,2015,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2B,1,,
+pol_tax,Poland,2015,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2015,1A3,NA,,
 pol_tax,Poland,2015,1A3A,NA,,
 pol_tax,Poland,2015,1A3A1,NA,,
@@ -5345,11 +5345,11 @@ pol_tax,Poland,2015,2000,NA,,
 pol_tax,Poland,2015,20000,NA,,
 pol_tax,Poland,2015,200000,NA,,
 pol_tax,Poland,2015,2A,NA,,
-pol_tax,Poland,2015,2A1,NA,,
-pol_tax,Poland,2015,2A2,NA,,
-pol_tax,Poland,2015,2A3,NA,,
+pol_tax,Poland,2015,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2015,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2015,2A4,NA,,
-pol_tax,Poland,2015,2A4A,NA,,
+pol_tax,Poland,2015,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2015,2A4B,NA,,
 pol_tax,Poland,2015,2A4C,NA,,
 pol_tax,Poland,2015,2A4D,NA,,
@@ -5373,7 +5373,7 @@ pol_tax,Poland,2015,2B9,NA,,
 pol_tax,Poland,2015,2B9A,NA,,
 pol_tax,Poland,2015,2B9B,NA,,
 pol_tax,Poland,2015,2C,NA,,
-pol_tax,Poland,2015,2C1,NA,,
+pol_tax,Poland,2015,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2015,2C2,NA,,
 pol_tax,Poland,2015,2C3,NA,,
 pol_tax,Poland,2015,2C4,NA,,
@@ -5399,7 +5399,7 @@ pol_tax,Poland,2015,2G2,NA,,
 pol_tax,Poland,2015,2G3,NA,,
 pol_tax,Poland,2015,2G4,NA,,
 pol_tax,Poland,2015,2H,NA,,
-pol_tax,Poland,2015,2H1,NA,,
+pol_tax,Poland,2015,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2015,2H2,NA,,
 pol_tax,Poland,2015,2H3,NA,,
 pol_tax,Poland,2015,3,NA,,
@@ -5464,25 +5464,25 @@ pol_tax,Poland,2016,1,NA,,
 pol_tax,Poland,2016,1A,NA,,
 pol_tax,Poland,2016,1A1,NA,,
 pol_tax,Poland,2016,1A1A,NA,,
-pol_tax,Poland,2016,1A1A1,0.1,,
-pol_tax,Poland,2016,1A1A2,NA,,
-pol_tax,Poland,2016,1A1A3,NA,,
-pol_tax,Poland,2016,1A1B,NA,,
-pol_tax,Poland,2016,1A1C,NA,,
+pol_tax,Poland,2016,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2016,1A2,NA,,
-pol_tax,Poland,2016,1A2A,0.1,,
-pol_tax,Poland,2016,1A2B,0.1,,
-pol_tax,Poland,2016,1A2C,0.1,,
-pol_tax,Poland,2016,1A2D,0.1,,
-pol_tax,Poland,2016,1A2E,0.1,,
-pol_tax,Poland,2016,1A2F,0.1,,
-pol_tax,Poland,2016,1A2G,0.1,,
-pol_tax,Poland,2016,1A2H,0.1,,
-pol_tax,Poland,2016,1A2I,0.1,,
-pol_tax,Poland,2016,1A2J,0.1,,
-pol_tax,Poland,2016,1A2K,0.1,,
-pol_tax,Poland,2016,1A2L,0.1,,
-pol_tax,Poland,2016,1A2M,0.1,,
+pol_tax,Poland,2016,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2B,1,,
+pol_tax,Poland,2016,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2016,1A3,NA,,
 pol_tax,Poland,2016,1A3A,NA,,
 pol_tax,Poland,2016,1A3A1,NA,,
@@ -5555,11 +5555,11 @@ pol_tax,Poland,2016,2000,NA,,
 pol_tax,Poland,2016,20000,NA,,
 pol_tax,Poland,2016,200000,NA,,
 pol_tax,Poland,2016,2A,NA,,
-pol_tax,Poland,2016,2A1,NA,,
-pol_tax,Poland,2016,2A2,NA,,
-pol_tax,Poland,2016,2A3,NA,,
+pol_tax,Poland,2016,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2016,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2016,2A4,NA,,
-pol_tax,Poland,2016,2A4A,NA,,
+pol_tax,Poland,2016,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2016,2A4B,NA,,
 pol_tax,Poland,2016,2A4C,NA,,
 pol_tax,Poland,2016,2A4D,NA,,
@@ -5583,7 +5583,7 @@ pol_tax,Poland,2016,2B9,NA,,
 pol_tax,Poland,2016,2B9A,NA,,
 pol_tax,Poland,2016,2B9B,NA,,
 pol_tax,Poland,2016,2C,NA,,
-pol_tax,Poland,2016,2C1,NA,,
+pol_tax,Poland,2016,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2016,2C2,NA,,
 pol_tax,Poland,2016,2C3,NA,,
 pol_tax,Poland,2016,2C4,NA,,
@@ -5609,7 +5609,7 @@ pol_tax,Poland,2016,2G2,NA,,
 pol_tax,Poland,2016,2G3,NA,,
 pol_tax,Poland,2016,2G4,NA,,
 pol_tax,Poland,2016,2H,NA,,
-pol_tax,Poland,2016,2H1,NA,,
+pol_tax,Poland,2016,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2016,2H2,NA,,
 pol_tax,Poland,2016,2H3,NA,,
 pol_tax,Poland,2016,3,NA,,
@@ -5674,25 +5674,25 @@ pol_tax,Poland,2017,1,NA,,
 pol_tax,Poland,2017,1A,NA,,
 pol_tax,Poland,2017,1A1,NA,,
 pol_tax,Poland,2017,1A1A,NA,,
-pol_tax,Poland,2017,1A1A1,0.1,,
-pol_tax,Poland,2017,1A1A2,NA,,
-pol_tax,Poland,2017,1A1A3,NA,,
-pol_tax,Poland,2017,1A1B,NA,,
-pol_tax,Poland,2017,1A1C,NA,,
+pol_tax,Poland,2017,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2017,1A2,NA,,
-pol_tax,Poland,2017,1A2A,0.1,,
-pol_tax,Poland,2017,1A2B,0.1,,
-pol_tax,Poland,2017,1A2C,0.1,,
-pol_tax,Poland,2017,1A2D,0.1,,
-pol_tax,Poland,2017,1A2E,0.1,,
-pol_tax,Poland,2017,1A2F,0.1,,
-pol_tax,Poland,2017,1A2G,0.1,,
-pol_tax,Poland,2017,1A2H,0.1,,
-pol_tax,Poland,2017,1A2I,0.1,,
-pol_tax,Poland,2017,1A2J,0.1,,
-pol_tax,Poland,2017,1A2K,0.1,,
-pol_tax,Poland,2017,1A2L,0.1,,
-pol_tax,Poland,2017,1A2M,0.1,,
+pol_tax,Poland,2017,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2B,1,,
+pol_tax,Poland,2017,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2017,1A3,NA,,
 pol_tax,Poland,2017,1A3A,NA,,
 pol_tax,Poland,2017,1A3A1,NA,,
@@ -5765,11 +5765,11 @@ pol_tax,Poland,2017,2000,NA,,
 pol_tax,Poland,2017,20000,NA,,
 pol_tax,Poland,2017,200000,NA,,
 pol_tax,Poland,2017,2A,NA,,
-pol_tax,Poland,2017,2A1,NA,,
-pol_tax,Poland,2017,2A2,NA,,
-pol_tax,Poland,2017,2A3,NA,,
+pol_tax,Poland,2017,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2017,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2017,2A4,NA,,
-pol_tax,Poland,2017,2A4A,NA,,
+pol_tax,Poland,2017,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2017,2A4B,NA,,
 pol_tax,Poland,2017,2A4C,NA,,
 pol_tax,Poland,2017,2A4D,NA,,
@@ -5793,7 +5793,7 @@ pol_tax,Poland,2017,2B9,NA,,
 pol_tax,Poland,2017,2B9A,NA,,
 pol_tax,Poland,2017,2B9B,NA,,
 pol_tax,Poland,2017,2C,NA,,
-pol_tax,Poland,2017,2C1,NA,,
+pol_tax,Poland,2017,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2017,2C2,NA,,
 pol_tax,Poland,2017,2C3,NA,,
 pol_tax,Poland,2017,2C4,NA,,
@@ -5819,7 +5819,7 @@ pol_tax,Poland,2017,2G2,NA,,
 pol_tax,Poland,2017,2G3,NA,,
 pol_tax,Poland,2017,2G4,NA,,
 pol_tax,Poland,2017,2H,NA,,
-pol_tax,Poland,2017,2H1,NA,,
+pol_tax,Poland,2017,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2017,2H2,NA,,
 pol_tax,Poland,2017,2H3,NA,,
 pol_tax,Poland,2017,3,NA,,
@@ -5884,25 +5884,25 @@ pol_tax,Poland,2018,1,NA,,
 pol_tax,Poland,2018,1A,NA,,
 pol_tax,Poland,2018,1A1,NA,,
 pol_tax,Poland,2018,1A1A,NA,,
-pol_tax,Poland,2018,1A1A1,0.1,,
-pol_tax,Poland,2018,1A1A2,NA,,
-pol_tax,Poland,2018,1A1A3,NA,,
-pol_tax,Poland,2018,1A1B,NA,,
-pol_tax,Poland,2018,1A1C,NA,,
+pol_tax,Poland,2018,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2018,1A2,NA,,
-pol_tax,Poland,2018,1A2A,0.1,,
-pol_tax,Poland,2018,1A2B,0.1,,
-pol_tax,Poland,2018,1A2C,0.1,,
-pol_tax,Poland,2018,1A2D,0.1,,
-pol_tax,Poland,2018,1A2E,0.1,,
-pol_tax,Poland,2018,1A2F,0.1,,
-pol_tax,Poland,2018,1A2G,0.1,,
-pol_tax,Poland,2018,1A2H,0.1,,
-pol_tax,Poland,2018,1A2I,0.1,,
-pol_tax,Poland,2018,1A2J,0.1,,
-pol_tax,Poland,2018,1A2K,0.1,,
-pol_tax,Poland,2018,1A2L,0.1,,
-pol_tax,Poland,2018,1A2M,0.1,,
+pol_tax,Poland,2018,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2B,1,,
+pol_tax,Poland,2018,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2018,1A3,NA,,
 pol_tax,Poland,2018,1A3A,NA,,
 pol_tax,Poland,2018,1A3A1,NA,,
@@ -5975,11 +5975,11 @@ pol_tax,Poland,2018,2000,NA,,
 pol_tax,Poland,2018,20000,NA,,
 pol_tax,Poland,2018,200000,NA,,
 pol_tax,Poland,2018,2A,NA,,
-pol_tax,Poland,2018,2A1,NA,,
-pol_tax,Poland,2018,2A2,NA,,
-pol_tax,Poland,2018,2A3,NA,,
+pol_tax,Poland,2018,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2018,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2018,2A4,NA,,
-pol_tax,Poland,2018,2A4A,NA,,
+pol_tax,Poland,2018,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2018,2A4B,NA,,
 pol_tax,Poland,2018,2A4C,NA,,
 pol_tax,Poland,2018,2A4D,NA,,
@@ -6003,7 +6003,7 @@ pol_tax,Poland,2018,2B9,NA,,
 pol_tax,Poland,2018,2B9A,NA,,
 pol_tax,Poland,2018,2B9B,NA,,
 pol_tax,Poland,2018,2C,NA,,
-pol_tax,Poland,2018,2C1,NA,,
+pol_tax,Poland,2018,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2018,2C2,NA,,
 pol_tax,Poland,2018,2C3,NA,,
 pol_tax,Poland,2018,2C4,NA,,
@@ -6029,7 +6029,7 @@ pol_tax,Poland,2018,2G2,NA,,
 pol_tax,Poland,2018,2G3,NA,,
 pol_tax,Poland,2018,2G4,NA,,
 pol_tax,Poland,2018,2H,NA,,
-pol_tax,Poland,2018,2H1,NA,,
+pol_tax,Poland,2018,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2018,2H2,NA,,
 pol_tax,Poland,2018,2H3,NA,,
 pol_tax,Poland,2018,3,NA,,
@@ -6094,25 +6094,25 @@ pol_tax,Poland,2019,1,NA,,
 pol_tax,Poland,2019,1A,NA,,
 pol_tax,Poland,2019,1A1,NA,,
 pol_tax,Poland,2019,1A1A,NA,,
-pol_tax,Poland,2019,1A1A1,0.1,,
-pol_tax,Poland,2019,1A1A2,NA,,
-pol_tax,Poland,2019,1A1A3,NA,,
-pol_tax,Poland,2019,1A1B,NA,,
-pol_tax,Poland,2019,1A1C,NA,,
+pol_tax,Poland,2019,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2019,1A2,NA,,
-pol_tax,Poland,2019,1A2A,0.1,,
-pol_tax,Poland,2019,1A2B,0.1,,
-pol_tax,Poland,2019,1A2C,0.1,,
-pol_tax,Poland,2019,1A2D,0.1,,
-pol_tax,Poland,2019,1A2E,0.1,,
-pol_tax,Poland,2019,1A2F,0.1,,
-pol_tax,Poland,2019,1A2G,0.1,,
-pol_tax,Poland,2019,1A2H,0.1,,
-pol_tax,Poland,2019,1A2I,0.1,,
-pol_tax,Poland,2019,1A2J,0.1,,
-pol_tax,Poland,2019,1A2K,0.1,,
-pol_tax,Poland,2019,1A2L,0.1,,
-pol_tax,Poland,2019,1A2M,0.1,,
+pol_tax,Poland,2019,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2B,1,,
+pol_tax,Poland,2019,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2019,1A3,NA,,
 pol_tax,Poland,2019,1A3A,NA,,
 pol_tax,Poland,2019,1A3A1,NA,,
@@ -6185,11 +6185,11 @@ pol_tax,Poland,2019,2000,NA,,
 pol_tax,Poland,2019,20000,NA,,
 pol_tax,Poland,2019,200000,NA,,
 pol_tax,Poland,2019,2A,NA,,
-pol_tax,Poland,2019,2A1,NA,,
-pol_tax,Poland,2019,2A2,NA,,
-pol_tax,Poland,2019,2A3,NA,,
+pol_tax,Poland,2019,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2019,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2019,2A4,NA,,
-pol_tax,Poland,2019,2A4A,NA,,
+pol_tax,Poland,2019,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2019,2A4B,NA,,
 pol_tax,Poland,2019,2A4C,NA,,
 pol_tax,Poland,2019,2A4D,NA,,
@@ -6213,7 +6213,7 @@ pol_tax,Poland,2019,2B9,NA,,
 pol_tax,Poland,2019,2B9A,NA,,
 pol_tax,Poland,2019,2B9B,NA,,
 pol_tax,Poland,2019,2C,NA,,
-pol_tax,Poland,2019,2C1,NA,,
+pol_tax,Poland,2019,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2019,2C2,NA,,
 pol_tax,Poland,2019,2C3,NA,,
 pol_tax,Poland,2019,2C4,NA,,
@@ -6239,7 +6239,7 @@ pol_tax,Poland,2019,2G2,NA,,
 pol_tax,Poland,2019,2G3,NA,,
 pol_tax,Poland,2019,2G4,NA,,
 pol_tax,Poland,2019,2H,NA,,
-pol_tax,Poland,2019,2H1,NA,,
+pol_tax,Poland,2019,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2019,2H2,NA,,
 pol_tax,Poland,2019,2H3,NA,,
 pol_tax,Poland,2019,3,NA,,
@@ -6304,25 +6304,25 @@ pol_tax,Poland,2020,1,NA,,
 pol_tax,Poland,2020,1A,NA,,
 pol_tax,Poland,2020,1A1,NA,,
 pol_tax,Poland,2020,1A1A,NA,,
-pol_tax,Poland,2020,1A1A1,0.1,,
-pol_tax,Poland,2020,1A1A2,NA,,
-pol_tax,Poland,2020,1A1A3,NA,,
-pol_tax,Poland,2020,1A1B,NA,,
-pol_tax,Poland,2020,1A1C,NA,,
+pol_tax,Poland,2020,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2020,1A2,NA,,
-pol_tax,Poland,2020,1A2A,0.1,,
-pol_tax,Poland,2020,1A2B,0.1,,
-pol_tax,Poland,2020,1A2C,0.1,,
-pol_tax,Poland,2020,1A2D,0.1,,
-pol_tax,Poland,2020,1A2E,0.1,,
-pol_tax,Poland,2020,1A2F,0.1,,
-pol_tax,Poland,2020,1A2G,0.1,,
-pol_tax,Poland,2020,1A2H,0.1,,
-pol_tax,Poland,2020,1A2I,0.1,,
-pol_tax,Poland,2020,1A2J,0.1,,
-pol_tax,Poland,2020,1A2K,0.1,,
-pol_tax,Poland,2020,1A2L,0.1,,
-pol_tax,Poland,2020,1A2M,0.1,,
+pol_tax,Poland,2020,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2B,1,,
+pol_tax,Poland,2020,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2020,1A3,NA,,
 pol_tax,Poland,2020,1A3A,NA,,
 pol_tax,Poland,2020,1A3A1,NA,,
@@ -6395,11 +6395,11 @@ pol_tax,Poland,2020,2000,NA,,
 pol_tax,Poland,2020,20000,NA,,
 pol_tax,Poland,2020,200000,NA,,
 pol_tax,Poland,2020,2A,NA,,
-pol_tax,Poland,2020,2A1,NA,,
-pol_tax,Poland,2020,2A2,NA,,
-pol_tax,Poland,2020,2A3,NA,,
+pol_tax,Poland,2020,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2020,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2020,2A4,NA,,
-pol_tax,Poland,2020,2A4A,NA,,
+pol_tax,Poland,2020,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2020,2A4B,NA,,
 pol_tax,Poland,2020,2A4C,NA,,
 pol_tax,Poland,2020,2A4D,NA,,
@@ -6423,7 +6423,7 @@ pol_tax,Poland,2020,2B9,NA,,
 pol_tax,Poland,2020,2B9A,NA,,
 pol_tax,Poland,2020,2B9B,NA,,
 pol_tax,Poland,2020,2C,NA,,
-pol_tax,Poland,2020,2C1,NA,,
+pol_tax,Poland,2020,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2020,2C2,NA,,
 pol_tax,Poland,2020,2C3,NA,,
 pol_tax,Poland,2020,2C4,NA,,
@@ -6449,7 +6449,7 @@ pol_tax,Poland,2020,2G2,NA,,
 pol_tax,Poland,2020,2G3,NA,,
 pol_tax,Poland,2020,2G4,NA,,
 pol_tax,Poland,2020,2H,NA,,
-pol_tax,Poland,2020,2H1,NA,,
+pol_tax,Poland,2020,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2020,2H2,NA,,
 pol_tax,Poland,2020,2H3,NA,,
 pol_tax,Poland,2020,3,NA,,
@@ -6514,25 +6514,25 @@ pol_tax,Poland,2021,1,NA,,
 pol_tax,Poland,2021,1A,NA,,
 pol_tax,Poland,2021,1A1,NA,,
 pol_tax,Poland,2021,1A1A,NA,,
-pol_tax,Poland,2021,1A1A1,0.1,,
-pol_tax,Poland,2021,1A1A2,NA,,
-pol_tax,Poland,2021,1A1A3,NA,,
-pol_tax,Poland,2021,1A1B,NA,,
-pol_tax,Poland,2021,1A1C,NA,,
+pol_tax,Poland,2021,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2021,1A2,NA,,
-pol_tax,Poland,2021,1A2A,0.1,,
-pol_tax,Poland,2021,1A2B,0.1,,
-pol_tax,Poland,2021,1A2C,0.1,,
-pol_tax,Poland,2021,1A2D,0.1,,
-pol_tax,Poland,2021,1A2E,0.1,,
-pol_tax,Poland,2021,1A2F,0.1,,
-pol_tax,Poland,2021,1A2G,0.1,,
-pol_tax,Poland,2021,1A2H,0.1,,
-pol_tax,Poland,2021,1A2I,0.1,,
-pol_tax,Poland,2021,1A2J,0.1,,
-pol_tax,Poland,2021,1A2K,0.1,,
-pol_tax,Poland,2021,1A2L,0.1,,
-pol_tax,Poland,2021,1A2M,0.1,,
+pol_tax,Poland,2021,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2B,1,,
+pol_tax,Poland,2021,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2021,1A3,NA,,
 pol_tax,Poland,2021,1A3A,NA,,
 pol_tax,Poland,2021,1A3A1,NA,,
@@ -6605,11 +6605,11 @@ pol_tax,Poland,2021,2000,NA,,
 pol_tax,Poland,2021,20000,NA,,
 pol_tax,Poland,2021,200000,NA,,
 pol_tax,Poland,2021,2A,NA,,
-pol_tax,Poland,2021,2A1,NA,,
-pol_tax,Poland,2021,2A2,NA,,
-pol_tax,Poland,2021,2A3,NA,,
+pol_tax,Poland,2021,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2021,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2021,2A4,NA,,
-pol_tax,Poland,2021,2A4A,NA,,
+pol_tax,Poland,2021,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2021,2A4B,NA,,
 pol_tax,Poland,2021,2A4C,NA,,
 pol_tax,Poland,2021,2A4D,NA,,
@@ -6633,7 +6633,7 @@ pol_tax,Poland,2021,2B9,NA,,
 pol_tax,Poland,2021,2B9A,NA,,
 pol_tax,Poland,2021,2B9B,NA,,
 pol_tax,Poland,2021,2C,NA,,
-pol_tax,Poland,2021,2C1,NA,,
+pol_tax,Poland,2021,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2021,2C2,NA,,
 pol_tax,Poland,2021,2C3,NA,,
 pol_tax,Poland,2021,2C4,NA,,
@@ -6659,7 +6659,7 @@ pol_tax,Poland,2021,2G2,NA,,
 pol_tax,Poland,2021,2G3,NA,,
 pol_tax,Poland,2021,2G4,NA,,
 pol_tax,Poland,2021,2H,NA,,
-pol_tax,Poland,2021,2H1,NA,,
+pol_tax,Poland,2021,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
 pol_tax,Poland,2021,2H2,NA,,
 pol_tax,Poland,2021,2H3,NA,,
 pol_tax,Poland,2021,3,NA,,
@@ -6719,3 +6719,213 @@ pol_tax,Poland,2021,5,NA,,
 pol_tax,Poland,2021,5A,NA,,
 pol_tax,Poland,2021,5A1,NA,,
 pol_tax,Poland,2021,5A2,NA,,
+pol_tax,Poland,2022,0,NA,,
+pol_tax,Poland,2022,1,NA,,
+pol_tax,Poland,2022,1A,NA,,
+pol_tax,Poland,2022,1A1,NA,,
+pol_tax,Poland,2022,1A1A,NA,,
+pol_tax,Poland,2022,1A1A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A1A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A1A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A1B,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A1C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2,NA,,
+pol_tax,Poland,2022,1A2A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2B,1,,
+pol_tax,Poland,2022,1A2C,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2D,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2E,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2F,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2G,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2H,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2I,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2J,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2K,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2L,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A2M,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,1A3,NA,,
+pol_tax,Poland,2022,1A3A,NA,,
+pol_tax,Poland,2022,1A3A1,NA,,
+pol_tax,Poland,2022,1A3A2,NA,,
+pol_tax,Poland,2022,1A3B,NA,,
+pol_tax,Poland,2022,1A3C,NA,,
+pol_tax,Poland,2022,1A3D,NA,,
+pol_tax,Poland,2022,1A3D1,NA,,
+pol_tax,Poland,2022,1A3D2,NA,,
+pol_tax,Poland,2022,1A3E,NA,,
+pol_tax,Poland,2022,1A3E1,NA,,
+pol_tax,Poland,2022,1A4,NA,,
+pol_tax,Poland,2022,1A4A,NA,,
+pol_tax,Poland,2022,1A4B,NA,,
+pol_tax,Poland,2022,1A4C,NA,,
+pol_tax,Poland,2022,1A4C1,NA,,
+pol_tax,Poland,2022,1A4C2,NA,,
+pol_tax,Poland,2022,1A4C3,NA,,
+pol_tax,Poland,2022,1A5,NA,,
+pol_tax,Poland,2022,1A5A,NA,,
+pol_tax,Poland,2022,1A5B,NA,,
+pol_tax,Poland,2022,1A5C,NA,,
+pol_tax,Poland,2022,1B,NA,,
+pol_tax,Poland,2022,1B1,NA,,
+pol_tax,Poland,2022,1B1A,NA,,
+pol_tax,Poland,2022,1B1A1,NA,,
+pol_tax,Poland,2022,1B1A11,NA,,
+pol_tax,Poland,2022,1B1A12,NA,,
+pol_tax,Poland,2022,1B1A13,NA,,
+pol_tax,Poland,2022,1B1A14,NA,,
+pol_tax,Poland,2022,1B1A2,NA,,
+pol_tax,Poland,2022,1B1A21,NA,,
+pol_tax,Poland,2022,1B1A22,NA,,
+pol_tax,Poland,2022,1B1B,NA,,
+pol_tax,Poland,2022,1B2,NA,,
+pol_tax,Poland,2022,1B2A,NA,,
+pol_tax,Poland,2022,1B2A1,NA,,
+pol_tax,Poland,2022,1B2A2,NA,,
+pol_tax,Poland,2022,1B2A3,NA,,
+pol_tax,Poland,2022,1B2A31,NA,,
+pol_tax,Poland,2022,1B2A32,NA,,
+pol_tax,Poland,2022,1B2A33,NA,,
+pol_tax,Poland,2022,1B2A34,NA,,
+pol_tax,Poland,2022,1B2A35,NA,,
+pol_tax,Poland,2022,1B2A36,NA,,
+pol_tax,Poland,2022,1B2B,NA,,
+pol_tax,Poland,2022,1B2B1,NA,,
+pol_tax,Poland,2022,1B2B2,NA,,
+pol_tax,Poland,2022,1B2B3,NA,,
+pol_tax,Poland,2022,1B2B31,NA,,
+pol_tax,Poland,2022,1B2B32,NA,,
+pol_tax,Poland,2022,1B2B33,NA,,
+pol_tax,Poland,2022,1B2B34,NA,,
+pol_tax,Poland,2022,1B2B35,NA,,
+pol_tax,Poland,2022,1B2B36,NA,,
+pol_tax,Poland,2022,1B3,NA,,
+pol_tax,Poland,2022,1C,NA,,
+pol_tax,Poland,2022,1C1,NA,,
+pol_tax,Poland,2022,1C1A,NA,,
+pol_tax,Poland,2022,1C1B,NA,,
+pol_tax,Poland,2022,1C1C,NA,,
+pol_tax,Poland,2022,1C2,NA,,
+pol_tax,Poland,2022,1C2A,NA,,
+pol_tax,Poland,2022,1C2B,NA,,
+pol_tax,Poland,2022,1C3,NA,,
+pol_tax,Poland,2022,2,NA,,
+pol_tax,Poland,2022,20,NA,,
+pol_tax,Poland,2022,200,NA,,
+pol_tax,Poland,2022,2000,NA,,
+pol_tax,Poland,2022,20000,NA,,
+pol_tax,Poland,2022,200000,NA,,
+pol_tax,Poland,2022,2A,NA,,
+pol_tax,Poland,2022,2A1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,2A2,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,2A3,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,2A4,NA,,
+pol_tax,Poland,2022,2A4A,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,2A4B,NA,,
+pol_tax,Poland,2022,2A4C,NA,,
+pol_tax,Poland,2022,2A4D,NA,,
+pol_tax,Poland,2022,2B,NA,,
+pol_tax,Poland,2022,2B1,NA,,
+pol_tax,Poland,2022,2B10,NA,,
+pol_tax,Poland,2022,2B2,NA,,
+pol_tax,Poland,2022,2B3,NA,,
+pol_tax,Poland,2022,2B4,NA,,
+pol_tax,Poland,2022,2B5,NA,,
+pol_tax,Poland,2022,2B6,NA,,
+pol_tax,Poland,2022,2B7,NA,,
+pol_tax,Poland,2022,2B8,NA,,
+pol_tax,Poland,2022,2B8A,NA,,
+pol_tax,Poland,2022,2B8B,NA,,
+pol_tax,Poland,2022,2B8C,NA,,
+pol_tax,Poland,2022,2B8D,NA,,
+pol_tax,Poland,2022,2B8E,NA,,
+pol_tax,Poland,2022,2B8F,NA,,
+pol_tax,Poland,2022,2B9,NA,,
+pol_tax,Poland,2022,2B9A,NA,,
+pol_tax,Poland,2022,2B9B,NA,,
+pol_tax,Poland,2022,2C,NA,,
+pol_tax,Poland,2022,2C1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,2C2,NA,,
+pol_tax,Poland,2022,2C3,NA,,
+pol_tax,Poland,2022,2C4,NA,,
+pol_tax,Poland,2022,2C5,NA,,
+pol_tax,Poland,2022,2C6,NA,,
+pol_tax,Poland,2022,2C7,NA,,
+pol_tax,Poland,2022,2D,NA,,
+pol_tax,Poland,2022,2D1,NA,,
+pol_tax,Poland,2022,2D2,NA,,
+pol_tax,Poland,2022,2D3,NA,,
+pol_tax,Poland,2022,2D4,NA,,
+pol_tax,Poland,2022,2E,NA,,
+pol_tax,Poland,2022,2F,NA,,
+pol_tax,Poland,2022,2F1,NA,,
+pol_tax,Poland,2022,2F2,NA,,
+pol_tax,Poland,2022,2F3,NA,,
+pol_tax,Poland,2022,2F4,NA,,
+pol_tax,Poland,2022,2F5,NA,,
+pol_tax,Poland,2022,2F6,NA,,
+pol_tax,Poland,2022,2G,NA,,
+pol_tax,Poland,2022,2G1,NA,,
+pol_tax,Poland,2022,2G2,NA,,
+pol_tax,Poland,2022,2G3,NA,,
+pol_tax,Poland,2022,2G4,NA,,
+pol_tax,Poland,2022,2H,NA,,
+pol_tax,Poland,2022,2H1,0.1,,introduction of the EU ETS; all ETS covered installations are exempt from the tax
+pol_tax,Poland,2022,2H2,NA,,
+pol_tax,Poland,2022,2H3,NA,,
+pol_tax,Poland,2022,3,NA,,
+pol_tax,Poland,2022,3A,NA,,
+pol_tax,Poland,2022,3A1,NA,,
+pol_tax,Poland,2022,3A2,NA,,
+pol_tax,Poland,2022,3B,NA,,
+pol_tax,Poland,2022,3B1,NA,,
+pol_tax,Poland,2022,3B1A,NA,,
+pol_tax,Poland,2022,3B1B,NA,,
+pol_tax,Poland,2022,3B2,NA,,
+pol_tax,Poland,2022,3B2A,NA,,
+pol_tax,Poland,2022,3B2B,NA,,
+pol_tax,Poland,2022,3B3,NA,,
+pol_tax,Poland,2022,3B3A,NA,,
+pol_tax,Poland,2022,3B3B,NA,,
+pol_tax,Poland,2022,3B4,NA,,
+pol_tax,Poland,2022,3B4A,NA,,
+pol_tax,Poland,2022,3B4B,NA,,
+pol_tax,Poland,2022,3B5,NA,,
+pol_tax,Poland,2022,3B5A,NA,,
+pol_tax,Poland,2022,3B5B,NA,,
+pol_tax,Poland,2022,3B6,NA,,
+pol_tax,Poland,2022,3B6A,NA,,
+pol_tax,Poland,2022,3B6B,NA,,
+pol_tax,Poland,2022,3B6B1,NA,,
+pol_tax,Poland,2022,3B6B2,NA,,
+pol_tax,Poland,2022,3B6B3,NA,,
+pol_tax,Poland,2022,3B6B4,NA,,
+pol_tax,Poland,2022,3B6B5,NA,,
+pol_tax,Poland,2022,3C,NA,,
+pol_tax,Poland,2022,3C1,NA,,
+pol_tax,Poland,2022,3C2,NA,,
+pol_tax,Poland,2022,3C3,NA,,
+pol_tax,Poland,2022,3C4,NA,,
+pol_tax,Poland,2022,3C5,NA,,
+pol_tax,Poland,2022,3C6,NA,,
+pol_tax,Poland,2022,3C7,NA,,
+pol_tax,Poland,2022,3C8,NA,,
+pol_tax,Poland,2022,3D,NA,,
+pol_tax,Poland,2022,3D1,NA,,
+pol_tax,Poland,2022,3D2,NA,,
+pol_tax,Poland,2022,4,NA,,
+pol_tax,Poland,2022,4A,NA,,
+pol_tax,Poland,2022,4A1,NA,,
+pol_tax,Poland,2022,4A2,NA,,
+pol_tax,Poland,2022,4A3,NA,,
+pol_tax,Poland,2022,4B,NA,,
+pol_tax,Poland,2022,4C,NA,,
+pol_tax,Poland,2022,4C1,NA,,
+pol_tax,Poland,2022,4C2,NA,,
+pol_tax,Poland,2022,4D,NA,,
+pol_tax,Poland,2022,4D1,NA,,
+pol_tax,Poland,2022,4D2,NA,,
+pol_tax,Poland,2022,4E,NA,,
+pol_tax,Poland,2022,5,NA,,
+pol_tax,Poland,2022,5A,NA,,
+pol_tax,Poland,2022,5A1,NA,,
+pol_tax,Poland,2022,5A2,NA,,

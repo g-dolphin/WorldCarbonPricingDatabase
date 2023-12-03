@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_CO2,source,comment
 aus_tax,Australia,2012,0,NA,,
 aus_tax,Australia,2012,1,NA,,
 aus_tax,Australia,2012,1A,NA,,
