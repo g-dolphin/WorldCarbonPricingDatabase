@@ -574,7 +574,7 @@ def scope():
     
     # initial scope
     fra_tax_ipcc_I = ["1A1B", "1A1C",
-                      "1A4A", "1A4B"]
+                                "1A4A", "1A4B"]
 
     # extension to road transport (2015)
     fra_tax_ipcc_II = ["1A1B", "1A1C", "1A3B",

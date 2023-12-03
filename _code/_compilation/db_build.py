@@ -259,25 +259,15 @@ wcpd_all_jur_sources = wcpd_all_jur_sources[["jurisdiction", "year", "ipcc_code"
 #read_file = stream.read()
 #exec(read_file)
 
-#------------------------------Writing files----------------------------------#
 
-# Breaking up dataframe into single jurisdiction .csv files
-std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
-countries_dic = dict(zip(ctry_list, std_country_names))
+#------------------------------Coverage Factors files-------------------
 
-std_subnat_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in subnat_list]
-subnat_dic = dict(zip(subnat_list, std_subnat_names))
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_preprocessing/_coverageFactors.py")
+read_file = stream.read()
+exec(read_file)
 
+#------------------------------Overlap files-------------------
 
-for jur in countries_dic:
-    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/"+gas+"/national/wcpd_"+gas.lower()+"_"+countries_dic[jur]+".csv", index=None)
-for jur in subnat_dic:
-    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/data/"+gas+"/subnational/wcpd_"+gas.lower()+"_"+subnat_dic[jur]+".csv", index=None)
-
-for jur in countries_dic:
-    wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/"+gas+"/national/wcpd_"+gas.lower()+"_"+countries_dic[jur]+".csv", index=None)
-for jur in subnat_dic:
-    wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_dataset/sources/"+gas+"/subnational/wcpd_"+gas.lower()+"_"+subnat_dic[jur]+".csv", index=None)
-    
-    
-
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_preprocessing/_overlap.py")
+read_file = stream.read()
+exec(read_file)
