@@ -1,4 +1,4 @@
-scheme_id,jurisdiction,year,ipcc_code,cf_co2,source,comment
+scheme_id,jurisdiction,year,ipcc_code,cf_CO2,source,comment
 can_qc_cat,Quebec,2013,0,NA,,
 can_qc_cat,Quebec,2013,1,NA,,
 can_qc_cat,Quebec,2013,1A,NA,,
