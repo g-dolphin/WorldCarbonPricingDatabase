@@ -9556,10 +9556,10 @@ Norway,2021,1A1A3,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); ye
 Norway,2021,1A1A3,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Norway,2021,1A1A3,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Norway,2021,1A1B,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Norway,2021,1A1B,Natural gas,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Norway,2021,1A1B,Natural gas,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",db(WBCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Norway,2021,1A1B,Oil,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Norway,2021,1A1C,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Norway,2021,1A1C,Natural gas,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Norway,2021,1A1C,Natural gas,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",db(WBCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Norway,2021,1A1C,Oil,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Norway,2021,1A2,Coal,NA,NA,NA,NA,NA
 Norway,2021,1A2,Natural gas,NA,NA,NA,NA,NA
@@ -9613,10 +9613,10 @@ Norway,2021,1A3A1,Coal,NA,NA,NA,NA,NA
 Norway,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Norway,2021,1A3A1,Oil,NA,NA,NA,NA,NA
 Norway,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Norway,2021,1A3A2,Natural gas,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Norway,2021,1A3A2,Natural gas,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",db(WBCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Norway,2021,1A3A2,Oil,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Norway,2021,1A3B,Coal,NA,NA,NA,NA,NA
-Norway,2021,1A3B,Natural gas,leg(NOR-EA[1990]),NA,; ,NA,NA
+Norway,2021,1A3B,Natural gas,leg(NOR-EA[1990]),NA,db(WBCPD[2022]); ,NA,NA
 Norway,2021,1A3B,Oil,leg(NOR-EA[1990]),NA,; ,NA,NA
 Norway,2021,1A3C,Coal,NA,NA,NA,NA,NA
 Norway,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
@@ -9640,10 +9640,10 @@ Norway,2021,1A4,Coal,NA,NA,NA,NA,NA
 Norway,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Norway,2021,1A4,Oil,NA,NA,NA,NA,NA
 Norway,2021,1A4A,Coal,NA,NA,NA,NA,NA
-Norway,2021,1A4A,Natural gas,leg(NOR-EA[1990]),NA,; ,NA,NA
+Norway,2021,1A4A,Natural gas,leg(NOR-EA[1990]),NA,db(WBCPD[2022]); ,NA,NA
 Norway,2021,1A4A,Oil,leg(NOR-EA[1990]),NA,; ,NA,NA
 Norway,2021,1A4B,Coal,NA,NA,NA,NA,NA
-Norway,2021,1A4B,Natural gas,leg(NOR-EA[1990]),NA,; ,NA,NA
+Norway,2021,1A4B,Natural gas,leg(NOR-EA[1990]),NA,db(WBCPD[2022]); ,NA,NA
 Norway,2021,1A4B,Oil,leg(NOR-EA[1990]),NA,; ,NA,NA
 Norway,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Norway,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
@@ -9652,7 +9652,7 @@ Norway,2021,1A4C1,Coal,NA,NA,NA,NA,NA
 Norway,2021,1A4C1,Natural gas,NA,NA,NA,NA,NA
 Norway,2021,1A4C1,Oil,NA,NA,NA,NA,NA
 Norway,2021,1A4C2,Coal,NA,NA,NA,NA,NA
-Norway,2021,1A4C2,Natural gas,leg(NOR-EA[1990]),NA,; ,NA,NA
+Norway,2021,1A4C2,Natural gas,leg(NOR-EA[1990]),NA,db(WBCPD[2022]); ,NA,NA
 Norway,2021,1A4C2,Oil,leg(NOR-EA[1990]),NA,; ,NA,NA
 Norway,2021,1A4C3,Coal,NA,NA,NA,NA,NA
 Norway,2021,1A4C3,Natural gas,NA,NA,NA,NA,NA
