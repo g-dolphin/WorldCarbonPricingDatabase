@@ -9556,11 +9556,11 @@ Iceland,2021,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Iceland,2021,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Iceland,2021,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Iceland,2021,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Iceland,2021,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,ISK,eu_ets,53.54,EUR,,,
-Iceland,2021,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,ISK,eu_ets,53.54,EUR,,,
+Iceland,2021,1A1B,Natural gas,1.0,1.0,isl_tax,4400.0,0.0,4400.0,ISK,eu_ets,53.54,EUR,,,
+Iceland,2021,1A1B,Oil,1.0,1.0,isl_tax,4400.0,0.0,4400.0,ISK,eu_ets,53.54,EUR,,,
 Iceland,2021,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
-Iceland,2021,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,ISK,eu_ets,53.54,EUR,,,
-Iceland,2021,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,ISK,eu_ets,53.54,EUR,,,
+Iceland,2021,1A1C,Natural gas,1.0,1.0,isl_tax,4400.0,0.0,4400.0,ISK,eu_ets,53.54,EUR,,,
+Iceland,2021,1A1C,Oil,1.0,1.0,isl_tax,4400.0,0.0,4400.0,ISK,eu_ets,53.54,EUR,,,
 Iceland,2021,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9616,8 +9616,8 @@ Iceland,2021,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Iceland,2021,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Iceland,2021,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,53.54,EUR,,,
 Iceland,2021,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A3B,Natural gas,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A3B,Oil,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9640,20 +9640,20 @@ Iceland,2021,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4A,Natural gas,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4A,Oil,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4B,Natural gas,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4B,Oil,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4C1,Natural gas,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4C1,Oil,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4C2,Natural gas,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4C2,Oil,1.0,0.0,isl_tax,4400.0,0.0,4400.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
