@@ -91,7 +91,7 @@ def scope():
     ## scope dictionaries
     
     eu_ets_jur_scope = {2005:eu_ets_jur_I, 2006:eu_ets_jur_I,
-                            2007:eu_ets_jur_II, 2008:eu_ets_jur_II,
+                            2007:eu_ets_jur_II, 2008:eu_ets_jur_III,
                             2009:eu_ets_jur_III, 2010:eu_ets_jur_III,
                             2011:eu_ets_jur_III, 2012:eu_ets_jur_III,
                             2013:eu_ets_jur_IV, 2014:eu_ets_jur_IV,
