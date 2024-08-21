@@ -250,7 +250,7 @@ wcpd_all_jur = wcpd_all_jur[["jurisdiction", "year", "ipcc_code",
 wcpd_all_jur_sources = wcpd_all_jur_sources[["jurisdiction", "year", "ipcc_code", 
                                             "Product", "tax", "ets",
                                             "tax_rate_excl_ex_clcu", "tax_ex_rate",
-                                            "ets_price"]]
+                                            "ets_price"]] #ets_2_id, ets_2_price
 
 #------------------------------Calculating aggregate IPCC categories scope values----------------------------------#
 # currently not used - the script needs review as it doesn't seem to record the desired output
