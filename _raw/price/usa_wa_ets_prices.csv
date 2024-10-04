@@ -1,0 +1,2 @@
+scheme_id,year,allowance_weighted_price,currency_code,source,comment
+usa_wa_ets,2023,54.3384,USD,web(WAS-DOE[2024]),yearly average of auction prices obtained from Washington Department of Ecology
