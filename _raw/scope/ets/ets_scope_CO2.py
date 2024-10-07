@@ -668,13 +668,15 @@ def scope():
                            2015:usa_ca_ets_jur_II, 2016:usa_ca_ets_jur_II, 
                            2017:usa_ca_ets_jur_II, 2018:usa_ca_ets_jur_III, 
                            2019:usa_ca_ets_jur_II, 2020:usa_ca_ets_jur_II, 
-                           2021:usa_ca_ets_jur_II, 2022:usa_ca_ets_jur_II}
+                           2021:usa_ca_ets_jur_II, 2022:usa_ca_ets_jur_II, 
+                           2023:usa_ca_ets_jur_II, 2024:usa_ca_ets_jur_II}
     
     usa_ca_ets_ipcc_scope = {2013:usa_ca_ets_ipcc_I, 2014:usa_ca_ets_ipcc_I, 
                              2015:usa_ca_ets_ipcc_II, 2016:usa_ca_ets_ipcc_II, 
                              2017:usa_ca_ets_ipcc_II, 2018:usa_ca_ets_ipcc_II, 
                              2019:usa_ca_ets_ipcc_II, 2020:usa_ca_ets_ipcc_II, 
-                             2021:usa_ca_ets_ipcc_II, 2022:usa_ca_ets_ipcc_II}
+                             2021:usa_ca_ets_ipcc_II, 2022:usa_ca_ets_ipcc_II, 
+                             2023:usa_ca_ets_ipcc_II, 2024:usa_ca_ets_ipcc_II}
 
     ## Sources dictionary
     
@@ -688,7 +690,9 @@ def scope():
                                   2019:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
                                   2020:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
                                   2021:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",
-                                  2022:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])"}
+                                  2022:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",
+                                  2023:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",
+                                  2024:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])"}
 
     #----------------------------------------------------------------------------
     # USA-Oregon 
@@ -699,13 +703,19 @@ def scope():
                          "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
                          "1A2L", "1A2M", "1A3B", "1A4A", "1A4B", "1A5A"]
 
-    usa_or_ets_jur_scope = {2022:usa_or_ets_jur_I}
+    usa_or_ets_jur_scope = {2022:usa_or_ets_jur_I,
+                            2023:usa_or_ets_jur_I,
+                            2024:usa_or_ets_jur_I}
     
-    usa_or_ets_ipcc_scope = {2022:usa_or_ets_ipcc_I}
+    usa_or_ets_ipcc_scope = {2022:usa_or_ets_ipcc_I,
+                             2023:usa_or_ets_ipcc_I,
+                             2024:usa_or_ets_ipcc_I}
 
     ## Sources dictionary
     
-    usa_or_ets_scope_sources = {2022:"report(ICAP[2023])"}
+    usa_or_ets_scope_sources = {2022:"report(ICAP[2023])",
+                                2023:"report(ICAP[2024])",
+                                2024:"report(ICAP[2024])"}
 
 
     #----------------------------------------------------------------------------
@@ -722,17 +732,20 @@ def scope():
     
     usa_ma_ets_jur_scope = {2018:usa_ma_ets_jur_I, 2019:usa_ma_ets_jur_I,
                             2020:usa_ma_ets_jur_I, 2021:usa_ma_ets_jur_I,
-                            2022:usa_ma_ets_jur_I}
+                            2022:usa_ma_ets_jur_I, 2023:usa_ma_ets_jur_I,
+                            2024:usa_ma_ets_jur_I}
     
     usa_ma_ets_ipcc_scope = {2018:usa_ma_ets_ipcc_I, 2019:usa_ma_ets_ipcc_I,
                              2020:usa_ma_ets_ipcc_I, 2021:usa_ma_ets_ipcc_I,
-                             2022:usa_ma_ets_ipcc_I}
+                             2022:usa_ma_ets_ipcc_I, 2023:usa_ma_ets_ipcc_I,
+                            2024:usa_ma_ets_ipcc_I}
     
     ## Sources dictionary
     
     usa_ma_ets_scope_sources = {2018:"leg(MA[2017])", 2019:"leg(MA[2017])", 
                                 2020:"leg(MA[2017])", 2021:"leg(MA[2017])",
-                                2022:"leg(MA[2017])"}
+                                2022:"leg(MA[2017])", 2023:"leg(MA[2017])",
+                                2024:"leg(MA[2017])"}
 
     #------------------------------------------------------------------------
     # USA-Washington
@@ -750,9 +763,9 @@ def scope():
                          "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
                          "2G3", "2G4", "2H1", "2H2", "2H3"]
 
-    usa_wa_ets_jur_scope = {2023:usa_wa_ets_jur_I}
+    usa_wa_ets_jur_scope = {2023:usa_wa_ets_jur_I, 2024:usa_wa_ets_jur_I}
     
-    usa_wa_ets_ipcc_scope = {2023:usa_wa_ets_ipcc_I}
+    usa_wa_ets_ipcc_scope = {2023:usa_wa_ets_ipcc_I, 2024:usa_wa_ets_ipcc_I}
 
     ## Sources dictionary
     
