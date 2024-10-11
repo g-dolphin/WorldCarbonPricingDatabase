@@ -28,16 +28,19 @@ def scope():
 
     ## scope dictionaries
     arg_tax_jur_scope = {2018:arg_tax_jur_I, 2019:arg_tax_jur_I, 
-                            2020:arg_tax_jur_I, 2021:arg_tax_jur_I,
-                            2022:arg_tax_jur_I}
+                         2020:arg_tax_jur_I, 2021:arg_tax_jur_I,
+                         2022:arg_tax_jur_I, 2023:arg_tax_jur_I,
+                         2024:arg_tax_jur_I}
     
     arg_tax_ipcc_scope = {2018:arg_tax_ipcc_I, 2019:arg_tax_ipcc_I, 
-                             2020:arg_tax_ipcc_I, 2021:arg_tax_ipcc_I,
-                             2022:arg_tax_ipcc_I}     
+                          2020:arg_tax_ipcc_I, 2021:arg_tax_ipcc_I,
+                          2022:arg_tax_ipcc_I, 2023:arg_tax_ipcc_I,
+                          2024:arg_tax_ipcc_I}     
 
     arg_tax_fuel_scope = {2018:arg_tax_fuel_I, 2019:arg_tax_fuel_II, 
-                             2020:arg_tax_fuel_II, 2021:arg_tax_fuel_II,
-                             2022:arg_tax_fuel_II} 
+                          2020:arg_tax_fuel_II, 2021:arg_tax_fuel_II,
+                          2022:arg_tax_fuel_II, 2023:arg_tax_fuel_II,
+                          2024:arg_tax_fuel_II} 
     
     ## Sources dictionary
     
@@ -45,7 +48,9 @@ def scope():
                              2019:"leg(AR[2017),report(WB[2018]])", 
                              2020:"leg(AR[2017),report(WB[2018]])",
                              2021:"leg(AR[2017),report(WB[2018]])",
-                             2022:"leg(AR[2017),db(WBCPD[2023]])"}
+                             2022:"leg(AR[2017),db(WBCPD[2023]])",
+                             2023:"leg(AR[2017),db(WBCPD[2024]])", 
+                             2024:"leg(AR[2017),db(WBCPD[2024]])"}
 
     
     #----------------------------------------------------------------------------
@@ -104,21 +109,25 @@ def scope():
     ## scope dictionaries
     chl_tax_jur_scope = {2017:chl_tax_jur_I, 2018:chl_tax_jur_I, 
                          2019:chl_tax_jur_I, 2020:chl_tax_jur_I, 
-                         2021:chl_tax_jur_I, 2022:chl_tax_jur_I}
+                         2021:chl_tax_jur_I, 2022:chl_tax_jur_I,
+                         2023:chl_tax_jur_I, 2024:chl_tax_jur_I}
     
     chl_tax_ipcc_scope = {2017:chl_tax_ipcc_I, 2018:chl_tax_ipcc_I, 
                           2019:chl_tax_ipcc_I, 2020:chl_tax_ipcc_I, 
-                          2021:chl_tax_ipcc_I, 2022:chl_tax_ipcc_I}     
+                          2021:chl_tax_ipcc_I, 2022:chl_tax_ipcc_I,
+                          2023:chl_tax_ipcc_I, 2024:chl_tax_ipcc_I}     
 
     chl_tax_fuel_scope = {2017:chl_tax_fuel_I, 2018:chl_tax_fuel_I, 
                           2019:chl_tax_fuel_I, 2020:chl_tax_fuel_I, 
-                          2021:chl_tax_fuel_I, 2022:chl_tax_fuel_I} 
+                          2021:chl_tax_fuel_I, 2022:chl_tax_fuel_I,
+                          2023:chl_tax_fuel_I, 2024:chl_tax_fuel_I} 
 
     ## Sources dictionary
     
     chl_tax_scope_sources = {2017:"report(WB[2017])", 2018:"report(WB[2018])", 
                              2019:"report(WB[2018])", 2020:"report(WB[2018])",
-                             2021:"report(WB[2021])", 2022:"db(WBCPD[2023])"}
+                             2021:"report(WB[2021])", 2022:"db(WBCPD[2023])",
+                             2023:"report(WB[2024])", 2024:"db(WBCPD[2024])"}
     
     #----------------------------------------------------------------------------
 
@@ -159,10 +168,10 @@ def scope():
     
     # initial scope
     can_bc_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
-                     "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
-                     "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B", "1A3C",
-                     "1A3D2", "1A3E1", "1A4A", "1A4B", "1A4C1",
-                     "1A4C2", "1A4C3", "1A5A", "1A5B", "1A5C"]
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
+                         "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B", "1A3C",
+                         "1A3D2", "1A3E1", "1A4A", "1A4B", "1A4C1",
+                         "1A4C2", "1A4C3", "1A5A", "1A5B", "1A5C"]
 
     ## Fuels
     
@@ -232,20 +241,24 @@ def scope():
     ## Fuels
     
     col_tax_fuel_I = ["Oil", "Natural gas"]
+    col_tax_fuel_II = ["Oil", "Natural gas", "Coal"]
 
     ## scope dictionaries
     
     col_tax_jur_scope = {2017:col_tax_jur_I, 2018:col_tax_jur_I, 
                          2019:col_tax_jur_I, 2020:col_tax_jur_I, 
-                         2021:col_tax_jur_I, 2022:col_tax_jur_I}
+                         2021:col_tax_jur_I, 2022:col_tax_jur_I,
+                         2023:col_tax_jur_I, 2024:col_tax_jur_I}
     
     col_tax_ipcc_scope = {2017:col_tax_ipcc_I, 2018:col_tax_ipcc_I, 
                           2019:col_tax_ipcc_I, 2020:col_tax_ipcc_I, 
-                          2021:col_tax_ipcc_I, 2022:col_tax_ipcc_I}     
+                          2021:col_tax_ipcc_I, 2022:col_tax_ipcc_I,
+                          2023:col_tax_ipcc_I, 2024:col_tax_ipcc_I}     
 
     col_tax_fuel_scope = {2017:col_tax_fuel_I, 2018:col_tax_fuel_I, 
                           2019:col_tax_fuel_I, 2020:col_tax_fuel_I, 
-                          2021:col_tax_fuel_I, 2022:col_tax_fuel_I}     
+                          2021:col_tax_fuel_I, 2022:col_tax_fuel_I,
+                          2023:col_tax_fuel_II, 2024:col_tax_fuel_II}     
 
     ## Sources dictionary
     
@@ -254,7 +267,9 @@ def scope():
                              2019:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])", 
                              2020:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])",
                              2021:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])",
-                             2022:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017]), db(WBCPD[2023])"}
+                             2022:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017]), db(WBCPD[2023])",
+                             2023:"gvt(COL-DIAN[2022]), db(WBCPD[2024])",
+                             2024:"gvt(COL-DIAN[2022]), db(WBCPD[2024])"}
 
     #----------------------------------------------------------------------------
 
