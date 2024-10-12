@@ -6,6 +6,9 @@ Created on Mon Jul 26 07:54:30 2021
 @author: gd
 """
     
+def create_scope_dict(years, data):
+    return {year: data for year in years}
+
 def scope():    
     # Argentina
     
@@ -27,21 +30,13 @@ def scope():
     arg_tax_fuel_II = ["Oil", "Coal"]
 
     ## scope dictionaries
-    arg_tax_jur_scope = {2018:arg_tax_jur_I, 2019:arg_tax_jur_I, 
-                         2020:arg_tax_jur_I, 2021:arg_tax_jur_I,
-                         2022:arg_tax_jur_I, 2023:arg_tax_jur_I,
-                         2024:arg_tax_jur_I}
+    arg_tax_jur_scope = {year: arg_tax_jur_I for year in range(2018, 2025)}
     
-    arg_tax_ipcc_scope = {2018:arg_tax_ipcc_I, 2019:arg_tax_ipcc_I, 
-                          2020:arg_tax_ipcc_I, 2021:arg_tax_ipcc_I,
-                          2022:arg_tax_ipcc_I, 2023:arg_tax_ipcc_I,
-                          2024:arg_tax_ipcc_I}     
+    arg_tax_ipcc_scope = {year: arg_tax_ipcc_I for year in range(2018, 2025)}     
 
-    arg_tax_fuel_scope = {2018:arg_tax_fuel_I, 2019:arg_tax_fuel_II, 
-                          2020:arg_tax_fuel_II, 2021:arg_tax_fuel_II,
-                          2022:arg_tax_fuel_II, 2023:arg_tax_fuel_II,
-                          2024:arg_tax_fuel_II} 
-    
+    arg_tax_fuel_scope = {2018:arg_tax_fuel_I}
+    arg_tax_fuel_scope.update({year: arg_tax_fuel_II for year in range(2019, 2025)})
+
     ## Sources dictionary
     
     arg_tax_scope_sources = {2018:"leg(AR[2017),report(WB[2018]])", 
@@ -107,20 +102,11 @@ def scope():
     chl_tax_fuel_I = ["Oil", "Coal", "Natural gas"]
 
     ## scope dictionaries
-    chl_tax_jur_scope = {2017:chl_tax_jur_I, 2018:chl_tax_jur_I, 
-                         2019:chl_tax_jur_I, 2020:chl_tax_jur_I, 
-                         2021:chl_tax_jur_I, 2022:chl_tax_jur_I,
-                         2023:chl_tax_jur_I, 2024:chl_tax_jur_I}
-    
-    chl_tax_ipcc_scope = {2017:chl_tax_ipcc_I, 2018:chl_tax_ipcc_I, 
-                          2019:chl_tax_ipcc_I, 2020:chl_tax_ipcc_I, 
-                          2021:chl_tax_ipcc_I, 2022:chl_tax_ipcc_I,
-                          2023:chl_tax_ipcc_I, 2024:chl_tax_ipcc_I}     
+    chl_tax_jur_scope = {year:chl_tax_jur_I for year in range(2017, 2025)}
 
-    chl_tax_fuel_scope = {2017:chl_tax_fuel_I, 2018:chl_tax_fuel_I, 
-                          2019:chl_tax_fuel_I, 2020:chl_tax_fuel_I, 
-                          2021:chl_tax_fuel_I, 2022:chl_tax_fuel_I,
-                          2023:chl_tax_fuel_I, 2024:chl_tax_fuel_I} 
+    chl_tax_ipcc_scope = {year:chl_tax_ipcc_I for year in range(2017, 2025)}
+
+    chl_tax_fuel_scope = {year:chl_tax_fuel_I for year in range(2017, 2025)}
 
     ## Sources dictionary
     
@@ -179,50 +165,16 @@ def scope():
 
     ## scope dictionaries
     
-    can_bc_tax_jur_scope = {2008:can_bc_tax_jur_I, 2009:can_bc_tax_jur_I,
-                            2010:can_bc_tax_jur_I, 2011:can_bc_tax_jur_I,
-                            2012:can_bc_tax_jur_I, 2013:can_bc_tax_jur_I,
-                            2014:can_bc_tax_jur_I, 2015:can_bc_tax_jur_I,
-                            2016:can_bc_tax_jur_I, 2017:can_bc_tax_jur_I,
-                            2018:can_bc_tax_jur_I, 2019:can_bc_tax_jur_I, 
-                            2020:can_bc_tax_jur_I, 2021:can_bc_tax_jur_I,
-                            2022:can_bc_tax_jur_I}
+    can_bc_tax_jur_scope = {year:can_bc_tax_jur_I for year in range(2008, 2023)}
     
-    can_bc_tax_ipcc_scope = {2008:can_bc_tax_ipcc_I, 2009:can_bc_tax_ipcc_I,
-                             2010:can_bc_tax_ipcc_I, 2011:can_bc_tax_ipcc_I,
-                             2012:can_bc_tax_ipcc_I, 2013:can_bc_tax_ipcc_I,
-                             2014:can_bc_tax_ipcc_I, 2015:can_bc_tax_ipcc_I,
-                             2016:can_bc_tax_ipcc_I, 2017:can_bc_tax_ipcc_I,
-                             2018:can_bc_tax_ipcc_I, 2019:can_bc_tax_ipcc_I, 
-                             2020:can_bc_tax_ipcc_I, 2021:can_bc_tax_ipcc_I,
-                             2022:can_bc_tax_ipcc_I}
+    can_bc_tax_ipcc_scope = {year:can_bc_tax_ipcc_I for year in range(2008, 2023)}
     
-    can_bc_tax_fuel_scope = {2008:can_bc_tax_fuel_I, 2009:can_bc_tax_fuel_I,
-                             2010:can_bc_tax_fuel_I, 2011:can_bc_tax_fuel_I,
-                             2012:can_bc_tax_fuel_I, 2013:can_bc_tax_fuel_I,
-                             2014:can_bc_tax_fuel_I, 2015:can_bc_tax_fuel_I,
-                             2016:can_bc_tax_fuel_I, 2017:can_bc_tax_fuel_I,
-                             2018:can_bc_tax_fuel_I, 2019:can_bc_tax_fuel_I, 
-                             2020:can_bc_tax_fuel_I, 2021:can_bc_tax_fuel_I,
-                             2022:can_bc_tax_fuel_I}
+    can_bc_tax_fuel_scope = {year:can_bc_tax_fuel_I for year in range(2008, 2023)}
     
     ## Sources dictionary
     
-    can_bc_tax_scope_sources = {2008:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                2009:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                2010:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                2011:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                2012:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                2013:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                2014:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                2015:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                2016:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                2017:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                2018:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                2019:"leg(BC-CTA[2008]), gvt(BCGOV[2021])", 
-                                2020:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                2021:"leg(BC-CTA[2008]), gvt(BCGOV[2021])",
-                                2022:"leg(BC-CTA[2008]), gvt(BCG)V[2021])"}
+    can_bc_tax_scope_sources = {year:"leg(BC-CTA[2008]), gvt(BCGOV[2021])" for year in range(2008, 2023)}
+
 
     #----------------------------------------------------------------------------
 
@@ -245,31 +197,18 @@ def scope():
 
     ## scope dictionaries
     
-    col_tax_jur_scope = {2017:col_tax_jur_I, 2018:col_tax_jur_I, 
-                         2019:col_tax_jur_I, 2020:col_tax_jur_I, 
-                         2021:col_tax_jur_I, 2022:col_tax_jur_I,
-                         2023:col_tax_jur_I, 2024:col_tax_jur_I}
+    col_tax_jur_scope = {year:col_tax_jur_I for year in range(2017, 2025)}
     
-    col_tax_ipcc_scope = {2017:col_tax_ipcc_I, 2018:col_tax_ipcc_I, 
-                          2019:col_tax_ipcc_I, 2020:col_tax_ipcc_I, 
-                          2021:col_tax_ipcc_I, 2022:col_tax_ipcc_I,
-                          2023:col_tax_ipcc_I, 2024:col_tax_ipcc_I}     
+    col_tax_ipcc_scope = {year:col_tax_ipcc_I for year in range(2017, 2025)}
 
-    col_tax_fuel_scope = {2017:col_tax_fuel_I, 2018:col_tax_fuel_I, 
-                          2019:col_tax_fuel_I, 2020:col_tax_fuel_I, 
-                          2021:col_tax_fuel_I, 2022:col_tax_fuel_I,
-                          2023:col_tax_fuel_II, 2024:col_tax_fuel_II}     
+    col_tax_fuel_scope = {year:col_tax_fuel_I for year in range(2017, 2024)}
+    col_tax_fuel_scope[2024] = col_tax_fuel_II   
 
     ## Sources dictionary
     
-    col_tax_scope_sources = {2017:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])", 
-                             2018:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])", 
-                             2019:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])", 
-                             2020:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])",
-                             2021:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])",
-                             2022:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017]), db(WBCPD[2023])",
-                             2023:"gvt(COL-DIAN[2022]), db(WBCPD[2024])",
-                             2024:"gvt(COL-DIAN[2022]), db(WBCPD[2024])"}
+    col_tax_scope_sources = {year:"report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017])" for year in range(2017, 2022)}
+    col_tax_scope_sources[2022] = "report(OECD-TEU-COL[2019]),gvt(COL-DIAN[2017]), db(WBCPD[2023])"
+    col_tax_scope_sources.update({year: "gvt(COL-DIAN[2022]), db(WBCPD[2024])" for year in range(2023, 2025)})                        
 
     #----------------------------------------------------------------------------
 
@@ -294,90 +233,17 @@ def scope():
     
     ## scope dictionaries
 
-    dnk_tax_jur_scope = {1992:dnk_tax_jur_I,
-                        1993:dnk_tax_jur_I, 1994:dnk_tax_jur_I,
-                        1995:dnk_tax_jur_I, 1996:dnk_tax_jur_I,
-                        1997:dnk_tax_jur_I, 1998:dnk_tax_jur_I,
-                        1999:dnk_tax_jur_I, 2000:dnk_tax_jur_I,
-                        2001:dnk_tax_jur_I, 2002:dnk_tax_jur_I,
-                        2003:dnk_tax_jur_I, 2004:dnk_tax_jur_I,
-                        2005:dnk_tax_jur_I, 2006:dnk_tax_jur_I,
-                        2007:dnk_tax_jur_I, 2008:dnk_tax_jur_I,
-                        2009:dnk_tax_jur_I, 2010:dnk_tax_jur_I,
-                        2011:dnk_tax_jur_I, 2012:dnk_tax_jur_I,
-                        2013:dnk_tax_jur_I, 2014:dnk_tax_jur_I,
-                        2015:dnk_tax_jur_I, 2016:dnk_tax_jur_I,
-                        2017:dnk_tax_jur_I, 2018:dnk_tax_jur_I,
-                        2019:dnk_tax_jur_I, 2020:dnk_tax_jur_I,
-                        2021:dnk_tax_jur_I, 2022:dnk_tax_jur_I}
+    dnk_tax_jur_scope = {year:dnk_tax_jur_I for year in range(1992, 2023)}
 
-    dnk_tax_ipcc_scope = {1992:dnk_tax_ipcc_I,
-                           1993:dnk_tax_ipcc_I, 1994:dnk_tax_ipcc_I,
-                           1995:dnk_tax_ipcc_I, 1996:dnk_tax_ipcc_I,
-                           1997:dnk_tax_ipcc_I, 1998:dnk_tax_ipcc_I,
-                           1999:dnk_tax_ipcc_I, 2000:dnk_tax_ipcc_I,
-                           2001:dnk_tax_ipcc_I, 2002:dnk_tax_ipcc_I,
-                           2003:dnk_tax_ipcc_I, 2004:dnk_tax_ipcc_I,
-                           2005:dnk_tax_ipcc_II, 2006:dnk_tax_ipcc_II,
-                           2007:dnk_tax_ipcc_II, 2008:dnk_tax_ipcc_II,
-                           2009:dnk_tax_ipcc_II, 2010:dnk_tax_ipcc_II,
-                           2011:dnk_tax_ipcc_II, 2012:dnk_tax_ipcc_II,
-                           2013:dnk_tax_ipcc_II, 2014:dnk_tax_ipcc_II,
-                           2015:dnk_tax_ipcc_II, 2016:dnk_tax_ipcc_II,
-                           2017:dnk_tax_ipcc_II, 2018:dnk_tax_ipcc_II,
-                           2019:dnk_tax_ipcc_II, 2020:dnk_tax_ipcc_II,
-                           2021:dnk_tax_ipcc_II, 2022:dnk_tax_ipcc_II}
+    dnk_tax_ipcc_scope = {year:dnk_tax_ipcc_I for year in range(1992, 2005)}
+    dnk_tax_ipcc_scope.update({year: dnk_tax_ipcc_II for year in range(2005, 2023)})
     
-    dnk_tax_fuel_scope = {1992:dnk_tax_I_fuel_I,
-                           1993:dnk_tax_I_fuel_I, 1994:dnk_tax_I_fuel_I,
-                           1995:dnk_tax_I_fuel_I, 1996:dnk_tax_I_fuel_I,
-                           1997:dnk_tax_I_fuel_I, 1998:dnk_tax_I_fuel_I,
-                           1999:dnk_tax_I_fuel_I, 2000:dnk_tax_I_fuel_I,
-                           2001:dnk_tax_I_fuel_I, 2002:dnk_tax_I_fuel_I,
-                           2003:dnk_tax_I_fuel_I, 2004:dnk_tax_I_fuel_I,
-                           2005:dnk_tax_I_fuel_I, 2006:dnk_tax_I_fuel_I,
-                           2007:dnk_tax_I_fuel_I, 2008:dnk_tax_I_fuel_I,
-                           2009:dnk_tax_I_fuel_I, 2010:dnk_tax_I_fuel_I,
-                           2011:dnk_tax_I_fuel_I, 2012:dnk_tax_I_fuel_I,
-                           2013:dnk_tax_I_fuel_I, 2014:dnk_tax_I_fuel_I,
-                           2015:dnk_tax_I_fuel_I, 2016:dnk_tax_I_fuel_I,
-                           2017:dnk_tax_I_fuel_I, 2018:dnk_tax_I_fuel_I,
-                           2019:dnk_tax_I_fuel_I, 2020:dnk_tax_I_fuel_I,
-                           2021:dnk_tax_I_fuel_I, 2022:dnk_tax_I_fuel_I}
+    dnk_tax_fuel_scope = {year: dnk_tax_I_fuel_I for year in range(1992, 2023)}
     
     ## Sources dictionary
     
-    dnk_tax_scope_sources = {1992:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                1993:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                1994:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                1995:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                1996:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                1997:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                1998:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                1999:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2000:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2001:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2002:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2003:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2004:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2005:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2006:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2007:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2008:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2009:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2010:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2011:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2012:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2013:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2014:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2015:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2016:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2017:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2018:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2019:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])", 
-                                2020:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2021:"journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])",
-                                2022:"db(WBCPD[2023])"}
+    dnk_tax_scope_sources = {year: "journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])" for year in range(1992, 2022)}
+    dnk_tax_scope_sources[2022] = "db(WBCPD[2023])"
 
     #----------------------------------------------------------------------------
 
@@ -400,44 +266,11 @@ def scope():
 
     ## scope dictionaries
     
-    est_tax_jur_scope = {2000:est_tax_jur_I, 2001:est_tax_jur_I,
-                         2002:est_tax_jur_I, 2003:est_tax_jur_I,
-                         2004:est_tax_jur_I, 2005:est_tax_jur_I,
-                         2006:est_tax_jur_I, 2007:est_tax_jur_I,
-                         2008:est_tax_jur_I, 2009:est_tax_jur_I,
-                         2010:est_tax_jur_I, 2011:est_tax_jur_I,
-                         2012:est_tax_jur_I, 2013:est_tax_jur_I,
-                         2014:est_tax_jur_I, 2015:est_tax_jur_I,
-                         2016:est_tax_jur_I, 2017:est_tax_jur_I,
-                         2018:est_tax_jur_I, 2019:est_tax_jur_I, 
-                         2020:est_tax_jur_I, 2021:est_tax_jur_I,
-                         2022:est_tax_jur_I}
+    est_tax_jur_scope = {year:est_tax_jur_I for year in range(2000, 2023)}
     
-    est_tax_ipcc_scope = {2000:est_tax_ipcc_I, 2001:est_tax_ipcc_I,
-                          2002:est_tax_ipcc_I, 2003:est_tax_ipcc_I,
-                          2004:est_tax_ipcc_I, 2005:est_tax_ipcc_I,
-                          2006:est_tax_ipcc_I, 2007:est_tax_ipcc_I,
-                          2008:est_tax_ipcc_I, 2009:est_tax_ipcc_I,
-                          2010:est_tax_ipcc_I, 2011:est_tax_ipcc_I,
-                          2012:est_tax_ipcc_I, 2013:est_tax_ipcc_I,
-                          2014:est_tax_ipcc_I, 2015:est_tax_ipcc_I,
-                          2016:est_tax_ipcc_I, 2017:est_tax_ipcc_I,
-                          2018:est_tax_ipcc_I, 2019:est_tax_ipcc_I, 
-                          2020:est_tax_ipcc_I, 2021:est_tax_ipcc_I,
-                          2022:est_tax_ipcc_I}
+    est_tax_ipcc_scope = {year:est_tax_ipcc_I for year in range(2000, 2023)}
     
-    est_tax_fuel_scope = {2000:est_tax_fuel_I, 2001:est_tax_fuel_I,
-                          2002:est_tax_fuel_I, 2003:est_tax_fuel_I,
-                          2004:est_tax_fuel_I, 2005:est_tax_fuel_I,
-                          2006:est_tax_fuel_I, 2007:est_tax_fuel_I,
-                          2008:est_tax_fuel_I, 2009:est_tax_fuel_I,
-                          2010:est_tax_fuel_I, 2011:est_tax_fuel_I,
-                          2012:est_tax_fuel_I, 2013:est_tax_fuel_I,
-                          2014:est_tax_fuel_I, 2015:est_tax_fuel_I,
-                          2016:est_tax_fuel_I, 2017:est_tax_fuel_I,
-                          2018:est_tax_fuel_I, 2019:est_tax_fuel_I, 
-                          2020:est_tax_fuel_I, 2021:est_tax_fuel_I,
-                          2022:est_tax_fuel_I}
+    est_tax_fuel_scope = {year:est_tax_fuel_I for year in range(2000, 2023)}
 
     ## Sources dictionary
     
@@ -487,95 +320,17 @@ def scope():
     
     ## scope dictionaries
 
-    fin_tax_jur_scope = {1990:fin_tax_jur_I,
-                            1991:fin_tax_jur_I, 1992:fin_tax_jur_I,
-                            1993:fin_tax_jur_I, 1994:fin_tax_jur_I,
-                            1995:fin_tax_jur_I, 1996:fin_tax_jur_I,
-                            1997:fin_tax_jur_I, 1998:fin_tax_jur_I,
-                            1999:fin_tax_jur_I, 2000:fin_tax_jur_I,
-                            2001:fin_tax_jur_I, 2002:fin_tax_jur_I,
-                            2003:fin_tax_jur_I, 2004:fin_tax_jur_I,
-                            2005:fin_tax_jur_I, 2006:fin_tax_jur_I,
-                            2007:fin_tax_jur_I, 2008:fin_tax_jur_I,
-                            2009:fin_tax_jur_I, 2010:fin_tax_jur_I,
-                            2011:fin_tax_jur_I, 2012:fin_tax_jur_I,
-                            2013:fin_tax_jur_I, 2014:fin_tax_jur_I,
-                            2015:fin_tax_jur_I, 2016:fin_tax_jur_I,
-                            2017:fin_tax_jur_I, 2018:fin_tax_jur_I,
-                            2019:fin_tax_jur_I, 2020:fin_tax_jur_I,
-                            2021:fin_tax_jur_I, 2022:fin_tax_jur_I}
+    fin_tax_jur_scope = {year:fin_tax_jur_I for year in range(1990, 2023)}
 
-    fin_tax_ipcc_scope = {1990:fin_tax_ipcc_I,
-                           1991:fin_tax_ipcc_I, 1992:fin_tax_ipcc_I,
-                           1993:fin_tax_ipcc_I, 1994:fin_tax_ipcc_I,
-                           1995:fin_tax_ipcc_I, 1996:fin_tax_ipcc_I,
-                           1997:fin_tax_ipcc_I, 1998:fin_tax_ipcc_I,
-                           1999:fin_tax_ipcc_I, 2000:fin_tax_ipcc_I,
-                           2001:fin_tax_ipcc_I, 2002:fin_tax_ipcc_I,
-                           2003:fin_tax_ipcc_I, 2004:fin_tax_ipcc_I,
-                           2005:fin_tax_ipcc_II, 2006:fin_tax_ipcc_II,
-                           2007:fin_tax_ipcc_II, 2008:fin_tax_ipcc_II,
-                           2009:fin_tax_ipcc_II, 2010:fin_tax_ipcc_II,
-                           2011:fin_tax_ipcc_II, 2012:fin_tax_ipcc_II,
-                           2013:fin_tax_ipcc_II, 2014:fin_tax_ipcc_II,
-                           2015:fin_tax_ipcc_II, 2016:fin_tax_ipcc_II,
-                           2017:fin_tax_ipcc_II, 2018:fin_tax_ipcc_II,
-                           2019:fin_tax_ipcc_II, 2020:fin_tax_ipcc_II,
-                           2021:fin_tax_ipcc_II, 2022:fin_tax_ipcc_II}
+    fin_tax_ipcc_scope = {year:fin_tax_ipcc_I for year in range(1990, 2005)}
+    fin_tax_ipcc_scope.update({year: fin_tax_ipcc_II for year in range(2005, 2023)})
     
-    fin_tax_fuel_scope = {1990:fin_tax_I_fuel_I,
-                           1991:fin_tax_I_fuel_I, 1992:fin_tax_I_fuel_I,
-                           1993:fin_tax_I_fuel_I, 1994:fin_tax_I_fuel_I,
-                           1995:fin_tax_I_fuel_I, 1996:fin_tax_I_fuel_I,
-                           1997:fin_tax_I_fuel_I, 1998:fin_tax_I_fuel_I,
-                           1999:fin_tax_I_fuel_I, 2000:fin_tax_I_fuel_I,
-                           2001:fin_tax_I_fuel_I, 2002:fin_tax_I_fuel_I,
-                           2003:fin_tax_I_fuel_I, 2004:fin_tax_I_fuel_I,
-                           2005:fin_tax_I_fuel_I, 2006:fin_tax_I_fuel_I,
-                           2007:fin_tax_I_fuel_I, 2008:fin_tax_I_fuel_I,
-                           2009:fin_tax_I_fuel_I, 2010:fin_tax_I_fuel_I,
-                           2011:fin_tax_I_fuel_I, 2012:fin_tax_I_fuel_I,
-                           2013:fin_tax_I_fuel_I, 2014:fin_tax_I_fuel_I,
-                           2015:fin_tax_I_fuel_I, 2016:fin_tax_I_fuel_I,
-                           2017:fin_tax_I_fuel_I, 2018:fin_tax_I_fuel_I,
-                           2019:fin_tax_I_fuel_I, 2020:fin_tax_I_fuel_I,
-                           2021:fin_tax_I_fuel_I, 2022:fin_tax_I_fuel_I}
-    
+    fin_tax_fuel_scope = {1990:fin_tax_I_fuel_I for year in range(1990, 2023)}
+
     ## Sources dictionary
     
-    fin_tax_scope_sources = {1990:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                1991:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                1992:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                1993:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                1994:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                1995:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                1996:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                1997:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                1998:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                1999:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2000:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2001:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2002:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2003:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2004:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2005:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2006:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2007:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2008:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2009:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2010:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2011:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2012:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2013:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2014:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2015:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2016:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2017:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2018:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2019:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])", 
-                                2020:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2021:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])",
-                                2022:"db(WBCPD[2023])"}
+    fin_tax_scope_sources = {1990:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])" for year in range(1990, 2023)}
+    fin_tax_scope_sources[2022] = "db(WBCPD[2023])"
 
     #----------------------------------------------------------------------------
 
@@ -601,36 +356,21 @@ def scope():
 
     ## scope dictionaries
     
-    fra_tax_jur_scope = {2014:fra_tax_jur_I, 2015:fra_tax_jur_I,
-                         2016:fra_tax_jur_I, 2017:fra_tax_jur_I,
-                         2018:fra_tax_jur_I, 2019:fra_tax_jur_I, 
-                         2020:fra_tax_jur_I, 2021:fra_tax_jur_I,
-                         2022:fra_tax_jur_I}
+    fra_tax_jur_scope = {year:fra_tax_jur_I for year in range(2014, 2025)}
     
-    fra_tax_ipcc_scope = {2014:fra_tax_ipcc_I, 2015:fra_tax_ipcc_II,
-                          2016:fra_tax_ipcc_II, 2017:fra_tax_ipcc_II,
-                          2018:fra_tax_ipcc_II, 2019:fra_tax_ipcc_II, 
-                          2020:fra_tax_ipcc_II, 2021:fra_tax_ipcc_II,
-                          2022:fra_tax_ipcc_II}
+    fra_tax_ipcc_scope = {2014: fra_tax_ipcc_I}
+    fra_tax_ipcc_scope.update({year: fra_tax_ipcc_II for year in range(2015, 2025)})
     
-    fra_tax_fuel_scope = {2014:fra_tax_fuel_I, 2015:fra_tax_fuel_I,
-                          2016:fra_tax_fuel_I, 2017:fra_tax_fuel_I,
-                          2018:fra_tax_fuel_I, 2019:fra_tax_fuel_I, 
-                          2020:fra_tax_fuel_I, 2021:fra_tax_fuel_I,
-                          2022:fra_tax_fuel_I}
+    fra_tax_fuel_scope = {year:fra_tax_fuel_I for year in range(2014, 2025)}
 
     ## Sources dictionary
     
-    fra_tax_scope_sources = {2014:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])", 
-                              2015:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])", 
-                              2016:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",
-                              2017:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])", 
-                              2018:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])", 
-                              2019:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])", 
-                              2020:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",
-                              2021:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])",
-                              2021:"db(WBCPD[2023]),gvt(FRA[2019]),leg(FRA[2014])",
-                              2022:"db(WBCPD[2023])"}
+    fra_tax_scope_sources = {2014:"report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019])"}
+    fra_tax_scope_sources.update({year: "report(WB[2017]),news(LE-FRA[2020]),gvt(FRA[2019]),leg(FRA[2014])" for year in range(2015, 2021)})
+    fra_tax_scope_sources[2021] = "db(WBCPD[2023]),gvt(FRA[2019]),leg(FRA[2014])"
+    fra_tax_scope_sources[2022] = "db(WBCPD[2023])"
+    fra_tax_scope_sources[2023] = "db(WBCPD[2024])"
+    fra_tax_scope_sources[2024] = "db(WBCPD[2024])"
 
     #----------------------------------------------------------------------------
 
@@ -654,45 +394,17 @@ def scope():
 
     ## scope dictionaries
     
-    isl_tax_jur_scope = {2010:isl_tax_jur_I, 2011:isl_tax_jur_I,
-                            2012:isl_tax_jur_I, 2013:isl_tax_jur_I,
-                            2014:isl_tax_jur_I, 2015:isl_tax_jur_I,
-                            2016:isl_tax_jur_I, 2017:isl_tax_jur_I,
-                            2018:isl_tax_jur_I, 2019:isl_tax_jur_I, 
-                            2020:isl_tax_jur_I, 2021:isl_tax_jur_I,
-                            2022:isl_tax_jur_I}
+    isl_tax_jur_scope = {year:isl_tax_jur_I for year in range(2010, 2025)}
     
-    isl_tax_ipcc_scope = {2010:isl_tax_ipcc_I, 2011:isl_tax_ipcc_I,
-                             2012:isl_tax_ipcc_I, 2013:isl_tax_ipcc_I,
-                             2014:isl_tax_ipcc_I, 2015:isl_tax_ipcc_I,
-                             2016:isl_tax_ipcc_I, 2017:isl_tax_ipcc_I,
-                             2018:isl_tax_ipcc_I, 2019:isl_tax_ipcc_I, 
-                             2020:isl_tax_ipcc_I, 2021:isl_tax_ipcc_I,
-                             2022:isl_tax_ipcc_I}
+    isl_tax_ipcc_scope = {year:isl_tax_ipcc_I for year in range(2010, 2025)}
     
-    isl_tax_fuel_scope = {2010:isl_tax_fuel_I, 2011:isl_tax_fuel_I,
-                             2012:isl_tax_fuel_I, 2013:isl_tax_fuel_II,
-                             2014:isl_tax_fuel_II, 2015:isl_tax_fuel_II,
-                             2016:isl_tax_fuel_II, 2017:isl_tax_fuel_II,
-                             2018:isl_tax_fuel_II, 2019:isl_tax_fuel_II, 
-                             2020:isl_tax_fuel_II, 2021:isl_tax_fuel_II,
-                             2022:isl_tax_fuel_II}
+    isl_tax_fuel_scope = {year: isl_tax_fuel_I for year in range(2010, 2013)}
+    isl_tax_fuel_scope.update({year: isl_tax_fuel_II for year in range(2013, 2025)})                       
 
     ## Sources dictionary
     
-    isl_tax_scope_sources = {2010:"leg(ISL-ENRTA[2009])", 
-                                2011:"leg(ISL-ENRTA[2009])", 
-                                2012:"leg(ISL-ENRTA[2009])",
-                                2013:"leg(ISL-ENRTA[2009])", 
-                                2014:"leg(ISL-ENRTA[2009])", 
-                                2015:"leg(ISL-ENRTA[2009])", 
-                                2016:"leg(ISL-ENRTA[2009])",
-                                2017:"leg(ISL-ENRTA[2009])", 
-                                2018:"leg(ISL-ENRTA[2009])", 
-                                2019:"leg(ISL-ENRTA[2009])", 
-                                2020:"leg(ISL-ENRTA[2009])",
-                                2021:"leg(ISL-ENRTA[2009])",
-                                2022:"leg(ISL-ENRTA[2009])"}
+    isl_tax_scope_sources = {year: "leg(ISL-ENRTA[2009])" for year in range(2010, 2023)} 
+    isl_tax_scope_sources.update({year: "leg(ISL-ENRTA[2009]), db(WBCPD[2024])" for year in range(2023, 2025)})
 
     #----------------------------------------------------------------------------
 
@@ -715,39 +427,18 @@ def scope():
 
     ## scope dictionaries
     
-    irl_tax_jur_scope = {2010:irl_tax_jur_I, 2011:irl_tax_jur_I,
-                            2012:irl_tax_jur_I, 2013:irl_tax_jur_I,
-                            2014:irl_tax_jur_I, 2015:irl_tax_jur_I,
-                            2016:irl_tax_jur_I, 2017:irl_tax_jur_I,
-                            2018:irl_tax_jur_I, 2019:irl_tax_jur_I, 
-                            2020:irl_tax_jur_I, 2021:irl_tax_jur_I,
-                            2022:irl_tax_jur_I}
+    irl_tax_jur_scope = {year: irl_tax_jur_I for year in range(2010, 2023)}
     
-    irl_tax_ipcc_scope = {2010:irl_tax_ipcc_I, 2011:irl_tax_ipcc_I,
-                             2012:irl_tax_ipcc_I, 2013:irl_tax_ipcc_I,
-                             2014:irl_tax_ipcc_I, 2015:irl_tax_ipcc_I,
-                             2016:irl_tax_ipcc_I, 2017:irl_tax_ipcc_I,
-                             2018:irl_tax_ipcc_I, 2019:irl_tax_ipcc_I, 
-                             2020:irl_tax_ipcc_I, 2021:irl_tax_ipcc_I,
-                             2022:irl_tax_ipcc_I}
+    irl_tax_ipcc_scope = {year: irl_tax_ipcc_I for year in range(2010, 2023)}
     
-    irl_tax_fuel_scope = {2010:irl_tax_fuel_I, 2011:irl_tax_fuel_I,
-                             2012:irl_tax_fuel_I, 2013:irl_tax_fuel_II,
-                             2014:irl_tax_fuel_II, 2015:irl_tax_fuel_I,
-                             2016:irl_tax_fuel_II, 2017:irl_tax_fuel_II,
-                             2018:irl_tax_fuel_II, 2019:irl_tax_fuel_II, 
-                             2020:irl_tax_fuel_II, 2021:irl_tax_fuel_II,
-                             2022:irl_tax_fuel_II}
-    
+    irl_tax_fuel_scope = {year: irl_tax_fuel_I for year in range(2010, 2013)}
+    irl_tax_fuel_scope.update({year: irl_tax_fuel_II for year in range(2014, 2015)})
+    irl_tax_fuel_scope[2015] = irl_tax_fuel_I
+    irl_tax_fuel_scope.update({year: irl_tax_fuel_II for year in range(2016, 2023)}) 
+
     ## Sources dictionary
     
-    irl_tax_scope_sources = {2010:"leg(IRL-FA[2010])", 2011:"leg(IRL-FA[2010])", 
-                                2012:"leg(IRL-FA[2010])", 2013:"leg(IRL-FA[2010])", 
-                                2014:"leg(IRL-FA[2010])", 2015:"leg(IRL-FA[2010])", 
-                                2016:"leg(IRL-FA[2010])", 2017:"leg(IRL-FA[2010])", 
-                                2018:"leg(IRL-FA[2010])", 2019:"leg(IRL-FA[2010])", 
-                                2020:"leg(IRL-FA[2010])", 2021:"leg(IRL-FA[2010])",
-                                2022:"leg(IRL-FA[2010])"}
+    irl_tax_scope_sources = {year:"leg(IRL-FA[2010])" for year in range(2010, 2023)}
 
     #----------------------------------------------------------------------------
 
@@ -771,40 +462,15 @@ def scope():
 
     ## scope dictionaries
     
-    jpn_tax_jur_scope = {2012:jpn_tax_jur_I, 2013:jpn_tax_jur_I,
-                            2014:jpn_tax_jur_I, 2015:jpn_tax_jur_I,
-                            2016:jpn_tax_jur_I, 2017:jpn_tax_jur_I,
-                            2018:jpn_tax_jur_I, 2019:jpn_tax_jur_I, 
-                            2020:jpn_tax_jur_I, 2021:jpn_tax_jur_I,
-                            2022:jpn_tax_jur_I}
+    jpn_tax_jur_scope = {year: jpn_tax_jur_I for year in range(2012, 2023)}
     
-    jpn_tax_ipcc_scope = {2012:jpn_tax_ipcc_I, 2013:jpn_tax_ipcc_I,
-                             2014:jpn_tax_ipcc_I, 2015:jpn_tax_ipcc_I,
-                             2016:jpn_tax_ipcc_I, 2017:jpn_tax_ipcc_I,
-                             2018:jpn_tax_ipcc_I, 2019:jpn_tax_ipcc_I, 
-                             2020:jpn_tax_ipcc_I, 2021:jpn_tax_ipcc_I,
-                             2022:jpn_tax_ipcc_I}
+    jpn_tax_ipcc_scope = {year: jpn_tax_ipcc_I for year in range(2012, 2023)}
     
-    jpn_tax_fuel_scope = {2012:jpn_tax_fuel_I, 2013:jpn_tax_fuel_I,
-                             2014:jpn_tax_fuel_I, 2015:jpn_tax_fuel_I,
-                             2016:jpn_tax_fuel_I, 2017:jpn_tax_fuel_I,
-                             2018:jpn_tax_fuel_I, 2019:jpn_tax_fuel_I, 
-                             2020:jpn_tax_fuel_I, 2021:jpn_tax_fuel_I,
-                             2022:jpn_tax_fuel_I}
+    jpn_tax_fuel_scope = {2012:jpn_tax_fuel_I for year in range(2012, 2023)}
     
     ## Sources dictionary
     
-    jpn_tax_scope_sources = {2012:"leg(JP[2012]), gvt(MEJ-CT[2014])",
-                                2013:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
-                                2014:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
-                                2015:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
-                                2016:"leg(JP[2012]), gvt(MEJ-CT[2014])",
-                                2017:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
-                                2018:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
-                                2019:"leg(JP[2012]), gvt(MEJ-CT[2014])", 
-                                2020:"leg(JP[2012]), gvt(MEJ-CT[2014])",
-                                2021:"leg(JP[2012]), gvt(MEJ-CT[2014])",
-                                2022:"leg(JP[2012]), gvt(MEJ-CT[2014])"}
+    jpn_tax_scope_sources = {year: "leg(JP[2012]), gvt(MEJ-CT[2014])" for year in range(2012, 2023)}
 
     #----------------------------------------------------------------------------
 
@@ -827,51 +493,15 @@ def scope():
 
     ## scope dictionaries
     
-    lva_tax_jur_scope = {2004:lva_tax_jur_I, 2005:lva_tax_jur_I,
-                            2006:lva_tax_jur_I, 2007:lva_tax_jur_I,
-                            2008:lva_tax_jur_I, 2009:lva_tax_jur_I,
-                            2010:lva_tax_jur_I, 2011:lva_tax_jur_I,
-                            2012:lva_tax_jur_I, 2013:lva_tax_jur_I,
-                            2014:lva_tax_jur_I, 2015:lva_tax_jur_I,
-                            2016:lva_tax_jur_I, 2017:lva_tax_jur_I,
-                            2018:lva_tax_jur_I, 2019:lva_tax_jur_I, 
-                            2020:lva_tax_jur_I, 2021:lva_tax_jur_I,
-                            2022:lva_tax_jur_I}
+    lva_tax_jur_scope = {year:lva_tax_jur_I for year in range(2004, 2023)}
     
-    lva_tax_ipcc_scope = {2004:lva_tax_ipcc_I, 2005:lva_tax_ipcc_I,
-                             2006:lva_tax_ipcc_I, 2007:lva_tax_ipcc_I,
-                             2008:lva_tax_ipcc_I, 2009:lva_tax_ipcc_I,
-                             2010:lva_tax_ipcc_I, 2011:lva_tax_ipcc_I,
-                             2012:lva_tax_ipcc_I, 2013:lva_tax_ipcc_I,
-                             2014:lva_tax_ipcc_I, 2015:lva_tax_ipcc_I,
-                             2016:lva_tax_ipcc_I, 2017:lva_tax_ipcc_I,
-                             2018:lva_tax_ipcc_I, 2019:lva_tax_ipcc_I, 
-                             2020:lva_tax_ipcc_I, 2021:lva_tax_ipcc_I,
-                             2022:lva_tax_ipcc_I}
+    lva_tax_ipcc_scope = {year:lva_tax_ipcc_I for year in range(2012, 2023)}
     
-    lva_tax_fuel_scope = {2004:lva_tax_fuel_I, 2005:lva_tax_fuel_I,
-                             2006:lva_tax_fuel_I, 2007:lva_tax_fuel_I,
-                             2008:lva_tax_fuel_I, 2009:lva_tax_fuel_I,
-                             2010:lva_tax_fuel_I, 2011:lva_tax_fuel_I,
-                             2012:lva_tax_fuel_I, 2013:lva_tax_fuel_I,
-                             2014:lva_tax_fuel_I, 2015:lva_tax_fuel_I,
-                             2016:lva_tax_fuel_I, 2017:lva_tax_fuel_I,
-                             2018:lva_tax_fuel_I, 2019:lva_tax_fuel_I, 
-                             2020:lva_tax_fuel_I, 2021:lva_tax_fuel_I,
-                             2022:lva_tax_fuel_I}
+    lva_tax_fuel_scope = {year:lva_tax_fuel_I for year in range(2012, 2023)}
 
     ## Sources dictionary
     
-    lva_tax_scope_sources = {2004:"leg(LV-NRTL[2005])", 2005:"leg(LV-NRTL[2005])", 
-                                2006:"leg(LV-NRTL[2005])", 2007:"leg(LV-NRTL[2005])", 
-                                2008:"leg(LV-NRTL[2005])", 2009:"leg(LV-NRTL[2005])",
-                                2010:"leg(LV-NRTL[2005])", 2011:"leg(LV-NRTL[2005])", 
-                                2012:"leg(LV-NRTL[2005])", 2013:"leg(LV-NRTL[2005])", 
-                                2014:"leg(LV-NRTL[2005])", 2015:"leg(LV-NRTL[2005])", 
-                                2016:"leg(LV-NRTL[2005])", 2017:"leg(LV-NRTL[2005])", 
-                                2018:"leg(LV-NRTL[2005])", 2019:"leg(LV-NRTL[2005])", 
-                                2020:"leg(LV-NRTL[2005])", 2021:"leg(LV-NRTL[2005])",
-                                2022:"leg(LV-NRTL[2005])"}
+    lva_tax_scope_sources = {year:"leg(LV-NRTL[2005])" for year in range(2012, 2023)}
 
     #----------------------------------------------------------------------------
 
@@ -892,50 +522,16 @@ def scope():
 
     ## scope dictionaries
     
-    lie_tax_jur_scope = {2008:lie_tax_jur_I, 2009:lie_tax_jur_I,
-                            2010:lie_tax_jur_I, 2011:lie_tax_jur_I,
-                            2012:lie_tax_jur_I, 2013:lie_tax_jur_I,
-                            2014:lie_tax_jur_I, 2015:lie_tax_jur_I,
-                            2016:lie_tax_jur_I, 2017:lie_tax_jur_I,
-                            2018:lie_tax_jur_I, 2019:lie_tax_jur_I, 
-                            2020:lie_tax_jur_I, 2021:lie_tax_jur_I,
-                            2022:lie_tax_jur_I}
+    lie_tax_jur_scope = {year:lie_tax_jur_I for year in range(2008, 2023)}
+
+    lie_tax_ipcc_scope = {year:lie_tax_ipcc_I for year in range(2008, 2023)}
     
-    lie_tax_ipcc_scope = {2008:lie_tax_ipcc_I, 2009:lie_tax_ipcc_I,
-                             2010:lie_tax_ipcc_I, 2011:lie_tax_ipcc_I,
-                             2012:lie_tax_ipcc_I, 2013:lie_tax_ipcc_I,
-                             2014:lie_tax_ipcc_I, 2015:lie_tax_ipcc_I,
-                             2016:lie_tax_ipcc_I, 2017:lie_tax_ipcc_I,
-                             2018:lie_tax_ipcc_I, 2019:lie_tax_ipcc_I, 
-                             2020:lie_tax_ipcc_I, 2021:lie_tax_ipcc_I,
-                             2022:lie_tax_ipcc_I}
-    
-    lie_tax_fuel_scope = {2008:lie_tax_fuel_I, 2009:lie_tax_fuel_I,
-                             2010:lie_tax_fuel_I, 2011:lie_tax_fuel_I,
-                             2012:lie_tax_fuel_I, 2013:lie_tax_fuel_I,
-                             2014:lie_tax_fuel_I, 2015:lie_tax_fuel_I,
-                             2016:lie_tax_fuel_I, 2017:lie_tax_fuel_I,
-                             2018:lie_tax_fuel_I, 2019:lie_tax_fuel_I, 
-                             2020:lie_tax_fuel_I, 2021:lie_tax_fuel_I,
-                             2022:lie_tax_fuel_I}
+    lie_tax_fuel_scope = {year:lie_tax_fuel_I for year in range(2008, 2023)}
     
     ## Sources dictionary
     
-    lie_tax_scope_sources = {2008:"gvt(CH[2005], CH[2009])", 
-                                2009:"gvt(CH[2005], CH[2009])",
-                                2010:"gvt(CH[2005], CH[2009])", 
-                                2011:"gvt(CH[2005], CH[2009])", 
-                                2012:"gvt(CH[2005], CH[2009])",
-                                2013:"gvt(CH[2005], CH[2009])", 
-                                2014:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2015:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2016:"leg(CHE-CO2[2013], CHE-FARC[2013])",
-                                2017:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2018:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2019:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2020:"leg(CHE-CO2[2013], CHE-FARC[2013])",
-                                2021:"leg(CHE-CO2[2013], CHE-FARC[2013])",
-                                2022:"leg(CHE-CO2[2013], CHE-FARC[2013])"}
+    lie_tax_scope_sources = {year:"gvt(CH[2005], CH[2009])" for year in range(2008, 2014)}
+    lie_tax_scope_sources.update({year: "leg(CHE-CO2[2013], CHE-FARC[2013])" for year in range(2014, 2023)})
 
     #----------------------------------------------------------------------------
 
@@ -987,31 +583,15 @@ def scope():
 
     ## scope dictionaries
     
-    mex_tax_jur_scope = {2014:mex_tax_jur_I, 2015:mex_tax_jur_I,
-                            2016:mex_tax_jur_I, 2017:mex_tax_jur_I,
-                            2018:mex_tax_jur_I, 2019:mex_tax_jur_I, 
-                            2020:mex_tax_jur_I, 2021:mex_tax_jur_I,
-                            2022:mex_tax_jur_I}
+    mex_tax_jur_scope = {year:mex_tax_jur_I for year in range(2014, 2023)}
     
-    mex_tax_ipcc_scope = {2014:mex_tax_ipcc_I, 2015:mex_tax_ipcc_I,
-                             2016:mex_tax_ipcc_I, 2017:mex_tax_ipcc_I,
-                             2018:mex_tax_ipcc_I, 2019:mex_tax_ipcc_I, 
-                             2020:mex_tax_ipcc_I, 2021:mex_tax_ipcc_I,
-                             2022:mex_tax_ipcc_I}
+    mex_tax_ipcc_scope = {year:mex_tax_ipcc_I for year in range(2014, 2023)}
     
-    mex_tax_fuel_scope = {2014:mex_tax_fuel_I, 2015:mex_tax_fuel_I,
-                             2016:mex_tax_fuel_I, 2017:mex_tax_fuel_I,
-                             2018:mex_tax_fuel_I, 2019:mex_tax_fuel_I, 
-                             2020:mex_tax_fuel_I, 2021:mex_tax_fuel_I,
-                             2022:mex_tax_fuel_I}
+    mex_tax_fuel_scope = {year:mex_tax_fuel_I for year in range(2014, 2023)}
     
     ## Sources dictionary
     
-    mex_tax_scope_sources = {2014:"leg(LIEP[2012])", 2015:"leg(LIEP[2012])", 
-                                2016:"leg(LIEP[2012])", 2017:"leg(LIEP[2012])", 
-                                2018:"leg(LIEP[2012])", 2019:"leg(LIEP[2012])", 
-                                2020:"leg(LIEP[2012])", 2021:"leg(LIEP[2012])",
-                                2022:"leg(LIEP[2012])"}
+    mex_tax_scope_sources = {year:"leg(LIEP[2012])" for year in range(2014, 2023)}
 
     #----------------------------------------------------------------------------
 
@@ -1100,145 +680,26 @@ def scope():
     
     ## scope dictionaries
 
-    nor_tax_I_jur_scope = {1991:nor_tax_I_jur_I, 1992:nor_tax_I_jur_I,
-                              1993:nor_tax_I_jur_I, 1994:nor_tax_I_jur_I,
-                              1995:nor_tax_I_jur_I, 1996:nor_tax_I_jur_I,
-                              1997:nor_tax_I_jur_I, 1998:nor_tax_I_jur_I,
-                              1999:nor_tax_I_jur_I, 2000:nor_tax_I_jur_I,
-                              2001:nor_tax_I_jur_I, 2002:nor_tax_I_jur_I,
-                              2003:nor_tax_I_jur_I, 2004:nor_tax_I_jur_I,
-                              2005:nor_tax_I_jur_I, 2006:nor_tax_I_jur_I,
-                              2007:nor_tax_I_jur_I, 2008:nor_tax_I_jur_I,
-                              2009:nor_tax_I_jur_I, 2010:nor_tax_I_jur_I,
-                              2011:nor_tax_I_jur_I, 2012:nor_tax_I_jur_I,
-                              2013:nor_tax_I_jur_I, 2014:nor_tax_I_jur_I,
-                              2015:nor_tax_I_jur_I, 2016:nor_tax_I_jur_I,
-                              2017:nor_tax_I_jur_I, 2018:nor_tax_I_jur_I,
-                              2019:nor_tax_I_jur_I, 2020:nor_tax_I_jur_I,
-                              2021:nor_tax_I_jur_I, 2022:nor_tax_I_jur_I}
+    nor_tax_I_jur_scope = {year:nor_tax_I_jur_I for year in range(1991, 2023)}
 
-    nor_tax_I_ipcc_scope = {1991:nor_tax_I_ipcc_I, 1992:nor_tax_I_ipcc_I,
-                               1993:nor_tax_I_ipcc_I, 1994:nor_tax_I_ipcc_I,
-                               1995:nor_tax_I_ipcc_I, 1996:nor_tax_I_ipcc_I,
-                               1997:nor_tax_I_ipcc_I, 1998:nor_tax_I_ipcc_I,
-                               1999:nor_tax_I_ipcc_I, 2000:nor_tax_I_ipcc_I,
-                               2001:nor_tax_I_ipcc_I, 2002:nor_tax_I_ipcc_I,
-                               2003:nor_tax_I_ipcc_I, 2004:nor_tax_I_ipcc_I,
-                               2005:nor_tax_I_ipcc_I, 2006:nor_tax_I_ipcc_I,
-                               2007:nor_tax_I_ipcc_I, 2008:nor_tax_I_ipcc_II,
-                               2009:nor_tax_I_ipcc_II, 2010:nor_tax_I_ipcc_II,
-                               2011:nor_tax_I_ipcc_II, 2012:nor_tax_I_ipcc_II,
-                               2013:nor_tax_I_ipcc_II, 2014:nor_tax_I_ipcc_II,
-                               2015:nor_tax_I_ipcc_II, 2016:nor_tax_I_ipcc_II,
-                               2017:nor_tax_I_ipcc_II, 2018:nor_tax_I_ipcc_II,
-                               2019:nor_tax_I_ipcc_II, 2020:nor_tax_I_ipcc_II,
-                               2021:nor_tax_I_ipcc_II, 2022:nor_tax_I_ipcc_II}
+    nor_tax_I_ipcc_scope = {year:nor_tax_I_ipcc_I for year in range(1991, 2008)}
+    nor_tax_I_ipcc_scope.update({year: nor_tax_I_ipcc_II for year in range(2008, 2023)})
     
-    nor_tax_I_fuel_scope = {1991:nor_tax_I_fuel_I, 1992:nor_tax_I_fuel_I,
-                               1993:nor_tax_I_fuel_I, 1994:nor_tax_I_fuel_I,
-                               1995:nor_tax_I_fuel_I, 1996:nor_tax_I_fuel_I,
-                               1997:nor_tax_I_fuel_I, 1998:nor_tax_I_fuel_I,
-                               1999:nor_tax_I_fuel_I, 2000:nor_tax_I_fuel_I,
-                               2001:nor_tax_I_fuel_I, 2002:nor_tax_I_fuel_I,
-                               2003:nor_tax_I_fuel_I, 2004:nor_tax_I_fuel_I,
-                               2005:nor_tax_I_fuel_I, 2006:nor_tax_I_fuel_I,
-                               2007:nor_tax_I_fuel_II, 2008:nor_tax_I_fuel_II,
-                               2009:nor_tax_I_fuel_II, 2010:nor_tax_I_fuel_II,
-                               2011:nor_tax_I_fuel_II, 2012:nor_tax_I_fuel_II,
-                               2013:nor_tax_I_fuel_II, 2014:nor_tax_I_fuel_II,
-                               2015:nor_tax_I_fuel_II, 2016:nor_tax_I_fuel_II,
-                               2017:nor_tax_I_fuel_II, 2018:nor_tax_I_fuel_II,
-                               2019:nor_tax_I_fuel_II, 2020:nor_tax_I_fuel_II,
-                               2021:nor_tax_I_fuel_II, 2022:nor_tax_I_fuel_II}
+    nor_tax_I_fuel_scope = {year:nor_tax_I_fuel_I for year in range(1991, 2007)}
+    nor_tax_I_fuel_scope.update({year: nor_tax_I_fuel_II for year in range(2007, 2023)})
 
+    nor_tax_II_jur_scope = {year:nor_tax_II_jur_I for year in range(1991, 2023)}
 
-    nor_tax_II_jur_scope = {1991:nor_tax_II_jur_I, 1992:nor_tax_II_jur_I,
-                               1993:nor_tax_II_jur_I, 1994:nor_tax_II_jur_I,
-                               1995:nor_tax_II_jur_I, 1996:nor_tax_II_jur_I,
-                               1997:nor_tax_II_jur_I, 1998:nor_tax_II_jur_I,
-                               1999:nor_tax_II_jur_I, 2000:nor_tax_II_jur_I,
-                               2001:nor_tax_II_jur_I, 2002:nor_tax_II_jur_I,
-                               2003:nor_tax_II_jur_I, 2004:nor_tax_II_jur_I,
-                               2005:nor_tax_II_jur_I, 2006:nor_tax_II_jur_I,
-                               2007:nor_tax_II_jur_I, 2008:nor_tax_II_jur_I,
-                               2009:nor_tax_II_jur_I, 2010:nor_tax_II_jur_I,
-                               2011:nor_tax_II_jur_I, 2012:nor_tax_II_jur_I,
-                               2013:nor_tax_II_jur_I, 2014:nor_tax_II_jur_I,
-                               2015:nor_tax_II_jur_I, 2016:nor_tax_II_jur_I,
-                               2017:nor_tax_II_jur_I, 2018:nor_tax_II_jur_I,
-                               2019:nor_tax_II_jur_I, 2020:nor_tax_II_jur_I,
-                               2021:nor_tax_II_jur_I, 2022:nor_tax_II_jur_I}
-
-    nor_tax_II_ipcc_scope = {1991:nor_tax_II_ipcc_I, 1992:nor_tax_II_ipcc_I,
-                               1993:nor_tax_II_ipcc_I, 1994:nor_tax_II_ipcc_I,
-                               1995:nor_tax_II_ipcc_I, 1996:nor_tax_II_ipcc_I,
-                               1997:nor_tax_II_ipcc_I, 1998:nor_tax_II_ipcc_I,
-                               1999:nor_tax_II_ipcc_I, 2000:nor_tax_II_ipcc_I,
-                               2001:nor_tax_II_ipcc_I, 2002:nor_tax_II_ipcc_I,
-                               2003:nor_tax_II_ipcc_I, 2004:nor_tax_II_ipcc_I,
-                               2005:nor_tax_II_ipcc_I, 2006:nor_tax_II_ipcc_I,
-                               2007:nor_tax_II_ipcc_I, 2008:nor_tax_II_ipcc_I,
-                               2009:nor_tax_II_ipcc_I, 2010:nor_tax_II_ipcc_I,
-                               2011:nor_tax_II_ipcc_I, 2012:nor_tax_II_ipcc_I,
-                               2013:nor_tax_II_ipcc_I, 2014:nor_tax_II_ipcc_I,
-                               2015:nor_tax_II_ipcc_I, 2016:nor_tax_II_ipcc_I,
-                               2017:nor_tax_II_ipcc_I, 2018:nor_tax_II_ipcc_I,
-                               2019:nor_tax_II_ipcc_I, 2020:nor_tax_II_ipcc_I,
-                               2021:nor_tax_II_ipcc_I, 2022:nor_tax_II_ipcc_I}
+    nor_tax_II_ipcc_scope = {year:nor_tax_II_ipcc_I for year in range(1991, 2023)}
     
-    nor_tax_II_fuel_scope = {1991:nor_tax_II_fuel_I, 1992:nor_tax_II_fuel_I,
-                               1993:nor_tax_II_fuel_I, 1994:nor_tax_II_fuel_I,
-                               1995:nor_tax_II_fuel_I, 1996:nor_tax_II_fuel_I,
-                               1997:nor_tax_II_fuel_I, 1998:nor_tax_II_fuel_I,
-                               1999:nor_tax_II_fuel_I, 2000:nor_tax_II_fuel_I,
-                               2001:nor_tax_II_fuel_I, 2002:nor_tax_II_fuel_I,
-                               2003:nor_tax_II_fuel_I, 2004:nor_tax_II_fuel_I,
-                               2005:nor_tax_II_fuel_I, 2006:nor_tax_II_fuel_I,
-                               2007:nor_tax_II_fuel_I, 2008:nor_tax_II_fuel_I,
-                               2009:nor_tax_II_fuel_I, 2010:nor_tax_II_fuel_I,
-                               2011:nor_tax_II_fuel_I, 2012:nor_tax_II_fuel_I,
-                               2013:nor_tax_II_fuel_I, 2014:nor_tax_II_fuel_I,                              
-                               2015:nor_tax_II_fuel_I, 2016:nor_tax_II_fuel_I,
-                               2017:nor_tax_II_fuel_I, 2018:nor_tax_II_fuel_I,
-                               2019:nor_tax_II_fuel_I, 2020:nor_tax_II_fuel_I,
-                               2021:nor_tax_II_fuel_I, 2022:nor_tax_II_fuel_I}
+    nor_tax_II_fuel_scope = {year:nor_tax_II_fuel_I for year in range(1991, 2023)}
     
     
     ## Sources dictionary
     
-    nor_tax_I_scope_sources = {1991:"leg(NOR-EA[1990])", 1992:"leg(NOR-EA[1990])",
-                                  1993:"leg(NOR-EA[1990])", 1994:"leg(NOR-EA[1990])",
-                                  1995:"leg(NOR-EA[1990])", 1996:"leg(NOR-EA[1990])",
-                                  1997:"leg(NOR-EA[1990])", 1998:"leg(NOR-EA[1990])",
-                                  1999:"leg(NOR-EA[1990])", 2000:"leg(NOR-EA[1990])",
-                                  2001:"leg(NOR-EA[1990])", 2002:"leg(NOR-EA[1990])",
-                                  2003:"leg(NOR-EA[1990])", 2004:"leg(NOR-EA[1990])",
-                                  2005:"leg(NOR-EA[1990])", 2006:"leg(NOR-EA[1990])",
-                                  2007:"leg(NOR-EA[1990])", 2008:"leg(NOR-EA[1990])",
-                                  2009:"leg(NOR-EA[1990])", 2010:"leg(NOR-EA[1990])",
-                                  2011:"leg(NOR-EA[1990])", 2012:"leg(NOR-EA[1990])",
-                                  2013:"leg(NOR-EA[1990])", 2014:"leg(NOR-EA[1990])",
-                                  2015:"leg(NOR-EA[1990])", 2016:"leg(NOR-EA[1990])",
-                                  2017:"leg(NOR-EA[1990])", 2018:"leg(NOR-EA[1990])",
-                                  2019:"leg(NOR-EA[1990])", 2020:"leg(NOR-EA[1990])",
-                                  2021:"leg(NOR-EA[1990])", 2022:"leg(NOR-EA[1990])"}
+    nor_tax_I_scope_sources = {year: "leg(NOR-EA[1990])" for year in range(1991, 2023)}
     
-    nor_tax_II_scope_sources = {1991:"leg(NOR[1990])", 1992:"leg(NOR[1990])",
-                                   1993:"leg(NOR[1990])", 1994:"leg(NOR[1990])",
-                                   1995:"leg(NOR[1990])", 1996:"leg(NOR[1990])",
-                                   1997:"leg(NOR[1990])", 1998:"leg(NOR[1990])",
-                                   1999:"leg(NOR[1990])", 2000:"leg(NOR[1990])",
-                                   2001:"leg(NOR[1990])", 2002:"leg(NOR[1990])",
-                                   2003:"leg(NOR[1990])", 2004:"leg(NOR[1990])",
-                                   2005:"leg(NOR[1990])", 2006:"leg(NOR[1990])",
-                                   2007:"leg(NOR[1990])", 2008:"leg(NOR[1990])",
-                                   2009:"leg(NOR[1990])", 2010:"leg(NOR[1990])",
-                                   2011:"leg(NOR[1990])", 2012:"leg(NOR[1990])",
-                                   2013:"leg(NOR[1990])", 2014:"leg(NOR[1990])",
-                                   2015:"leg(NOR[1990])", 2016:"leg(NOR[1990])",
-                                   2017:"leg(NOR[1990])", 2018:"leg(NOR[1990])",
-                                   2019:"leg(NOR[1990])", 2020:"leg(NOR[1990])",
-                                   2021:"leg(NOR[1990])", 2022:"leg(NOR[1990])"}
+    nor_tax_II_scope_sources = {year: "leg(NOR-EA[1990])" for year in range(1991, 2023)}
     
     
     #----------------------------------------------------------------------------
@@ -1260,96 +721,16 @@ def scope():
     
     ## scope dictionaries
 
-    pol_tax_jur_scope = {1990:pol_tax_jur_I,
-                            1991:pol_tax_jur_I, 1992:pol_tax_jur_I,
-                            1993:pol_tax_jur_I, 1994:pol_tax_jur_I,
-                            1995:pol_tax_jur_I, 1996:pol_tax_jur_I,
-                            1997:pol_tax_jur_I, 1998:pol_tax_jur_I,
-                            1999:pol_tax_jur_I, 2000:pol_tax_jur_I,
-                            2001:pol_tax_jur_I, 2002:pol_tax_jur_I,
-                            2003:pol_tax_jur_I, 2004:pol_tax_jur_I,
-                            2005:pol_tax_jur_I, 2006:pol_tax_jur_I,
-                            2007:pol_tax_jur_I, 2008:pol_tax_jur_I,
-                            2009:pol_tax_jur_I, 2010:pol_tax_jur_I,
-                            2011:pol_tax_jur_I, 2012:pol_tax_jur_I,
-                            2013:pol_tax_jur_I, 2014:pol_tax_jur_I,
-                            2015:pol_tax_jur_I, 2016:pol_tax_jur_I,
-                            2017:pol_tax_jur_I, 2018:pol_tax_jur_I,
-                            2019:pol_tax_jur_I, 2020:pol_tax_jur_I,
-                            2021:pol_tax_jur_I, 2022:pol_tax_jur_I}
+    pol_tax_jur_scope = {year:pol_tax_jur_I for year in range(1990, 2023)}
 
-    pol_tax_ipcc_scope = {1990:pol_tax_ipcc_I,
-                             1991:pol_tax_ipcc_I, 1992:pol_tax_ipcc_I,
-                             1993:pol_tax_ipcc_I, 1994:pol_tax_ipcc_I,
-                             1995:pol_tax_ipcc_I, 1996:pol_tax_ipcc_I,
-                             1997:pol_tax_ipcc_I, 1998:pol_tax_ipcc_I,
-                             1999:pol_tax_ipcc_I, 2000:pol_tax_ipcc_I,
-                             2001:pol_tax_ipcc_I, 2002:pol_tax_ipcc_I,
-                             2003:pol_tax_ipcc_I, 2004:pol_tax_ipcc_I,
-                             2005:pol_tax_ipcc_I, 2006:pol_tax_ipcc_I,
-                             2007:pol_tax_ipcc_I, 2008:pol_tax_ipcc_I,
-                             2009:pol_tax_ipcc_I, 2010:pol_tax_ipcc_I,
-                             2011:pol_tax_ipcc_I, 2012:pol_tax_ipcc_I,
-                             2013:pol_tax_ipcc_I, 2014:pol_tax_ipcc_I,
-                             2015:pol_tax_ipcc_I, 2016:pol_tax_ipcc_I,
-                             2017:pol_tax_ipcc_I, 2018:pol_tax_ipcc_I,
-                             2019:pol_tax_ipcc_I, 2020:pol_tax_ipcc_I,
-                             2021:pol_tax_ipcc_I, 2022:pol_tax_ipcc_I}
+    pol_tax_ipcc_scope = {year:pol_tax_ipcc_I for year in range(1990, 2023)}
 
-    pol_tax_fuel_scope = {1990:pol_tax_fuel_I,
-                           1991:pol_tax_fuel_I, 1992:pol_tax_fuel_I,
-                           1993:pol_tax_fuel_I, 1994:pol_tax_fuel_I,
-                           1995:pol_tax_fuel_I, 1996:pol_tax_fuel_I,
-                           1997:pol_tax_fuel_I, 1998:pol_tax_fuel_I,
-                           1999:pol_tax_fuel_I, 2000:pol_tax_fuel_I,
-                           2001:pol_tax_fuel_I, 2002:pol_tax_fuel_I,
-                           2003:pol_tax_fuel_I, 2004:pol_tax_fuel_I,
-                           2005:pol_tax_fuel_I, 2006:pol_tax_fuel_I,
-                           2007:pol_tax_fuel_I, 2008:pol_tax_fuel_I,
-                           2009:pol_tax_fuel_I, 2010:pol_tax_fuel_I,
-                           2011:pol_tax_fuel_I, 2012:pol_tax_fuel_I,
-                           2013:pol_tax_fuel_I, 2014:pol_tax_fuel_I,
-                           2015:pol_tax_fuel_I, 2016:pol_tax_fuel_I,
-                           2017:pol_tax_fuel_I, 2018:pol_tax_fuel_I,
-                           2019:pol_tax_fuel_I, 2020:pol_tax_fuel_I,
-                           2021:pol_tax_fuel_I, 2022:pol_tax_fuel_I}
-    
+    pol_tax_fuel_scope = {year:pol_tax_fuel_I for year in range(1990, 2023)}
+
     ## Sources dictionary
     
-    pol_tax_scope_sources = {1990:"report(OCED[2012], OECD-EP-P[2015])",
-                              1991:"report(OCED[2012], OECD-EP-P[2015])", 
-                              1992:"report(OCED[2012], OECD-EP-P[2015])",
-                              1993:"report(OCED[2012], OECD-EP-P[2015])", 
-                              1994:"report(OCED[2012], OECD-EP-P[2015])",
-                              1995:"report(OCED[2012], OECD-EP-P[2015])", 
-                              1996:"report(OCED[2012], OECD-EP-P[2015])",
-                              1997:"report(OCED[2012], OECD-EP-P[2015])", 
-                              1998:"report(OCED[2012], OECD-EP-P[2015])",
-                              1999:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2000:"report(OCED[2012], OECD-EP-P[2015])",
-                              2001:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2002:"report(OCED[2012], OECD-EP-P[2015])",
-                              2003:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2004:"report(OCED[2012], OECD-EP-P[2015])",
-                              2005:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2006:"report(OCED[2012], OECD-EP-P[2015])",
-                              2007:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2008:"report(OCED[2012], OECD-EP-P[2015])",
-                              2009:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2010:"report(OCED[2012], OECD-EP-P[2015])",
-                              2011:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2012:"report(OCED[2012], OECD-EP-P[2015])",
-                              2013:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2014:"report(OCED[2012], OECD-EP-P[2015])",
-                              2015:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2016:"report(OCED[2012], OECD-EP-P[2015])",
-                              2017:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2018:"report(OCED[2012], OECD-EP-P[2015])",
-                              2019:"report(OCED[2012], OECD-EP-P[2015])", 
-                              2020:"report(OCED[2012], OECD-EP-P[2015])",
-                              2021:"report(OCED[2012], OECD-EP-P[2015])",
-                              2022:"db(WBCPD[2023]"}
-    
+    pol_tax_scope_sources = {year:"report(OCED[2012], OECD-EP-P[2015])" for year in range(1990, 2022)}
+    pol_tax_scope_sources[2022] = "db(WBCPD[2023]"
     
     #----------------------------------------------------------------------------
     
@@ -1370,32 +751,16 @@ def scope():
 
     ## scope dictionaries
     
-    prt_tax_jur_scope = {2015:prt_tax_jur_I, 2016:prt_tax_jur_I,
-                         2017:prt_tax_jur_I, 2018:prt_tax_jur_I, 
-                         2019:prt_tax_jur_I, 2020:prt_tax_jur_I, 
-                         2021:prt_tax_jur_I, 2022:prt_tax_jur_I}
+    prt_tax_jur_scope = {year: prt_tax_jur_I for year in range(2015, 2023)}
     
-    prt_tax_ipcc_scope = {2015:prt_tax_ipcc_I, 2016:prt_tax_ipcc_I, 
-                           2017:prt_tax_ipcc_I, 2018:prt_tax_ipcc_I, 
-                           2019:prt_tax_ipcc_I, 2020:prt_tax_ipcc_I, 
-                           2021:prt_tax_ipcc_I, 2022:prt_tax_ipcc_I}     
+    prt_tax_ipcc_scope = {year: prt_tax_ipcc_I for year in range(2015, 2023)}
 
-    prt_tax_fuel_scope = {2015:prt_tax_fuel_I, 2016:prt_tax_fuel_I,
-                           2017:prt_tax_fuel_I, 2018:prt_tax_fuel_I,
-                           2017:prt_tax_fuel_I, 2018:prt_tax_fuel_I, 
-                           2019:prt_tax_fuel_I, 2020:prt_tax_fuel_I, 
-                           2021:prt_tax_fuel_I, 2022:prt_tax_fuel_I}     
+    prt_tax_fuel_scope = {year:prt_tax_fuel_I for year in range(2015, 2023)}
 
     ## Sources dictionary
     
-    prt_tax_scope_sources = {2015:"leg(PRT[2014]), gvt(PRT[2014])",
-                            2016:"leg(PRT[2014]), gvt(PRT[2014])",
-                             2017:"leg(PRT[2014]), gvt(PRT[2014])", 
-                                2018:"leg(PRT[2014]), gvt(PRT[2014])", 
-                                2019:"leg(PRT[2014]), gvt(PRT[2014])", 
-                                2020:"leg(PRT[2014]), gvt(PRT[2014])",
-                                2021:"leg(PRT[2014]), gvt(PRT[2014])",
-                                2022:"leg(PRT[2014]), gvt(PRT[2014])"}
+    prt_tax_scope_sources = {year:"leg(PRT[2014]), gvt(PRT[2014])" for year in range(2015, 2023)}
+
 
     #----------------------------------------------------------------------------
 
@@ -1454,50 +819,11 @@ def scope():
     
     ## scope dictionaries
 
-    slo_tax_jur_scope = {1996:slo_tax_jur_I,
-                            1997:slo_tax_jur_I, 1998:slo_tax_jur_I,
-                            1999:slo_tax_jur_I, 2000:slo_tax_jur_I,
-                            2001:slo_tax_jur_I, 2002:slo_tax_jur_I,
-                            2003:slo_tax_jur_I, 2004:slo_tax_jur_I,
-                            2005:slo_tax_jur_I, 2006:slo_tax_jur_I,
-                            2007:slo_tax_jur_I, 2008:slo_tax_jur_I,
-                            2009:slo_tax_jur_I, 2010:slo_tax_jur_I,
-                            2011:slo_tax_jur_I, 2012:slo_tax_jur_I,
-                            2013:slo_tax_jur_I, 2014:slo_tax_jur_I,
-                            2015:slo_tax_jur_I, 2016:slo_tax_jur_I,
-                            2017:slo_tax_jur_I, 2018:slo_tax_jur_I,
-                            2019:slo_tax_jur_I, 2020:slo_tax_jur_I,
-                            2021:slo_tax_jur_I, 2022:slo_tax_jur_I}
+    slo_tax_jur_scope = {year: slo_tax_jur_I for year in range(1996, 2023)}
 
-    slo_tax_ipcc_scope = {1995:slo_tax_ipcc_I, 1996:slo_tax_ipcc_I,
-                             1997:slo_tax_ipcc_I, 1998:slo_tax_ipcc_I,
-                             1999:slo_tax_ipcc_I, 2000:slo_tax_ipcc_I,
-                             2001:slo_tax_ipcc_I, 2002:slo_tax_ipcc_I,
-                             2003:slo_tax_ipcc_I, 2004:slo_tax_ipcc_I,
-                             2005:slo_tax_ipcc_I, 2006:slo_tax_ipcc_I,
-                             2007:slo_tax_ipcc_I, 2008:slo_tax_ipcc_I,
-                             2009:slo_tax_ipcc_I, 2010:slo_tax_ipcc_I,
-                             2011:slo_tax_ipcc_I, 2012:slo_tax_ipcc_I,
-                             2013:slo_tax_ipcc_I, 2014:slo_tax_ipcc_I,
-                             2015:slo_tax_ipcc_I, 2016:slo_tax_ipcc_I,
-                             2017:slo_tax_ipcc_I, 2018:slo_tax_ipcc_I,
-                             2019:slo_tax_ipcc_I, 2020:slo_tax_ipcc_I,
-                             2021:slo_tax_ipcc_I, 2022:slo_tax_ipcc_I}
+    slo_tax_ipcc_scope = {year: slo_tax_ipcc_I for year in range(1996, 2023)}
     
-    slo_tax_fuel_scope = {1996:nor_tax_I_fuel_I,
-                             1997:slo_tax_I_fuel_I, 1998:slo_tax_I_fuel_I,
-                             1999:slo_tax_I_fuel_I, 2000:slo_tax_I_fuel_I,
-                             2001:slo_tax_I_fuel_I, 2002:slo_tax_I_fuel_I,
-                             2003:slo_tax_I_fuel_I, 2004:slo_tax_I_fuel_I,
-                             2005:slo_tax_I_fuel_I, 2006:slo_tax_I_fuel_I,
-                             2007:slo_tax_I_fuel_I, 2008:slo_tax_I_fuel_I,
-                             2009:slo_tax_I_fuel_I, 2010:slo_tax_I_fuel_I,
-                             2011:slo_tax_I_fuel_I, 2012:slo_tax_I_fuel_I,
-                             2013:slo_tax_I_fuel_I, 2014:slo_tax_I_fuel_I,
-                             2015:slo_tax_I_fuel_I, 2016:slo_tax_I_fuel_I,
-                             2017:slo_tax_I_fuel_I, 2018:slo_tax_I_fuel_I,
-                             2019:slo_tax_I_fuel_I, 2020:slo_tax_I_fuel_I,
-                             2021:slo_tax_I_fuel_I, 2022:slo_tax_I_fuel_I}
+    slo_tax_fuel_scope = {year: slo_tax_I_fuel_I for year in range(1996, 2023)}
     
     ## Sources dictionary
     
@@ -1587,75 +913,16 @@ def scope():
     
     ## scope dictionaries
 
-    swe_tax_jur_scope = {1991:swe_tax_jur_I, 1992:swe_tax_jur_I,
-                              1993:swe_tax_jur_I, 1994:swe_tax_jur_I,
-                              1995:swe_tax_jur_I, 1996:swe_tax_jur_I,
-                              1997:swe_tax_jur_I, 1998:swe_tax_jur_I,
-                              1999:swe_tax_jur_I, 2000:swe_tax_jur_I,
-                              2001:swe_tax_jur_I, 2002:swe_tax_jur_I,
-                              2003:swe_tax_jur_I, 2004:swe_tax_jur_I,
-                              2005:swe_tax_jur_I, 2006:swe_tax_jur_I,
-                              2007:swe_tax_jur_I, 2008:swe_tax_jur_I,
-                              2009:swe_tax_jur_I, 2010:swe_tax_jur_I,
-                              2011:swe_tax_jur_I, 2012:swe_tax_jur_I,
-                              2013:swe_tax_jur_I, 2014:swe_tax_jur_I,
-                              2015:swe_tax_jur_I, 2016:swe_tax_jur_I,
-                              2017:swe_tax_jur_I, 2018:swe_tax_jur_I,
-                              2019:swe_tax_jur_I, 2020:swe_tax_jur_I,
-                              2021:swe_tax_jur_I, 2022:swe_tax_jur_I}
+    swe_tax_jur_scope = {year:swe_tax_jur_I for year in range(1991, 2023)}
 
-    swe_tax_ipcc_scope = {1991:swe_tax_ipcc_I, 1992:swe_tax_ipcc_I,
-                              1993:swe_tax_ipcc_I, 1994:swe_tax_ipcc_I,
-                              1995:swe_tax_ipcc_I, 1996:swe_tax_ipcc_I,
-                              1997:swe_tax_ipcc_I, 1998:swe_tax_ipcc_I,
-                              1999:swe_tax_ipcc_I, 2000:swe_tax_ipcc_I,
-                              2001:swe_tax_ipcc_I, 2002:swe_tax_ipcc_I,
-                              2003:swe_tax_ipcc_I, 2004:swe_tax_ipcc_I,
-                              2005:swe_tax_ipcc_I, 2006:swe_tax_ipcc_I,
-                              2007:swe_tax_ipcc_I, 2008:swe_tax_ipcc_I,
-                              2009:swe_tax_ipcc_I, 2010:swe_tax_ipcc_I,
-                              2011:swe_tax_ipcc_II, 2012:swe_tax_ipcc_II,
-                              2013:swe_tax_ipcc_II, 2014:swe_tax_ipcc_II,
-                              2015:swe_tax_ipcc_II, 2016:swe_tax_ipcc_II,
-                              2017:swe_tax_ipcc_II, 2018:swe_tax_ipcc_II,
-                              2019:swe_tax_ipcc_II, 2020:swe_tax_ipcc_II,
-                              2021:swe_tax_ipcc_II, 2022:swe_tax_ipcc_II}
+    swe_tax_ipcc_scope = {year:swe_tax_ipcc_I for year in range(1991, 2011)}
+    swe_tax_ipcc_scope.update({year: swe_tax_ipcc_II in range(2011, 2023)})
     
-    swe_tax_fuel_scope = {1991:swe_tax_fuel_I, 1992:swe_tax_fuel_I,
-                              1993:swe_tax_fuel_I, 1994:swe_tax_fuel_I,
-                              1995:swe_tax_fuel_I, 1996:swe_tax_fuel_I,
-                              1997:swe_tax_fuel_I, 1998:swe_tax_fuel_I,
-                              1999:swe_tax_fuel_I, 2000:swe_tax_fuel_I,
-                              2001:swe_tax_fuel_I, 2002:swe_tax_fuel_I,
-                              2003:swe_tax_fuel_I, 2004:swe_tax_fuel_I,
-                              2005:swe_tax_fuel_I, 2006:swe_tax_fuel_I,
-                              2007:swe_tax_fuel_I, 2008:swe_tax_fuel_I,
-                              2009:swe_tax_fuel_I, 2010:swe_tax_fuel_I,
-                              2011:swe_tax_fuel_I, 2012:swe_tax_fuel_I,
-                              2013:swe_tax_fuel_I, 2014:swe_tax_fuel_I,
-                              2015:swe_tax_fuel_I, 2016:swe_tax_fuel_I,
-                              2017:swe_tax_fuel_I, 2018:swe_tax_fuel_I,
-                              2019:swe_tax_fuel_I, 2020:swe_tax_fuel_I,
-                              2021:swe_tax_fuel_I, 2022:swe_tax_fuel_I}
+    swe_tax_fuel_scope = {year:swe_tax_fuel_I for year in range(1991, 2023)}
     
     ## Sources dictionary
     
-    swe_tax_scope_sources = {1991:"report(SMF-CT[2011])", 1992:"report(SMF-CT[2011])",
-                                   1993:"report(SMF-CT[2011])", 1994:"report(SMF-CT[2011])",
-                                   1995:"report(SMF-CT[2011])", 1996:"report(SMF-CT[2011])",
-                                   1997:"report(SMF-CT[2011])", 1998:"report(SMF-CT[2011])",
-                                   1999:"report(SMF-CT[2011])", 2000:"report(SMF-CT[2011])",
-                                   2001:"report(SMF-CT[2011])", 2002:"report(SMF-CT[2011])",
-                                   2003:"report(SMF-CT[2011])", 2004:"report(SMF-CT[2011])",
-                                   2005:"report(SMF-CT[2011])", 2006:"report(SMF-CT[2011])",
-                                   2007:"report(SMF-CT[2011])", 2008:"report(SMF-CT[2011])",
-                                   2009:"report(SMF-CT[2011])", 2010:"report(SMF-CT[2011])",
-                                   2011:"report(SMF-CT[2011])", 2012:"report(SMF-CT[2011])",
-                                   2013:"report(SMF-CT[2011])", 2014:"report(SMF-CT[2011])",
-                                   2015:"report(SMF-CT[2011])", 2016:"report(SMF-CT[2011])",
-                                   2017:"report(SMF-CT[2011])", 2018:"report(SMF-CT[2011])",
-                                   2019:"report(SMF-CT[2011])", 2020:"report(SMF-CT[2011])",
-                                   2021:"report(SMF-CT[2011])", 2022:"report(SMF-CT[2011])"}
+    swe_tax_scope_sources = {year:"report(SMF-CT[2011])" for year in range(1991, 2023)}
 
     #----------------------------------------------------------------------------
 
@@ -1676,50 +943,16 @@ def scope():
 
     ## scope dictionaries
     
-    che_tax_jur_scope = {2008:che_tax_jur_I, 2009:che_tax_jur_I,
-                            2010:che_tax_jur_I, 2011:che_tax_jur_I,
-                            2012:che_tax_jur_I, 2013:che_tax_jur_I,
-                            2014:che_tax_jur_I, 2015:che_tax_jur_I,
-                            2016:che_tax_jur_I, 2017:che_tax_jur_I,
-                            2018:che_tax_jur_I, 2019:che_tax_jur_I, 
-                            2020:che_tax_jur_I, 2021:che_tax_jur_I,
-                            2022:che_tax_jur_I}
+    che_tax_jur_scope = {year: che_tax_jur_I for year in range(2008, 2023)}
     
-    che_tax_ipcc_scope = {2008:che_tax_ipcc_I, 2009:che_tax_ipcc_I,
-                            2010:che_tax_ipcc_I, 2011:che_tax_ipcc_I,
-                            2012:che_tax_ipcc_I, 2013:che_tax_ipcc_I,
-                            2014:che_tax_ipcc_I, 2015:che_tax_ipcc_I,
-                            2016:che_tax_ipcc_I, 2017:che_tax_ipcc_I,
-                            2018:che_tax_ipcc_I, 2019:che_tax_ipcc_I, 
-                            2020:che_tax_ipcc_I, 2021:che_tax_ipcc_I,
-                            2022:che_tax_ipcc_I}
+    che_tax_ipcc_scope = {year: che_tax_ipcc_I for year in range(2008, 2023)}
     
-    che_tax_fuel_scope = {2008:che_tax_fuel_I, 2009:che_tax_fuel_I,
-                            2010:che_tax_fuel_I, 2011:che_tax_fuel_I,
-                            2012:che_tax_fuel_I, 2013:che_tax_fuel_I,
-                            2014:che_tax_fuel_I, 2015:che_tax_fuel_I,
-                            2016:che_tax_fuel_I, 2017:che_tax_fuel_I,
-                            2018:che_tax_fuel_I, 2019:che_tax_fuel_I, 
-                            2020:che_tax_fuel_I, 2021:che_tax_fuel_I,
-                            2022:che_tax_fuel_I}
+    che_tax_fuel_scope = {year: che_tax_fuel_I for year in range(2008, 2023)}
     
     ## Sources dictionary
     
-    che_tax_scope_sources = {2008:"gvt(CH[2005], CH[2009])", 
-                                2009:"gvt(CH[2005], CH[2009])",
-                                2010:"gvt(CH[2005], CH[2009])", 
-                                2011:"gvt(CH[2005], CH[2009])", 
-                                2012:"gvt(CH[2005], CH[2009])",
-                                2013:"gvt(CH[2005], CH[2009])", 
-                                2014:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2015:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2016:"leg(CHE-CO2[2013], CHE-FARC[2013])",
-                                2017:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2018:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2019:"leg(CHE-CO2[2013], CHE-FARC[2013])", 
-                                2020:"leg(CHE-CO2[2013], CHE-FARC[2013])",
-                                2021:"leg(CHE-CO2[2013], CHE-FARC[2013])",
-                                2022:"leg(CHE-CO2[2013], CHE-FARC[2013])"}
+    che_tax_scope_sources = {year: "gvt(CH[2005], CH[2009])" for year in range(2008, 2014)}
+    che_tax_scope_sources.update({year: "gvt(CH[2005], CH[2009])" for year in range(2014, 2023)})
 
     #----------------------------------------------------------------------------
 
@@ -1792,29 +1025,11 @@ def scope():
 
     ## scope dictionaries
     
-    ukr_tax_jur_scope = {2011:ukr_tax_jur_I,
-                            2012:ukr_tax_jur_I, 2013:ukr_tax_jur_I,
-                            2014:ukr_tax_jur_I, 2015:ukr_tax_jur_I,
-                            2016:ukr_tax_jur_I, 2017:ukr_tax_jur_I,
-                            2018:ukr_tax_jur_I, 2019:ukr_tax_jur_I, 
-                            2020:ukr_tax_jur_I, 2021:ukr_tax_jur_I,
-                            2022:ukr_tax_jur_I}
+    ukr_tax_jur_scope = {year: ukr_tax_jur_I for year in range(2011, 2023)}
     
-    ukr_tax_ipcc_scope = {2011:ukr_tax_ipcc_I,
-                            2012:ukr_tax_ipcc_I, 2013:ukr_tax_ipcc_I,
-                            2014:ukr_tax_ipcc_I, 2015:ukr_tax_ipcc_II,
-                            2016:ukr_tax_ipcc_II, 2017:ukr_tax_ipcc_I,
-                            2018:ukr_tax_ipcc_I, 2019:ukr_tax_ipcc_I, 
-                            2020:ukr_tax_ipcc_I, 2021:ukr_tax_ipcc_I,
-                            2022:ukr_tax_ipcc_I}
+    ukr_tax_ipcc_scope = {year: ukr_tax_ipcc_I for year in range(2011, 2023)}
     
-    ukr_tax_fuel_scope = {2011:ukr_tax_fuel_I,
-                            2012:ukr_tax_fuel_I, 2013:ukr_tax_fuel_I,
-                            2014:ukr_tax_fuel_I, 2015:ukr_tax_fuel_II,
-                            2016:ukr_tax_fuel_II, 2017:ukr_tax_fuel_I,
-                            2018:ukr_tax_fuel_I, 2019:ukr_tax_fuel_I, 
-                            2020:ukr_tax_fuel_I, 2021:ukr_tax_fuel_I,
-                            2022:ukr_tax_fuel_I}
+    ukr_tax_fuel_scope = {year:ukr_tax_fuel_I for year in range(2011, 2023)}
     
     ## Sources dictionary
     
@@ -1850,41 +1065,15 @@ def scope():
 
     ## scope dictionaries
     
-    gbr_tax_jur_scope = {2013:gbr_tax_jur_I,
-                         2014:gbr_tax_jur_I, 2015:gbr_tax_jur_I,
-                         2016:gbr_tax_jur_I, 2017:gbr_tax_jur_I,
-                         2018:gbr_tax_jur_I, 2019:gbr_tax_jur_I, 
-                         2020:gbr_tax_jur_I, 2021:gbr_tax_jur_I,
-                         2022:gbr_tax_jur_I}
-    
-    gbr_tax_ipcc_scope = {2013:gbr_tax_ipcc_I,
-                         2014:gbr_tax_ipcc_I, 2015:gbr_tax_ipcc_I,
-                         2016:gbr_tax_ipcc_I, 2017:gbr_tax_ipcc_I,
-                         2018:gbr_tax_ipcc_I, 2019:gbr_tax_ipcc_I, 
-                         2020:gbr_tax_ipcc_I, 2021:gbr_tax_ipcc_I,
-                         2022:gbr_tax_ipcc_I}
-    
-    gbr_tax_fuel_scope = {2013:gbr_tax_fuel_I,
-                         2014:gbr_tax_fuel_I, 2015:gbr_tax_fuel_I,
-                         2016:gbr_tax_fuel_I, 2017:gbr_tax_fuel_I,
-                         2018:gbr_tax_fuel_I, 2019:gbr_tax_fuel_I, 
-                         2020:gbr_tax_fuel_I, 2021:gbr_tax_fuel_I,
-                         2022:gbr_tax_fuel_I}
+    gbr_tax_jur_scope = {year: gbr_tax_jur_I for year in range(2013, 2023)}
 
+    gbr_tax_ipcc_scope = {year: gbr_tax_ipcc_I for year in range(2013, 2023)}
+    
+    gbr_tax_fuel_scope = {year: gbr_tax_fuel_I for year in range(2013, 2023)}
 
     ## Sources dictionary
     
-    gbr_tax_scope_sources = {2013:"leg(UK[2013a], UK[2013b])", 
-                                2014:"leg(UK[2013a], UK[2013b])", 
-                                2015:"leg(UK[2013a], UK[2013b])", 
-                                2016:"leg(UK[2013a], UK[2013b])",
-                                2017:"leg(UK[2013a], UK[2013b])", 
-                                2018:"leg(UK[2013a], UK[2013b])", 
-                                2019:"leg(UK[2013a], UK[2013b])", 
-                                2020:"leg(UK[2013a], UK[2013b])",
-                                2021:"leg(UK[2013a], UK[2013b])",
-                                2022:"leg(UK[2013a], UK[2013b])"}
-
+    gbr_tax_scope_sources = {year:"leg(UK[2013a], UK[2013b])" for year in range(2013, 2023)}
 
     #----------------------------------------------------------------------------
 
