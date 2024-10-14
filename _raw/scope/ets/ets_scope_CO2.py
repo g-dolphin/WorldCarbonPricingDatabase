@@ -87,30 +87,29 @@ def scope():
                       "2B4", "2B5", "2B6", "2B7", "2B8F",
                       "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
     
+    # extension to maritime transport emissions (2024)
+    eu_ets_ipcc_III = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
+                       "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
+                       "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
+                       "1A3D1", "1A3D2",
+                       "1C1A", "1C2B",
+                       "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", 
+                       "2B4", "2B5", "2B6", "2B7", "2B8F",
+                       "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
+    
     
     ## scope dictionaries
     
-    eu_ets_jur_scope = {2005:eu_ets_jur_I, 2006:eu_ets_jur_I,
-                            2007:eu_ets_jur_II, 2008:eu_ets_jur_III,
-                            2009:eu_ets_jur_III, 2010:eu_ets_jur_III,
-                            2011:eu_ets_jur_III, 2012:eu_ets_jur_III,
-                            2013:eu_ets_jur_IV, 2014:eu_ets_jur_IV,
-                            2015:eu_ets_jur_IV, 2016:eu_ets_jur_IV,
-                            2017:eu_ets_jur_IV, 2018:eu_ets_jur_IV,
-                            2019:eu_ets_jur_IV, 2020:eu_ets_jur_IV,
-                            2021:eu_ets_jur_V, 2022:eu_ets_jur_V}
+    eu_ets_jur_scope = {year: eu_ets_jur_I for year in range(2005, 2007)}
+    eu_ets_jur_scope.update({year: eu_ets_jur_II for year in range(2007, 2008)})
+    eu_ets_jur_scope.update({year: eu_ets_jur_III for year in range(2008, 2013)})
+    eu_ets_jur_scope.update({year: eu_ets_jur_IV for year in range(2013, 2021)})
+    eu_ets_jur_scope.update({year: eu_ets_jur_V for year in range(2021, 2023)})
     
-    eu_ets_ipcc_scope = {2005:eu_ets_ipcc_I, 2006:eu_ets_ipcc_I,
-                            2007:eu_ets_ipcc_I, 2008:eu_ets_ipcc_I,
-                            2009:eu_ets_ipcc_I, 2010:eu_ets_ipcc_I,
-                            2011:eu_ets_ipcc_I, 2012:eu_ets_ipcc_II,
-                            2013:eu_ets_ipcc_II, 2014:eu_ets_ipcc_II,
-                            2015:eu_ets_ipcc_II, 2016:eu_ets_ipcc_II,
-                            2017:eu_ets_ipcc_II, 2018:eu_ets_ipcc_II,
-                            2019:eu_ets_ipcc_II, 2020:eu_ets_ipcc_II,
-                            2021:eu_ets_ipcc_II, 2022:eu_ets_ipcc_II}
-    
-    
+    eu_ets_ipcc_scope = {year: eu_ets_ipcc_I for year in range(2005, 2012)}
+    eu_ets_ipcc_scope.update({year: eu_ets_ipcc_II for year in range(2012, 2024)})    
+    eu_ets_ipcc_scope[2024] = eu_ets_ipcc_III
+
     ## Sources dictionary
     
     eu_ets_scope_sources = {2005:"leg(EC[2003])", 2006:"leg(EC[2003])", 
@@ -200,14 +199,16 @@ def scope():
     chn_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
     
     ## scope dictionaries
-    chn_ets_jur_scope = {2021:chn_ets_jur_I, 2022:chn_ets_jur_I}
-    
-    chn_ets_ipcc_scope = {2021:chn_ets_ipcc_I, 2022:chn_ets_ipcc_I}
+    chn_ets_jur_scope = {year: chn_ets_jur_I for year in range(2021, 2025)}
+
+    chn_ets_ipcc_scope = {year: chn_ets_ipcc_I for year in range(2021, 2025)}
     
     ## Sources dictionary
     
-    chn_ets_scope_sources = {2021:"gvt(BJ[2020]), report(ICAP[2021])",
-                             2022:"report(ICAP[2023])"}
+    chn_ets_scope_sources = {2021: "gvt(BJ[2020]), report(ICAP[2021])",
+                             2022: "report(ICAP[2023])",
+                             2023: " ",
+                             2024: " "}
 
     #----------------------------------------------------------------------------
 
@@ -306,11 +307,11 @@ def scope():
     
     ## scope dictionaries
     
-    nzl_ets_jur_scope = {year: nzl_ets_jur_I for year in range(2008, 2023)}
+    nzl_ets_jur_scope = {year: nzl_ets_jur_I for year in range(2008, 2025)}
     
     nzl_ets_ipcc_scope = {year: nzl_ets_ipcc_I for year in range(2008, 2010)}
     nzl_ets_ipcc_scope.update({year: nzl_ets_ipcc_II for year in range(2010, 2013)})
-    nzl_ets_ipcc_scope.update({year: nzl_ets_ipcc_III for year in range(2013, 2023)})    
+    nzl_ets_ipcc_scope.update({year: nzl_ets_ipcc_III for year in range(2013, 2025)})    
 
     ## Sources dictionary
     
@@ -321,7 +322,8 @@ def scope():
                              2016:"leg(NZ-CCR[2013])", 2017:"leg(NZ-CCR[2013])", 
                              2018:"leg(NZ-CCR[2013])", 2019:"leg(NZ-CCR[2013])",
                              2020:"leg(NZ-CCR[2020])", 2021:"leg(NZ-CCR[2020])",
-                             2022:"leg(NZ-CCR[2020]), report(ICAP[2023])"}
+                             2022:"leg(NZ-CCR[2020]), report(ICAP[2023])",
+                             2023: " ", 2024: ""}
 
     #----------------------------------------------------------------------------
     
@@ -349,26 +351,16 @@ def scope():
                       "2C5", "2C6", "2C7", "2H1"]
     
     ## scope dictionaries
-    che_ets_jur_scope = {year: che_ets_jur_I for year in range(2008, 2023)}
+    che_ets_jur_scope = {year: che_ets_jur_I for year in range(2008, 2025)}
     
     che_ets_ipcc_scope = {year: che_ets_ipcc_I for year in range(2008, 2020)}
-    che_ets_ipcc_scope.update({year: che_ets_ipcc_II for year in range(2020, 2023)})
+    che_ets_ipcc_scope.update({year: che_ets_ipcc_II for year in range(2020, 2025)})
     
     ## Sources dictionary
     
-    che_ets_scope_sources = {2008:"gvt(CH[2009])", 2009:"gvt(CH[2009])",
-                               2010:"gvt(CH[2009])", 2011:"gvt(CH[2009])", 
-                               2012:"gvt(CH[2009])", 
-                               2013:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
-                               2014:"leg(CHE-CO2[2012],CHE-FARC[2013])",
-                               2015:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
-                               2016:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
-                               2017:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
-                               2018:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
-                               2019:"leg(CHE-CO2[2012],CHE-FARC[2013])",
-                               2020:"leg(CHE-CO2[2012],CHE-FARC[2013])", 
-                               2021:"leg(CHE-CO2[2020],CHE-FARC[2013])",
-                               2021:" ", 2022:" "}
+    che_ets_scope_sources = {year:"gvt(CH[2009])" for year in range(2008, 2013)}
+    che_ets_scope_sources.update({year:"gvt(CH[2009])" for year in range(2013, 2022)})
+    che_ets_scope_sources.update({year:" " for year in range(2022, 2023)})
     
     #----------------------------------------------------------------------------
     
@@ -402,23 +394,25 @@ def scope():
                           "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2C7"]
     
     ## scope dictionaries
-    kaz_ets_jur_scope = {year: kaz_ets_jur_I for year in range(2013, 2023)}
+    kaz_ets_jur_scope = {year: kaz_ets_jur_I for year in range(2013, 2025)}
     
     kaz_ets_ipcc_scope = {year: kaz_ets_ipcc_I for year in range(2013, 2016)}
-    kaz_ets_ipcc_scope.update({year: kaz_ets_ipcc_I for year in range(2016, 2018)})
-    kaz_ets_ipcc_scope.update({year: kaz_ets_ipcc_I for year in range(2018, 2023)})
+    kaz_ets_ipcc_scope.update({year: kaz_ets_ipcc_II for year in range(2016, 2018)})
+    kaz_ets_ipcc_scope.update({year: kaz_ets_ipcc_III for year in range(2018, 2025)})
     
     ## Sources dictionary
     
-    kaz_ets_scope_sources = {2013:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
-                                2014:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
-                                2015:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
-                                2016:"", 2017:"", 
-                                2018:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
-                                2019:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])",
-                                2020:"leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
-                                2021:"leg(KZ[2021]), gvt(KZ[2021]), report(ICAP - KZ[2021])",
-                                2022:"report(ICAP[2023])"}
+    kaz_ets_scope_sources = {2013: "leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
+                                2014: "leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
+                                2015: "leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
+                                2016: "", 2017: "", 
+                                2018: "leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
+                                2019: "leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])",
+                                2020: "leg(KZ[2007]), gvt(KZ[2021]), report(ICAP - KZ[2021])", 
+                                2021: "leg(KZ[2021]), gvt(KZ[2021]), report(ICAP - KZ[2021])",
+                                2022: "report(ICAP[2023])",
+                                2023: " ",
+                                2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -469,20 +463,22 @@ def scope():
                         "4A1", "4D1", "4D2"]
     
     ## scope dictionaries
-    kor_ets_jur_scope = {year: kor_ets_jur_I for year in range(2015, 2023)}
+    kor_ets_jur_scope = {year: kor_ets_jur_I for year in range(2015, 2025)}
     
     kor_ets_ipcc_scope = {year: kor_ets_ipcc_I for year in range(2015, 2018)}
-    kor_ets_ipcc_scope.update({year: kor_ets_ipcc_I for year in range(2018, 2021)})
-    kor_ets_ipcc_scope.update({year: kor_ets_ipcc_I for year in range(2021, 2023)})
+    kor_ets_ipcc_scope.update({year: kor_ets_ipcc_II for year in range(2018, 2021)})
+    kor_ets_ipcc_scope.update({year: kor_ets_ipcc_III for year in range(2021, 2025)})
     
     ## Sources dictionary
     
-    kor_ets_scope_sources = {2015:"leg(KR[2012], KR[2013])", 
-                             2016:"leg(KR[2012], KR[2013])", 
-                             2017:"leg(KR[2017])", 2018:"leg(KR[2018])", 
-                             2019:"leg(KR[2018])",
-                             2020:"leg(KR[2020])", 2021:"leg(KR[2020])",
-                             2022:"report(ICAP[2023])"}
+    kor_ets_scope_sources = {2015: "leg(KR[2012], KR[2013])", 
+                             2016: "leg(KR[2012], KR[2013])", 
+                             2017: "leg(KR[2017])", 2018:"leg(KR[2018])", 
+                             2019: "leg(KR[2018])",
+                             2020: "leg(KR[2020])", 2021:"leg(KR[2020])",
+                             2022: "report(ICAP[2023])",
+                             2023: "",
+                             2024: ""}
 
     #----------------------------------------------------------------------------
     # Montenegro
@@ -495,18 +491,16 @@ def scope():
                       "2A1", "2A2", "2A3", "2A4A", 
                       "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
 
-    mne_ets_jur_scope = {2020:mne_ets_jur_I,
-                         2021:mne_ets_jur_I,
-                         2022:mne_ets_jur_I}
+    mne_ets_jur_scope = {year: mne_ets_jur_I for year in range(2020, 2025)}
     
-    mne_ets_ipcc_scope = {2020:mne_ets_ipcc_I,
-                          2021:mne_ets_ipcc_I,
-                          2022:mne_ets_ipcc_I}
+    mne_ets_ipcc_scope = {year: mne_ets_ipcc_I for year in range(2020, 2025)}
 
     ## Sources dictionary
     
-    mne_ets_scope_sources = {2020:"report(ICAP[2023])", 2021:"report(ICAP[2023])",
-                             2022:"report(ICAP[2023])"}
+    mne_ets_scope_sources = {2020: "report(ICAP[2023])", 2021:"report(ICAP[2023])",
+                             2022: "report(ICAP[2023])",
+                             2023: " ",
+                             2024: " "}
 
     #----------------------------------------------------------------------------
     # United Kingdom
@@ -518,7 +512,6 @@ def scope():
     
     ## IPCC categories
     
-    # extension to domestic aviation and other industrial (processes) emissions (2012)
     gbr_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
                       "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
                       "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
@@ -530,17 +523,13 @@ def scope():
     
     ## scope dictionaries
     
-    gbr_ets_jur_scope = {2021:gbr_ets_jur_I,
-                         2022:gbr_ets_jur_I}
+    gbr_ets_jur_scope = {year: gbr_ets_jur_I for year in range(2021, 2025)}
     
-    gbr_ets_ipcc_scope = {2021:gbr_ets_ipcc_I,
-                          2022:gbr_ets_ipcc_I}
+    gbr_ets_ipcc_scope = {year: gbr_ets_ipcc_I for year in range(2021, 2025)}
     
     ## Sources dictionary
     
-    gbr_ets_scope_sources = {2021:"leg(UK-SI[2020])",
-                             2022:"leg(UK-SI[2020])"}
-
+    gbr_ets_scope_sources = {year: "leg(UK-SI[2020])" for year in range(2021, 2025)}
 
     #------------------------------------------------------------------------
     # USA-Regional Greenhouse Gas Initiative
@@ -560,30 +549,17 @@ def scope():
     usa_rggi_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
     
     ## scope dictionaries
-    usa_rggi_jur_scope = { 2009:usa_rggi_jur_I, 2010:usa_rggi_jur_I,
-                            2011:usa_rggi_jur_I, 2012:usa_rggi_jur_II,
-                            2013:usa_rggi_jur_II, 2014:usa_rggi_jur_II,
-                            2015:usa_rggi_jur_II, 2016:usa_rggi_jur_II,
-                            2017:usa_rggi_jur_II, 2018:usa_rggi_jur_I,
-                            2019:usa_rggi_jur_I, 2020:usa_rggi_jur_I,
-                            2021:usa_rggi_jur_I, 2022:usa_rggi_jur_I}
+    usa_rggi_jur_scope = {year: usa_rggi_jur_I for year in range(2009, 2012)}
+    usa_rggi_jur_scope.update({year: usa_rggi_jur_II for year in range(2012, 2018)})
+    usa_rggi_jur_scope.update({year: usa_rggi_jur_I for year in range(2018, 2025)})
     
-    usa_rggi_ipcc_scope = {year: usa_rggi_ipcc_I for year in range(2009, 2023)}
+    usa_rggi_ipcc_scope = {year: usa_rggi_ipcc_I for year in range(2009, 2025)}
     
     ## Sources dictionary
     
-    usa_rggi_scope_sources = {2009:"gvt(RGGI-MOU[2005])", 2010:"gvt(RGGI-MOU[2005])", 
-                                2011:"gvt(RGGI-MOU[2005])", 2012:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2013:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2014:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2015:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2016:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2017:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2018:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2019:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2020:"gvt(RGGI-MOU[2005], NJ[2011])", 
-                                2021:"gvt(RGGI-MOU[2005], NJ[2011])",
-                                2022:"gvt(RGGI-MOU[2005], NJ[2011])"}
+    usa_rggi_scope_sources = {year:"gvt(RGGI-MOU[2005])" for year in range(2009, 2012)}
+    usa_rggi_scope_sources.update({year: "gvt(RGGI-MOU[2005], NJ[2011])" for year in range(2012, 2018)})
+    usa_rggi_scope_sources.update({year: " " for year in range(2018, 2025)})
     
     #----------------------------------------------------------------------------
     
@@ -629,28 +605,12 @@ def scope():
                            2021:usa_ca_ets_jur_II, 2022:usa_ca_ets_jur_II, 
                            2023:usa_ca_ets_jur_II, 2024:usa_ca_ets_jur_II}
     
-    usa_ca_ets_ipcc_scope = {2013:usa_ca_ets_ipcc_I, 2014:usa_ca_ets_ipcc_I, 
-                             2015:usa_ca_ets_ipcc_II, 2016:usa_ca_ets_ipcc_II, 
-                             2017:usa_ca_ets_ipcc_II, 2018:usa_ca_ets_ipcc_II, 
-                             2019:usa_ca_ets_ipcc_II, 2020:usa_ca_ets_ipcc_II, 
-                             2021:usa_ca_ets_ipcc_II, 2022:usa_ca_ets_ipcc_II, 
-                             2023:usa_ca_ets_ipcc_II, 2024:usa_ca_ets_ipcc_II}
+    usa_ca_ets_ipcc_scope = {year: usa_ca_ets_ipcc_I for year in range(2013, 2015)}
+    usa_ca_ets_ipcc_scope.update({year: usa_ca_ets_ipcc_II for year in range(2015, 2025)})
 
     ## Sources dictionary
     
-    usa_ca_ets_scope_sources = {2012:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2013:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2014:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2015:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2016:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2017:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2018:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2019:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2020:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])", 
-                                  2021:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",
-                                  2022:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",
-                                  2023:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",
-                                  2024:"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])"}
+    usa_ca_ets_scope_sources = {year: "leg(CA-AB32[2006]), gvt(CARB-FRO[2011])" for year in range(2012, 2025)}
 
     #----------------------------------------------------------------------------
     # USA-Oregon 
@@ -661,19 +621,14 @@ def scope():
                          "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J", "1A2K",
                          "1A2L", "1A2M", "1A3B", "1A4A", "1A4B", "1A5A"]
 
-    usa_or_ets_jur_scope = {2022:usa_or_ets_jur_I,
-                            2023:usa_or_ets_jur_I,
-                            2024:usa_or_ets_jur_I}
+    usa_or_ets_jur_scope = {year: usa_or_ets_jur_I for year in range(2022, 2025)}
+
     
-    usa_or_ets_ipcc_scope = {2022:usa_or_ets_ipcc_I,
-                             2023:usa_or_ets_ipcc_I,
-                             2024:usa_or_ets_ipcc_I}
+    usa_or_ets_ipcc_scope = {year: usa_or_ets_ipcc_I for year in range(2022, 2025)}
 
     ## Sources dictionary
     
-    usa_or_ets_scope_sources = {2022:"report(ICAP[2023])",
-                                2023:"report(ICAP[2024])",
-                                2024:"report(ICAP[2024])"}
+    usa_or_ets_scope_sources = {year: "report(ICAP[2023])" for year in range(2022, 2025)}
 
 
     #----------------------------------------------------------------------------
@@ -688,22 +643,13 @@ def scope():
     
     ## scope dictionaries
     
-    usa_ma_ets_jur_scope = {2018:usa_ma_ets_jur_I, 2019:usa_ma_ets_jur_I,
-                            2020:usa_ma_ets_jur_I, 2021:usa_ma_ets_jur_I,
-                            2022:usa_ma_ets_jur_I, 2023:usa_ma_ets_jur_I,
-                            2024:usa_ma_ets_jur_I}
+    usa_ma_ets_jur_scope = {year: usa_ma_ets_jur_I for year in range(2018, 2025)}
     
-    usa_ma_ets_ipcc_scope = {2018:usa_ma_ets_ipcc_I, 2019:usa_ma_ets_ipcc_I,
-                             2020:usa_ma_ets_ipcc_I, 2021:usa_ma_ets_ipcc_I,
-                             2022:usa_ma_ets_ipcc_I, 2023:usa_ma_ets_ipcc_I,
-                            2024:usa_ma_ets_ipcc_I}
+    usa_ma_ets_ipcc_scope = {year: usa_ma_ets_ipcc_I for year in range(2018, 2025)}
     
     ## Sources dictionary
     
-    usa_ma_ets_scope_sources = {2018:"leg(MA[2017])", 2019:"leg(MA[2017])", 
-                                2020:"leg(MA[2017])", 2021:"leg(MA[2017])",
-                                2022:"leg(MA[2017])", 2023:"leg(MA[2017])",
-                                2024:"leg(MA[2017])"}
+    usa_ma_ets_scope_sources = {year: "leg(MA[2017])" for year in range(2018, 2025)}
 
     #------------------------------------------------------------------------
     # USA-Washington
@@ -727,7 +673,8 @@ def scope():
 
     ## Sources dictionary
     
-    usa_wa_ets_scope_sources = {2023:"report(ICAP[2023])"}
+    usa_wa_ets_scope_sources = {2023:"report(ICAP[2023])",
+                                2024: " "}
 
     #------------------------------------------------------------------------
     
@@ -751,31 +698,15 @@ def scope():
                           "2B8E", "4D1", "4D2"]
     
     ## scope dictionaries
-    chn_bj_ets_jur_scope = {2013:chn_bj_ets_jur_I, 2014:chn_bj_ets_jur_I,
-                           2015:chn_bj_ets_jur_I, 2016:chn_bj_ets_jur_I,
-                           2017:chn_bj_ets_jur_I, 2018:chn_bj_ets_jur_I,
-                           2019:chn_bj_ets_jur_I, 2020:chn_bj_ets_jur_I,
-                           2021:chn_bj_ets_jur_I, 2022:chn_bj_ets_jur_I}
+    chn_bj_ets_jur_scope = {year: chn_bj_ets_jur_I for year in range(2013, 2023)}
     
-    chn_bj_ets_ipcc_scope = {2013:chn_bj_ets_ipcc_I, 2014:chn_bj_ets_ipcc_I,
-                            2015:chn_bj_ets_ipcc_I, 2016:chn_bj_ets_ipcc_I,
-                            2017:chn_bj_ets_ipcc_I, 2018:chn_bj_ets_ipcc_I,
-                            2019:chn_bj_ets_ipcc_I, 2020:chn_bj_ets_ipcc_I,
-                            2021:chn_bj_ets_ipcc_II, 2022:chn_bj_ets_ipcc_II,}
+    chn_bj_ets_ipcc_scope = {year: chn_bj_ets_ipcc_I for year in range(2013, 2021)}
+    chn_bj_ets_ipcc_scope.update({year: chn_bj_ets_ipcc_II for year in range(2021, 2023)})
     
     ## Sources dictionary
     
-    chn_bj_ets_scope_sources = {2013:"gvt(BJ[2020]), report(ICAP[2021])", 
-                                   2014:"gvt(BJ[2020]), report(ICAP[2021])",
-                                   2015:"gvt(BJ[2020]), report(ICAP[2021])", 
-                                   2016:"gvt(BJ[2020]), report(ICAP[2021])",
-                                   2017:"gvt(BJ[2020]), report(ICAP[2021])", 
-                                   2018:"gvt(BJ[2020]), report(ICAP[2021])", 
-                                   2019:"gvt(BJ[2020]), report(ICAP[2021])", 
-                                   2020:"gvt(BJ[2020]), report(ICAP[2021])", 
-                                   2021:"gvt(BJ[2020]), report(ICAP[2021])",
-                                   2022:"report(ICAP[2023])"}
-    
+    chn_bj_ets_scope_sources = {year: "gvt(BJ[2020]), report(ICAP[2021])" for year in range(2013, 2022)}
+    chn_bj_ets_scope_sources[2022] = "report(ICAP[2023])"
 
     #----------------------------------------------------------------------------
     
@@ -793,17 +724,10 @@ def scope():
     chn_cq_ets_ipcc_II = ["1A2A", "2A1", "2B5", "2C1", "2C2", "2C3"]
 
     ## scope dictionaries
-    chn_cq_ets_jur_scope = {2014:chn_cq_ets_jur_I,
-                           2015:chn_cq_ets_jur_I, 2016:chn_cq_ets_jur_I,
-                           2017:chn_cq_ets_jur_I, 2018:chn_cq_ets_jur_I,
-                           2019:chn_cq_ets_jur_I, 2020:chn_cq_ets_jur_I,
-                           2021:chn_cq_ets_jur_I, 2022:chn_cq_ets_jur_I}
+    chn_cq_ets_jur_scope = {year: chn_cq_ets_jur_I for year in range(2014, 2023)}
     
-    chn_cq_ets_ipcc_scope = {2014:chn_cq_ets_ipcc_I,
-                            2015:chn_cq_ets_ipcc_I, 2016:chn_cq_ets_ipcc_I,
-                            2017:chn_cq_ets_ipcc_I, 2018:chn_cq_ets_ipcc_I,
-                            2019:chn_cq_ets_ipcc_I, 2020:chn_cq_ets_ipcc_I,
-                            2021:chn_cq_ets_ipcc_II, 2022:chn_cq_ets_ipcc_II}
+    chn_cq_ets_ipcc_scope = {year: chn_cq_ets_ipcc_I for year in range(2014, 2021)}
+    chn_cq_ets_ipcc_scope.update({year: chn_cq_ets_ipcc_II for year in range(2021, 2023)})
 
     ## Sources dictionary
     
@@ -837,25 +761,15 @@ def scope():
                           "2B9B", "2C1", "2C3", "2C4", "2C5","2C6", "2C7", "2H1"]
 
     ## scope dictionaries
-    chn_fj_ets_jur_scope = {2016:chn_fj_ets_jur_I,
-                           2017:chn_fj_ets_jur_I, 2018:chn_fj_ets_jur_I,
-                           2019:chn_fj_ets_jur_I, 2020:chn_fj_ets_jur_I,
-                           2021:chn_fj_ets_jur_I, 2022:chn_fj_ets_jur_I}
+    chn_fj_ets_jur_scope = {year: chn_fj_ets_jur_I for year in range(2016, 2023)}
     
-    chn_fj_ets_ipcc_scope = {2016:chn_fj_ets_ipcc_I,
-                            2017:chn_fj_ets_ipcc_I, 2018:chn_fj_ets_ipcc_I,
-                            2019:chn_fj_ets_ipcc_I, 2020:chn_fj_ets_ipcc_I,
-                            2021:chn_fj_ets_ipcc_II, 2022:chn_fj_ets_ipcc_II}
+    chn_fj_ets_ipcc_scope = {year: chn_fj_ets_ipcc_I for year in range(2016, 2021)}
+    chn_fj_ets_ipcc_scope.update({year: chn_fj_ets_ipcc_II for year in range(2021, 2023)})
     
     ## Sources dictionary
     
-    chn_fj_ets_scope_sources = {2016:"web(FJ[2018]), report(ICAP[2021])", 
-                                2017:"web(FJ[2018]), report(ICAP[2021])", 
-                                2018:"web(FJ[2018]), report(ICAP[2021])", 
-                                2019:"web(FJ[2018]), report(ICAP[2021])",
-                                2020:"web(FJ[2018]), report(ICAP[2021])", 
-                                2021:"web(FJ[2018]), report(ICAP[2021])",
-                                2022:"report(ICAP[2023])"}
+    chn_fj_ets_scope_sources = {year: "web(FJ[2018]), report(ICAP[2021])" for year in range(2016, 2022)}
+    chn_fj_ets_scope_sources[2022] = "report(ICAP[2023])"
     
 
     #----------------------------------------------------------------------------
@@ -881,30 +795,16 @@ def scope():
                             "2B8B", "2B8C", "2B8D", "2B8E", "2C1", "2H1"]
 
     ## scope dictionaries
-    chn_gd_ets_jur_scope = {2013:chn_gd_ets_jur_I, 2014:chn_gd_ets_jur_I,
-                            2015:chn_gd_ets_jur_I, 2016:chn_gd_ets_jur_I,
-                            2017:chn_gd_ets_jur_I, 2018:chn_gd_ets_jur_I,
-                            2019:chn_gd_ets_jur_I, 2020:chn_gd_ets_jur_I,
-                            2021:chn_gd_ets_jur_I, 2022:chn_gd_ets_jur_I}
-    
-    chn_gd_ets_ipcc_scope = {2013:chn_gd_ets_ipcc_I, 2014:chn_gd_ets_ipcc_I,
-                            2015:chn_gd_ets_ipcc_I, 2016:chn_gd_ets_ipcc_II,
-                            2017:chn_gd_ets_ipcc_II, 2018:chn_gd_ets_ipcc_II,
-                            2019:chn_gd_ets_ipcc_II, 2020:chn_gd_ets_ipcc_II,
-                            2021:chn_gd_ets_ipcc_III, 2022:chn_gd_ets_ipcc_III}  
+    chn_gd_ets_jur_scope = {year: chn_gd_ets_jur_I for year in range(2013, 2023)}
+
+    chn_gd_ets_ipcc_scope = {year: chn_gd_ets_ipcc_I for year in range(2014, 2016)}
+    chn_gd_ets_ipcc_scope.update({year: chn_gd_ets_ipcc_II for year in range(2016, 2021)})
+    chn_gd_ets_ipcc_scope.update({year: chn_gd_ets_ipcc_III for year in range(2021, 2023)})
 
     ## Sources dictionary
     
-    chn_gd_ets_scope_sources = {2013:"report(ICAP[2021])", 
-                                   2014:"report(ICAP[2021])",
-                                   2015:"report(ICAP[2021])", 
-                                   2016:"report(ICAP[2021])", 
-                                   2017:"report(ICAP[2021])", 
-                                   2018:"report(ICAP[2021])", 
-                                   2019:"report(ICAP[2021])",
-                                   2020:"report(ICAP[2021])", 
-                                   2021:"report(ICAP[2021])",
-                                   2022:"report(ICAP[2023])"}
+    chn_gd_ets_scope_sources = {year: "report(ICAP[2021])" for year in range(2013, 2022)}
+    chn_gd_ets_scope_sources[2022] = "report(ICAP[2023])"
 
 
     #----------------------------------------------------------------------------
@@ -939,17 +839,11 @@ def scope():
                            "2C3", "2C4", "2C5", "2C6", "2C7", "2G1", "2H1", "2H2"]
 
     ## scope dictionaries
-    chn_hb_ets_jur_scope = {2014:chn_hb_ets_jur_I,
-                           2015:chn_hb_ets_jur_I, 2016:chn_hb_ets_jur_I,
-                           2017:chn_hb_ets_jur_I, 2018:chn_hb_ets_jur_I,
-                           2019:chn_hb_ets_jur_I, 2020:chn_hb_ets_jur_I,
-                           2021:chn_hb_ets_jur_I, 2022:chn_hb_ets_jur_I}
+    chn_hb_ets_jur_scope = {year: chn_hb_ets_jur_I for year in range(2014, 2023)}
     
-    chn_hb_ets_ipcc_scope = {2014:chn_hb_ets_ipcc_I,
-                            2015:chn_hb_ets_ipcc_I, 2016:chn_hb_ets_ipcc_II,
-                            2017:chn_hb_ets_ipcc_II, 2018:chn_hb_ets_ipcc_II,
-                            2019:chn_hb_ets_ipcc_II, 2020:chn_hb_ets_ipcc_II,
-                            2021:chn_hb_ets_ipcc_III, 2022:chn_hb_ets_ipcc_III}  
+    chn_hb_ets_ipcc_scope = {year: chn_hb_ets_ipcc_I for year in range(2014, 2016)}
+    chn_hb_ets_ipcc_scope.update({year: chn_hb_ets_ipcc_II for year in range(2016, 2021)})
+    chn_hb_ets_ipcc_scope.update({year: chn_hb_ets_ipcc_III for year in range(2021, 2023)})
 
     ## Sources dictionary
     
@@ -995,25 +889,15 @@ def scope():
                           "2C3", "2C4", "2C5", "2C6", "2C7", "2H1"]
     
     ## scope dictionaries
-    chn_sh_ets_jur_scope = {2013:chn_sh_ets_jur_I, 2014:chn_sh_ets_jur_I,
-                           2015:chn_sh_ets_jur_I, 2016:chn_sh_ets_jur_I,
-                           2017:chn_sh_ets_jur_I, 2018:chn_sh_ets_jur_I,
-                           2019:chn_sh_ets_jur_I, 2020:chn_sh_ets_jur_I,
-                           2021:chn_sh_ets_jur_I, 2022:chn_sh_ets_jur_I}
+    chn_sh_ets_jur_scope = {year: chn_sh_ets_jur_I for year in range(2013, 2023)}
     
-    chn_sh_ets_ipcc_scope = {2013:chn_sh_ets_jur_I, 2014:chn_sh_ets_ipcc_I,
-                            2015:chn_sh_ets_ipcc_I, 2016:chn_sh_ets_ipcc_II,
-                            2017:chn_sh_ets_ipcc_II, 2018:chn_sh_ets_ipcc_II,
-                            2019:chn_sh_ets_ipcc_II, 2020:chn_sh_ets_ipcc_II,
-                            2021:chn_sh_ets_ipcc_III, 2022:chn_sh_ets_ipcc_III}  
+    chn_sh_ets_ipcc_scope = {year: chn_sh_ets_ipcc_I for year in range(2013, 2016)}
+    chn_sh_ets_ipcc_scope.update({year: chn_sh_ets_ipcc_II for year in range(2016, 2021)})
+    chn_sh_ets_ipcc_scope.update({year: chn_sh_ets_ipcc_III for year in range(2021, 2023)})
 
     ## Sources dictionary
-    
-    chn_sh_ets_scope_sources = {2013:"report(ICAP[2021])", 2014:"report(ICAP[2021])",
-                                   2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
-                                   2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
-                                   2019:"report(ICAP[2021])", 2020:"report(ICAP[2021])", 
-                                   2021:"report(ICAP[2021])", 2022:"report(ICAP[2023])"}
+    chn_sh_ets_scope_sources = {year: "report(ICAP[2021])" for year in range(2013, 2022)}
+    chn_sh_ets_scope_sources[2022] = "report(ICAP[2023])"
     
     #----------------------------------------------------------------------------
     
@@ -1037,25 +921,15 @@ def scope():
                          "1B2B31", "1B2B32", "1B2B33", "1B2B34", "1B2B35", "1B2B36"]
 
     ## scope dictionaries
-    chn_sz_ets_jur_scope = {2013:chn_sz_ets_jur_I, 2014:chn_sz_ets_jur_I,
-                           2015:chn_sz_ets_jur_I, 2016:chn_sz_ets_jur_I,
-                           2017:chn_sz_ets_jur_I, 2018:chn_sz_ets_jur_I,
-                           2019:chn_sz_ets_jur_I, 2020:chn_sz_ets_jur_I,
-                           2021:chn_sz_ets_jur_I, 2022:chn_sz_ets_jur_I}
+    chn_sz_ets_jur_scope = {year: chn_sz_ets_jur_I for year in range(2013, 2023)}
     
-    chn_sz_ets_ipcc_scope = {2013:chn_sz_ets_ipcc_I, 2014:chn_sz_ets_ipcc_I,
-                            2015:chn_sz_ets_ipcc_I, 2016:chn_sz_ets_ipcc_I,
-                            2017:chn_sz_ets_ipcc_I, 2018:chn_sz_ets_ipcc_I,
-                            2019:chn_sz_ets_ipcc_I, 2020:chn_sz_ets_ipcc_I,
-                            2021:chn_sz_ets_ipcc_II, 2022:chn_sz_ets_ipcc_II}
+    chn_sz_ets_ipcc_scope = {year: chn_sz_ets_ipcc_I for year in range(2013, 2021)}
+    chn_sz_ets_ipcc_scope.update({year: chn_sz_ets_ipcc_II for year in range(2021, 2023)})
 
     ## Sources dictionary
     
-    chn_sz_ets_scope_sources = {2013:"report(ICAP[2021])", 2014:"report(ICAP[2021])",
-                                   2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
-                                   2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
-                                   2019:"report(ICAP[2021])", 2020:"report(ICAP[2021])", 
-                                   2021:"report(ICAP[2021])", 2022:"report(ICAP[2023])"}
+    chn_sz_ets_scope_sources = {year: "report(ICAP[2021])" for year in range(2013, 2022)}
+    chn_sz_ets_scope_sources[2022] = "report(ICAP[2023])"
 
 
     #----------------------------------------------------------------------------
@@ -1086,25 +960,15 @@ def scope():
                           "2B8E", "2B8F", "2B9A", "2B9B", "2C1", "2H1"]
 
     ## scope dictionaries
-    chn_tj_ets_jur_scope = {2013:chn_tj_ets_jur_I, 2014:chn_tj_ets_jur_I,
-                               2015:chn_tj_ets_jur_I, 2016:chn_tj_ets_jur_I,
-                               2017:chn_tj_ets_jur_I, 2018:chn_tj_ets_jur_I,
-                               2019:chn_tj_ets_jur_I, 2020:chn_tj_ets_jur_I,
-                               2021:chn_tj_ets_jur_I, 2022:chn_tj_ets_jur_I}
+    chn_tj_ets_jur_scope = {year: chn_tj_ets_jur_I for year in range(2013, 2023)}
     
-    chn_tj_ets_ipcc_scope = {2013:chn_tj_ets_jur_I, 2014:chn_tj_ets_ipcc_I,
-                            2015:chn_tj_ets_ipcc_I, 2016:chn_tj_ets_ipcc_I,
-                            2017:chn_tj_ets_ipcc_I, 2018:chn_tj_ets_ipcc_I,
-                            2019:chn_tj_ets_ipcc_II, 2020:chn_tj_ets_ipcc_II,
-                            2021:chn_tj_ets_ipcc_III, 2022:chn_tj_ets_ipcc_III}     
+    chn_tj_ets_ipcc_scope = {year: chn_tj_ets_ipcc_I for year in range(2013, 2019)}
+    chn_tj_ets_ipcc_scope.update({year: chn_tj_ets_ipcc_II for year in range(2019, 2021)})
+    chn_tj_ets_ipcc_scope.update({year: chn_tj_ets_ipcc_III for year in range(2021, 2023)})
     
     ## Sources dictionary
     
-    chn_tj_ets_scope_sources = {2013:"report(ICAP[2021])", 2014:"report(ICAP[2021])",
-                                   2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
-                                   2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
-                                   2019:"report(ICAP[2021])", 2020:"report(ICAP[2021])", 
-                                   2021:"report(ICAP[2021])", 2022:"report(ICAP[2021])"}
+    chn_tj_ets_scope_sources = {year: "report(ICAP[2021])" for year in range(2013, 2023)}
 
     #----------------------------------------------------------------------------
     
@@ -1164,42 +1028,17 @@ def scope():
                            "4A1", "4A2", "4A3", "4D", "4D1", "4D2"]
     
     ## scope dictionaries
-    can_ab_ets_jur_scope = {2007:can_ab_ets_jur_I, 2008:can_ab_ets_jur_I,
-                               2009:can_ab_ets_jur_I, 2010:can_ab_ets_jur_I,
-                               2011:can_ab_ets_jur_I, 2012:can_ab_ets_jur_I,
-                               2013:can_ab_ets_jur_I, 2014:can_ab_ets_jur_I,
-                               2015:can_ab_ets_jur_I, 2016:can_ab_ets_jur_I,
-                               2017:can_ab_ets_jur_I, 2018:can_ab_ets_jur_I,
-                               2019:can_ab_ets_jur_I, 2020:can_ab_ets_jur_I,
-                               2021:can_ab_ets_jur_I, 2022:can_ab_ets_jur_I}
+    can_ab_ets_jur_scope = {year: can_ab_ets_jur_I for year in range(2007, 2023)}
     
-    can_ab_ets_ipcc_scope = {2007:can_ab_ets_ipcc_I, 2008:can_ab_ets_ipcc_I,
-                                2009:can_ab_ets_ipcc_I, 2010:can_ab_ets_ipcc_I,
-                                2011:can_ab_ets_ipcc_I, 2012:can_ab_ets_ipcc_I,
-                                2013:can_ab_ets_ipcc_I, 2014:can_ab_ets_ipcc_I,
-                                2015:can_ab_ets_ipcc_I, 2016:can_ab_ets_ipcc_I,
-                                2017:can_ab_ets_ipcc_I, 2018:can_ab_ets_ipcc_II,
-                                2019:can_ab_ets_ipcc_II, 2020:can_ab_ets_ipcc_III,
-                                2021:can_ab_ets_ipcc_III, 2022:can_ab_ets_ipcc_III}     
+    can_ab_ets_ipcc_scope = {year: can_ab_ets_ipcc_I for year in range(2007, 2018)}
+    can_ab_ets_ipcc_scope.update({year: can_ab_ets_ipcc_II for year in range(2018, 2020)})
+    can_ab_ets_ipcc_scope.update({year: can_ab_ets_ipcc_III for year in range(2020, 2023)})
     
     ## Sources dictionary
     
-    can_ab_ets_scope_sources = {2007:"gvt(SGER[2009], SGER[2019])", 
-                                   2008:"gvt(SGER[2009], SGER[2019])",
-                                   2009:"gvt(SGER[2009], SGER[2019])", 
-                                   2010:"gvt(SGER[2009], SGER[2019])",
-                                   2011:"gvt(SGER[2009], SGER[2019])", 
-                                   2012:"gvt(SGER[2009], SGER[2019])",
-                                   2013:"gvt(SGER[2009], SGER[2019])", 
-                                   2014:"gvt(SGER[2009], SGER[2019])",
-                                   2015:"gvt(SGER[2009], SGER[2019])", 
-                                   2016:"gvt(SGER[2009], SGER[2019])",
-                                   2017:"gvt(SGER[2009], SGER[2019])", 
-                                   2018:"gvt(ALBGOV[2019])",
-                                   2019:"gvt(ALBGOV[2019])", 
-                                   2020:"gvt(ABGOV[2021], ABGOV[2021b])",
-                                   2021:"gvt(ABGOV[2021], ABGOV[2021b])",
-                                   2022:"gvt(ABGOV[2021], ABGOV[2021b])"}    
+    can_ab_ets_scope_sources = {year: "gvt(SGER[2009], SGER[2019])" for year in range(2007, 2018)}
+    can_ab_ets_scope_sources.update({year: "gvt(ALBGOV[2019])" for year in range(2018, 2020)})
+    can_ab_ets_scope_sources.update({year: "gvt(ABGOV[2021], ABGOV[2021b])" for year in range(2020, 2023)})
 
     #----------------------------------------------------------------------------
     
@@ -1271,11 +1110,7 @@ def scope():
     
     ## Sources dictionary
     
-    can_sk_ets_scope_sources = {2019:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])", 
-                                   2020:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])",
-                                   2021:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])",
-                                   2022:"leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])"}    
-
+    can_sk_ets_scope_sources = {year: "leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])" for year in range(2019, 2023)}
 
     #----------------------------------------------------------------------------
     
