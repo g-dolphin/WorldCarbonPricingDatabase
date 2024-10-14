@@ -6,8 +6,6 @@ Created on Mon Jul 26 07:54:30 2021
 @author: gd
 """
     
-def create_scope_dict(years, data):
-    return {year: data for year in years}
 
 def scope():    
     # Argentina
@@ -34,7 +32,7 @@ def scope():
     
     arg_tax_ipcc_scope = {year: arg_tax_ipcc_I for year in range(2018, 2025)}     
 
-    arg_tax_fuel_scope = {2018:arg_tax_fuel_I}
+    arg_tax_fuel_scope = {2018: arg_tax_fuel_I}
     arg_tax_fuel_scope.update({year: arg_tax_fuel_II for year in range(2019, 2025)})
 
     ## Sources dictionary
@@ -371,6 +369,39 @@ def scope():
     fra_tax_scope_sources[2022] = "db(WBCPD[2023])"
     fra_tax_scope_sources[2023] = "db(WBCPD[2024])"
     fra_tax_scope_sources[2024] = "db(WBCPD[2024])"
+
+    #----------------------------------------------------------------------------
+
+    # Uruguay
+    
+    ## Jurisdiction
+    
+    hun_tax_jur_I = ["Hungary"]
+
+    ## IPCC categories
+    
+    hun_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
+                      "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
+                      "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", 
+                      "1C1A", "1C2B",
+                      "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", 
+                      "2B4", "2B5", "2B6", "2B7", "2B8F",
+                      "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
+    
+    ## Fuels
+    
+    hun_tax_fuel_I = ["Oil", "Coal", "Natural gas"]
+
+    ## scope dictionaries
+    hun_tax_jur_scope = {year: hun_tax_jur_I for year in range(2023, 2025)}
+    
+    hun_tax_ipcc_scope = {year: hun_tax_ipcc_I for year in range(2023, 2025)}     
+
+    hun_tax_fuel_scope = {year: hun_tax_fuel_I for year in range(2023, 2025)}
+
+    ## Sources dictionary
+    
+    hun_tax_scope_sources = {year: " " for year in range(2023, 2025)}
 
     #----------------------------------------------------------------------------
 
@@ -1077,6 +1108,37 @@ def scope():
 
     #----------------------------------------------------------------------------
 
+    # Uruguay
+    
+    ## Jurisdiction
+    
+    ury_tax_jur_I = ["Uruguay"]
+
+    ## IPCC categories
+    
+    ury_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
+                      "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
+                      "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
+                      "1A3B", "1A3C", "1A3D2", "1A3E1", "1A4A", "1A4B",
+                      "1A4C1", "1A4C2", "1A4C3", "1A5A", "1A5B", "1A5C"]
+    
+    ## Fuels
+    
+    ury_tax_fuel_I = ["Oil"]
+
+    ## scope dictionaries
+    ury_tax_jur_scope = {year: ury_tax_jur_I for year in range(2022, 2025)}
+    
+    ury_tax_ipcc_scope = {year: ury_tax_ipcc_I for year in range(2022, 2025)}     
+
+    ury_tax_fuel_scope = {year: ury_tax_fuel_I for year in range(2022, 2025)}
+
+    ## Sources dictionary
+    
+    ury_tax_scope_sources = {year: " " for year in range(2022, 2025)}
+
+    #----------------------------------------------------------------------------
+
     # Mexico - Baja California
     
     ## Jurisdiction
@@ -1473,6 +1535,9 @@ def scope():
                       "fra_tax":{"jurisdictions":fra_tax_jur_scope, 
                                   "sectors":fra_tax_ipcc_scope,
                                   "fuels":fra_tax_fuel_scope},
+                      "hun_tax":{"jurisdictions":hun_tax_jur_scope, 
+                                  "sectors":hun_tax_ipcc_scope,
+                                  "fuels":hun_tax_fuel_scope},
                       "isl_tax":{"jurisdictions":isl_tax_jur_scope, 
                                   "sectors":isl_tax_ipcc_scope,
                                   "fuels":isl_tax_fuel_scope},
@@ -1527,6 +1592,9 @@ def scope():
                       "ukr_tax":{"jurisdictions":ukr_tax_jur_scope, 
                                   "sectors":ukr_tax_ipcc_scope,
                                   "fuels":ukr_tax_fuel_scope},
+                     "ury_tax":{"jurisdictions":ury_tax_jur_scope, 
+                                  "sectors":ury_tax_ipcc_scope,
+                                  "fuels":ury_tax_fuel_scope}, 
                       "gbr_tax":{"jurisdictions":gbr_tax_jur_scope, 
                                   "sectors":gbr_tax_ipcc_scope,
                                   "fuels":gbr_tax_fuel_scope},
@@ -1573,6 +1641,7 @@ def scope():
                               "est_tax":est_tax_scope_sources,
                               "fin_tax":fin_tax_scope_sources,
                               "fra_tax":fra_tax_scope_sources,
+                              "hun_tax":hun_tax_scope_sources,
                               "isl_tax":isl_tax_scope_sources,
                               "irl_tax":irl_tax_scope_sources,
                               "jpn_tax":jpn_tax_scope_sources,
@@ -1592,6 +1661,7 @@ def scope():
                               "swe_tax":swe_tax_scope_sources,
                               "ukr_tax":ukr_tax_scope_sources,
                               "gbr_tax":gbr_tax_scope_sources,
+                              "ury_tax":ury_tax_scope_sources,
                               "can_tax_I":can_tax_I_scope_sources,
                               "can_tax_II":can_tax_II_scope_sources,
                               "can_ab_tax":can_ab_tax_scope_sources,
