@@ -363,6 +363,26 @@ def scope():
     che_ets_scope_sources.update({year:" " for year in range(2022, 2023)})
     
     #----------------------------------------------------------------------------
+
+    # IDN-Indonesia ETS (idn_ets)
+
+    # Jurisdiction
+    idn_ets_jur_I = ["Indonesia"]
+
+    # IPCC categories - covering categories not covered by the EU ETS
+    idn_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3"]
+
+    ## scope dictionaries
+    
+    idn_ets_jur_scope = {year: idn_ets_jur_I for year in range(2023, 2025)}
+    
+    idn_ets_ipcc_scope = {year: idn_ets_ipcc_I for year in range(2023, 2025)}
+    
+    ## Sources dictionary
+    
+    idn_ets_scope_sources = {2023:" ", 2024:" "}
+
+    #----------------------------------------------------------------------------
     
     # Kazakhstan
     
@@ -1209,7 +1229,9 @@ def scope():
                     "deu_ets":{"jurisdictions":deu_ets_jur_scope, 
                               "sectors":deu_ets_ipcc_scope}, 
                     "gbr_ets":{"jurisdictions":gbr_ets_jur_scope, 
-                              "sectors":gbr_ets_ipcc_scope},                               
+                              "sectors":gbr_ets_ipcc_scope},    
+                    "idn_ets":{"jurisdictions":idn_ets_jur_scope, 
+                              "sectors":idn_ets_ipcc_scope},                               
                     "kaz_ets":{"jurisdictions":kaz_ets_jur_scope, 
                               "sectors":kaz_ets_ipcc_scope},
                     "kor_ets":{"jurisdictions":kor_ets_jur_scope, 
@@ -1268,6 +1290,7 @@ def scope():
                             "che_ets":che_ets_scope_sources,
                             "deu_ets":deu_ets_scope_sources,
                             "gbr_ets":gbr_ets_scope_sources,
+                            "idn_ets":idn_ets_scope_sources,
                             "kaz_ets":kaz_ets_scope_sources,
                             "kor_ets":kor_ets_scope_sources,
                             "mex_ets":mex_ets_scope_sources,
