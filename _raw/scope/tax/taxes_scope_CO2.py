@@ -1134,6 +1134,42 @@ def scope():
 
     #----------------------------------------------------------------------------
 
+    # Mexico - Guanajuato
+    
+    ## Jurisdiction
+    
+    mex_gj_tax_jur_I = ["Guanajuato"]
+
+    ## IPCC categories
+    
+    mex_gj_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
+                         "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
+                         "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", 
+                         "2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C", "2A4D",
+                         "2B1", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A",
+                         "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B",
+                         "2B10", "2C1","2C2","2C3", "2C4", "2C5","2C6", "2C7",
+                         "2D1", "2D2", "2D3","2D4", "20", "200", "2000", "20000",
+                         "200000", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                         "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
+    
+    ## Fuels
+    
+    mex_gj_tax_fuel_I = ["Coal", "Natural gas", "Oil"]
+
+    ## scope dictionaries
+    mex_gj_tax_jur_scope = {year: mex_gj_tax_jur_I for year in range(2024, 2025)}
+    
+    mex_gj_tax_ipcc_scope = {year: mex_gj_tax_ipcc_I for year in range(2024, 2025)}  
+
+    mex_gj_tax_fuel_scope = {year: mex_gj_tax_fuel_I for year in range(2024, 2025)}
+    
+    ## Sources dictionary
+    
+    mex_gj_tax_scope_sources = {year: " " for year in range(2024, 2025)}
+
+    #----------------------------------------------------------------------------
+
     # Mexico - Tamaulipas
     
     ## Jurisdiction
@@ -1167,6 +1203,42 @@ def scope():
     ## Sources dictionary
     
     mex_tm_tax_scope_sources = {2021:" ", 2022: " "} 
+
+    #----------------------------------------------------------------------------
+
+    # Mexico - Yucatan
+    
+    ## Jurisdiction
+    
+    mex_yu_tax_jur_I = ["Yucatan"]
+
+    ## IPCC categories
+    
+    mex_yu_tax_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C",
+                         "1A2A", "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", 
+                         "1A2H", "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", 
+                         "2A1", "2A2", "2A3", "2A4A", "2A4B", "2A4C", "2A4D",
+                         "2B1", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8A",
+                         "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9A", "2B9B",
+                         "2B10", "2C1","2C2","2C3", "2C4", "2C5","2C6", "2C7",
+                         "2D1", "2D2", "2D3","2D4", "20", "200", "2000", "20000",
+                         "200000", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6",
+                         "2G1", "2G2", "2G3", "2G4", "2H1", "2H2", "2H3"]
+    
+    ## Fuels
+    
+    mex_yu_tax_fuel_I = ["Coal", "Natural gas", "Oil"]
+
+    ## scope dictionaries
+    mex_yu_tax_jur_scope = {year: mex_yu_tax_jur_I for year in range(2022, 2025)}
+    
+    mex_yu_tax_ipcc_scope = {year: mex_yu_tax_ipcc_I for year in range(2022, 2025)}  
+
+    mex_yu_tax_fuel_scope = {year: mex_yu_tax_fuel_I for year in range(2022, 2025)}
+    
+    ## Sources dictionary
+    
+    mex_yu_tax_scope_sources = {year: " " for year in range(2022, 2025)}
 
     #----------------------------------------------------------------------------
 
@@ -1584,6 +1656,12 @@ def scope():
                       "mex_bc_tax":{"jurisdictions":mex_bc_tax_jur_scope,
                                     "sectors":mex_bc_tax_ipcc_scope,
                                     "fuels":mex_bc_tax_fuel_scope},
+                      "mex_gj_tax":{"jurisdictions":mex_gj_tax_jur_scope,
+                                    "sectors":mex_gj_tax_ipcc_scope,
+                                    "fuels":mex_gj_tax_fuel_scope},
+                      "mex_yu_tax":{"jurisdictions":mex_yu_tax_jur_scope,
+                                    "sectors":mex_yu_tax_ipcc_scope,
+                                    "fuels":mex_yu_tax_fuel_scope},
                       "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_scope,
                                     "sectors":mex_tm_tax_ipcc_scope,
                                     "fuels":mex_tm_tax_fuel_scope},
@@ -1630,7 +1708,9 @@ def scope():
                               "can_nl_tax":can_nl_tax_scope_sources,
                               "can_nt_tax":can_nt_tax_scope_sources,
                               "mex_bc_tax":mex_bc_tax_scope_sources,
+                              "mex_gj_tax":mex_gj_tax_scope_sources,
                               "mex_tm_tax":mex_tm_tax_scope_sources,
+                              "mex_yu_tax":mex_yu_tax_scope_sources,
                               "mex_za_tax":mex_za_tax_scope_sources}
     
     
