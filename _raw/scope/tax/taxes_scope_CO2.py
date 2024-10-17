@@ -583,11 +583,11 @@ def scope():
     lux_tax_fuel_I = ["Oil", "Natural gas"]
 
     ## scope dictionaries
-    lux_tax_jur_scope = {2021:lux_tax_jur_I, 2022:lux_tax_jur_I}
+    lux_tax_jur_scope = {year: lux_tax_jur_I for year in range(2021, 2025)}
     
-    lux_tax_ipcc_scope = {2021:lux_tax_ipcc_I, 2022:lux_tax_ipcc_I}
+    lux_tax_ipcc_scope = {year: lux_tax_ipcc_I for year in range(2021, 2025)}
 
-    lux_tax_fuel_scope = {2021:lux_tax_fuel_I, 2022:lux_tax_fuel_I}
+    lux_tax_fuel_scope = {year: lux_tax_fuel_I for year in range(2021, 2025)}
     
     ## Sources dictionary
     
