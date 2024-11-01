@@ -175,10 +175,10 @@ def scope():
     
     ## scope dictionaries
     can_obps_jur_scope = {2019:can_obps_jur_I, 2020:can_obps_jur_I,
-                             2021:can_obps_jur_II, 2022:can_obps_jur_III}
+                             2021:can_obps_jur_II, 2022:can_obps_jur_III,
+                             2023:can_obps_jur_III, 2024:can_obps_jur_III}
     
-    can_obps_ipcc_scope = {2019:can_obps_ipcc_I, 2020:can_obps_ipcc_I,
-                              2021:can_obps_ipcc_I, 2022:can_obps_ipcc_I}     
+    can_obps_ipcc_scope = {year:can_obps_ipcc_I for year in range(2019, 2025)}
     
     ## Sources dictionary
     
@@ -992,7 +992,7 @@ def scope():
 
     #----------------------------------------------------------------------------
     
-    # Alberta
+    # CAN - Alberta
     
     ## Jurisdiction
     
@@ -1062,7 +1062,14 @@ def scope():
 
     #----------------------------------------------------------------------------
     
-    # Quebec
+    # CAN-British Columbia
+
+    ## Jurisdiction
+    can_bc_ets_jur_I = ["British Columbia"]
+
+    #----------------------------------------------------------------------------
+    
+    # CAN-Quebec
     
     ## Jurisdiction
     can_qc_cat_jur_I = ["Quebec"]
@@ -1093,7 +1100,7 @@ def scope():
 
     #----------------------------------------------------------------------------
 
-    # Saskatchewan
+    # CAN-Saskatchewan
     # Saskatchewan is coded as a stand alone scheme encompassing the Federal OBPS
     # and the provincial OBPS because the existing  structure does not allow to 
     # account for differences in sectoral scope between jurisdictions
@@ -1134,7 +1141,7 @@ def scope():
 
     #----------------------------------------------------------------------------
     
-    # New Brunswick
+    # CAN-New Brunswick
     
     ## Jurisdiction
     
@@ -1158,7 +1165,7 @@ def scope():
 
     #----------------------------------------------------------------------------
     
-    # Nova Scotia
+    # CAN-Nova Scotia
     
     ## Jurisdiction
     
@@ -1190,7 +1197,7 @@ def scope():
 
     #----------------------------------------------------------------------------
     
-    # Newfoundland and Labrador
+    # CAN-Newfoundland and Labrador
     
     ## Jurisdiction
     
