@@ -1291,6 +1291,9 @@ def scope():
     # New Brunswick opts out and Alberta joins in (2020-2021)
     can_tax_I_jur_II = ["Manitoba", "Ontario", "Saskatchewan", "Alberta"]
 
+    # Prince Edward Island replaces its carbon levy with the Federal backstop (2023)
+    can_tax_I_jur_III = ["Manitoba", "Ontario", "Saskatchewan", "Alberta", "Prince Edward Island"]
+
     ## IPCC categories
     
     can_tax_I_ipcc_I = ["1A1A3", "1A1B", "1A1C", "1A2G", "1A2H", "1A2J", "1A2K", 
@@ -1305,13 +1308,12 @@ def scope():
     ## scope dictionaries
     
     can_tax_I_jur_scope = {2019:can_tax_I_jur_I, 2020:can_tax_I_jur_II,
-                             2021:can_tax_I_jur_II, 2022:can_tax_I_jur_II}
+                             2021:can_tax_I_jur_II, 2022:can_tax_I_jur_II,
+                             2023:can_tax_I_jur_III, 2024:can_tax_I_jur_III}
     
-    can_tax_I_ipcc_scope = {2019:can_tax_I_ipcc_I, 2020:can_tax_I_ipcc_I,
-                             2021:can_tax_I_ipcc_I, 2022:can_tax_I_ipcc_I}
+    can_tax_I_ipcc_scope = {year:can_tax_I_ipcc_I for year in range(2019, 2025)}
     
-    can_tax_I_fuel_scope = {2019:can_tax_I_fuel_I, 2020:can_tax_I_fuel_I,
-                             2021:can_tax_I_fuel_I, 2022:can_tax_I_fuel_I}
+    can_tax_I_fuel_scope = {year:can_tax_I_fuel_I for year in range(2019, 2025)}
 
     ## Sources dictionary
     
