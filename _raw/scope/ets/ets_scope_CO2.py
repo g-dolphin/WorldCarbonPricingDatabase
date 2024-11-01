@@ -1154,9 +1154,9 @@ def scope():
                          "1A2J", "2A2", "2H1", "2H2", "3D1"]
     
     ## scope dictionaries
-    can_nb_ets_jur_scope = {2021:can_nb_ets_jur_I, 2022:can_nb_ets_jur_I}
+    can_nb_ets_jur_scope = {year:can_nb_ets_jur_I for year in range(2021, 2025)}
     
-    can_nb_ets_ipcc_scope = {2021:can_nb_ets_ipcc_I, 2022:can_nb_ets_jur_I}     
+    can_nb_ets_ipcc_scope = {year:can_nb_ets_ipcc_I for year in range(2021, 2025)}     
     
     ## Sources dictionary
     
