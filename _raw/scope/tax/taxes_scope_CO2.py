@@ -1342,14 +1342,11 @@ def scope():
 
     ## scope dictionaries
     
-    can_tax_II_jur_scope = {2019:can_tax_II_jur_I, 2020:can_tax_II_jur_I,
-                             2021:can_tax_II_jur_I, 2022:can_tax_II_jur_I}
+    can_tax_II_jur_scope = {year:can_tax_II_jur_I for year in range(2019, 2025)}
     
-    can_tax_II_ipcc_scope = {2019:can_tax_II_ipcc_I, 2020:can_tax_II_ipcc_I,
-                             2021:can_tax_II_ipcc_I, 2022:can_tax_II_ipcc_I}
+    can_tax_II_ipcc_scope = {year:can_tax_II_ipcc_I for year in range(2019, 2025)}
     
-    can_tax_II_fuel_scope = {2019:can_tax_II_fuel_I, 2020:can_tax_II_fuel_I,
-                             2021:can_tax_II_fuel_I, 2022:can_tax_II_fuel_I}
+    can_tax_II_fuel_scope = {year:can_tax_II_fuel_I for year in range(2019, 2025)}
 
     ## Sources dictionary
     
