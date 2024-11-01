@@ -1291,8 +1291,9 @@ def scope():
     # New Brunswick opts out and Alberta joins in (2020-2021)
     can_tax_I_jur_II = ["Manitoba", "Ontario", "Saskatchewan", "Alberta"]
 
-    # Prince Edward Island replaces its carbon levy with the Federal backstop (2023)
-    can_tax_I_jur_III = ["Manitoba", "Ontario", "Saskatchewan", "Alberta", "Prince Edward Island"]
+    # Prince Edward Island and Newfoundland and Labrador replaces its carbon levy with the Federal backstop (2023)
+    can_tax_I_jur_III = ["Manitoba", "Ontario", "Saskatchewan", "Alberta", "Prince Edward Island",
+                         "Newfoundland and Labrador"]
 
     ## IPCC categories
     
