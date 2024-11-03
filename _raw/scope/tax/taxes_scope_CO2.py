@@ -1520,22 +1520,16 @@ def scope():
 
     ## scope dictionaries
     
-    can_nt_tax_jur_scope = {2019:can_nt_tax_jur_I, 2020:can_nt_tax_jur_I, 
-                               2021:can_nt_tax_jur_I, 2022:can_nt_tax_jur_I}
+    can_nt_tax_jur_scope = {year:can_nt_tax_jur_I for year in range(2019, 2025)}
     
-    can_nt_tax_ipcc_scope = {2019:can_nt_tax_ipcc_I, 2020:can_nt_tax_ipcc_I, 
-                                2021:can_nt_tax_ipcc_I, 2022:can_nt_tax_ipcc_I}
+    can_nt_tax_ipcc_scope = {year:can_nt_tax_ipcc_I for year in range(2019, 2025)}
     
-    can_nt_tax_fuel_scope = {2019:can_nt_tax_fuel_I, 2020:can_nt_tax_fuel_I, 
-                                2021:can_nt_tax_fuel_I, 2022:can_nt_tax_fuel_I}
+    can_nt_tax_fuel_scope = {year:can_nt_tax_fuel_I for year in range(2019, 2025)}
 
     ## Sources dictionary
     
-    can_nt_tax_scope_sources = {2019:"gvt(NWT[2020], ECCC[2021])", 
-                                   2020:"gvt(NWT[2020], ECCC[2021])", 
-                                   2021:"gvt(NWT[2020], ECCC[2021])",
-                                   2022:"gvt(NWT[2020], ECCC[2021])"}
-
+    can_nt_tax_scope_sources = {year: "gvt(NWT[2020], ECCC[2021])" for year in range(2019, 2023)}
+    can_nt_tax_scope_sources.update({year: "db(WBCPD[2024])" for year in range(2023, 2025)})
 
     #------------------------------All schemes dictionaries--------------------------------#
 
