@@ -1070,6 +1070,13 @@ def scope():
 
     #----------------------------------------------------------------------------
     
+    # CAN-Ontario
+
+    ## Jurisdiction
+    can_on_ets_jur_I = ["Ontario"]
+
+    #----------------------------------------------------------------------------
+    
     # CAN-Quebec
     
     ## Jurisdiction
@@ -1128,17 +1135,33 @@ def scope():
                          "2B9A", "2B9B", "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", 
                          "2C7", "2H1", "2H2", "4A", "4A1", "4A2", "4A3", "4D", 
                          "4D1", "4D2"]
-    
+
+    # all emitters transfer to Provincial OBPS
+    can_sk_ets_ipcc_II = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
+                         "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "1B1A", "1B1A1", 
+                         "1B1A11", "1B1A12", "1B1A13", "1B1A14", "1B1A2", "1B1A21", 
+                         "1B1A22", "1B1B", "1B2", "1B2A", "1B2A1", "1B2A2", "1B2A3", 
+                         "1B2A31", "1B2A32", "1B2A33", "1B2A34", "1B2A35", "1B2A36", 
+                         "1B2B", "1B2B1", "1B2B2", "1B2B3", "1B2B31", "1B2B32", 
+                         "1B2B33", "1B2B34", "1B2B35", "1B2B36", "2A1", "2A2", 
+                         "2A3", "2A4", "2A4A", "2A4B", "2A4C", "2A4D", "2B", "2B1", 
+                         "2B10", "2B2", "2B3", "2B4", "2B5", "2B6", "2B7", "2B8", 
+                         "2B8A", "2B8B", "2B8C", "2B8D", "2B8E", "2B8F", "2B9", 
+                         "2B9A", "2B9B", "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", 
+                         "2C7", "2H1", "2H2", "4A", "4A1", "4A2", "4A3", "4D", 
+                         "4D1", "4D2"]
+
     ## scope dictionaries
-    can_sk_ets_jur_scope = {2019:can_sk_ets_jur_I, 2020:can_sk_ets_jur_I,
-                               2021:can_sk_ets_jur_I, 2022:can_sk_ets_jur_I}
-    
-    can_sk_ets_ipcc_scope = {2019:can_sk_ets_ipcc_I, 2020:can_sk_ets_ipcc_I,
-                                2021:can_sk_ets_ipcc_I, 2022:can_sk_ets_ipcc_I}     
-    
+    can_sk_ets_jur_scope = {year:can_sk_ets_jur_I for year in range(2019, 2025)}
+
+    can_sk_ets_ipcc_scope = {year:can_sk_ets_ipcc_I for year in range(2019, 2023)}  
+    can_sk_ets_ipcc_scope.update({year:can_sk_ets_ipcc_II for year in range(2023, 2025)})
+
     ## Sources dictionary
     
     can_sk_ets_scope_sources = {year: "leg(SOR[2019]), gvt(ECCC[2021], SASK[2019])" for year in range(2019, 2023)}
+    can_sk_ets_scope_sources.update({year: "db(WBCPD[2024])" for year in range(2023, 2025)})
 
     #----------------------------------------------------------------------------
     
@@ -1194,6 +1217,18 @@ def scope():
     
     can_ns_ets_scope_sources = {2019:"gvt(ECCC[2021])", 2020:"gvt(ECCC[2021])",
                                    2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])"}     
+
+
+    #----------------------------------------------------------------------------
+    
+    # CAN-Nova Scotia
+    # Nova Scotia OBPS replacing the NS ETS
+
+    ## Jurisdiction
+    
+    can_ns_ets_II_jur_I = ["Nova Scotia"]
+
+    ## IPCC categories
 
 
     #----------------------------------------------------------------------------
