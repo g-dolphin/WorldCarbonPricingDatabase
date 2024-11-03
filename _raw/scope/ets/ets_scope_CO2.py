@@ -1052,13 +1052,14 @@ def scope():
     
     can_ab_ets_ipcc_scope = {year: can_ab_ets_ipcc_I for year in range(2007, 2018)}
     can_ab_ets_ipcc_scope.update({year: can_ab_ets_ipcc_II for year in range(2018, 2020)})
-    can_ab_ets_ipcc_scope.update({year: can_ab_ets_ipcc_III for year in range(2020, 2023)})
+    can_ab_ets_ipcc_scope.update({year: can_ab_ets_ipcc_III for year in range(2020, 2025)})
     
     ## Sources dictionary
     
     can_ab_ets_scope_sources = {year: "gvt(SGER[2009], SGER[2019])" for year in range(2007, 2018)}
     can_ab_ets_scope_sources.update({year: "gvt(ALBGOV[2019])" for year in range(2018, 2020)})
     can_ab_ets_scope_sources.update({year: "gvt(ABGOV[2021], ABGOV[2021b])" for year in range(2020, 2023)})
+    can_ab_ets_scope_sources.update({year: "db(WBCPD[2024])" for year in range(2023, 2025)})
 
     #----------------------------------------------------------------------------
     
