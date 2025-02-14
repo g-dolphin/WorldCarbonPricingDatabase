@@ -27,7 +27,7 @@ required_years = set(range(start_year, last_year))  # 2023 to 2024
 for file in csv_files:
     file_path = os.path.join(price_dir, file)
     try:
-        df = pd.read_csv(file_path, dtype={"rate": str}, na_values=[""])
+        df = pd.read_csv(file_path)
 
         if "year" not in df.columns:
             print(f"Skipping {file} (No 'year' column found)")
@@ -59,4 +59,4 @@ if missing_data_report:
     report_df.to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_update_management/update_report.csv")
 
 else:
-    print("All files contain complete data for 2020-2024.")
+    print("All files contain complete data for "+str(start_year)+"-"+str(last_year-1)+".")
