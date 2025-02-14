@@ -1,7 +1,7 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-idn_ets,2023,CO2,Coal,,IDR,,
-idn_ets,2024,CO2,Coal,,IDR,,
-idn_ets,2023,CO2,Natural gas,,IDR,,
-idn_ets,2024,CO2,Natural gas,,IDR,,
-idn_ets,2023,CO2,Oil,,IDR,,
-idn_ets,2024,CO2,Oil,,IDR,,
+idn_ets,2023,CO2,Coal,9754.24,IDR,,
+idn_ets,2024,CO2,Coal,9754.24,IDR,,
+idn_ets,2023,CO2,Natural gas,9754.24,IDR,,
+idn_ets,2024,CO2,Natural gas,9754.24,IDR,,
+idn_ets,2023,CO2,Oil,9754.24,IDR,,
+idn_ets,2024,CO2,Oil,9754.24,IDR,,
