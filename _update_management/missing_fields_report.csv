@@ -1,0 +1,888 @@
+filename,scheme_id,year,missing_columns
+sgp_tax_prices.csv,sgp_tax,2019,comment
+sgp_tax_prices.csv,sgp_tax,2020,comment
+sgp_tax_prices.csv,sgp_tax,2021,comment
+sgp_tax_prices.csv,sgp_tax,2022,comment
+sgp_tax_prices.csv,sgp_tax,2023,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2024,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2019,comment
+sgp_tax_prices.csv,sgp_tax,2020,comment
+sgp_tax_prices.csv,sgp_tax,2021,comment
+sgp_tax_prices.csv,sgp_tax,2022,comment
+sgp_tax_prices.csv,sgp_tax,2022,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2023,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2019,comment
+sgp_tax_prices.csv,sgp_tax,2020,comment
+sgp_tax_prices.csv,sgp_tax,2021,comment
+sgp_tax_prices.csv,sgp_tax,2022,comment
+sgp_tax_prices.csv,sgp_tax,2022,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2023,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2019,comment
+sgp_tax_prices.csv,sgp_tax,2020,comment
+sgp_tax_prices.csv,sgp_tax,2021,comment
+sgp_tax_prices.csv,sgp_tax,2022,comment
+sgp_tax_prices.csv,sgp_tax,2022,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2023,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2019,comment
+sgp_tax_prices.csv,sgp_tax,2020,comment
+sgp_tax_prices.csv,sgp_tax,2021,comment
+sgp_tax_prices.csv,sgp_tax,2022,comment
+sgp_tax_prices.csv,sgp_tax,2022,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2023,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2019,comment
+sgp_tax_prices.csv,sgp_tax,2020,comment
+sgp_tax_prices.csv,sgp_tax,2021,comment
+sgp_tax_prices.csv,sgp_tax,2022,comment
+sgp_tax_prices.csv,sgp_tax,2022,"comment, source"
+sgp_tax_prices.csv,sgp_tax,2023,"comment, source"
+pol_tax_prices.csv,pol_tax,1990,"comment, rate"
+pol_tax_prices.csv,pol_tax,1991,"comment, rate"
+pol_tax_prices.csv,pol_tax,1992,"comment, rate"
+pol_tax_prices.csv,pol_tax,1993,"comment, source"
+pol_tax_prices.csv,pol_tax,1994,comment
+pol_tax_prices.csv,pol_tax,1995,comment
+pol_tax_prices.csv,pol_tax,1996,comment
+pol_tax_prices.csv,pol_tax,1997,comment
+pol_tax_prices.csv,pol_tax,1998,comment
+pol_tax_prices.csv,pol_tax,1999,comment
+pol_tax_prices.csv,pol_tax,2000,comment
+pol_tax_prices.csv,pol_tax,2001,comment
+pol_tax_prices.csv,pol_tax,2002,comment
+pol_tax_prices.csv,pol_tax,2003,comment
+pol_tax_prices.csv,pol_tax,2004,comment
+pol_tax_prices.csv,pol_tax,2005,comment
+pol_tax_prices.csv,pol_tax,2006,comment
+pol_tax_prices.csv,pol_tax,2007,comment
+pol_tax_prices.csv,pol_tax,2008,comment
+pol_tax_prices.csv,pol_tax,2009,comment
+pol_tax_prices.csv,pol_tax,2010,comment
+pol_tax_prices.csv,pol_tax,2011,comment
+pol_tax_prices.csv,pol_tax,2012,comment
+pol_tax_prices.csv,pol_tax,2013,comment
+pol_tax_prices.csv,pol_tax,2014,comment
+pol_tax_prices.csv,pol_tax,2015,comment
+pol_tax_prices.csv,pol_tax,2016,comment
+pol_tax_prices.csv,pol_tax,2017,comment
+pol_tax_prices.csv,pol_tax,2018,comment
+pol_tax_prices.csv,pol_tax,2019,comment
+pol_tax_prices.csv,pol_tax,2020,comment
+pol_tax_prices.csv,pol_tax,2021,comment
+pol_tax_prices.csv,pol_tax,2022,comment
+pol_tax_prices.csv,pol_tax,2023,comment
+pol_tax_prices.csv,pol_tax,2024,"comment, source, rate"
+pol_tax_prices.csv,pol_tax,1990,"comment, rate"
+pol_tax_prices.csv,pol_tax,1991,"comment, rate"
+pol_tax_prices.csv,pol_tax,1992,"comment, rate"
+pol_tax_prices.csv,pol_tax,1993,"comment, source"
+pol_tax_prices.csv,pol_tax,1994,comment
+pol_tax_prices.csv,pol_tax,1995,comment
+pol_tax_prices.csv,pol_tax,1996,comment
+pol_tax_prices.csv,pol_tax,1997,comment
+pol_tax_prices.csv,pol_tax,1998,comment
+pol_tax_prices.csv,pol_tax,1999,comment
+pol_tax_prices.csv,pol_tax,2000,comment
+pol_tax_prices.csv,pol_tax,2001,comment
+pol_tax_prices.csv,pol_tax,2002,comment
+pol_tax_prices.csv,pol_tax,2003,comment
+pol_tax_prices.csv,pol_tax,2004,comment
+pol_tax_prices.csv,pol_tax,2005,comment
+pol_tax_prices.csv,pol_tax,2006,comment
+pol_tax_prices.csv,pol_tax,2007,comment
+pol_tax_prices.csv,pol_tax,2008,comment
+pol_tax_prices.csv,pol_tax,2009,comment
+pol_tax_prices.csv,pol_tax,2010,comment
+pol_tax_prices.csv,pol_tax,2011,comment
+pol_tax_prices.csv,pol_tax,2012,comment
+pol_tax_prices.csv,pol_tax,2013,comment
+pol_tax_prices.csv,pol_tax,2014,comment
+pol_tax_prices.csv,pol_tax,2015,comment
+pol_tax_prices.csv,pol_tax,2016,comment
+pol_tax_prices.csv,pol_tax,2017,comment
+pol_tax_prices.csv,pol_tax,2018,comment
+pol_tax_prices.csv,pol_tax,2019,comment
+pol_tax_prices.csv,pol_tax,2020,comment
+pol_tax_prices.csv,pol_tax,2021,comment
+pol_tax_prices.csv,pol_tax,2022,comment
+pol_tax_prices.csv,pol_tax,2023,comment
+pol_tax_prices.csv,pol_tax,2024,"comment, source, rate"
+pol_tax_prices.csv,pol_tax,1990,"comment, rate"
+pol_tax_prices.csv,pol_tax,1991,"comment, rate"
+pol_tax_prices.csv,pol_tax,1992,"comment, rate"
+pol_tax_prices.csv,pol_tax,1993,"comment, source"
+pol_tax_prices.csv,pol_tax,1994,comment
+pol_tax_prices.csv,pol_tax,1995,comment
+pol_tax_prices.csv,pol_tax,1996,comment
+pol_tax_prices.csv,pol_tax,1997,comment
+pol_tax_prices.csv,pol_tax,1998,comment
+pol_tax_prices.csv,pol_tax,1999,comment
+pol_tax_prices.csv,pol_tax,2000,comment
+pol_tax_prices.csv,pol_tax,2001,comment
+pol_tax_prices.csv,pol_tax,2002,comment
+pol_tax_prices.csv,pol_tax,2003,comment
+pol_tax_prices.csv,pol_tax,2004,comment
+pol_tax_prices.csv,pol_tax,2005,comment
+pol_tax_prices.csv,pol_tax,2006,comment
+pol_tax_prices.csv,pol_tax,2007,comment
+pol_tax_prices.csv,pol_tax,2008,comment
+pol_tax_prices.csv,pol_tax,2009,comment
+pol_tax_prices.csv,pol_tax,2010,comment
+pol_tax_prices.csv,pol_tax,2011,comment
+pol_tax_prices.csv,pol_tax,2012,comment
+pol_tax_prices.csv,pol_tax,2013,comment
+pol_tax_prices.csv,pol_tax,2014,comment
+pol_tax_prices.csv,pol_tax,2015,comment
+pol_tax_prices.csv,pol_tax,2016,comment
+pol_tax_prices.csv,pol_tax,2017,comment
+pol_tax_prices.csv,pol_tax,2018,comment
+pol_tax_prices.csv,pol_tax,2019,comment
+pol_tax_prices.csv,pol_tax,2020,comment
+pol_tax_prices.csv,pol_tax,2021,comment
+pol_tax_prices.csv,pol_tax,2022,comment
+pol_tax_prices.csv,pol_tax,2023,comment
+pol_tax_prices.csv,pol_tax,2024,"comment, source, rate"
+arg_tax_prices.csv,arg_tax,2018,rate
+arg_tax_prices.csv,arg_tax,2021,comment
+arg_tax_prices.csv,arg_tax,2022,comment
+arg_tax_prices.csv,arg_tax,2021,comment
+arg_tax_prices.csv,arg_tax,2022,comment
+arg_tax_prices.csv,arg_tax,2021,comment
+arg_tax_prices.csv,arg_tax,2022,comment
+lva_tax_prices.csv,lva_tax,2004,"currency_code, rate"
+lva_tax_prices.csv,lva_tax,2005,"currency_code, rate"
+lva_tax_prices.csv,lva_tax,2022,comment
+lva_tax_prices.csv,lva_tax,2023,"comment, source"
+lva_tax_prices.csv,lva_tax,2024,"comment, source"
+lva_tax_prices.csv,lva_tax,2004,"currency_code, rate"
+lva_tax_prices.csv,lva_tax,2005,"currency_code, rate"
+lva_tax_prices.csv,lva_tax,2016,comment
+lva_tax_prices.csv,lva_tax,2017,comment
+lva_tax_prices.csv,lva_tax,2018,comment
+lva_tax_prices.csv,lva_tax,2019,comment
+lva_tax_prices.csv,lva_tax,2020,comment
+lva_tax_prices.csv,lva_tax,2021,comment
+lva_tax_prices.csv,lva_tax,2022,comment
+lva_tax_prices.csv,lva_tax,2023,"comment, source"
+lva_tax_prices.csv,lva_tax,2024,"comment, source"
+lva_tax_prices.csv,lva_tax,2004,rate
+lva_tax_prices.csv,lva_tax,2005,rate
+lva_tax_prices.csv,lva_tax,2016,comment
+lva_tax_prices.csv,lva_tax,2017,comment
+lva_tax_prices.csv,lva_tax,2018,comment
+lva_tax_prices.csv,lva_tax,2019,comment
+lva_tax_prices.csv,lva_tax,2020,comment
+lva_tax_prices.csv,lva_tax,2021,comment
+lva_tax_prices.csv,lva_tax,2022,comment
+lva_tax_prices.csv,lva_tax,2023,"comment, source"
+lva_tax_prices.csv,lva_tax,2024,"comment, source"
+nor_tax_I_prices.csv,nor_tax_I,2019,rate
+nor_tax_I_prices.csv,nor_tax_I,2020,rate
+nor_tax_I_prices.csv,nor_tax_I,2021,"comment, source, rate"
+nor_tax_I_prices.csv,nor_tax_I,2022,"comment, rate"
+nor_tax_I_prices.csv,nor_tax_I,2021,"comment, source"
+nor_tax_I_prices.csv,nor_tax_I,2022,comment
+nor_tax_I_prices.csv,nor_tax_I,2021,comment
+nor_tax_I_prices.csv,nor_tax_I,2022,comment
+slo_tax_prices.csv,slo_tax,1996,rate
+slo_tax_prices.csv,slo_tax,2021,comment
+slo_tax_prices.csv,slo_tax,2022,comment
+slo_tax_prices.csv,slo_tax,2023,source
+slo_tax_prices.csv,slo_tax,2024,"comment, source"
+slo_tax_prices.csv,slo_tax,1996,rate
+slo_tax_prices.csv,slo_tax,2021,comment
+slo_tax_prices.csv,slo_tax,2023,source
+slo_tax_prices.csv,slo_tax,2024,"comment, source"
+slo_tax_prices.csv,slo_tax,1996,rate
+slo_tax_prices.csv,slo_tax,2021,comment
+slo_tax_prices.csv,slo_tax,2023,source
+slo_tax_prices.csv,slo_tax,2024,"comment, source"
+can_ab_tax_prices.csv,can_ab_tax,2017,comment
+can_ab_tax_prices.csv,can_ab_tax,2018,comment
+can_ab_tax_prices.csv,can_ab_tax,2019,comment
+can_ab_tax_prices.csv,can_ab_tax,2020,comment
+can_ab_tax_prices.csv,can_ab_tax,2021,comment
+can_ab_tax_prices.csv,can_ab_tax,2022,comment
+can_ab_tax_prices.csv,can_ab_tax,2017,comment
+can_ab_tax_prices.csv,can_ab_tax,2018,comment
+can_ab_tax_prices.csv,can_ab_tax,2019,comment
+can_ab_tax_prices.csv,can_ab_tax,2020,comment
+can_ab_tax_prices.csv,can_ab_tax,2021,comment
+can_ab_tax_prices.csv,can_ab_tax,2022,comment
+can_ab_tax_prices.csv,can_ab_tax,2017,comment
+can_ab_tax_prices.csv,can_ab_tax,2018,comment
+can_ab_tax_prices.csv,can_ab_tax,2019,comment
+can_ab_tax_prices.csv,can_ab_tax,2020,comment
+can_ab_tax_prices.csv,can_ab_tax,2021,comment
+can_ab_tax_prices.csv,can_ab_tax,2022,comment
+zaf_tax_prices.csv,zaf_tax,2019,comment
+zaf_tax_prices.csv,zaf_tax,2020,comment
+zaf_tax_prices.csv,zaf_tax,2021,comment
+zaf_tax_prices.csv,zaf_tax,2022,comment
+zaf_tax_prices.csv,zaf_tax,2023,comment
+zaf_tax_prices.csv,zaf_tax,2024,comment
+zaf_tax_prices.csv,zaf_tax,2019,comment
+zaf_tax_prices.csv,zaf_tax,2020,comment
+zaf_tax_prices.csv,zaf_tax,2021,comment
+zaf_tax_prices.csv,zaf_tax,2022,comment
+zaf_tax_prices.csv,zaf_tax,2023,comment
+zaf_tax_prices.csv,zaf_tax,2024,comment
+zaf_tax_prices.csv,zaf_tax,2019,comment
+zaf_tax_prices.csv,zaf_tax,2020,comment
+zaf_tax_prices.csv,zaf_tax,2021,comment
+zaf_tax_prices.csv,zaf_tax,2022,comment
+zaf_tax_prices.csv,zaf_tax,2023,comment
+zaf_tax_prices.csv,zaf_tax,2024,comment
+ukr_tax_prices.csv,ukr_tax,2011,comment
+ukr_tax_prices.csv,ukr_tax,2012,comment
+ukr_tax_prices.csv,ukr_tax,2013,comment
+ukr_tax_prices.csv,ukr_tax,2014,comment
+ukr_tax_prices.csv,ukr_tax,2015,"source, currency_code, rate"
+ukr_tax_prices.csv,ukr_tax,2016,"source, currency_code, rate"
+ukr_tax_prices.csv,ukr_tax,2017,comment
+ukr_tax_prices.csv,ukr_tax,2018,comment
+ukr_tax_prices.csv,ukr_tax,2019,comment
+ukr_tax_prices.csv,ukr_tax,2020,comment
+ukr_tax_prices.csv,ukr_tax,2021,comment
+ukr_tax_prices.csv,ukr_tax,2022,comment
+ukr_tax_prices.csv,ukr_tax,2011,comment
+ukr_tax_prices.csv,ukr_tax,2012,comment
+ukr_tax_prices.csv,ukr_tax,2013,comment
+ukr_tax_prices.csv,ukr_tax,2014,comment
+ukr_tax_prices.csv,ukr_tax,2015,"comment, source, currency_code, rate"
+ukr_tax_prices.csv,ukr_tax,2016,"comment, source, currency_code, rate"
+ukr_tax_prices.csv,ukr_tax,2017,comment
+ukr_tax_prices.csv,ukr_tax,2018,comment
+ukr_tax_prices.csv,ukr_tax,2019,comment
+ukr_tax_prices.csv,ukr_tax,2020,comment
+ukr_tax_prices.csv,ukr_tax,2021,comment
+ukr_tax_prices.csv,ukr_tax,2022,comment
+ukr_tax_prices.csv,ukr_tax,2011,comment
+ukr_tax_prices.csv,ukr_tax,2012,comment
+ukr_tax_prices.csv,ukr_tax,2013,comment
+ukr_tax_prices.csv,ukr_tax,2014,comment
+ukr_tax_prices.csv,ukr_tax,2015,"comment, source, currency_code, rate"
+ukr_tax_prices.csv,ukr_tax,2016,"comment, source, currency_code, rate"
+ukr_tax_prices.csv,ukr_tax,2017,comment
+ukr_tax_prices.csv,ukr_tax,2018,comment
+ukr_tax_prices.csv,ukr_tax,2019,comment
+ukr_tax_prices.csv,ukr_tax,2020,comment
+ukr_tax_prices.csv,ukr_tax,2021,comment
+ukr_tax_prices.csv,ukr_tax,2022,comment
+can_nl_tax_prices.csv,can_nl_tax,2019,comment
+can_nl_tax_prices.csv,can_nl_tax,2020,comment
+can_nl_tax_prices.csv,can_nl_tax,2021,comment
+can_nl_tax_prices.csv,can_nl_tax,2022,comment
+can_nl_tax_prices.csv,can_nl_tax,2019,comment
+can_nl_tax_prices.csv,can_nl_tax,2020,comment
+can_nl_tax_prices.csv,can_nl_tax,2021,comment
+can_nl_tax_prices.csv,can_nl_tax,2022,comment
+can_nl_tax_prices.csv,can_nl_tax,2019,comment
+can_nl_tax_prices.csv,can_nl_tax,2020,comment
+can_nl_tax_prices.csv,can_nl_tax,2021,comment
+can_nl_tax_prices.csv,can_nl_tax,2022,comment
+deu_ets_prices.csv,deu_ets,2021,"comment, rate/allowance_weighted_price"
+deu_ets_prices.csv,deu_ets,2022,"comment, rate/allowance_weighted_price"
+dnk_tax_prices.csv,dnk_tax,2021,comment
+dnk_tax_prices.csv,dnk_tax,2022,comment
+dnk_tax_prices.csv,dnk_tax,2021,comment
+dnk_tax_prices.csv,dnk_tax,2022,comment
+dnk_tax_prices.csv,dnk_tax,1992,source
+dnk_tax_prices.csv,dnk_tax,1993,source
+dnk_tax_prices.csv,dnk_tax,1994,source
+dnk_tax_prices.csv,dnk_tax,1995,source
+dnk_tax_prices.csv,dnk_tax,2021,comment
+dnk_tax_prices.csv,dnk_tax,2022,comment
+can_tax_I_prices.csv,can_tax_I,2019,comment
+can_tax_I_prices.csv,can_tax_I,2020,comment
+can_tax_I_prices.csv,can_tax_I,2021,comment
+can_tax_I_prices.csv,can_tax_I,2022,comment
+can_tax_I_prices.csv,can_tax_I,2023,comment
+can_tax_I_prices.csv,can_tax_I,2024,comment
+can_tax_I_prices.csv,can_tax_I,2019,comment
+can_tax_I_prices.csv,can_tax_I,2020,comment
+can_tax_I_prices.csv,can_tax_I,2021,comment
+can_tax_I_prices.csv,can_tax_I,2022,comment
+can_tax_I_prices.csv,can_tax_I,2023,comment
+can_tax_I_prices.csv,can_tax_I,2024,comment
+can_tax_I_prices.csv,can_tax_I,2019,comment
+can_tax_I_prices.csv,can_tax_I,2020,comment
+can_tax_I_prices.csv,can_tax_I,2021,comment
+can_tax_I_prices.csv,can_tax_I,2022,comment
+can_tax_I_prices.csv,can_tax_I,2023,comment
+can_tax_I_prices.csv,can_tax_I,2024,comment
+usa_or_ets_prices.csv,usa_or_ets,2022,allowance_weighted_price
+prt_tax_prices.csv,prt_tax,2015,comment
+prt_tax_prices.csv,prt_tax,2016,comment
+prt_tax_prices.csv,prt_tax,2017,comment
+prt_tax_prices.csv,prt_tax,2021,"comment, source"
+prt_tax_prices.csv,prt_tax,2022,comment
+prt_tax_prices.csv,prt_tax,2023,"comment, source, currency_code"
+prt_tax_prices.csv,prt_tax,2024,"comment, source, currency_code"
+prt_tax_prices.csv,prt_tax,2015,comment
+prt_tax_prices.csv,prt_tax,2016,comment
+prt_tax_prices.csv,prt_tax,2017,comment
+prt_tax_prices.csv,prt_tax,2018,comment
+prt_tax_prices.csv,prt_tax,2019,comment
+prt_tax_prices.csv,prt_tax,2020,comment
+prt_tax_prices.csv,prt_tax,2021,"comment, source"
+prt_tax_prices.csv,prt_tax,2022,comment
+prt_tax_prices.csv,prt_tax,2023,"comment, source, currency_code"
+prt_tax_prices.csv,prt_tax,2024,"comment, source, currency_code"
+prt_tax_prices.csv,prt_tax,2015,comment
+prt_tax_prices.csv,prt_tax,2016,comment
+prt_tax_prices.csv,prt_tax,2017,comment
+prt_tax_prices.csv,prt_tax,2018,comment
+prt_tax_prices.csv,prt_tax,2019,comment
+prt_tax_prices.csv,prt_tax,2020,comment
+prt_tax_prices.csv,prt_tax,2021,"comment, source"
+prt_tax_prices.csv,prt_tax,2022,comment
+prt_tax_prices.csv,prt_tax,2023,"comment, source, currency_code"
+prt_tax_prices.csv,prt_tax,2024,"comment, source, currency_code"
+gbr_tax_prices.csv,gbr_tax,2013,comment
+gbr_tax_prices.csv,gbr_tax,2014,comment
+gbr_tax_prices.csv,gbr_tax,2015,comment
+gbr_tax_prices.csv,gbr_tax,2016,comment
+gbr_tax_prices.csv,gbr_tax,2017,comment
+gbr_tax_prices.csv,gbr_tax,2018,comment
+gbr_tax_prices.csv,gbr_tax,2019,comment
+gbr_tax_prices.csv,gbr_tax,2020,comment
+gbr_tax_prices.csv,gbr_tax,2021,comment
+gbr_tax_prices.csv,gbr_tax,2022,comment
+gbr_tax_prices.csv,gbr_tax,2023,"comment, source"
+gbr_tax_prices.csv,gbr_tax,2024,"comment, source"
+gbr_tax_prices.csv,gbr_tax,2013,comment
+gbr_tax_prices.csv,gbr_tax,2014,comment
+gbr_tax_prices.csv,gbr_tax,2015,comment
+gbr_tax_prices.csv,gbr_tax,2016,comment
+gbr_tax_prices.csv,gbr_tax,2017,comment
+gbr_tax_prices.csv,gbr_tax,2018,comment
+gbr_tax_prices.csv,gbr_tax,2019,comment
+gbr_tax_prices.csv,gbr_tax,2020,comment
+gbr_tax_prices.csv,gbr_tax,2021,comment
+gbr_tax_prices.csv,gbr_tax,2022,comment
+gbr_tax_prices.csv,gbr_tax,2023,"comment, source"
+gbr_tax_prices.csv,gbr_tax,2024,"comment, source"
+gbr_tax_prices.csv,gbr_tax,2013,comment
+gbr_tax_prices.csv,gbr_tax,2014,comment
+gbr_tax_prices.csv,gbr_tax,2015,comment
+gbr_tax_prices.csv,gbr_tax,2016,comment
+gbr_tax_prices.csv,gbr_tax,2017,comment
+gbr_tax_prices.csv,gbr_tax,2018,comment
+gbr_tax_prices.csv,gbr_tax,2019,comment
+gbr_tax_prices.csv,gbr_tax,2020,comment
+gbr_tax_prices.csv,gbr_tax,2021,comment
+gbr_tax_prices.csv,gbr_tax,2022,comment
+gbr_tax_prices.csv,gbr_tax,2023,"comment, source"
+gbr_tax_prices.csv,gbr_tax,2024,"comment, source"
+gbr_ets_prices.csv,gbr_ets,2021,rate/allowance_weighted_price
+gbr_ets_prices.csv,gbr_ets,2022,rate/allowance_weighted_price
+mex_ets_prices.csv,mex_ets,2021,rate/allowance_weighted_price
+mex_ets_prices.csv,mex_ets,2022,rate/allowance_weighted_price
+hun_tax_prices.csv,hun_tax,2023,"comment, source, rate"
+hun_tax_prices.csv,hun_tax,2024,"comment, source"
+hun_tax_prices.csv,hun_tax,2023,"comment, source, rate"
+hun_tax_prices.csv,hun_tax,2024,"comment, source"
+hun_tax_prices.csv,hun_tax,2023,"comment, source, rate"
+hun_tax_prices.csv,hun_tax,2024,"comment, source"
+irl_tax_prices.csv,irl_tax,2010,"comment, rate"
+irl_tax_prices.csv,irl_tax,2011,"comment, rate"
+irl_tax_prices.csv,irl_tax,2012,"comment, rate"
+irl_tax_prices.csv,irl_tax,2015,comment
+irl_tax_prices.csv,irl_tax,2016,comment
+irl_tax_prices.csv,irl_tax,2017,comment
+irl_tax_prices.csv,irl_tax,2018,comment
+irl_tax_prices.csv,irl_tax,2019,comment
+irl_tax_prices.csv,irl_tax,2021,comment
+irl_tax_prices.csv,irl_tax,2022,comment
+irl_tax_prices.csv,irl_tax,2010,comment
+irl_tax_prices.csv,irl_tax,2011,comment
+irl_tax_prices.csv,irl_tax,2012,comment
+irl_tax_prices.csv,irl_tax,2013,comment
+irl_tax_prices.csv,irl_tax,2014,comment
+irl_tax_prices.csv,irl_tax,2015,comment
+irl_tax_prices.csv,irl_tax,2016,comment
+irl_tax_prices.csv,irl_tax,2017,comment
+irl_tax_prices.csv,irl_tax,2018,comment
+irl_tax_prices.csv,irl_tax,2019,comment
+irl_tax_prices.csv,irl_tax,2020,comment
+irl_tax_prices.csv,irl_tax,2021,comment
+irl_tax_prices.csv,irl_tax,2022,comment
+irl_tax_prices.csv,irl_tax,2010,comment
+irl_tax_prices.csv,irl_tax,2011,comment
+irl_tax_prices.csv,irl_tax,2012,comment
+irl_tax_prices.csv,irl_tax,2013,comment
+irl_tax_prices.csv,irl_tax,2014,comment
+irl_tax_prices.csv,irl_tax,2015,comment
+irl_tax_prices.csv,irl_tax,2016,comment
+irl_tax_prices.csv,irl_tax,2017,comment
+irl_tax_prices.csv,irl_tax,2018,comment
+irl_tax_prices.csv,irl_tax,2019,comment
+irl_tax_prices.csv,irl_tax,2020,comment
+irl_tax_prices.csv,irl_tax,2021,comment
+irl_tax_prices.csv,irl_tax,2022,comment
+mex_tax_prices.csv,mex_tax,2014,"comment, source"
+mex_tax_prices.csv,mex_tax,2015,comment
+mex_tax_prices.csv,mex_tax,2016,comment
+mex_tax_prices.csv,mex_tax,2017,comment
+mex_tax_prices.csv,mex_tax,2018,comment
+mex_tax_prices.csv,mex_tax,2019,comment
+mex_tax_prices.csv,mex_tax,2020,comment
+mex_tax_prices.csv,mex_tax,2021,comment
+mex_tax_prices.csv,mex_tax,2022,comment
+mex_tax_prices.csv,mex_tax,2014,"comment, source"
+mex_tax_prices.csv,mex_tax,2015,comment
+mex_tax_prices.csv,mex_tax,2016,comment
+mex_tax_prices.csv,mex_tax,2017,comment
+mex_tax_prices.csv,mex_tax,2018,comment
+mex_tax_prices.csv,mex_tax,2019,comment
+mex_tax_prices.csv,mex_tax,2020,comment
+mex_tax_prices.csv,mex_tax,2021,comment
+mex_tax_prices.csv,mex_tax,2022,comment
+mex_tax_prices.csv,mex_tax,2014,"comment, source"
+mex_tax_prices.csv,mex_tax,2015,comment
+mex_tax_prices.csv,mex_tax,2016,comment
+mex_tax_prices.csv,mex_tax,2017,comment
+mex_tax_prices.csv,mex_tax,2018,comment
+mex_tax_prices.csv,mex_tax,2019,comment
+mex_tax_prices.csv,mex_tax,2020,comment
+mex_tax_prices.csv,mex_tax,2021,comment
+mex_tax_prices.csv,mex_tax,2022,comment
+ury_tax_prices.csv,ury_tax,2022,"comment, source, rate"
+ury_tax_prices.csv,ury_tax,2023,"comment, source, rate"
+ury_tax_prices.csv,ury_tax,2024,"comment, source, rate"
+ury_tax_prices.csv,ury_tax,2022,"comment, source"
+ury_tax_prices.csv,ury_tax,2023,"comment, source"
+ury_tax_prices.csv,ury_tax,2024,"comment, source"
+ury_tax_prices.csv,ury_tax,2022,"comment, source, rate"
+ury_tax_prices.csv,ury_tax,2023,"comment, source, rate"
+ury_tax_prices.csv,ury_tax,2024,"comment, source, rate"
+est_tax_prices.csv,est_tax,2021,comment
+est_tax_prices.csv,est_tax,2022,comment
+est_tax_prices.csv,est_tax,2023,"comment, source"
+est_tax_prices.csv,est_tax,2024,"comment, source"
+est_tax_prices.csv,est_tax,2021,comment
+est_tax_prices.csv,est_tax,2022,comment
+est_tax_prices.csv,est_tax,2023,"comment, source"
+est_tax_prices.csv,est_tax,2024,"comment, source"
+est_tax_prices.csv,est_tax,2021,comment
+est_tax_prices.csv,est_tax,2022,comment
+est_tax_prices.csv,est_tax,2023,"comment, source"
+est_tax_prices.csv,est_tax,2024,"comment, source"
+fin_tax_prices.csv,fin_tax,2022,"comment, source, rate"
+fin_tax_prices.csv,fin_tax,1990,comment
+fin_tax_prices.csv,fin_tax,1991,comment
+fin_tax_prices.csv,fin_tax,1992,comment
+fin_tax_prices.csv,fin_tax,1993,comment
+fin_tax_prices.csv,fin_tax,1994,comment
+fin_tax_prices.csv,fin_tax,1995,comment
+fin_tax_prices.csv,fin_tax,1996,comment
+fin_tax_prices.csv,fin_tax,1997,comment
+fin_tax_prices.csv,fin_tax,1998,comment
+fin_tax_prices.csv,fin_tax,1999,comment
+fin_tax_prices.csv,fin_tax,2000,comment
+fin_tax_prices.csv,fin_tax,2001,comment
+fin_tax_prices.csv,fin_tax,2002,comment
+fin_tax_prices.csv,fin_tax,2003,comment
+fin_tax_prices.csv,fin_tax,2004,comment
+fin_tax_prices.csv,fin_tax,2005,comment
+fin_tax_prices.csv,fin_tax,2006,comment
+fin_tax_prices.csv,fin_tax,2007,comment
+fin_tax_prices.csv,fin_tax,2008,comment
+fin_tax_prices.csv,fin_tax,2009,comment
+fin_tax_prices.csv,fin_tax,2010,comment
+fin_tax_prices.csv,fin_tax,2011,comment
+fin_tax_prices.csv,fin_tax,2012,comment
+fin_tax_prices.csv,fin_tax,2013,comment
+fin_tax_prices.csv,fin_tax,2014,comment
+fin_tax_prices.csv,fin_tax,2015,comment
+fin_tax_prices.csv,fin_tax,2016,comment
+fin_tax_prices.csv,fin_tax,2017,comment
+fin_tax_prices.csv,fin_tax,2018,comment
+fin_tax_prices.csv,fin_tax,2019,comment
+fin_tax_prices.csv,fin_tax,2020,comment
+fin_tax_prices.csv,fin_tax,2021,comment
+fin_tax_prices.csv,fin_tax,2022,"comment, source, rate"
+fin_tax_prices.csv,fin_tax,1990,comment
+fin_tax_prices.csv,fin_tax,1991,comment
+fin_tax_prices.csv,fin_tax,1992,comment
+fin_tax_prices.csv,fin_tax,1993,comment
+fin_tax_prices.csv,fin_tax,1994,comment
+fin_tax_prices.csv,fin_tax,1995,comment
+fin_tax_prices.csv,fin_tax,1996,comment
+fin_tax_prices.csv,fin_tax,1997,comment
+fin_tax_prices.csv,fin_tax,1998,comment
+fin_tax_prices.csv,fin_tax,1999,comment
+fin_tax_prices.csv,fin_tax,2000,comment
+fin_tax_prices.csv,fin_tax,2001,comment
+fin_tax_prices.csv,fin_tax,2002,comment
+fin_tax_prices.csv,fin_tax,2003,comment
+fin_tax_prices.csv,fin_tax,2004,comment
+fin_tax_prices.csv,fin_tax,2005,comment
+fin_tax_prices.csv,fin_tax,2006,comment
+fin_tax_prices.csv,fin_tax,2007,comment
+fin_tax_prices.csv,fin_tax,2008,comment
+fin_tax_prices.csv,fin_tax,2009,comment
+fin_tax_prices.csv,fin_tax,2010,comment
+fin_tax_prices.csv,fin_tax,2011,comment
+fin_tax_prices.csv,fin_tax,2012,comment
+fin_tax_prices.csv,fin_tax,2013,comment
+fin_tax_prices.csv,fin_tax,2014,comment
+fin_tax_prices.csv,fin_tax,2015,comment
+fin_tax_prices.csv,fin_tax,2016,comment
+fin_tax_prices.csv,fin_tax,2017,comment
+fin_tax_prices.csv,fin_tax,2018,comment
+fin_tax_prices.csv,fin_tax,2019,comment
+fin_tax_prices.csv,fin_tax,2020,comment
+fin_tax_prices.csv,fin_tax,2021,comment
+fin_tax_prices.csv,fin_tax,2022,"comment, source, rate"
+can_bc_tax_prices.csv,can_bc_tax,2008,comment
+can_bc_tax_prices.csv,can_bc_tax,2009,comment
+can_bc_tax_prices.csv,can_bc_tax,2010,comment
+can_bc_tax_prices.csv,can_bc_tax,2011,comment
+can_bc_tax_prices.csv,can_bc_tax,2012,comment
+can_bc_tax_prices.csv,can_bc_tax,2013,comment
+can_bc_tax_prices.csv,can_bc_tax,2014,comment
+can_bc_tax_prices.csv,can_bc_tax,2015,comment
+can_bc_tax_prices.csv,can_bc_tax,2016,comment
+can_bc_tax_prices.csv,can_bc_tax,2017,comment
+can_bc_tax_prices.csv,can_bc_tax,2018,comment
+can_bc_tax_prices.csv,can_bc_tax,2019,comment
+can_bc_tax_prices.csv,can_bc_tax,2020,comment
+can_bc_tax_prices.csv,can_bc_tax,2021,comment
+can_bc_tax_prices.csv,can_bc_tax,2022,comment
+can_bc_tax_prices.csv,can_bc_tax,2023,comment
+can_bc_tax_prices.csv,can_bc_tax,2024,comment
+can_bc_tax_prices.csv,can_bc_tax,2008,comment
+can_bc_tax_prices.csv,can_bc_tax,2009,comment
+can_bc_tax_prices.csv,can_bc_tax,2010,comment
+can_bc_tax_prices.csv,can_bc_tax,2011,comment
+can_bc_tax_prices.csv,can_bc_tax,2012,comment
+can_bc_tax_prices.csv,can_bc_tax,2013,comment
+can_bc_tax_prices.csv,can_bc_tax,2014,comment
+can_bc_tax_prices.csv,can_bc_tax,2015,comment
+can_bc_tax_prices.csv,can_bc_tax,2016,comment
+can_bc_tax_prices.csv,can_bc_tax,2017,comment
+can_bc_tax_prices.csv,can_bc_tax,2018,comment
+can_bc_tax_prices.csv,can_bc_tax,2019,comment
+can_bc_tax_prices.csv,can_bc_tax,2020,comment
+can_bc_tax_prices.csv,can_bc_tax,2021,comment
+can_bc_tax_prices.csv,can_bc_tax,2022,comment
+can_bc_tax_prices.csv,can_bc_tax,2023,comment
+can_bc_tax_prices.csv,can_bc_tax,2024,comment
+can_bc_tax_prices.csv,can_bc_tax,2008,comment
+can_bc_tax_prices.csv,can_bc_tax,2009,comment
+can_bc_tax_prices.csv,can_bc_tax,2010,comment
+can_bc_tax_prices.csv,can_bc_tax,2011,comment
+can_bc_tax_prices.csv,can_bc_tax,2012,comment
+can_bc_tax_prices.csv,can_bc_tax,2013,comment
+can_bc_tax_prices.csv,can_bc_tax,2014,comment
+can_bc_tax_prices.csv,can_bc_tax,2015,comment
+can_bc_tax_prices.csv,can_bc_tax,2016,comment
+can_bc_tax_prices.csv,can_bc_tax,2017,comment
+can_bc_tax_prices.csv,can_bc_tax,2018,comment
+can_bc_tax_prices.csv,can_bc_tax,2019,comment
+can_bc_tax_prices.csv,can_bc_tax,2020,comment
+can_bc_tax_prices.csv,can_bc_tax,2021,comment
+can_bc_tax_prices.csv,can_bc_tax,2022,comment
+can_bc_tax_prices.csv,can_bc_tax,2023,comment
+can_bc_tax_prices.csv,can_bc_tax,2024,comment
+aut_ets_prices.csv,aut_ets,2022,rate/allowance_weighted_price
+can_nt_tax_prices.csv,can_nt_tax,2019,comment
+can_nt_tax_prices.csv,can_nt_tax,2020,comment
+can_nt_tax_prices.csv,can_nt_tax,2021,comment
+can_nt_tax_prices.csv,can_nt_tax,2022,comment
+can_nt_tax_prices.csv,can_nt_tax,2019,comment
+can_nt_tax_prices.csv,can_nt_tax,2020,comment
+can_nt_tax_prices.csv,can_nt_tax,2021,comment
+can_nt_tax_prices.csv,can_nt_tax,2022,comment
+can_nt_tax_prices.csv,can_nt_tax,2019,comment
+can_nt_tax_prices.csv,can_nt_tax,2020,comment
+can_nt_tax_prices.csv,can_nt_tax,2021,comment
+can_nt_tax_prices.csv,can_nt_tax,2022,comment
+can_ns_ets_prices.csv,can_ns_ets,2019,"source, currency_code, allowance_weighted_price"
+kaz_ets_prices.csv,kaz_ets,2013,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2014,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2015,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2016,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2017,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2018,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2019,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2020,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2021,rate/allowance_weighted_price
+kaz_ets_prices.csv,kaz_ets,2022,rate/allowance_weighted_price
+fra_tax_prices.csv,fra_tax,2021,source
+fra_tax_prices.csv,fra_tax,2022,"comment, source"
+fra_tax_prices.csv,fra_tax,2023,"comment, source"
+fra_tax_prices.csv,fra_tax,2024,"comment, source"
+fra_tax_prices.csv,fra_tax,2021,source
+fra_tax_prices.csv,fra_tax,2022,"comment, source"
+fra_tax_prices.csv,fra_tax,2023,"comment, source"
+fra_tax_prices.csv,fra_tax,2024,"comment, source"
+fra_tax_prices.csv,fra_tax,2021,source
+fra_tax_prices.csv,fra_tax,2022,"comment, source"
+fra_tax_prices.csv,fra_tax,2023,"comment, source"
+fra_tax_prices.csv,fra_tax,2024,"comment, source"
+nor_tax_II_prices.csv,nor_tax_II,1991,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1992,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1993,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1994,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1995,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1996,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1997,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1998,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1999,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2000,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2001,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2002,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2003,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2004,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2005,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2006,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2007,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2008,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2009,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2010,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2011,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2012,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2013,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2014,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2015,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2016,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2017,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2018,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2019,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2020,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2021,"comment, source, rate"
+nor_tax_II_prices.csv,nor_tax_II,1991,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1992,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1993,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1994,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1995,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1996,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1997,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1998,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1999,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2000,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2001,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2002,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2003,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2004,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2005,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2006,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2007,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2008,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2009,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2010,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2011,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2012,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2013,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2014,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2015,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2016,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2017,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2018,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2019,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2020,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2021,"comment, source, rate"
+nor_tax_II_prices.csv,nor_tax_II,1991,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1992,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1993,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1994,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1995,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1996,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1997,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1998,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,1999,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2000,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2001,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2002,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2003,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2004,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2005,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2006,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2007,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2008,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2009,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2010,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2011,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2012,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2013,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2014,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2015,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2016,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2017,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2018,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2019,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2020,"comment, rate"
+nor_tax_II_prices.csv,nor_tax_II,2021,"comment, source, rate"
+can_pe_tax_prices.csv,can_pe_tax,2019,comment
+can_pe_tax_prices.csv,can_pe_tax,2020,comment
+can_pe_tax_prices.csv,can_pe_tax,2021,source
+can_pe_tax_prices.csv,can_pe_tax,2022,comment
+can_pe_tax_prices.csv,can_pe_tax,2019,comment
+can_pe_tax_prices.csv,can_pe_tax,2020,comment
+can_pe_tax_prices.csv,can_pe_tax,2021,source
+can_pe_tax_prices.csv,can_pe_tax,2022,comment
+can_pe_tax_prices.csv,can_pe_tax,2019,comment
+can_pe_tax_prices.csv,can_pe_tax,2020,comment
+can_pe_tax_prices.csv,can_pe_tax,2021,source
+can_pe_tax_prices.csv,can_pe_tax,2022,comment
+chl_tax_prices.csv,chl_tax,2022,comment
+chl_tax_prices.csv,chl_tax,2022,comment
+chl_tax_prices.csv,chl_tax,2022,comment
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+mex_dg_tax_prices.csv,mex_dg_tax,2024,"comment, source"
+aus_tax_prices.csv,aus_tax,2012,comment
+aus_tax_prices.csv,aus_tax,2013,comment
+aus_tax_prices.csv,aus_tax,2012,comment
+aus_tax_prices.csv,aus_tax,2013,comment
+aus_tax_prices.csv,aus_tax,2012,comment
+aus_tax_prices.csv,aus_tax,2013,comment
+mne_ets_prices.csv,mne_ets,2022,rate/allowance_weighted_price
+mne_ets_prices.csv,mne_ets,2023,"source, rate/allowance_weighted_price"
+mne_ets_prices.csv,mne_ets,2024,"source, rate/allowance_weighted_price"
+can_tax_II_prices.csv,can_tax_II,2019,comment
+can_tax_II_prices.csv,can_tax_II,2020,comment
+can_tax_II_prices.csv,can_tax_II,2021,comment
+can_tax_II_prices.csv,can_tax_II,2022,comment
+can_tax_II_prices.csv,can_tax_II,2023,comment
+can_tax_II_prices.csv,can_tax_II,2024,comment
+can_tax_II_prices.csv,can_tax_II,2019,comment
+can_tax_II_prices.csv,can_tax_II,2020,comment
+can_tax_II_prices.csv,can_tax_II,2021,comment
+can_tax_II_prices.csv,can_tax_II,2022,comment
+can_tax_II_prices.csv,can_tax_II,2023,comment
+can_tax_II_prices.csv,can_tax_II,2024,comment
+can_tax_II_prices.csv,can_tax_II,2019,comment
+can_tax_II_prices.csv,can_tax_II,2020,comment
+can_tax_II_prices.csv,can_tax_II,2021,comment
+can_tax_II_prices.csv,can_tax_II,2022,comment
+can_tax_II_prices.csv,can_tax_II,2023,comment
+can_tax_II_prices.csv,can_tax_II,2024,comment
+col_tax_prices.csv,col_tax,2017,rate
+col_tax_prices.csv,col_tax,2018,rate
+col_tax_prices.csv,col_tax,2019,rate
+col_tax_prices.csv,col_tax,2020,rate
+col_tax_prices.csv,col_tax,2021,rate
+col_tax_prices.csv,col_tax,2022,"comment, rate"
+col_tax_prices.csv,col_tax,2022,comment
+col_tax_prices.csv,col_tax,2022,comment
+col_tax_prices.csv,col_tax,2023,"comment, source, rate"
+col_tax_prices.csv,col_tax,2023,"comment, source"
+col_tax_prices.csv,col_tax,2023,"comment, source"
+col_tax_prices.csv,col_tax,2024,"comment, source, rate"
+col_tax_prices.csv,col_tax,2024,"comment, source"
+col_tax_prices.csv,col_tax,2024,"comment, source"
+che_tax_prices.csv,che_tax,2008,comment
+che_tax_prices.csv,che_tax,2009,comment
+che_tax_prices.csv,che_tax,2010,comment
+che_tax_prices.csv,che_tax,2011,comment
+che_tax_prices.csv,che_tax,2012,comment
+che_tax_prices.csv,che_tax,2013,comment
+che_tax_prices.csv,che_tax,2014,comment
+che_tax_prices.csv,che_tax,2015,comment
+che_tax_prices.csv,che_tax,2016,comment
+che_tax_prices.csv,che_tax,2017,comment
+che_tax_prices.csv,che_tax,2018,comment
+che_tax_prices.csv,che_tax,2019,comment
+che_tax_prices.csv,che_tax,2020,comment
+che_tax_prices.csv,che_tax,2021,comment
+che_tax_prices.csv,che_tax,2022,comment
+che_tax_prices.csv,che_tax,2023,"comment, source"
+che_tax_prices.csv,che_tax,2024,"comment, source"
+che_tax_prices.csv,che_tax,2008,comment
+che_tax_prices.csv,che_tax,2009,comment
+che_tax_prices.csv,che_tax,2010,comment
+che_tax_prices.csv,che_tax,2011,comment
+che_tax_prices.csv,che_tax,2012,comment
+che_tax_prices.csv,che_tax,2013,comment
+che_tax_prices.csv,che_tax,2014,comment
+che_tax_prices.csv,che_tax,2015,comment
+che_tax_prices.csv,che_tax,2016,comment
+che_tax_prices.csv,che_tax,2017,comment
+che_tax_prices.csv,che_tax,2018,comment
+che_tax_prices.csv,che_tax,2019,comment
+che_tax_prices.csv,che_tax,2020,comment
+che_tax_prices.csv,che_tax,2021,comment
+che_tax_prices.csv,che_tax,2022,comment
+che_tax_prices.csv,che_tax,2023,"comment, source"
+che_tax_prices.csv,che_tax,2024,"comment, source"
+che_tax_prices.csv,che_tax,2008,comment
+che_tax_prices.csv,che_tax,2009,comment
+che_tax_prices.csv,che_tax,2010,comment
+che_tax_prices.csv,che_tax,2011,comment
+che_tax_prices.csv,che_tax,2012,comment
+che_tax_prices.csv,che_tax,2013,comment
+che_tax_prices.csv,che_tax,2014,comment
+che_tax_prices.csv,che_tax,2015,comment
+che_tax_prices.csv,che_tax,2016,comment
+che_tax_prices.csv,che_tax,2017,comment
+che_tax_prices.csv,che_tax,2018,comment
+che_tax_prices.csv,che_tax,2019,comment
+che_tax_prices.csv,che_tax,2020,comment
+che_tax_prices.csv,che_tax,2021,comment
+che_tax_prices.csv,che_tax,2022,comment
+che_tax_prices.csv,che_tax,2023,"comment, source"
+che_tax_prices.csv,che_tax,2024,"comment, source"
+esp_tax_prices.csv,esp_tax,2014,"comment, source"
+esp_tax_prices.csv,esp_tax,2015,"comment, source"
+esp_tax_prices.csv,esp_tax,2016,"comment, source"
+esp_tax_prices.csv,esp_tax,2017,"comment, source"
+esp_tax_prices.csv,esp_tax,2018,"comment, source"
+esp_tax_prices.csv,esp_tax,2019,"comment, source"
+esp_tax_prices.csv,esp_tax,2020,"comment, source"
+esp_tax_prices.csv,esp_tax,2021,"comment, source"
+esp_tax_prices.csv,esp_tax,2022,"comment, source"
+isl_tax_prices.csv,isl_tax,2010,rate
+isl_tax_prices.csv,isl_tax,2011,rate
+isl_tax_prices.csv,isl_tax,2012,rate
+isl_tax_prices.csv,isl_tax,2013,rate
+isl_tax_prices.csv,isl_tax,2014,rate
+isl_tax_prices.csv,isl_tax,2015,rate
+isl_tax_prices.csv,isl_tax,2016,rate
+isl_tax_prices.csv,isl_tax,2017,rate
+isl_tax_prices.csv,isl_tax,2018,rate
+isl_tax_prices.csv,isl_tax,2019,rate
+isl_tax_prices.csv,isl_tax,2020,rate
+isl_tax_prices.csv,isl_tax,2021,"comment, source, rate"
+isl_tax_prices.csv,isl_tax,2022,"comment, source, rate"
+isl_tax_prices.csv,isl_tax,2021,comment
+isl_tax_prices.csv,isl_tax,2022,comment
+isl_tax_prices.csv,isl_tax,2010,rate
+isl_tax_prices.csv,isl_tax,2011,rate
+isl_tax_prices.csv,isl_tax,2012,rate
+isl_tax_prices.csv,isl_tax,2021,"comment, source"
+isl_tax_prices.csv,isl_tax,2022,comment
+isl_tax_prices.csv,isl_tax,2020,comment
+isl_tax_prices.csv,isl_tax,2021,comment
+isl_tax_prices.csv,isl_tax,2022,"comment, source, currency_code"
+jpn_tax_prices.csv,jpn_tax,2017,comment
+jpn_tax_prices.csv,jpn_tax,2018,comment
+jpn_tax_prices.csv,jpn_tax,2019,comment
+jpn_tax_prices.csv,jpn_tax,2020,comment
+jpn_tax_prices.csv,jpn_tax,2021,comment
+jpn_tax_prices.csv,jpn_tax,2022,"comment, source"
+jpn_tax_prices.csv,jpn_tax,2023,"comment, source"
+jpn_tax_prices.csv,jpn_tax,2024,"comment, source"
+jpn_tax_prices.csv,jpn_tax,2017,comment
+jpn_tax_prices.csv,jpn_tax,2018,comment
+jpn_tax_prices.csv,jpn_tax,2019,comment
+jpn_tax_prices.csv,jpn_tax,2020,comment
+jpn_tax_prices.csv,jpn_tax,2021,comment
+jpn_tax_prices.csv,jpn_tax,2022,"comment, source"
+jpn_tax_prices.csv,jpn_tax,2023,"comment, source"
+jpn_tax_prices.csv,jpn_tax,2024,"comment, source"
+jpn_tax_prices.csv,jpn_tax,2017,comment
+jpn_tax_prices.csv,jpn_tax,2018,comment
+jpn_tax_prices.csv,jpn_tax,2019,comment
+jpn_tax_prices.csv,jpn_tax,2020,comment
+jpn_tax_prices.csv,jpn_tax,2021,comment
+jpn_tax_prices.csv,jpn_tax,2022,"comment, source"
+jpn_tax_prices.csv,jpn_tax,2023,"comment, source"
+jpn_tax_prices.csv,jpn_tax,2024,"comment, source"
