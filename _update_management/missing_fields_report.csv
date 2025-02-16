@@ -182,6 +182,37 @@ nor_tax_I_prices.csv,nor_tax_I,2021,"comment, source"
 nor_tax_I_prices.csv,nor_tax_I,2022,comment
 nor_tax_I_prices.csv,nor_tax_I,2021,comment
 nor_tax_I_prices.csv,nor_tax_I,2022,comment
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2023,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+mex_gj_tax_prices.csv,mex_gj_tax,2024,"comment, source"
+lux_tax_prices.csv,lux_tax,2022,"comment, source"
+lux_tax_prices.csv,lux_tax,2022,"comment, source"
+lux_tax_prices.csv,lux_tax,2022,"comment, source"
+lux_tax_prices.csv,lux_tax,2023,"comment, source"
+lux_tax_prices.csv,lux_tax,2023,"comment, source"
+lux_tax_prices.csv,lux_tax,2023,"comment, source"
+lux_tax_prices.csv,lux_tax,2024,"comment, source"
+lux_tax_prices.csv,lux_tax,2024,"comment, source"
+lux_tax_prices.csv,lux_tax,2024,"comment, source"
 slo_tax_prices.csv,slo_tax,1996,rate
 slo_tax_prices.csv,slo_tax,2021,comment
 slo_tax_prices.csv,slo_tax,2022,comment
@@ -195,6 +226,7 @@ slo_tax_prices.csv,slo_tax,1996,rate
 slo_tax_prices.csv,slo_tax,2021,comment
 slo_tax_prices.csv,slo_tax,2023,source
 slo_tax_prices.csv,slo_tax,2024,"comment, source"
+can_nb_ets_prices.csv,can_nb_ets,2022,comment
 can_ab_tax_prices.csv,can_ab_tax,2017,comment
 can_ab_tax_prices.csv,can_ab_tax,2018,comment
 can_ab_tax_prices.csv,can_ab_tax,2019,comment
@@ -279,8 +311,8 @@ can_nl_tax_prices.csv,can_nl_tax,2019,comment
 can_nl_tax_prices.csv,can_nl_tax,2020,comment
 can_nl_tax_prices.csv,can_nl_tax,2021,comment
 can_nl_tax_prices.csv,can_nl_tax,2022,comment
-deu_ets_prices.csv,deu_ets,2021,"comment, rate/allowance_weighted_price"
-deu_ets_prices.csv,deu_ets,2022,"comment, rate/allowance_weighted_price"
+deu_ets_prices.csv,deu_ets,2021,comment
+deu_ets_prices.csv,deu_ets,2022,comment
 dnk_tax_prices.csv,dnk_tax,2021,comment
 dnk_tax_prices.csv,dnk_tax,2022,comment
 dnk_tax_prices.csv,dnk_tax,2021,comment
@@ -309,7 +341,7 @@ can_tax_I_prices.csv,can_tax_I,2021,comment
 can_tax_I_prices.csv,can_tax_I,2022,comment
 can_tax_I_prices.csv,can_tax_I,2023,comment
 can_tax_I_prices.csv,can_tax_I,2024,comment
-usa_or_ets_prices.csv,usa_or_ets,2022,allowance_weighted_price
+usa_or_ets_prices.csv,usa_or_ets,2022,allowance_price
 prt_tax_prices.csv,prt_tax,2015,comment
 prt_tax_prices.csv,prt_tax,2016,comment
 prt_tax_prices.csv,prt_tax,2017,comment
@@ -373,10 +405,7 @@ gbr_tax_prices.csv,gbr_tax,2021,comment
 gbr_tax_prices.csv,gbr_tax,2022,comment
 gbr_tax_prices.csv,gbr_tax,2023,"comment, source"
 gbr_tax_prices.csv,gbr_tax,2024,"comment, source"
-gbr_ets_prices.csv,gbr_ets,2021,rate/allowance_weighted_price
-gbr_ets_prices.csv,gbr_ets,2022,rate/allowance_weighted_price
-mex_ets_prices.csv,mex_ets,2021,rate/allowance_weighted_price
-mex_ets_prices.csv,mex_ets,2022,rate/allowance_weighted_price
+mex_ets_prices.csv,mex_ets,2021,allowance_price
 hun_tax_prices.csv,hun_tax,2023,"comment, source, rate"
 hun_tax_prices.csv,hun_tax,2024,"comment, source"
 hun_tax_prices.csv,hun_tax,2023,"comment, source, rate"
@@ -585,7 +614,6 @@ can_bc_tax_prices.csv,can_bc_tax,2021,comment
 can_bc_tax_prices.csv,can_bc_tax,2022,comment
 can_bc_tax_prices.csv,can_bc_tax,2023,comment
 can_bc_tax_prices.csv,can_bc_tax,2024,comment
-aut_ets_prices.csv,aut_ets,2022,rate/allowance_weighted_price
 can_nt_tax_prices.csv,can_nt_tax,2019,comment
 can_nt_tax_prices.csv,can_nt_tax,2020,comment
 can_nt_tax_prices.csv,can_nt_tax,2021,comment
@@ -598,17 +626,13 @@ can_nt_tax_prices.csv,can_nt_tax,2019,comment
 can_nt_tax_prices.csv,can_nt_tax,2020,comment
 can_nt_tax_prices.csv,can_nt_tax,2021,comment
 can_nt_tax_prices.csv,can_nt_tax,2022,comment
-can_ns_ets_prices.csv,can_ns_ets,2019,"source, currency_code, allowance_weighted_price"
-kaz_ets_prices.csv,kaz_ets,2013,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2014,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2015,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2016,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2017,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2018,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2019,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2020,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2021,rate/allowance_weighted_price
-kaz_ets_prices.csv,kaz_ets,2022,rate/allowance_weighted_price
+can_ns_ets_prices.csv,can_ns_ets,2019,"source, currency_code, rate/allowance_price"
+can_ns_ets_prices.csv,can_ns_ets,2020,rate/allowance_price
+can_ns_ets_prices.csv,can_ns_ets,2021,rate/allowance_price
+can_ns_ets_prices.csv,can_ns_ets,2022,rate/allowance_price
+kaz_ets_prices.csv,kaz_ets,2016,allowance_price
+kaz_ets_prices.csv,kaz_ets,2017,allowance_price
+kaz_ets_prices.csv,kaz_ets,2018,allowance_price
 fra_tax_prices.csv,fra_tax,2021,source
 fra_tax_prices.csv,fra_tax,2022,"comment, source"
 fra_tax_prices.csv,fra_tax,2023,"comment, source"
@@ -744,9 +768,8 @@ aus_tax_prices.csv,aus_tax,2012,comment
 aus_tax_prices.csv,aus_tax,2013,comment
 aus_tax_prices.csv,aus_tax,2012,comment
 aus_tax_prices.csv,aus_tax,2013,comment
-mne_ets_prices.csv,mne_ets,2022,rate/allowance_weighted_price
-mne_ets_prices.csv,mne_ets,2023,"source, rate/allowance_weighted_price"
-mne_ets_prices.csv,mne_ets,2024,"source, rate/allowance_weighted_price"
+mne_ets_prices.csv,mne_ets,2023,source
+mne_ets_prices.csv,mne_ets,2024,source
 can_tax_II_prices.csv,can_tax_II,2019,comment
 can_tax_II_prices.csv,can_tax_II,2020,comment
 can_tax_II_prices.csv,can_tax_II,2021,comment

@@ -1,8 +1,6 @@
 import os
 import glob
 import pandas as pd
-import sys
-import csv
 
 # --- Configuration ---
 PRICE_FOLDER = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price"  # Folder containing CSV files.
@@ -17,11 +15,11 @@ start_year = dict(zip(start_year_file.scheme_id, start_year_file.implementation_
 
 # --- Helper Function ---
 def get_price_column(columns):
-    """Return 'rate' if present; otherwise return 'allowance_weighted_price' if present; else None."""
+    """Return 'rate' if present; otherwise return 'allowance_price' if present; else None."""
     if "rate" in columns:
         return "rate"
-    elif "allowance_weighted_price" in columns:
-        return "allowance_weighted_price"
+    elif "allowance_price" in columns:
+        return "allowance_price"
     else:
         return None
 
@@ -82,7 +80,7 @@ for filepath in file_list:
             required_columns.append(price_col)
         else:
             # If neither expected price column exists, include a placeholder.
-            required_columns.append("rate/allowance_weighted_price")
+            required_columns.append("rate/allowance_price")
         
         # Process only rows with years in the specified time span.
         df_subset = df[df["year"].notna() & df["year"].astype(float).between(START_YEAR, END_YEAR)]
