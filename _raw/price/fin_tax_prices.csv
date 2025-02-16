@@ -1,100 +1,106 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
 fin_tax,1990,CO2,Coal,1.2,EUR,journal(VEH[2005]),the carbon tax does not apply to peat
-fin_tax,1991,CO2,Coal,1.2,EUR,journal(VEH[2005]),the carbon tax does not apply to peat
-fin_tax,1992,CO2,Coal,1.2,EUR,journal(VEH[2005]),the carbon tax does not apply to peat
-fin_tax,1993,CO2,Coal,2.4,EUR,journal(VEH[2005]),the carbon tax does not apply to peat
-fin_tax,1994,CO2,Coal,3.234732824,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,1995,CO2,Coal,5.590648855,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,1996,CO2,Coal,5.590648855,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,1997,CO2,Coal,10.84732824,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,1998,CO2,Coal,13.76208651,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,1999,CO2,Coal,15.79007634,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2000,CO2,Coal,15.79007634,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2001,CO2,Coal,15.79007634,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2002,CO2,Coal,15.79007634,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2003,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2004,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2005,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2006,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2007,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2008,CO2,Coal,18.82442748,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2009,CO2,Coal,18.82442748,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2010,CO2,Coal,18.82442748,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
-fin_tax,2011,CO2,Coal,27.6221374,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
-fin_tax,2012,CO2,Coal,27.6221374,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
-fin_tax,2013,CO2,Coal,32.22519084,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
-fin_tax,2014,CO2,Coal,32.22519084,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
-fin_tax,2015,CO2,Coal,40.51145038,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
-fin_tax,2016,CO2,Coal,49.71755725,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
-fin_tax,2017,CO2,Coal,53.40076336,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
-fin_tax,2018,CO2,Coal,57.08396947,EUR,"report(IEA-EPT[2018],IEA-EPT[2020])",the carbon tax does not apply to peat
-fin_tax,2019,CO2,Coal,56.41603053,EUR,report(IEA-EPT[2020]),the carbon tax does not apply to peat
-fin_tax,2020,CO2,Coal,56.41603053,EUR,report(IEA-EPT[2020]),the carbon tax does not apply to peat
-fin_tax,2021,CO2,Coal,56.41603053,EUR,db(EC-TED[2021]),the carbon tax does not apply to peat
-fin_tax,2022,CO2,Coal,,EUR,,
 fin_tax,1990,CO2,Oil,1.2,EUR,journal(VEH[2005]),
-fin_tax,1991,CO2,Oil,1.2,EUR,journal(VEH[2005]),
-fin_tax,1992,CO2,Oil,1.2,EUR,journal(VEH[2005]),
-fin_tax,1993,CO2,Oil,2.4,EUR,journal(VEH[2005]),
-fin_tax,1994,CO2,Oil,3.25,EUR,report(IEA-EPT[2015]),
-fin_tax,1995,CO2,Oil,5.75,EUR,report(IEA-EPT[2015]),
-fin_tax,1996,CO2,Oil,5.75,EUR,report(IEA-EPT[2015]),
-fin_tax,1997,CO2,Oil,10.33333333,EUR,report(IEA-EPT[2015]),
-fin_tax,1998,CO2,Oil,13.22222222,EUR,report(IEA-EPT[2015]),
-fin_tax,1999,CO2,Oil,15,EUR,report(IEA-EPT[2015]),
-fin_tax,2000,CO2,Oil,15,EUR,report(IEA-EPT[2015]),
-fin_tax,2001,CO2,Oil,15,EUR,report(IEA-EPT[2015]),
-fin_tax,2002,CO2,Oil,15,EUR,report(IEA-EPT[2015]),
-fin_tax,2003,CO2,Oil,16,EUR,report(IEA-EPT[2015]),
-fin_tax,2004,CO2,Oil,16,EUR,report(IEA-EPT[2015]),
-fin_tax,2005,CO2,Oil,16,EUR,report(IEA-EPT[2015]),
-fin_tax,2006,CO2,Oil,16,EUR,report(IEA-EPT[2015]),
-fin_tax,2007,CO2,Oil,16,EUR,report(IEA-EPT[2015]),
-fin_tax,2008,CO2,Oil,18,EUR,report(IEA-EPT[2015]),
-fin_tax,2009,CO2,Oil,18,EUR,report(IEA-EPT[2015]),
-fin_tax,2010,CO2,Oil,18,EUR,report(IEA-EPT[2015]),
-fin_tax,2011,CO2,Oil,18,EUR,report(IEA-EPT[2018]),
-fin_tax,2012,CO2,Oil,53,EUR,report(IEA-EPT[2018]),
-fin_tax,2013,CO2,Oil,53,EUR,report(IEA-EPT[2018]),
-fin_tax,2014,CO2,Oil,62.03333333,EUR,report(IEA-EPT[2018]),
-fin_tax,2015,CO2,Oil,62.03333333,EUR,report(IEA-EPT[2018]),
-fin_tax,2016,CO2,Oil,62.03333333,EUR,report(IEA-EPT[2018]),
-fin_tax,2017,CO2,Oil,66.33333333,EUR,report(IEA-EPT[2018]),
-fin_tax,2018,CO2,Oil,66.33333333,EUR,"report(IEA-EPT[2018],IEA-EPT[2020])",
-fin_tax,2019,CO2,Oil,66.33333333,EUR,report(IEA-EPT[2020]),
-fin_tax,2020,CO2,Oil,66.33333333,EUR,report(IEA-EPT[2020]),
-fin_tax,2021,CO2,Oil,66.33333333,EUR,db(EC-TED[2021]),
-fin_tax,2022,CO2,Oil,,EUR,,
 fin_tax,1990,CO2,Natural gas,1.2,EUR,journal(VEH[2005]),
 fin_tax,1991,CO2,Natural gas,1.2,EUR,journal(VEH[2005]),
+fin_tax,1991,CO2,Coal,1.2,EUR,journal(VEH[2005]),the carbon tax does not apply to peat
+fin_tax,1991,CO2,Oil,1.2,EUR,journal(VEH[2005]),
+fin_tax,1992,CO2,Oil,1.2,EUR,journal(VEH[2005]),
 fin_tax,1992,CO2,Natural gas,1.2,EUR,journal(VEH[2005]),
+fin_tax,1992,CO2,Coal,1.2,EUR,journal(VEH[2005]),the carbon tax does not apply to peat
+fin_tax,1993,CO2,Oil,2.4,EUR,journal(VEH[2005]),
+fin_tax,1993,CO2,Coal,2.4,EUR,journal(VEH[2005]),the carbon tax does not apply to peat
 fin_tax,1993,CO2,Natural gas,2.4,EUR,journal(VEH[2005]),
+fin_tax,1994,CO2,Oil,3.25,EUR,report(IEA-EPT[2015]),
+fin_tax,1994,CO2,Coal,3.234732824,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
 fin_tax,1994,CO2,Natural gas,3.657178218,EUR,report(IEA-EPT[2015]),
 fin_tax,1995,CO2,Natural gas,3.152227723,EUR,report(IEA-EPT[2015]),
+fin_tax,1995,CO2,Oil,5.75,EUR,report(IEA-EPT[2015]),
+fin_tax,1995,CO2,Coal,5.590648855,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,1996,CO2,Oil,5.75,EUR,report(IEA-EPT[2015]),
+fin_tax,1996,CO2,Coal,5.590648855,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
 fin_tax,1996,CO2,Natural gas,3.152227723,EUR,report(IEA-EPT[2015]),
+fin_tax,1997,CO2,Coal,10.84732824,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
 fin_tax,1997,CO2,Natural gas,5.326732673,EUR,report(IEA-EPT[2015]),
+fin_tax,1997,CO2,Oil,10.33333333,EUR,report(IEA-EPT[2015]),
+fin_tax,1998,CO2,Oil,13.22222222,EUR,report(IEA-EPT[2015]),
 fin_tax,1998,CO2,Natural gas,6.724422442,EUR,report(IEA-EPT[2015]),
+fin_tax,1998,CO2,Coal,13.76208651,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
 fin_tax,1999,CO2,Natural gas,7.727722772,EUR,report(IEA-EPT[2015]),
+fin_tax,1999,CO2,Coal,15.79007634,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,1999,CO2,Oil,15.0,EUR,report(IEA-EPT[2015]),
 fin_tax,2000,CO2,Natural gas,7.727722772,EUR,report(IEA-EPT[2015]),
+fin_tax,2000,CO2,Coal,15.79007634,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,2000,CO2,Oil,15.0,EUR,report(IEA-EPT[2015]),
 fin_tax,2001,CO2,Natural gas,7.727722772,EUR,report(IEA-EPT[2015]),
+fin_tax,2001,CO2,Coal,15.79007634,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,2001,CO2,Oil,15.0,EUR,report(IEA-EPT[2015]),
+fin_tax,2002,CO2,Oil,15.0,EUR,report(IEA-EPT[2015]),
 fin_tax,2002,CO2,Natural gas,7.727722772,EUR,report(IEA-EPT[2015]),
+fin_tax,2002,CO2,Coal,15.79007634,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,2003,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
 fin_tax,2003,CO2,Natural gas,8.118811881,EUR,report(IEA-EPT[2015]),
+fin_tax,2003,CO2,Oil,16.0,EUR,report(IEA-EPT[2015]),
 fin_tax,2004,CO2,Natural gas,8.118811881,EUR,report(IEA-EPT[2015]),
+fin_tax,2004,CO2,Oil,16.0,EUR,report(IEA-EPT[2015]),
+fin_tax,2004,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,2005,CO2,Oil,16.0,EUR,report(IEA-EPT[2015]),
 fin_tax,2005,CO2,Natural gas,8.118811881,EUR,report(IEA-EPT[2015]),
+fin_tax,2005,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,2006,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,2006,CO2,Oil,16.0,EUR,report(IEA-EPT[2015]),
 fin_tax,2006,CO2,Natural gas,8.118811881,EUR,report(IEA-EPT[2015]),
+fin_tax,2007,CO2,Coal,16.61068702,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,2007,CO2,Oil,16.0,EUR,report(IEA-EPT[2015]),
 fin_tax,2007,CO2,Natural gas,8.118811881,EUR,report(IEA-EPT[2015]),
 fin_tax,2008,CO2,Natural gas,8.99009901,EUR,report(IEA-EPT[2015]),
+fin_tax,2008,CO2,Oil,18.0,EUR,report(IEA-EPT[2015]),
+fin_tax,2008,CO2,Coal,18.82442748,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
 fin_tax,2009,CO2,Natural gas,8.99009901,EUR,report(IEA-EPT[2015]),
+fin_tax,2009,CO2,Oil,18.0,EUR,report(IEA-EPT[2015]),
+fin_tax,2009,CO2,Coal,18.82442748,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
+fin_tax,2010,CO2,Coal,18.82442748,EUR,report(IEA-EPT[2015]),the carbon tax does not apply to peat
 fin_tax,2010,CO2,Natural gas,8.99009901,EUR,report(IEA-EPT[2015]),
+fin_tax,2010,CO2,Oil,18.0,EUR,report(IEA-EPT[2015]),
+fin_tax,2011,CO2,Coal,27.6221374,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
 fin_tax,2011,CO2,Natural gas,29.40594059,EUR,report(IEA-EPT[2018]),
+fin_tax,2011,CO2,Oil,18.0,EUR,report(IEA-EPT[2018]),
+fin_tax,2012,CO2,Oil,53.0,EUR,report(IEA-EPT[2018]),
+fin_tax,2012,CO2,Coal,27.6221374,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
 fin_tax,2012,CO2,Natural gas,29.40594059,EUR,report(IEA-EPT[2018]),
+fin_tax,2013,CO2,Coal,32.22519084,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
+fin_tax,2013,CO2,Oil,53.0,EUR,report(IEA-EPT[2018]),
 fin_tax,2013,CO2,Natural gas,34.30693069,EUR,report(IEA-EPT[2018]),
+fin_tax,2014,CO2,Oil,62.03333333,EUR,report(IEA-EPT[2018]),
 fin_tax,2014,CO2,Natural gas,34.30693069,EUR,report(IEA-EPT[2018]),
+fin_tax,2014,CO2,Coal,32.22519084,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
 fin_tax,2015,CO2,Natural gas,43.11881188,EUR,report(IEA-EPT[2018]),
+fin_tax,2015,CO2,Oil,62.03333333,EUR,report(IEA-EPT[2018]),
+fin_tax,2015,CO2,Coal,40.51145038,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
 fin_tax,2016,CO2,Natural gas,52.92079208,EUR,report(IEA-EPT[2018]),
+fin_tax,2016,CO2,Oil,62.03333333,EUR,report(IEA-EPT[2018]),
+fin_tax,2016,CO2,Coal,49.71755725,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
+fin_tax,2017,CO2,Coal,53.40076336,EUR,report(IEA-EPT[2018]),the carbon tax does not apply to peat
 fin_tax,2017,CO2,Natural gas,56.83168317,EUR,report(IEA-EPT[2018]),
+fin_tax,2017,CO2,Oil,66.33333333,EUR,report(IEA-EPT[2018]),
 fin_tax,2018,CO2,Natural gas,60.79207921,EUR,"report(IEA-EPT[2018],IEA-EPT[2020])",
+fin_tax,2018,CO2,Oil,66.33333333,EUR,"report(IEA-EPT[2018],IEA-EPT[2020])",
+fin_tax,2018,CO2,Coal,57.08396947,EUR,"report(IEA-EPT[2018],IEA-EPT[2020])",the carbon tax does not apply to peat
 fin_tax,2019,CO2,Natural gas,64.05940594,EUR,report(IEA-EPT[2020]),
+fin_tax,2019,CO2,Oil,66.33333333,EUR,report(IEA-EPT[2020]),
+fin_tax,2019,CO2,Coal,56.41603053,EUR,report(IEA-EPT[2020]),the carbon tax does not apply to peat
 fin_tax,2020,CO2,Natural gas,64.05940594,EUR,report(IEA-EPT[2020]),
+fin_tax,2020,CO2,Coal,56.41603053,EUR,report(IEA-EPT[2020]),the carbon tax does not apply to peat
+fin_tax,2020,CO2,Oil,66.33333333,EUR,report(IEA-EPT[2020]),
 fin_tax,2021,CO2,Natural gas,64.05940594,EUR,db(EC-TED[2021]),
+fin_tax,2021,CO2,Coal,56.41603053,EUR,db(EC-TED[2021]),the carbon tax does not apply to peat
+fin_tax,2021,CO2,Oil,66.33333333,EUR,db(EC-TED[2021]),
+fin_tax,2022,CO2,Oil,,EUR,,
+fin_tax,2022,CO2,Coal,,EUR,,
 fin_tax,2022,CO2,Natural gas,,EUR,,
+fin_tax,2023,CO2,Oil,,EUR,,
+fin_tax,2023,CO2,Coal,,EUR,,
+fin_tax,2023,CO2,Natural gas,,EUR,,
+fin_tax,2024,CO2,Coal,,EUR,,
+fin_tax,2024,CO2,Oil,,EUR,,
+fin_tax,2024,CO2,Natural gas,,EUR,,
