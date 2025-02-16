@@ -1,7 +1,5 @@
 import os
 import pandas as pd
-import git
-
 
 # Directory containing price data
 # price_dir = os.path.join(repo_dir, "_raw", "price")
@@ -48,13 +46,19 @@ for file in csv_files:
                 # Get last available year data
                 last_year_data = df[df["year"] == df["year"].max()]
 
+                # Get value in cells for last year of data
+                scheme_id = last_year_data["scheme_id"]
+                curr_code = last_year_data["currency_code"]
+
                 # Generate new rows for each missing year
                 new_rows = []
                 for year in missing_years:
                     for _, row in last_year_data.iterrows():
                         new_row = row.copy()
+                        new_row["scheme_id"] = scheme_id
                         new_row["year"] = year
                         new_row["rate"] = None  # Leave rate blank
+                        new_row["currency_code"] = curr_code
                         new_rows.append(new_row)
 
                 new_df = pd.DataFrame(new_rows)
