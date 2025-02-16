@@ -36,19 +36,19 @@ for file in csv_files:
         if missing_years:
             print(f"Updating {file} - Adding missing years: {', '.join(map(str, missing_years))}")
 
+            # Get last available year data
+            last_year_data = df[df["year"] == df["year"].max()]
+
+            # Get value in cells for last year of data
+            scheme_id = last_year_data.iloc[0]["scheme_id"]
+            curr_code = last_year_data.iloc[0]["currency_code"]
+
             if "tax" in file.lower():
                 # Ensure required columns exist
                 required_cols = {"scheme_id", "ghg", "product", "rate", "year"}
                 if not required_cols.issubset(df.columns):
                     print(f"Skipping {file}: Missing required columns")
                     continue
-
-                # Get last available year data
-                last_year_data = df[df["year"] == df["year"].max()]
-
-                # Get value in cells for last year of data
-                scheme_id = last_year_data["scheme_id"]
-                curr_code = last_year_data["currency_code"]
 
                 # Generate new rows for each missing year
                 new_rows = []
@@ -69,7 +69,9 @@ for file in csv_files:
                 new_rows = []
                 for year in missing_years:
                     new_row = {col: None for col in df.columns}  # Blank row
+                    new_row["scheme_id"] = scheme_id
                     new_row["year"] = year
+                    new_row["currency_code"] = curr_code
                     new_rows.append(new_row)
 
                 new_df = pd.DataFrame(new_rows)
