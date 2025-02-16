@@ -1,35 +1,8 @@
 filename,scheme_id,missing_years
-arg_tax_prices.csv,arg_tax,"2023, 2024"
-nor_tax_I_prices.csv,nor_tax_I,"2023, 2024"
-usa_ca_ets_prices.csv,usa_ca_ets,"2012, 2024"
-swe_tax_prices.csv,swe_tax,"2023, 2024"
-can_nb_ets_prices.csv,can_nb_ets,"2023, 2024"
-usa_ma_ets_prices.csv,usa_ma_ets,"2018, 2024"
-can_ab_tax_prices.csv,can_ab_tax,"2023, 2024"
-can_sk_ets_prices.csv,can_sk_ets,"2023, 2024"
-can_nl_ets_prices.csv,can_nl_ets,"2023, 2024"
-ukr_tax_prices.csv,ukr_tax,"2023, 2024"
-can_nl_tax_prices.csv,can_nl_tax,"2023, 2024"
-deu_ets_prices.csv,deu_ets,"2023, 2024"
-dnk_tax_prices.csv,dnk_tax,"2023, 2024"
-usa_or_ets_prices.csv,usa_or_ets,"2023, 2024"
-can_obps_prices.csv,can_obps,"2023, 2024"
-gbr_ets_prices.csv,gbr_ets,"2023, 2024"
-usa_rggi_prices.csv,usa_rggi,2024
-mex_ets_prices.csv,mex_ets,"2020, 2023, 2024"
-irl_tax_prices.csv,irl_tax,"2023, 2024"
-mex_tax_prices.csv,mex_tax,"2023, 2024"
-lie_tax_prices.csv,lie_tax,"2023, 2024"
-fin_tax_prices.csv,fin_tax,"2023, 2024"
-aut_ets_prices.csv,aut_ets,"2023, 2024"
-can_nt_tax_prices.csv,can_nt_tax,"2023, 2024"
-can_ns_ets_prices.csv,can_ns_ets,"2023, 2024"
-kaz_ets_prices.csv,kaz_ets,"2023, 2024"
-nor_tax_II_prices.csv,nor_tax_II,"2022, 2023, 2024"
-can_pe_tax_prices.csv,can_pe_tax,"2023, 2024"
-chl_tax_prices.csv,chl_tax,"2023, 2024"
-mex_dg_tax_prices.csv,mex_dg_tax,"2022, 2023"
-aus_tax_prices.csv,aus_tax,"2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024"
-che_ets_prices.csv,che_ets,"2008, 2009, 2010, 2011, 2012, 2013, 2023, 2024"
-esp_tax_prices.csv,esp_tax,"2023, 2024"
-isl_tax_prices.csv,isl_tax,"2023, 2024"
+usa_ca_ets_prices.csv,usa_ca_ets,2012
+usa_ma_ets_prices.csv,usa_ma_ets,2018
+mex_ets_prices.csv,mex_ets,2020
+nor_tax_II_prices.csv,nor_tax_II,2022
+mex_dg_tax_prices.csv,mex_dg_tax,2022
+aus_tax_prices.csv,aus_tax,"2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022"
+che_ets_prices.csv,che_ets,"2008, 2009, 2010, 2011, 2012, 2013"
