@@ -41,7 +41,7 @@ for filepath in file_list:
     
     try:
         # Read all columns as strings so we can easily test for emptiness.
-        df = pd.read_csv(filepath, dtype=str)
+        df = pd.read_csv(filepath, keep_default_na=False, na_values=[''])
     except Exception as e:
         print(f"Error reading {filename}: {e}")
         continue
