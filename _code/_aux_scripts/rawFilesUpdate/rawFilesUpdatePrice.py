@@ -77,6 +77,8 @@ for file in csv_files:
                 new_df = pd.DataFrame(new_rows)
                 df = pd.concat([df, new_df], ignore_index=True).sort_values(by="year")
 
+            # Fill with "NA" string
+
             # Save updated file
             df.to_csv(file_path, index=False)
             print(f"Updated {file} saved successfully.")
