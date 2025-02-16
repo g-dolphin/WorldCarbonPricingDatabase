@@ -1,10 +1,16 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-aus_tax,2012,CO2,Coal,23,AUD,web(AU-CER[2015]),
-aus_tax,2013,CO2,Coal,23,AUD,web(AU-CER[2015]),
+aus_tax,2012,CO2,Coal,23.0,AUD,web(AU-CER[2015]),
+aus_tax,2012,CO2,Oil,23.0,AUD,web(AU-CER[2015]),
+aus_tax,2012,CO2,Natural gas,23.0,AUD,web(AU-CER[2015]),
+aus_tax,2013,CO2,Coal,23.0,AUD,web(AU-CER[2015]),
+aus_tax,2013,CO2,Oil,23.0,AUD,web(AU-CER[2015]),
+aus_tax,2013,CO2,Natural gas,23.0,AUD,web(AU-CER[2015]),
 aus_tax,2014,CO2,Coal,24.15,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
-aus_tax,2012,CO2,Oil,23,AUD,web(AU-CER[2015]),
-aus_tax,2013,CO2,Oil,23,AUD,web(AU-CER[2015]),
 aus_tax,2014,CO2,Oil,24.15,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
-aus_tax,2012,CO2,Natural gas,23,AUD,web(AU-CER[2015]),
-aus_tax,2013,CO2,Natural gas,23,AUD,web(AU-CER[2015]),
 aus_tax,2014,CO2,Natural gas,24.15,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
+aus_tax,2023,CO2,Coal,,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
+aus_tax,2023,CO2,Oil,,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
+aus_tax,2023,CO2,Natural gas,,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
+aus_tax,2024,CO2,Coal,,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
+aus_tax,2024,CO2,Oil,,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."
+aus_tax,2024,CO2,Natural gas,,AUD,web(AU-CER[2015]),"Scheme terminated on July 1, 2014."

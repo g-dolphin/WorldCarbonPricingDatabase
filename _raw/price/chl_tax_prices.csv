@@ -1,19 +1,25 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
 chl_tax,2017,CO2,Coal,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
-chl_tax,2018,CO2,Coal,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
-chl_tax,2019,CO2,Coal,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
-chl_tax,2020,CO2,Coal,5,USD,"report(WB[2015], WB[2017], WB[2018])","from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
-chl_tax,2021,CO2,Coal,5,USD,report(WB[2021]),"from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
-chl_tax,2022,CO2,Coal,5,USD,db(WB-CPI[2022]),
 chl_tax,2017,CO2,Oil,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
-chl_tax,2018,CO2,Oil,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
-chl_tax,2019,CO2,Oil,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
-chl_tax,2020,CO2,Oil,5,USD,"report(WB[2015], WB[2017], WB[2018])","from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
-chl_tax,2021,CO2,Oil,5,USD,report(WB[2021]),"from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
-chl_tax,2022,CO2,Oil,5,USD,db(WB-CPI[2022]),
 chl_tax,2017,CO2,Natural gas,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
+chl_tax,2018,CO2,Coal,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
+chl_tax,2018,CO2,Oil,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
 chl_tax,2018,CO2,Natural gas,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
+chl_tax,2019,CO2,Coal,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
+chl_tax,2019,CO2,Oil,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
 chl_tax,2019,CO2,Natural gas,5,USD,"report(WB[2015], WB[2017], WB[2018])","all, but only, stationary sources above 50 MW are covered"
+chl_tax,2020,CO2,Coal,5,USD,"report(WB[2015], WB[2017], WB[2018])","from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
+chl_tax,2020,CO2,Oil,5,USD,"report(WB[2015], WB[2017], WB[2018])","from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
 chl_tax,2020,CO2,Natural gas,5,USD,"report(WB[2015], WB[2017], WB[2018])","from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
+chl_tax,2021,CO2,Coal,5,USD,report(WB[2021]),"from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
+chl_tax,2021,CO2,Oil,5,USD,report(WB[2021]),"from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
 chl_tax,2021,CO2,Natural gas,5,USD,report(WB[2021]),"from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2"
 chl_tax,2022,CO2,Natural gas,5,USD,db(WB-CPI[2022]),
+chl_tax,2022,CO2,Oil,5,USD,db(WB-CPI[2022]),
+chl_tax,2022,CO2,Coal,5,USD,db(WB-CPI[2022]),
+chl_tax,2023,CO2,Coal,,USD,db(WB-CPI[2022]),
+chl_tax,2023,CO2,Oil,,USD,db(WB-CPI[2022]),
+chl_tax,2023,CO2,Natural gas,,USD,db(WB-CPI[2022]),
+chl_tax,2024,CO2,Coal,,USD,db(WB-CPI[2022]),
+chl_tax,2024,CO2,Oil,,USD,db(WB-CPI[2022]),
+chl_tax,2024,CO2,Natural gas,,USD,db(WB-CPI[2022]),
