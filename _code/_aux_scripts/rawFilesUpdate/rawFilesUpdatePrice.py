@@ -46,6 +46,7 @@ for file in csv_files:
             if "tax" in file.lower():
                 # Ensure required columns exist
                 required_cols = {"scheme_id", "ghg", "product", "rate", "year"}
+                price_col = "rate"
                 if not required_cols.issubset(df.columns):
                     print(f"Skipping {file}: Missing required columns")
                     continue
@@ -65,6 +66,7 @@ for file in csv_files:
                 df = pd.concat([df, new_df], ignore_index=True).sort_values(by="year")
 
             elif any(x in file.lower() for x in ["ets", "obps", "rggi"]):
+                price_col = "allowance_price"
                 # Just add a single row per missing year, copying structure
                 new_rows = []
                 for year in missing_years:
@@ -78,6 +80,7 @@ for file in csv_files:
                 df = pd.concat([df, new_df], ignore_index=True).sort_values(by="year")
 
             # Fill with "NA" string
+            df.loc[df.year.isin([x for x in range(1990, start_year)]), ["product", price_col]].fillna("NA", inplace=True)
 
             # Save updated file
             df.to_csv(file_path, index=False)
