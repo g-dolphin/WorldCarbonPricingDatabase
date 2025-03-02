@@ -1,12 +1,12 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
-irl_tax,2010,CO2,Coal,,EUR,"report(IEA-EPT[2020]), leg(IRL-FA[2010])",
+irl_tax,2010,CO2,Coal,NA,EUR,"report(IEA-EPT[2020]), leg(IRL-FA[2010])",
 irl_tax,2010,CO2,Oil,15,EUR,"report(IEA-EPT[2020]), leg(IRL-FA[2010])",
 irl_tax,2010,CO2,Natural gas,15,EUR,"report(IEA-EPT[2020]), leg(IRL-FA[2010])",
 irl_tax,2011,CO2,Oil,15,EUR,report(IEA-EPT[2020]),
 irl_tax,2011,CO2,Natural gas,15,EUR,report(IEA-EPT[2020]),
-irl_tax,2011,CO2,Coal,,EUR,report(IEA-EPT[2020]),
+irl_tax,2011,CO2,Coal,NA,EUR,report(IEA-EPT[2020]),
 irl_tax,2012,CO2,Oil,15,EUR,report(IEA-EPT[2020]),
-irl_tax,2012,CO2,Coal,,EUR,report(IEA-EPT[2020]),
+irl_tax,2012,CO2,Coal,NA,EUR,report(IEA-EPT[2020]),
 irl_tax,2012,CO2,Natural gas,20,EUR,report(IEA-EPT[2020]),
 irl_tax,2013,CO2,Coal,10,EUR,report(IEA-EPT[2020]),The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.
 irl_tax,2013,CO2,Oil,20,EUR,report(IEA-EPT[2020]),
