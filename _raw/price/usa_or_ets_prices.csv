@@ -1,4 +1,4 @@
 scheme_id,year,allowance_price,currency_code,source,comment
-usa_or_ets,2022,,USD,-,-
-usa_or_ets,2023,,USD,,
-usa_or_ets,2024,,USD,,
+usa_or_ets,2022,NA,USD,-,launched in 2022
+usa_or_ets,2023,NA,USD,-,struck down by court ruling in December 2023
+usa_or_ets,2024,NA,USD,-,"reinstated in December 2024, to start in January 2025"
