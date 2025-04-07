@@ -5,7 +5,7 @@ Created on Mon Jul 26 07:54:30 2021
 
 @author: gd
 """
-    
+# mechanism scope sources to be checked: Switzerland, Denmark, Canadian Provinces (New Brunswick), Estonia, Ireland
 
 def scope():    
     # Argentina
@@ -241,7 +241,7 @@ def scope():
     ## Sources dictionary
     
     dnk_tax_scope_sources = {year: "journal(WIE[2005]), report(NBER[2009], NC-EIN[2006], IEA-DK[2002])" for year in range(1992, 2022)}
-    dnk_tax_scope_sources[2022] = "db(WBCPD[2023])"
+    dnk_tax_scope_sources.update({year: "db(WBCPD[2023])" for year in range(2022, 2023)})
 
     #----------------------------------------------------------------------------
 
@@ -291,7 +291,9 @@ def scope():
                               2019:"leg(EST-ECA[2005]), report(OECD[2019]), db(WBCPD[2020])", 
                               2020:"leg(EST-ECA[2005]), report(OECD[2019]), db(WBCPD[2020])",
                               2021:"",
-                              2022:"db(WBCPD[2023])"}
+                              2022:"db(WBCPD[2023])", 
+                              2023:" ",
+                              2024:" "}
 
     #----------------------------------------------------------------------------
 
@@ -323,12 +325,12 @@ def scope():
     fin_tax_ipcc_scope = {year:fin_tax_ipcc_I for year in range(1990, 2005)}
     fin_tax_ipcc_scope.update({year: fin_tax_ipcc_II for year in range(2005, 2023)})
     
-    fin_tax_fuel_scope = {1990:fin_tax_I_fuel_I for year in range(1990, 2023)}
+    fin_tax_fuel_scope = {year:fin_tax_I_fuel_I for year in range(1990, 2023)}
 
     ## Sources dictionary
     
-    fin_tax_scope_sources = {1990:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])" for year in range(1990, 2023)}
-    fin_tax_scope_sources[2022] = "db(WBCPD[2023])"
+    fin_tax_scope_sources = {year:"report(IEA-EPT[2015],WB[2014]),journal(VEH[2005]),web(USEPA[2015])" for year in range(1990, 2022)}
+    fin_tax_scope_sources.update({year: "db(WBCPD[2023])" for year in range(2022,2023)})
 
     #----------------------------------------------------------------------------
 
@@ -463,7 +465,7 @@ def scope():
     irl_tax_ipcc_scope = {year: irl_tax_ipcc_I for year in range(2010, 2023)}
     
     irl_tax_fuel_scope = {year: irl_tax_fuel_I for year in range(2010, 2013)}
-    irl_tax_fuel_scope.update({year: irl_tax_fuel_II for year in range(2014, 2015)})
+    irl_tax_fuel_scope.update({year: irl_tax_fuel_II for year in range(2013, 2015)})
     irl_tax_fuel_scope[2015] = irl_tax_fuel_I
     irl_tax_fuel_scope.update({year: irl_tax_fuel_II for year in range(2016, 2023)}) 
 
@@ -493,15 +495,15 @@ def scope():
 
     ## scope dictionaries
     
-    jpn_tax_jur_scope = {year: jpn_tax_jur_I for year in range(2012, 2023)}
+    jpn_tax_jur_scope = {year: jpn_tax_jur_I for year in range(2012, 2025)}
     
-    jpn_tax_ipcc_scope = {year: jpn_tax_ipcc_I for year in range(2012, 2023)}
+    jpn_tax_ipcc_scope = {year: jpn_tax_ipcc_I for year in range(2012, 2025)}
     
-    jpn_tax_fuel_scope = {2012:jpn_tax_fuel_I for year in range(2012, 2023)}
+    jpn_tax_fuel_scope = {year:jpn_tax_fuel_I for year in range(2012, 2025)}
     
     ## Sources dictionary
     
-    jpn_tax_scope_sources = {year: "leg(JP[2012]), gvt(MEJ-CT[2014])" for year in range(2012, 2023)}
+    jpn_tax_scope_sources = {year: "leg(JP[2012]), gvt(MEJ-CT[2014])" for year in range(2012, 2025)}
 
     #----------------------------------------------------------------------------
 
@@ -524,15 +526,15 @@ def scope():
 
     ## scope dictionaries
     
-    lva_tax_jur_scope = {year:lva_tax_jur_I for year in range(2004, 2023)}
+    lva_tax_jur_scope = {year:lva_tax_jur_I for year in range(2004, 2025)}
     
-    lva_tax_ipcc_scope = {year:lva_tax_ipcc_I for year in range(2012, 2023)}
+    lva_tax_ipcc_scope = {year:lva_tax_ipcc_I for year in range(2004, 2025)}
     
-    lva_tax_fuel_scope = {year:lva_tax_fuel_I for year in range(2012, 2023)}
+    lva_tax_fuel_scope = {year:lva_tax_fuel_I for year in range(2004, 2025)}
 
     ## Sources dictionary
     
-    lva_tax_scope_sources = {year:"leg(LV-NRTL[2005])" for year in range(2012, 2023)}
+    lva_tax_scope_sources = {year:"leg(LV-NRTL[2005])" for year in range(2004, 2025)}
 
     #----------------------------------------------------------------------------
 
@@ -553,16 +555,16 @@ def scope():
 
     ## scope dictionaries
     
-    lie_tax_jur_scope = {year:lie_tax_jur_I for year in range(2008, 2023)}
+    lie_tax_jur_scope = {year:lie_tax_jur_I for year in range(2008, 2025)}
 
-    lie_tax_ipcc_scope = {year:lie_tax_ipcc_I for year in range(2008, 2023)}
+    lie_tax_ipcc_scope = {year:lie_tax_ipcc_I for year in range(2008, 2025)}
     
-    lie_tax_fuel_scope = {year:lie_tax_fuel_I for year in range(2008, 2023)}
+    lie_tax_fuel_scope = {year:lie_tax_fuel_I for year in range(2008, 2025)}
     
     ## Sources dictionary
     
     lie_tax_scope_sources = {year:"gvt(CH[2005], CH[2009])" for year in range(2008, 2014)}
-    lie_tax_scope_sources.update({year: "leg(CHE-CO2[2013], CHE-FARC[2013])" for year in range(2014, 2023)})
+    lie_tax_scope_sources.update({year: "leg(CHE-CO2[2013], CHE-FARC[2013])" for year in range(2014, 2025)})
 
     #----------------------------------------------------------------------------
 
@@ -591,7 +593,7 @@ def scope():
     
     ## Sources dictionary
     
-    lux_tax_scope_sources = {2021:"leg()", 2022:"leg()"} 
+    lux_tax_scope_sources = {year:"leg()" for year in range(2021, 2025)} 
     
     #----------------------------------------------------------------------------
 
@@ -752,16 +754,16 @@ def scope():
     
     ## scope dictionaries
 
-    pol_tax_jur_scope = {year:pol_tax_jur_I for year in range(1990, 2023)}
+    pol_tax_jur_scope = {year:pol_tax_jur_I for year in range(1990, 2025)}
 
-    pol_tax_ipcc_scope = {year:pol_tax_ipcc_I for year in range(1990, 2023)}
+    pol_tax_ipcc_scope = {year:pol_tax_ipcc_I for year in range(1990, 2025)}
 
-    pol_tax_fuel_scope = {year:pol_tax_fuel_I for year in range(1990, 2023)}
+    pol_tax_fuel_scope = {year:pol_tax_fuel_I for year in range(1990, 2025)}
 
     ## Sources dictionary
     
     pol_tax_scope_sources = {year:"report(OCED[2012], OECD-EP-P[2015])" for year in range(1990, 2022)}
-    pol_tax_scope_sources[2022] = "db(WBCPD[2023]"
+    pol_tax_scope_sources.update({year: "db(WBCPD[2023]" for year in range(2022,2025)})
     
     #----------------------------------------------------------------------------
     
@@ -947,7 +949,7 @@ def scope():
     swe_tax_jur_scope = {year:swe_tax_jur_I for year in range(1991, 2023)}
 
     swe_tax_ipcc_scope = {year:swe_tax_ipcc_I for year in range(1991, 2011)}
-    swe_tax_ipcc_scope.update({year: swe_tax_ipcc_II in range(2011, 2023)})
+    swe_tax_ipcc_scope.update({year: swe_tax_ipcc_II for year in range(2011, 2023)})
     
     swe_tax_fuel_scope = {year:swe_tax_fuel_I for year in range(1991, 2023)}
     
@@ -983,7 +985,7 @@ def scope():
     ## Sources dictionary
     
     che_tax_scope_sources = {year: "gvt(CH[2005], CH[2009])" for year in range(2008, 2014)}
-    che_tax_scope_sources.update({year: "gvt(CH[2005], CH[2009])" for year in range(2014, 2023)})
+    che_tax_scope_sources.update({year: "gvt(CH[2005], CH[2009])" for year in range(2014, 2025)})
     
     #----------------------------------------------------------------------------
     
@@ -1319,7 +1321,8 @@ def scope():
     ## Sources dictionary
     
     can_tax_I_scope_sources = {2019:"gvt(ECCC[2019])", 2020:"gvt(ECCC[2019])", 
-                                  2021:"gvt(ECCC[2019])", 2022:"gvt(ECCC[2019])"}
+                                  2021:"gvt(ECCC[2019])", 2022:"gvt(ECCC[2019])",
+                                  2023:" ", 2024:" "}
     
     #----------------------------------------------------------------------------
     
@@ -1351,7 +1354,8 @@ def scope():
     ## Sources dictionary
     
     can_tax_II_scope_sources = {2019:"gvt(ECCC[2019])", 2020:"gvt(ECCC[2019])", 
-                                   2021:"gvt(ECCC[2019])", 2022:"gvt(ECCC[2019])"}
+                                   2021:"gvt(ECCC[2019])", 2022:"gvt(ECCC[2019])",
+                                   2023:" ", 2024:" "}
     
     #----------------------------------------------------------------------------
     
@@ -1496,7 +1500,8 @@ def scope():
     ## Sources dictionary
     
     can_nl_tax_scope_sources = {2019:"leg(NL[2011])", 2020:"leg(NL[2011])", 
-                                   2021:"leg(NL[2011])", 2022:"leg(NL[2011])"}
+                                   2021:"leg(NL[2011])", 2022:"leg(NL[2011])",
+                                   2023:" ", 2024:" "}
     
     #----------------------------------------------------------------------------
     

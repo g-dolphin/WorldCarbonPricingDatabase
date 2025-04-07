@@ -120,7 +120,8 @@ def scope():
                                2015:"leg(EC[2014])", 2016:"leg(EC[2014])", 
                                2017:"leg(EC[2014])", 2018:"leg(EC[2018])", 
                                2019:"leg(EC[2018])", 2020:"leg(EC[2018], EC[2020])", 
-                               2021:"leg(EC[2018], EC[2020])", 2022:" "}
+                               2021:"leg(EC[2018], EC[2020])", 2022:" ",
+                               2023:" ", 2024:" "}
 
     #----------------------------------------------------------------------------
 
@@ -142,7 +143,8 @@ def scope():
     
     ## Sources dictionary
     
-    aut_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])"}
+    aut_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])",
+                             2023: " ", 2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -184,7 +186,8 @@ def scope():
     
     can_obps_scope_sources = {2019:"leg(SOR[2019])",
                               2020:"leg(SOR[2019])", 2021:"leg(SOR[2019])",
-                              2022:"leg(SOR[2019])"}
+                              2022:"leg(SOR[2019])", 2023: " ",
+                              2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -230,7 +233,8 @@ def scope():
     
     ## Sources dictionary
     
-    deu_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])"}
+    deu_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])",
+                             2023: " ", 2024:" "}
 
     #----------------------------------------------------------------------------
     
@@ -262,7 +266,9 @@ def scope():
     ## Sources dictionary
     
     mex_ets_scope_sources = {2021:"leg(MX[2019])",
-                             2022:"report(ICAP[2023])"}
+                             2022:"report(ICAP[2023])",
+                             2023: " ",
+                             2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -323,7 +329,7 @@ def scope():
                              2018:"leg(NZ-CCR[2013])", 2019:"leg(NZ-CCR[2013])",
                              2020:"leg(NZ-CCR[2020])", 2021:"leg(NZ-CCR[2020])",
                              2022:"leg(NZ-CCR[2020]), report(ICAP[2023])",
-                             2023: " ", 2024: ""}
+                             2023: " ", 2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -360,7 +366,7 @@ def scope():
     
     che_ets_scope_sources = {year:"gvt(CH[2009])" for year in range(2008, 2013)}
     che_ets_scope_sources.update({year:"gvt(CH[2009])" for year in range(2013, 2022)})
-    che_ets_scope_sources.update({year:" " for year in range(2022, 2023)})
+    che_ets_scope_sources.update({year:" " for year in range(2022, 2025)})
     
     #----------------------------------------------------------------------------
 
@@ -817,7 +823,7 @@ def scope():
     ## scope dictionaries
     chn_gd_ets_jur_scope = {year: chn_gd_ets_jur_I for year in range(2013, 2023)}
 
-    chn_gd_ets_ipcc_scope = {year: chn_gd_ets_ipcc_I for year in range(2014, 2016)}
+    chn_gd_ets_ipcc_scope = {year: chn_gd_ets_ipcc_I for year in range(2013, 2016)}
     chn_gd_ets_ipcc_scope.update({year: chn_gd_ets_ipcc_II for year in range(2016, 2021)})
     chn_gd_ets_ipcc_scope.update({year: chn_gd_ets_ipcc_III for year in range(2021, 2023)})
 
@@ -1184,7 +1190,8 @@ def scope():
     
     ## Sources dictionary
     
-    can_nb_ets_scope_sources = {2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])"}    
+    can_nb_ets_scope_sources = {2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])",
+                                2023: " ", 2024: " "}    
 
 
     #----------------------------------------------------------------------------
