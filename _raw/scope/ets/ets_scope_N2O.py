@@ -54,13 +54,15 @@ def scope():
                         2011:eu_ets_jur_I, 2012:eu_ets_jur_I, 2013:eu_ets_jur_II,
                         2014:eu_ets_jur_II, 2015:eu_ets_jur_II, 2016:eu_ets_jur_II,
                         2017:eu_ets_jur_II, 2018:eu_ets_jur_II, 2019:eu_ets_jur_II,
-                        2020:eu_ets_jur_II, 2021:eu_ets_jur_II}
+                        2020:eu_ets_jur_II, 2021:eu_ets_jur_II, 2022:eu_ets_jur_II,
+                        2023:eu_ets_jur_II, 2024:eu_ets_jur_II}
     
     eu_ets_ipcc_scope = {2008:eu_ets_ipcc_I, 2009:eu_ets_ipcc_I, 2010:eu_ets_ipcc_I,
                         2011:eu_ets_ipcc_I, 2012:eu_ets_ipcc_I, 2013:eu_ets_ipcc_II,
                         2014:eu_ets_ipcc_II, 2015:eu_ets_ipcc_II, 2016:eu_ets_ipcc_II,
                         2017:eu_ets_ipcc_II, 2018:eu_ets_ipcc_II, 2019:eu_ets_ipcc_II,
-                        2020:eu_ets_ipcc_II, 2021:eu_ets_ipcc_II}
+                        2020:eu_ets_ipcc_II, 2021:eu_ets_ipcc_II, 2022:eu_ets_ipcc_II,
+                        2023:eu_ets_ipcc_II, 2024:eu_ets_ipcc_II}
     
     
     ## Sources dictionary
