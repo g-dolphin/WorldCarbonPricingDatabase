@@ -67,26 +67,68 @@ def prices_df(path_prices):
     # Nova Scotia
     can_ns_ets_prices = pd.read_csv(path_prices+"/can_ns_ets_prices.csv")
 
-    # Nova Scotia - II
-    can_ns_ets_II_prices = pd.read_csv(path_prices+"/can_ns_ets_II_prices.csv")
-
     # Newfoundland and Labrador
     can_nl_ets_prices = pd.read_csv(path_prices+"//can_nl_ets_prices.csv")    
 
     # ICAP Prices (EU ETS, NZL ETS, KOR ETS, CHN PROV ETS, CAN PROV)
-    icap_raw = pd.read_csv(path_prices+"/_ICAP_allowance_prices.csv",
-                           delimiter=",", encoding= 'latin-1', header=1, 
+    icap_raw_columns = pd.read_csv(path_prices+"/_icap-graph-price-data-2008-04-01-2025-04-15.csv",
+                           delimiter=",", encoding= 'latin-1', header=0, 
+                           low_memory=False)
+    icap_raw_columns = icap_raw_columns.columns
+
+
+    # Renaming columns of icap data frame
+    # Define your mapping of substrings to new column names
+    column_map = {
+        "Nova Scotia": "can_ns_ets",
+        "British Columbia": "can_bc_tax",
+        "Sweden": "swe_tax",
+        "European Union": "eu_ets",
+        "Quebec":"can_qc_cat", 
+        "Ontario":"can_on_ets",
+        "Switzerland":"che_ets", 
+        "United Kingdom":"gbr_ets", 
+        "China":"chn_ets",
+        "German":"deu_ets", 
+        "Shenzhen":"chn_sz_ets", 
+        "Shanghai":"chn_sh_ets", 
+        "Beijing":"chn_bj_ets",
+        "Guangdong":"chn_gd_ets", 
+        "Tianjin":"chn_tj_ets", 
+        "Hubei":"chn_hb_ets", 
+        "Chongqing":"chn_cq_ets", 
+        "Fujian":"chn_fj_ets", 
+        "New Zealand":"nzl_ets", 
+        "Regional Greenhouse Gas Initative":"usa_rggi", 
+        "California":"usa_ca_ets",
+        "Korean":"kor_ets", 
+        "Washington":"usa_wa_ets"
+    }
+
+    columns = [col for col in icap_raw_columns if any(key in col for key in column_map.keys())]
+
+    icap_raw = pd.read_csv(path_prices+"/_icap-graph-price-data-2008-04-01-2025-04-15.csv",
+                           delimiter=",", encoding= 'latin-1', header=1,
                            low_memory=False)
 
-    icap_raw = pd.concat([icap_raw.loc[:, ["Date"]], icap_raw.loc[:, icap_raw.columns.str.startswith('Secondary Market')]],
+    icap_raw = pd.concat([icap_raw.loc[:, ["Date"]], icap_raw.loc[:, icap_raw.columns.str.startswith('Reference Market')]],
                          axis=1)
+    icap_raw.columns = ["Date"]+columns
 
-    icap_raw.columns = ["date", "eu_ets", "can_qc_cat", "can_on_ets",
-                        "che_ets", "can_ns_ets", "gbr_ets", "chn_ets",
-                        "deu_ets", "chn_sz_ets", "chn_sh_ets", "chn_bj_ets",
-                        "chn_gd_ets", "chn_tj_ets", "chn_hb_ets", "chn_cq_ets", 
-                        "chn_fj_ets", "nzl_ets", "usa_rggi", "usa_ca_ets",
-                        "kor_ets", "usa_wa_ets"]
+    # Function to rename columns based on partial match
+    def rename_columns_partial(df, mapping):
+        new_columns = {}
+        for col in df.columns:
+            for keyword, new_name in mapping.items():
+                if keyword in col:
+                    new_columns[col] = new_name
+                    break  # Only apply first match
+        return df.rename(columns=new_columns)
+
+    # Apply to your DataFrame
+    df = rename_columns_partial(df, column_map)
+
+    icap_raw.columns = []
 
     ## extract year from date string
     
@@ -188,7 +230,7 @@ def prices_df(path_prices):
                     usa_rggi_prices, can_qc_cat_prices, usa_ca_ets_prices,
                     usa_ma_ets_prices, usa_or_ets_prices, usa_wa_ets_prices,
                     can_obps_prices, can_ab_ets_prices, can_sk_ets_prices, 
-                    can_nb_ets_prices, can_ns_ets_prices, can_ns_ets_II_prices, 
+                    can_nb_ets_prices, can_ns_ets_prices, 
                     can_nl_ets_prices])
     
     df["allowance_price"] =  df["allowance_price"].round(2)
