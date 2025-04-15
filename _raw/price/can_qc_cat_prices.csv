@@ -1,6 +1,13 @@
 scheme_id,year,allowance_price,currency_code,source,comment
 can_qc_cat,2013,10.75,CAD,db(ICAP-ETS[2021]),calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 can_qc_cat,2014,13.43388409,CAD,db(ICAP-ETS[2021]),calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
-can_qc_cat,2022,36.29,CAD,db(ICAP-ETS[2022]),allowance-weighted average auction clearing price
-can_qc_cat,2023,,CAD,db(ICAP-ETS[2024]),allowance-weighted average auction clearing price
-can_qc_cat,2024,,CAD,db(ICAP-ETS[2024]),allowance-weighted average auction clearing price
+can_qc_cat,2015,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2016,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2017,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2018,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2019,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2020,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2021,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2022,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2023,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
+can_qc_cat,2024,NA,CAD,,linked to California Cap-and-Trade through the Western Climate Initiative
