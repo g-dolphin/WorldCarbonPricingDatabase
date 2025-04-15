@@ -18,10 +18,8 @@ ecp_cov_fac = SourceFileLoader('coverage_factors', '/Users/gd/GitHub/ECP/_code/c
 # Take final dataset files, sum over all mechanisms fields.
 # If sum > 1, extract scheme_id entries (for that particular row)
 # If sum of coverage factors > 1, overlap = 1; else overlap = 0.
-    
-overlap = wcpd_all_jur.copy()
 
-overlap = ecp_cov_fac.coverageFactors(overlap, gas)
+overlap = ecp_cov_fac.coverageFactors(wcpd_all_jur.copy(), gas)
 
 overlap = overlap[["jurisdiction", "year", "ipcc_code", "Product", 
                    "tax_id", "ets_id", "ets_2_id", 
