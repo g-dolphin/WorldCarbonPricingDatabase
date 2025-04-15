@@ -1215,15 +1215,18 @@ def scope():
     
     ## scope dictionaries
     can_ns_ets_jur_scope = {2019:can_ns_ets_jur_I, 2020:can_ns_ets_jur_I,
-                               2021:can_ns_ets_jur_I, 2022:can_ns_ets_jur_I}
+                            2021:can_ns_ets_jur_I, 2022:can_ns_ets_jur_I,
+                            2023:can_ns_ets_jur_I}
     
     can_ns_ets_ipcc_scope = {2019:can_ns_ets_ipcc_I, 2020:can_ns_ets_ipcc_I,
-                                2021:can_ns_ets_ipcc_I, 2022:can_ns_ets_ipcc_I}     
+                                2021:can_ns_ets_ipcc_I, 2022:can_ns_ets_ipcc_I,
+                                2023:can_ns_ets_ipcc_I}     
     
     ## Sources dictionary
     
     can_ns_ets_scope_sources = {2019:"gvt(ECCC[2021])", 2020:"gvt(ECCC[2021])",
-                                   2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])"}     
+                                   2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])",
+                                   2023:"gvt(ECCC[2021])"}     
 
 
     #----------------------------------------------------------------------------
@@ -1236,7 +1239,21 @@ def scope():
     can_ns_ets_II_jur_I = ["Nova Scotia"]
 
     ## IPCC categories
-
+    can_ns_ets_II_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
+                         "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "1B2A", "1B2A1", 
+                         "1B2A2", "1B2A3", "1B2A31", "1B2A32", "1B2A33", "1B2A34", 
+                         "1B2A35", "1B2A36", "1B2B", "1B2B1", "1B2B2", "1B2B3", 
+                         "1B2B31", "1B2B32", "1B2B33", "1B2B34", "1B2B35", "1B2B36"]
+    
+    ## scope dictionaries
+    can_ns_ets_II_jur_scope = {2024:can_ns_ets_II_jur_I}
+    
+    can_ns_ets_II_ipcc_scope = {2024:can_ns_ets_II_ipcc_I}     
+    
+    ## Sources dictionary
+    
+    can_ns_ets_II_scope_sources = {2024:"MULT-rep-035"} 
 
     #----------------------------------------------------------------------------
     
@@ -1320,6 +1337,8 @@ def scope():
                               "sectors":can_nb_ets_ipcc_scope},
                     "can_ns_ets":{"jurisdictions":can_ns_ets_jur_scope, 
                               "sectors":can_ns_ets_ipcc_scope},
+                    "can_ns_ets_II":{"jurisdictions":can_ns_ets_II_jur_scope, 
+                              "sectors":can_ns_ets_II_ipcc_scope},
                     "can_nl_ets":{"jurisdictions":can_nl_ets_jur_scope, 
                               "sectors":can_nl_ets_ipcc_scope}, 
                     "can_qc_cat":{"jurisdictions":can_qc_cat_jur_scope, 
@@ -1360,6 +1379,7 @@ def scope():
                             "can_sk_ets":can_sk_ets_scope_sources,
                             "can_nb_ets":can_nb_ets_scope_sources,
                             "can_ns_ets":can_ns_ets_scope_sources,
+                            "can_ns_ets_II":can_ns_ets_scope_sources,
                             "can_nl_ets":can_nl_ets_scope_sources,
                             "can_qc_cat":can_qc_cat_scope_sources,
                             "usa_ca_ets":usa_ca_ets_scope_sources,

@@ -13,6 +13,7 @@ can_nb_tax,New Brunswick carbon tax,tax,Gasoline and Motive Fuel Tax Act,2020,,C
 can_nl_ets,Newfoundland and Labrador PSS,ets,,,2019,"CO2, CH4, N2O, SF6, HFCs, PFCs",,,
 can_nl_tax,Newfoundland and Labrador carbon tax,tax,Revenue Administration Act,,2019,,,,
 can_ns_ets,Nova Scotia CaT,ets,,,2019,"CO2, CH4, N2O, SF6, NF3, HFCs, PFCs",,ICAP,
+can_ns_ets_II,Nova Scotia OBPS,ets,,,2024,"CO2, CH4, N2O, SF6, NF3, HFCs, PFCs",,ICAP,
 can_nt_tax,Northwest Territories carbon tax,tax,,,2019,,,,
 can_obps,Canada federal OBPS,ets,,,2019,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",,,
 can_on_ets,Ontario EPS,ets,,,2022,,,,
