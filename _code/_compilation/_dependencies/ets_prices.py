@@ -132,6 +132,8 @@ def prices_df(path_prices):
     
     icap_raw["year"] = icap_raw["Date"].str[6:]
         
+    icap_raw['eu_ets'] = icap_raw['eu_ets'].astype(float)
+
     icap_raw_average = icap_raw.groupby(by="year").mean().reset_index()
        
     # drop policy instruments whose info is not taken from ICAP
