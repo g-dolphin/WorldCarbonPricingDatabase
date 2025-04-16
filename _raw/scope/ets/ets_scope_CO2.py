@@ -107,7 +107,7 @@ def scope():
     eu_ets_jur_scope.update({year: eu_ets_jur_V for year in range(2021, 2023)})
     
     eu_ets_ipcc_scope = {year: eu_ets_ipcc_I for year in range(2005, 2012)}
-    eu_ets_ipcc_scope.update({year: eu_ets_ipcc_II for year in range(2012, 2024)})    
+    eu_ets_ipcc_scope.update({year: eu_ets_ipcc_II for year in range(2012, 2025)})    
     eu_ets_ipcc_scope[2024] = eu_ets_ipcc_III
 
     ## Sources dictionary
