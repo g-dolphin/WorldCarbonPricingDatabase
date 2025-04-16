@@ -105,11 +105,14 @@ def scope():
     
     ## scope dictionaries
     
-    gbr_ets_gas_scope = {2021:gbr_ets_gas_I}
+    gbr_ets_gas_scope = {2021:gbr_ets_gas_I, 2022:gbr_ets_gas_I, 2023:gbr_ets_gas_I,
+                         2024:gbr_ets_gas_I}
 
-    gbr_ets_jur_scope = {2021:gbr_ets_jur_I}
+    gbr_ets_jur_scope = {2021:gbr_ets_jur_I, 2022:gbr_ets_jur_I, 2023:gbr_ets_jur_I,
+                         2024:gbr_ets_jur_I}
     
-    gbr_ets_ipcc_scope = {2021:gbr_ets_ipcc_I}
+    gbr_ets_ipcc_scope = {2021:gbr_ets_ipcc_I, 2022:gbr_ets_ipcc_I, 2023:gbr_ets_ipcc_I,
+                          2024:gbr_ets_ipcc_I}
     
     
     ## Sources dictionary
@@ -281,17 +284,20 @@ def scope():
     kor_ets_gas_scope = {2015:kor_ets_gas_I, 2016:kor_ets_gas_I,
                             2017:kor_ets_gas_I, 2018:kor_ets_gas_I,
                             2019:kor_ets_gas_I, 2020:kor_ets_gas_I,
-                            2021:kor_ets_gas_I}
+                            2021:kor_ets_gas_I, 2022:kor_ets_gas_I,
+                            2023:kor_ets_gas_I, 2024:kor_ets_gas_I}
 
     kor_ets_jur_scope = {2015:kor_ets_jur_I, 2016:kor_ets_jur_I,
                             2017:kor_ets_jur_I, 2018:kor_ets_jur_I,
                             2019:kor_ets_jur_I, 2020:kor_ets_jur_I,
-                            2021:kor_ets_jur_I}
+                            2021:kor_ets_jur_I, 2022:kor_ets_jur_I,
+                            2023:kor_ets_jur_I, 2024:kor_ets_jur_I}
     
     kor_ets_ipcc_scope = {2015:kor_ets_ipcc_I, 2016:kor_ets_ipcc_I,
                             2017:kor_ets_ipcc_I, 2018:kor_ets_ipcc_II,
                             2019:kor_ets_ipcc_II, 2020:kor_ets_ipcc_II,
-                            2021:kor_ets_ipcc_III}
+                            2021:kor_ets_ipcc_III, 2022:kor_ets_ipcc_III,
+                            2022:kor_ets_ipcc_III, 2024:kor_ets_ipcc_III}
     
     
     ## Sources dictionary
@@ -349,14 +355,15 @@ def scope():
     
     
     ## scope dictionaries
-    nzl_ets_gas_scope = {2008:nzl_ets_jur_I,
-                            2009:nzl_ets_jur_I, 2010:nzl_ets_jur_I,
-                            2011:nzl_ets_jur_I, 2012:nzl_ets_jur_I,
-                            2013:nzl_ets_jur_I, 2014:nzl_ets_jur_I,
-                            2015:nzl_ets_jur_I, 2016:nzl_ets_jur_I,
-                            2017:nzl_ets_jur_I, 2018:nzl_ets_jur_I,
-                            2019:nzl_ets_jur_I, 2020:nzl_ets_jur_I,
-                            2021:nzl_ets_jur_I}    
+    nzl_ets_gas_scope = {2008:nzl_ets_gas_I,
+                            2009:nzl_ets_gas_I, 2010:nzl_ets_gas_I,
+                            2011:nzl_ets_gas_I, 2012:nzl_ets_gas_I,
+                            2013:nzl_ets_gas_I, 2014:nzl_ets_gas_I,
+                            2015:nzl_ets_gas_I, 2016:nzl_ets_gas_I,
+                            2017:nzl_ets_gas_I, 2018:nzl_ets_gas_I,
+                            2019:nzl_ets_gas_I, 2020:nzl_ets_gas_I,
+                            2021:nzl_ets_gas_I, 2022:nzl_ets_gas_I,
+                            2023:nzl_ets_gas_I, 2024:nzl_ets_gas_I}    
 
     nzl_ets_jur_scope = {2008:nzl_ets_jur_I,
                             2009:nzl_ets_jur_I, 2010:nzl_ets_jur_I,
@@ -365,7 +372,8 @@ def scope():
                             2015:nzl_ets_jur_I, 2016:nzl_ets_jur_I,
                             2017:nzl_ets_jur_I, 2018:nzl_ets_jur_I,
                             2019:nzl_ets_jur_I, 2020:nzl_ets_jur_I,
-                            2021:nzl_ets_jur_I}
+                            2021:nzl_ets_jur_I, 2022:nzl_ets_jur_I,
+                            2023:nzl_ets_jur_I, 2024:nzl_ets_jur_I}
     
     nzl_ets_ipcc_scope = {2008:nzl_ets_ipcc_I,
                             2009:nzl_ets_ipcc_I, 2010:nzl_ets_ipcc_II,
@@ -374,7 +382,8 @@ def scope():
                             2015:nzl_ets_ipcc_III, 2016:nzl_ets_ipcc_III,
                             2017:nzl_ets_ipcc_III, 2018:nzl_ets_ipcc_III,
                             2019:nzl_ets_ipcc_III, 2020:nzl_ets_ipcc_III,
-                            2021:nzl_ets_ipcc_III}
+                            2021:nzl_ets_ipcc_III, 2022:nzl_ets_ipcc_III,
+                            2022:nzl_ets_ipcc_III, 2024:nzl_ets_ipcc_III}
     
 
     ## Sources dictionary
