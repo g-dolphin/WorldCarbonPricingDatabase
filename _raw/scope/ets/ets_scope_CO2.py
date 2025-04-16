@@ -137,9 +137,9 @@ def scope():
 
     ## scope dictionaries
     
-    aut_ets_jur_scope = {2022:aut_ets_jur_I}
+    aut_ets_jur_scope = {year:aut_ets_jur_I for year in range(2022,2025)}
     
-    aut_ets_ipcc_scope = {2022:aut_ets_ipcc_I}
+    aut_ets_ipcc_scope = {year:aut_ets_jur_I for year in range(2022,2025)}
     
     ## Sources dictionary
     
