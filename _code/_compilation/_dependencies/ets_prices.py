@@ -76,13 +76,10 @@ def prices_df(path_prices):
                            low_memory=False)
     icap_raw_columns = icap_raw_columns.columns
 
-
     # Renaming columns of icap data frame
     # Define your mapping of substrings to new column names
     column_map = {
         "Nova Scotia": "can_ns_ets",
-        "British Columbia": "can_bc_tax",
-        "Sweden": "swe_tax",
         "European Union": "eu_ets",
         "Quebec":"can_qc_cat", 
         "Ontario":"can_on_ets",
@@ -99,7 +96,7 @@ def prices_df(path_prices):
         "Chongqing":"chn_cq_ets", 
         "Fujian":"chn_fj_ets", 
         "New Zealand":"nzl_ets", 
-        "Regional Greenhouse Gas Initative":"usa_rggi", 
+        "Regional Greenhouse":"usa_rggi", 
         "California":"usa_ca_ets",
         "Korean":"kor_ets", 
         "Washington":"usa_wa_ets"
@@ -125,20 +122,18 @@ def prices_df(path_prices):
                     break  # Only apply first match
         return df.rename(columns=new_columns)
 
-    # Apply to your DataFrame
-    df = rename_columns_partial(df, column_map)
+    # Apply to DataFrame
+    icap_raw = rename_columns_partial(icap_raw, column_map)
 
-    icap_raw.columns = []
+    # remove bottom 4 rows
+    icap_raw = icap_raw.iloc[:-4,:]
 
     ## extract year from date string
     
-    icap_raw["year"] = icap_raw["date"].str[:4]
+    icap_raw["year"] = icap_raw["Date"].str[6:]
         
     icap_raw_average = icap_raw.groupby(by="year").mean().reset_index()
-   
-#    icap_raw_average = icap_raw_average.rename(columns=name_id_dic)
-#    icap_raw_average = icap_raw_average.reset_index()
-    
+       
     # drop policy instruments whose info is not taken from ICAP
     icap_raw_average = icap_raw_average.drop(["usa_rggi", "can_on_ets", "che_ets", 
                                               "usa_ca_ets", "can_qc_cat", "can_ns_ets", "usa_wa_ets"], 
@@ -163,56 +158,6 @@ def prices_df(path_prices):
     icap_raw_average["source"] = "db(ICAP-ETS[2024])"
     icap_raw_average["comment"] = "yearly average of daily prices provided by ICAP"
     icap_raw_average["year"] = icap_raw_average["year"].astype(int)
-
-    ## replace column names with carbon pricing scheme identifiers
-    
-    # name_id_dic = {'European Union':"eu_ets", 'New Zealand':"nzl_ets", "Germany":"deu_ets",
-    #               'RGGI':"usa_rggi", "United Kingdom":"gbr_ets", "China":"chn_ets",
-    #               'California':"usa_ca_ets", 'Quebec':"can_qc_cat", 
-    #               'Switzerland':"che_ets", 'Korea, Rep.':"kor_ets",
-    #               "Nova Scotia":"can_ns_ets", "Ontario":"can_on_ets",
-    #               'Shenzhen':"chn_sz_ets",'Shanghai':"chn_sh_ets", 'Beijing':"chn_bj_ets", 
-    #               'Guangdong':"chn_gd_ets", 'Tianjin':"chn_tj_ets", 
-    #               'Hubei':"chn_hb_ets", 'Chongqing':"chn_cq_ets", 'Fujian':"chn_fj_ets"}
-
-    # icap_raw.drop([0,1], axis=0, inplace=True)
-    
-    # icap_raw.rename(columns={"Unnamed: 0":"Date"}, inplace=True)
-    
-#    chn_pilots_cols = []
-    
-#    for i in range(251,273,3):
-#        chn_pilots_cols = chn_pilots_cols + ["Unnamed: "+ str(i)]
-    
-#    drop_cols = []
-    
-#    for col in icap_raw.columns:
-#        if "Unnamed" in col and col not in chn_pilots_cols:
-#            drop_cols = drop_cols + [col]
-    
-#    icap_raw.drop(drop_cols, axis=1, inplace=True)
-    
-    ## drop unnecessary columns
-    
-#    drop_list = ['New ETS 5', 'New ETS 6', 'New ETS 7', 
-#                 'New ETS 8', 'New ETS 9', 'New ETS 10', 
-#                 'Chinese Pilots', 'Kazakhstan']
-    
-#    icap_raw.drop(drop_list, axis=1, inplace=True)
-    
-    ## rename columns
-#    icap_raw.rename(columns={"QuÃ©bec":"Quebec", "South Korea":"Korea, Rep.",
-#                             "Unnamed: 251":"Shenzhen", "Unnamed: 254":"Shanghai", 
-#                             "Unnamed: 257":"Beijing", "Unnamed: 260":"Guangdong",
-#                             "Unnamed: 263":"Tianjin", "Unnamed: 266":"Hubei",
-#                             "Unnamed: 269":"Chongqing", "Unnamed: 272":"Fujian"}, inplace=True)
-    
-    ## replace "," with "." in columns; convert to float
-    
-#    for col in list(icap_raw.columns)[1:]:  
-#        icap_raw[col] = icap_raw[col].str.replace(",", ".")
-#        icap_raw[col] = icap_raw[col].astype(float)
-    
 
     
     ## manually add EU ETS prices for 2005/2006/2007 - from Bloomberg
