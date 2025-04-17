@@ -1074,6 +1074,21 @@ def scope():
     ## Jurisdiction
     can_bc_ets_jur_I = ["British Columbia"]
 
+    # IPCC categories
+    can_bc_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
+                         "1A2J", "1A2K", "1A2L", "1A2M"]
+
+    ## scope dictionaries
+    
+    can_bc_ets_jur_scope = {2024:can_bc_ets_jur_I}
+    
+    can_bc_ets_ipcc_scope = {2024:can_bc_ets_ipcc_I}
+    
+    ## Sources dictionary
+    
+    can_bc_ets_scope_sources = {2024:" "}
+
     #----------------------------------------------------------------------------
     
     # CAN-Ontario
@@ -1343,6 +1358,8 @@ def scope():
                               "sectors":can_nl_ets_ipcc_scope}, 
                     "can_qc_cat":{"jurisdictions":can_qc_cat_jur_scope, 
                               "sectors":can_qc_cat_ipcc_scope}, 
+                    "can_bc_ets":{"jurisdictions":can_bc_ets_jur_scope, 
+                              "sectors":can_bc_ets_ipcc_scope}, 
                     "usa_ca_ets":{"jurisdictions":usa_ca_ets_jur_scope, 
                               "sectors":usa_ca_ets_ipcc_scope}, 
                     "usa_ma_ets":{"jurisdictions":usa_ma_ets_jur_scope, 
@@ -1383,6 +1400,7 @@ def scope():
                             "can_ns_ets_II":can_ns_ets_II_scope_sources,
                             "can_nl_ets":can_nl_ets_scope_sources,
                             "can_qc_cat":can_qc_cat_scope_sources,
+                            "can_bc_ets":can_bc_ets_scope_sources,
                             "usa_ca_ets":usa_ca_ets_scope_sources,
                             "usa_ma_ets":usa_ma_ets_scope_sources,
                             "usa_or_ets":usa_or_ets_scope_sources,
