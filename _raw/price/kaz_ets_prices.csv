@@ -2,10 +2,12 @@ scheme_id,year,allowance_price,currency_code,source,comment
 kaz_ets,2013,0,KZT,-,no trading in the first year
 kaz_ets,2014,143,KZT,report(DEHST[2016]),-
 kaz_ets,2015,380,KZT,report(DEHST[2016]),-
-kaz_ets,2016,NA,KZT,-,scheme suspended
-kaz_ets,2017,NA,KZT,-,scheme suspended
-kaz_ets,2018,NA,KZT,-,the end of 2019 saw the first exchange of allowances since the KAZ ETS restarted operation in 2018
+kaz_ets,2016,NA,NA,-,scheme suspended
+kaz_ets,2017,NA,NA,-,scheme suspended
+kaz_ets,2018,NA,NA,-,the end of 2019 saw the first exchange of allowances since the KAZ ETS restarted operation in 2018
 kaz_ets,2019,431,KZT,report(ICAP[2020]),the end of 2019 saw the first exchange of allowances since the KAZ ETS restarted operation in 2018
 kaz_ets,2020,456,KZT,report(ICAP - KZ[2021]),-
 kax_ets,2021,504,KZT,web(ICAP-KAZ[2022]),average price of secondary market transactions
-kax_ets,2022,563,KZT,,
+kaz_ets,2022,563,KZT,-,-
+kaz_ets,2023,473,KZT,report(ICAP[2024]),-
+kaz_ets,2024,470,KZT,report(ICAP[2024]),-

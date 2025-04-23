@@ -1,4 +1,4 @@
-scheme_id,year,allowance_weighted_price,currency_code,source,comment
+scheme_id,year,allowance_price,currency_code,source,comment
 can_ab_ets,2007,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
 can_ab_ets,2008,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
 can_ab_ets,2009,15,CAD,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020])",the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available
@@ -15,3 +15,5 @@ can_ab_ets,2019,30,CAD,leg(AB[2017]),the price of Climate Change and Emissions M
 can_ab_ets,2020,30,CAD,leg(AB[2020]),the price of Technology Innovation and Emissions Reduction Fund credit (upper bound) is used as no transaction data is available
 can_ab_ets,2021,40,CAD,leg(AB[2020]),the price of Technology Innovation and Emissions Reduction Fund credit (upper bound) is used as no transaction data is available
 can_ab_ets,2022,50,CAD,report(ECCC[2020]),the price of Technology Innovation and Emissions Reduction Fund credit (upper bound) is used as no transaction data is available
+can_ab_ets,2023,65,CAD,,the price of Technology Innovation and Emissions Reduction Fund credit (upper bound) is used; the assessed TIER credit spot price is well below the Fund credit price (Carbon Assessors)
+can_ab_ets,2024,80,CAD,,the price of Technology Innovation and Emissions Reduction Fund credit (upper bound) is used; the assessed TIER credit spot price is well below the Fund credit price (Carbon Assessors)
