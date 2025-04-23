@@ -386,7 +386,7 @@ def scope():
                             2017:nzl_ets_ipcc_III, 2018:nzl_ets_ipcc_III,
                             2019:nzl_ets_ipcc_III, 2020:nzl_ets_ipcc_III,
                             2021:nzl_ets_ipcc_III, 2022:nzl_ets_ipcc_III,
-                            2022:nzl_ets_ipcc_III, 2024:nzl_ets_ipcc_III}
+                            2023:nzl_ets_ipcc_III, 2024:nzl_ets_ipcc_III}
     
 
     ## Sources dictionary
