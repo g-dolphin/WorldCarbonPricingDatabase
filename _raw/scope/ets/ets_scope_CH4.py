@@ -80,7 +80,8 @@ def scope():
         2015:kor_ets_ipcc_I, 2016:kor_ets_ipcc_I,
         2017:kor_ets_ipcc_I, 2018:kor_ets_ipcc_II,
         2019:kor_ets_ipcc_II, 2020:kor_ets_ipcc_II,
-        2021:kor_ets_ipcc_III
+        2021:kor_ets_ipcc_III, 2022:kor_ets_ipcc_III,
+        2023:kor_ets_ipcc_III, 2024:kor_ets_ipcc_III
         }
     
     ## Sources dictionary
