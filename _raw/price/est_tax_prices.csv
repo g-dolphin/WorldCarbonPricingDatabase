@@ -22,6 +22,8 @@ est_tax,2019,CO2,Coal,2,EUR,"leg(EST-ECA[2005]), report(OECD[2019], UNFCCC[2013]
 est_tax,2020,CO2,Coal,2,EUR,"leg(EST-ECA[2005]), report(OECD[2019], UNFCCC[2013]), db(WCPD[2020])","Coverage assumption based on: http://www.eubusiness.com/europe/estonia/environmental-rules/ and https://www.eesti.ee/eng/keskkonnaload_3 . Rate expressed in estonian kroons in the report, converted into euros using x-rate:0.064EEK/EUR."
 est_tax,2021,CO2,Coal,2,EUR,"leg(EST-ECA[2005]), db(WBCPD[2022])",
 est_tax,2022,CO2,Coal,2,EUR,"leg(EST-ECA[2005]), db(WBCPD[2022])",
+est_tax,2023,CO2,Coal,2,EUR,,
+est_tax,2024,CO2,Coal,2,EUR,,
 est_tax,2000,CO2,Oil,0.32,EUR,report(ECE[2001]),"The tax rate is 5 EEK, converted to EUR using EEK/EUR exchange rate of 15.6466."
 est_tax,2001,CO2,Oil,0.32,EUR,"report(OECD-IEA[2003], OECD[2017])","The tax rate is 5 EEK, converted to EUR using EEK/EUR exchange rate of 15.6466. Original legislation is not available. Estimation based on third party reports."
 est_tax,2002,CO2,Oil,0.32,EUR,"report(OECD-IEA[2003], OECD[2017])","The tax rate is 5 EEK, converted to EUR using EEK/EUR exchange rate of 15.6466. Original legislation is not available. Estimation based on third party reports."
@@ -45,6 +47,8 @@ est_tax,2019,CO2,Oil,2,EUR,"leg(EST-ECA[2005]), report(OECD[2019], UNFCCC[2013])
 est_tax,2020,CO2,Oil,2,EUR,"leg(EST-ECA[2005]), report(OECD[2019], UNFCCC[2013]), db(WCPD[2020])","Coverage assumption based on: http://www.eubusiness.com/europe/estonia/environmental-rules/ and https://www.eesti.ee/eng/keskkonnaload_3 . Rate expressed in estonian kroons in the report, converted into euros using x-rate:0.064EEK/EUR."
 est_tax,2021,CO2,Oil,2,EUR,"leg(EST-ECA[2005]), db(WBCPD[2022])",
 est_tax,2022,CO2,Oil,2,EUR,"leg(EST-ECA[2005]), db(WBCPD[2022])",
+est_tax,2023,CO2,Oil,2,EUR,,
+est_tax,2024,CO2,Oil,2,EUR,,
 est_tax,2000,CO2,Natural gas,0.32,EUR,report(ECE[2001]),"The tax rate is 5 EEK, converted to EUR using EEK/EUR exchange rate of 15.6466."
 est_tax,2001,CO2,Natural gas,0.32,EUR,"report(OECD-IEA[2003], OECD[2017])","The tax rate is 5 EEK, converted to EUR using EEK/EUR exchange rate of 15.6466. Original legislation is not available. Estimation based on third party reports."
 est_tax,2002,CO2,Natural gas,0.32,EUR,"report(OECD-IEA[2003], OECD[2017])","The tax rate is 5 EEK, converted to EUR using EEK/EUR exchange rate of 15.6466. Original legislation is not available. Estimation based on third party reports."
@@ -68,3 +72,5 @@ est_tax,2019,CO2,Natural gas,2,EUR,"leg(EST-ECA[2005]), report(OECD[2019], UNFCC
 est_tax,2020,CO2,Natural gas,2,EUR,"leg(EST-ECA[2005]), report(OECD[2019], UNFCCC[2013]), db(WCPD[2020])","Coverage assumption based on: http://www.eubusiness.com/europe/estonia/environmental-rules/ and https://www.eesti.ee/eng/keskkonnaload_3 . Rate expressed in estonian kroons in the report, converted into euros using x-rate:0.064EEK/EUR."
 est_tax,2021,CO2,Natural gas,2,EUR,"leg(EST-ECA[2005]), db(WBCPD[2022])",
 est_tax,2022,CO2,Natural gas,2,EUR,"leg(EST-ECA[2005]), db(WBCPD[2022])",
+est_tax,2023,CO2,Natural gas,2,EUR,,
+est_tax,2024,CO2,Natural gas,2,EUR,,

@@ -9844,63 +9844,63 @@ Northwest Territories,2022,1A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A1,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A1,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A2,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A3,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A3,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1B,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1B,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1B,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1C,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1C,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1C,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2A,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2A,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2B,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2B,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2B,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2C,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2C,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2C,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2D,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2D,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2D,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2E,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2E,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2E,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2F,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2F,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2G,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2G,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2H,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2H,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2I,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2I,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2I,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A2J,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A2J,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2K,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2K,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2L,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2L,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2M,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2M,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A3,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -9913,60 +9913,60 @@ Northwest Territories,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3B,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3C,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3C,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A3D,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3D,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3D1,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3D1,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3D1,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3D2,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3D2,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3D2,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3E,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3E1,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3E1,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3E1,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A4,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A4,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4A,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C1,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C1,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C2,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C3,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C3,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C3,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A5,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A5,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5A,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5A,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5B,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5B,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5B,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5C,Coal,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5C,Natural gas,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5C,Oil,NA,NA,NA,NA,NA
+Northwest Territories,2022,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1B,NA,NA,NA,NA,NA,NA
 Northwest Territories,2022,1B1,NA,NA,NA,NA,NA,NA
 Northwest Territories,2022,1B1A,NA,NA,NA,NA,NA,NA

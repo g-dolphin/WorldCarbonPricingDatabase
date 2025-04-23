@@ -164,6 +164,25 @@ tax_ex_dnk_III_source = {2005:tax_ex_dnk_III_source_value}
 
 # 'Finland' - no exemptions
 
+tax_ex_fin_I_jur = ["Finland"]
+
+tax_ex_fin_I_ipcc = ["1A3B"]
+
+tax_ex_fin_I_fuel = ["Oil", "Natural gas", "Coal"]
+
+tax_ex_fin_I_jur_scope = {2024:tax_ex_fin_I_jur}
+
+tax_ex_fin_I_ipcc_scope = {2024:tax_ex_fin_I_ipcc}
+
+tax_ex_fin_I_fuel_scope = {2024:tax_ex_fin_I_fuel}
+
+tax_ex_fin_I_value = {2024:0.195}
+
+tax_ex_fin_I = {"jurisdiction": tax_ex_fin_I_jur_scope, "ipcc": tax_ex_fin_I_ipcc_scope,
+                "fuel":tax_ex_fin_I_fuel_scope, "value":tax_ex_fin_I_value}
+
+tax_ex_fin_I_source = {2024:"db(WBCPDB[2024])"}
+
 # 'France' - no exemptions
 
 # 'Iceland' - no exemptions
@@ -580,17 +599,3 @@ for exemption in tax_exemptions:
         wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = tax_exemptions_sources[i][yr]
 
     i+=1
-
-
-#std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
-#countries_dic = dict(zip(ctry_list, std_country_names))
-
-#std_subnat_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in subnat_list]
-#subnat_dic = dict(zip(subnat_list, std_subnat_names))
-
-#for jur in countries_dic:
-#    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/national/tax_ex_"+countries_dic[jur]+".csv", index=None)
-#for jur in subnat_dic:
-#    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price_exemptions/tax/subnat/tax_ex_"+subnat_dic[jur]+".csv", index=None)
-
-    

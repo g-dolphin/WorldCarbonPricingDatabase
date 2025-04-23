@@ -18,6 +18,8 @@ lva_tax,2019,CO2,Coal,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",the carbon tax
 lva_tax,2020,CO2,Coal,9,EUR,db(WBCPD[2020]),the carbon tax does not apply to peat
 lva_tax,2021,CO2,Coal,12,EUR,db(WBCPD[2020]),"the carbon tax exemption for the use of peat in combustion installations is abolished starting from January 1, 2021."
 lva_tax,2022,CO2,Coal,15,EUR,db(WBCPD[2022]),
+lva_tax,2023,CO2,Coal,15,EUR,,
+lva_tax,2024,CO2,Coal,15,EUR,,
 lva_tax,2004,CO2,Oil,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2005,CO2,Oil,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2006,CO2,Oil,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
@@ -37,8 +39,10 @@ lva_tax,2019,CO2,Oil,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",
 lva_tax,2020,CO2,Oil,9,EUR,db(WBCPD[2020]),
 lva_tax,2021,CO2,Oil,12,EUR,db(WBCPD[2020]),
 lva_tax,2022,CO2,Oil,15,EUR,db(WBCPD[2022]),
-lva_tax,2004,CO2,Natural gas,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
-lva_tax,2005,CO2,Natural gas,NA,NA,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
+lva_tax,2023,CO2,Oil,15,EUR,,
+lva_tax,2024,CO2,Oil,15,EUR,,
+lva_tax,2004,CO2,Natural gas,NA,EUR,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
+lva_tax,2005,CO2,Natural gas,NA,EUR,leg(LVA-NRTL[2004]),the tax rate had yet to become effective
 lva_tax,2006,CO2,Natural gas,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
 lva_tax,2007,CO2,Natural gas,0.14,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.1 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
 lva_tax,2008,CO2,Natural gas,0.28,EUR,leg(LVA-NRTL[2006]),"The tax rate is 0.2 LVL, converted to EUR at the official LVL/EUR exchange rate of 0.702804."
@@ -56,3 +60,5 @@ lva_tax,2019,CO2,Natural gas,4.5,EUR,"report(WB[2017]), db(WBCPD[2020])",
 lva_tax,2020,CO2,Natural gas,9,EUR,db(WBCPD[2020]),
 lva_tax,2021,CO2,Natural gas,12,EUR,db(WBCPD[2020]),
 lva_tax,2022,CO2,Natural gas,15,EUR,db(WBCPD[2022]),
+lva_tax,2023,CO2,Natural gas,15,EUR,,
+lva_tax,2024,CO2,Natural gas,15,EUR,,
