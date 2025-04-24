@@ -58,6 +58,9 @@ def prices_df(path_prices):
     # Alberta
     can_ab_ets_prices = pd.read_csv(path_prices+"/can_ab_ets_prices.csv")
 
+    # Alberta
+    can_bc_ets_prices = pd.read_csv(path_prices+"/can_bc_ets_prices.csv")
+
     # Saskatchewan
     can_sk_ets_prices = pd.read_csv(path_prices+"/can_sk_ets_prices.csv")
 
@@ -66,6 +69,7 @@ def prices_df(path_prices):
 
     # Nova Scotia
     can_ns_ets_prices = pd.read_csv(path_prices+"/can_ns_ets_prices.csv")
+    can_ns_ets_II_prices = pd.read_csv(path_prices+"/can_ns_ets_II_prices.csv")
 
     # Newfoundland and Labrador
     can_nl_ets_prices = pd.read_csv(path_prices+"//can_nl_ets_prices.csv")    
@@ -177,7 +181,8 @@ def prices_df(path_prices):
                     usa_rggi_prices, can_qc_cat_prices, usa_ca_ets_prices,
                     usa_ma_ets_prices, usa_or_ets_prices, usa_wa_ets_prices,
                     can_obps_prices, can_ab_ets_prices, can_sk_ets_prices, 
-                    can_nb_ets_prices, can_ns_ets_prices, 
+                    can_bc_ets_prices,
+                    can_nb_ets_prices, can_ns_ets_prices, can_ns_ets_II_prices,
                     can_nl_ets_prices])
     
     df["allowance_price"] =  df["allowance_price"].round(2)
