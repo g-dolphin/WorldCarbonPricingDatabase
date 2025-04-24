@@ -58,7 +58,7 @@ def prices_df(path_prices):
     # Alberta
     can_ab_ets_prices = pd.read_csv(path_prices+"/can_ab_ets_prices.csv")
 
-    # Alberta
+    # British Columbia
     can_bc_ets_prices = pd.read_csv(path_prices+"/can_bc_ets_prices.csv")
 
     # Saskatchewan
