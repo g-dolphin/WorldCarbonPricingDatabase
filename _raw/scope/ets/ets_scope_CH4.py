@@ -217,7 +217,6 @@ def scope():
                          "2E", "2F1", "2F2", "2F3", "2F4", "2F5", "2F6", "2G1", "2G2", 
                          "2G3", "2G4", "2H1", "2H2", "2H3"]
     
-    
     ## scope dictionaries
     
     usa_ca_ets_jur_scope = {2013:usa_ca_ets_jur_I, 2014:usa_ca_ets_jur_I, 
@@ -254,13 +253,15 @@ def scope():
                            2015:chn_cq_ets_jur_I, 2016:chn_cq_ets_jur_I,
                            2017:chn_cq_ets_jur_I, 2018:chn_cq_ets_jur_I,
                            2019:chn_cq_ets_jur_I, 2020:chn_cq_ets_jur_I,
-                           2021:chn_cq_ets_jur_I}
+                           2021:chn_cq_ets_jur_I, 2022:chn_cq_ets_jur_I,
+                           2023:chn_cq_ets_jur_I, 2024:chn_cq_ets_jur_I}
     
     chn_cq_ets_ipcc_scope = {2014:chn_cq_ets_ipcc_I,
                             2015:chn_cq_ets_ipcc_I, 2016:chn_cq_ets_ipcc_I,
                             2017:chn_cq_ets_ipcc_I, 2018:chn_cq_ets_ipcc_I,
                             2019:chn_cq_ets_ipcc_I, 2020:chn_cq_ets_ipcc_I,
-                            2021:chn_cq_ets_ipcc_II}
+                            2021:chn_cq_ets_ipcc_II, 2022:chn_cq_ets_ipcc_II,
+                            2023:chn_cq_ets_ipcc_II, 2024:chn_cq_ets_ipcc_II}
 
     ## Sources dictionary
     
@@ -362,10 +363,12 @@ def scope():
     
     ## scope dictionaries
     can_ns_ets_jur_scope = {2019:can_ns_ets_jur_I, 2020:can_ns_ets_jur_I,
-                               2021:can_ns_ets_jur_I}
+                            2021:can_ns_ets_jur_I, 2022:can_ns_ets_jur_I,
+                            2023:can_ns_ets_jur_I, 2024:can_ns_ets_jur_I}
     
     can_ns_ets_ipcc_scope = {2019:can_ns_ets_ipcc_I, 2020:can_ns_ets_ipcc_I,
-                                2021:can_ns_ets_ipcc_I}     
+                             2021:can_ns_ets_ipcc_I, 2022:can_ns_ets_ipcc_I,
+                             2023:can_ns_ets_ipcc_I, 2024:can_ns_ets_ipcc_I}     
     
     ## Sources dictionary
     
