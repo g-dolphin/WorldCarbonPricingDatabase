@@ -9844,63 +9844,63 @@ Nova Scotia,2022,1A1,Oil,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A1,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A1,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A2,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A2,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A3,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1A3,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1B,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1B,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1B,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1C,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1C,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A1C,Oil,NA,NA,NA,NA,NA
+Nova Scotia,2022,1A1A1,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1A1,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1A1,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1A2,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1A2,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1A2,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1A3,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1A3,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1A3,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1B,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1B,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1B,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1C,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1C,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A1C,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
 Nova Scotia,2022,1A2,Coal,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A2,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2A,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2A,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2A,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2B,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2B,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2B,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2C,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2C,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2C,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2D,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2D,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2D,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2E,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2E,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2E,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2F,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2F,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2G,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2G,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2H,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2H,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2I,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2I,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2I,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2J,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2J,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2K,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2K,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2L,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2L,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2M,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A2M,Oil,NA,NA,NA,NA,NA
+Nova Scotia,2022,1A2A,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2A,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2A,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2B,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2B,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2B,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2C,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2C,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2C,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2D,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2D,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2D,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2E,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2E,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2E,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2F,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2F,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2F,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2G,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2G,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2G,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2H,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2H,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2H,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2I,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2I,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2I,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2J,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2J,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2J,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2K,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2K,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2K,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2L,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2L,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2L,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2M,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2M,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A2M,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
 Nova Scotia,2022,1A3,Coal,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -9958,9 +9958,9 @@ Nova Scotia,2022,1A4C3,Oil,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A5,Coal,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A5,Oil,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A5A,Coal,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A5A,Natural gas,NA,NA,NA,NA,NA
-Nova Scotia,2022,1A5A,Oil,NA,NA,NA,NA,NA
+Nova Scotia,2022,1A5A,Coal,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A5A,Natural gas,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1A5A,Oil,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
 Nova Scotia,2022,1A5B,Coal,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A5B,Natural gas,NA,NA,NA,NA,NA
 Nova Scotia,2022,1A5B,Oil,NA,NA,NA,NA,NA
@@ -9980,26 +9980,26 @@ Nova Scotia,2022,1B1A21,NA,NA,NA,NA,NA,NA
 Nova Scotia,2022,1B1A22,NA,NA,NA,NA,NA,NA
 Nova Scotia,2022,1B1B,NA,NA,NA,NA,NA,NA
 Nova Scotia,2022,1B2,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A1,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A2,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A3,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A31,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A32,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A33,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A34,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A35,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2A36,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B1,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B2,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B3,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B31,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B32,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B33,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B34,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B35,NA,NA,NA,NA,NA,NA
-Nova Scotia,2022,1B2B36,NA,NA,NA,NA,NA,NA
+Nova Scotia,2022,1B2A,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A1,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A2,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A3,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A31,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A32,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A33,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A34,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A35,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2A36,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B1,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B2,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B3,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B31,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B32,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B33,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B34,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B35,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
+Nova Scotia,2022,1B2B36,NA,NA,gvt(ECCC[2021]),NA,NA,"gvt(ECCC[2022]), db(ICAP-ETS[2022]); average auction price"
 Nova Scotia,2022,1B3,NA,NA,NA,NA,NA,NA
 Nova Scotia,2022,1C,NA,NA,NA,NA,NA,NA
 Nova Scotia,2022,1C1,NA,NA,NA,NA,NA,NA

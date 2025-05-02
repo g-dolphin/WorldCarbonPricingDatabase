@@ -10,6 +10,8 @@ jpn_tax,2019,CO2,Coal,289,JPY,report(IEA[2020]),
 jpn_tax,2020,CO2,Coal,289,JPY,report(IEA[2020]),
 jpn_tax,2021,CO2,Coal,289,JPY,"report(IEA-JP[2021]), db(WBCPD[2022])",
 jpn_tax,2022,CO2,Coal,289,JPY,,
+jpn_tax,2023,CO2,Coal,289,JPY,,
+jpn_tax,2024,CO2,Coal,289,JPY,,
 jpn_tax,2012,CO2,Oil,96.3,JPY,gvt(MEJ-CT[2012]),"Own calculations based on policy paper MEJ-CT[2012]. Rates set according to the following schedule: 1/3 of full tax rate in 2012 and 2013, 2/3 in 2014 and 2015, 3/3 in 2016. Scope is the same as petroleum and coal tax since it is a component of it."
 jpn_tax,2013,CO2,Oil,96.3,JPY,gvt(MEJ-CT[2012]),"Own calculations based on policy paper MEJ-CT[2012]. Rates set according to the following schedule: 1/3 of full tax rate in 2012 and 2013, 2/3 in 2014 and 2015, 3/3 in 2016. Scope is the same as petroleum and coal tax since it is a component of it."
 jpn_tax,2014,CO2,Oil,192,JPY,gvt(MEJ-CT[2012]),"Own calculations based on policy paper MEJ-CT[2012]. Rates set according to the following schedule: 1/3 of full tax rate in 2012 and 2013, 2/3 in 2014 and 2015, 3/3 in 2016. Scope is the same as petroleum and coal tax since it is a component of it."
@@ -21,6 +23,8 @@ jpn_tax,2019,CO2,Oil,289,JPY,report(IEA[2020]),
 jpn_tax,2020,CO2,Oil,289,JPY,report(IEA[2020]),
 jpn_tax,2021,CO2,Oil,289,JPY,"report(IEA-JP[2021]), db(WBCPD[2022])",
 jpn_tax,2022,CO2,Oil,289,JPY,,
+jpn_tax,2023,CO2,Oil,289,JPY,,
+jpn_tax,2024,CO2,Oil,289,JPY,,
 jpn_tax,2012,CO2,Natural gas,96.3,JPY,gvt(MEJ-CT[2012]),"Own calculations based on policy paper MEJ-CT[2012]. Rates set according to the following schedule: 1/3 of full tax rate in 2012 and 2013, 2/3 in 2014 and 2015, 3/3 in 2016. Scope is the same as petroleum and coal tax since it is a component of it."
 jpn_tax,2013,CO2,Natural gas,96.3,JPY,gvt(MEJ-CT[2012]),"Own calculations based on policy paper MEJ-CT[2012]. Rates set according to the following schedule: 1/3 of full tax rate in 2012 and 2013, 2/3 in 2014 and 2015, 3/3 in 2016. Scope is the same as petroleum and coal tax since it is a component of it."
 jpn_tax,2014,CO2,Natural gas,192,JPY,gvt(MEJ-CT[2012]),"Own calculations based on policy paper MEJ-CT[2012]. Rates set according to the following schedule: 1/3 of full tax rate in 2012 and 2013, 2/3 in 2014 and 2015, 3/3 in 2016. Scope is the same as petroleum and coal tax since it is a component of it."
@@ -32,3 +36,5 @@ jpn_tax,2019,CO2,Natural gas,289,JPY,report(IEA[2020]),
 jpn_tax,2020,CO2,Natural gas,289,JPY,report(IEA[2020]),
 jpn_tax,2021,CO2,Natural gas,289,JPY,"report(IEA-JP[2021]), db(WBCPD[2022])",
 jpn_tax,2022,CO2,Natural gas,289,JPY,,
+jpn_tax,2023,CO2,Natural gas,289,JPY,,
+jpn_tax,2024,CO2,Natural gas,289,JPY,,

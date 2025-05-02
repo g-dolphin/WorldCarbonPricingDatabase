@@ -5672,63 +5672,63 @@ Liechtenstein,2008,1A1,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A1,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A1,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1A2,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
-Liechtenstein,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
-Liechtenstein,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
-Liechtenstein,2008,1A1A3,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
-Liechtenstein,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
-Liechtenstein,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
-Liechtenstein,2008,1A1B,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1B,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1B,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1C,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1C,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A1C,Oil,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A1A1,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1B,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1B,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1B,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1C,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1C,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A1C,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,1A2,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A2,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A2,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2A,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2A,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2B,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2B,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2B,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2C,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2C,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2C,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2D,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2D,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2D,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2E,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2E,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2E,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2F,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2F,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2F,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2G,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2G,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2G,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2H,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2H,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2H,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2I,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2I,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2I,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2J,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2J,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2J,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2K,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2K,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2K,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2L,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2L,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2L,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2M,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2M,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A2M,Oil,NA,NA,NA,NA,NA
+Liechtenstein,2008,1A2A,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2A,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2A,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2B,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2B,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2B,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2C,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2C,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2C,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2D,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2D,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2D,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2E,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2E,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2E,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2F,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2F,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2F,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2G,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2G,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2G,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2H,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2H,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2H,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2I,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2I,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2I,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2J,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2J,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2J,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2K,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2K,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2K,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2L,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2L,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2L,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2M,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2M,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,1A2M,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,1A3,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A3,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A3,Oil,NA,NA,NA,NA,NA
@@ -5845,40 +5845,40 @@ Liechtenstein,2008,2000,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,20000,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,200000,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2A,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2A1,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2A2,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2A3,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,2A1,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2A2,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2A3,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,2A4,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2A4A,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,2A4A,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,2A4B,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2A4C,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2A4D,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2B,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2B1,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,2B1,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,2B10,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2B2,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2B3,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2B4,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2B5,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2B6,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2B7,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,2B2,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2B3,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2B4,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2B5,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2B6,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2B7,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,2B8,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2B8A,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2B8B,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2B8C,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2B8D,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2B8E,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2B8F,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,2B8F,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,2B9,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2B9A,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2B9B,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2C,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2C1,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2C2,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2C3,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2C4,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2C5,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2C6,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,2C1,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2C2,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2C3,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2C4,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2C5,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2008,2C6,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,2C7,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2D,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2D1,NA,NA,NA,NA,NA,NA
@@ -5899,7 +5899,7 @@ Liechtenstein,2008,2G2,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2G3,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2G4,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2H,NA,NA,NA,NA,NA,NA
-Liechtenstein,2008,2H1,NA,NA,NA,NA,NA,NA
+Liechtenstein,2008,2H1,NA,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2008,2H2,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,2H3,NA,NA,NA,NA,NA,NA
 Liechtenstein,2008,3,NA,NA,NA,NA,NA,NA
@@ -9847,12 +9847,12 @@ Liechtenstein,2022,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Liechtenstein,2022,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Liechtenstein,2022,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Liechtenstein,2022,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
@@ -9940,9 +9940,9 @@ Liechtenstein,2022,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Liechtenstein,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Liechtenstein,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Liechtenstein,2022,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2022,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2022,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4C,Oil,NA,NA,NA,NA,NA

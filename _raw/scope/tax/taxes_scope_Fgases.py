@@ -34,35 +34,43 @@ def scope():
     dnk_tax_gas_scope = {}
     
     
-    dnk_tax_jur_scope = {
-                            2001:dnk_tax_jur_I, 
-                            2002:dnk_tax_jur_I, 2003:dnk_tax_jur_I, 
-                            2004:dnk_tax_jur_I, 2005:dnk_tax_jur_I, 
-                            2006:dnk_tax_jur_I, 2007:dnk_tax_jur_I, 
-                            2008:dnk_tax_jur_I, 2009:dnk_tax_jur_I, 
-                            2010:dnk_tax_jur_I, 2011:dnk_tax_jur_I, 
-                            2012:dnk_tax_jur_I, 2013:dnk_tax_jur_I, 
-                            2014:dnk_tax_jur_I, 2015:dnk_tax_jur_I, 
-                            2016:dnk_tax_jur_I, 2017:dnk_tax_jur_I,
-                            2018:dnk_tax_jur_I, 2019:dnk_tax_jur_I, 
-                            2020:dnk_tax_jur_I, 2021:dnk_tax_jur_I}
+    dnk_tax_jur_scope = {1988:, 1989:,
+                         1990:, 1991:,
+                         1992:, 1993:,
+                         1994:, 1995:,
+                         1996:, 1997:,
+                         1998:, 1999:,
+                         2000:, 
+                         2001:dnk_tax_jur_I, 
+                         2002:dnk_tax_jur_I, 2003:dnk_tax_jur_I, 
+                         2004:dnk_tax_jur_I, 2005:dnk_tax_jur_I, 
+                         2006:dnk_tax_jur_I, 2007:dnk_tax_jur_I, 
+                         2008:dnk_tax_jur_I, 2009:dnk_tax_jur_I, 
+                         2010:dnk_tax_jur_I, 2011:dnk_tax_jur_I, 
+                         2012:dnk_tax_jur_I, 2013:dnk_tax_jur_I, 
+                         2014:dnk_tax_jur_I, 2015:dnk_tax_jur_I, 
+                         2016:dnk_tax_jur_I, 2017:dnk_tax_jur_I,
+                         2018:dnk_tax_jur_I, 2019:dnk_tax_jur_I, 
+                         2020:dnk_tax_jur_I, 2021:dnk_tax_jur_I,
+                         2022:dnk_tax_jur_I, 2023:dnk_tax_jur_I, 
+                         2024:dnk_tax_jur_I}
     
     dnk_tax_ipcc_scope = {
-                            2001:dnk_tax_jur_I, 
-                            2002:dnk_tax_jur_I, 2003:dnk_tax_jur_I, 
-                            2004:dnk_tax_jur_I, 2005:dnk_tax_jur_I, 
-                            2006:dnk_tax_jur_I, 2007:dnk_tax_jur_I, 
-                            2008:dnk_tax_jur_I, 2009:dnk_tax_jur_I, 
-                            2010:dnk_tax_jur_I, 2011:dnk_tax_jur_I, 
-                            2012:dnk_tax_jur_I, 2013:dnk_tax_jur_I, 
-                            2014:dnk_tax_jur_I, 2015:dnk_tax_jur_I, 
-                            2016:dnk_tax_jur_I, 2017:dnk_tax_jur_I,
-                            2018:dnk_tax_jur_I, 2019:dnk_tax_jur_I, 
-                            2020:dnk_tax_jur_I, 2021:dnk_tax_jur_I}     
+                            2001:dnk_tax_ipcc_I, 
+                            2002:dnk_tax_ipcc_I, 2003:dnk_tax_ipcc_I, 
+                            2004:dnk_tax_ipcc_I, 2005:dnk_tax_ipcc_I, 
+                            2006:dnk_tax_ipcc_I, 2007:dnk_tax_ipcc_I, 
+                            2008:dnk_tax_ipcc_I, 2009:dnk_tax_ipcc_I, 
+                            2010:dnk_tax_ipcc_I, 2011:dnk_tax_ipcc_I, 
+                            2012:dnk_tax_ipcc_I, 2013:dnk_tax_ipcc_I, 
+                            2014:dnk_tax_ipcc_I, 2015:dnk_tax_ipcc_I, 
+                            2016:dnk_tax_ipcc_I, 2017:dnk_tax_ipcc_I,
+                            2018:dnk_tax_ipcc_I, 2019:dnk_tax_ipcc_I, 
+                            2020:dnk_tax_ipcc_I, 2021:dnk_tax_ipcc_I}     
     
     ## Sources dictionary
     
-    dnk_tax_scope_sources = {2001:"",
+    dnk_tax_scope_sources = {2001:"", # SourceID
                                 2002:"",
                                 2003:"",
                                 2004:"",
