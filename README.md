@@ -21,7 +21,7 @@ More details about the methodology supporting the construction of the dataset an
 
 - Jurisdictions: The dataset currently covers 198 national jurisdictions and 98 sub-national jurisdictions (50 US States, 13 Canadian Provinces and Territories, 3 Japanese Municipalities, 32 Chinese Provinces and Municipalities). It records their institutional development (sectoral and fuel coverage as well as price) from 1990 (year of introduction of the first carbon pricing mechanism in Finland) to this day (currently, 2018 is the last year for which data has been collected).
 
-- Sectors: The dataset covers all IPCC source categories. In addition, the file [IPCC2006-IEA-category-codes](https://github.com/g-dolphin/WorldCarbonPricingDatabase/blob/master/_raw/_aux_files) provides a mapping between IPCC sector names, their associated code and the corresponding International Energy Agency sector code. This latter file is particularly useful to the update of the dataset, since its `.csv` files only include sector codes.
+- Sectors: The dataset covers all IPCC source categories. In addition, the file [IPCC2006-IEA-category-codes](https://github.com/g-dolphin/ECP/blob/master/_raw/_aux_files/ipcc2006_iea_category_codes.csv) provides a mapping between IPCC sector names, their associated code and the corresponding International Energy Agency sector code. This latter file is particularly useful to the update of the dataset, since its `.csv` files only include sector codes.
 
 - Greenhouse gases: the information currently in the dataset pertains exclusively to policy instruments targeting CO2 emissions. A future iteration will expand the dataset to other Kyoto gases that are subject to pricing mechanisms.
 

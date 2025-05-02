@@ -9853,12 +9853,12 @@ Sweden,2022,1A1A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily pri
 Sweden,2022,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2022,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2022,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2022,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2022,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2022,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2022,1A1C,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2022,1A1C,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2022,1A1B,Coal,report(SMF-CT[2011]), ,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2022,1A1B,Natural gas,report(SMF-CT[2011]), ,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2022,1A1B,Oil,report(SMF-CT[2011]), ,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2022,1A1C,Coal,report(SMF-CT[2011]), ,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2022,1A1C,Natural gas,report(SMF-CT[2011]), ,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Sweden,2022,1A1C,Oil,report(SMF-CT[2011]), ,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2022,1A2,Coal,NA,NA,NA,NA,NA
 Sweden,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Sweden,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -9913,9 +9913,9 @@ Sweden,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 Sweden,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2022,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Sweden,2022,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Sweden,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Sweden,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Sweden,2022,1A3B,Oil,NA,NA,NA,NA,NA
+Sweden,2022,1A3B,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A3B,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A3B,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
 Sweden,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Sweden,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Sweden,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9937,21 +9937,21 @@ Sweden,2022,1A3E1,Oil,NA,NA,NA,NA,NA
 Sweden,2022,1A4,Coal,NA,NA,NA,NA,NA
 Sweden,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Sweden,2022,1A4,Oil,NA,NA,NA,NA,NA
-Sweden,2022,1A4A,Coal,NA,NA,NA,NA,NA
-Sweden,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
-Sweden,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Sweden,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Sweden,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Sweden,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Sweden,2022,1A4A,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4A,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4A,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4B,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4B,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4B,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
 Sweden,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Sweden,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Sweden,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Sweden,2022,1A4C1,Coal,NA,NA,NA,NA,NA
-Sweden,2022,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2022,1A4C1,Oil,NA,NA,NA,NA,NA
-Sweden,2022,1A4C2,Coal,NA,NA,NA,NA,NA
-Sweden,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Sweden,2022,1A4C2,Oil,NA,NA,NA,NA,NA
+Sweden,2022,1A4C1,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4C1,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4C1,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4C2,Coal,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4C2,Natural gas,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
+Sweden,2022,1A4C2,Oil,report(SMF-CT[2011]),NA,db(EC-TED); own calculations based on EC Taxes in Europe database.,NA,NA
 Sweden,2022,1A4C3,Coal,NA,NA,NA,NA,NA
 Sweden,2022,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Sweden,2022,1A4C3,Oil,NA,NA,NA,NA,NA

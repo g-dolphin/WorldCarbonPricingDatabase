@@ -9862,45 +9862,45 @@ Shenzhen,2022,1A1C,Oil,NA,NA,NA,NA,NA
 Shenzhen,2022,1A2,Coal,NA,NA,NA,NA,NA
 Shenzhen,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Shenzhen,2022,1A2,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2A,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2A,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2A,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2B,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2B,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2B,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2C,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2C,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2C,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2D,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2D,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2D,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2E,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2E,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2E,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2F,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2F,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2G,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2G,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2H,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2H,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2I,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2I,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2I,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2J,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2J,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2K,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2K,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2L,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2L,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2M,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A2M,Oil,NA,NA,NA,NA,NA
+Shenzhen,2022,1A2A,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2A,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2A,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2B,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2B,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2B,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2C,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2C,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2C,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2D,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2D,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2D,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2E,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2E,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2E,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2F,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2F,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2F,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2G,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2G,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2G,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2H,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2H,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2H,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2I,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2I,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2I,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2J,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2J,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2J,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2K,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2K,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2K,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2L,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2L,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2L,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2M,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2M,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A2M,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shenzhen,2022,1A3,Coal,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -9913,9 +9913,9 @@ Shenzhen,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3A2,Coal,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A3B,Oil,NA,NA,NA,NA,NA
+Shenzhen,2022,1A3B,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A3B,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A3B,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shenzhen,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9925,9 +9925,9 @@ Shenzhen,2022,1A3D,Oil,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3D1,Coal,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3D1,Natural gas,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3D1,Oil,NA,NA,NA,NA,NA
-Shenzhen,2022,1A3D2,Coal,NA,NA,NA,NA,NA
-Shenzhen,2022,1A3D2,Natural gas,NA,NA,NA,NA,NA
-Shenzhen,2022,1A3D2,Oil,NA,NA,NA,NA,NA
+Shenzhen,2022,1A3D2,Coal,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A3D2,Natural gas,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1A3D2,Oil,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shenzhen,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Shenzhen,2022,1A3E,Oil,NA,NA,NA,NA,NA
@@ -9990,16 +9990,16 @@ Shenzhen,2022,1B2A33,NA,NA,NA,NA,NA,NA
 Shenzhen,2022,1B2A34,NA,NA,NA,NA,NA,NA
 Shenzhen,2022,1B2A35,NA,NA,NA,NA,NA,NA
 Shenzhen,2022,1B2A36,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B1,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B2,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B3,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B31,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B32,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B33,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B34,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B35,NA,NA,NA,NA,NA,NA
-Shenzhen,2022,1B2B36,NA,NA,NA,NA,NA,NA
+Shenzhen,2022,1B2B,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B1,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B2,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B3,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B31,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B32,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B33,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B34,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B35,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Shenzhen,2022,1B2B36,NA,NA,report(ICAP[2023]),NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Shenzhen,2022,1B3,NA,NA,NA,NA,NA,NA
 Shenzhen,2022,1C,NA,NA,NA,NA,NA,NA
 Shenzhen,2022,1C1,NA,NA,NA,NA,NA,NA

@@ -9847,18 +9847,18 @@ Portugal,2022,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2022,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2022,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2022,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1C,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A1C,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
+Portugal,2022,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2022,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -9907,15 +9907,15 @@ Portugal,2022,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2022,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2022,1A3A1,Coal,NA,NA,NA,NA,NA
-Portugal,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Portugal,2022,1A3A1,Oil,NA,NA,NA,NA,NA
+Portugal,2022,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
 Portugal,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2022,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
 Portugal,2022,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2021]); yearly average of daily prices provided by ICAP
-Portugal,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Portugal,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Portugal,2022,1A3B,Oil,NA,NA,NA,NA,NA
+Portugal,2022,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
 Portugal,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9937,21 +9937,21 @@ Portugal,2022,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2022,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2022,1A4A,Coal,NA,NA,NA,NA,NA
-Portugal,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
-Portugal,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Portugal,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Portugal,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Portugal,2022,1A4B,Oil,NA,NA,NA,NA,NA
+Portugal,2022,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
 Portugal,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2022,1A4C1,Coal,NA,NA,NA,NA,NA
-Portugal,2022,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Portugal,2022,1A4C1,Oil,NA,NA,NA,NA,NA
-Portugal,2022,1A4C2,Coal,NA,NA,NA,NA,NA
-Portugal,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Portugal,2022,1A4C2,Oil,NA,NA,NA,NA,NA
+Portugal,2022,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
 Portugal,2022,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A4C3,Oil,NA,NA,NA,NA,NA

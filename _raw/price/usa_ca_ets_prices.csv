@@ -1,4 +1,4 @@
-scheme_id,year,allowance_weighted_price,currency_code,source,comment
+scheme_id,year,allowance_price,currency_code,source,comment
 usa_ca_ets,2013,13.5734,USD,web(CAL-CAR[2015]),yearly average of daily prices obtained from California carbon dashboard
 usa_ca_ets,2014,12.07839,USD,web(CAL-CAR[2015]),yearly average of daily prices obtained from California carbon dashboard
 usa_ca_ets,2015,12.43728156,USD,db(ICAP-ETS[2021]),calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
@@ -9,3 +9,5 @@ usa_ca_ets,2019,16.77847358,USD,db(ICAP-ETS[2021]),calculated based on the aucti
 usa_ca_ets,2020,17.11808387,USD,db(ICAP-ETS[2021]),calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 usa_ca_ets,2021,22.2356344,USD,db(ICAP-ETS[2021]),calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
 usa_ca_ets,2022,28.45,USD,db(ICAP-ETS[2021]),calculated based on the auction clearing price and total allowances sold from auction summary results reports and ICAP
+usa_ca_ets,2023,33.06,USD,db(CAL-CARB[2024]),calculated based on the auction clearing price and total allowances sold from auction summary results reports
+usa_ca_ets,2024,35.31,USD,db(CAL-CARB[2024]),calculated based on the auction clearing price and total allowances sold from auction summary results reports
