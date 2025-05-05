@@ -1,191 +1,166 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb  4 15:16:17 2021
-
-@author: GD
+Loads ETS price data for use in the World Carbon Pricing Database.
 """
 
+import os
 import pandas as pd
+import logging
+from typing import Dict
 
-path_prices = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price"
+# Set up logging
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# For NZL ETS/ EU ETS / KOR ETS / CHN PROV PILOT ETSs, prices are from ICAP
-# For RGGI / CA-QC CAT / SWITZERLAND ETS / OBPS in Canadian Provinces, prices are from other sources
+# Set relative default path
+try:
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+except NameError:
+    BASE_DIR = os.getcwd()
+
+DEFAULT_PRICE_PATH = os.path.normpath(os.path.join(BASE_DIR, "_raw/price"))
+
+def process_ets_prices(price_dir: str = DEFAULT_PRICE_PATH) -> Dict[str, pd.DataFrame]:
+    """
+    Load all known ETS prices from CSV files.
+
+    Args:
+        price_dir (str): Path to directory containing ETS price CSVs.
+
+    Returns:
+        dict: Dictionary of jurisdiction codes mapped to their ETS price DataFrames.
+    """
+
+    files = {
+        "aut_ets": "aut_ets_prices.csv",
+        "can_obps": "can_obps_prices.csv",
+        "kaz_ets": "kaz_ets_prices.csv",
+        "idn_ets": "idn_ets_prices.csv",
+        "mex_ets": "mex_ets_prices.csv",
+        "mne_ets": "mne_ets_prices.csv",
+        "che_ets": "che_ets_prices.csv",
+        "usa_rggi": "usa_rggi_prices.csv",
+        "usa_ma_ets": "usa_ma_ets_prices.csv",
+        "usa_or_ets": "usa_or_ets_prices.csv",
+        "can_qc_cat": "can_qc_cat_prices.csv",
+        "usa_ca_ets": "usa_ca_ets_prices.csv",
+        "usa_wa_ets": "usa_wa_ets_prices.csv",
+        "can_ab_ets": "can_ab_ets_prices.csv",
+        "can_bc_ets": "can_bc_ets_prices.csv",
+        "can_sk_ets": "can_sk_ets_prices.csv",
+        "can_nb_ets": "can_nb_ets_prices.csv",
+        "can_ns_ets": "can_ns_ets_prices.csv",
+        "can_ns_ets_II": "can_ns_ets_II_prices.csv",
+        "can_nl_ets": "can_nl_ets_prices.csv"    
+        }
+
+    data = {}
+    for code, filename in files.items():
+        path = os.path.join(price_dir, filename)
+        if os.path.exists(path):
+            data[code] = pd.read_csv(path)
+            logging.info(f"Loaded ETS price data for {code}")
+        else:
+            logging.warning(f"Missing price file: {filename}")
+
+    return data
 
 
-def prices_df(path_prices):
-    # Austria
-    aut_ets_prices = pd.read_csv(path_prices+"/aut_ets_prices.csv")
-    
-    # Kazakhstan
-    kaz_ets_prices = pd.read_csv(path_prices+"/kaz_ets_prices.csv")
+def process_icap_prices(price_dir: str) -> pd.DataFrame:
+    """
+    Processes ICAP ETS price data and returns a tidy DataFrame with yearly averages.
 
-    # Kazakhstan
-    idn_ets_prices = pd.read_csv(path_prices+"/idn_ets_prices.csv")
+    Args:
+        price_path (str): Path to the price data directory.
+        icap_file (str): Filename of the ICAP CSV.
 
-    # Mexico
-    mex_ets_prices = pd.read_csv(path_prices+"/mex_ets_prices.csv")
+    Returns:
+        pd.DataFrame: Yearly average allowance prices with scheme ID and metadata.
+    """
 
-    # Montenegro
-    mne_ets_prices = pd.read_csv(path_prices+"/mne_ets_prices.csv")
-
-    # Switzerland
-    che_ets_prices = pd.read_csv(path_prices+"/che_ets_prices.csv")
-
-    # RGGI Prices
-    usa_rggi_prices = pd.read_csv(path_prices+"/usa_rggi_prices.csv")
-    usa_rggi_prices.loc[:, "allowance_price"] = usa_rggi_prices.allowance_price/0.90718474 # conversion from short ton to metric ton
-
-    # Massachusetts CaT
-    usa_ma_ets_prices = pd.read_csv(path_prices+"/usa_ma_ets_prices.csv")
-
-    # Oregon CaT
-    usa_or_ets_prices = pd.read_csv(path_prices+"/usa_or_ets_prices.csv")
-    
-    # Quebec CaT
-    can_qc_cat_prices = pd.read_csv(path_prices+"/can_qc_cat_prices.csv")
-    
-    # California CaT
-    usa_ca_ets_prices = pd.read_csv(path_prices+"/usa_ca_ets_prices.csv")
-
-    # Washington State
-    usa_wa_ets_prices = pd.read_csv(path_prices+"/usa_wa_ets_prices.csv")
-
-    # Canadian federal OBPS
-    can_obps_prices = pd.read_csv(path_prices+"/can_obps_prices.csv")
-    
-    # Alberta
-    can_ab_ets_prices = pd.read_csv(path_prices+"/can_ab_ets_prices.csv")
-
-    # British Columbia
-    can_bc_ets_prices = pd.read_csv(path_prices+"/can_bc_ets_prices.csv")
-
-    # Saskatchewan
-    can_sk_ets_prices = pd.read_csv(path_prices+"/can_sk_ets_prices.csv")
-
-    # New Brunswick
-    can_nb_ets_prices = pd.read_csv(path_prices+"/can_nb_ets_prices.csv")
-
-    # Nova Scotia
-    can_ns_ets_prices = pd.read_csv(path_prices+"/can_ns_ets_prices.csv")
-    can_ns_ets_II_prices = pd.read_csv(path_prices+"/can_ns_ets_II_prices.csv")
-
-    # Newfoundland and Labrador
-    can_nl_ets_prices = pd.read_csv(path_prices+"//can_nl_ets_prices.csv")    
-
-    # ICAP Prices (EU ETS, NZL ETS, KOR ETS, CHN PROV ETS, CAN PROV)
-    icap_raw_columns = pd.read_csv(path_prices+"/_icap-graph-price-data-2008-04-01-2025-04-15.csv",
-                           delimiter=",", encoding= 'latin-1', header=0, 
-                           low_memory=False)
-    icap_raw_columns = icap_raw_columns.columns
-
-    # Renaming columns of icap data frame
-    # Define your mapping of substrings to new column names
+    # Define mapping of substrings to scheme IDs
     column_map = {
-        "Nova Scotia": "can_ns_ets",
-        "European Union": "eu_ets",
-        "Quebec":"can_qc_cat", 
-        "Ontario":"can_on_ets",
-        "Switzerland":"che_ets", 
-        "United Kingdom":"gbr_ets", 
-        "China":"chn_ets",
-        "German":"deu_ets", 
-        "Shenzhen":"chn_sz_ets", 
-        "Shanghai":"chn_sh_ets", 
-        "Beijing":"chn_bj_ets",
-        "Guangdong":"chn_gd_ets", 
-        "Tianjin":"chn_tj_ets", 
-        "Hubei":"chn_hb_ets", 
-        "Chongqing":"chn_cq_ets", 
-        "Fujian":"chn_fj_ets", 
-        "New Zealand":"nzl_ets", 
-        "Regional Greenhouse":"usa_rggi", 
-        "California":"usa_ca_ets",
-        "Korean":"kor_ets", 
-        "Washington":"usa_wa_ets"
+        "Nova Scotia": "can_ns_ets", "European Union": "eu_ets", "Quebec": "can_qc_cat",
+        "Ontario": "can_on_ets", "Switzerland": "che_ets", "United Kingdom": "gbr_ets",
+        "China": "chn_ets", "German": "deu_ets", "Shenzhen": "chn_sz_ets", "Shanghai": "chn_sh_ets",
+        "Beijing": "chn_bj_ets", "Guangdong": "chn_gd_ets", "Tianjin": "chn_tj_ets",
+        "Hubei": "chn_hb_ets", "Chongqing": "chn_cq_ets", "Fujian": "chn_fj_ets",
+        "New Zealand": "nzl_ets", "Regional Greenhouse": "usa_rggi", "California": "usa_ca_ets",
+        "Korean": "kor_ets", "Washington": "usa_wa_ets"
     }
 
-    columns = [col for col in icap_raw_columns if any(key in col for key in column_map.keys())]
+    # Define currencies for valid schemes
+    curr_codes = {
+        "eu_ets": "EUR", "nzl_ets": "NZD", "kor_ets": "KRW", "gbr_ets": "GBP", "chn_ets": "CNY",
+        "deu_ets": "EUR", "chn_sz_ets": "CNY", "chn_sh_ets": "CNY", "chn_bj_ets": "CNY",
+        "chn_gd_ets": "CNY", "chn_tj_ets": "CNY", "chn_hb_ets": "CNY", "chn_cq_ets": "CNY", "chn_fj_ets": "CNY"
+    }
 
-    icap_raw = pd.read_csv(path_prices+"/_icap-graph-price-data-2008-04-01-2025-04-15.csv",
-                           delimiter=",", encoding= 'latin-1', header=1,
-                           low_memory=False)
+    drop_schemes = {"usa_rggi", "can_on_ets", "che_ets", "usa_ca_ets", "can_qc_cat", "can_ns_ets", "usa_wa_ets"}
 
-    icap_raw = pd.concat([icap_raw.loc[:, ["Date"]], icap_raw.loc[:, icap_raw.columns.str.startswith('Reference Market')]],
+    icap_csv_path = os.path.join(price_dir, "_icap-graph-price-data-2008-04-01-2025-04-15.csv")
+
+    # Read header row for column filtering
+    columns = pd.read_csv(icap_csv_path, encoding="latin-1", nrows=0).columns
+    target_cols = [col for col in columns if any(key in col for key in column_map)]
+
+    # Read actual data (header=1 skips redundant top row)
+    df = pd.read_csv(icap_csv_path, encoding="latin-1", header=1, low_memory=False)
+    df = pd.concat([df.loc[:, ["Date"]], df.loc[:, df.columns.str.startswith('Reference Market')]],
                          axis=1)
-    icap_raw.columns = ["Date"]+columns
+    df.columns = ["Date"]+target_cols
 
-    # Function to rename columns based on partial match
-    def rename_columns_partial(df, mapping):
-        new_columns = {}
-        for col in df.columns:
-            for keyword, new_name in mapping.items():
-                if keyword in col:
-                    new_columns[col] = new_name
-                    break  # Only apply first match
-        return df.rename(columns=new_columns)
+    # Rename columns using first match
+    renamed_cols = {"Date": "Date"}
+    for col in target_cols:
+        for key, new_name in column_map.items():
+            if key in col:
+                renamed_cols[col] = new_name
+                break
 
-    # Apply to DataFrame
-    icap_raw = rename_columns_partial(icap_raw, column_map)
+    df.rename(columns=renamed_cols, inplace=True)
 
-    # remove bottom 4 rows
-    icap_raw = icap_raw.iloc[:-4,:]
+    # Remove trailing rows with summary text
+    df = df.iloc[:-4].copy()
 
-    ## extract year from date string
-    
-    icap_raw["year"] = icap_raw["Date"].str[6:]
-        
-    icap_raw['eu_ets'] = icap_raw['eu_ets'].astype(float)
+    # Extract year from date string
+    df["year"] = df["Date"].str.extract(r"(\d{4})").astype(int)
 
-    icap_raw_average = icap_raw.groupby(by="year").mean().reset_index()
-       
-    # drop policy instruments whose info is not taken from ICAP
-    icap_raw_average = icap_raw_average.drop(["usa_rggi", "can_on_ets", "che_ets", 
-                                              "usa_ca_ets", "can_qc_cat", "can_ns_ets", "usa_wa_ets"], 
-                                              axis=1)
-    
-    ## add currency codes
-    icap_raw_average = icap_raw_average.melt(id_vars=["year"], 
-                                             value_name="allowance_price",
-                                             var_name="scheme_id")
-        
-    icap_raw_average["currency_code"] = ""
-    
-    curr_codes = {"eu_ets":"EUR", "nzl_ets":"NZD", "kor_ets":"KRW",
-                  "gbr_ets":"GBP", 'chn_ets':'CNY', "deu_ets":"EUR",
-                  "chn_sz_ets":"CNY", "chn_sh_ets":"CNY", "chn_bj_ets":"CNY", 
-                  'chn_gd_ets':"CNY", 'chn_tj_ets':"CNY", 'chn_hb_ets':"CNY",
-                  'chn_cq_ets':"CNY", 'chn_fj_ets':"CNY"}
-    
-    for scheme in curr_codes.keys():
-        icap_raw_average.loc[icap_raw_average.scheme_id==scheme, "currency_code"] = curr_codes[scheme]
-    
-    icap_raw_average["source"] = "db(ICAP-ETS[2024])"
-    icap_raw_average["comment"] = "yearly average of daily prices provided by ICAP"
-    icap_raw_average["year"] = icap_raw_average["year"].astype(int)
+    # Ensure numeric prices
+    for col in df.columns:
+        if col not in ("Date", "year"):
+            df[col] = pd.to_numeric(df[col], errors="coerce")
 
-    
-    ## manually add EU ETS prices for 2005/2006/2007 - from Bloomberg
-#    icap_raw_average.loc[(icap_raw_average.scheme_id=="eu_ets") & (icap_raw_average.year==2005), "allowance_price"] = 21.56337209
-#    icap_raw_average.loc[(icap_raw_average.scheme_id=="eu_ets") & (icap_raw_average.year==2006), "allowance_price"] = 18.00976096
-#    icap_raw_average.loc[(icap_raw_average.scheme_id=="eu_ets") & (icap_raw_average.year==2007), "allowance_price"] = 0.717649402
-        
-    #-------------------------------------------------------------------
-    
+    # Compute yearly averages
+    yearly_avg = df.drop(columns="Date").groupby("year", as_index=False).mean()
+
+    # Drop unneeded schemes
+    yearly_avg.drop(columns=drop_schemes & set(yearly_avg.columns), errors="ignore", inplace=True)
+
+    # Melt into long format
+    tidy = yearly_avg.melt(id_vars=["year"], var_name="scheme_id", value_name="allowance_price")
+
+    # Add metadata
+    tidy["currency_code"] = tidy["scheme_id"].map(curr_codes).fillna("")
+    tidy["source"] = "db(ICAP-ETS[2024])"
+    tidy["comment"] = "yearly average of (daily) prices provided by ICAP"
+
+    logging.info(f"Processed ICAP ETS prices: {tidy.shape[0]} records")
+
+    return tidy
+
+
+
+#-------------------------------------------------------------------
+
+def load_ets_prices(price_dir: str = DEFAULT_PRICE_PATH):
     # Aggregate data from all the sources
-    df = pd.concat([icap_raw_average,
-                    aut_ets_prices, che_ets_prices, kaz_ets_prices,
-                    idn_ets_prices,
-                    mex_ets_prices, mne_ets_prices,
-                    usa_rggi_prices, can_qc_cat_prices, usa_ca_ets_prices,
-                    usa_ma_ets_prices, usa_or_ets_prices, usa_wa_ets_prices,
-                    can_obps_prices, can_ab_ets_prices, can_sk_ets_prices, 
-                    can_bc_ets_prices,
-                    can_nb_ets_prices, can_ns_ets_prices, can_ns_ets_II_prices,
-                    can_nl_ets_prices])
+    df = pd.concat(
+        process_ets_prices(price_dir), 
+        ignore_index=True
+    )
+    df = pd.concat([df, process_icap_prices(price_dir)])
     
     df["allowance_price"] =  df["allowance_price"].round(2)
 
     return df
-
