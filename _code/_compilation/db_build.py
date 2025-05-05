@@ -64,13 +64,13 @@ for jur in all_jur_list:
 
 #------------------------Prices and scopes modules---------------------------#
 
-ets_prices = etsPricesModule.prices_df("_raw/price")
+ets_prices = etsPricesModule.load_ets_prices('/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/')
 #ets_prices = ets_prices.loc[ets_prices.ghg==gas]
 
 ets_scope = etsScopeModule.scope()["data"]
 ets_scope_sources = etsScopeModule.scope()["sources"]
 
-tax_rates = taxRatesModule.prices_df("_raw/price/", gas)
+tax_rates = taxRatesModule.load_tax_rates(gas, '/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/price/')
 tax_rates.rename(columns={"product":"em_type"}, inplace=True)
 
 taxes_scope = taxScopeModule.scope()["data"]
