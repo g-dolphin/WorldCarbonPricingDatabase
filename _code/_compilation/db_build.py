@@ -42,8 +42,8 @@ else:
 
 # Jurisdiction lists
 
-ctry_list = ctries
-subnat_list = subnat_can + subnat_chn + subnat_jpn + subnat_usa + subnat_mex
+ctry_list = jurisdictions["countries"]
+subnat_list = jurisdictions["subnationals"]["Canada"] + jurisdictions["subnationals"]["China"] + jurisdictions["subnationals"]["Japan"] + jurisdictions["subnationals"]["United States"] + jurisdictions["subnationals"]["Mexico"]
 all_jur_list = ctry_list + subnat_list
 
 wcpd_all_jur = pd.DataFrame()
