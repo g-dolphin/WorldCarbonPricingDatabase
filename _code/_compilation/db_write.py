@@ -1,31 +1,40 @@
+import os
 
-#------------------------------Writing files----------------------------------#
-## Main dataset
+#----------------------------- Helper Functions -----------------------------#
 
-# Breaking up dataframe into single jurisdiction .csv files
-std_country_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in ctry_list]
-countries_dic = dict(zip(ctry_list, std_country_names))
+def standardize_name(name):
+    return name.replace(".", "").replace(",", "").replace(" ", "_")
 
-std_subnat_names = [x.replace(".", "").replace(",", "").replace(" ", "_") for x in subnat_list]
-subnat_dic = dict(zip(subnat_list, std_subnat_names))
+def save_jurisdiction_files(df, jurisdictions, std_names, gas, level, base_dir):
+    for jur, std_name in zip(jurisdictions, std_names):
+        subset = df[df.jurisdiction == jur]
+        filename = f"wcpd_{gas.lower()}_{std_name}.csv"
+        out_path = os.path.join(base_dir, gas, level, filename)
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        subset.to_csv(out_path, index=False)
 
+#------------------------------- File Writing -------------------------------#
 
-for jur in countries_dic:
-    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("_dataset/data/"+gas+"/national/wcpd_"+gas.lower()+"_"+countries_dic[jur]+".csv", index=None)
-for jur in subnat_dic:
-    wcpd_all_jur.loc[wcpd_all_jur.jurisdiction==jur, :].to_csv("_dataset/data/"+gas+"/subnational/wcpd_"+gas.lower()+"_"+subnat_dic[jur]+".csv", index=None)
+# Standardized names
+std_country_names = [standardize_name(x) for x in ctry_list]
+std_subnat_names = [standardize_name(x) for x in subnat_list]
 
-for jur in countries_dic:
-    wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("_dataset/sources/"+gas+"/national/wcpd_"+gas.lower()+"_"+countries_dic[jur]+".csv", index=None)
-for jur in subnat_dic:
-    wcpd_all_jur_sources.loc[wcpd_all_jur_sources.jurisdiction==jur, :].to_csv("_dataset/sources/"+gas+"/subnational/wcpd_"+gas.lower()+"_"+subnat_dic[jur]+".csv", index=None)
-    
-    
-## Coverage factors
+# Save national and subnational data files
+save_jurisdiction_files(wcpd_all_jur, ctry_list, std_country_names, gas, "national", "_dataset/data")
+save_jurisdiction_files(wcpd_all_jur, subnat_list, std_subnat_names, gas, "subnational", "_dataset/data")
+save_jurisdiction_files(wcpd_all_jur_sources, ctry_list, std_country_names, gas, "national", "_dataset/sources")
+save_jurisdiction_files(wcpd_all_jur_sources, subnat_list, std_subnat_names, gas, "subnational", "_dataset/sources")
 
-for scheme in taxes_1_list+ets_1_list+ets_2_list:
-    cf.loc[cf.scheme_id==scheme, :].to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverageFactor/"+scheme+"_cf.csv", index=None)
+#---------------------------- Coverage Factors -----------------------------#
 
-## Scheme overlap files
+coverage_dir = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverageFactor"
+os.makedirs(coverage_dir, exist_ok=True)
 
-overlap.to_csv("/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/overlap/overlap_CO2.csv", index=None)
+for scheme in taxes_1_list + ets_1_list + ets_2_list:
+    cf[cf.scheme_id == scheme].to_csv(os.path.join(coverage_dir, f"{scheme}_cf.csv"), index=False)
+
+#---------------------------- Scheme Overlap -------------------------------#
+
+overlap_path = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/overlap/overlap_CO2.csv"
+os.makedirs(os.path.dirname(overlap_path), exist_ok=True)
+overlap.to_csv(overlap_path, index=False)
