@@ -27,8 +27,8 @@ DEFAULT_TAX_PATH = os.path.normpath(os.path.join(BASE_DIR, "_raw/price"))
 # ------------------------ Core Function ------------------------
 
 def load_tax_rates(
-    gas: str,
-    price_path
+    price_path,
+    gas: str
 ) -> pd.DataFrame:
     """
     Load and aggregate tax price data for a given GHG.
