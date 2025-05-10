@@ -34,7 +34,7 @@ def build_cf_df(schemes, scope_dict):
     return pd.concat(rows, ignore_index=True)
 
 cf_taxes = build_cf_df(taxes_1_list, taxes_scope_data)
-cf_ets = build_cf_df(ets_1_list + ets_2_list, ets_scope_data)
+cf_ets = build_cf_df(ets_1_list, ets_scope_data) #+ ets_2_list
 
 cf = pd.concat([cf_taxes, cf_ets], ignore_index=True)
 
