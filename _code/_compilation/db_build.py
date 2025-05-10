@@ -232,6 +232,13 @@ source_columns = [
 wcpd_all_jur = wcpd_all_jur[final_columns]
 wcpd_all_jur_sources = wcpd_all_jur_sources[source_columns]
 
+
+#-------------------- Coverage Factors --------------------#
+
+stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_preprocessing/_coverageFactors.py")
+read_file = stream.read()
+exec(read_file)
+
 #-------------------- Validation Checks --------------------#
 
 def validate_output(df):
