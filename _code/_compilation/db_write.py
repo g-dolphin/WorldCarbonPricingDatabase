@@ -16,21 +16,21 @@ def save_jurisdiction_files(df, jurisdictions, std_names, gas, level, base_dir):
 #------------------------------- File Writing -------------------------------#
 
 # Standardized names
-std_country_names = [standardize_name(x) for x in ctry_list]
-std_subnat_names = [standardize_name(x) for x in subnat_list]
+std_country_names = [standardize_name(x) for x in ctries]
+std_subnat_names = [standardize_name(x) for x in subnats]
 
 # Save national and subnational data files
-save_jurisdiction_files(wcpd_all_jur, ctry_list, std_country_names, gas, "national", "_dataset/data")
-save_jurisdiction_files(wcpd_all_jur, subnat_list, std_subnat_names, gas, "subnational", "_dataset/data")
-save_jurisdiction_files(wcpd_all_jur_sources, ctry_list, std_country_names, gas, "national", "_dataset/sources")
-save_jurisdiction_files(wcpd_all_jur_sources, subnat_list, std_subnat_names, gas, "subnational", "_dataset/sources")
+save_jurisdiction_files(wcpd_all_jur, ctries, std_country_names, GAS, "national", "_dataset/data")
+save_jurisdiction_files(wcpd_all_jur, subnats, std_subnat_names, GAS, "subnational", "_dataset/data")
+save_jurisdiction_files(wcpd_all_jur_sources, ctries, std_country_names, GAS, "national", "_dataset/sources")
+save_jurisdiction_files(wcpd_all_jur_sources, subnats, std_subnat_names, GAS, "subnational", "_dataset/sources")
 
 #---------------------------- Coverage Factors -----------------------------#
 
 coverage_dir = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverageFactor"
 os.makedirs(coverage_dir, exist_ok=True)
 
-for scheme in taxes_1_list + ets_1_list + ets_2_list:
+for scheme in taxes_1_list + ets_1_list:# + ets_2_list:
     cf[cf.scheme_id == scheme].to_csv(os.path.join(coverage_dir, f"{scheme}_cf.csv"), index=False)
 
 #---------------------------- Scheme Overlap -------------------------------#
