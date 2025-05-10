@@ -10,30 +10,6 @@ Created on Mon Apr 18 14:57:58 2022
 # Current records have been manually constructed by encoding entries in raw csv files.
 # The next update of this file will code these exemptions in the dedicated section below
 
-import pandas as pd
-import numpy as np
-
-
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/jurisdictions.py")
-read_file = stream.read()
-exec(read_file)
-
-#ctry_list = ctries
-#subnat_list = subnat_mex + subnat_jpn #subnat_can + subnat_chn + subnat_usa #+ 
-#all_jur_list = ctry_list + subnat_list
-
-## Filling "tax_ex_rate" column with NaN if no tax scheme
-wcpd_all_jur.loc[wcpd_all_jur.tax!=1, "tax_ex_rate"] = np.nan
-wcpd_all_jur_sources.loc[wcpd_all_jur.tax!=1, "tax_ex_rate"] = np.nan
-#all_jur.loc[(all_jur.tax==1) & (all_jur.tax_ex_rate==""), :] #checking whether we've missed any exemptions
-
-wcpd_all_jur_sources.rename(columns={"tax_ex_rate_sources":"tax_ex_rate"}, inplace=True)
-
-# Set default non-"NA" values to 0
-wcpd_all_jur.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = 0
-wcpd_all_jur_sources.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = "NA"
-
-
 #--------------------------------Exemption/rebate coding-----------------------------
 
 # 'Argentina'
@@ -590,12 +566,3 @@ tax_exemptions_sources = [tax_ex_arg_I_source, tax_ex_dnk_I_source, tax_ex_dnk_I
                           tax_ex_prt_I_source, tax_ex_prt_II_source, tax_ex_prt_II_source, tax_ex_slo_I_source,
                           tax_ex_slo_II_source, tax_ex_slo_III_source, tax_ex_slo_IV_source, tax_ex_swe_I_source,
                           tax_ex_swe_II_source, tax_ex_can_bc_I_source, tax_ex_can_ab_I_source]
-
-i = 0
-for exemption in tax_exemptions:
-    for yr in exemption["jurisdiction"].keys():
-        row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
-        wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
-        wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = tax_exemptions_sources[i][yr]
-
-    i+=1
