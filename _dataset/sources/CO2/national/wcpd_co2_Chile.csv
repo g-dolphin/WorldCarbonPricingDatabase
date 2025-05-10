@@ -8358,27 +8358,9 @@ Chile,2017,1A1,Oil,NA,NA,NA,NA,NA
 Chile,2017,1A1A,Coal,NA,NA,NA,NA,NA
 Chile,2017,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chile,2017,1A1A,Oil,NA,NA,NA,NA,NA
-Chile,2017,1A1A1,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A1A1,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A1A1,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
+Chile,2017,1A1A1,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A1A1,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A1A1,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
 Chile,2017,1A1A2,Coal,NA,NA,NA,NA,NA
 Chile,2017,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2017,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -8394,279 +8376,45 @@ Chile,2017,1A1C,Oil,NA,NA,NA,NA,NA
 Chile,2017,1A2,Coal,NA,NA,NA,NA,NA
 Chile,2017,1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2017,1A2,Oil,NA,NA,NA,NA,NA
-Chile,2017,1A2A,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2A,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2A,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2B,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2B,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2B,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2C,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2C,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2C,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2D,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2D,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2D,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2E,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2E,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2E,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2F,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2F,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2F,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2G,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2G,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2G,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2H,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2H,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2H,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2I,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2I,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2I,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2J,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2J,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2J,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2K,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2K,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2K,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2L,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2L,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2L,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2M,Coal,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2M,Natural gas,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2017,1A2M,Oil,report(WB[2017]),NA,"1341    report(WB[2015], WB[2017], WB[2018])
-1342    report(WB[2015], WB[2017], WB[2018])
-1343    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1341    all, but only, stationary sources above 50 MW ...
-1342    all, but only, stationary sources above 50 MW ...
-1343    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
+Chile,2017,1A2A,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2A,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2A,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2B,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2B,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2B,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2C,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2C,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2C,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2D,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2D,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2D,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2E,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2E,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2E,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2F,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2F,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2F,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2G,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2G,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2G,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2H,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2H,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2H,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2I,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2I,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2I,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2J,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2J,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2J,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2K,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2K,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2K,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2L,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2L,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2L,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2M,Coal,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2M,Natural gas,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2017,1A2M,Oil,report(WB[2017]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
 Chile,2017,1A3,Coal,NA,NA,NA,NA,NA
 Chile,2017,1A3,Natural gas,NA,NA,NA,NA,NA
 Chile,2017,1A3,Oil,NA,NA,NA,NA,NA
@@ -8908,27 +8656,9 @@ Chile,2018,1A1,Oil,NA,NA,NA,NA,NA
 Chile,2018,1A1A,Coal,NA,NA,NA,NA,NA
 Chile,2018,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chile,2018,1A1A,Oil,NA,NA,NA,NA,NA
-Chile,2018,1A1A1,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A1A1,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A1A1,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
+Chile,2018,1A1A1,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A1A1,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A1A1,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
 Chile,2018,1A1A2,Coal,NA,NA,NA,NA,NA
 Chile,2018,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2018,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -8944,279 +8674,45 @@ Chile,2018,1A1C,Oil,NA,NA,NA,NA,NA
 Chile,2018,1A2,Coal,NA,NA,NA,NA,NA
 Chile,2018,1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2018,1A2,Oil,NA,NA,NA,NA,NA
-Chile,2018,1A2A,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2A,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2A,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2B,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2B,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2B,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2C,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2C,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2C,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2D,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2D,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2D,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2E,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2E,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2E,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2F,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2F,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2F,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2G,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2G,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2G,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2H,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2H,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2H,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2I,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2I,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2I,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2J,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2J,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2J,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2K,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2K,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2K,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2L,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2L,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2L,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2M,Coal,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2M,Natural gas,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2018,1A2M,Oil,report(WB[2018]),NA,"1344    report(WB[2015], WB[2017], WB[2018])
-1345    report(WB[2015], WB[2017], WB[2018])
-1346    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1344    all, but only, stationary sources above 50 MW ...
-1345    all, but only, stationary sources above 50 MW ...
-1346    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
+Chile,2018,1A2A,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2A,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2A,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2B,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2B,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2B,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2C,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2C,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2C,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2D,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2D,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2D,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2E,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2E,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2E,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2F,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2F,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2F,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2G,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2G,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2G,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2H,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2H,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2H,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2I,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2I,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2I,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2J,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2J,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2J,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2K,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2K,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2K,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2L,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2L,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2L,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2M,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2M,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2018,1A2M,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
 Chile,2018,1A3,Coal,NA,NA,NA,NA,NA
 Chile,2018,1A3,Natural gas,NA,NA,NA,NA,NA
 Chile,2018,1A3,Oil,NA,NA,NA,NA,NA
@@ -9458,27 +8954,9 @@ Chile,2019,1A1,Oil,NA,NA,NA,NA,NA
 Chile,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Chile,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chile,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Chile,2019,1A1A1,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A1A1,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A1A1,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
+Chile,2019,1A1A1,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A1A1,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A1A1,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
 Chile,2019,1A1A2,Coal,NA,NA,NA,NA,NA
 Chile,2019,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2019,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -9494,279 +8972,45 @@ Chile,2019,1A1C,Oil,NA,NA,NA,NA,NA
 Chile,2019,1A2,Coal,NA,NA,NA,NA,NA
 Chile,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2019,1A2,Oil,NA,NA,NA,NA,NA
-Chile,2019,1A2A,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2A,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2A,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2B,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2B,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2B,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2C,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2C,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2C,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2D,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2D,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2D,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2E,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2E,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2E,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2F,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2F,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2F,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2G,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2G,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2G,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2H,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2H,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2H,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2I,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2I,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2I,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2J,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2J,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2J,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2K,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2K,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2K,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2L,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2L,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2L,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2M,Coal,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2M,Natural gas,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
-Chile,2019,1A2M,Oil,report(WB[2018]),NA,"1347    report(WB[2015], WB[2017], WB[2018])
-1348    report(WB[2015], WB[2017], WB[2018])
-1349    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1347    all, but only, stationary sources above 50 MW ...
-1348    all, but only, stationary sources above 50 MW ...
-1349    all, but only, stationary sources above 50 MW ...
-Name: comment, dtype: object",NA,NA
+Chile,2019,1A2A,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2A,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2A,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2B,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2B,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2B,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2C,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2C,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2C,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2D,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2D,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2D,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2E,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2E,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2E,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2F,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2F,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2F,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2G,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2G,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2G,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2H,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2H,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2H,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2I,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2I,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2I,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2J,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2J,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2J,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2K,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2K,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2K,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2L,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2L,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2L,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2M,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2M,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
+Chile,2019,1A2M,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); all, but only, stationary sources above 50 MW are covered",NA,NA
 Chile,2019,1A3,Coal,NA,NA,NA,NA,NA
 Chile,2019,1A3,Natural gas,NA,NA,NA,NA,NA
 Chile,2019,1A3,Oil,NA,NA,NA,NA,NA
@@ -10008,27 +9252,9 @@ Chile,2020,1A1,Oil,NA,NA,NA,NA,NA
 Chile,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Chile,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chile,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Chile,2020,1A1A1,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A1A1,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A1A1,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
+Chile,2020,1A1A1,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A1A1,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A1A1,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
 Chile,2020,1A1A2,Coal,NA,NA,NA,NA,NA
 Chile,2020,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2020,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -10044,279 +9270,45 @@ Chile,2020,1A1C,Oil,NA,NA,NA,NA,NA
 Chile,2020,1A2,Coal,NA,NA,NA,NA,NA
 Chile,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2020,1A2,Oil,NA,NA,NA,NA,NA
-Chile,2020,1A2A,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2A,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2A,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2B,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2B,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2B,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2C,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2C,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2C,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2D,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2D,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2D,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2E,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2E,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2E,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2F,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2F,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2F,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2G,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2G,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2G,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2H,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2H,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2H,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2I,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2I,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2I,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2J,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2J,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2J,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2K,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2K,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2K,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2L,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2L,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2L,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2M,Coal,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2M,Natural gas,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2020,1A2M,Oil,report(WB[2018]),NA,"1350    report(WB[2015], WB[2017], WB[2018])
-1351    report(WB[2015], WB[2017], WB[2018])
-1352    report(WB[2015], WB[2017], WB[2018])
-Name: source, dtype: object; 1350    from 2020 onward, compliance threshold is chan...
-1351    from 2020 onward, compliance threshold is chan...
-1352    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
+Chile,2020,1A2A,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2A,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2A,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2B,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2B,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2B,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2C,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2C,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2C,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2D,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2D,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2D,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2E,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2E,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2E,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2F,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2F,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2F,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2G,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2G,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2G,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2H,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2H,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2H,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2I,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2I,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2I,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2J,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2J,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2J,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2K,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2K,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2K,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2L,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2L,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2L,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2M,Coal,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2M,Natural gas,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2020,1A2M,Oil,report(WB[2018]),NA,"report(WB[2015], WB[2017], WB[2018]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
 Chile,2020,1A3,Coal,NA,NA,NA,NA,NA
 Chile,2020,1A3,Natural gas,NA,NA,NA,NA,NA
 Chile,2020,1A3,Oil,NA,NA,NA,NA,NA
@@ -10558,27 +9550,9 @@ Chile,2021,1A1,Oil,NA,NA,NA,NA,NA
 Chile,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Chile,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chile,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Chile,2021,1A1A1,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A1A1,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A1A1,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
+Chile,2021,1A1A1,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A1A1,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A1A1,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
 Chile,2021,1A1A2,Coal,NA,NA,NA,NA,NA
 Chile,2021,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2021,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -10594,279 +9568,45 @@ Chile,2021,1A1C,Oil,NA,NA,NA,NA,NA
 Chile,2021,1A2,Coal,NA,NA,NA,NA,NA
 Chile,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2021,1A2,Oil,NA,NA,NA,NA,NA
-Chile,2021,1A2A,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2A,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2A,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2B,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2B,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2B,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2C,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2C,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2C,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2D,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2D,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2D,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2E,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2E,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2E,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2F,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2F,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2F,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2G,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2G,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2G,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2H,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2H,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2H,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2I,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2I,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2I,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2J,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2J,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2J,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2K,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2K,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2K,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2L,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2L,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2L,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2M,Coal,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2M,Natural gas,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
-Chile,2021,1A2M,Oil,report(WB[2021]),NA,"1353    report(WB[2021])
-1354    report(WB[2021])
-1355    report(WB[2021])
-Name: source, dtype: object; 1353    from 2020 onward, compliance threshold is chan...
-1354    from 2020 onward, compliance threshold is chan...
-1355    from 2020 onward, compliance threshold is chan...
-Name: comment, dtype: object",NA,NA
+Chile,2021,1A2A,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2A,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2A,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2B,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2B,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2B,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2C,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2C,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2C,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2D,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2D,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2D,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2E,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2E,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2E,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2F,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2F,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2F,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2G,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2G,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2G,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2H,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2H,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2H,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2I,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2I,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2I,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2J,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2J,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2J,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2K,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2K,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2K,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2L,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2L,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2L,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2M,Coal,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2M,Natural gas,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
+Chile,2021,1A2M,Oil,report(WB[2021]),NA,"report(WB[2021]); from 2020 onward, compliance threshold is changed to installations emitting at least 25000 tCO2",NA,NA
 Chile,2021,1A3,Coal,NA,NA,NA,NA,NA
 Chile,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 Chile,2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -11108,27 +9848,9 @@ Chile,2022,1A1,Oil,NA,NA,NA,NA,NA
 Chile,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Chile,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chile,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Chile,2022,1A1A1,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A1A1,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A1A1,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
+Chile,2022,1A1A1,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A1A1,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A1A1,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
 Chile,2022,1A1A2,Coal,NA,NA,NA,NA,NA
 Chile,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2022,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -11144,279 +9866,45 @@ Chile,2022,1A1C,Oil,NA,NA,NA,NA,NA
 Chile,2022,1A2,Coal,NA,NA,NA,NA,NA
 Chile,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2022,1A2,Oil,NA,NA,NA,NA,NA
-Chile,2022,1A2A,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2A,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2A,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2B,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2B,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2B,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2C,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2C,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2C,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2D,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2D,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2D,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2E,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2E,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2E,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2F,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2F,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2F,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2G,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2G,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2G,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2H,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2H,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2H,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2I,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2I,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2I,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2J,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2J,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2J,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2K,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2K,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2K,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2L,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2L,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2L,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2M,Coal,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2M,Natural gas,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
-Chile,2022,1A2M,Oil,db(WBCPD[2023]),NA,"1356    db(WB-CPI[2022])
-1357    db(WB-CPI[2022])
-1358    db(WB-CPI[2022])
-Name: source, dtype: object; 1356    
-1357    
-1358    
-Name: comment, dtype: object",NA,NA
+Chile,2022,1A2A,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2A,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2A,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2B,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2B,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2B,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2C,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2C,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2C,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2D,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2D,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2D,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2E,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2E,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2E,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2F,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2F,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2F,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2G,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2G,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2G,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2H,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2H,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2H,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2I,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2I,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2I,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2J,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2J,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2J,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2K,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2K,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2K,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2L,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2L,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2L,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2M,Coal,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2M,Natural gas,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
+Chile,2022,1A2M,Oil,db(WBCPD[2023]),NA,db(WB-CPI[2022]); ,NA,NA
 Chile,2022,1A3,Coal,NA,NA,NA,NA,NA
 Chile,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Chile,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -11658,27 +10146,9 @@ Chile,2023,1A1,Oil,NA,NA,NA,NA,NA
 Chile,2023,1A1A,Coal,NA,NA,NA,NA,NA
 Chile,2023,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chile,2023,1A1A,Oil,NA,NA,NA,NA,NA
-Chile,2023,1A1A1,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A1A1,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A1A1,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
+Chile,2023,1A1A1,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A1A1,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A1A1,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
 Chile,2023,1A1A2,Coal,NA,NA,NA,NA,NA
 Chile,2023,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2023,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -11694,279 +10164,45 @@ Chile,2023,1A1C,Oil,NA,NA,NA,NA,NA
 Chile,2023,1A2,Coal,NA,NA,NA,NA,NA
 Chile,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2023,1A2,Oil,NA,NA,NA,NA,NA
-Chile,2023,1A2A,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2A,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2A,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2B,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2B,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2B,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2C,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2C,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2C,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2D,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2D,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2D,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2E,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2E,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2E,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2F,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2F,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2F,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2G,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2G,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2G,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2H,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2H,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2H,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2I,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2I,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2I,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2J,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2J,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2J,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2K,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2K,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2K,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2L,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2L,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2L,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2M,Coal,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2M,Natural gas,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
-Chile,2023,1A2M,Oil,report(WB[2024]),NA,"1359    db(WB-CPI[2024])
-1360    db(WB-CPI[2024])
-1361    db(WB-CPI[2024])
-Name: source, dtype: object; 1359    
-1360    
-1361    
-Name: comment, dtype: object",NA,NA
+Chile,2023,1A2A,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2A,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2A,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2B,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2B,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2B,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2C,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2C,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2C,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2D,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2D,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2D,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2E,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2E,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2E,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2F,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2F,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2F,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2G,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2G,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2G,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2H,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2H,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2H,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2I,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2I,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2I,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2J,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2J,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2J,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2K,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2K,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2K,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2L,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2L,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2L,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2M,Coal,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2M,Natural gas,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2023,1A2M,Oil,report(WB[2024]),NA,db(WB-CPI[2024]); ,NA,NA
 Chile,2023,1A3,Coal,NA,NA,NA,NA,NA
 Chile,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 Chile,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -12208,27 +10444,9 @@ Chile,2024,1A1,Oil,NA,NA,NA,NA,NA
 Chile,2024,1A1A,Coal,NA,NA,NA,NA,NA
 Chile,2024,1A1A,Natural gas,NA,NA,NA,NA,NA
 Chile,2024,1A1A,Oil,NA,NA,NA,NA,NA
-Chile,2024,1A1A1,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A1A1,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A1A1,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
+Chile,2024,1A1A1,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A1A1,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A1A1,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
 Chile,2024,1A1A2,Coal,NA,NA,NA,NA,NA
 Chile,2024,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2024,1A1A2,Oil,NA,NA,NA,NA,NA
@@ -12244,279 +10462,45 @@ Chile,2024,1A1C,Oil,NA,NA,NA,NA,NA
 Chile,2024,1A2,Coal,NA,NA,NA,NA,NA
 Chile,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Chile,2024,1A2,Oil,NA,NA,NA,NA,NA
-Chile,2024,1A2A,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2A,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2A,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2B,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2B,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2B,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2C,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2C,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2C,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2D,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2D,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2D,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2E,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2E,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2E,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2F,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2F,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2F,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2G,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2G,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2G,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2H,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2H,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2H,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2I,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2I,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2I,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2J,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2J,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2J,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2K,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2K,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2K,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2L,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2L,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2L,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2M,Coal,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2M,Natural gas,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
-Chile,2024,1A2M,Oil,db(WBCPD[2024]),NA,"1362    db(WB-CPI[2024])
-1363    db(WB-CPI[2024])
-1364    db(WB-CPI[2024])
-Name: source, dtype: object; 1362    
-1363    
-1364    
-Name: comment, dtype: object",NA,NA
+Chile,2024,1A2A,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2A,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2A,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2B,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2B,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2B,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2C,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2C,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2C,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2D,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2D,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2D,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2E,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2E,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2E,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2F,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2F,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2F,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2G,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2G,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2G,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2H,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2H,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2H,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2I,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2I,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2I,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2J,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2J,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2J,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2K,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2K,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2K,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2L,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2L,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2L,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2M,Coal,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2M,Natural gas,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
+Chile,2024,1A2M,Oil,db(WBCPD[2024]),NA,db(WB-CPI[2024]); ,NA,NA
 Chile,2024,1A3,Coal,NA,NA,NA,NA,NA
 Chile,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Chile,2024,1A3,Oil,NA,NA,NA,NA,NA

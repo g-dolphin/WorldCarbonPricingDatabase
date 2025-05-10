@@ -9560,35 +9560,11 @@ Luxembourg,2021,1A1A3,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024])
 Luxembourg,2021,1A1A3,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2021,1A1A3,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2021,1A1B,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2021,1A1B,Natural gas,leg(),"leg(EC[2018], EC[2020])","324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2021,1A1B,Oil,leg(),"leg(EC[2018], EC[2020])","324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2021,1A1B,Natural gas,leg(),"leg(EC[2018], EC[2020])","leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2021,1A1B,Oil,leg(),"leg(EC[2018], EC[2020])","leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2021,1A1C,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2021,1A1C,Natural gas,leg(),"leg(EC[2018], EC[2020])","324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2021,1A1C,Oil,leg(),"leg(EC[2018], EC[2020])","324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2021,1A1C,Natural gas,leg(),"leg(EC[2018], EC[2020])","leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2021,1A1C,Oil,leg(),"leg(EC[2018], EC[2020])","leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2021,1A2,Coal,NA,NA,NA,NA,NA
 Luxembourg,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2021,1A2,Oil,NA,NA,NA,NA,NA
@@ -9638,98 +9614,26 @@ Luxembourg,2021,1A3A,Coal,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3A,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3A,Oil,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3A1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3A1,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A3A1,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A3A1,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A3A1,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2021,1A3A2,Natural gas,leg(),"leg(EC[2018], EC[2020])","324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2021,1A3A2,Oil,leg(),"leg(EC[2018], EC[2020])","324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2021,1A3A2,Natural gas,leg(),"leg(EC[2018], EC[2020])","leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2021,1A3A2,Oil,leg(),"leg(EC[2018], EC[2020])","leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2021,1A3B,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3B,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A3B,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A3B,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A3B,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A3C,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3C,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A3C,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A3C,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A3C,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A3D,Coal,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3D,Oil,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3D1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3D1,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A3D1,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A3D1,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A3D1,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A3D2,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A3D2,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A3D2,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A3D2,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A3D2,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A3E,Coal,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2021,1A3E,Oil,NA,NA,NA,NA,NA
@@ -9740,83 +9644,23 @@ Luxembourg,2021,1A4,Coal,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4,Oil,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4A,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4A,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A4A,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A4A,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A4A,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A4B,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4B,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A4B,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A4B,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A4B,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C,Oil,NA,NA,NA,NA,NA
 Luxembourg,2021,1A4C1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C1,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A4C1,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A4C1,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A4C1,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A4C2,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C2,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A4C2,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A4C2,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A4C2,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A4C3,Coal,NA,NA,NA,NA,NA
-Luxembourg,2021,1A4C3,Natural gas,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
-Luxembourg,2021,1A4C3,Oil,leg(),NA,"324    leg(LUX-CBF[2020])
-325    leg(LUX-CBF[2020])
-326    leg(LUX-CBF[2020])
-Name: source, dtype: object; 324    The tax applies to diesel, heating oil, petrol...
-325    The tax applies to diesel, heating oil, petrol...
-326    The tax applies to diesel, heating oil, petrol...
-Name: comment, dtype: object",NA,NA
+Luxembourg,2021,1A4C3,Natural gas,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
+Luxembourg,2021,1A4C3,Oil,leg(),NA,"leg(LUX-CBF[2020]); The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating).",NA,NA
 Luxembourg,2021,1A5,Coal,NA,NA,NA,NA,NA
 Luxembourg,2021,1A5,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2021,1A5,Oil,NA,NA,NA,NA,NA
@@ -10014,35 +9858,11 @@ Luxembourg,2022,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (dai
 Luxembourg,2022,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2022,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2022,1A1B,Natural gas,leg(), ,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2022,1A1B,Oil,leg(), ,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2022,1A1B,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2022,1A1B,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2022,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2022,1A1C,Natural gas,leg(), ,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2022,1A1C,Oil,leg(), ,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2022,1A1C,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2022,1A1C,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2022,1A2,Coal,NA,NA,NA,NA,NA
 Luxembourg,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -10092,98 +9912,26 @@ Luxembourg,2022,1A3A,Coal,NA,NA,NA,NA,NA
 Luxembourg,2022,1A3A,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2022,1A3A,Oil,NA,NA,NA,NA,NA
 Luxembourg,2022,1A3A1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A3A1,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A3A1,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A3A1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A3A1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2022,1A3A2,Natural gas,leg(), ,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2022,1A3A2,Oil,leg(), ,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2022,1A3A2,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2022,1A3A2,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A3B,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A3B,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A3B,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A3B,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A3C,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A3C,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A3C,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A3C,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A3C,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A3D,Coal,NA,NA,NA,NA,NA
 Luxembourg,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2022,1A3D,Oil,NA,NA,NA,NA,NA
 Luxembourg,2022,1A3D1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A3D1,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A3D1,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A3D1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A3D1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A3D2,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A3D2,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A3D2,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A3D2,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A3D2,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Luxembourg,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2022,1A3E,Oil,NA,NA,NA,NA,NA
@@ -10194,83 +9942,23 @@ Luxembourg,2022,1A4,Coal,NA,NA,NA,NA,NA
 Luxembourg,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2022,1A4,Oil,NA,NA,NA,NA,NA
 Luxembourg,2022,1A4A,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A4A,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A4A,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A4A,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A4A,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A4B,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A4B,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A4B,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A4B,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Luxembourg,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2022,1A4C,Oil,NA,NA,NA,NA,NA
 Luxembourg,2022,1A4C1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A4C1,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A4C1,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A4C1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A4C1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A4C2,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A4C2,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A4C2,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A4C2,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A4C2,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A4C3,Coal,NA,NA,NA,NA,NA
-Luxembourg,2022,1A4C3,Natural gas,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2022,1A4C3,Oil,leg(),NA,"327    
-328    
-329    
-Name: source, dtype: object; 327    
-328    
-329    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2022,1A4C3,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2022,1A4C3,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2022,1A5,Coal,NA,NA,NA,NA,NA
 Luxembourg,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2022,1A5,Oil,NA,NA,NA,NA,NA
@@ -10468,35 +10156,11 @@ Luxembourg,2023,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (dai
 Luxembourg,2023,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2023,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2023,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2023,1A1B,Natural gas,leg(), ,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2023,1A1B,Oil,leg(), ,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2023,1A1B,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2023,1A1B,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2023,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2023,1A1C,Natural gas,leg(), ,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2023,1A1C,Oil,leg(), ,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2023,1A1C,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2023,1A1C,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2023,1A2,Coal,NA,NA,NA,NA,NA
 Luxembourg,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2023,1A2,Oil,NA,NA,NA,NA,NA
@@ -10546,98 +10210,26 @@ Luxembourg,2023,1A3A,Coal,NA,NA,NA,NA,NA
 Luxembourg,2023,1A3A,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2023,1A3A,Oil,NA,NA,NA,NA,NA
 Luxembourg,2023,1A3A1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A3A1,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A3A1,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A3A1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A3A1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2023,1A3A2,Natural gas,leg(), ,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2023,1A3A2,Oil,leg(), ,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2023,1A3A2,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2023,1A3A2,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2023,1A3B,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A3B,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A3B,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A3B,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A3B,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A3C,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A3C,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A3C,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A3C,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A3C,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A3D,Coal,NA,NA,NA,NA,NA
 Luxembourg,2023,1A3D,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2023,1A3D,Oil,NA,NA,NA,NA,NA
 Luxembourg,2023,1A3D1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A3D1,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A3D1,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A3D1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A3D1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A3D2,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A3D2,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A3D2,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A3D2,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A3D2,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A3E,Coal,NA,NA,NA,NA,NA
 Luxembourg,2023,1A3E,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2023,1A3E,Oil,NA,NA,NA,NA,NA
@@ -10648,83 +10240,23 @@ Luxembourg,2023,1A4,Coal,NA,NA,NA,NA,NA
 Luxembourg,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2023,1A4,Oil,NA,NA,NA,NA,NA
 Luxembourg,2023,1A4A,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A4A,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A4A,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A4A,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A4A,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A4B,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A4B,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A4B,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A4B,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A4B,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Luxembourg,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2023,1A4C,Oil,NA,NA,NA,NA,NA
 Luxembourg,2023,1A4C1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A4C1,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A4C1,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A4C1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A4C1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A4C2,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A4C2,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A4C2,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A4C2,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A4C2,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A4C3,Coal,NA,NA,NA,NA,NA
-Luxembourg,2023,1A4C3,Natural gas,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2023,1A4C3,Oil,leg(),NA,"330    
-331    
-332    
-Name: source, dtype: object; 330    
-331    
-332    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2023,1A4C3,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2023,1A4C3,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2023,1A5,Coal,NA,NA,NA,NA,NA
 Luxembourg,2023,1A5,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2023,1A5,Oil,NA,NA,NA,NA,NA
@@ -10922,35 +10454,11 @@ Luxembourg,2024,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (dai
 Luxembourg,2024,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A1B,Natural gas,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A1B,Oil,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A1B,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A1B,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A1C,Natural gas,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A1C,Oil,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A1C,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A1C,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A2,Coal,NA,NA,NA,NA,NA
 Luxembourg,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2024,1A2,Oil,NA,NA,NA,NA,NA
@@ -11000,98 +10508,26 @@ Luxembourg,2024,1A3A,Coal,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3A,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3A,Oil,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3A1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2024,1A3A1,Natural gas,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2024,1A3A1,Oil,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2024,1A3A1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A3A1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A3A2,Natural gas,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A3A2,Oil,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A3A2,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A3A2,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A3B,Coal,NA,NA,NA,NA,NA
-Luxembourg,2024,1A3B,Natural gas,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2024,1A3B,Oil,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2024,1A3B,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A3B,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A3C,Coal,NA,NA,NA,NA,NA
-Luxembourg,2024,1A3C,Natural gas,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2024,1A3C,Oil,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2024,1A3C,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A3C,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A3D,Coal,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D,Oil,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A3D1,Natural gas,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A3D1,Oil,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A3D1,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A3D1,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A3D2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A3D2,Natural gas,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A3D2,Oil,leg(), ,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A3D2,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A3D2,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A3E,Coal,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3E,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3E,Oil,NA,NA,NA,NA,NA
@@ -11102,83 +10538,23 @@ Luxembourg,2024,1A4,Coal,NA,NA,NA,NA,NA
 Luxembourg,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2024,1A4,Oil,NA,NA,NA,NA,NA
 Luxembourg,2024,1A4A,Coal,NA,NA,NA,NA,NA
-Luxembourg,2024,1A4A,Natural gas,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2024,1A4A,Oil,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2024,1A4A,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A4A,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A4B,Coal,NA,NA,NA,NA,NA
-Luxembourg,2024,1A4B,Natural gas,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2024,1A4B,Oil,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2024,1A4B,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A4B,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Luxembourg,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2024,1A4C,Oil,NA,NA,NA,NA,NA
 Luxembourg,2024,1A4C1,Coal,NA,NA,NA,NA,NA
-Luxembourg,2024,1A4C1,Natural gas,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2024,1A4C1,Oil,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2024,1A4C1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A4C1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A4C2,Coal,NA,NA,NA,NA,NA
-Luxembourg,2024,1A4C2,Natural gas,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2024,1A4C2,Oil,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2024,1A4C2,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A4C2,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A4C3,Coal,NA,NA,NA,NA,NA
-Luxembourg,2024,1A4C3,Natural gas,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
-Luxembourg,2024,1A4C3,Oil,leg(),NA,"333    
-334    
-335    
-Name: source, dtype: object; 333    
-334    
-335    
-Name: comment, dtype: object",NA,NA
+Luxembourg,2024,1A4C3,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A4C3,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A5,Coal,NA,NA,NA,NA,NA
 Luxembourg,2024,1A5,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2024,1A5,Oil,NA,NA,NA,NA,NA

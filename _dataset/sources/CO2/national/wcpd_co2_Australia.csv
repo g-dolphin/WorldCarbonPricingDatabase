@@ -6868,69 +6868,15 @@ Australia,2012,1A1,Oil,NA,NA,NA,NA,NA
 Australia,2012,1A1A,Coal,NA,NA,NA,NA,NA
 Australia,2012,1A1A,Natural gas,NA,NA,NA,NA,NA
 Australia,2012,1A1A,Oil,NA,NA,NA,NA,NA
-Australia,2012,1A1A1,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A1A1,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A1A1,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A1A2,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A1A2,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A1A2,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A1A3,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A1A3,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A1A3,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
+Australia,2012,1A1A1,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A1A1,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A1A1,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A1A2,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A1A2,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A1A2,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A1A3,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A1A3,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A1A3,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
 Australia,2012,1A1B,Coal,NA,NA,NA,NA,NA
 Australia,2012,1A1B,Natural gas,NA,NA,NA,NA,NA
 Australia,2012,1A1B,Oil,NA,NA,NA,NA,NA
@@ -6940,279 +6886,45 @@ Australia,2012,1A1C,Oil,NA,NA,NA,NA,NA
 Australia,2012,1A2,Coal,NA,NA,NA,NA,NA
 Australia,2012,1A2,Natural gas,NA,NA,NA,NA,NA
 Australia,2012,1A2,Oil,NA,NA,NA,NA,NA
-Australia,2012,1A2A,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2A,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2A,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2B,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2B,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2B,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2C,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2C,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2C,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2D,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2D,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2D,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2E,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2E,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2E,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2F,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2F,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2F,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2G,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2G,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2G,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2H,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2H,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2H,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2I,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2I,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2I,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2J,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2J,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2J,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2K,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2K,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2K,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2L,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2L,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2L,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2M,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2M,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
-Australia,2012,1A2M,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,"1371    web(AU-CER[2015])
-1372    web(AU-CER[2015])
-1373    web(AU-CER[2015])
-Name: source, dtype: object; 1371    
-1372    
-1373    
-Name: comment, dtype: object",NA,NA
+Australia,2012,1A2A,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2A,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2A,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2B,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2B,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2B,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2C,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2C,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2C,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2D,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2D,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2D,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2E,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2E,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2E,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2F,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2F,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2F,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2G,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2G,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2G,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2H,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2H,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2H,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2I,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2I,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2I,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2J,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2J,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2J,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2K,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2K,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2K,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2L,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2L,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2L,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2M,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2M,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2012,1A2M,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2012])",NA,web(AU-CER[2015]); ,NA,NA
 Australia,2012,1A3,Coal,NA,NA,NA,NA,NA
 Australia,2012,1A3,Natural gas,NA,NA,NA,NA,NA
 Australia,2012,1A3,Oil,NA,NA,NA,NA,NA
@@ -7454,69 +7166,15 @@ Australia,2013,1A1,Oil,NA,NA,NA,NA,NA
 Australia,2013,1A1A,Coal,NA,NA,NA,NA,NA
 Australia,2013,1A1A,Natural gas,NA,NA,NA,NA,NA
 Australia,2013,1A1A,Oil,NA,NA,NA,NA,NA
-Australia,2013,1A1A1,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A1A1,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A1A1,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A1A2,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A1A2,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A1A2,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A1A3,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A1A3,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A1A3,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
+Australia,2013,1A1A1,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A1A1,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A1A1,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A1A2,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A1A2,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A1A2,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A1A3,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A1A3,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A1A3,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
 Australia,2013,1A1B,Coal,NA,NA,NA,NA,NA
 Australia,2013,1A1B,Natural gas,NA,NA,NA,NA,NA
 Australia,2013,1A1B,Oil,NA,NA,NA,NA,NA
@@ -7526,279 +7184,45 @@ Australia,2013,1A1C,Oil,NA,NA,NA,NA,NA
 Australia,2013,1A2,Coal,NA,NA,NA,NA,NA
 Australia,2013,1A2,Natural gas,NA,NA,NA,NA,NA
 Australia,2013,1A2,Oil,NA,NA,NA,NA,NA
-Australia,2013,1A2A,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2A,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2A,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2B,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2B,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2B,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2C,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2C,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2C,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2D,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2D,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2D,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2E,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2E,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2E,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2F,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2F,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2F,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2G,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2G,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2G,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2H,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2H,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2H,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2I,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2I,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2I,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2J,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2J,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2J,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2K,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2K,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2K,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2L,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2L,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2L,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2M,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2M,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
-Australia,2013,1A2M,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1374    web(AU-CER[2015])
-1375    web(AU-CER[2015])
-1376    web(AU-CER[2015])
-Name: source, dtype: object; 1374    
-1375    
-1376    
-Name: comment, dtype: object",NA,NA
+Australia,2013,1A2A,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2A,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2A,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2B,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2B,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2B,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2C,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2C,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2C,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2D,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2D,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2D,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2E,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2E,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2E,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2F,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2F,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2F,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2G,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2G,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2G,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2H,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2H,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2H,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2I,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2I,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2I,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2J,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2J,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2J,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2K,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2K,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2K,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2L,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2L,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2L,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2M,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2M,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
+Australia,2013,1A2M,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,web(AU-CER[2015]); ,NA,NA
 Australia,2013,1A3,Coal,NA,NA,NA,NA,NA
 Australia,2013,1A3,Natural gas,NA,NA,NA,NA,NA
 Australia,2013,1A3,Oil,NA,NA,NA,NA,NA
@@ -8040,69 +7464,15 @@ Australia,2014,1A1,Oil,NA,NA,NA,NA,NA
 Australia,2014,1A1A,Coal,NA,NA,NA,NA,NA
 Australia,2014,1A1A,Natural gas,NA,NA,NA,NA,NA
 Australia,2014,1A1A,Oil,NA,NA,NA,NA,NA
-Australia,2014,1A1A1,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A1A1,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A1A1,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A1A2,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A1A2,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A1A2,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A1A3,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A1A3,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A1A3,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
+Australia,2014,1A1A1,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A1A1,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A1A1,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A1A2,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A1A2,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A1A2,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A1A3,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A1A3,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A1A3,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
 Australia,2014,1A1B,Coal,NA,NA,NA,NA,NA
 Australia,2014,1A1B,Natural gas,NA,NA,NA,NA,NA
 Australia,2014,1A1B,Oil,NA,NA,NA,NA,NA
@@ -8112,279 +7482,45 @@ Australia,2014,1A1C,Oil,NA,NA,NA,NA,NA
 Australia,2014,1A2,Coal,NA,NA,NA,NA,NA
 Australia,2014,1A2,Natural gas,NA,NA,NA,NA,NA
 Australia,2014,1A2,Oil,NA,NA,NA,NA,NA
-Australia,2014,1A2A,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2A,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2A,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2B,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2B,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2B,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2C,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2C,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2C,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2D,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2D,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2D,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2E,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2E,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2E,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2F,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2F,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2F,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2G,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2G,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2G,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2H,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2H,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2H,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2I,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2I,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2I,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2J,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2J,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2J,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2K,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2K,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2K,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2L,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2L,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2L,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2M,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2M,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
-Australia,2014,1A2M,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"1377    web(AU-CER[2015])
-1378    web(AU-CER[2015])
-1379    web(AU-CER[2015])
-Name: source, dtype: object; 1377    Scheme terminated on July 1, 2014.
-1378    Scheme terminated on July 1, 2014.
-1379    Scheme terminated on July 1, 2014.
-Name: comment, dtype: object",NA,NA
+Australia,2014,1A2A,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2A,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2A,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2B,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2B,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2B,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2C,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2C,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2C,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2D,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2D,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2D,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2E,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2E,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2E,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2F,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2F,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2F,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2G,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2G,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2G,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2H,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2H,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2H,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2I,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2I,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2I,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2J,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2J,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2J,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2K,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2K,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2K,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2L,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2L,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2L,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2M,Coal,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2M,Natural gas,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
+Australia,2014,1A2M,Oil,"leg(AU-NGER[2011]),db(AU-CER-LEPID[2013])",NA,"web(AU-CER[2015]); Scheme terminated on July 1, 2014.",NA,NA
 Australia,2014,1A3,Coal,NA,NA,NA,NA,NA
 Australia,2014,1A3,Natural gas,NA,NA,NA,NA,NA
 Australia,2014,1A3,Oil,NA,NA,NA,NA,NA

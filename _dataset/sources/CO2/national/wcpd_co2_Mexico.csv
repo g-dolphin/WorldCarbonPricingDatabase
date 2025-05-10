@@ -7464,255 +7464,63 @@ Mexico,2014,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2014,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2014,1A1A1,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A1A1,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A1A1,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A1A1,Oil,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2014,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2014,1A1B,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A1B,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A1B,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A1C,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A1B,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A1C,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A1C,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A1C,Oil,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2014,1A2A,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2A,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2A,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2B,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2A,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2B,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2B,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2C,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2B,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2C,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2C,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2D,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2C,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2D,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2D,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2E,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2D,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2E,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2E,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2F,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2E,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2F,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2F,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2G,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2F,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2G,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2G,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2H,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2G,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2H,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2H,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2I,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2H,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2I,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2I,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2J,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2I,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2J,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2J,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2K,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2J,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2K,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2K,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2L,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2K,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2L,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2L,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A2M,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2L,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A2M,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A2M,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A2M,Oil,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A3,Oil,NA,NA,NA,NA,NA
@@ -7722,36 +7530,12 @@ Mexico,2014,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2014,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2014,1A3A2,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A3A2,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A3A2,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
-Mexico,2014,1A3B,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A3A2,Oil,leg(LIEP[2012]),NA,; ,NA,NA
+Mexico,2014,1A3B,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A3B,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A3B,Oil,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A3C,Oil,NA,NA,NA,NA,NA
@@ -7776,39 +7560,15 @@ Mexico,2014,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2014,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2014,1A4B,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A4B,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A4B,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A4B,Oil,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2014,1A4C1,Coal,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A4C1,Coal,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2014,1A4C1,Oil,leg(LIEP[2012]),NA,"933    
-934    
-935    
-Name: source, dtype: object; 933    
-934    
-935    
-Name: comment, dtype: object",NA,NA
+Mexico,2014,1A4C1,Oil,leg(LIEP[2012]),NA,; ,NA,NA
 Mexico,2014,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2014,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2014,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -8002,255 +7762,63 @@ Mexico,2015,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2015,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2015,1A1A1,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A1A1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A1A1,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A1A1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2015,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2015,1A1B,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A1B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A1B,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A1C,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A1B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A1C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A1C,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A1C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2015,1A2A,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2A,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2A,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2B,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2A,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2B,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2C,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2C,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2D,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2D,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2D,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2E,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2D,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2E,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2E,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2F,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2E,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2F,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2G,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2G,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2G,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2H,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2G,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2H,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2I,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2I,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2I,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2J,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2I,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2J,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2K,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2K,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2L,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2L,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A2M,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A2M,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A3,Oil,NA,NA,NA,NA,NA
@@ -8260,36 +7828,12 @@ Mexico,2015,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2015,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2015,1A3A2,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A3A2,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
-Mexico,2015,1A3B,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2015,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A3B,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8314,39 +7858,15 @@ Mexico,2015,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2015,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2015,1A4B,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A4B,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2015,1A4C1,Coal,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2015,1A4C1,Oil,leg(LIEP[2012]),NA,"936    leg(LIEP[2020])
-937    leg(LIEP[2020])
-938    leg(LIEP[2020])
-Name: source, dtype: object; 936    
-937    
-938    
-Name: comment, dtype: object",NA,NA
+Mexico,2015,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2015,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2015,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2015,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -8540,255 +8060,63 @@ Mexico,2016,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2016,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2016,1A1A1,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A1A1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A1A1,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A1A1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2016,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2016,1A1B,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A1B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A1B,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A1C,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A1B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A1C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A1C,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A1C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2016,1A2A,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2A,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2A,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2B,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2A,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2B,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2C,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2C,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2D,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2D,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2D,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2E,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2D,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2E,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2E,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2F,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2E,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2F,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2G,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2G,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2G,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2H,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2G,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2H,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2I,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2I,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2I,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2J,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2I,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2J,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2K,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2K,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2L,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2L,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A2M,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A2M,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A3,Oil,NA,NA,NA,NA,NA
@@ -8798,36 +8126,12 @@ Mexico,2016,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2016,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2016,1A3A2,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A3A2,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
-Mexico,2016,1A3B,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2016,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A3B,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8852,39 +8156,15 @@ Mexico,2016,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2016,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2016,1A4B,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A4B,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2016,1A4C1,Coal,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2016,1A4C1,Oil,leg(LIEP[2012]),NA,"939    leg(LIEP[2020])
-940    leg(LIEP[2020])
-941    leg(LIEP[2020])
-Name: source, dtype: object; 939    
-940    
-941    
-Name: comment, dtype: object",NA,NA
+Mexico,2016,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2016,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2016,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2016,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -9078,255 +8358,63 @@ Mexico,2017,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2017,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2017,1A1A1,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A1A1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A1A1,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A1A1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2017,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2017,1A1B,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A1B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A1B,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A1C,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A1B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A1C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A1C,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A1C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2017,1A2A,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2A,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2A,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2B,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2A,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2B,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2C,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2C,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2D,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2D,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2D,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2E,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2D,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2E,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2E,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2F,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2E,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2F,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2G,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2G,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2G,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2H,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2G,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2H,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2I,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2I,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2I,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2J,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2I,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2J,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2K,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2K,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2L,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2L,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A2M,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A2M,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A3,Oil,NA,NA,NA,NA,NA
@@ -9336,36 +8424,12 @@ Mexico,2017,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2017,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2017,1A3A2,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A3A2,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
-Mexico,2017,1A3B,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2017,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A3B,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9390,39 +8454,15 @@ Mexico,2017,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2017,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2017,1A4B,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A4B,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2017,1A4C1,Coal,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2017,1A4C1,Oil,leg(LIEP[2012]),NA,"942    leg(LIEP[2020])
-943    leg(LIEP[2020])
-944    leg(LIEP[2020])
-Name: source, dtype: object; 942    
-943    
-944    
-Name: comment, dtype: object",NA,NA
+Mexico,2017,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2017,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2017,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2017,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -9616,255 +8656,63 @@ Mexico,2018,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2018,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2018,1A1A1,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A1A1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A1A1,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A1A1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2018,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2018,1A1B,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A1B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A1B,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A1C,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A1B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A1C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A1C,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A1C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2018,1A2A,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2A,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2A,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2B,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2A,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2B,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2C,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2C,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2D,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2D,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2D,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2E,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2D,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2E,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2E,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2F,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2E,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2F,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2G,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2G,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2G,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2H,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2G,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2H,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2I,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2I,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2I,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2J,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2I,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2J,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2K,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2K,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2L,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2L,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A2M,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A2M,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A3,Oil,NA,NA,NA,NA,NA
@@ -9874,36 +8722,12 @@ Mexico,2018,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2018,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2018,1A3A2,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A3A2,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
-Mexico,2018,1A3B,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2018,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A3B,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9928,39 +8752,15 @@ Mexico,2018,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2018,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2018,1A4B,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A4B,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2018,1A4C1,Coal,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2018,1A4C1,Oil,leg(LIEP[2012]),NA,"945    leg(LIEP[2020])
-946    leg(LIEP[2020])
-947    leg(LIEP[2020])
-Name: source, dtype: object; 945    
-946    
-947    
-Name: comment, dtype: object",NA,NA
+Mexico,2018,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2018,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2018,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2018,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -10154,255 +8954,63 @@ Mexico,2019,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2019,1A1A1,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A1A1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A1A1,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A1A1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2019,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2019,1A1B,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A1B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A1B,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A1C,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A1B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A1C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A1C,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A1C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2019,1A2A,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2A,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2A,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2B,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2A,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2B,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2C,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2C,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2D,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2D,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2D,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2E,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2D,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2E,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2E,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2F,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2E,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2F,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2G,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2G,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2G,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2H,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2G,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2H,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2I,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2I,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2I,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2J,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2I,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2J,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2K,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2K,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2L,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2L,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A2M,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A2M,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A3,Oil,NA,NA,NA,NA,NA
@@ -10412,36 +9020,12 @@ Mexico,2019,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2019,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2019,1A3A2,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A3A2,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
-Mexico,2019,1A3B,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2019,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A3B,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A3C,Oil,NA,NA,NA,NA,NA
@@ -10466,39 +9050,15 @@ Mexico,2019,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2019,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2019,1A4B,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A4B,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2019,1A4C1,Coal,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2019,1A4C1,Oil,leg(LIEP[2012]),NA,"948    leg(LIEP[2020])
-949    leg(LIEP[2020])
-950    leg(LIEP[2020])
-Name: source, dtype: object; 948    
-949    
-950    
-Name: comment, dtype: object",NA,NA
+Mexico,2019,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2019,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2019,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2019,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -10692,255 +9252,63 @@ Mexico,2020,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2020,1A1A1,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A1A1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A1A1,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A1A1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2020,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2020,1A1B,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A1B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A1B,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A1C,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A1B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A1C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A1C,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A1C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2020,1A2A,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2A,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2A,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2B,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2A,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2B,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2C,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2C,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2D,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2D,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2D,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2E,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2D,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2E,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2E,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2F,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2E,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2F,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2G,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2G,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2G,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2H,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2G,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2H,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2I,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2I,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2I,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2J,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2I,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2J,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2K,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2K,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2L,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2L,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A2M,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A2M,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A3,Oil,NA,NA,NA,NA,NA
@@ -10950,36 +9318,12 @@ Mexico,2020,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2020,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2020,1A3A2,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A3A2,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
-Mexico,2020,1A3B,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2020,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A3B,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A3C,Oil,NA,NA,NA,NA,NA
@@ -11004,39 +9348,15 @@ Mexico,2020,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2020,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2020,1A4B,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A4B,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2020,1A4C1,Coal,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2020,1A4C1,Oil,leg(LIEP[2012]),NA,"951    leg(LIEP[2020])
-952    leg(LIEP[2020])
-953    leg(LIEP[2020])
-Name: source, dtype: object; 951    
-952    
-953    
-Name: comment, dtype: object",NA,NA
+Mexico,2020,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2020,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2020,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2020,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -11230,255 +9550,63 @@ Mexico,2021,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A1A1,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1A1,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A1A1,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A1A1,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1A1,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2021,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A1B,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1B,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A1B,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A1B,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A1C,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1B,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1C,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A1C,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A1C,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A1C,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A2A,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2A,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2A,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2A,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2B,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2A,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2B,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2B,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2B,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2C,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2B,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2C,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2C,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2C,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2D,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2C,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2D,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2D,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2D,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2E,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2D,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2E,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2E,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2E,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2F,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A2E,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A2F,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
-Mexico,2021,1A2G,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A2G,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2G,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2G,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2H,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A2G,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A2H,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
-Mexico,2021,1A2I,Coal,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A2I,Coal,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
 Mexico,2021,1A2I,Natural gas,NA,leg(MX[2019]),NA,NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2I,Oil,leg(LIEP[2012]),leg(MX[2019]),"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,report(ICAP - MX[2021]); -
-Mexico,2021,1A2J,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A2I,Oil,leg(LIEP[2012]),leg(MX[2019]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2021]); -
+Mexico,2021,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A2J,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
-Mexico,2021,1A2K,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A2K,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
-Mexico,2021,1A2L,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A2L,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
-Mexico,2021,1A2M,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A2M,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -11488,36 +9616,12 @@ Mexico,2021,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2021,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A3A2,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A3A2,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
-Mexico,2021,1A3B,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2021,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A3B,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A3C,Oil,NA,NA,NA,NA,NA
@@ -11542,39 +9646,15 @@ Mexico,2021,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2021,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A4B,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A4B,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2021,1A4C1,Coal,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2021,1A4C1,Oil,leg(LIEP[2012]),NA,"954    leg(LIEP[2020])
-955    leg(LIEP[2020])
-956    leg(LIEP[2020])
-Name: source, dtype: object; 954    
-955    
-956    
-Name: comment, dtype: object",NA,NA
+Mexico,2021,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2021,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2021,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2021,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -11768,255 +9848,63 @@ Mexico,2022,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A1A1,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1A1,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A1A1,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A1A1,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1A1,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2022,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A1B,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1B,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A1B,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A1B,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A1C,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1B,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1C,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A1C,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A1C,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A1C,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A2A,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2A,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2A,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2A,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2B,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2A,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2B,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2B,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2B,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2C,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2B,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2C,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2C,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2C,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2D,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2C,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2D,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2D,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2D,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2E,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2D,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2E,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2E,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2E,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2F,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A2E,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2F,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
-Mexico,2022,1A2G,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2G,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2G,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2G,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2H,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A2G,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2H,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
-Mexico,2022,1A2I,Coal,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2I,Coal,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
 Mexico,2022,1A2I,Natural gas,NA,report(ICAP[2023]),NA,NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2I,Oil,leg(LIEP[2012]),report(ICAP[2023]),"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,report(ICAP - MX[2022]); -
-Mexico,2022,1A2J,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A2I,Oil,leg(LIEP[2012]),report(ICAP[2023]),leg(LIEP[2020]); ,NA,report(ICAP - MX[2022]); -
+Mexico,2022,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2J,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
-Mexico,2022,1A2K,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2K,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
-Mexico,2022,1A2L,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2L,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
-Mexico,2022,1A2M,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A2M,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -12026,36 +9914,12 @@ Mexico,2022,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2022,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A3A2,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A3A2,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
-Mexico,2022,1A3B,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2022,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A3B,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -12080,39 +9944,15 @@ Mexico,2022,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2022,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A4B,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A4B,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2022,1A4C1,Coal,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2022,1A4C1,Oil,leg(LIEP[2012]),NA,"957    leg(LIEP[2020])
-958    leg(LIEP[2020])
-959    leg(LIEP[2020])
-Name: source, dtype: object; 957    
-958    
-959    
-Name: comment, dtype: object",NA,NA
+Mexico,2022,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2022,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2022,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -12306,255 +10146,63 @@ Mexico,2023,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2023,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2023,1A1A1,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A1A1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A1A1,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A1A1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2023,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2023,1A1B,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A1B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A1B,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A1C,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A1B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A1C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A1C,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A1C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2023,1A2A,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2A,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2A,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2B,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2A,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2B,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2C,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2C,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2D,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2D,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2D,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2E,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2D,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2E,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2E,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2F,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2E,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2F,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2G,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2G,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2G,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2H,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2G,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2H,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2I,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2I,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2I,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2J,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2I,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2J,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2K,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2K,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2L,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2L,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A2M,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A2M,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -12564,36 +10212,12 @@ Mexico,2023,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2023,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2023,1A3A2,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A3A2,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
-Mexico,2023,1A3B,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2023,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A3B,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A3C,Oil,NA,NA,NA,NA,NA
@@ -12618,39 +10242,15 @@ Mexico,2023,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2023,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2023,1A4B,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A4B,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2023,1A4C1,Coal,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2023,1A4C1,Oil,leg(LIEP[2012]),NA,"960    leg(LIEP[2020])
-961    leg(LIEP[2020])
-962    leg(LIEP[2020])
-Name: source, dtype: object; 960    
-961    
-962    
-Name: comment, dtype: object",NA,NA
+Mexico,2023,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2023,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2023,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2023,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -12844,255 +10444,63 @@ Mexico,2024,1A1,Oil,NA,NA,NA,NA,NA
 Mexico,2024,1A1A,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A1A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A1A,Oil,NA,NA,NA,NA,NA
-Mexico,2024,1A1A1,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A1A1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A1A1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A1A1,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A1A1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A1A2,Oil,NA,NA,NA,NA,NA
 Mexico,2024,1A1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A1A3,Oil,NA,NA,NA,NA,NA
-Mexico,2024,1A1B,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A1B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A1B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A1B,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A1C,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A1B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A1C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A1C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A1C,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A1C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A2,Oil,NA,NA,NA,NA,NA
-Mexico,2024,1A2A,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2A,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2A,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2A,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2B,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2A,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2B,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2C,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2C,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2C,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2C,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2D,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2C,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2D,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2D,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2D,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2E,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2D,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2E,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2E,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2E,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2F,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2E,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2F,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2F,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2F,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2G,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2F,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2G,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2G,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2G,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2H,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2G,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2H,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2H,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2H,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2I,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2H,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2I,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2I,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2I,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2J,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2I,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2J,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2J,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2J,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2K,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2J,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2K,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2K,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2K,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2L,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2K,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2L,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2L,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2L,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A2M,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2L,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A2M,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A2M,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A2M,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A2M,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A3,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A3,Oil,NA,NA,NA,NA,NA
@@ -13102,36 +10510,12 @@ Mexico,2024,1A3A,Oil,NA,NA,NA,NA,NA
 Mexico,2024,1A3A1,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A3A1,Oil,NA,NA,NA,NA,NA
-Mexico,2024,1A3A2,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A3A2,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A3A2,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A3A2,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
-Mexico,2024,1A3B,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A3A2,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
+Mexico,2024,1A3B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A3B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A3B,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A3B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A3C,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A3C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A3C,Oil,NA,NA,NA,NA,NA
@@ -13156,39 +10540,15 @@ Mexico,2024,1A4,Oil,NA,NA,NA,NA,NA
 Mexico,2024,1A4A,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A4A,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A4A,Oil,NA,NA,NA,NA,NA
-Mexico,2024,1A4B,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A4B,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A4B,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A4B,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A4B,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A4C,Oil,NA,NA,NA,NA,NA
-Mexico,2024,1A4C1,Coal,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A4C1,Coal,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Mexico,2024,1A4C1,Oil,leg(LIEP[2012]),NA,"963    leg(LIEP[2020])
-964    leg(LIEP[2020])
-965    leg(LIEP[2020])
-Name: source, dtype: object; 963    
-964    
-965    
-Name: comment, dtype: object",NA,NA
+Mexico,2024,1A4C1,Oil,leg(LIEP[2012]),NA,leg(LIEP[2020]); ,NA,NA
 Mexico,2024,1A4C2,Coal,NA,NA,NA,NA,NA
 Mexico,2024,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Mexico,2024,1A4C2,Oil,NA,NA,NA,NA,NA
