@@ -8960,69 +8960,15 @@ New Brunswick,2019,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IE
 New Brunswick,2019,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 New Brunswick,2019,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 New Brunswick,2019,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2019,1A1A3,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A1A3,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A1A3,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A1B,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A1B,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A1B,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A1C,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A1C,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A1C,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2019,1A1A3,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A1A3,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A1A3,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A1B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A1B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A1B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A1C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A1C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A1C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 New Brunswick,2019,1A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2019,1A2,Oil,NA,NA,NA,NA,NA
@@ -9044,135 +8990,27 @@ New Brunswick,2019,1A2E,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IET
 New Brunswick,2019,1A2F,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 New Brunswick,2019,1A2F,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 New Brunswick,2019,1A2F,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2019,1A2G,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2G,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2G,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2H,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2H,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2H,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2019,1A2G,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2G,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2G,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2H,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2H,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2H,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 New Brunswick,2019,1A2I,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 New Brunswick,2019,1A2I,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 New Brunswick,2019,1A2I,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2019,1A2J,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2J,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2J,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2K,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2K,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2K,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2L,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2L,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2L,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2M,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2M,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A2M,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2019,1A2J,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2J,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2J,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2K,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2K,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2K,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2L,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2L,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2L,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2M,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2M,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A2M,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 New Brunswick,2019,1A3,Coal,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3,Oil,NA,NA,NA,NA,NA
@@ -9182,183 +9020,39 @@ New Brunswick,2019,1A3A,Oil,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3A1,Coal,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3A1,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3A1,Oil,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3A2,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3A2,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3A2,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3B,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3B,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3B,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3C,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3C,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3C,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2019,1A3A2,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3A2,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3A2,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 New Brunswick,2019,1A3D,Coal,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3D,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3D,Oil,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3D1,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3D1,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3D1,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3D2,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3D2,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3D2,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2019,1A3D1,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3D1,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3D1,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3D2,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3D2,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3D2,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 New Brunswick,2019,1A3E,Coal,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3E,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3E,Oil,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3E1,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3E1,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A3E1,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2019,1A3E1,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3E1,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A3E1,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 New Brunswick,2019,1A4,Coal,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4,Oil,NA,NA,NA,NA,NA
-New Brunswick,2019,1A4A,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A4A,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A4A,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A4B,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A4B,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A4B,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2019,1A4A,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A4A,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A4A,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A4B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A4B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A4B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 New Brunswick,2019,1A4C,Coal,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9374,69 +9068,15 @@ New Brunswick,2019,1A4C3,Oil,NA,NA,NA,NA,NA
 New Brunswick,2019,1A5,Coal,NA,NA,NA,NA,NA
 New Brunswick,2019,1A5,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2019,1A5,Oil,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5A,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A5A,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A5A,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A5B,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A5B,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A5B,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A5C,Coal,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A5C,Natural gas,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2019,1A5C,Oil,gvt(ECCC[2019]),NA,"798    gvt(ECCC[2019])
-804    gvt(ECCC[2019])
-810    gvt(ECCC[2019])
-Name: source, dtype: object; 798    
-804    
-810    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2019,1A5A,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A5A,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A5A,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A5B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A5B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A5B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A5C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A5C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+New Brunswick,2019,1A5C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 New Brunswick,2019,1B,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 New Brunswick,2019,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
@@ -9612,111 +9252,21 @@ New Brunswick,2020,1A1,Oil,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Coal,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Oil,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2020,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2020,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2020,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2020,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2020,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-New Brunswick,2020,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2020,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+New Brunswick,2020,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+New Brunswick,2020,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+New Brunswick,2020,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+New Brunswick,2020,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+New Brunswick,2020,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
+New Brunswick,2020,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2020,1A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2020,1A2,Oil,NA,NA,NA,NA,NA
@@ -9771,162 +9321,36 @@ New Brunswick,2020,1A3A1,Oil,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Oil,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2020,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2020,1A3D,Coal,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3D,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3D,Oil,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2020,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2020,1A3E,Coal,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3E,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3E,Oil,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2020,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2020,1A4,Coal,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4,Oil,NA,NA,NA,NA,NA
-New Brunswick,2020,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2020,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2020,1A4C,Coal,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9942,69 +9366,15 @@ New Brunswick,2020,1A4C3,Oil,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Coal,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Oil,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2020,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"537    web(NB[2021])
-538    web(NB[2021])
-539    web(NB[2021])
-Name: source, dtype: object; 537    
-538    
-539    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2020,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2020,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2020,1B,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 New Brunswick,2020,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
@@ -10180,111 +9550,21 @@ New Brunswick,2021,1A1,Oil,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Coal,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Oil,NA,NA,NA,NA,NA
-New Brunswick,2021,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
-New Brunswick,2021,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2021,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022
+New Brunswick,2021,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2021,1A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2021,1A2,Oil,NA,NA,NA,NA,NA
@@ -10339,162 +9619,36 @@ New Brunswick,2021,1A3A1,Oil,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Oil,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2021,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2021,1A3D,Coal,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3D,Oil,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2021,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2021,1A3E,Coal,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3E,Oil,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2021,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2021,1A4,Coal,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4,Oil,NA,NA,NA,NA,NA
-New Brunswick,2021,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2021,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2021,1A4C,Coal,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4C,Oil,NA,NA,NA,NA,NA
@@ -10510,69 +9664,15 @@ New Brunswick,2021,1A4C3,Oil,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Coal,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Oil,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2021,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"540    web(NB[2021])
-541    web(NB[2021])
-542    web(NB[2021])
-Name: source, dtype: object; 540    
-541    
-542    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2021,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
+New Brunswick,2021,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA
 New Brunswick,2021,1B,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1B1,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1B1A,NA,NA,NA,NA,NA,NA
@@ -10748,111 +9848,21 @@ New Brunswick,2022,1A1,Oil,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Coal,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Oil,NA,NA,NA,NA,NA
-New Brunswick,2022,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,report(ECCC[2020]); -
-New Brunswick,2022,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2022,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -
+New Brunswick,2022,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
 New Brunswick,2022,1A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -10907,162 +9917,36 @@ New Brunswick,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2022,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
 New Brunswick,2022,1A3D,Coal,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3D,Oil,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2022,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
 New Brunswick,2022,1A3E,Coal,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3E,Oil,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2022,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
 New Brunswick,2022,1A4,Coal,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4,Oil,NA,NA,NA,NA,NA
-New Brunswick,2022,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2022,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
 New Brunswick,2022,1A4C,Coal,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4C,Oil,NA,NA,NA,NA,NA
@@ -11078,69 +9962,15 @@ New Brunswick,2022,1A4C3,Oil,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Coal,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Oil,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2022,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,"543    report(ECCC[2020])
-544    report(ECCC[2020])
-545    report(ECCC[2020])
-Name: source, dtype: object; 543    
-544    
-545    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2022,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
+New Brunswick,2022,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA
 New Brunswick,2022,1B,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1B1,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1B1A,NA,NA,NA,NA,NA,NA
@@ -11322,69 +10152,15 @@ New Brunswick,2023,1A1A1,Oil,NA, ,NA,NA,-; -
 New Brunswick,2023,1A1A2,Coal,NA, ,NA,NA,-; -
 New Brunswick,2023,1A1A2,Natural gas,NA, ,NA,NA,-; -
 New Brunswick,2023,1A1A2,Oil,NA, ,NA,NA,-; -
-New Brunswick,2023,1A1A3,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A1A3,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A1A3,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A1B,Coal, , ,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2023,1A1B,Natural gas, , ,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2023,1A1B,Oil, , ,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2023,1A1C,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A1C,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A1C,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2023,1A1A3,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A1A3,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A1A3,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A1B,Coal, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2023,1A1B,Natural gas, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2023,1A1B,Oil, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2023,1A1C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A1C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A1C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2023,1A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2,Oil,NA,NA,NA,NA,NA
@@ -11406,135 +10182,27 @@ New Brunswick,2023,1A2E,Oil,NA, ,NA,NA,-; -
 New Brunswick,2023,1A2F,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2F,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2F,Oil,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2G,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2G,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2G,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2H,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2H,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2H,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2023,1A2G,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2G,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2G,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2H,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2H,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2H,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2023,1A2I,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2I,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2I,Oil,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2J,Coal, , ,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2023,1A2J,Natural gas, , ,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2023,1A2J,Oil, , ,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2023,1A2K,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2K,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2K,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2L,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2L,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2L,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2M,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2M,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A2M,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2023,1A2J,Coal, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2023,1A2J,Natural gas, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2023,1A2J,Oil, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2023,1A2K,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2K,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2K,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2L,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2L,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2L,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2M,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2M,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A2M,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2023,1A3,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -11544,183 +10212,39 @@ New Brunswick,2023,1A3A,Oil,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3A1,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3A1,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3A1,Oil,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3A2,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3A2,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3A2,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3B,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3B,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3B,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3C,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3C,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3C,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2023,1A3A2,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3A2,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3A2,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2023,1A3D,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3D,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3D,Oil,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3D1,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3D1,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3D1,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3D2,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3D2,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3D2,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2023,1A3D1,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3D1,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3D1,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3D2,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3D2,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3D2,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2023,1A3E,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3E,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3E,Oil,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3E1,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3E1,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A3E1,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2023,1A3E1,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3E1,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A3E1,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2023,1A4,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4,Oil,NA,NA,NA,NA,NA
-New Brunswick,2023,1A4A,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A4A,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A4A,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A4B,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A4B,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A4B,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2023,1A4A,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A4A,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A4A,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A4B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A4B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A4B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2023,1A4C,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4C,Oil,NA,NA,NA,NA,NA
@@ -11736,69 +10260,15 @@ New Brunswick,2023,1A4C3,Oil,NA,NA,NA,NA,NA
 New Brunswick,2023,1A5,Coal,NA,NA,NA,NA,NA
 New Brunswick,2023,1A5,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2023,1A5,Oil,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5A,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A5A,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A5A,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A5B,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A5B,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A5B,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A5C,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A5C,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2023,1A5C,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2023,1A5A,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A5A,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A5A,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A5B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A5B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A5B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A5C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A5C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2023,1A5C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2023,1B,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1B1,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1B1A,NA,NA,NA,NA,NA,NA
@@ -11980,69 +10450,15 @@ New Brunswick,2024,1A1A1,Oil,NA, ,NA,NA,-; -
 New Brunswick,2024,1A1A2,Coal,NA, ,NA,NA,-; -
 New Brunswick,2024,1A1A2,Natural gas,NA, ,NA,NA,-; -
 New Brunswick,2024,1A1A2,Oil,NA, ,NA,NA,-; -
-New Brunswick,2024,1A1A3,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A1A3,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A1A3,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A1B,Coal, , ,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2024,1A1B,Natural gas, , ,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2024,1A1B,Oil, , ,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2024,1A1C,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A1C,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A1C,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2024,1A1A3,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A1A3,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A1A3,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A1B,Coal, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2024,1A1B,Natural gas, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2024,1A1B,Oil, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2024,1A1C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A1C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A1C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2024,1A2,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2,Oil,NA,NA,NA,NA,NA
@@ -12064,135 +10480,27 @@ New Brunswick,2024,1A2E,Oil,NA, ,NA,NA,-; -
 New Brunswick,2024,1A2F,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2F,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2F,Oil,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2G,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2G,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2G,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2H,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2H,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2H,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2024,1A2G,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2G,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2G,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2H,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2H,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2H,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2024,1A2I,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2I,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2I,Oil,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2J,Coal, , ,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2024,1A2J,Natural gas, , ,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2024,1A2J,Oil, , ,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,-; -
-New Brunswick,2024,1A2K,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2K,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2K,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2L,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2L,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2L,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2M,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2M,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A2M,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2024,1A2J,Coal, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2024,1A2J,Natural gas, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2024,1A2J,Oil, , ,db(WBCPD[2024]); ,NA,-; -
+New Brunswick,2024,1A2K,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2K,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2K,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2L,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2L,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2L,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2M,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2M,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A2M,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2024,1A3,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3,Oil,NA,NA,NA,NA,NA
@@ -12202,183 +10510,39 @@ New Brunswick,2024,1A3A,Oil,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3A1,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3A1,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3A1,Oil,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3A2,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3A2,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3A2,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3B,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3B,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3B,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3C,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3C,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3C,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2024,1A3A2,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3A2,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3A2,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2024,1A3D,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3D,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3D,Oil,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3D1,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3D1,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3D1,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3D2,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3D2,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3D2,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2024,1A3D1,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3D1,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3D1,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3D2,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3D2,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3D2,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2024,1A3E,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3E,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3E,Oil,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3E1,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3E1,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A3E1,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2024,1A3E1,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3E1,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A3E1,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2024,1A4,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4,Oil,NA,NA,NA,NA,NA
-New Brunswick,2024,1A4A,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A4A,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A4A,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A4B,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A4B,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A4B,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2024,1A4A,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A4A,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A4A,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A4B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A4B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A4B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2024,1A4C,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4C,Oil,NA,NA,NA,NA,NA
@@ -12394,69 +10558,15 @@ New Brunswick,2024,1A4C3,Oil,NA,NA,NA,NA,NA
 New Brunswick,2024,1A5,Coal,NA,NA,NA,NA,NA
 New Brunswick,2024,1A5,Natural gas,NA,NA,NA,NA,NA
 New Brunswick,2024,1A5,Oil,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5A,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A5A,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A5A,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A5B,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A5B,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A5B,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A5C,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A5C,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-New Brunswick,2024,1A5C,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+New Brunswick,2024,1A5A,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A5A,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A5A,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A5B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A5B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A5B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A5C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A5C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+New Brunswick,2024,1A5C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 New Brunswick,2024,1B,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1B1,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1B1A,NA,NA,NA,NA,NA,NA

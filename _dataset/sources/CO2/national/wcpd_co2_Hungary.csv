@@ -10146,387 +10146,63 @@ Hungary,2023,1A1,Oil,NA,NA,NA,NA,NA
 Hungary,2023,1A1A,Coal,NA,NA,NA,NA,NA
 Hungary,2023,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hungary,2023,1A1A,Oil,NA,NA,NA,NA,NA
-Hungary,2023,1A1A1,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1A1,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1A1,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1A2,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1A2,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1A2,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1A3,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1A3,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1A3,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1B,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1B,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1B,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1C,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1C,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A1C,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A1,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A1,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A1,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A2,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A2,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A2,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A3,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A3,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1A3,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1B,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1B,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1B,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1C,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1C,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A1C,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Hungary,2023,1A2,Coal,NA,NA,NA,NA,NA
 Hungary,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Hungary,2023,1A2,Oil,NA,NA,NA,NA,NA
-Hungary,2023,1A2A,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2A,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2A,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2B,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2B,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2B,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2C,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2C,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2C,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2D,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2D,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2D,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2E,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2E,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2E,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2F,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2F,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2F,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2G,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2G,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2G,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2H,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2H,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2H,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2I,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2I,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2I,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2J,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2J,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2J,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2K,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2K,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2K,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2L,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2L,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2L,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2M,Coal, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2M,Natural gas, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2023,1A2M,Oil, , ,"882    
-884    
-886    
-Name: source, dtype: object; 882    
-884    
-886    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2A,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2A,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2A,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2B,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2B,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2B,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2C,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2C,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2C,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2D,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2D,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2D,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2E,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2E,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2E,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2F,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2F,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2F,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2G,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2G,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2G,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2H,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2H,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2H,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2I,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2I,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2I,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2J,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2J,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2J,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2K,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2K,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2K,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2L,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2L,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2L,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2M,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2M,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2023,1A2M,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Hungary,2023,1A3,Coal,NA,NA,NA,NA,NA
 Hungary,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 Hungary,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -10768,387 +10444,63 @@ Hungary,2024,1A1,Oil,NA,NA,NA,NA,NA
 Hungary,2024,1A1A,Coal,NA,NA,NA,NA,NA
 Hungary,2024,1A1A,Natural gas,NA,NA,NA,NA,NA
 Hungary,2024,1A1A,Oil,NA,NA,NA,NA,NA
-Hungary,2024,1A1A1,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1A1,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1A1,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1A2,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1A2,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1A2,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1A3,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1A3,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1A3,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1B,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1B,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1B,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1C,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1C,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A1C,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A1,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A1,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A1,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A2,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A2,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A2,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A3,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A3,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1A3,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1B,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1B,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1B,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1C,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1C,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A1C,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Hungary,2024,1A2,Coal,NA,NA,NA,NA,NA
 Hungary,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Hungary,2024,1A2,Oil,NA,NA,NA,NA,NA
-Hungary,2024,1A2A,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2A,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2A,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2B,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2B,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2B,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2C,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2C,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2C,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2D,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2D,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2D,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2E,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2E,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2E,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2F,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2F,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2F,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2G,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2G,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2G,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2H,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2H,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2H,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2I,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2I,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2I,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2J,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2J,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2J,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2K,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2K,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2K,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2L,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2L,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2L,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2M,Coal, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2M,Natural gas, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Hungary,2024,1A2M,Oil, , ,"883    
-885    
-887    
-Name: source, dtype: object; 883    
-885    
-887    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2A,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2A,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2A,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2B,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2B,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2B,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2C,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2C,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2C,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2D,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2D,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2D,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2E,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2E,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2E,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2F,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2F,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2F,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2G,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2G,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2G,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2H,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2H,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2H,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2I,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2I,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2I,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2J,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2J,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2J,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2K,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2K,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2K,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2L,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2L,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2L,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2M,Coal, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2M,Natural gas, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Hungary,2024,1A2M,Oil, , ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Hungary,2024,1A3,Coal,NA,NA,NA,NA,NA
 Hungary,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Hungary,2024,1A3,Oil,NA,NA,NA,NA,NA

@@ -9252,387 +9252,63 @@ Baja California,2020,1A1,Oil,NA,NA,NA,NA,NA
 Baja California,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Baja California,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Baja California,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Baja California,2020,1A1A1,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1A1,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1A1,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1A2,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1A2,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1A2,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1A3,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1A3,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1A3,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1B,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1B,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1B,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1C,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1C,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A1C,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
+Baja California,2020,1A1A1,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A1A1,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A1A1,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A1A2,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A1A2,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A1A2,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A1A3,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A1A3,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A1A3,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A1B,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A1B,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A1B,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A1C,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A1C,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A1C,Oil, ,NA,; ,NA,NA
 Baja California,2020,1A2,Coal,NA,NA,NA,NA,NA
 Baja California,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Baja California,2020,1A2,Oil,NA,NA,NA,NA,NA
-Baja California,2020,1A2A,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2A,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2A,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2B,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2B,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2B,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2C,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2C,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2C,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2D,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2D,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2D,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2E,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2E,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2E,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2F,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2F,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2F,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2G,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2G,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2G,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2H,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2H,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2H,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2I,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2I,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2I,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2J,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2J,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2J,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2K,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2K,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2K,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2L,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2L,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2L,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2M,Coal, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2M,Natural gas, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
-Baja California,2020,1A2M,Oil, ,NA,"1428    
-1429    
-1430    
-Name: source, dtype: object; 1428    
-1429    
-1430    
-Name: comment, dtype: object",NA,NA
+Baja California,2020,1A2A,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2A,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2A,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2B,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2B,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2B,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2C,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2C,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2C,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2D,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2D,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2D,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2E,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2E,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2E,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2F,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2F,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2F,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2G,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2G,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2G,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2H,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2H,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2H,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2I,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2I,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2I,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2J,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2J,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2J,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2K,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2K,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2K,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2L,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2L,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2L,Oil, ,NA,; ,NA,NA
+Baja California,2020,1A2M,Coal, ,NA,; ,NA,NA
+Baja California,2020,1A2M,Natural gas, ,NA,; ,NA,NA
+Baja California,2020,1A2M,Oil, ,NA,; ,NA,NA
 Baja California,2020,1A3,Coal,NA,NA,NA,NA,NA
 Baja California,2020,1A3,Natural gas,NA,NA,NA,NA,NA
 Baja California,2020,1A3,Oil,NA,NA,NA,NA,NA
@@ -9874,387 +9550,63 @@ Baja California,2021,1A1,Oil,NA,NA,NA,NA,NA
 Baja California,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Baja California,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Baja California,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Baja California,2021,1A1A1,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1A1,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1A1,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1A2,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1A2,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1A2,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1A3,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1A3,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1A3,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1B,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1B,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1B,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1C,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1C,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A1C,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
+Baja California,2021,1A1A1,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A1A1,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A1A1,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A1A2,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A1A2,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A1A2,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A1A3,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A1A3,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A1A3,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A1B,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A1B,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A1B,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A1C,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A1C,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A1C,Oil, ,NA,; ,NA,NA
 Baja California,2021,1A2,Coal,NA,NA,NA,NA,NA
 Baja California,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Baja California,2021,1A2,Oil,NA,NA,NA,NA,NA
-Baja California,2021,1A2A,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2A,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2A,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2B,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2B,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2B,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2C,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2C,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2C,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2D,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2D,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2D,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2E,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2E,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2E,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2F,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2F,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2F,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2G,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2G,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2G,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2H,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2H,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2H,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2I,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2I,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2I,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2J,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2J,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2J,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2K,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2K,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2K,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2L,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2L,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2L,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2M,Coal, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2M,Natural gas, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
-Baja California,2021,1A2M,Oil, ,NA,"1431    
-1432    
-1433    
-Name: source, dtype: object; 1431    
-1432    
-1433    
-Name: comment, dtype: object",NA,NA
+Baja California,2021,1A2A,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2A,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2A,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2B,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2B,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2B,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2C,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2C,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2C,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2D,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2D,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2D,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2E,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2E,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2E,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2F,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2F,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2F,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2G,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2G,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2G,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2H,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2H,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2H,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2I,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2I,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2I,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2J,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2J,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2J,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2K,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2K,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2K,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2L,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2L,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2L,Oil, ,NA,; ,NA,NA
+Baja California,2021,1A2M,Coal, ,NA,; ,NA,NA
+Baja California,2021,1A2M,Natural gas, ,NA,; ,NA,NA
+Baja California,2021,1A2M,Oil, ,NA,; ,NA,NA
 Baja California,2021,1A3,Coal,NA,NA,NA,NA,NA
 Baja California,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 Baja California,2021,1A3,Oil,NA,NA,NA,NA,NA

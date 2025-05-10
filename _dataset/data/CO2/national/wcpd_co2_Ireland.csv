@@ -6339,11 +6339,11 @@ Ireland,2010,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3A2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3A2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3A2,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3A2,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3B,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3B,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6351,32 +6351,32 @@ Ireland,2010,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3D1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3D1,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3D1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3D2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3D2,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3D2,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A3E1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3E1,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A3E1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A4A,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A4A,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A4B,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A4B,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2010,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A4C1,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2010,1A4C1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2010,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6637,11 +6637,11 @@ Ireland,2011,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3A2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3A2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3A2,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3A2,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3B,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3B,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6649,32 +6649,32 @@ Ireland,2011,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3D1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3D1,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3D1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3D2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3D2,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3D2,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A3E1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3E1,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A3E1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A4A,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A4A,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A4B,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A4B,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2011,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A4C1,Natural gas,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2011,1A4C1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2011,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6935,11 +6935,11 @@ Ireland,2012,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
-Ireland,2012,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,7.24,EUR,,,
-Ireland,2012,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,7.24,EUR,,,
+Ireland,2012,1A3A2,Natural gas,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,7.24,EUR,,,
+Ireland,2012,1A3A2,Oil,1.0,1.0,irl_tax,15.0,0.0,15.0,EUR,eu_ets,7.24,EUR,,,
 Ireland,2012,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A3B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A3B,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6947,32 +6947,32 @@ Ireland,2012,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3D1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A3D1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A3D1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3D2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A3D2,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A3D2,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A3E1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A3E1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A3E1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A4A,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A4A,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A4B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A4B,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2012,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A4C1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2012,1A4C1,Oil,1.0,0.0,irl_tax,15.0,0.0,15.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2012,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7232,45 +7232,45 @@ Ireland,2013,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,4.37,EUR,,,
-Ireland,2013,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,4.37,EUR,,,
-Ireland,2013,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,4.37,EUR,,,
-Ireland,2013,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3A2,Coal,1.0,1.0,irl_tax,10.0,0.0,10.0,EUR,eu_ets,4.37,EUR,,,
+Ireland,2013,1A3A2,Natural gas,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,4.37,EUR,,,
+Ireland,2013,1A3A2,Oil,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,4.37,EUR,,,
+Ireland,2013,1A3B,Coal,1.0,0.0,irl_tax,10.0,0.0,10.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3D1,Coal,1.0,0.0,irl_tax,10.0,0.0,10.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3D1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3D1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3D2,Coal,1.0,0.0,irl_tax,10.0,0.0,10.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3D2,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3D2,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3E1,Coal,1.0,0.0,irl_tax,10.0,0.0,10.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3E1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A3E1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4A,Coal,1.0,0.0,irl_tax,10.0,0.0,10.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4A,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4A,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4B,Coal,1.0,0.0,irl_tax,10.0,0.0,10.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2013,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4C1,Coal,1.0,0.0,irl_tax,10.0,0.0,10.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4C1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2013,1A4C1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2013,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7530,45 +7530,45 @@ Ireland,2014,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.91,EUR,,,
-Ireland,2014,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.91,EUR,,,
-Ireland,2014,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.91,EUR,,,
-Ireland,2014,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3A2,Coal,1.0,1.0,irl_tax,16.66,0.0,16.66,EUR,eu_ets,5.91,EUR,,,
+Ireland,2014,1A3A2,Natural gas,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,5.91,EUR,,,
+Ireland,2014,1A3A2,Oil,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,5.91,EUR,,,
+Ireland,2014,1A3B,Coal,1.0,0.0,irl_tax,16.66,0.0,16.66,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3D1,Coal,1.0,0.0,irl_tax,16.66,0.0,16.66,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3D1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3D1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3D2,Coal,1.0,0.0,irl_tax,16.66,0.0,16.66,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3D2,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3D2,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3E1,Coal,1.0,0.0,irl_tax,16.66,0.0,16.66,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3E1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A3E1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4A,Coal,1.0,0.0,irl_tax,16.66,0.0,16.66,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4A,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4A,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4B,Coal,1.0,0.0,irl_tax,16.66,0.0,16.66,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2014,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4C1,Coal,1.0,0.0,irl_tax,16.66,0.0,16.66,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4C1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2014,1A4C1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2014,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7829,11 +7829,11 @@ Ireland,2015,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
-Ireland,2015,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,7.62,EUR,,,
-Ireland,2015,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,7.62,EUR,,,
+Ireland,2015,1A3A2,Natural gas,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,7.62,EUR,,,
+Ireland,2015,1A3A2,Oil,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,7.62,EUR,,,
 Ireland,2015,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A3B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A3B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7841,32 +7841,32 @@ Ireland,2015,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3D1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A3D1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A3D1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3D2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A3D2,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A3D2,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A3E1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A3E1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A3E1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A4A,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A4A,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A4B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A4B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2015,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A4C1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2015,1A4C1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2015,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8126,45 +8126,45 @@ Ireland,2016,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.25,EUR,,,
-Ireland,2016,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.25,EUR,,,
-Ireland,2016,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.25,EUR,,,
-Ireland,2016,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3A2,Coal,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,5.25,EUR,,,
+Ireland,2016,1A3A2,Natural gas,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,5.25,EUR,,,
+Ireland,2016,1A3A2,Oil,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,5.25,EUR,,,
+Ireland,2016,1A3B,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3D1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3D1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3D1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3D2,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3D2,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3D2,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3E1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3E1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A3E1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4A,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4A,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4A,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4B,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2016,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4C1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4C1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2016,1A4C1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2016,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8424,45 +8424,45 @@ Ireland,2017,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.76,EUR,,,
-Ireland,2017,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.76,EUR,,,
-Ireland,2017,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,5.76,EUR,,,
-Ireland,2017,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3A2,Coal,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,5.76,EUR,,,
+Ireland,2017,1A3A2,Natural gas,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,5.76,EUR,,,
+Ireland,2017,1A3A2,Oil,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,5.76,EUR,,,
+Ireland,2017,1A3B,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3D1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3D1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3D1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3D2,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3D2,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3D2,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3E1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3E1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A3E1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4A,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4A,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4A,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4B,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2017,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4C1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4C1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2017,1A4C1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2017,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8722,45 +8722,45 @@ Ireland,2018,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,15.48,EUR,,,
-Ireland,2018,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,15.48,EUR,,,
-Ireland,2018,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,15.48,EUR,,,
-Ireland,2018,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3A2,Coal,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,15.48,EUR,,,
+Ireland,2018,1A3A2,Natural gas,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,15.48,EUR,,,
+Ireland,2018,1A3A2,Oil,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,15.48,EUR,,,
+Ireland,2018,1A3B,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3D1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3D1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3D1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3D2,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3D2,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3D2,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3E1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3E1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A3E1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4A,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4A,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4A,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4B,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2018,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4C1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4C1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2018,1A4C1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2018,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9020,45 +9020,45 @@ Ireland,2019,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,24.72,EUR,,,
-Ireland,2019,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,24.72,EUR,,,
-Ireland,2019,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,24.72,EUR,,,
-Ireland,2019,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3A2,Coal,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,24.72,EUR,,,
+Ireland,2019,1A3A2,Natural gas,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,24.72,EUR,,,
+Ireland,2019,1A3A2,Oil,1.0,1.0,irl_tax,20.0,0.0,20.0,EUR,eu_ets,24.72,EUR,,,
+Ireland,2019,1A3B,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3D1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3D1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3D1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3D2,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3D2,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3D2,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3E1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3E1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A3E1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4A,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4A,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4A,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4B,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4B,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4B,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2019,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4C1,Coal,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4C1,Natural gas,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2019,1A4C1,Oil,1.0,0.0,irl_tax,20.0,0.0,20.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2019,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9318,45 +9318,45 @@ Ireland,2020,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,24.39,EUR,,,
-Ireland,2020,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,24.39,EUR,,,
-Ireland,2020,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,24.39,EUR,,,
-Ireland,2020,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3A2,Coal,1.0,1.0,irl_tax,24.0,0.0,24.0,EUR,eu_ets,24.39,EUR,,,
+Ireland,2020,1A3A2,Natural gas,1.0,1.0,irl_tax,24.0,0.0,24.0,EUR,eu_ets,24.39,EUR,,,
+Ireland,2020,1A3A2,Oil,1.0,1.0,irl_tax,24.0,0.0,24.0,EUR,eu_ets,24.39,EUR,,,
+Ireland,2020,1A3B,Coal,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3B,Natural gas,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3B,Oil,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3D1,Coal,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3D1,Natural gas,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3D1,Oil,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3D2,Coal,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3D2,Natural gas,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3D2,Oil,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3E1,Coal,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3E1,Natural gas,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A3E1,Oil,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4A,Coal,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4A,Natural gas,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4A,Oil,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4B,Coal,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4B,Natural gas,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4B,Oil,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2020,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4C1,Coal,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4C1,Natural gas,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2020,1A4C1,Oil,1.0,0.0,irl_tax,24.0,0.0,24.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2020,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9616,45 +9616,45 @@ Ireland,2021,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,54.15,EUR,,,
-Ireland,2021,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,54.15,EUR,,,
-Ireland,2021,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,54.15,EUR,,,
-Ireland,2021,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3A2,Coal,1.0,1.0,irl_tax,31.0,0.0,31.0,EUR,eu_ets,54.15,EUR,,,
+Ireland,2021,1A3A2,Natural gas,1.0,1.0,irl_tax,31.0,0.0,31.0,EUR,eu_ets,54.15,EUR,,,
+Ireland,2021,1A3A2,Oil,1.0,1.0,irl_tax,31.0,0.0,31.0,EUR,eu_ets,54.15,EUR,,,
+Ireland,2021,1A3B,Coal,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3B,Natural gas,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3B,Oil,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3D1,Coal,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3D1,Natural gas,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3D1,Oil,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3D2,Coal,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3D2,Natural gas,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3D2,Oil,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3E1,Coal,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3E1,Natural gas,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A3E1,Oil,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4A,Coal,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4A,Natural gas,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4A,Oil,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4B,Coal,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4B,Natural gas,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4B,Oil,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2021,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4C1,Coal,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4C1,Natural gas,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2021,1A4C1,Oil,1.0,0.0,irl_tax,31.0,0.0,31.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2021,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9914,45 +9914,45 @@ Ireland,2022,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,80.18,EUR,,,
-Ireland,2022,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,80.18,EUR,,,
-Ireland,2022,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,80.18,EUR,,,
-Ireland,2022,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3A2,Coal,1.0,1.0,irl_tax,41.0,0.0,41.0,EUR,eu_ets,80.18,EUR,,,
+Ireland,2022,1A3A2,Natural gas,1.0,1.0,irl_tax,41.0,0.0,41.0,EUR,eu_ets,80.18,EUR,,,
+Ireland,2022,1A3A2,Oil,1.0,1.0,irl_tax,41.0,0.0,41.0,EUR,eu_ets,80.18,EUR,,,
+Ireland,2022,1A3B,Coal,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3B,Natural gas,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3B,Oil,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3D1,Coal,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3D1,Natural gas,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3D1,Oil,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3D2,Coal,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3D2,Natural gas,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3D2,Oil,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3E1,Coal,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3E1,Natural gas,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A3E1,Oil,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4A,Coal,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4A,Natural gas,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4A,Oil,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4B,Coal,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4B,Natural gas,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4B,Oil,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2022,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4C1,Coal,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4C1,Natural gas,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2022,1A4C1,Oil,1.0,0.0,irl_tax,41.0,0.0,41.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2022,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10212,45 +10212,45 @@ Ireland,2023,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,83.6,EUR,,,
-Ireland,2023,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,83.6,EUR,,,
-Ireland,2023,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,83.6,EUR,,,
-Ireland,2023,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3A2,Coal,1.0,1.0,irl_tax,48.5,0.0,48.5,EUR,eu_ets,83.6,EUR,,,
+Ireland,2023,1A3A2,Natural gas,1.0,1.0,irl_tax,48.5,0.0,48.5,EUR,eu_ets,83.6,EUR,,,
+Ireland,2023,1A3A2,Oil,1.0,1.0,irl_tax,48.5,0.0,48.5,EUR,eu_ets,83.6,EUR,,,
+Ireland,2023,1A3B,Coal,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3B,Natural gas,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3B,Oil,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3D1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3D1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3D1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3D2,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3D2,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3D2,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3D1,Coal,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3D1,Natural gas,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3D1,Oil,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3D2,Coal,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3D2,Natural gas,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3D2,Oil,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3E1,Coal,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3E1,Natural gas,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A3E1,Oil,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4A,Coal,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4A,Natural gas,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4A,Oil,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4B,Coal,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4B,Natural gas,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4B,Oil,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2023,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4C1,Coal,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4C1,Natural gas,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2023,1A4C1,Oil,1.0,0.0,irl_tax,48.5,0.0,48.5,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2023,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10510,45 +10510,45 @@ Ireland,2024,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A3A2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Ireland,2024,1A3A2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Ireland,2024,1A3A2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Ireland,2024,1A3B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A3B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A3B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A3A2,Coal,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3A2,Natural gas,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3A2,Oil,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3B,Coal,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A3B,Natural gas,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A3B,Oil,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A3D1,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Ireland,2024,1A3D1,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Ireland,2024,1A3D1,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Ireland,2024,1A3D2,Coal,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Ireland,2024,1A3D2,Natural gas,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Ireland,2024,1A3D2,Oil,1.0,1.0,irl_tax,,0.0,,,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3D1,Coal,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3D1,Natural gas,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3D1,Oil,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3D2,Coal,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3D2,Natural gas,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
+Ireland,2024,1A3D2,Oil,1.0,1.0,irl_tax,56.0,0.0,56.0,EUR,eu_ets,64.76,EUR,,,
 Ireland,2024,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A3E1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A3E1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A3E1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A3E1,Coal,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A3E1,Natural gas,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A3E1,Oil,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4A,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4A,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4A,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4B,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4B,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4B,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4A,Coal,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4A,Natural gas,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4A,Oil,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4B,Coal,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4B,Natural gas,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4B,Oil,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4C1,Coal,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4C1,Natural gas,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Ireland,2024,1A4C1,Oil,1.0,0.0,irl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4C1,Coal,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4C1,Natural gas,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
+Ireland,2024,1A4C1,Oil,1.0,0.0,irl_tax,56.0,0.0,56.0,EUR,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ireland,2024,1A4C2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

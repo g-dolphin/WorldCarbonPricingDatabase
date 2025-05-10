@@ -8954,351 +8954,63 @@ Newfoundland and Labrador,2019,1A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A1A1,Coal,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A2,Coal,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A3,Coal,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1B,Coal,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A1C,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A1C,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A1C,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2019,1A1A1,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A2,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A3,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1B,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A1C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A1C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A1C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2019,1A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A2A,Coal,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2B,Coal,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2C,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2C,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2C,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2D,Coal,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2E,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2E,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2E,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2F,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2F,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2F,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2019,1A2A,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2B,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2D,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2019,1A2E,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2E,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2E,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2F,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2F,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2F,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2019,1A2G,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2G,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A2G,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A2H,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2H,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2H,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2019,1A2H,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2H,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2H,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2019,1A2I,Coal,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2I,Natural gas,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2019,1A2I,Oil,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2019,1A2J,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2J,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2J,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2K,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2K,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2K,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2L,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2L,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2L,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2M,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2M,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A2M,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2019,1A2J,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2J,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2J,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2K,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2K,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2K,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2L,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2L,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2L,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2M,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2M,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A2M,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2019,1A3,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3,Oil,NA,NA,NA,NA,NA
@@ -9311,117 +9023,27 @@ Newfoundland and Labrador,2019,1A3A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A3B,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3B,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3B,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3C,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3C,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3C,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2019,1A3B,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3B,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3B,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2019,1A3D,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3D,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A3D1,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3D1,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3D1,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3D2,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3D2,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3D2,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2019,1A3D1,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3D1,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3D1,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3D2,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3D2,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3D2,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2019,1A3E,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3E,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A3E,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A3E1,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3E1,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A3E1,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2019,1A3E1,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3E1,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A3E1,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2019,1A4,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A4,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A4,Oil,NA,NA,NA,NA,NA
@@ -9446,69 +9068,15 @@ Newfoundland and Labrador,2019,1A4C3,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1A5,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2019,1A5A,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A5A,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A5A,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A5B,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A5B,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A5B,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A5C,Coal,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A5C,Natural gas,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2019,1A5C,Oil,leg(NL[2011]),NA,"657    leg(NL[2018])
-658    leg(NL[2018])
-659    leg(NL[2018])
-Name: source, dtype: object; 657    
-658    
-659    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2019,1A5A,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A5A,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A5A,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A5B,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A5B,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A5B,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A5C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A5C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2019,1A5C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2019,1B,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1B1,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2019,1B1A,NA,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
@@ -9684,351 +9252,63 @@ Newfoundland and Labrador,2020,1A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A1A1,Coal,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A2,Coal,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A3,Coal,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1B,Coal,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A1C,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A1C,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A1C,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2020,1A1A1,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A2,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A3,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1B,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A1C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A1C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A1C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2020,1A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A2A,Coal,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2B,Coal,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2C,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2C,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2C,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2D,Coal,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2E,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2E,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2E,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2F,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2F,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2F,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2020,1A2A,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2B,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2D,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2020,1A2E,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2E,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2E,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2F,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2F,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2F,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2020,1A2G,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2G,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A2G,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A2H,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2H,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2H,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2020,1A2H,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2H,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2H,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2020,1A2I,Coal,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2I,Natural gas,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2020,1A2I,Oil,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2020,1A2J,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2J,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2J,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2K,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2K,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2K,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2L,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2L,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2L,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2M,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2M,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A2M,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2020,1A2J,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2J,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2J,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2K,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2K,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2K,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2L,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2L,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2L,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2M,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2M,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A2M,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2020,1A3,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3,Oil,NA,NA,NA,NA,NA
@@ -10041,117 +9321,27 @@ Newfoundland and Labrador,2020,1A3A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A3B,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3B,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3B,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3C,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3C,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3C,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2020,1A3B,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3B,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3B,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2020,1A3D,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3D,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A3D1,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3D1,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3D1,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3D2,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3D2,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3D2,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2020,1A3D1,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3D1,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3D1,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3D2,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3D2,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3D2,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2020,1A3E,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3E,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A3E,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A3E1,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3E1,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A3E1,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2020,1A3E1,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3E1,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A3E1,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2020,1A4,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A4,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A4,Oil,NA,NA,NA,NA,NA
@@ -10176,69 +9366,15 @@ Newfoundland and Labrador,2020,1A4C3,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1A5,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2020,1A5A,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A5A,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A5A,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A5B,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A5B,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A5B,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A5C,Coal,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A5C,Natural gas,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2020,1A5C,Oil,leg(NL[2011]),NA,"660    leg(NL[2018])
-661    leg(NL[2018])
-662    leg(NL[2018])
-Name: source, dtype: object; 660    
-661    
-662    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2020,1A5A,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A5A,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A5A,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A5B,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A5B,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A5B,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A5C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A5C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2020,1A5C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2020,1B,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1B1,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2020,1B1A,NA,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
@@ -10414,351 +9550,63 @@ Newfoundland and Labrador,2021,1A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A1A1,Coal,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A2,Coal,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A3,Coal,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1B,Coal,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A1C,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A1C,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A1C,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2021,1A1A1,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A2,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A3,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1B,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A1C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A1C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A1C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2021,1A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A2A,Coal,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2B,Coal,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2C,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2C,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2C,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2D,Coal,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2E,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2E,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2E,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2F,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2F,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2F,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2021,1A2A,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2B,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2D,Coal,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),leg(NL[2018]); ,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2021,1A2E,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2E,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2E,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2F,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2F,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2F,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2021,1A2G,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2G,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A2G,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A2H,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2H,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2H,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2021,1A2H,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2H,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2H,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2021,1A2I,Coal,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2I,Natural gas,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2021,1A2I,Oil,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2021,1A2J,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2J,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2J,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2K,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2K,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2K,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2L,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2L,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2L,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2M,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2M,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A2M,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2021,1A2J,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2J,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2J,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2K,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2K,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2K,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2L,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2L,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2L,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2M,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2M,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A2M,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2021,1A3,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -10771,117 +9619,27 @@ Newfoundland and Labrador,2021,1A3A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A3B,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3B,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3B,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3C,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3C,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3C,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2021,1A3B,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3B,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3B,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2021,1A3D,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3D,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A3D1,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3D1,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3D1,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3D2,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3D2,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3D2,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2021,1A3D1,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3D1,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3D1,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3D2,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3D2,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3D2,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2021,1A3E,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A3E,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A3E1,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3E1,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A3E1,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2021,1A3E1,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3E1,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A3E1,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2021,1A4,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A4,Oil,NA,NA,NA,NA,NA
@@ -10906,69 +9664,15 @@ Newfoundland and Labrador,2021,1A4C3,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1A5,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2021,1A5A,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A5A,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A5A,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A5B,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A5B,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A5B,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A5C,Coal,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A5C,Natural gas,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2021,1A5C,Oil,leg(NL[2011]),NA,"663    leg(NL[2018])
-664    leg(NL[2018])
-665    leg(NL[2018])
-Name: source, dtype: object; 663    
-664    
-665    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2021,1A5A,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A5A,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A5A,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A5B,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A5B,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A5B,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A5C,Coal,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A5C,Natural gas,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
+Newfoundland and Labrador,2021,1A5C,Oil,leg(NL[2011]),NA,leg(NL[2018]); ,NA,NA
 Newfoundland and Labrador,2021,1B,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1B1,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2021,1B1A,NA,NA,gvt(NL[2019]),NA,NA,"gvt(NL[2019]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
@@ -11144,351 +9848,63 @@ Newfoundland and Labrador,2022,1A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2022,1A1A1,Coal,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1A2,Coal,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1A3,Coal,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1B,Coal,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A1C,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A1C,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A1C,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2022,1A1A1,Coal,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1A1,Natural gas,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1A1,Oil,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1A2,Coal,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1A2,Natural gas,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1A2,Oil,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1A3,Coal,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1A3,Natural gas,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1A3,Oil,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1B,Coal,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1B,Natural gas,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1B,Oil,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A1C,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A1C,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A1C,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
 Newfoundland and Labrador,2022,1A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2022,1A2A,Coal,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2B,Coal,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2C,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2C,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2C,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2D,Coal,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2E,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2E,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2E,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2F,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2F,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2F,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2022,1A2A,Coal,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2A,Natural gas,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2A,Oil,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2B,Coal,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2B,Natural gas,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2B,Oil,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2C,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2C,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2C,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2D,Coal,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2D,Natural gas,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2D,Oil,leg(NL[2011]),gvt(NL[2019]),report(ECCC[2020]); ,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
+Newfoundland and Labrador,2022,1A2E,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2E,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2E,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2F,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2F,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2F,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
 Newfoundland and Labrador,2022,1A2G,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A2G,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A2G,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2022,1A2H,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2H,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2H,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2022,1A2H,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2H,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2H,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
 Newfoundland and Labrador,2022,1A2I,Coal,NA,gvt(NL[2019]),NA,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2022,1A2I,Natural gas,NA,gvt(NL[2019]),NA,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
 Newfoundland and Labrador,2022,1A2I,Oil,NA,gvt(NL[2019]),NA,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
-Newfoundland and Labrador,2022,1A2J,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2J,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2J,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2K,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2K,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2K,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2L,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2L,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2L,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2M,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2M,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A2M,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2022,1A2J,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2J,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2J,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2K,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2K,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2K,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2L,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2L,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2L,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2M,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2M,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A2M,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
 Newfoundland and Labrador,2022,1A3,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -11501,117 +9917,27 @@ Newfoundland and Labrador,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2022,1A3B,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3B,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3B,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3C,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3C,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3C,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2022,1A3B,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3B,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3B,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3C,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3C,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3C,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
 Newfoundland and Labrador,2022,1A3D,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3D,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2022,1A3D1,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3D1,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3D1,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3D2,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3D2,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3D2,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2022,1A3D1,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3D1,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3D1,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3D2,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3D2,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3D2,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
 Newfoundland and Labrador,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A3E,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2022,1A3E1,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3E1,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A3E1,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2022,1A3E1,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3E1,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A3E1,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
 Newfoundland and Labrador,2022,1A4,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A4,Oil,NA,NA,NA,NA,NA
@@ -11636,69 +9962,15 @@ Newfoundland and Labrador,2022,1A4C3,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A5,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1A5,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2022,1A5A,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A5A,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A5A,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A5B,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A5B,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A5B,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A5C,Coal,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A5C,Natural gas,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2022,1A5C,Oil,leg(NL[2011]),NA,"666    report(ECCC[2020])
-667    report(ECCC[2020])
-668    report(ECCC[2020])
-Name: source, dtype: object; 666    
-667    
-668    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2022,1A5A,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A5A,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A5A,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A5B,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A5B,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A5B,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A5C,Coal,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A5C,Natural gas,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
+Newfoundland and Labrador,2022,1A5C,Oil,leg(NL[2011]),NA,report(ECCC[2020]); ,NA,NA
 Newfoundland and Labrador,2022,1B,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1B1,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2022,1B1A,NA,NA,gvt(NL[2019]),NA,NA,"report(ECCC[2020]); the Greenhouse Gas Reduction Fund credits are recorded (upper bound of carbon prices) as no transaction data is available, and the credits are priced at the federal carbon tax rate"
@@ -11880,69 +10152,15 @@ Newfoundland and Labrador,2023,1A1A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A1A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A1A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2023,1A1A3,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A1A3,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A1A3,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A1B,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A1B,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A1B,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A1C,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A1C,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A1C,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2023,1A1A3,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A1A3,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A1A3,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A1B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A1B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A1B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A1C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A1C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A1C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2023,1A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A2,Oil,NA,NA,NA,NA,NA
@@ -11964,135 +10182,27 @@ Newfoundland and Labrador,2023,1A2E,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A2F,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A2F,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A2F,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2023,1A2G,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2G,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2G,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2H,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2H,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2H,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2023,1A2G,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2G,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2G,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2H,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2H,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2H,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2023,1A2I,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A2I,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A2I,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2023,1A2J,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2J,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2J,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2K,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2K,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2K,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2L,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2L,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2L,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2M,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2M,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A2M,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2023,1A2J,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2J,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2J,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2K,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2K,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2K,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2L,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2L,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2L,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2M,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2M,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A2M,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2023,1A3,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -12102,183 +10212,39 @@ Newfoundland and Labrador,2023,1A3A,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3A1,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3A1,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2023,1A3A2,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3A2,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3A2,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3B,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3B,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3B,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3C,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3C,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3C,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2023,1A3A2,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3A2,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3A2,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2023,1A3D,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3D,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3D,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2023,1A3D1,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3D1,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3D1,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3D2,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3D2,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3D2,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2023,1A3D1,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3D1,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3D1,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3D2,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3D2,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3D2,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2023,1A3E,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3E,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A3E,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2023,1A3E1,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3E1,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A3E1,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2023,1A3E1,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3E1,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A3E1,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2023,1A4,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A4,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2023,1A4A,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A4A,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A4A,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A4B,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A4B,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A4B,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2023,1A4A,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A4A,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A4A,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A4B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A4B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A4B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A4C,Oil,NA,NA,NA,NA,NA
@@ -12294,69 +10260,15 @@ Newfoundland and Labrador,2023,1A4C3,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A5,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A5,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1A5,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2023,1A5A,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A5A,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A5A,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A5B,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A5B,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A5B,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A5C,Coal, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A5C,Natural gas, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2023,1A5C,Oil, ,NA,"802    db(WBCPD[2024])
-808    db(WBCPD[2024])
-814    db(WBCPD[2024])
-Name: source, dtype: object; 802    
-808    
-814    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2023,1A5A,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A5A,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A5A,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A5B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A5B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A5B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A5C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A5C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2023,1A5C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2023,1B,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1B1,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2023,1B1A,NA,NA,NA,NA,NA,NA
@@ -12538,69 +10450,15 @@ Newfoundland and Labrador,2024,1A1A1,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A1A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A1A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A1A2,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2024,1A1A3,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A1A3,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A1A3,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A1B,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A1B,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A1B,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A1C,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A1C,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A1C,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2024,1A1A3,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A1A3,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A1A3,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A1B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A1B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A1B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A1C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A1C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A1C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2024,1A2,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A2,Oil,NA,NA,NA,NA,NA
@@ -12622,135 +10480,27 @@ Newfoundland and Labrador,2024,1A2E,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A2F,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A2F,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A2F,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2024,1A2G,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2G,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2G,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2H,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2H,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2H,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2024,1A2G,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2G,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2G,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2H,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2H,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2H,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2024,1A2I,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A2I,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A2I,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2024,1A2J,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2J,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2J,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2K,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2K,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2K,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2L,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2L,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2L,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2M,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2M,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A2M,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2024,1A2J,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2J,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2J,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2K,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2K,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2K,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2L,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2L,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2L,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2M,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2M,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A2M,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2024,1A3,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3,Oil,NA,NA,NA,NA,NA
@@ -12760,183 +10510,39 @@ Newfoundland and Labrador,2024,1A3A,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3A1,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3A1,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2024,1A3A2,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3A2,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3A2,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3B,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3B,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3B,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3C,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3C,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3C,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2024,1A3A2,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3A2,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3A2,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2024,1A3D,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3D,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3D,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2024,1A3D1,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3D1,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3D1,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3D2,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3D2,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3D2,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2024,1A3D1,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3D1,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3D1,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3D2,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3D2,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3D2,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2024,1A3E,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3E,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A3E,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2024,1A3E1,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3E1,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A3E1,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2024,1A3E1,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3E1,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A3E1,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2024,1A4,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A4,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2024,1A4A,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A4A,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A4A,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A4B,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A4B,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A4B,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2024,1A4A,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A4A,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A4A,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A4B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A4B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A4B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A4C,Oil,NA,NA,NA,NA,NA
@@ -12952,69 +10558,15 @@ Newfoundland and Labrador,2024,1A4C3,Oil,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A5,Coal,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A5,Natural gas,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1A5,Oil,NA,NA,NA,NA,NA
-Newfoundland and Labrador,2024,1A5A,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A5A,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A5A,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A5B,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A5B,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A5B,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A5C,Coal, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A5C,Natural gas, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
-Newfoundland and Labrador,2024,1A5C,Oil, ,NA,"803    db(WBCPD[2024])
-809    db(WBCPD[2024])
-815    db(WBCPD[2024])
-Name: source, dtype: object; 803    
-809    
-815    
-Name: comment, dtype: object",NA,NA
+Newfoundland and Labrador,2024,1A5A,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A5A,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A5A,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A5B,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A5B,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A5B,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A5C,Coal, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A5C,Natural gas, ,NA,db(WBCPD[2024]); ,NA,NA
+Newfoundland and Labrador,2024,1A5C,Oil, ,NA,db(WBCPD[2024]); ,NA,NA
 Newfoundland and Labrador,2024,1B,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1B1,NA,NA,NA,NA,NA,NA
 Newfoundland and Labrador,2024,1B1A,NA,NA,NA,NA,NA,NA

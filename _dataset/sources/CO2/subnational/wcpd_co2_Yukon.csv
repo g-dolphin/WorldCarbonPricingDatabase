@@ -8960,69 +8960,15 @@ Yukon,2019,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]
 Yukon,2019,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2019,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2019,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2019,1A1A3,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A1A3,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A1A3,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A1B,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A1B,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A1B,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A1C,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A1C,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A1C,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
+Yukon,2019,1A1A3,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A1A3,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A1A3,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A1B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A1B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A1B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A1C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A1C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A1C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2019,1A2,Coal,NA,NA,NA,NA,NA
 Yukon,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2019,1A2,Oil,NA,NA,NA,NA,NA
@@ -9044,135 +8990,27 @@ Yukon,2019,1A2E,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020])
 Yukon,2019,1A2F,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2019,1A2F,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2019,1A2F,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2019,1A2G,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2G,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2G,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2H,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2H,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2H,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
+Yukon,2019,1A2G,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2G,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2G,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2H,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2H,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2H,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2019,1A2I,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2019,1A2I,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2019,1A2I,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2019,1A2J,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2J,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2J,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2K,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2K,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2K,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2L,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2L,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2L,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2M,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2M,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A2M,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
+Yukon,2019,1A2J,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2J,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2J,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2K,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2K,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2K,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2L,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2L,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2L,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2M,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2M,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A2M,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2019,1A3,Coal,NA,NA,NA,NA,NA
 Yukon,2019,1A3,Natural gas,NA,NA,NA,NA,NA
 Yukon,2019,1A3,Oil,NA,NA,NA,NA,NA
@@ -9185,162 +9023,36 @@ Yukon,2019,1A3A1,Oil,NA,NA,NA,NA,NA
 Yukon,2019,1A3A2,Coal,NA,NA,NA,NA,NA
 Yukon,2019,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2019,1A3A2,Oil,NA,NA,NA,NA,NA
-Yukon,2019,1A3B,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3B,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3B,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3C,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3C,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3C,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
+Yukon,2019,1A3B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2019,1A3D,Coal,NA,NA,NA,NA,NA
 Yukon,2019,1A3D,Natural gas,NA,NA,NA,NA,NA
 Yukon,2019,1A3D,Oil,NA,NA,NA,NA,NA
-Yukon,2019,1A3D1,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3D1,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3D1,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3D2,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3D2,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3D2,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
+Yukon,2019,1A3D1,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3D1,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3D1,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3D2,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3D2,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3D2,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2019,1A3E,Coal,NA,NA,NA,NA,NA
 Yukon,2019,1A3E,Natural gas,NA,NA,NA,NA,NA
 Yukon,2019,1A3E,Oil,NA,NA,NA,NA,NA
-Yukon,2019,1A3E1,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3E1,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A3E1,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
+Yukon,2019,1A3E1,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3E1,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A3E1,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2019,1A4,Coal,NA,NA,NA,NA,NA
 Yukon,2019,1A4,Natural gas,NA,NA,NA,NA,NA
 Yukon,2019,1A4,Oil,NA,NA,NA,NA,NA
-Yukon,2019,1A4A,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A4A,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A4A,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A4B,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A4B,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A4B,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
+Yukon,2019,1A4A,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A4A,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A4A,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A4B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A4B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A4B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2019,1A4C,Coal,NA,NA,NA,NA,NA
 Yukon,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 Yukon,2019,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9356,69 +9068,15 @@ Yukon,2019,1A4C3,Oil,NA,NA,NA,NA,NA
 Yukon,2019,1A5,Coal,NA,NA,NA,NA,NA
 Yukon,2019,1A5,Natural gas,NA,NA,NA,NA,NA
 Yukon,2019,1A5,Oil,NA,NA,NA,NA,NA
-Yukon,2019,1A5A,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A5A,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A5A,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A5B,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A5B,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A5B,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A5C,Coal,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A5C,Natural gas,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
-Yukon,2019,1A5C,Oil,gvt(ECCC[2019]),NA,"1410    gvt(ECCC[2019])
-1416    gvt(ECCC[2019])
-1422    gvt(ECCC[2019])
-Name: source, dtype: object; 1410    
-1416    
-1422    
-Name: comment, dtype: object",NA,NA
+Yukon,2019,1A5A,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A5A,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A5A,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A5B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A5B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A5B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A5C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A5C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2019,1A5C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2019,1B,NA,NA,NA,NA,NA,NA
 Yukon,2019,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2019,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
@@ -9600,69 +9258,15 @@ Yukon,2020,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]
 Yukon,2020,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2020,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2020,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2020,1A1A3,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A1A3,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A1A3,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A1B,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A1B,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A1B,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A1C,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A1C,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A1C,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
+Yukon,2020,1A1A3,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A1A3,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A1A3,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A1B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A1B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A1B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A1C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A1C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A1C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2020,1A2,Coal,NA,NA,NA,NA,NA
 Yukon,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2020,1A2,Oil,NA,NA,NA,NA,NA
@@ -9684,135 +9288,27 @@ Yukon,2020,1A2E,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020])
 Yukon,2020,1A2F,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2020,1A2F,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2020,1A2F,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2020,1A2G,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2G,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2G,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2H,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2H,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2H,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
+Yukon,2020,1A2G,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2G,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2G,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2H,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2H,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2H,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2020,1A2I,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2020,1A2I,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2020,1A2I,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2020,1A2J,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2J,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2J,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2K,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2K,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2K,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2L,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2L,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2L,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2M,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2M,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A2M,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
+Yukon,2020,1A2J,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2J,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2J,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2K,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2K,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2K,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2L,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2L,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2L,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2M,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2M,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A2M,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2020,1A3,Coal,NA,NA,NA,NA,NA
 Yukon,2020,1A3,Natural gas,NA,NA,NA,NA,NA
 Yukon,2020,1A3,Oil,NA,NA,NA,NA,NA
@@ -9825,162 +9321,36 @@ Yukon,2020,1A3A1,Oil,NA,NA,NA,NA,NA
 Yukon,2020,1A3A2,Coal,NA,NA,NA,NA,NA
 Yukon,2020,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2020,1A3A2,Oil,NA,NA,NA,NA,NA
-Yukon,2020,1A3B,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3B,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3B,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3C,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3C,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3C,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
+Yukon,2020,1A3B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2020,1A3D,Coal,NA,NA,NA,NA,NA
 Yukon,2020,1A3D,Natural gas,NA,NA,NA,NA,NA
 Yukon,2020,1A3D,Oil,NA,NA,NA,NA,NA
-Yukon,2020,1A3D1,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3D1,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3D1,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3D2,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3D2,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3D2,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
+Yukon,2020,1A3D1,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3D1,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3D1,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3D2,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3D2,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3D2,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2020,1A3E,Coal,NA,NA,NA,NA,NA
 Yukon,2020,1A3E,Natural gas,NA,NA,NA,NA,NA
 Yukon,2020,1A3E,Oil,NA,NA,NA,NA,NA
-Yukon,2020,1A3E1,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3E1,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A3E1,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
+Yukon,2020,1A3E1,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3E1,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A3E1,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2020,1A4,Coal,NA,NA,NA,NA,NA
 Yukon,2020,1A4,Natural gas,NA,NA,NA,NA,NA
 Yukon,2020,1A4,Oil,NA,NA,NA,NA,NA
-Yukon,2020,1A4A,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A4A,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A4A,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A4B,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A4B,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A4B,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
+Yukon,2020,1A4A,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A4A,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A4A,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A4B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A4B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A4B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2020,1A4C,Coal,NA,NA,NA,NA,NA
 Yukon,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 Yukon,2020,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9996,69 +9366,15 @@ Yukon,2020,1A4C3,Oil,NA,NA,NA,NA,NA
 Yukon,2020,1A5,Coal,NA,NA,NA,NA,NA
 Yukon,2020,1A5,Natural gas,NA,NA,NA,NA,NA
 Yukon,2020,1A5,Oil,NA,NA,NA,NA,NA
-Yukon,2020,1A5A,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A5A,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A5A,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A5B,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A5B,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A5B,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A5C,Coal,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A5C,Natural gas,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
-Yukon,2020,1A5C,Oil,gvt(ECCC[2019]),NA,"1411    gvt(ECCC[2019])
-1417    gvt(ECCC[2019])
-1423    gvt(ECCC[2019])
-Name: source, dtype: object; 1411    
-1417    
-1423    
-Name: comment, dtype: object",NA,NA
+Yukon,2020,1A5A,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A5A,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A5A,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A5B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A5B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A5B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A5C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A5C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2020,1A5C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2020,1B,NA,NA,NA,NA,NA,NA
 Yukon,2020,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2020,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
@@ -10240,69 +9556,15 @@ Yukon,2021,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]
 Yukon,2021,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2021,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2021,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2021,1A1A3,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A1A3,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A1A3,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A1B,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A1B,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A1B,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A1C,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A1C,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A1C,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
+Yukon,2021,1A1A3,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A1A3,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A1A3,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A1B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A1B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A1B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A1C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A1C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A1C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2021,1A2,Coal,NA,NA,NA,NA,NA
 Yukon,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2021,1A2,Oil,NA,NA,NA,NA,NA
@@ -10324,135 +9586,27 @@ Yukon,2021,1A2E,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020])
 Yukon,2021,1A2F,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2021,1A2F,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2021,1A2F,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2021,1A2G,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2G,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2G,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2H,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2H,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2H,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
+Yukon,2021,1A2G,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2G,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2G,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2H,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2H,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2H,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2021,1A2I,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2021,1A2I,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2021,1A2I,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
-Yukon,2021,1A2J,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2J,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2J,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2K,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2K,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2K,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2L,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2L,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2L,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2M,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2M,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A2M,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
+Yukon,2021,1A2J,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2J,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2J,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2K,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2K,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2K,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2L,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2L,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2L,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2M,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2M,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A2M,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2021,1A3,Coal,NA,NA,NA,NA,NA
 Yukon,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 Yukon,2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -10465,162 +9619,36 @@ Yukon,2021,1A3A1,Oil,NA,NA,NA,NA,NA
 Yukon,2021,1A3A2,Coal,NA,NA,NA,NA,NA
 Yukon,2021,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2021,1A3A2,Oil,NA,NA,NA,NA,NA
-Yukon,2021,1A3B,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3B,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3B,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3C,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3C,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3C,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
+Yukon,2021,1A3B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2021,1A3D,Coal,NA,NA,NA,NA,NA
 Yukon,2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 Yukon,2021,1A3D,Oil,NA,NA,NA,NA,NA
-Yukon,2021,1A3D1,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3D1,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3D1,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3D2,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3D2,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3D2,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
+Yukon,2021,1A3D1,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3D1,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3D1,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3D2,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3D2,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3D2,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2021,1A3E,Coal,NA,NA,NA,NA,NA
 Yukon,2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 Yukon,2021,1A3E,Oil,NA,NA,NA,NA,NA
-Yukon,2021,1A3E1,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3E1,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A3E1,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
+Yukon,2021,1A3E1,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3E1,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A3E1,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2021,1A4,Coal,NA,NA,NA,NA,NA
 Yukon,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Yukon,2021,1A4,Oil,NA,NA,NA,NA,NA
-Yukon,2021,1A4A,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A4A,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A4A,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A4B,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A4B,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A4B,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
+Yukon,2021,1A4A,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A4A,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A4A,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A4B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A4B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A4B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Yukon,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Yukon,2021,1A4C,Oil,NA,NA,NA,NA,NA
@@ -10636,69 +9664,15 @@ Yukon,2021,1A4C3,Oil,NA,NA,NA,NA,NA
 Yukon,2021,1A5,Coal,NA,NA,NA,NA,NA
 Yukon,2021,1A5,Natural gas,NA,NA,NA,NA,NA
 Yukon,2021,1A5,Oil,NA,NA,NA,NA,NA
-Yukon,2021,1A5A,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A5A,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A5A,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A5B,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A5B,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A5B,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A5C,Coal,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A5C,Natural gas,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
-Yukon,2021,1A5C,Oil,gvt(ECCC[2019]),NA,"1412    gvt(ECCC[2019])
-1418    gvt(ECCC[2019])
-1424    gvt(ECCC[2019])
-Name: source, dtype: object; 1412    
-1418    
-1424    
-Name: comment, dtype: object",NA,NA
+Yukon,2021,1A5A,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A5A,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A5A,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A5B,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A5B,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A5B,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A5C,Coal,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A5C,Natural gas,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
+Yukon,2021,1A5C,Oil,gvt(ECCC[2019]),NA,gvt(ECCC[2019]); ,NA,NA
 Yukon,2021,1B,NA,NA,NA,NA,NA,NA
 Yukon,2021,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
 Yukon,2021,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available"
@@ -10880,69 +9854,15 @@ Yukon,2022,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions 
 Yukon,2022,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 Yukon,2022,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 Yukon,2022,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
-Yukon,2022,1A1A3,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A1A3,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A1A3,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A1B,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A1B,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A1B,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A1C,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A1C,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A1C,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
+Yukon,2022,1A1A3,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A1A3,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A1A3,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A1B,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A1B,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A1B,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A1C,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A1C,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A1C,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Yukon,2022,1A2,Coal,NA,NA,NA,NA,NA
 Yukon,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -10964,135 +9884,27 @@ Yukon,2022,1A2E,Oil,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions c
 Yukon,2022,1A2F,Coal,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 Yukon,2022,1A2F,Natural gas,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 Yukon,2022,1A2F,Oil,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
-Yukon,2022,1A2G,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2G,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2G,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2H,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2H,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2H,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
+Yukon,2022,1A2G,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2G,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2G,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2H,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2H,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2H,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Yukon,2022,1A2I,Coal,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 Yukon,2022,1A2I,Natural gas,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 Yukon,2022,1A2I,Oil,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
-Yukon,2022,1A2J,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2J,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2J,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2K,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2K,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2K,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2L,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2L,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2L,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2M,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2M,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A2M,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
+Yukon,2022,1A2J,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2J,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2J,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2K,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2K,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2K,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2L,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2L,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2L,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2M,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2M,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A2M,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Yukon,2022,1A3,Coal,NA,NA,NA,NA,NA
 Yukon,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Yukon,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -11105,162 +9917,36 @@ Yukon,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 Yukon,2022,1A3A2,Coal,NA,NA,NA,NA,NA
 Yukon,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-Yukon,2022,1A3B,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3B,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3B,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3C,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3C,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3C,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
+Yukon,2022,1A3B,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3B,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3B,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3C,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3C,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3C,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Yukon,2022,1A3D,Coal,NA,NA,NA,NA,NA
 Yukon,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 Yukon,2022,1A3D,Oil,NA,NA,NA,NA,NA
-Yukon,2022,1A3D1,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3D1,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3D1,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3D2,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3D2,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3D2,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
+Yukon,2022,1A3D1,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3D1,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3D1,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3D2,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3D2,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3D2,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Yukon,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Yukon,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Yukon,2022,1A3E,Oil,NA,NA,NA,NA,NA
-Yukon,2022,1A3E1,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3E1,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A3E1,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
+Yukon,2022,1A3E1,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3E1,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A3E1,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Yukon,2022,1A4,Coal,NA,NA,NA,NA,NA
 Yukon,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Yukon,2022,1A4,Oil,NA,NA,NA,NA,NA
-Yukon,2022,1A4A,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A4A,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A4A,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A4B,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A4B,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A4B,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
+Yukon,2022,1A4A,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A4A,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A4A,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A4B,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A4B,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A4B,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Yukon,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Yukon,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Yukon,2022,1A4C,Oil,NA,NA,NA,NA,NA
@@ -11276,69 +9962,15 @@ Yukon,2022,1A4C3,Oil,NA,NA,NA,NA,NA
 Yukon,2022,1A5,Coal,NA,NA,NA,NA,NA
 Yukon,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 Yukon,2022,1A5,Oil,NA,NA,NA,NA,NA
-Yukon,2022,1A5A,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A5A,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A5A,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A5B,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A5B,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A5B,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A5C,Coal,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A5C,Natural gas,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
-Yukon,2022,1A5C,Oil,gvt(ECCC[2019]),NA,"1413    report(ECCC[2020])
-1419    report(ECCC[2020])
-1425    report(ECCC[2020])
-Name: source, dtype: object; 1413    
-1419    
-1425    
-Name: comment, dtype: object",NA,NA
+Yukon,2022,1A5A,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A5A,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A5A,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A5B,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A5B,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A5B,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A5C,Coal,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A5C,Natural gas,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
+Yukon,2022,1A5C,Oil,gvt(ECCC[2019]),NA,report(ECCC[2020]); ,NA,NA
 Yukon,2022,1B,NA,NA,NA,NA,NA,NA
 Yukon,2022,1B1,NA,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
 Yukon,2022,1B1A,NA,NA,leg(SOR[2019]),NA,NA,report(ECCC[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available
@@ -11520,69 +10152,15 @@ Yukon,2023,1A1A1,Oil,NA, ,NA,NA,-; -
 Yukon,2023,1A1A2,Coal,NA, ,NA,NA,-; -
 Yukon,2023,1A1A2,Natural gas,NA, ,NA,NA,-; -
 Yukon,2023,1A1A2,Oil,NA, ,NA,NA,-; -
-Yukon,2023,1A1A3,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A1A3,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A1A3,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A1B,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A1B,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A1B,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A1C,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A1C,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A1C,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
+Yukon,2023,1A1A3,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A1A3,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A1A3,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A1B,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A1B,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A1B,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A1C,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A1C,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A1C,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2023,1A2,Coal,NA,NA,NA,NA,NA
 Yukon,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2023,1A2,Oil,NA,NA,NA,NA,NA
@@ -11604,135 +10182,27 @@ Yukon,2023,1A2E,Oil,NA, ,NA,NA,-; -
 Yukon,2023,1A2F,Coal,NA, ,NA,NA,-; -
 Yukon,2023,1A2F,Natural gas,NA, ,NA,NA,-; -
 Yukon,2023,1A2F,Oil,NA, ,NA,NA,-; -
-Yukon,2023,1A2G,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2G,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2G,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2H,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2H,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2H,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
+Yukon,2023,1A2G,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2G,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2G,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2H,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2H,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2H,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2023,1A2I,Coal,NA, ,NA,NA,-; -
 Yukon,2023,1A2I,Natural gas,NA, ,NA,NA,-; -
 Yukon,2023,1A2I,Oil,NA, ,NA,NA,-; -
-Yukon,2023,1A2J,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2J,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2J,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2K,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2K,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2K,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2L,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2L,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2L,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2M,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2M,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A2M,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
+Yukon,2023,1A2J,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2J,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2J,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2K,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2K,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2K,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2L,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2L,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2L,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2M,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2M,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A2M,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2023,1A3,Coal,NA,NA,NA,NA,NA
 Yukon,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 Yukon,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -11745,162 +10215,36 @@ Yukon,2023,1A3A1,Oil,NA,NA,NA,NA,NA
 Yukon,2023,1A3A2,Coal,NA,NA,NA,NA,NA
 Yukon,2023,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2023,1A3A2,Oil,NA,NA,NA,NA,NA
-Yukon,2023,1A3B,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3B,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3B,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3C,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3C,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3C,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
+Yukon,2023,1A3B,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3B,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3B,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3C,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3C,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3C,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2023,1A3D,Coal,NA,NA,NA,NA,NA
 Yukon,2023,1A3D,Natural gas,NA,NA,NA,NA,NA
 Yukon,2023,1A3D,Oil,NA,NA,NA,NA,NA
-Yukon,2023,1A3D1,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3D1,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3D1,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3D2,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3D2,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3D2,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
+Yukon,2023,1A3D1,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3D1,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3D1,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3D2,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3D2,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3D2,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2023,1A3E,Coal,NA,NA,NA,NA,NA
 Yukon,2023,1A3E,Natural gas,NA,NA,NA,NA,NA
 Yukon,2023,1A3E,Oil,NA,NA,NA,NA,NA
-Yukon,2023,1A3E1,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3E1,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A3E1,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
+Yukon,2023,1A3E1,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3E1,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A3E1,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2023,1A4,Coal,NA,NA,NA,NA,NA
 Yukon,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 Yukon,2023,1A4,Oil,NA,NA,NA,NA,NA
-Yukon,2023,1A4A,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A4A,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A4A,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A4B,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A4B,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A4B,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
+Yukon,2023,1A4A,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A4A,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A4A,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A4B,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A4B,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A4B,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Yukon,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Yukon,2023,1A4C,Oil,NA,NA,NA,NA,NA
@@ -11916,69 +10260,15 @@ Yukon,2023,1A4C3,Oil,NA,NA,NA,NA,NA
 Yukon,2023,1A5,Coal,NA,NA,NA,NA,NA
 Yukon,2023,1A5,Natural gas,NA,NA,NA,NA,NA
 Yukon,2023,1A5,Oil,NA,NA,NA,NA,NA
-Yukon,2023,1A5A,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A5A,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A5A,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A5B,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A5B,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A5B,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A5C,Coal, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A5C,Natural gas, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
-Yukon,2023,1A5C,Oil, ,NA,"1414    db(WCPD[2024])
-1420    db(WCPD[2024])
-1426    db(WCPD[2024])
-Name: source, dtype: object; 1414    
-1420    
-1426    
-Name: comment, dtype: object",NA,NA
+Yukon,2023,1A5A,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A5A,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A5A,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A5B,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A5B,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A5B,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A5C,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A5C,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2023,1A5C,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2023,1B,NA,NA,NA,NA,NA,NA
 Yukon,2023,1B1,NA,NA, ,NA,NA,-; -
 Yukon,2023,1B1A,NA,NA, ,NA,NA,-; -
@@ -12160,69 +10450,15 @@ Yukon,2024,1A1A1,Oil,NA, ,NA,NA,-; -
 Yukon,2024,1A1A2,Coal,NA, ,NA,NA,-; -
 Yukon,2024,1A1A2,Natural gas,NA, ,NA,NA,-; -
 Yukon,2024,1A1A2,Oil,NA, ,NA,NA,-; -
-Yukon,2024,1A1A3,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A1A3,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A1A3,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A1B,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A1B,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A1B,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A1C,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A1C,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A1C,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
+Yukon,2024,1A1A3,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A1A3,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A1A3,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A1B,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A1B,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A1B,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A1C,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A1C,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A1C,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2024,1A2,Coal,NA,NA,NA,NA,NA
 Yukon,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2024,1A2,Oil,NA,NA,NA,NA,NA
@@ -12244,135 +10480,27 @@ Yukon,2024,1A2E,Oil,NA, ,NA,NA,-; -
 Yukon,2024,1A2F,Coal,NA, ,NA,NA,-; -
 Yukon,2024,1A2F,Natural gas,NA, ,NA,NA,-; -
 Yukon,2024,1A2F,Oil,NA, ,NA,NA,-; -
-Yukon,2024,1A2G,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2G,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2G,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2H,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2H,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2H,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
+Yukon,2024,1A2G,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2G,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2G,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2H,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2H,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2H,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2024,1A2I,Coal,NA, ,NA,NA,-; -
 Yukon,2024,1A2I,Natural gas,NA, ,NA,NA,-; -
 Yukon,2024,1A2I,Oil,NA, ,NA,NA,-; -
-Yukon,2024,1A2J,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2J,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2J,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2K,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2K,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2K,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2L,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2L,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2L,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2M,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2M,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A2M,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
+Yukon,2024,1A2J,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2J,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2J,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2K,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2K,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2K,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2L,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2L,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2L,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2M,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2M,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A2M,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2024,1A3,Coal,NA,NA,NA,NA,NA
 Yukon,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Yukon,2024,1A3,Oil,NA,NA,NA,NA,NA
@@ -12385,162 +10513,36 @@ Yukon,2024,1A3A1,Oil,NA,NA,NA,NA,NA
 Yukon,2024,1A3A2,Coal,NA,NA,NA,NA,NA
 Yukon,2024,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Yukon,2024,1A3A2,Oil,NA,NA,NA,NA,NA
-Yukon,2024,1A3B,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3B,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3B,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3C,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3C,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3C,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
+Yukon,2024,1A3B,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3B,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3B,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3C,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3C,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3C,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2024,1A3D,Coal,NA,NA,NA,NA,NA
 Yukon,2024,1A3D,Natural gas,NA,NA,NA,NA,NA
 Yukon,2024,1A3D,Oil,NA,NA,NA,NA,NA
-Yukon,2024,1A3D1,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3D1,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3D1,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3D2,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3D2,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3D2,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
+Yukon,2024,1A3D1,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3D1,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3D1,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3D2,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3D2,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3D2,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2024,1A3E,Coal,NA,NA,NA,NA,NA
 Yukon,2024,1A3E,Natural gas,NA,NA,NA,NA,NA
 Yukon,2024,1A3E,Oil,NA,NA,NA,NA,NA
-Yukon,2024,1A3E1,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3E1,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A3E1,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
+Yukon,2024,1A3E1,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3E1,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A3E1,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2024,1A4,Coal,NA,NA,NA,NA,NA
 Yukon,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 Yukon,2024,1A4,Oil,NA,NA,NA,NA,NA
-Yukon,2024,1A4A,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A4A,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A4A,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A4B,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A4B,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A4B,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
+Yukon,2024,1A4A,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A4A,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A4A,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A4B,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A4B,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A4B,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Yukon,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Yukon,2024,1A4C,Oil,NA,NA,NA,NA,NA
@@ -12556,69 +10558,15 @@ Yukon,2024,1A4C3,Oil,NA,NA,NA,NA,NA
 Yukon,2024,1A5,Coal,NA,NA,NA,NA,NA
 Yukon,2024,1A5,Natural gas,NA,NA,NA,NA,NA
 Yukon,2024,1A5,Oil,NA,NA,NA,NA,NA
-Yukon,2024,1A5A,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A5A,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A5A,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A5B,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A5B,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A5B,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A5C,Coal, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A5C,Natural gas, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
-Yukon,2024,1A5C,Oil, ,NA,"1415    db(WCPD[2024])
-1421    db(WCPD[2024])
-1427    db(WCPD[2024])
-Name: source, dtype: object; 1415    
-1421    
-1427    
-Name: comment, dtype: object",NA,NA
+Yukon,2024,1A5A,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A5A,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A5A,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A5B,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A5B,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A5B,Oil, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A5C,Coal, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A5C,Natural gas, ,NA,db(WCPD[2024]); ,NA,NA
+Yukon,2024,1A5C,Oil, ,NA,db(WCPD[2024]); ,NA,NA
 Yukon,2024,1B,NA,NA,NA,NA,NA,NA
 Yukon,2024,1B1,NA,NA, ,NA,NA,-; -
 Yukon,2024,1B1A,NA,NA, ,NA,NA,-; -

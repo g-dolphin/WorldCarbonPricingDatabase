@@ -8954,387 +8954,63 @@ Singapore,2019,1A1,Oil,NA,NA,NA,NA,NA
 Singapore,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Singapore,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Singapore,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Singapore,2019,1A1A1,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1A1,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1A1,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1A2,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1A2,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1A2,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1A3,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1A3,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1A3,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1B,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1B,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1B,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1C,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1C,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A1C,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
+Singapore,2019,1A1A1,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1A1,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1A1,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1A2,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1A2,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1A2,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1A3,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1A3,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1A3,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1B,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1B,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1B,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1C,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1C,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A1C,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
 Singapore,2019,1A2,Coal,NA,NA,NA,NA,NA
 Singapore,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Singapore,2019,1A2,Oil,NA,NA,NA,NA,NA
-Singapore,2019,1A2A,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2A,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2A,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2B,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2B,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2B,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2C,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2C,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2C,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2D,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2D,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2D,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2E,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2E,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2E,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2F,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2F,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2F,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2G,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2G,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2G,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2H,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2H,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2H,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2I,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2I,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2I,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2J,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2J,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2J,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2K,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2K,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2K,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2L,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2L,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2L,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2M,Coal,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2M,Natural gas,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
-Singapore,2019,1A2M,Oil,leg(SG[2018]),NA,"0     leg(SG[2018])
-6     leg(SG[2018])
-12    leg(SG[2018])
-Name: source, dtype: object; 0     
-6     
-12    
-Name: comment, dtype: object",NA,NA
+Singapore,2019,1A2A,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2A,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2A,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2B,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2B,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2B,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2C,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2C,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2C,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2D,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2D,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2D,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2E,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2E,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2E,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2F,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2F,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2F,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2G,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2G,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2G,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2H,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2H,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2H,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2I,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2I,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2I,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2J,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2J,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2J,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2K,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2K,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2K,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2L,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2L,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2L,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2M,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2M,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2019,1A2M,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
 Singapore,2019,1A3,Coal,NA,NA,NA,NA,NA
 Singapore,2019,1A3,Natural gas,NA,NA,NA,NA,NA
 Singapore,2019,1A3,Oil,NA,NA,NA,NA,NA
@@ -9576,387 +9252,63 @@ Singapore,2020,1A1,Oil,NA,NA,NA,NA,NA
 Singapore,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Singapore,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Singapore,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Singapore,2020,1A1A1,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1A1,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1A1,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1A2,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1A2,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1A2,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1A3,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1A3,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1A3,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1B,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1B,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1B,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1C,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1C,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A1C,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
+Singapore,2020,1A1A1,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1A1,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1A1,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1A2,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1A2,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1A2,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1A3,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1A3,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1A3,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1B,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1B,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1B,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1C,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1C,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A1C,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
 Singapore,2020,1A2,Coal,NA,NA,NA,NA,NA
 Singapore,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Singapore,2020,1A2,Oil,NA,NA,NA,NA,NA
-Singapore,2020,1A2A,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2A,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2A,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2B,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2B,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2B,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2C,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2C,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2C,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2D,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2D,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2D,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2E,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2E,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2E,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2F,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2F,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2F,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2G,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2G,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2G,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2H,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2H,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2H,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2I,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2I,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2I,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2J,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2J,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2J,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2K,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2K,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2K,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2L,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2L,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2L,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2M,Coal,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2M,Natural gas,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
-Singapore,2020,1A2M,Oil,leg(SG[2018]),NA,"1     leg(SG[2018])
-7     leg(SG[2018])
-13    leg(SG[2018])
-Name: source, dtype: object; 1     
-7     
-13    
-Name: comment, dtype: object",NA,NA
+Singapore,2020,1A2A,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2A,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2A,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2B,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2B,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2B,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2C,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2C,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2C,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2D,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2D,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2D,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2E,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2E,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2E,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2F,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2F,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2F,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2G,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2G,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2G,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2H,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2H,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2H,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2I,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2I,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2I,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2J,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2J,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2J,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2K,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2K,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2K,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2L,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2L,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2L,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2M,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2M,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2020,1A2M,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
 Singapore,2020,1A3,Coal,NA,NA,NA,NA,NA
 Singapore,2020,1A3,Natural gas,NA,NA,NA,NA,NA
 Singapore,2020,1A3,Oil,NA,NA,NA,NA,NA
@@ -10198,387 +9550,63 @@ Singapore,2021,1A1,Oil,NA,NA,NA,NA,NA
 Singapore,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Singapore,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Singapore,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Singapore,2021,1A1A1,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1A1,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1A1,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1A2,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1A2,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1A2,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1A3,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1A3,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1A3,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1B,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1B,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1B,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1C,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1C,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A1C,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
+Singapore,2021,1A1A1,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1A1,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1A1,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1A2,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1A2,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1A2,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1A3,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1A3,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1A3,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1B,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1B,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1B,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1C,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1C,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A1C,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
 Singapore,2021,1A2,Coal,NA,NA,NA,NA,NA
 Singapore,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Singapore,2021,1A2,Oil,NA,NA,NA,NA,NA
-Singapore,2021,1A2A,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2A,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2A,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2B,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2B,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2B,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2C,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2C,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2C,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2D,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2D,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2D,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2E,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2E,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2E,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2F,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2F,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2F,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2G,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2G,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2G,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2H,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2H,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2H,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2I,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2I,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2I,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2J,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2J,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2J,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2K,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2K,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2K,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2L,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2L,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2L,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2M,Coal,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2M,Natural gas,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
-Singapore,2021,1A2M,Oil,leg(SG[2018]),NA,"2     leg(SG[2018])
-8     leg(SG[2018])
-14    leg(SG[2018])
-Name: source, dtype: object; 2     
-8     
-14    
-Name: comment, dtype: object",NA,NA
+Singapore,2021,1A2A,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2A,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2A,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2B,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2B,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2B,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2C,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2C,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2C,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2D,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2D,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2D,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2E,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2E,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2E,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2F,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2F,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2F,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2G,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2G,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2G,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2H,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2H,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2H,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2I,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2I,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2I,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2J,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2J,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2J,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2K,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2K,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2K,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2L,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2L,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2L,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2M,Coal,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2M,Natural gas,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2021,1A2M,Oil,leg(SG[2018]),NA,leg(SG[2018]); ,NA,NA
 Singapore,2021,1A3,Coal,NA,NA,NA,NA,NA
 Singapore,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 Singapore,2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -10820,387 +9848,63 @@ Singapore,2022,1A1,Oil,NA,NA,NA,NA,NA
 Singapore,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Singapore,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Singapore,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A1A1,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1A1,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1A1,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1A2,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1A2,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1A2,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1A3,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1A3,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1A3,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1B,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1B,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1B,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1C,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1C,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A1C,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
+Singapore,2022,1A1A1,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1A1,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1A1,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1A2,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1A2,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1A2,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1A3,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1A3,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1A3,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1B,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1B,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1B,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1C,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1C,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A1C,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
 Singapore,2022,1A2,Coal,NA,NA,NA,NA,NA
 Singapore,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Singapore,2022,1A2,Oil,NA,NA,NA,NA,NA
-Singapore,2022,1A2A,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2A,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2A,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2B,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2B,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2B,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2C,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2C,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2C,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2D,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2D,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2D,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2E,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2E,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2E,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2F,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2F,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2F,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2G,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2G,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2G,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2H,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2H,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2H,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2I,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2I,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2I,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2J,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2J,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2J,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2K,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2K,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2K,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2L,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2L,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2L,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2M,Coal,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2M,Natural gas,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
-Singapore,2022,1A2M,Oil,db(WBCPD[2023]),NA,"3     leg(SG[2018])
-9     leg(SG[2018])
-15    leg(SG[2018])
-Name: source, dtype: object; 3     
-9     
-15    
-Name: comment, dtype: object",NA,NA
+Singapore,2022,1A2A,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2A,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2A,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2B,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2B,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2B,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2C,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2C,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2C,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2D,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2D,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2D,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2E,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2E,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2E,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2F,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2F,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2F,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2G,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2G,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2G,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2H,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2H,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2H,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2I,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2I,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2I,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2J,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2J,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2J,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2K,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2K,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2K,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2L,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2L,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2L,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2M,Coal,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2M,Natural gas,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
+Singapore,2022,1A2M,Oil,db(WBCPD[2023]),NA,leg(SG[2018]); ,NA,NA
 Singapore,2022,1A3,Coal,NA,NA,NA,NA,NA
 Singapore,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Singapore,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -11442,387 +10146,63 @@ Singapore,2023,1A1,Oil,NA,NA,NA,NA,NA
 Singapore,2023,1A1A,Coal,NA,NA,NA,NA,NA
 Singapore,2023,1A1A,Natural gas,NA,NA,NA,NA,NA
 Singapore,2023,1A1A,Oil,NA,NA,NA,NA,NA
-Singapore,2023,1A1A1,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1A1,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1A1,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1A2,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1A2,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1A2,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1A3,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1A3,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1A3,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1B,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1B,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1B,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1C,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1C,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A1C,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
+Singapore,2023,1A1A1,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1A1,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1A1,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1A2,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1A2,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1A2,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1A3,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1A3,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1A3,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1B,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1B,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1B,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1C,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1C,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A1C,Oil,db(WBCPD[2023]),NA,; ,NA,NA
 Singapore,2023,1A2,Coal,NA,NA,NA,NA,NA
 Singapore,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Singapore,2023,1A2,Oil,NA,NA,NA,NA,NA
-Singapore,2023,1A2A,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2A,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2A,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2B,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2B,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2B,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2C,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2C,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2C,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2D,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2D,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2D,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2E,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2E,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2E,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2F,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2F,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2F,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2G,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2G,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2G,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2H,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2H,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2H,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2I,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2I,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2I,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2J,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2J,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2J,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2K,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2K,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2K,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2L,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2L,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2L,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2M,Coal,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2M,Natural gas,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
-Singapore,2023,1A2M,Oil,db(WBCPD[2023]),NA,"4     
-10    
-16    
-Name: source, dtype: object; 4     
-10    
-16    
-Name: comment, dtype: object",NA,NA
+Singapore,2023,1A2A,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2A,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2A,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2B,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2B,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2B,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2C,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2C,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2C,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2D,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2D,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2D,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2E,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2E,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2E,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2F,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2F,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2F,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2G,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2G,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2G,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2H,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2H,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2H,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2I,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2I,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2I,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2J,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2J,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2J,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2K,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2K,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2K,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2L,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2L,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2L,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2M,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2M,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2023,1A2M,Oil,db(WBCPD[2023]),NA,; ,NA,NA
 Singapore,2023,1A3,Coal,NA,NA,NA,NA,NA
 Singapore,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 Singapore,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -12064,387 +10444,63 @@ Singapore,2024,1A1,Oil,NA,NA,NA,NA,NA
 Singapore,2024,1A1A,Coal,NA,NA,NA,NA,NA
 Singapore,2024,1A1A,Natural gas,NA,NA,NA,NA,NA
 Singapore,2024,1A1A,Oil,NA,NA,NA,NA,NA
-Singapore,2024,1A1A1,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1A1,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1A1,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1A2,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1A2,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1A2,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1A3,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1A3,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1A3,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1B,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1B,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1B,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1C,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1C,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A1C,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
+Singapore,2024,1A1A1,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1A1,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1A1,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1A2,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1A2,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1A2,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1A3,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1A3,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1A3,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1B,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1B,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1B,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1C,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1C,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A1C,Oil,db(WBCPD[2023]),NA,; ,NA,NA
 Singapore,2024,1A2,Coal,NA,NA,NA,NA,NA
 Singapore,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Singapore,2024,1A2,Oil,NA,NA,NA,NA,NA
-Singapore,2024,1A2A,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2A,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2A,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2B,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2B,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2B,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2C,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2C,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2C,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2D,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2D,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2D,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2E,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2E,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2E,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2F,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2F,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2F,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2G,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2G,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2G,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2H,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2H,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2H,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2I,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2I,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2I,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2J,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2J,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2J,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2K,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2K,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2K,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2L,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2L,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2L,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2M,Coal,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2M,Natural gas,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
-Singapore,2024,1A2M,Oil,db(WBCPD[2023]),NA,"5     
-11    
-17    
-Name: source, dtype: object; 5     
-11    
-17    
-Name: comment, dtype: object",NA,NA
+Singapore,2024,1A2A,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2A,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2A,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2B,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2B,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2B,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2C,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2C,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2C,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2D,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2D,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2D,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2E,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2E,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2E,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2F,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2F,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2F,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2G,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2G,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2G,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2H,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2H,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2H,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2I,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2I,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2I,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2J,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2J,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2J,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2K,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2K,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2K,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2L,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2L,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2L,Oil,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2M,Coal,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2M,Natural gas,db(WBCPD[2023]),NA,; ,NA,NA
+Singapore,2024,1A2M,Oil,db(WBCPD[2023]),NA,; ,NA,NA
 Singapore,2024,1A3,Coal,NA,NA,NA,NA,NA
 Singapore,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Singapore,2024,1A3,Oil,NA,NA,NA,NA,NA

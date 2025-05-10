@@ -6339,35 +6339,11 @@ Ireland,2010,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2010,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2010,1A3A1,Oil,NA,NA,NA,NA,NA
 Ireland,2010,1A3A2,Coal,NA,NA,NA,NA,NA
-Ireland,2010,1A3A2,Natural gas,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
-Ireland,2010,1A3A2,Oil,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
+Ireland,2010,1A3A2,Natural gas,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
+Ireland,2010,1A3A2,Oil,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
 Ireland,2010,1A3B,Coal,NA,NA,NA,NA,NA
-Ireland,2010,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
-Ireland,2010,1A3B,Oil,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
+Ireland,2010,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
+Ireland,2010,1A3B,Oil,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
 Ireland,2010,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2010,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2010,1A3C,Oil,NA,NA,NA,NA,NA
@@ -6375,104 +6351,32 @@ Ireland,2010,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2010,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2010,1A3D,Oil,NA,NA,NA,NA,NA
 Ireland,2010,1A3D1,Coal,NA,NA,NA,NA,NA
-Ireland,2010,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
-Ireland,2010,1A3D1,Oil,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
+Ireland,2010,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
+Ireland,2010,1A3D1,Oil,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
 Ireland,2010,1A3D2,Coal,NA,NA,NA,NA,NA
-Ireland,2010,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
-Ireland,2010,1A3D2,Oil,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
+Ireland,2010,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
+Ireland,2010,1A3D2,Oil,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
 Ireland,2010,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2010,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2010,1A3E,Oil,NA,NA,NA,NA,NA
 Ireland,2010,1A3E1,Coal,NA,NA,NA,NA,NA
-Ireland,2010,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
-Ireland,2010,1A3E1,Oil,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
+Ireland,2010,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
+Ireland,2010,1A3E1,Oil,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
 Ireland,2010,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2010,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2010,1A4,Oil,NA,NA,NA,NA,NA
 Ireland,2010,1A4A,Coal,NA,NA,NA,NA,NA
-Ireland,2010,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
-Ireland,2010,1A4A,Oil,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
+Ireland,2010,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
+Ireland,2010,1A4A,Oil,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
 Ireland,2010,1A4B,Coal,NA,NA,NA,NA,NA
-Ireland,2010,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
-Ireland,2010,1A4B,Oil,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
+Ireland,2010,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
+Ireland,2010,1A4B,Oil,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
 Ireland,2010,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2010,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2010,1A4C,Oil,NA,NA,NA,NA,NA
 Ireland,2010,1A4C1,Coal,NA,NA,NA,NA,NA
-Ireland,2010,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
-Ireland,2010,1A4C1,Oil,leg(IRL-FA[2010]),NA,"888    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-889    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-890    report(IEA-EPT[2020]), leg(IRL-FA[2010])
-Name: source, dtype: object; 888    
-889    
-890    
-Name: comment, dtype: object",NA,NA
+Ireland,2010,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
+Ireland,2010,1A4C1,Oil,leg(IRL-FA[2010]),NA,"report(IEA-EPT[2020]), leg(IRL-FA[2010]); ",NA,NA
 Ireland,2010,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2010,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2010,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -6733,35 +6637,11 @@ Ireland,2011,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2011,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2011,1A3A1,Oil,NA,NA,NA,NA,NA
 Ireland,2011,1A3A2,Coal,NA,NA,NA,NA,NA
-Ireland,2011,1A3A2,Natural gas,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
-Ireland,2011,1A3A2,Oil,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
+Ireland,2011,1A3A2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2011,1A3A2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2011,1A3B,Coal,NA,NA,NA,NA,NA
-Ireland,2011,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
-Ireland,2011,1A3B,Oil,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
+Ireland,2011,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2011,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2011,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2011,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2011,1A3C,Oil,NA,NA,NA,NA,NA
@@ -6769,104 +6649,32 @@ Ireland,2011,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2011,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2011,1A3D,Oil,NA,NA,NA,NA,NA
 Ireland,2011,1A3D1,Coal,NA,NA,NA,NA,NA
-Ireland,2011,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
-Ireland,2011,1A3D1,Oil,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
+Ireland,2011,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2011,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2011,1A3D2,Coal,NA,NA,NA,NA,NA
-Ireland,2011,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
-Ireland,2011,1A3D2,Oil,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
+Ireland,2011,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2011,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2011,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2011,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2011,1A3E,Oil,NA,NA,NA,NA,NA
 Ireland,2011,1A3E1,Coal,NA,NA,NA,NA,NA
-Ireland,2011,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
-Ireland,2011,1A3E1,Oil,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
+Ireland,2011,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2011,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2011,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2011,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2011,1A4,Oil,NA,NA,NA,NA,NA
 Ireland,2011,1A4A,Coal,NA,NA,NA,NA,NA
-Ireland,2011,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
-Ireland,2011,1A4A,Oil,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
+Ireland,2011,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2011,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2011,1A4B,Coal,NA,NA,NA,NA,NA
-Ireland,2011,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
-Ireland,2011,1A4B,Oil,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
+Ireland,2011,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2011,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2011,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2011,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2011,1A4C,Oil,NA,NA,NA,NA,NA
 Ireland,2011,1A4C1,Coal,NA,NA,NA,NA,NA
-Ireland,2011,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
-Ireland,2011,1A4C1,Oil,leg(IRL-FA[2010]),NA,"891    report(IEA-EPT[2020])
-892    report(IEA-EPT[2020])
-893    report(IEA-EPT[2020])
-Name: source, dtype: object; 891    
-892    
-893    
-Name: comment, dtype: object",NA,NA
+Ireland,2011,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2011,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2011,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2011,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2011,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -7127,35 +6935,11 @@ Ireland,2012,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2012,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2012,1A3A1,Oil,NA,NA,NA,NA,NA
 Ireland,2012,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2012,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2012,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2012,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2012,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2012,1A3B,Coal,NA,NA,NA,NA,NA
-Ireland,2012,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
-Ireland,2012,1A3B,Oil,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
+Ireland,2012,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2012,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2012,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2012,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2012,1A3C,Oil,NA,NA,NA,NA,NA
@@ -7163,104 +6947,32 @@ Ireland,2012,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2012,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2012,1A3D,Oil,NA,NA,NA,NA,NA
 Ireland,2012,1A3D1,Coal,NA,NA,NA,NA,NA
-Ireland,2012,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
-Ireland,2012,1A3D1,Oil,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
+Ireland,2012,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2012,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2012,1A3D2,Coal,NA,NA,NA,NA,NA
-Ireland,2012,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
-Ireland,2012,1A3D2,Oil,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
+Ireland,2012,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2012,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2012,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2012,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2012,1A3E,Oil,NA,NA,NA,NA,NA
 Ireland,2012,1A3E1,Coal,NA,NA,NA,NA,NA
-Ireland,2012,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
-Ireland,2012,1A3E1,Oil,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
+Ireland,2012,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2012,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2012,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2012,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2012,1A4,Oil,NA,NA,NA,NA,NA
 Ireland,2012,1A4A,Coal,NA,NA,NA,NA,NA
-Ireland,2012,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
-Ireland,2012,1A4A,Oil,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
+Ireland,2012,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2012,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2012,1A4B,Coal,NA,NA,NA,NA,NA
-Ireland,2012,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
-Ireland,2012,1A4B,Oil,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
+Ireland,2012,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2012,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2012,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2012,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2012,1A4C,Oil,NA,NA,NA,NA,NA
 Ireland,2012,1A4C1,Coal,NA,NA,NA,NA,NA
-Ireland,2012,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
-Ireland,2012,1A4C1,Oil,leg(IRL-FA[2010]),NA,"894    report(IEA-EPT[2020])
-895    report(IEA-EPT[2020])
-896    report(IEA-EPT[2020])
-Name: source, dtype: object; 894    
-895    
-896    
-Name: comment, dtype: object",NA,NA
+Ireland,2012,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2012,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2012,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2012,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2012,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -7520,189 +7232,45 @@ Ireland,2013,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2013,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2013,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2013,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2013,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2013,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2013,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2013,1A3B,Coal,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3B,Oil,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2013,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2013,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2013,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2013,1A3B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,NA
+Ireland,2013,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2013,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2013,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2013,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2013,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2013,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2013,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2013,1A3D1,Coal,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3D1,Oil,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3D2,Coal,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3D2,Oil,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2013,1A3D1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,NA
+Ireland,2013,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A3D2,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,NA
+Ireland,2013,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2013,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2013,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2013,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2013,1A3E1,Coal,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A3E1,Oil,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2013,1A3E1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,NA
+Ireland,2013,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2013,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2013,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2013,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2013,1A4A,Coal,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A4A,Oil,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A4B,Coal,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A4B,Oil,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2013,1A4A,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,NA
+Ireland,2013,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A4B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,NA
+Ireland,2013,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2013,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2013,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2013,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2013,1A4C1,Coal,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2013,1A4C1,Oil,leg(IRL-FA[2010]),NA,"897    report(IEA-EPT[2020])
-898    report(IEA-EPT[2020])
-899    report(IEA-EPT[2020])
-Name: source, dtype: object; 897    The tax on coal was introduced on 01/05/2013. ...
-898                                                     
-899                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2013,1A4C1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,NA
+Ireland,2013,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2013,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2013,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2013,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2013,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -7962,189 +7530,45 @@ Ireland,2014,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2014,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2014,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2014,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2014,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2014,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2014,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2014,1A3B,Coal,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3B,Oil,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2014,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2014,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2014,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2014,1A3B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2014,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2014,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2014,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2014,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2014,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2014,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2014,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2014,1A3D1,Coal,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3D1,Oil,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3D2,Coal,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3D2,Oil,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2014,1A3D1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2014,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A3D2,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2014,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2014,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2014,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2014,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2014,1A3E1,Coal,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A3E1,Oil,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2014,1A3E1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2014,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2014,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2014,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2014,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2014,1A4A,Coal,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A4A,Oil,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A4B,Coal,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A4B,Oil,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2014,1A4A,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2014,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A4B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2014,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2014,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2014,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2014,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2014,1A4C1,Coal,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2014,1A4C1,Oil,leg(IRL-FA[2010]),NA,"900    report(IEA-EPT[2020])
-901    report(IEA-EPT[2020])
-902    report(IEA-EPT[2020])
-Name: source, dtype: object; 900    The tax rate on coal was EUR10/tCO2 between 01...
-901                                                     
-902                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2014,1A4C1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2014,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2014,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2014,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2014,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2014,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -8405,35 +7829,11 @@ Ireland,2015,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2015,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2015,1A3A1,Oil,NA,NA,NA,NA,NA
 Ireland,2015,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2015,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2015,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2015,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2015,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2015,1A3B,Coal,NA,NA,NA,NA,NA
-Ireland,2015,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
-Ireland,2015,1A3B,Oil,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
+Ireland,2015,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2015,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2015,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2015,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2015,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8441,104 +7841,32 @@ Ireland,2015,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2015,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2015,1A3D,Oil,NA,NA,NA,NA,NA
 Ireland,2015,1A3D1,Coal,NA,NA,NA,NA,NA
-Ireland,2015,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
-Ireland,2015,1A3D1,Oil,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
+Ireland,2015,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2015,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2015,1A3D2,Coal,NA,NA,NA,NA,NA
-Ireland,2015,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
-Ireland,2015,1A3D2,Oil,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
+Ireland,2015,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2015,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2015,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2015,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2015,1A3E,Oil,NA,NA,NA,NA,NA
 Ireland,2015,1A3E1,Coal,NA,NA,NA,NA,NA
-Ireland,2015,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
-Ireland,2015,1A3E1,Oil,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
+Ireland,2015,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2015,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2015,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2015,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2015,1A4,Oil,NA,NA,NA,NA,NA
 Ireland,2015,1A4A,Coal,NA,NA,NA,NA,NA
-Ireland,2015,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
-Ireland,2015,1A4A,Oil,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
+Ireland,2015,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2015,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2015,1A4B,Coal,NA,NA,NA,NA,NA
-Ireland,2015,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
-Ireland,2015,1A4B,Oil,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
+Ireland,2015,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2015,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2015,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2015,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2015,1A4C,Oil,NA,NA,NA,NA,NA
 Ireland,2015,1A4C1,Coal,NA,NA,NA,NA,NA
-Ireland,2015,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
-Ireland,2015,1A4C1,Oil,leg(IRL-FA[2010]),NA,"903    report(IEA-EPT[2020])
-904    report(IEA-EPT[2020])
-905    report(IEA-EPT[2020])
-Name: source, dtype: object; 903    
-904    
-905    
-Name: comment, dtype: object",NA,NA
+Ireland,2015,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2015,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2015,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2015,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2015,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -8798,189 +8126,45 @@ Ireland,2016,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2016,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2016,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2016,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2016,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2016,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2016,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2016,1A3B,Coal,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3B,Oil,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
+Ireland,2016,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2016,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2016,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2016,1A3B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2016,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2016,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2016,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2016,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2016,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2016,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2016,1A3D1,Coal,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3D1,Oil,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3D2,Coal,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3D2,Oil,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
+Ireland,2016,1A3D1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3D2,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2016,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2016,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2016,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2016,1A3E1,Coal,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A3E1,Oil,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
+Ireland,2016,1A3E1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2016,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2016,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2016,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2016,1A4A,Coal,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A4A,Oil,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A4B,Coal,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A4B,Oil,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
+Ireland,2016,1A4A,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A4B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2016,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2016,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2016,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2016,1A4C1,Coal,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
-Ireland,2016,1A4C1,Oil,leg(IRL-FA[2010]),NA,"906    report(IEA-EPT[2020])
-907    report(IEA-EPT[2020])
-908    report(IEA-EPT[2020])
-Name: source, dtype: object; 906    
-907    
-908    
-Name: comment, dtype: object",NA,NA
+Ireland,2016,1A4C1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2016,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2016,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2016,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2016,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -9240,189 +8424,45 @@ Ireland,2017,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2017,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2017,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2017,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2017,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2017,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2017,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2017,1A3B,Coal,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3B,Oil,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
+Ireland,2017,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2017,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2017,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2017,1A3B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2017,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2017,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2017,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2017,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2017,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2017,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2017,1A3D1,Coal,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3D1,Oil,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3D2,Coal,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3D2,Oil,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
+Ireland,2017,1A3D1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3D2,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2017,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2017,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2017,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2017,1A3E1,Coal,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A3E1,Oil,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
+Ireland,2017,1A3E1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2017,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2017,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2017,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2017,1A4A,Coal,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A4A,Oil,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A4B,Coal,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A4B,Oil,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
+Ireland,2017,1A4A,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A4B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2017,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2017,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2017,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2017,1A4C1,Coal,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
-Ireland,2017,1A4C1,Oil,leg(IRL-FA[2010]),NA,"909    report(IEA-EPT[2020])
-910    report(IEA-EPT[2020])
-911    report(IEA-EPT[2020])
-Name: source, dtype: object; 909    
-910    
-911    
-Name: comment, dtype: object",NA,NA
+Ireland,2017,1A4C1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2017,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2017,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2017,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2017,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -9682,189 +8722,45 @@ Ireland,2018,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2018,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2018,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2018,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2018,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2018]),"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2018,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2018]),"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2018,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2018]),"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2018,1A3B,Coal,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3B,Oil,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
+Ireland,2018,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2018,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2018,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2018,1A3B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2018,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2018,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2018,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2018,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2018,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2018,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2018,1A3D1,Coal,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3D1,Oil,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3D2,Coal,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3D2,Oil,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
+Ireland,2018,1A3D1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3D2,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2018,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2018,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2018,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2018,1A3E1,Coal,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A3E1,Oil,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
+Ireland,2018,1A3E1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2018,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2018,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2018,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2018,1A4A,Coal,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A4A,Oil,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A4B,Coal,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A4B,Oil,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
+Ireland,2018,1A4A,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A4B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2018,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2018,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2018,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2018,1A4C1,Coal,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
-Ireland,2018,1A4C1,Oil,leg(IRL-FA[2010]),NA,"912    report(IEA-EPT[2020])
-913    report(IEA-EPT[2020])
-914    report(IEA-EPT[2020])
-Name: source, dtype: object; 912    
-913    
-914    
-Name: comment, dtype: object",NA,NA
+Ireland,2018,1A4C1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2018,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2018,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2018,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2018,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -10124,189 +9020,45 @@ Ireland,2019,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2019,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2019,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2019,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2019,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2018]),"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2019,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2018]),"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2019,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2018]),"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2019,1A3B,Coal,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3B,Oil,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
+Ireland,2019,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2019,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2019,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2019,1A3B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2019,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2019,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2019,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2019,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2019,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2019,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2019,1A3D1,Coal,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3D1,Oil,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3D2,Coal,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3D2,Oil,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
+Ireland,2019,1A3D1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3D2,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2019,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2019,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2019,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2019,1A3E1,Coal,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A3E1,Oil,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
+Ireland,2019,1A3E1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2019,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2019,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2019,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2019,1A4A,Coal,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A4A,Oil,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A4B,Coal,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A4B,Oil,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
+Ireland,2019,1A4A,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A4B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2019,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2019,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2019,1A4C1,Coal,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
-Ireland,2019,1A4C1,Oil,leg(IRL-FA[2010]),NA,"915    report(IEA-EPT[2020])
-916    report(IEA-EPT[2020])
-917    report(IEA-EPT[2020])
-Name: source, dtype: object; 915    
-916    
-917    
-Name: comment, dtype: object",NA,NA
+Ireland,2019,1A4C1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2019,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2019,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2019,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2019,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -10566,189 +9318,45 @@ Ireland,2020,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2020,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2020,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2020,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2020,1A3A2,Coal,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])","918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2020,1A3A2,Natural gas,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])","918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2020,1A3A2,Oil,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])","918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2020,1A3B,Coal,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3B,Oil,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2020,1A3A2,Coal,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2020,1A3A2,Natural gas,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2020,1A3A2,Oil,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2020,1A3B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2020,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2020,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2020,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2020,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2020,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2020,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2020,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2020,1A3D1,Coal,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3D1,Oil,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3D2,Coal,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3D2,Oil,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2020,1A3D1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2020,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A3D2,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2020,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2020,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2020,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2020,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2020,1A3E1,Coal,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A3E1,Oil,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2020,1A3E1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2020,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2020,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2020,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2020,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2020,1A4A,Coal,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A4A,Oil,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A4B,Coal,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A4B,Oil,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2020,1A4A,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2020,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A4B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2020,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2020,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2020,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2020,1A4C1,Coal,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
-Ireland,2020,1A4C1,Oil,leg(IRL-FA[2010]),NA,"918    report(IEA-EPT[2020])
-919    report(IEA-EPT[2020])
-920    report(IEA-EPT[2020])
-Name: source, dtype: object; 918                                                     
-919    The tax rate on coal was EUR20/tCO2 between 01...
-920                                                     
-Name: comment, dtype: object",NA,NA
+Ireland,2020,1A4C1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,NA
+Ireland,2020,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2020,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2020,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2020,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2020,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -11008,189 +9616,45 @@ Ireland,2021,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2021,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2021,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2021,1A3A2,Coal,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])","921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2021,1A3A2,Natural gas,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])","921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2021,1A3A2,Oil,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])","921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2021,1A3B,Coal,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3B,Oil,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
+Ireland,2021,1A3A2,Coal,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2021,1A3A2,Natural gas,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2021,1A3A2,Oil,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2021,1A3B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2021,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2021,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2021,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2021,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2021,1A3D1,Coal,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3D1,Oil,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3D2,Coal,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3D2,Oil,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
+Ireland,2021,1A3D1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3D1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3D2,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3D2,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2021,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2021,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2021,1A3E1,Coal,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A3E1,Oil,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
+Ireland,2021,1A3E1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A3E1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2021,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2021,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2021,1A4A,Coal,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A4A,Oil,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A4B,Coal,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A4B,Oil,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
+Ireland,2021,1A4A,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A4A,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A4A,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A4B,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A4B,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A4B,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2021,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2021,1A4C1,Coal,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
-Ireland,2021,1A4C1,Oil,leg(IRL-FA[2010]),NA,"921    report(IEA-EPT[2020])
-922    report(IEA-EPT[2020])
-923    report(IEA-EPT[2020])
-Name: source, dtype: object; 921    
-922    
-923    
-Name: comment, dtype: object",NA,NA
+Ireland,2021,1A4C1,Coal,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
+Ireland,2021,1A4C1,Oil,leg(IRL-FA[2010]),NA,report(IEA-EPT[2020]); ,NA,NA
 Ireland,2021,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2021,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2021,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -11450,189 +9914,45 @@ Ireland,2022,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A3A2,Coal,leg(IRL-FA[2010]), ,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2022,1A3A2,Natural gas,leg(IRL-FA[2010]), ,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2022,1A3A2,Oil,leg(IRL-FA[2010]), ,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2022,1A3B,Coal,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3B,Oil,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
+Ireland,2022,1A3A2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2022,1A3A2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2022,1A3A2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2022,1A3B,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3B,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3B,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A3D1,Coal,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3D1,Oil,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3D2,Coal,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3D2,Oil,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
+Ireland,2022,1A3D1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D2,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3D2,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A3E1,Coal,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A3E1,Oil,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
+Ireland,2022,1A3E1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A3E1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A4A,Coal,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A4A,Oil,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A4B,Coal,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A4B,Oil,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
+Ireland,2022,1A4A,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4A,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4A,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4B,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4B,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4B,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A4C1,Coal,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
-Ireland,2022,1A4C1,Oil,leg(IRL-FA[2010]),NA,"924    web(IRL-SFCT[2022])
-925    web(IRL-SFCT[2022])
-926    web(IRL-SFCT[2022])
-Name: source, dtype: object; 924    
-925    
-926    
-Name: comment, dtype: object",NA,NA
+Ireland,2022,1A4C1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2022,1A4C1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2022,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -11892,189 +10212,45 @@ Ireland,2023,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2023,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2023,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2023,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2023,1A3A2,Coal,leg(IRL-FA[2010]), ,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2023,1A3A2,Natural gas,leg(IRL-FA[2010]), ,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2023,1A3A2,Oil,leg(IRL-FA[2010]), ,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2023,1A3B,Coal,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3B,Oil,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
+Ireland,2023,1A3A2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2023,1A3A2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2023,1A3A2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2023,1A3B,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3B,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3B,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2023,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2023,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2023,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2023,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2023,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2023,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2023,1A3D1,Coal,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3D1,Oil,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3D2,Coal,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3D2,Oil,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
+Ireland,2023,1A3D1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3D1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3D2,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3D2,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3D2,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2023,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2023,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2023,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2023,1A3E1,Coal,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A3E1,Oil,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
+Ireland,2023,1A3E1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A3E1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2023,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2023,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2023,1A4A,Coal,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A4A,Oil,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A4B,Coal,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A4B,Oil,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
+Ireland,2023,1A4A,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A4A,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A4A,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A4B,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A4B,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A4B,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2023,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2023,1A4C1,Coal,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
-Ireland,2023,1A4C1,Oil,leg(IRL-FA[2010]),NA,"927    web(IRL-SFCT[2022])
-928    web(IRL-SFCT[2022])
-929    web(IRL-SFCT[2022])
-Name: source, dtype: object; 927    
-928    
-929    
-Name: comment, dtype: object",NA,NA
+Ireland,2023,1A4C1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2023,1A4C1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2023,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2023,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2023,1A4C2,Oil,NA,NA,NA,NA,NA
@@ -12334,189 +10510,45 @@ Ireland,2024,1A3A,Oil,NA,NA,NA,NA,NA
 Ireland,2024,1A3A1,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A3A1,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A3A1,Oil,NA,NA,NA,NA,NA
-Ireland,2024,1A3A2,Coal,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3A2,Natural gas,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3A2,Oil,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3B,Coal,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A3B,Natural gas,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A3B,Oil,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
+Ireland,2024,1A3A2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3A2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3A2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3B,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A3B,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A3B,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2024,1A3C,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A3C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2024,1A3D1,Coal,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3D1,Natural gas,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3D1,Oil,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3D2,Coal,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3D2,Natural gas,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3D2,Oil,leg(IRL-FA[2010]), ,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3D1,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3D1,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3D1,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3D2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3D2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3D2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2024,1A3E,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A3E,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A3E,Oil,NA,NA,NA,NA,NA
-Ireland,2024,1A3E1,Coal,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A3E1,Oil,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
+Ireland,2024,1A3E1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A3E1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A3E1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2024,1A4,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A4,Oil,NA,NA,NA,NA,NA
-Ireland,2024,1A4A,Coal,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A4A,Natural gas,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A4A,Oil,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A4B,Coal,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A4B,Natural gas,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A4B,Oil,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
+Ireland,2024,1A4A,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A4A,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A4A,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A4B,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A4B,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A4B,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A4C,Oil,NA,NA,NA,NA,NA
-Ireland,2024,1A4C1,Coal,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
-Ireland,2024,1A4C1,Oil,leg(IRL-FA[2010]),NA,"930    web(IRL-SFCT[2022])
-931    web(IRL-SFCT[2022])
-932    web(IRL-SFCT[2022])
-Name: source, dtype: object; 930    
-931    
-932    
-Name: comment, dtype: object",NA,NA
+Ireland,2024,1A4C1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A4C1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A4C1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2024,1A4C2,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A4C2,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A4C2,Oil,NA,NA,NA,NA,NA

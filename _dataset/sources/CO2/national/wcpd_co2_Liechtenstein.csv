@@ -5679,48 +5679,12 @@ Liechtenstein,2008,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A1A1,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2008,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2008,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2008,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2008,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2008,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2008,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2008,1A1B,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2008,1A1B,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2008,1A1B,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -5808,27 +5772,9 @@ Liechtenstein,2008,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2008,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2008,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2008,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"990    report(GLOBE-SWI[2015])
-991    report(GLOBE-SWI[2015])
-992    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 990    identical to Switzerland carbon tax
-991    identical to Switzerland carbon tax
-992    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2008,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2008,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2008,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2008,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2008,1A4C,Oil,NA,NA,NA,NA,NA
@@ -6031,48 +5977,12 @@ Liechtenstein,2009,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A1A1,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2009,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2009,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2009,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2009,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2009,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2009,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2009,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2009,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2009,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2009,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2009,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2009,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2009,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2009,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2009,1A1B,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2009,1A1B,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2009,1A1B,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -6160,27 +6070,9 @@ Liechtenstein,2009,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2009,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2009,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2009,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"993    report(GLOBE-SWI[2015])
-994    report(GLOBE-SWI[2015])
-995    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 993    identical to Switzerland carbon tax
-994    identical to Switzerland carbon tax
-995    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2009,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2009,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2009,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2009,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2009,1A4C,Oil,NA,NA,NA,NA,NA
@@ -6383,48 +6275,12 @@ Liechtenstein,2010,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A1A1,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2010,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2010,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2010,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2010,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2010,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2010,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2010,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2010,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2010,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2010,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2010,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2010,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2010,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2010,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2010,1A1B,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2010,1A1B,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2010,1A1B,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -6512,27 +6368,9 @@ Liechtenstein,2010,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2010,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2010,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2010,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"996    report(GLOBE-SWI[2015])
-997    report(GLOBE-SWI[2015])
-998    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 996    identical to Switzerland carbon tax
-997    identical to Switzerland carbon tax
-998    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2010,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2010,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2010,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2010,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2010,1A4C,Oil,NA,NA,NA,NA,NA
@@ -6735,48 +6573,12 @@ Liechtenstein,2011,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A1A1,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2011,1A1A1,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2011,1A1A1,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2011,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2011,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2011,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2011,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2011,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2011,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2011,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2011,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2011,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2011,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2011,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2011,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2003]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2011,1A1B,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2011,1A1B,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2011,1A1B,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -6864,27 +6666,9 @@ Liechtenstein,2011,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2011,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2011,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2011,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"999     report(GLOBE-SWI[2015])
-1000    report(GLOBE-SWI[2015])
-1001    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 999     identical to Switzerland carbon tax
-1000    identical to Switzerland carbon tax
-1001    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2011,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2011,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2011,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2011,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2011,1A4C,Oil,NA,NA,NA,NA,NA
@@ -7087,48 +6871,12 @@ Liechtenstein,2012,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2012,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2012,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2012,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2012,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2012,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2012,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2012,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2012,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2012,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2014]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2012,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2014]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2012,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2014]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2012,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2014]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2012,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2014]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2012,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2014]),report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2012,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2012,1A1B,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2012,1A1B,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7216,27 +6964,9 @@ Liechtenstein,2012,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2012,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2012,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2012,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1002    report(GLOBE-SWI[2015])
-1003    report(GLOBE-SWI[2015])
-1004    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1002    identical to Switzerland carbon tax
-1003    identical to Switzerland carbon tax
-1004    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2012,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2012,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2012,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2012,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2012,1A4C,Oil,NA,NA,NA,NA,NA
@@ -7439,48 +7169,12 @@ Liechtenstein,2013,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2013,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2013,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2013,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2013,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2013,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2013,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2013,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2013,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2013,1A1A2,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2013,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2013,1A1A2,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2013,1A1A3,Coal,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2013,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2013,1A1A3,Oil,"gvt(CH[2005], CH[2009])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2013,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2013,1A1B,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2013,1A1B,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7568,27 +7262,9 @@ Liechtenstein,2013,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2013,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2013,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2013,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1005    report(WB[2014],IEA-EPT[2018])
-1006    report(WB[2014],IEA-EPT[2018])
-1007    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1005    identical to Switzerland carbon tax
-1006    identical to Switzerland carbon tax
-1007    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2013,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2013,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2013,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
 Liechtenstein,2013,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2013,1A4C,Oil,NA,NA,NA,NA,NA
@@ -7791,48 +7467,12 @@ Liechtenstein,2014,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2014,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2014,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2014,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2014,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2014,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2014,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2014,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2014,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2014,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2014,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2014,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2014,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2014,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2014,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2014,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2014,1A1B,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2014,1A1B,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7920,27 +7560,9 @@ Liechtenstein,2014,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2014,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2014,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2014,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1008    report(WB[2014],IEA-EPT[2018])
-1009    report(WB[2014],IEA-EPT[2018])
-1010    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1008    identical to Switzerland carbon tax
-1009    identical to Switzerland carbon tax
-1010    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2014,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2014,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2014,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
 Liechtenstein,2014,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2014,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8143,48 +7765,12 @@ Liechtenstein,2015,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2015,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2015,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2015,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2015,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2015,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2015,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2015,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2015,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2015,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2015,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2015,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2015,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2015,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2015,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2015,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2015,1A1B,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2015,1A1B,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8272,27 +7858,9 @@ Liechtenstein,2015,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2015,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2015,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2015,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1011    report(WB[2014],IEA-EPT[2018])
-1012    report(WB[2014],IEA-EPT[2018])
-1013    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1011    identical to Switzerland carbon tax
-1012    identical to Switzerland carbon tax
-1013    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2015,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2015,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2015,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
 Liechtenstein,2015,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2015,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8495,48 +8063,12 @@ Liechtenstein,2016,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2016,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2016,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2016,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2016,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2016,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2016,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2016,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2016,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2016,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2016,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2016,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2016,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2016,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2016,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2016,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2016,1A1B,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2016,1A1B,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8624,27 +8156,9 @@ Liechtenstein,2016,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2016,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2016,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2016,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1014    report(WB[2014],IEA-EPT[2018])
-1015    report(WB[2014],IEA-EPT[2018])
-1016    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1014    identical to Switzerland carbon tax
-1015    identical to Switzerland carbon tax
-1016    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2016,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2016,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2016,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
 Liechtenstein,2016,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2016,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8847,48 +8361,12 @@ Liechtenstein,2017,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2017,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2017,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2017,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2017,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2017,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2017,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2017,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2017,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2017,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2017,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2017,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2017,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2017,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2017,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2014]),"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2017,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2017,1A1B,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2017,1A1B,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8976,27 +8454,9 @@ Liechtenstein,2017,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2017,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2017,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2017,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1017    report(WB[2014],IEA-EPT[2018])
-1018    report(WB[2014],IEA-EPT[2018])
-1019    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1017    identical to Switzerland carbon tax
-1018    identical to Switzerland carbon tax
-1019    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2017,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2017,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
+Liechtenstein,2017,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"report(WB[2014],IEA-EPT[2018]); identical to Switzerland carbon tax",NA,NA
 Liechtenstein,2017,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2017,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9199,48 +8659,12 @@ Liechtenstein,2018,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A1A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2018,1A1A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2018,1A1A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2018,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2018,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2018,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2018,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2018,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2018,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2018,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2018,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2018,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2018,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2018,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2018,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2018,1A1B,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2018,1A1B,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2018,1A1B,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9328,27 +8752,9 @@ Liechtenstein,2018,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2018,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2018,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2018,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1020    gvt(CH-OFEV[2018])
-1021    gvt(CH-OFEV[2018])
-1022    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1020    identical to Switzerland carbon tax
-1021    identical to Switzerland carbon tax
-1022    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2018,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2018,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2018,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2018,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2018,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9551,48 +8957,12 @@ Liechtenstein,2019,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A1A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2019,1A1A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2019,1A1A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2019,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2019,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2019,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2019,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2019,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2019,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2019,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2019,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2019,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2019,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2019,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2019,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",leg(EC[2018]),gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2019,1A1B,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2019,1A1B,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2019,1A1B,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9680,27 +9050,9 @@ Liechtenstein,2019,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2019,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2019,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2019,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1023    gvt(CH-OFEV[2018])
-1024    gvt(CH-OFEV[2018])
-1025    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1023    identical to Switzerland carbon tax
-1024    identical to Switzerland carbon tax
-1025    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2019,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2019,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2019,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2019,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2019,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9903,48 +9255,12 @@ Liechtenstein,2020,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A1A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2020,1A1A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2020,1A1A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2020,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2020,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2020,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2020,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2020,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2020,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2020,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2020,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2020,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2020,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2020,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2020,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2020,1A1B,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2020,1A1B,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2020,1A1B,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10032,27 +9348,9 @@ Liechtenstein,2020,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2020,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2020,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2020,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1026    gvt(CH-OFEV[2018])
-1027    gvt(CH-OFEV[2018])
-1028    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1026    identical to Switzerland carbon tax
-1027    identical to Switzerland carbon tax
-1028    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2020,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2020,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2020,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2020,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2020,1A4C,Oil,NA,NA,NA,NA,NA
@@ -10255,48 +9553,12 @@ Liechtenstein,2021,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A1A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2021,1A1A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2021,1A1A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2021,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2021,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2021,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2021,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2021,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2021,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])","1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2021,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2021,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2021,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2021,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2021,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2021,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])","leg(EC[2018], EC[2020])",gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2021,1A1B,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2021,1A1B,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2021,1A1B,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10384,27 +9646,9 @@ Liechtenstein,2021,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2021,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2021,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2021,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1029    gvt(CH-OFEV[2018])
-1030    gvt(CH-OFEV[2018])
-1031    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1029    identical to Switzerland carbon tax
-1030    identical to Switzerland carbon tax
-1031    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2021,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2021,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2021,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2018]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2021,1A4C,Oil,NA,NA,NA,NA,NA
@@ -10607,48 +9851,12 @@ Liechtenstein,2022,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2022,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2022,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2022,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2022,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2022,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2022,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2022,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2022,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2022,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2022,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2022,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2022,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2022,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2022,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2022,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2022,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10736,27 +9944,9 @@ Liechtenstein,2022,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2022,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2022,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2022,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1032    gvt(CH-OFEV[2021])
-1033    gvt(CH-OFEV[2021])
-1034    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1032    identical to Switzerland carbon tax
-1033    identical to Switzerland carbon tax
-1034    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2022,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2022,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2022,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2022,1A4C,Oil,NA,NA,NA,NA,NA
@@ -10959,48 +10149,12 @@ Liechtenstein,2023,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2023,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2023,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2023,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2023,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2023,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2023,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2023,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2023,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2023,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2023,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2023,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2023,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2023,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2023,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2023,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2023,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2023,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2023,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -11088,27 +10242,9 @@ Liechtenstein,2023,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2023,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2023,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2023,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2023,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2023,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2023,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1035    gvt(CH-OFEV[2021])
-1036    gvt(CH-OFEV[2021])
-1037    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1035    identical to Switzerland carbon tax
-1036    identical to Switzerland carbon tax
-1037    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2023,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2023,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2023,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2023,1A4C,Oil,NA,NA,NA,NA,NA
@@ -11311,48 +10447,12 @@ Liechtenstein,2024,1A1A,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2024,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2024,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2024,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2024,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2024,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2024,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2024,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2024,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Liechtenstein,2024,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2024,1A1A2,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2024,1A1A2,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2024,1A1A2,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2024,1A1A3,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2024,1A1A3,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Liechtenstein,2024,1A1A3,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])", ,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2024,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2024,1A1B,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Liechtenstein,2024,1A1B,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -11440,27 +10540,9 @@ Liechtenstein,2024,1A4,Oil,NA,NA,NA,NA,NA
 Liechtenstein,2024,1A4A,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2024,1A4A,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2024,1A4A,Oil,NA,NA,NA,NA,NA
-Liechtenstein,2024,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2024,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
-Liechtenstein,2024,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,"1038    gvt(CH-OFEV[2021])
-1039    gvt(CH-OFEV[2021])
-1040    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1038    identical to Switzerland carbon tax
-1039    identical to Switzerland carbon tax
-1040    identical to Switzerland carbon tax
-Name: comment, dtype: object",NA,NA
+Liechtenstein,2024,1A4B,Coal,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2024,1A4B,Natural gas,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
+Liechtenstein,2024,1A4B,Oil,"leg(CHE-CO2[2013], CHE-FARC[2013])",NA,gvt(CH-OFEV[2021]); identical to Switzerland carbon tax,NA,NA
 Liechtenstein,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Liechtenstein,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Liechtenstein,2024,1A4C,Oil,NA,NA,NA,NA,NA

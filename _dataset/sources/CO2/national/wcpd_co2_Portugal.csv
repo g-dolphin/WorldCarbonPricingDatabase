@@ -7765,90 +7765,18 @@ Portugal,2015,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2015,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2015,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2015,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2015,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2015,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2015,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2015,1A2,Oil,NA,NA,NA,NA,NA
@@ -7897,51 +7825,15 @@ Portugal,2015,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2015,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2015,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
+Portugal,2015,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2015,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2015,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2015,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2015,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
+Portugal,2015,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2015,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2015,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2015,1A3C,Oil,NA,NA,NA,NA,NA
@@ -7963,93 +7855,21 @@ Portugal,2015,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2015,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2015,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2015,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2015,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
+Portugal,2015,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2015,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2015,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2015,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2015,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
-Portugal,2015,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"816    report(IEA-EPT[2020])
-826    report(IEA-EPT[2020])
-836    report(IEA-EPT[2020])
-Name: source, dtype: object; 816    
-826    
-836    
-Name: comment, dtype: object",NA,NA
+Portugal,2015,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2015,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2015,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2015,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2015,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -8243,90 +8063,18 @@ Portugal,2016,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2016,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2016,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2016,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2016,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2016,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2016,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2016,1A2,Oil,NA,NA,NA,NA,NA
@@ -8375,51 +8123,15 @@ Portugal,2016,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2016,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2016,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
+Portugal,2016,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2016,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2016,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2016,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2016,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
+Portugal,2016,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2016,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2016,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2016,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8441,93 +8153,21 @@ Portugal,2016,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2016,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2016,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2016,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2016,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
+Portugal,2016,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2016,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2016,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2016,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2016,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
-Portugal,2016,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"817    report(IEA-EPT[2020])
-827    report(IEA-EPT[2020])
-837    report(IEA-EPT[2020])
-Name: source, dtype: object; 817    
-827    
-837    
-Name: comment, dtype: object",NA,NA
+Portugal,2016,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2016,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2016,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2016,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2016,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -8721,90 +8361,18 @@ Portugal,2017,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2017,1A1A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2017,1A1A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2017,1A1A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2017,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2017,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2017,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2017,1A2,Oil,NA,NA,NA,NA,NA
@@ -8853,51 +8421,15 @@ Portugal,2017,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2017,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2017,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2017,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2017,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
+Portugal,2017,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2017,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2017,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2017,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2017,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
+Portugal,2017,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2017,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2017,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2017,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8919,93 +8451,21 @@ Portugal,2017,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2017,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2017,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2017,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2017,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
+Portugal,2017,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2017,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2017,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2017,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2017,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
-Portugal,2017,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"818    report(IEA-EPT[2020])
-828    report(IEA-EPT[2020])
-838    report(IEA-EPT[2020])
-Name: source, dtype: object; 818    
-828    
-838    
-Name: comment, dtype: object",NA,NA
+Portugal,2017,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2017,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2017,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2017,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2017,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -9199,90 +8659,18 @@ Portugal,2018,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2018,1A1A1,Coal,NA,leg(EC[2018]),NA,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2018,1A1A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2018,1A1A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2018,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2018,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2018,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2018,1A2,Oil,NA,NA,NA,NA,NA
@@ -9331,51 +8719,15 @@ Portugal,2018,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2018,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2018,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2018,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2018,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",NA
-Portugal,2018,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",NA
-Portugal,2018,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",NA
+Portugal,2018,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",NA
+Portugal,2018,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",NA
+Portugal,2018,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,"leg(PRT[2014], PRT[2016], PRT[2018])",NA
 Portugal,2018,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2018,1A3A2,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2018,1A3A2,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2018,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2018,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2018,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2018,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2018,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2018,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2018,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9397,93 +8749,21 @@ Portugal,2018,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2018,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2018,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2018,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2018,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2018,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2018,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2018,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2018,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2018,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2018,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2018,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2018,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2018,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2018,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2018,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"819    report(IEA-EPT[2020])
-829    report(IEA-EPT[2020])
-839    report(IEA-EPT[2020])
-Name: source, dtype: object; 819    Coal used for power generation: In 2018 it was...
-829                                                     
-839                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2018,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2018,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2018,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2018,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2018,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2018,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2018,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2018,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2018,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -9677,90 +8957,18 @@ Portugal,2019,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2019,1A1A1,Coal,NA,leg(EC[2018]),NA,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2019,1A1A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2019,1A1A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2019,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])",leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2019,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2019,1A2,Oil,NA,NA,NA,NA,NA
@@ -9809,51 +9017,15 @@ Portugal,2019,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2019,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2019,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2019,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2019,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2019,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2019,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2019,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2019,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2019,1A3A2,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2019,1A3A2,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2019,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2019,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2019,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2019,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2019,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2019,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2019,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9875,93 +9047,21 @@ Portugal,2019,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2019,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2019,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2019,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2019,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2019,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2019,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2019,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2019,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2019,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2019,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2019,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2019,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2019,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2019,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"820    report(IEA-EPT[2020])
-830    report(IEA-EPT[2020])
-840    report(IEA-EPT[2020])
-Name: source, dtype: object; 820    Coal used for power generation: In 2018 it was...
-830                                                     
-840                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2019,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2019,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2019,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2019,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"report(IEA-EPT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2019,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
+Portugal,2019,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,report(IEA-EPT[2020]); ,NA,NA
 Portugal,2019,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2019,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2019,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -10155,90 +9255,18 @@ Portugal,2020,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2020,1A1A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,"leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2020,1A1A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2020,1A1A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",leg(PRT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",leg(PRT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ","leg(PRT[2014], PRT[2016], PRT[2018])",db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",leg(PRT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",leg(PRT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",leg(PRT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",leg(PRT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",leg(PRT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2020,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",leg(PRT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2020,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2020,1A2,Oil,NA,NA,NA,NA,NA
@@ -10287,51 +9315,15 @@ Portugal,2020,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2020,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2020,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2020,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2020,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2020,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2020,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
+Portugal,2020,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
 Portugal,2020,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2020,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2020,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2020,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2020,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2020,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
+Portugal,2020,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
 Portugal,2020,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2020,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2020,1A3C,Oil,NA,NA,NA,NA,NA
@@ -10353,93 +9345,21 @@ Portugal,2020,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2020,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2020,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2020,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2020,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2020,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2020,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
+Portugal,2020,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
+Portugal,2020,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2020,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
+Portugal,2020,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
 Portugal,2020,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2020,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2020,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
-Portugal,2020,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"821    leg(PRT[2020])
-831    leg(PRT[2020])
-841    leg(PRT[2020])
-Name: source, dtype: object; 821    Coal used for power generation: In 2018 it was...
-831                                                     
-841                                                     
-Name: comment, dtype: object",NA,NA
+Portugal,2020,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2020,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
+Portugal,2020,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
+Portugal,2020,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"leg(PRT[2020]); Coal used for power generation: In 2018 it was applied 10%, 2019 25%, and in 2020 50% of the normal carbon tax applied to coal, calculated using a tax rate of 6,85 EUR/tonneCO2 in 2018 and 5 EUR/tonneCO2 in 2019 and 2020 ",NA,NA
+Portugal,2020,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
+Portugal,2020,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,leg(PRT[2020]); ,NA,NA
 Portugal,2020,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2020,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2020,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -10633,90 +9553,18 @@ Portugal,2021,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2021,1A1A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2021,1A1A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2021,1A1A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])","822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2021,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])","leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2021,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2021,1A2,Oil,NA,NA,NA,NA,NA
@@ -10765,51 +9613,15 @@ Portugal,2021,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2021,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2021,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2021,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2021,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
+Portugal,2021,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2021,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2021,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2021,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
+Portugal,2021,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2021,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2021,1A3C,Oil,NA,NA,NA,NA,NA
@@ -10831,93 +9643,21 @@ Portugal,2021,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2021,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2021,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2021,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
+Portugal,2021,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2021,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2021,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
-Portugal,2021,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"822    
-832    
-842    
-Name: source, dtype: object; 822    
-832    
-842    
-Name: comment, dtype: object",NA,NA
+Portugal,2021,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2021,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2021,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2021,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2021,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -11111,90 +9851,18 @@ Portugal,2022,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2022,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2022,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2022,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2022,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,db(WCPD[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2022,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -11243,51 +9911,15 @@ Portugal,2022,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2022,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2022,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
+Portugal,2022,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
 Portugal,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2022,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2022,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2022,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
+Portugal,2022,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
 Portugal,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -11309,93 +9941,21 @@ Portugal,2022,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2022,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2022,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
+Portugal,2022,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
 Portugal,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2022,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
-Portugal,2022,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"823    db(WCPD[2022])
-833    db(WCPD[2022])
-843    db(WCPD[2022])
-Name: source, dtype: object; 823    
-833    
-843    
-Name: comment, dtype: object",NA,NA
+Portugal,2022,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
+Portugal,2022,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,db(WCPD[2022]); ,NA,NA
 Portugal,2022,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2022,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2022,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -11589,90 +10149,18 @@ Portugal,2023,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2023,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2023,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2023,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2023,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2023,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2023,1A2,Oil,NA,NA,NA,NA,NA
@@ -11721,51 +10209,15 @@ Portugal,2023,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2023,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2023,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2023,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2023,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
+Portugal,2023,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2023,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2023,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2023,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2023,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
+Portugal,2023,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2023,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2023,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2023,1A3C,Oil,NA,NA,NA,NA,NA
@@ -11787,93 +10239,21 @@ Portugal,2023,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2023,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2023,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2023,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
+Portugal,2023,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2023,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2023,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
-Portugal,2023,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"824    
-834    
-844    
-Name: source, dtype: object; 824    
-834    
-844    
-Name: comment, dtype: object",NA,NA
+Portugal,2023,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2023,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2023,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2023,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2023,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -12067,90 +10447,18 @@ Portugal,2024,1A1A,Oil,NA,NA,NA,NA,NA
 Portugal,2024,1A1A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2024,1A1A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2024,1A1A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1A2,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1A2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1A2,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1A3,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1A3,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1A3,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1B,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1B,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1C,Coal,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1C,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Portugal,2024,1A1C,Oil,"leg(PRT[2014]), gvt(PRT[2014])", ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2024,1A2,Coal,NA,NA,NA,NA,NA
 Portugal,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Portugal,2024,1A2,Oil,NA,NA,NA,NA,NA
@@ -12199,51 +10507,15 @@ Portugal,2024,1A3,Oil,NA,NA,NA,NA,NA
 Portugal,2024,1A3A,Coal,NA,NA,NA,NA,NA
 Portugal,2024,1A3A,Natural gas,NA,NA,NA,NA,NA
 Portugal,2024,1A3A,Oil,NA,NA,NA,NA,NA
-Portugal,2024,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
+Portugal,2024,1A3A1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A3A1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A3A1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2024,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2024,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Portugal,2024,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Portugal,2024,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
+Portugal,2024,1A3B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A3B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A3B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2024,1A3C,Coal,NA,NA,NA,NA,NA
 Portugal,2024,1A3C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2024,1A3C,Oil,NA,NA,NA,NA,NA
@@ -12265,93 +10537,21 @@ Portugal,2024,1A3E1,Oil,NA,NA,NA,NA,NA
 Portugal,2024,1A4,Coal,NA,NA,NA,NA,NA
 Portugal,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 Portugal,2024,1A4,Oil,NA,NA,NA,NA,NA
-Portugal,2024,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
+Portugal,2024,1A4A,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4A,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4A,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4B,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4B,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4B,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Portugal,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Portugal,2024,1A4C,Oil,NA,NA,NA,NA,NA
-Portugal,2024,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
-Portugal,2024,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,"825    
-835    
-845    
-Name: source, dtype: object; 825    
-835    
-845    
-Name: comment, dtype: object",NA,NA
+Portugal,2024,1A4C1,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4C1,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4C1,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4C2,Coal,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4C2,Natural gas,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
+Portugal,2024,1A4C2,Oil,"leg(PRT[2014]), gvt(PRT[2014])",NA,; ,NA,NA
 Portugal,2024,1A4C3,Coal,NA,NA,NA,NA,NA
 Portugal,2024,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Portugal,2024,1A4C3,Oil,NA,NA,NA,NA,NA

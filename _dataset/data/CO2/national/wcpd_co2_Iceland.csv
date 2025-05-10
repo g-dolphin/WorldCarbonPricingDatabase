@@ -6283,10 +6283,10 @@ Iceland,2010,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.28,EUR,,,
 Iceland,2010,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.28,EUR,,,
 Iceland,2010,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.28,EUR,,,
 Iceland,2010,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.28,EUR,,,
-Iceland,2010,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,14.28,EUR,,,
+Iceland,2010,1A1B,Oil,1.0,1.0,isl_tax,737.0,0.0,737.0,ISK,eu_ets,14.28,EUR,,,
 Iceland,2010,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.28,EUR,,,
 Iceland,2010,1A1C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,14.28,EUR,,,
-Iceland,2010,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,14.28,EUR,,,
+Iceland,2010,1A1C,Oil,1.0,1.0,isl_tax,737.0,0.0,737.0,ISK,eu_ets,14.28,EUR,,,
 Iceland,2010,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6343,7 +6343,7 @@ Iceland,2010,1A3A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A3A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A3B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2010,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2010,1A3B,Oil,1.0,0.0,isl_tax,737.0,0.0,737.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6367,19 +6367,19 @@ Iceland,2010,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2010,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2010,1A4A,Oil,1.0,0.0,isl_tax,737.0,0.0,737.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2010,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2010,1A4B,Oil,1.0,0.0,isl_tax,737.0,0.0,737.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2010,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2010,1A4C1,Oil,1.0,0.0,isl_tax,737.0,0.0,737.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2010,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2010,1A4C2,Oil,1.0,0.0,isl_tax,737.0,0.0,737.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2010,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6581,10 +6581,10 @@ Iceland,2011,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.27,EUR,,,
 Iceland,2011,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.27,EUR,,,
 Iceland,2011,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.27,EUR,,,
 Iceland,2011,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.27,EUR,,,
-Iceland,2011,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,13.27,EUR,,,
+Iceland,2011,1A1B,Oil,1.0,1.0,isl_tax,1970.0,0.0,1970.0,ISK,eu_ets,13.27,EUR,,,
 Iceland,2011,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.27,EUR,,,
 Iceland,2011,1A1C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,13.27,EUR,,,
-Iceland,2011,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,13.27,EUR,,,
+Iceland,2011,1A1C,Oil,1.0,1.0,isl_tax,1970.0,0.0,1970.0,ISK,eu_ets,13.27,EUR,,,
 Iceland,2011,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6641,7 +6641,7 @@ Iceland,2011,1A3A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A3A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A3B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2011,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2011,1A3B,Oil,1.0,0.0,isl_tax,1970.0,0.0,1970.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6665,19 +6665,19 @@ Iceland,2011,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2011,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2011,1A4A,Oil,1.0,0.0,isl_tax,1970.0,0.0,1970.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2011,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2011,1A4B,Oil,1.0,0.0,isl_tax,1970.0,0.0,1970.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2011,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2011,1A4C1,Oil,1.0,0.0,isl_tax,1970.0,0.0,1970.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2011,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2011,1A4C2,Oil,1.0,0.0,isl_tax,1970.0,0.0,1970.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2011,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6879,10 +6879,10 @@ Iceland,2012,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
 Iceland,2012,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
 Iceland,2012,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
 Iceland,2012,1A1B,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
-Iceland,2012,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,7.24,EUR,,,
+Iceland,2012,1A1B,Oil,1.0,1.0,isl_tax,1508.0,0.0,1508.0,ISK,eu_ets,7.24,EUR,,,
 Iceland,2012,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
 Iceland,2012,1A1C,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
-Iceland,2012,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,7.24,EUR,,,
+Iceland,2012,1A1C,Oil,1.0,1.0,isl_tax,1508.0,0.0,1508.0,ISK,eu_ets,7.24,EUR,,,
 Iceland,2012,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6939,7 +6939,7 @@ Iceland,2012,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
 Iceland,2012,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.24,EUR,,,
 Iceland,2012,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A3B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2012,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2012,1A3B,Oil,1.0,0.0,isl_tax,1508.0,0.0,1508.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6963,19 +6963,19 @@ Iceland,2012,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2012,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2012,1A4A,Oil,1.0,0.0,isl_tax,1508.0,0.0,1508.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2012,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2012,1A4B,Oil,1.0,0.0,isl_tax,1508.0,0.0,1508.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2012,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2012,1A4C1,Oil,1.0,0.0,isl_tax,1508.0,0.0,1508.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2012,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2012,1A4C2,Oil,1.0,0.0,isl_tax,1508.0,0.0,1508.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2012,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7176,11 +7176,11 @@ Iceland,2013,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
 Iceland,2013,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
 Iceland,2013,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
 Iceland,2013,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
-Iceland,2013,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,4.37,EUR,,,
-Iceland,2013,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,4.37,EUR,,,
+Iceland,2013,1A1B,Natural gas,1.0,1.0,isl_tax,775.0,0.0,775.0,ISK,eu_ets,4.37,EUR,,,
+Iceland,2013,1A1B,Oil,1.0,1.0,isl_tax,775.0,0.0,775.0,ISK,eu_ets,4.37,EUR,,,
 Iceland,2013,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
-Iceland,2013,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,4.37,EUR,,,
-Iceland,2013,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,4.37,EUR,,,
+Iceland,2013,1A1C,Natural gas,1.0,1.0,isl_tax,775.0,0.0,775.0,ISK,eu_ets,4.37,EUR,,,
+Iceland,2013,1A1C,Oil,1.0,1.0,isl_tax,775.0,0.0,775.0,ISK,eu_ets,4.37,EUR,,,
 Iceland,2013,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7236,8 +7236,8 @@ Iceland,2013,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
 Iceland,2013,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
 Iceland,2013,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
 Iceland,2013,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A3B,Natural gas,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A3B,Oil,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7260,20 +7260,20 @@ Iceland,2013,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A4A,Natural gas,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A4A,Oil,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A4B,Natural gas,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A4B,Oil,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A4C1,Natural gas,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A4C1,Oil,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2013,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A4C2,Natural gas,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2013,1A4C2,Oil,1.0,0.0,isl_tax,775.0,0.0,775.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2013,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7474,11 +7474,11 @@ Iceland,2014,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
 Iceland,2014,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
 Iceland,2014,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
 Iceland,2014,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
-Iceland,2014,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.91,EUR,,,
-Iceland,2014,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.91,EUR,,,
+Iceland,2014,1A1B,Natural gas,1.0,1.0,isl_tax,1120.0,0.0,1120.0,ISK,eu_ets,5.91,EUR,,,
+Iceland,2014,1A1B,Oil,1.0,1.0,isl_tax,1120.0,0.0,1120.0,ISK,eu_ets,5.91,EUR,,,
 Iceland,2014,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
-Iceland,2014,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.91,EUR,,,
-Iceland,2014,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.91,EUR,,,
+Iceland,2014,1A1C,Natural gas,1.0,1.0,isl_tax,1120.0,0.0,1120.0,ISK,eu_ets,5.91,EUR,,,
+Iceland,2014,1A1C,Oil,1.0,1.0,isl_tax,1120.0,0.0,1120.0,ISK,eu_ets,5.91,EUR,,,
 Iceland,2014,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7534,8 +7534,8 @@ Iceland,2014,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
 Iceland,2014,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
 Iceland,2014,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
 Iceland,2014,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A3B,Natural gas,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A3B,Oil,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7558,20 +7558,20 @@ Iceland,2014,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A4A,Natural gas,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A4A,Oil,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A4B,Natural gas,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A4B,Oil,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A4C1,Natural gas,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A4C1,Oil,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2014,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A4C2,Natural gas,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2014,1A4C2,Oil,1.0,0.0,isl_tax,1120.0,0.0,1120.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2014,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7772,11 +7772,11 @@ Iceland,2015,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
 Iceland,2015,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
 Iceland,2015,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
 Iceland,2015,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
-Iceland,2015,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,7.62,EUR,,,
-Iceland,2015,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,7.62,EUR,,,
+Iceland,2015,1A1B,Natural gas,1.0,1.0,isl_tax,1081.0,0.0,1081.0,ISK,eu_ets,7.62,EUR,,,
+Iceland,2015,1A1B,Oil,1.0,1.0,isl_tax,1081.0,0.0,1081.0,ISK,eu_ets,7.62,EUR,,,
 Iceland,2015,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
-Iceland,2015,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,7.62,EUR,,,
-Iceland,2015,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,7.62,EUR,,,
+Iceland,2015,1A1C,Natural gas,1.0,1.0,isl_tax,1081.0,0.0,1081.0,ISK,eu_ets,7.62,EUR,,,
+Iceland,2015,1A1C,Oil,1.0,1.0,isl_tax,1081.0,0.0,1081.0,ISK,eu_ets,7.62,EUR,,,
 Iceland,2015,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7832,8 +7832,8 @@ Iceland,2015,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
 Iceland,2015,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
 Iceland,2015,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
 Iceland,2015,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A3B,Natural gas,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A3B,Oil,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7856,20 +7856,20 @@ Iceland,2015,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A4A,Natural gas,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A4A,Oil,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A4B,Natural gas,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A4B,Oil,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A4C1,Natural gas,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A4C1,Oil,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2015,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A4C2,Natural gas,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2015,1A4C2,Oil,1.0,0.0,isl_tax,1081.0,0.0,1081.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2015,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8070,11 +8070,11 @@ Iceland,2016,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
 Iceland,2016,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
 Iceland,2016,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
 Iceland,2016,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
-Iceland,2016,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.25,EUR,,,
-Iceland,2016,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.25,EUR,,,
+Iceland,2016,1A1B,Natural gas,1.0,1.0,isl_tax,1190.0,0.0,1190.0,ISK,eu_ets,5.25,EUR,,,
+Iceland,2016,1A1B,Oil,1.0,1.0,isl_tax,1190.0,0.0,1190.0,ISK,eu_ets,5.25,EUR,,,
 Iceland,2016,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
-Iceland,2016,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.25,EUR,,,
-Iceland,2016,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.25,EUR,,,
+Iceland,2016,1A1C,Natural gas,1.0,1.0,isl_tax,1190.0,0.0,1190.0,ISK,eu_ets,5.25,EUR,,,
+Iceland,2016,1A1C,Oil,1.0,1.0,isl_tax,1190.0,0.0,1190.0,ISK,eu_ets,5.25,EUR,,,
 Iceland,2016,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8130,8 +8130,8 @@ Iceland,2016,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
 Iceland,2016,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
 Iceland,2016,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
 Iceland,2016,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A3B,Natural gas,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A3B,Oil,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8154,20 +8154,20 @@ Iceland,2016,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A4A,Natural gas,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A4A,Oil,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A4B,Natural gas,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A4B,Oil,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A4C1,Natural gas,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A4C1,Oil,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2016,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A4C2,Natural gas,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2016,1A4C2,Oil,1.0,0.0,isl_tax,1190.0,0.0,1190.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2016,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8368,11 +8368,11 @@ Iceland,2017,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
 Iceland,2017,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
 Iceland,2017,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
 Iceland,2017,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
-Iceland,2017,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.76,EUR,,,
-Iceland,2017,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.76,EUR,,,
+Iceland,2017,1A1B,Natural gas,1.0,1.0,isl_tax,1237.0,0.0,1237.0,ISK,eu_ets,5.76,EUR,,,
+Iceland,2017,1A1B,Oil,1.0,1.0,isl_tax,1237.0,0.0,1237.0,ISK,eu_ets,5.76,EUR,,,
 Iceland,2017,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
-Iceland,2017,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.76,EUR,,,
-Iceland,2017,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,5.76,EUR,,,
+Iceland,2017,1A1C,Natural gas,1.0,1.0,isl_tax,1237.0,0.0,1237.0,ISK,eu_ets,5.76,EUR,,,
+Iceland,2017,1A1C,Oil,1.0,1.0,isl_tax,1237.0,0.0,1237.0,ISK,eu_ets,5.76,EUR,,,
 Iceland,2017,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8428,8 +8428,8 @@ Iceland,2017,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
 Iceland,2017,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
 Iceland,2017,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
 Iceland,2017,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A3B,Natural gas,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A3B,Oil,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8452,20 +8452,20 @@ Iceland,2017,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A4A,Natural gas,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A4A,Oil,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A4B,Natural gas,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A4B,Oil,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A4C1,Natural gas,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A4C1,Oil,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2017,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A4C2,Natural gas,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2017,1A4C2,Oil,1.0,0.0,isl_tax,1237.0,0.0,1237.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2017,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8666,11 +8666,11 @@ Iceland,2018,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
 Iceland,2018,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
 Iceland,2018,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
 Iceland,2018,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
-Iceland,2018,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,15.48,EUR,,,
-Iceland,2018,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,15.48,EUR,,,
+Iceland,2018,1A1B,Natural gas,1.0,1.0,isl_tax,3500.0,0.0,3500.0,ISK,eu_ets,15.48,EUR,,,
+Iceland,2018,1A1B,Oil,1.0,1.0,isl_tax,3500.0,0.0,3500.0,ISK,eu_ets,15.48,EUR,,,
 Iceland,2018,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
-Iceland,2018,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,15.48,EUR,,,
-Iceland,2018,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,15.48,EUR,,,
+Iceland,2018,1A1C,Natural gas,1.0,1.0,isl_tax,3500.0,0.0,3500.0,ISK,eu_ets,15.48,EUR,,,
+Iceland,2018,1A1C,Oil,1.0,1.0,isl_tax,3500.0,0.0,3500.0,ISK,eu_ets,15.48,EUR,,,
 Iceland,2018,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8726,8 +8726,8 @@ Iceland,2018,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
 Iceland,2018,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
 Iceland,2018,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
 Iceland,2018,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A3B,Natural gas,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A3B,Oil,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8750,20 +8750,20 @@ Iceland,2018,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A4A,Natural gas,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A4A,Oil,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A4B,Natural gas,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A4B,Oil,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A4C1,Natural gas,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A4C1,Oil,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2018,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A4C2,Natural gas,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2018,1A4C2,Oil,1.0,0.0,isl_tax,3500.0,0.0,3500.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2018,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8964,11 +8964,11 @@ Iceland,2019,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
 Iceland,2019,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
 Iceland,2019,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
 Iceland,2019,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
-Iceland,2019,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,24.72,EUR,,,
-Iceland,2019,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,24.72,EUR,,,
+Iceland,2019,1A1B,Natural gas,1.0,1.0,isl_tax,3850.0,0.0,3850.0,ISK,eu_ets,24.72,EUR,,,
+Iceland,2019,1A1B,Oil,1.0,1.0,isl_tax,3850.0,0.0,3850.0,ISK,eu_ets,24.72,EUR,,,
 Iceland,2019,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
-Iceland,2019,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,24.72,EUR,,,
-Iceland,2019,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,24.72,EUR,,,
+Iceland,2019,1A1C,Natural gas,1.0,1.0,isl_tax,3850.0,0.0,3850.0,ISK,eu_ets,24.72,EUR,,,
+Iceland,2019,1A1C,Oil,1.0,1.0,isl_tax,3850.0,0.0,3850.0,ISK,eu_ets,24.72,EUR,,,
 Iceland,2019,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9024,8 +9024,8 @@ Iceland,2019,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
 Iceland,2019,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
 Iceland,2019,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
 Iceland,2019,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A3B,Natural gas,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A3B,Oil,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9048,20 +9048,20 @@ Iceland,2019,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A4A,Natural gas,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A4A,Oil,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A4B,Natural gas,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A4B,Oil,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A4C1,Natural gas,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A4C1,Oil,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2019,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A4C2,Natural gas,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2019,1A4C2,Oil,1.0,0.0,isl_tax,3850.0,0.0,3850.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2019,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9262,11 +9262,11 @@ Iceland,2020,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
 Iceland,2020,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
 Iceland,2020,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
 Iceland,2020,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
-Iceland,2020,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,24.39,EUR,,,
-Iceland,2020,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,24.39,EUR,,,
+Iceland,2020,1A1B,Natural gas,1.0,1.0,isl_tax,4235.0,0.0,4235.0,ISK,eu_ets,24.39,EUR,,,
+Iceland,2020,1A1B,Oil,1.0,1.0,isl_tax,4235.0,0.0,4235.0,ISK,eu_ets,24.39,EUR,,,
 Iceland,2020,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
-Iceland,2020,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,24.39,EUR,,,
-Iceland,2020,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,24.39,EUR,,,
+Iceland,2020,1A1C,Natural gas,1.0,1.0,isl_tax,4235.0,0.0,4235.0,ISK,eu_ets,24.39,EUR,,,
+Iceland,2020,1A1C,Oil,1.0,1.0,isl_tax,4235.0,0.0,4235.0,ISK,eu_ets,24.39,EUR,,,
 Iceland,2020,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9322,8 +9322,8 @@ Iceland,2020,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
 Iceland,2020,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
 Iceland,2020,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
 Iceland,2020,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A3B,Natural gas,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A3B,Oil,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9346,20 +9346,20 @@ Iceland,2020,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A4A,Natural gas,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A4A,Oil,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A4B,Natural gas,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A4B,Oil,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A4C1,Natural gas,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A4C1,Oil,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2020,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A4C2,Natural gas,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2020,1A4C2,Oil,1.0,0.0,isl_tax,4235.0,0.0,4235.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2020,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9560,11 +9560,11 @@ Iceland,2021,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,54.15,EUR,,,
 Iceland,2021,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,54.15,EUR,,,
 Iceland,2021,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,54.15,EUR,,,
 Iceland,2021,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,54.15,EUR,,,
-Iceland,2021,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,54.15,EUR,,,
-Iceland,2021,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,54.15,EUR,,,
+Iceland,2021,1A1B,Natural gas,1.0,1.0,isl_tax,4466.586,0.0,4466.586,ISK,eu_ets,54.15,EUR,,,
+Iceland,2021,1A1B,Oil,1.0,1.0,isl_tax,4466.586,0.0,4466.586,ISK,eu_ets,54.15,EUR,,,
 Iceland,2021,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,54.15,EUR,,,
-Iceland,2021,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,54.15,EUR,,,
-Iceland,2021,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,54.15,EUR,,,
+Iceland,2021,1A1C,Natural gas,1.0,1.0,isl_tax,4466.586,0.0,4466.586,ISK,eu_ets,54.15,EUR,,,
+Iceland,2021,1A1C,Oil,1.0,1.0,isl_tax,4466.586,0.0,4466.586,ISK,eu_ets,54.15,EUR,,,
 Iceland,2021,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9620,8 +9620,8 @@ Iceland,2021,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,54.15,EUR,,,
 Iceland,2021,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,54.15,EUR,,,
 Iceland,2021,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,54.15,EUR,,,
 Iceland,2021,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A3B,Natural gas,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A3B,Oil,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9644,20 +9644,20 @@ Iceland,2021,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4A,Natural gas,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4A,Oil,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4B,Natural gas,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4B,Oil,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4C1,Natural gas,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4C1,Oil,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2021,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4C2,Natural gas,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2021,1A4C2,Oil,1.0,0.0,isl_tax,4466.586,0.0,4466.586,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2021,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9858,11 +9858,11 @@ Iceland,2022,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,80.18,EUR,,,
 Iceland,2022,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,80.18,EUR,,,
 Iceland,2022,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,80.18,EUR,,,
 Iceland,2022,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,80.18,EUR,,,
-Iceland,2022,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,80.18,EUR,,,
-Iceland,2022,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,80.18,EUR,,,
+Iceland,2022,1A1B,Natural gas,1.0,1.0,isl_tax,4575.527,0.0,4575.527,ISK,eu_ets,80.18,EUR,,,
+Iceland,2022,1A1B,Oil,1.0,1.0,isl_tax,4575.527,0.0,4575.527,ISK,eu_ets,80.18,EUR,,,
 Iceland,2022,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,80.18,EUR,,,
-Iceland,2022,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,80.18,EUR,,,
-Iceland,2022,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,80.18,EUR,,,
+Iceland,2022,1A1C,Natural gas,1.0,1.0,isl_tax,4575.527,0.0,4575.527,ISK,eu_ets,80.18,EUR,,,
+Iceland,2022,1A1C,Oil,1.0,1.0,isl_tax,4575.527,0.0,4575.527,ISK,eu_ets,80.18,EUR,,,
 Iceland,2022,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9918,8 +9918,8 @@ Iceland,2022,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,80.18,EUR,,,
 Iceland,2022,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,80.18,EUR,,,
 Iceland,2022,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,80.18,EUR,,,
 Iceland,2022,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A3B,Natural gas,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A3B,Oil,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9942,20 +9942,20 @@ Iceland,2022,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A4A,Natural gas,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A4A,Oil,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A4B,Natural gas,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A4B,Oil,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A4C1,Natural gas,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A4C1,Oil,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2022,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A4C2,Natural gas,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2022,1A4C2,Oil,1.0,0.0,isl_tax,4575.527,0.0,4575.527,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2022,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10156,11 +10156,11 @@ Iceland,2023,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,83.6,EUR,,,
 Iceland,2023,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,83.6,EUR,,,
 Iceland,2023,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,83.6,EUR,,,
 Iceland,2023,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,83.6,EUR,,,
-Iceland,2023,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,83.6,EUR,,,
-Iceland,2023,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,83.6,EUR,,,
+Iceland,2023,1A1B,Natural gas,1.0,1.0,isl_tax,4924.14,0.0,4924.14,ISK,eu_ets,83.6,EUR,,,
+Iceland,2023,1A1B,Oil,1.0,1.0,isl_tax,4924.14,0.0,4924.14,ISK,eu_ets,83.6,EUR,,,
 Iceland,2023,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,83.6,EUR,,,
-Iceland,2023,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,83.6,EUR,,,
-Iceland,2023,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,83.6,EUR,,,
+Iceland,2023,1A1C,Natural gas,1.0,1.0,isl_tax,4924.14,0.0,4924.14,ISK,eu_ets,83.6,EUR,,,
+Iceland,2023,1A1C,Oil,1.0,1.0,isl_tax,4924.14,0.0,4924.14,ISK,eu_ets,83.6,EUR,,,
 Iceland,2023,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10216,8 +10216,8 @@ Iceland,2023,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,83.6,EUR,,,
 Iceland,2023,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,83.6,EUR,,,
 Iceland,2023,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,83.6,EUR,,,
 Iceland,2023,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A3B,Natural gas,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A3B,Oil,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10240,20 +10240,20 @@ Iceland,2023,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A4A,Natural gas,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A4A,Oil,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A4B,Natural gas,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A4B,Oil,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A4C1,Natural gas,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A4C1,Oil,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2023,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A4C2,Natural gas,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2023,1A4C2,Oil,1.0,0.0,isl_tax,4924.14,0.0,4924.14,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2023,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10454,11 +10454,11 @@ Iceland,2024,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
 Iceland,2024,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
 Iceland,2024,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
 Iceland,2024,1A1B,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
-Iceland,2024,1A1B,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Iceland,2024,1A1B,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,64.76,EUR,,,
+Iceland,2024,1A1B,Natural gas,1.0,1.0,isl_tax,5098.0,0.0,5098.0,ISK,eu_ets,64.76,EUR,,,
+Iceland,2024,1A1B,Oil,1.0,1.0,isl_tax,5098.0,0.0,5098.0,ISK,eu_ets,64.76,EUR,,,
 Iceland,2024,1A1C,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
-Iceland,2024,1A1C,Natural gas,1.0,1.0,isl_tax,,0.0,,,eu_ets,64.76,EUR,,,
-Iceland,2024,1A1C,Oil,1.0,1.0,isl_tax,,0.0,,,eu_ets,64.76,EUR,,,
+Iceland,2024,1A1C,Natural gas,1.0,1.0,isl_tax,5098.0,0.0,5098.0,ISK,eu_ets,64.76,EUR,,,
+Iceland,2024,1A1C,Oil,1.0,1.0,isl_tax,5098.0,0.0,5098.0,ISK,eu_ets,64.76,EUR,,,
 Iceland,2024,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10514,8 +10514,8 @@ Iceland,2024,1A3A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
 Iceland,2024,1A3A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
 Iceland,2024,1A3A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
 Iceland,2024,1A3B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A3B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A3B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A3B,Natural gas,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A3B,Oil,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A3C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A3C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A3C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10538,20 +10538,20 @@ Iceland,2024,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A4A,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A4A,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A4A,Natural gas,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A4A,Oil,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A4B,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A4B,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A4B,Natural gas,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A4B,Oil,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4C1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A4C1,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A4C1,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A4C1,Natural gas,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A4C1,Oil,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4C2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A4C2,Natural gas,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Iceland,2024,1A4C2,Oil,1.0,0.0,isl_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A4C2,Natural gas,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
+Iceland,2024,1A4C2,Oil,1.0,0.0,isl_tax,5098.0,0.0,5098.0,ISK,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4C3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4C3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iceland,2024,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

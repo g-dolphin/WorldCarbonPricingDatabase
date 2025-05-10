@@ -8960,15 +8960,15 @@ New Brunswick,2019,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
-New Brunswick,2019,1A1A3,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A1A3,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A1A3,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A1B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A1B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A1B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A1C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A1C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A1C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1A3,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1A3,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1A3,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1B,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1B,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1B,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1C,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1C,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A1C,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8990,27 +8990,27 @@ New Brunswick,2019,1A2E,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1A2F,Coal,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1A2F,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1A2F,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
-New Brunswick,2019,1A2G,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2G,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2G,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2H,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2H,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2H,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2G,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2G,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2G,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2H,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2H,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2H,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A2I,Coal,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1A2I,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1A2I,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
-New Brunswick,2019,1A2J,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2J,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2J,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2K,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2K,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2K,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2L,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2L,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2L,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2M,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2M,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A2M,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2J,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2J,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2J,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2K,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2K,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2K,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2L,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2L,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2L,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2M,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2M,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A2M,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9020,39 +9020,39 @@ New Brunswick,2019,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3A2,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3A2,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3A2,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3A2,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3A2,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3A2,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3B,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3B,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3B,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3C,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3C,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3C,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3D1,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3D1,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3D1,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3D2,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3D2,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3D2,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3D1,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3D1,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3D1,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3D2,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3D2,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3D2,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3E1,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3E1,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A3E1,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3E1,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3E1,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A3E1,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A4A,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A4A,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A4A,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A4B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A4B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A4B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A4A,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A4A,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A4A,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A4B,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A4B,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A4B,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9068,15 +9068,15 @@ New Brunswick,2019,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A5,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5A,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5A,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5A,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2019,1A5C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5A,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5A,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5A,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5B,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5B,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5B,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5C,Coal,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5C,Natural gas,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2019,1A5C,Oil,1.0,0.0,can_tax_I,20.0,0.0,20.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2019,1B1,NA,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
 New Brunswick,2019,1B1A,NA,0.0,1.0,NA,NA,NA,NA,NA,can_obps,20.0,CAD,,,
@@ -9252,21 +9252,21 @@ New Brunswick,2020,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1A1,Coal,1.0,1.0,can_nb_tax,,0.0,,,can_obps,30.0,CAD,,,
-New Brunswick,2020,1A1A1,Natural gas,1.0,1.0,can_nb_tax,,0.0,,,can_obps,30.0,CAD,,,
-New Brunswick,2020,1A1A1,Oil,1.0,1.0,can_nb_tax,,0.0,,,can_obps,30.0,CAD,,,
-New Brunswick,2020,1A1A2,Coal,1.0,1.0,can_nb_tax,,0.0,,,can_obps,30.0,CAD,,,
-New Brunswick,2020,1A1A2,Natural gas,1.0,1.0,can_nb_tax,,0.0,,,can_obps,30.0,CAD,,,
-New Brunswick,2020,1A1A2,Oil,1.0,1.0,can_nb_tax,,0.0,,,can_obps,30.0,CAD,,,
-New Brunswick,2020,1A1A3,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1A3,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1A3,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1A1,Coal,1.0,1.0,can_nb_tax,30.0,0.0,30.0,CAD,can_obps,30.0,CAD,,,
+New Brunswick,2020,1A1A1,Natural gas,1.0,1.0,can_nb_tax,30.0,0.0,30.0,CAD,can_obps,30.0,CAD,,,
+New Brunswick,2020,1A1A1,Oil,1.0,1.0,can_nb_tax,30.0,0.0,30.0,CAD,can_obps,30.0,CAD,,,
+New Brunswick,2020,1A1A2,Coal,1.0,1.0,can_nb_tax,30.0,0.0,30.0,CAD,can_obps,30.0,CAD,,,
+New Brunswick,2020,1A1A2,Natural gas,1.0,1.0,can_nb_tax,30.0,0.0,30.0,CAD,can_obps,30.0,CAD,,,
+New Brunswick,2020,1A1A2,Oil,1.0,1.0,can_nb_tax,30.0,0.0,30.0,CAD,can_obps,30.0,CAD,,,
+New Brunswick,2020,1A1A3,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1A3,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1A3,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1B,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1B,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1B,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1C,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1C,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1C,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9321,36 +9321,36 @@ New Brunswick,2020,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3B,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3B,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3B,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3C,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3C,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3C,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3D1,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3D1,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3D1,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3D2,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3D2,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3D2,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D1,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D1,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D1,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D2,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D2,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D2,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3E1,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3E1,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3E1,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3E1,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3E1,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3E1,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A4A,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A4A,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A4A,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A4B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A4B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A4B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4A,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4A,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4A,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4B,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4B,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4B,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9366,15 +9366,15 @@ New Brunswick,2020,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5A,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5A,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5A,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5A,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5A,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5A,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5B,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5B,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5B,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5C,Coal,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5C,Natural gas,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5C,Oil,1.0,0.0,can_nb_tax,30.0,0.0,30.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1B1,NA,0.0,1.0,NA,NA,NA,NA,NA,can_obps,30.0,CAD,,,
 New Brunswick,2020,1B1A,NA,0.0,1.0,NA,NA,NA,NA,NA,can_obps,30.0,CAD,,,
@@ -9550,21 +9550,21 @@ New Brunswick,2021,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A1A1,Coal,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1A1,Natural gas,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1A1,Oil,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1A2,Coal,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1A2,Natural gas,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1A2,Oil,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1A3,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A1A3,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A1A3,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A1B,Coal,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1B,Natural gas,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1B,Oil,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,40.0,CAD,,,
-New Brunswick,2021,1A1C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A1C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A1C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1A1,Coal,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1A1,Natural gas,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1A1,Oil,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1A2,Coal,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1A2,Natural gas,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1A2,Oil,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1A3,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1A3,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1A3,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1B,Coal,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1B,Natural gas,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1B,Oil,1.0,1.0,can_nb_tax,40.0,0.0,40.0,CAD,can_nb_ets,40.0,CAD,,,
+New Brunswick,2021,1A1C,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1C,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1C,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9619,36 +9619,36 @@ New Brunswick,2021,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3B,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3B,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3B,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3C,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3C,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3C,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3D1,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3D1,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3D1,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3D2,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3D2,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3D2,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D1,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D1,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D1,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D2,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D2,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D2,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3E1,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3E1,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3E1,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3E1,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3E1,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3E1,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A4A,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A4A,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A4A,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A4B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A4B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A4B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4A,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4A,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4A,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4B,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4B,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4B,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9664,15 +9664,15 @@ New Brunswick,2021,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5A,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5A,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5A,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5A,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5A,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5A,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5B,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5B,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5B,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5C,Coal,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5C,Natural gas,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5C,Oil,1.0,0.0,can_nb_tax,40.0,0.0,40.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1B1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1B1A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9848,21 +9848,21 @@ New Brunswick,2022,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A1A1,Coal,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1A1,Natural gas,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1A1,Oil,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1A2,Coal,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1A2,Natural gas,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1A2,Oil,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1A3,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A1A3,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A1A3,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A1B,Coal,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1B,Natural gas,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1B,Oil,1.0,1.0,can_nb_tax,,0.0,,,can_nb_ets,50.0,CAD,,,
-New Brunswick,2022,1A1C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A1C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A1C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1A1,Coal,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1A1,Natural gas,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1A1,Oil,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1A2,Coal,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1A2,Natural gas,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1A2,Oil,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1A3,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1A3,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1A3,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1B,Coal,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1B,Natural gas,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1B,Oil,1.0,1.0,can_nb_tax,50.0,0.0,50.0,CAD,can_nb_ets,50.0,CAD,,,
+New Brunswick,2022,1A1C,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1C,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1C,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9917,36 +9917,36 @@ New Brunswick,2022,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3B,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3B,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3B,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3C,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3C,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3C,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3D1,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3D1,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3D1,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3D2,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3D2,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3D2,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D1,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D1,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D1,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D2,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D2,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D2,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3E1,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3E1,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3E1,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3E1,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3E1,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3E1,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A4A,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A4A,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A4A,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A4B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A4B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A4B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4A,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4A,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4A,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4B,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4B,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4B,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9962,15 +9962,15 @@ New Brunswick,2022,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5A,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5A,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5A,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5B,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5B,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5B,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5C,Coal,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5C,Natural gas,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5C,Oil,1.0,0.0,can_nb_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5A,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5A,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5A,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5B,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5B,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5B,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5C,Coal,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5C,Natural gas,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5C,Oil,1.0,0.0,can_nb_tax,50.0,0.0,50.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1B1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1B1A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10152,15 +10152,15 @@ New Brunswick,2023,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,65.0,CAD,,,
 New Brunswick,2023,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,65.0,CAD,,,
 New Brunswick,2023,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,65.0,CAD,,,
 New Brunswick,2023,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,65.0,CAD,,,
-New Brunswick,2023,1A1A3,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A1A3,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A1A3,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A1B,Coal,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,65.0,CAD,,,
-New Brunswick,2023,1A1B,Natural gas,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,65.0,CAD,,,
-New Brunswick,2023,1A1B,Oil,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,65.0,CAD,,,
-New Brunswick,2023,1A1C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A1C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A1C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A1A3,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A1A3,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A1A3,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A1B,Coal,1.0,1.0,can_tax_I,65.0,0.0,65.0,CAD,can_nb_ets,65.0,CAD,,,
+New Brunswick,2023,1A1B,Natural gas,1.0,1.0,can_tax_I,65.0,0.0,65.0,CAD,can_nb_ets,65.0,CAD,,,
+New Brunswick,2023,1A1B,Oil,1.0,1.0,can_tax_I,65.0,0.0,65.0,CAD,can_nb_ets,65.0,CAD,,,
+New Brunswick,2023,1A1C,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A1C,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A1C,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10182,27 +10182,27 @@ New Brunswick,2023,1A2E,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,65.0,CAD,,,
 New Brunswick,2023,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2F,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2F,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2G,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2G,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2G,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2H,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2H,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2H,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2G,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2G,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2G,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2H,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2H,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2H,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2I,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A2I,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2J,Coal,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,65.0,CAD,,,
-New Brunswick,2023,1A2J,Natural gas,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,65.0,CAD,,,
-New Brunswick,2023,1A2J,Oil,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,65.0,CAD,,,
-New Brunswick,2023,1A2K,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2K,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2K,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2L,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2L,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2L,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2M,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2M,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A2M,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2J,Coal,1.0,1.0,can_tax_I,65.0,0.0,65.0,CAD,can_nb_ets,65.0,CAD,,,
+New Brunswick,2023,1A2J,Natural gas,1.0,1.0,can_tax_I,65.0,0.0,65.0,CAD,can_nb_ets,65.0,CAD,,,
+New Brunswick,2023,1A2J,Oil,1.0,1.0,can_tax_I,65.0,0.0,65.0,CAD,can_nb_ets,65.0,CAD,,,
+New Brunswick,2023,1A2K,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2K,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2K,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2L,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2L,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2L,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2M,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2M,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A2M,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10212,39 +10212,39 @@ New Brunswick,2023,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3A2,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3A2,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3A2,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3A2,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3A2,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3A2,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3B,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3B,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3B,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3C,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3C,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3C,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3D1,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3D1,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3D1,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3D2,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3D2,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3D2,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3D1,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3D1,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3D1,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3D2,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3D2,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3D2,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3E1,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3E1,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A3E1,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3E1,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3E1,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A3E1,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A4A,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A4A,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A4A,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A4B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A4B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A4B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A4A,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A4A,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A4A,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A4B,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A4B,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A4B,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10260,15 +10260,15 @@ New Brunswick,2023,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A5,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5A,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5A,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5A,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2023,1A5C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5A,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5A,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5A,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5B,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5B,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5B,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5C,Coal,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5C,Natural gas,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2023,1A5C,Oil,1.0,0.0,can_tax_I,65.0,0.0,65.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1B1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2023,1B1A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10450,15 +10450,15 @@ New Brunswick,2024,1A1A1,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,80.0,CAD,,,
 New Brunswick,2024,1A1A2,Coal,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,80.0,CAD,,,
 New Brunswick,2024,1A1A2,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,80.0,CAD,,,
 New Brunswick,2024,1A1A2,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,80.0,CAD,,,
-New Brunswick,2024,1A1A3,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A1A3,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A1A3,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A1B,Coal,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,80.0,CAD,,,
-New Brunswick,2024,1A1B,Natural gas,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,80.0,CAD,,,
-New Brunswick,2024,1A1B,Oil,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,80.0,CAD,,,
-New Brunswick,2024,1A1C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A1C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A1C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A1A3,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A1A3,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A1A3,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A1B,Coal,1.0,1.0,can_tax_I,80.0,0.0,80.0,CAD,can_nb_ets,80.0,CAD,,,
+New Brunswick,2024,1A1B,Natural gas,1.0,1.0,can_tax_I,80.0,0.0,80.0,CAD,can_nb_ets,80.0,CAD,,,
+New Brunswick,2024,1A1B,Oil,1.0,1.0,can_tax_I,80.0,0.0,80.0,CAD,can_nb_ets,80.0,CAD,,,
+New Brunswick,2024,1A1C,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A1C,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A1C,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10480,27 +10480,27 @@ New Brunswick,2024,1A2E,Oil,0.0,1.0,NA,NA,NA,NA,NA,can_nb_ets,80.0,CAD,,,
 New Brunswick,2024,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2F,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2F,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2G,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2G,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2G,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2H,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2H,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2H,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2G,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2G,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2G,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2H,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2H,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2H,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2I,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A2I,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2J,Coal,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,80.0,CAD,,,
-New Brunswick,2024,1A2J,Natural gas,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,80.0,CAD,,,
-New Brunswick,2024,1A2J,Oil,1.0,1.0,can_tax_I,,0.0,,,can_nb_ets,80.0,CAD,,,
-New Brunswick,2024,1A2K,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2K,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2K,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2L,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2L,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2L,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2M,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2M,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A2M,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2J,Coal,1.0,1.0,can_tax_I,80.0,0.0,80.0,CAD,can_nb_ets,80.0,CAD,,,
+New Brunswick,2024,1A2J,Natural gas,1.0,1.0,can_tax_I,80.0,0.0,80.0,CAD,can_nb_ets,80.0,CAD,,,
+New Brunswick,2024,1A2J,Oil,1.0,1.0,can_tax_I,80.0,0.0,80.0,CAD,can_nb_ets,80.0,CAD,,,
+New Brunswick,2024,1A2K,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2K,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2K,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2L,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2L,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2L,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2M,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2M,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A2M,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10510,39 +10510,39 @@ New Brunswick,2024,1A3A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3A1,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3A2,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3A2,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3A2,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3A2,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3A2,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3A2,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3B,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3B,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3B,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3C,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3C,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3C,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3D1,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3D1,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3D1,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3D2,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3D2,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3D2,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3D1,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3D1,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3D1,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3D2,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3D2,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3D2,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3E,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A3E,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3E1,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3E1,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A3E1,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3E1,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3E1,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A3E1,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A4A,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A4A,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A4A,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A4B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A4B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A4B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A4A,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A4A,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A4A,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A4B,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A4B,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A4B,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4C,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A4C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10558,15 +10558,15 @@ New Brunswick,2024,1A4C3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A5,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A5,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1A5,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5A,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5A,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5A,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5B,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5B,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5B,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5C,Coal,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5C,Natural gas,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
-New Brunswick,2024,1A5C,Oil,1.0,0.0,can_tax_I,,0.0,,,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5A,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5A,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5A,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5B,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5B,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5B,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5C,Coal,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5C,Natural gas,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
+New Brunswick,2024,1A5C,Oil,1.0,0.0,can_tax_I,80.0,0.0,80.0,CAD,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1B,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1B1,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2024,1B1A,NA,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
