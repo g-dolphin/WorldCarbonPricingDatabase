@@ -10444,387 +10444,63 @@ Guanajuato,2024,1A1,Oil,NA,NA,NA,NA,NA
 Guanajuato,2024,1A1A,Coal,NA,NA,NA,NA,NA
 Guanajuato,2024,1A1A,Natural gas,NA,NA,NA,NA,NA
 Guanajuato,2024,1A1A,Oil,NA,NA,NA,NA,NA
-Guanajuato,2024,1A1A1,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1A1,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1A1,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1A2,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1A2,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1A2,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1A3,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1A3,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1A3,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1B,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1B,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1B,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1C,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1C,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A1C,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
+Guanajuato,2024,1A1A1,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A1A1,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A1A1,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A1A2,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A1A2,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A1A2,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A1A3,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A1A3,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A1A3,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A1B,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A1B,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A1B,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A1C,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A1C,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A1C,Oil, ,NA,; ,NA,NA
 Guanajuato,2024,1A2,Coal,NA,NA,NA,NA,NA
 Guanajuato,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Guanajuato,2024,1A2,Oil,NA,NA,NA,NA,NA
-Guanajuato,2024,1A2A,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2A,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2A,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2B,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2B,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2B,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2C,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2C,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2C,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2D,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2D,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2D,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2E,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2E,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2E,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2F,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2F,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2F,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2G,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2G,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2G,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2H,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2H,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2H,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2I,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2I,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2I,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2J,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2J,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2J,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2K,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2K,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2K,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2L,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2L,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2L,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2M,Coal, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2M,Natural gas, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
-Guanajuato,2024,1A2M,Oil, ,NA,"312    
-313    
-314    
-Name: source, dtype: object; 312    
-313    
-314    
-Name: comment, dtype: object",NA,NA
+Guanajuato,2024,1A2A,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2A,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2A,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2B,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2B,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2B,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2C,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2C,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2C,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2D,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2D,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2D,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2E,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2E,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2E,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2F,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2F,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2F,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2G,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2G,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2G,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2H,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2H,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2H,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2I,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2I,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2I,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2J,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2J,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2J,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2K,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2K,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2K,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2L,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2L,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2L,Oil, ,NA,; ,NA,NA
+Guanajuato,2024,1A2M,Coal, ,NA,; ,NA,NA
+Guanajuato,2024,1A2M,Natural gas, ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA
+Guanajuato,2024,1A2M,Oil, ,NA,; ,NA,NA
 Guanajuato,2024,1A3,Coal,NA,NA,NA,NA,NA
 Guanajuato,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Guanajuato,2024,1A3,Oil,NA,NA,NA,NA,NA

@@ -9848,387 +9848,63 @@ Yucatan,2022,1A1,Oil,NA,NA,NA,NA,NA
 Yucatan,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Yucatan,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Yucatan,2022,1A1A1,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1A1,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1A1,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1A2,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1A2,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1A2,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1A3,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1A3,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1A3,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1B,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1B,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1B,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1C,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1C,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A1C,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
+Yucatan,2022,1A1A1,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1A1,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1A1,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1A2,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1A2,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1A2,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1A3,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1A3,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1A3,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1B,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1B,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1B,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1C,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1C,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A1C,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
 Yucatan,2022,1A2,Coal,NA,NA,NA,NA,NA
 Yucatan,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2022,1A2,Oil,NA,NA,NA,NA,NA
-Yucatan,2022,1A2A,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2A,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2A,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2B,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2B,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2B,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2C,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2C,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2C,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2D,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2D,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2D,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2E,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2E,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2E,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2F,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2F,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2F,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2G,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2G,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2G,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2H,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2H,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2H,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2I,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2I,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2I,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2J,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2J,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2J,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2K,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2K,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2K,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2L,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2L,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2L,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2M,Coal, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2M,Natural gas, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
-Yucatan,2022,1A2M,Oil, ,NA,"315    leg(TLSY[2021]), db(WB[2022])
-316    leg(TLSY[2021]), db(WB[2022])
-317    leg(TLSY[2021]), db(WB[2022])
-Name: source, dtype: object; 315    calculated by multiplying the daily unit of me...
-316    calculated by multiplying the daily unit of me...
-317    calculated by multiplying the daily unit of me...
-Name: comment, dtype: object",NA,NA
+Yucatan,2022,1A2A,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2A,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2A,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2B,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2B,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2B,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2C,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2C,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2C,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2D,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2D,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2D,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2E,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2E,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2E,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2F,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2F,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2F,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2G,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2G,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2G,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2H,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2H,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2H,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2I,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2I,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2I,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2J,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2J,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2J,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2K,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2K,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2K,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2L,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2L,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2L,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2M,Coal, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2M,Natural gas, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
+Yucatan,2022,1A2M,Oil, ,NA,"leg(TLSY[2021]), db(WB[2022]); calculated by multiplying the daily unit of measurement and update per tonne of CO2e by 2.70",NA,NA
 Yucatan,2022,1A3,Coal,NA,NA,NA,NA,NA
 Yucatan,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -10470,387 +10146,63 @@ Yucatan,2023,1A1,Oil,NA,NA,NA,NA,NA
 Yucatan,2023,1A1A,Coal,NA,NA,NA,NA,NA
 Yucatan,2023,1A1A,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2023,1A1A,Oil,NA,NA,NA,NA,NA
-Yucatan,2023,1A1A1,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1A1,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1A1,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1A2,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1A2,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1A2,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1A3,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1A3,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1A3,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1B,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1B,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1B,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1C,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1C,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A1C,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
+Yucatan,2023,1A1A1,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A1A1,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A1A1,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A1A2,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A1A2,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A1A2,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A1A3,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A1A3,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A1A3,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A1B,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A1B,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A1B,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A1C,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A1C,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A1C,Oil, ,NA,; ,NA,NA
 Yucatan,2023,1A2,Coal,NA,NA,NA,NA,NA
 Yucatan,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2023,1A2,Oil,NA,NA,NA,NA,NA
-Yucatan,2023,1A2A,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2A,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2A,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2B,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2B,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2B,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2C,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2C,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2C,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2D,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2D,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2D,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2E,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2E,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2E,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2F,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2F,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2F,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2G,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2G,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2G,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2H,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2H,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2H,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2I,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2I,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2I,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2J,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2J,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2J,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2K,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2K,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2K,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2L,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2L,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2L,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2M,Coal, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2M,Natural gas, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
-Yucatan,2023,1A2M,Oil, ,NA,"318    
-319    
-320    
-Name: source, dtype: object; 318    
-319    
-320    
-Name: comment, dtype: object",NA,NA
+Yucatan,2023,1A2A,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2A,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2A,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2B,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2B,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2B,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2C,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2C,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2C,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2D,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2D,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2D,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2E,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2E,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2E,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2F,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2F,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2F,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2G,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2G,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2G,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2H,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2H,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2H,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2I,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2I,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2I,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2J,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2J,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2J,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2K,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2K,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2K,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2L,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2L,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2L,Oil, ,NA,; ,NA,NA
+Yucatan,2023,1A2M,Coal, ,NA,; ,NA,NA
+Yucatan,2023,1A2M,Natural gas, ,NA,; ,NA,NA
+Yucatan,2023,1A2M,Oil, ,NA,; ,NA,NA
 Yucatan,2023,1A3,Coal,NA,NA,NA,NA,NA
 Yucatan,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -11092,387 +10444,63 @@ Yucatan,2024,1A1,Oil,NA,NA,NA,NA,NA
 Yucatan,2024,1A1A,Coal,NA,NA,NA,NA,NA
 Yucatan,2024,1A1A,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2024,1A1A,Oil,NA,NA,NA,NA,NA
-Yucatan,2024,1A1A1,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1A1,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1A1,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1A2,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1A2,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1A2,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1A3,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1A3,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1A3,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1B,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1B,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1B,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1C,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1C,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A1C,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
+Yucatan,2024,1A1A1,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A1A1,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A1A1,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A1A2,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A1A2,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A1A2,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A1A3,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A1A3,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A1A3,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A1B,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A1B,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A1B,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A1C,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A1C,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A1C,Oil, ,NA,; ,NA,NA
 Yucatan,2024,1A2,Coal,NA,NA,NA,NA,NA
 Yucatan,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2024,1A2,Oil,NA,NA,NA,NA,NA
-Yucatan,2024,1A2A,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2A,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2A,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2B,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2B,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2B,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2C,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2C,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2C,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2D,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2D,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2D,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2E,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2E,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2E,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2F,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2F,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2F,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2G,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2G,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2G,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2H,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2H,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2H,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2I,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2I,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2I,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2J,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2J,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2J,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2K,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2K,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2K,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2L,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2L,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2L,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2M,Coal, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2M,Natural gas, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
-Yucatan,2024,1A2M,Oil, ,NA,"321    
-322    
-323    
-Name: source, dtype: object; 321    
-322    
-323    
-Name: comment, dtype: object",NA,NA
+Yucatan,2024,1A2A,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2A,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2A,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2B,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2B,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2B,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2C,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2C,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2C,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2D,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2D,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2D,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2E,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2E,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2E,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2F,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2F,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2F,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2G,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2G,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2G,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2H,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2H,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2H,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2I,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2I,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2I,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2J,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2J,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2J,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2K,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2K,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2K,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2L,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2L,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2L,Oil, ,NA,; ,NA,NA
+Yucatan,2024,1A2M,Coal, ,NA,; ,NA,NA
+Yucatan,2024,1A2M,Natural gas, ,NA,; ,NA,NA
+Yucatan,2024,1A2M,Oil, ,NA,; ,NA,NA
 Yucatan,2024,1A3,Coal,NA,NA,NA,NA,NA
 Yucatan,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Yucatan,2024,1A3,Oil,NA,NA,NA,NA,NA

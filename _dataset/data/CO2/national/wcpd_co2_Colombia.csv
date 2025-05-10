@@ -8359,14 +8359,14 @@ Colombia,2017,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A1A1,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A1A1,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A1A1,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A1A1,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A1A2,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A1A2,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A1A2,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A1A2,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A1A3,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A1A3,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A1A3,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A1A3,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8377,44 +8377,44 @@ Colombia,2017,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2A,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2A,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2A,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2A,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2B,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2B,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2B,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2B,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2C,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2C,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2C,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2C,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2D,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2D,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2D,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2D,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2E,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2E,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2E,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2E,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2F,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2F,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2F,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2F,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2G,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2G,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2G,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2G,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2H,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2H,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2H,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2H,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2I,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2I,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2I,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2I,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2J,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2J,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2J,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2J,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2K,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2K,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2K,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2K,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2L,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2L,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2L,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2L,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2M,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2017,1A2M,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2M,Natural gas,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2017,1A2M,Oil,1.0,0.0,col_tax,15000.0,0.0,15000.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2017,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8657,14 +8657,14 @@ Colombia,2018,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A1A1,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A1A1,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A1A1,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A1A1,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A1A2,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A1A2,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A1A2,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A1A2,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A1A3,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A1A3,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A1A3,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A1A3,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8675,44 +8675,44 @@ Colombia,2018,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2A,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2A,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2A,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2A,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2B,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2B,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2B,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2B,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2C,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2C,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2C,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2C,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2D,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2D,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2D,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2D,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2E,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2E,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2E,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2E,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2F,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2F,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2F,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2F,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2G,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2G,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2G,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2G,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2H,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2H,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2H,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2H,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2I,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2I,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2I,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2I,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2J,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2J,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2J,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2J,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2K,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2K,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2K,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2K,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2L,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2L,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2L,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2L,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2M,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2018,1A2M,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2M,Natural gas,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2018,1A2M,Oil,1.0,0.0,col_tax,15764.0,0.0,15764.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2018,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8955,14 +8955,14 @@ Colombia,2019,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A1A1,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A1A1,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A1A1,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A1A1,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A1A2,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A1A2,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A1A2,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A1A2,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A1A3,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A1A3,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A1A3,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A1A3,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8973,44 +8973,44 @@ Colombia,2019,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2A,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2A,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2A,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2A,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2B,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2B,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2B,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2B,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2C,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2C,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2C,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2C,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2D,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2D,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2D,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2D,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2E,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2E,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2E,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2E,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2F,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2F,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2F,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2F,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2G,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2G,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2G,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2G,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2H,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2H,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2H,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2H,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2I,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2I,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2I,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2I,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2J,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2J,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2J,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2J,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2K,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2K,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2K,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2K,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2L,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2L,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2L,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2L,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2M,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2019,1A2M,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2M,Natural gas,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2019,1A2M,Oil,1.0,0.0,col_tax,16422.0,0.0,16422.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2019,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9253,14 +9253,14 @@ Colombia,2020,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A1A1,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A1A1,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A1A1,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A1A1,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A1A2,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A1A2,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A1A2,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A1A2,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A1A3,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A1A3,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A1A3,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A1A3,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9271,44 +9271,44 @@ Colombia,2020,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2A,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2A,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2A,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2A,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2B,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2B,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2B,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2B,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2C,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2C,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2C,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2C,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2D,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2D,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2D,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2D,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2E,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2E,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2E,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2E,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2F,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2F,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2F,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2F,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2G,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2G,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2G,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2G,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2H,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2H,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2H,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2H,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2I,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2I,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2I,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2I,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2J,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2J,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2J,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2J,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2K,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2K,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2K,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2K,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2L,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2L,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2L,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2L,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2M,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2020,1A2M,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2M,Natural gas,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2020,1A2M,Oil,1.0,0.0,col_tax,17211.0,0.0,17211.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2020,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9551,14 +9551,14 @@ Colombia,2021,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A1A1,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A1A1,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A1A1,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A1A1,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A1A2,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A1A2,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A1A2,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A1A2,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A1A3,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A1A3,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A1A3,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A1A3,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9569,44 +9569,44 @@ Colombia,2021,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2A,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2A,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2A,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2A,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2B,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2B,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2B,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2B,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2C,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2C,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2C,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2C,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2D,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2D,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2D,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2D,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2E,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2E,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2E,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2E,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2F,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2F,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2F,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2F,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2G,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2G,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2G,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2G,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2H,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2H,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2H,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2H,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2I,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2I,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2I,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2I,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2J,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2J,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2J,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2J,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2K,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2K,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2K,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2K,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2L,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2L,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2L,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2L,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2M,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2021,1A2M,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2M,Natural gas,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2021,1A2M,Oil,1.0,0.0,col_tax,17660.0,0.0,17660.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2021,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9849,14 +9849,14 @@ Colombia,2022,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A1A1,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A1A1,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A1A1,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A1A1,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A1A2,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A1A2,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A1A2,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A1A2,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A1A3,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A1A3,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A1A3,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A1A3,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9867,44 +9867,44 @@ Colombia,2022,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2A,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2A,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2A,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2A,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2B,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2B,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2B,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2B,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2C,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2C,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2C,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2C,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2D,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2D,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2D,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2D,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2E,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2E,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2E,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2E,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2F,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2F,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2F,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2F,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2G,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2G,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2G,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2G,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2H,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2H,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2H,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2H,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2I,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2I,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2I,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2I,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2J,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2J,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2J,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2J,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2K,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2K,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2K,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2K,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2L,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2L,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2L,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2L,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2M,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2022,1A2M,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2M,Natural gas,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2022,1A2M,Oil,1.0,0.0,col_tax,18829.0,0.0,18829.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2022,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10147,14 +10147,14 @@ Colombia,2023,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A1A1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A1A1,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A1A1,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A1A1,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A1A1,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A1A2,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A1A2,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A1A2,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A1A2,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A1A3,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A1A3,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A1A3,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A1A3,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10165,44 +10165,44 @@ Colombia,2023,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2A,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2A,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2A,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2A,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2B,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2B,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2B,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2B,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2C,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2C,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2C,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2C,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2C,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2D,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2D,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2D,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2D,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2E,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2E,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2E,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2E,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2E,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2F,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2F,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2F,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2F,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2F,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2G,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2G,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2G,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2G,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2G,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2H,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2H,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2H,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2H,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2H,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2I,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2I,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2I,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2I,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2I,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2J,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2J,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2J,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2J,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2J,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2K,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2K,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2K,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2K,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2K,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2L,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2L,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2L,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2L,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2L,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A2M,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2M,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2023,1A2M,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2M,Natural gas,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2023,1A2M,Oil,1.0,0.0,col_tax,23395.0,0.0,23395.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2023,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10444,15 +10444,15 @@ Colombia,2024,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A1,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A1,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A1,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A2,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A2,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A2,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A3,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A3,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A1A3,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A1,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A1,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A1,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A2,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A2,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A2,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A3,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A3,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A1A3,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A1B,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A1B,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A1B,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10462,45 +10462,45 @@ Colombia,2024,1A1C,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A2,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A2,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A2,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2A,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2A,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2A,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2B,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2B,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2B,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2C,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2C,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2C,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2D,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2D,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2D,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2E,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2E,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2E,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2F,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2F,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2F,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2G,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2G,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2G,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2H,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2H,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2H,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2I,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2I,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2I,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2J,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2J,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2J,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2K,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2K,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2K,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2L,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2L,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2L,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2M,Coal,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2M,Natural gas,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
-Colombia,2024,1A2M,Oil,1.0,0.0,col_tax,,0.0,,,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2A,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2A,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2A,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2B,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2B,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2B,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2C,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2C,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2C,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2D,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2D,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2D,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2E,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2E,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2E,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2F,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2F,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2F,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2G,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2G,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2G,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2H,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2H,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2H,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2I,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2I,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2I,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2J,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2J,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2J,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2K,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2K,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2K,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2L,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2L,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2L,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2M,Coal,1.0,0.0,col_tax,,0.0,,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2M,Natural gas,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
+Colombia,2024,1A2M,Oil,1.0,0.0,col_tax,25800.0,0.0,25800.0,COP,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A3,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A3,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colombia,2024,1A3,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

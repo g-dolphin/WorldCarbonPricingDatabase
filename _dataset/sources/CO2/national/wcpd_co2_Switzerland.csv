@@ -5679,48 +5679,12 @@ Switzerland,2008,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2008,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2008,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2008,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2008,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2008,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2008,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2008,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
@@ -5805,48 +5769,12 @@ Switzerland,2008,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2008,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2008,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2008,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2008,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,NA
-Switzerland,2008,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,NA
-Switzerland,2008,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,NA
-Switzerland,2008,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,NA
-Switzerland,2008,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,NA
-Switzerland,2008,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1467    report(GLOBE-SWI[2015])
-1484    report(GLOBE-SWI[2015])
-1501    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1467    
-1484    
-1501    
-Name: comment, dtype: object",NA,NA
+Switzerland,2008,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2008,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2008,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2008,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2008,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2008,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
 Switzerland,2008,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2008,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2008,1A4C,Oil,NA,NA,NA,NA,NA
@@ -6049,48 +5977,12 @@ Switzerland,2009,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2009,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2009,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2009,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2009,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2009,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2009,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2009,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2009,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2009,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2009,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2009,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2009,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2009,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2009,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2009,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
@@ -6175,48 +6067,12 @@ Switzerland,2009,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2009,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2009,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2009,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2009,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,NA
-Switzerland,2009,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,NA
-Switzerland,2009,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,NA
-Switzerland,2009,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,NA
-Switzerland,2009,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,NA
-Switzerland,2009,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1468    report(GLOBE-SWI[2015])
-1485    report(GLOBE-SWI[2015])
-1502    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1468    
-1485    
-1502    
-Name: comment, dtype: object",NA,NA
+Switzerland,2009,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2009,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2009,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2009,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2009,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2009,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
 Switzerland,2009,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2009,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2009,1A4C,Oil,NA,NA,NA,NA,NA
@@ -6419,48 +6275,12 @@ Switzerland,2010,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2010,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2010,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2010,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2010,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2010,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2010,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2010,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2010,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2010,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2010,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2010,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2010,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2010,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2010,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2010,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
@@ -6545,48 +6365,12 @@ Switzerland,2010,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2010,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2010,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2010,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2010,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,NA
-Switzerland,2010,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,NA
-Switzerland,2010,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,NA
-Switzerland,2010,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,NA
-Switzerland,2010,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,NA
-Switzerland,2010,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1469    report(GLOBE-SWI[2015])
-1486    report(GLOBE-SWI[2015])
-1503    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1469    
-1486    
-1503    
-Name: comment, dtype: object",NA,NA
+Switzerland,2010,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2010,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2010,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2010,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2010,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2010,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
 Switzerland,2010,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2010,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2010,1A4C,Oil,NA,NA,NA,NA,NA
@@ -6789,48 +6573,12 @@ Switzerland,2011,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2011,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2011,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2011,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2011,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2011,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2011,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2011,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2011,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2011,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2011,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2011,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2011,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2011,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2011,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2011,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
@@ -6915,48 +6663,12 @@ Switzerland,2011,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2011,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2011,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2011,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2011,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,NA
-Switzerland,2011,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,NA
-Switzerland,2011,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,NA
-Switzerland,2011,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,NA
-Switzerland,2011,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,NA
-Switzerland,2011,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1470    report(GLOBE-SWI[2015])
-1487    report(GLOBE-SWI[2015])
-1504    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1470    
-1487    
-1504    
-Name: comment, dtype: object",NA,NA
+Switzerland,2011,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2011,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2011,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2011,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2011,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2011,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
 Switzerland,2011,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2011,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2011,1A4C,Oil,NA,NA,NA,NA,NA
@@ -7159,48 +6871,12 @@ Switzerland,2012,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2012,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2012,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2012,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2012,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2012,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2012,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2012,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2012,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2012,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2012,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2012,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2012,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2012,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2012,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2012,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
@@ -7285,48 +6961,12 @@ Switzerland,2012,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2012,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2012,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2012,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2012,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,NA
-Switzerland,2012,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,NA
-Switzerland,2012,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,NA
-Switzerland,2012,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,NA
-Switzerland,2012,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,NA
-Switzerland,2012,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1471    report(GLOBE-SWI[2015])
-1488    report(GLOBE-SWI[2015])
-1505    report(GLOBE-SWI[2015])
-Name: source, dtype: object; 1471    
-1488    
-1505    
-Name: comment, dtype: object",NA,NA
+Switzerland,2012,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2012,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2012,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2012,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2012,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
+Switzerland,2012,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,report(GLOBE-SWI[2015]); ,NA,NA
 Switzerland,2012,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2012,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2012,1A4C,Oil,NA,NA,NA,NA,NA
@@ -7529,48 +7169,12 @@ Switzerland,2013,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2013,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2013,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2013,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2013,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2013,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
-Switzerland,2013,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2013,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2013,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2013,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2013,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2013,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
+Switzerland,2013,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2013,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2013,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
 Switzerland,2013,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)"
@@ -7655,48 +7259,12 @@ Switzerland,2013,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2013,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2013,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2013,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2013,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,NA
-Switzerland,2013,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,NA
-Switzerland,2013,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,NA
-Switzerland,2013,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,NA
-Switzerland,2013,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,NA
-Switzerland,2013,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1472    report(WB[2014],IEA-EPT[2018])
-1489    report(WB[2014],IEA-EPT[2018])
-1506    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1472    
-1489    
-1506    
-Name: comment, dtype: object",NA,NA
+Switzerland,2013,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2013,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2013,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2013,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2013,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2013,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
 Switzerland,2013,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2013,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2013,1A4C,Oil,NA,NA,NA,NA,NA
@@ -7899,48 +7467,12 @@ Switzerland,2014,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2014,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2014,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2014,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2014,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2014,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2014,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2014,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2014,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2014,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2014,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2014,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2014,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2014,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2014,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2014,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2014,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -8025,48 +7557,12 @@ Switzerland,2014,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2014,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2014,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2014,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2014,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,NA
-Switzerland,2014,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,NA
-Switzerland,2014,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,NA
-Switzerland,2014,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,NA
-Switzerland,2014,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,NA
-Switzerland,2014,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1473    report(WB[2014],IEA-EPT[2018])
-1490    report(WB[2014],IEA-EPT[2018])
-1507    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1473    
-1490    
-1507    
-Name: comment, dtype: object",NA,NA
+Switzerland,2014,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2014,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2014,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2014,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2014,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2014,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
 Switzerland,2014,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2014,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2014,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8269,48 +7765,12 @@ Switzerland,2015,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2015,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2015,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2015,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2015,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2015,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2015,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2015,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2015,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2015,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2015,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2015,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2015,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2015,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2015,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2015,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2015,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -8395,48 +7855,12 @@ Switzerland,2015,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2015,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2015,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2015,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2015,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,NA
-Switzerland,2015,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,NA
-Switzerland,2015,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,NA
-Switzerland,2015,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,NA
-Switzerland,2015,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,NA
-Switzerland,2015,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1474    report(WB[2014],IEA-EPT[2018])
-1491    report(WB[2014],IEA-EPT[2018])
-1508    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1474    
-1491    
-1508    
-Name: comment, dtype: object",NA,NA
+Switzerland,2015,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2015,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2015,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2015,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2015,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2015,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
 Switzerland,2015,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2015,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2015,1A4C,Oil,NA,NA,NA,NA,NA
@@ -8639,48 +8063,12 @@ Switzerland,2016,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2016,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2016,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2016,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2016,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2016,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2016,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2016,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2016,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2016,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2016,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2016,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2016,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2016,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2016,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2016,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2016,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -8765,48 +8153,12 @@ Switzerland,2016,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2016,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2016,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2016,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2016,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,NA
-Switzerland,2016,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,NA
-Switzerland,2016,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,NA
-Switzerland,2016,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,NA
-Switzerland,2016,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,NA
-Switzerland,2016,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1475    report(WB[2014],IEA-EPT[2018])
-1492    report(WB[2014],IEA-EPT[2018])
-1509    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1475    
-1492    
-1509    
-Name: comment, dtype: object",NA,NA
+Switzerland,2016,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2016,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2016,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2016,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2016,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2016,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
 Switzerland,2016,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2016,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2016,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9009,48 +8361,12 @@ Switzerland,2017,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2017,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2017,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2017,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2017,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2017,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2017,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2017,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2017,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2017,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2017,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2017,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2017,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2017,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2017,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2017,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2017,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -9135,48 +8451,12 @@ Switzerland,2017,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2017,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2017,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2017,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2017,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,NA
-Switzerland,2017,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,NA
-Switzerland,2017,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,NA
-Switzerland,2017,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,NA
-Switzerland,2017,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,NA
-Switzerland,2017,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1476    report(WB[2014],IEA-EPT[2018])
-1493    report(WB[2014],IEA-EPT[2018])
-1510    report(WB[2014],IEA-EPT[2018])
-Name: source, dtype: object; 1476    
-1493    
-1510    
-Name: comment, dtype: object",NA,NA
+Switzerland,2017,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2017,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2017,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2017,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2017,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
+Switzerland,2017,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"report(WB[2014],IEA-EPT[2018]); ",NA,NA
 Switzerland,2017,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2017,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2017,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9379,48 +8659,12 @@ Switzerland,2018,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2018,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2018,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2018,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2018,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2018,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2018,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2018,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2018,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2018,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -9505,48 +8749,12 @@ Switzerland,2018,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2018,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2018,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2018,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2018,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,NA
-Switzerland,2018,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,NA
-Switzerland,2018,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,NA
-Switzerland,2018,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,NA
-Switzerland,2018,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,NA
-Switzerland,2018,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1477    gvt(CH-OFEV[2018])
-1494    gvt(CH-OFEV[2018])
-1511    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1477    
-1494    
-1511    
-Name: comment, dtype: object",NA,NA
+Switzerland,2018,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2018,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2018,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2018,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2018,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2018,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
 Switzerland,2018,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2018,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2018,1A4C,Oil,NA,NA,NA,NA,NA
@@ -9749,48 +8957,12 @@ Switzerland,2019,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2019,1A1A1,Coal,NA,NA,NA,NA,NA
 Switzerland,2019,1A1A1,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2019,1A1A1,Oil,NA,NA,NA,NA,NA
-Switzerland,2019,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2019,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2019,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2019,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2019,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2019,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -9875,48 +9047,12 @@ Switzerland,2019,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2019,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2019,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2019,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2019,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,NA
-Switzerland,2019,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,NA
-Switzerland,2019,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,NA
-Switzerland,2019,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,NA
-Switzerland,2019,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,NA
-Switzerland,2019,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1478    gvt(CH-OFEV[2018])
-1495    gvt(CH-OFEV[2018])
-1512    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1478    
-1495    
-1512    
-Name: comment, dtype: object",NA,NA
+Switzerland,2019,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2019,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2019,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2019,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2019,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2019,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
 Switzerland,2019,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2019,1A4C,Oil,NA,NA,NA,NA,NA
@@ -10119,48 +9255,12 @@ Switzerland,2020,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2020,1A1A1,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1A1,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1A1,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2020,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2020,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2020,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -10245,48 +9345,12 @@ Switzerland,2020,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2020,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2020,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2020,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2020,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,NA
-Switzerland,2020,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,NA
-Switzerland,2020,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,NA
-Switzerland,2020,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,NA
-Switzerland,2020,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,NA
-Switzerland,2020,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1479    gvt(CH-OFEV[2018])
-1496    gvt(CH-OFEV[2018])
-1513    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1479    
-1496    
-1513    
-Name: comment, dtype: object",NA,NA
+Switzerland,2020,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2020,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2020,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2020,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2020,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2020,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
 Switzerland,2020,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2020,1A4C,Oil,NA,NA,NA,NA,NA
@@ -10489,48 +9553,12 @@ Switzerland,2021,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2021,1A1A1,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2021,1A1A1,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2021,1A1A1,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2021,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2021,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2021,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2021,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2021,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2021,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2021,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2021,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2021,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2021,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2021,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2021,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),gvt(CH-OFEV[2018]); ,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2021,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2021,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2021,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,web(SW-ER[2021]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -10615,48 +9643,12 @@ Switzerland,2021,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2021,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2021,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2021,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,NA
-Switzerland,2021,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,NA
-Switzerland,2021,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,NA
-Switzerland,2021,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,NA
-Switzerland,2021,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,NA
-Switzerland,2021,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1480    gvt(CH-OFEV[2018])
-1497    gvt(CH-OFEV[2018])
-1514    gvt(CH-OFEV[2018])
-Name: source, dtype: object; 1480    
-1497    
-1514    
-Name: comment, dtype: object",NA,NA
+Switzerland,2021,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2021,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2021,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2021,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2021,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
+Switzerland,2021,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2018]); ,NA,NA
 Switzerland,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2021,1A4C,Oil,NA,NA,NA,NA,NA
@@ -10859,48 +9851,12 @@ Switzerland,2022,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2022,1A1A1,Coal,NA, ,NA,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2022,1A1A1,Natural gas,NA, ,NA,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2022,1A1A1,Oil,NA, ,NA,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2022,1A1A2,Coal,"gvt(CH[2005], CH[2009])", ,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2022,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])", ,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2022,1A1A2,Oil,"gvt(CH[2005], CH[2009])", ,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2022,1A1A3,Coal,"gvt(CH[2005], CH[2009])", ,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2022,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])", ,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2022,1A1A3,Oil,"gvt(CH[2005], CH[2009])", ,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2022,1A1A2,Coal,"gvt(CH[2005], CH[2009])", ,gvt(CH-OFEV[2021]); ,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2022,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])", ,gvt(CH-OFEV[2021]); ,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2022,1A1A2,Oil,"gvt(CH[2005], CH[2009])", ,gvt(CH-OFEV[2021]); ,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2022,1A1A3,Coal,"gvt(CH[2005], CH[2009])", ,gvt(CH-OFEV[2021]); ,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2022,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])", ,gvt(CH-OFEV[2021]); ,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2022,1A1A3,Oil,"gvt(CH[2005], CH[2009])", ,gvt(CH-OFEV[2021]); ,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2022,1A1B,Coal,NA, ,NA,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2022,1A1B,Natural gas,NA, ,NA,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2022,1A1B,Oil,NA, ,NA,NA,web(SW-ER[2022]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -10985,48 +9941,12 @@ Switzerland,2022,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2022,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2022,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2022,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,NA
-Switzerland,2022,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,NA
-Switzerland,2022,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,NA
-Switzerland,2022,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,NA
-Switzerland,2022,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,NA
-Switzerland,2022,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1481    gvt(CH-OFEV[2021])
-1498    gvt(CH-OFEV[2021])
-1515    gvt(CH-OFEV[2021])
-Name: source, dtype: object; 1481    
-1498    
-1515    
-Name: comment, dtype: object",NA,NA
+Switzerland,2022,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2021]); ,NA,NA
+Switzerland,2022,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2021]); ,NA,NA
+Switzerland,2022,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2021]); ,NA,NA
+Switzerland,2022,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2021]); ,NA,NA
+Switzerland,2022,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2021]); ,NA,NA
+Switzerland,2022,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,gvt(CH-OFEV[2021]); ,NA,NA
 Switzerland,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2022,1A4C,Oil,NA,NA,NA,NA,NA
@@ -11229,48 +10149,12 @@ Switzerland,2023,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2023,1A1A1,Coal,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2023,1A1A1,Natural gas,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2023,1A1A1,Oil,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2023,1A1A2,Coal,"gvt(CH[2005], CH[2009])", ,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2023,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])", ,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2023,1A1A2,Oil,"gvt(CH[2005], CH[2009])", ,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2023,1A1A3,Coal,"gvt(CH[2005], CH[2009])", ,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2023,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])", ,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2023,1A1A3,Oil,"gvt(CH[2005], CH[2009])", ,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2023,1A1A2,Coal,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2023,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2023,1A1A2,Oil,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2023,1A1A3,Coal,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2023,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2023,1A1A3,Oil,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2023,1A1B,Coal,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2023,1A1B,Natural gas,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2023,1A1B,Oil,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -11355,48 +10239,12 @@ Switzerland,2023,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2023,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2023,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2023,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,NA
-Switzerland,2023,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,NA
-Switzerland,2023,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,NA
-Switzerland,2023,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,NA
-Switzerland,2023,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,NA
-Switzerland,2023,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1482    
-1499    
-1516    
-Name: source, dtype: object; 1482    
-1499    
-1516    
-Name: comment, dtype: object",NA,NA
+Switzerland,2023,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2023,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2023,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2023,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2023,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2023,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
 Switzerland,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2023,1A4C,Oil,NA,NA,NA,NA,NA
@@ -11599,48 +10447,12 @@ Switzerland,2024,1A1A,Oil,NA,NA,NA,NA,NA
 Switzerland,2024,1A1A1,Coal,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2024,1A1A1,Natural gas,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2024,1A1A1,Oil,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2024,1A1A2,Coal,"gvt(CH[2005], CH[2009])", ,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2024,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])", ,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2024,1A1A2,Oil,"gvt(CH[2005], CH[2009])", ,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2024,1A1A3,Coal,"gvt(CH[2005], CH[2009])", ,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2024,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])", ,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
-Switzerland,2024,1A1A3,Oil,"gvt(CH[2005], CH[2009])", ,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2024,1A1A2,Coal,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2024,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2024,1A1A2,Oil,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2024,1A1A3,Coal,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2024,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
+Switzerland,2024,1A1A3,Oil,"gvt(CH[2005], CH[2009])", ,; ,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2024,1A1B,Coal,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2024,1A1B,Natural gas,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
 Switzerland,2024,1A1B,Oil,NA, ,NA,NA,web(SW-ER[2025]); calculated based on auction clearing price and allowances sold from Swiss Emissions Trading Registry
@@ -11725,48 +10537,12 @@ Switzerland,2024,1A3E1,Oil,NA,NA,NA,NA,NA
 Switzerland,2024,1A4,Coal,NA,NA,NA,NA,NA
 Switzerland,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2024,1A4,Oil,NA,NA,NA,NA,NA
-Switzerland,2024,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,NA
-Switzerland,2024,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,NA
-Switzerland,2024,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,NA
-Switzerland,2024,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,NA
-Switzerland,2024,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,NA
-Switzerland,2024,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,"1483    
-1500    
-1517    
-Name: source, dtype: object; 1483    
-1500    
-1517    
-Name: comment, dtype: object",NA,NA
+Switzerland,2024,1A4A,Coal,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2024,1A4A,Natural gas,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2024,1A4A,Oil,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2024,1A4B,Coal,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2024,1A4B,Natural gas,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
+Switzerland,2024,1A4B,Oil,"gvt(CH[2005], CH[2009])",NA,; ,NA,NA
 Switzerland,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Switzerland,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Switzerland,2024,1A4C,Oil,NA,NA,NA,NA,NA

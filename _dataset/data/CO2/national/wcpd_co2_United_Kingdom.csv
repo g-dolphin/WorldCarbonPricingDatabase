@@ -7166,12 +7166,12 @@ United Kingdom,2013,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2013,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2013,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2013,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2013,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,4.37,EUR,,,
-United Kingdom,2013,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,4.37,EUR,,,
-United Kingdom,2013,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,4.37,EUR,,,
-United Kingdom,2013,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,4.37,EUR,,,
-United Kingdom,2013,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,4.37,EUR,,,
-United Kingdom,2013,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,4.37,EUR,,,
+United Kingdom,2013,1A1A1,Coal,1.0,1.0,gbr_tax,4.94,0.0,4.94,GBP,eu_ets,4.37,EUR,,,
+United Kingdom,2013,1A1A1,Natural gas,1.0,1.0,gbr_tax,4.94,0.0,4.94,GBP,eu_ets,4.37,EUR,,,
+United Kingdom,2013,1A1A1,Oil,1.0,1.0,gbr_tax,4.94,0.0,4.94,GBP,eu_ets,4.37,EUR,,,
+United Kingdom,2013,1A1A2,Coal,1.0,1.0,gbr_tax,4.94,0.0,4.94,GBP,eu_ets,4.37,EUR,,,
+United Kingdom,2013,1A1A2,Natural gas,1.0,1.0,gbr_tax,4.94,0.0,4.94,GBP,eu_ets,4.37,EUR,,,
+United Kingdom,2013,1A1A2,Oil,1.0,1.0,gbr_tax,4.94,0.0,4.94,GBP,eu_ets,4.37,EUR,,,
 United Kingdom,2013,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
 United Kingdom,2013,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
 United Kingdom,2013,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,4.37,EUR,,,
@@ -7464,12 +7464,12 @@ United Kingdom,2014,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2014,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2014,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2014,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2014,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.91,EUR,,,
-United Kingdom,2014,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.91,EUR,,,
-United Kingdom,2014,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.91,EUR,,,
-United Kingdom,2014,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.91,EUR,,,
-United Kingdom,2014,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.91,EUR,,,
-United Kingdom,2014,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.91,EUR,,,
+United Kingdom,2014,1A1A1,Coal,1.0,1.0,gbr_tax,8.3975,0.0,8.3975,GBP,eu_ets,5.91,EUR,,,
+United Kingdom,2014,1A1A1,Natural gas,1.0,1.0,gbr_tax,8.3975,0.0,8.3975,GBP,eu_ets,5.91,EUR,,,
+United Kingdom,2014,1A1A1,Oil,1.0,1.0,gbr_tax,8.3975,0.0,8.3975,GBP,eu_ets,5.91,EUR,,,
+United Kingdom,2014,1A1A2,Coal,1.0,1.0,gbr_tax,8.3975,0.0,8.3975,GBP,eu_ets,5.91,EUR,,,
+United Kingdom,2014,1A1A2,Natural gas,1.0,1.0,gbr_tax,8.3975,0.0,8.3975,GBP,eu_ets,5.91,EUR,,,
+United Kingdom,2014,1A1A2,Oil,1.0,1.0,gbr_tax,8.3975,0.0,8.3975,GBP,eu_ets,5.91,EUR,,,
 United Kingdom,2014,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
 United Kingdom,2014,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
 United Kingdom,2014,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.91,EUR,,,
@@ -7762,12 +7762,12 @@ United Kingdom,2015,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2015,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2015,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2015,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2015,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,7.62,EUR,,,
-United Kingdom,2015,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,7.62,EUR,,,
-United Kingdom,2015,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,7.62,EUR,,,
-United Kingdom,2015,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,7.62,EUR,,,
-United Kingdom,2015,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,7.62,EUR,,,
-United Kingdom,2015,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,7.62,EUR,,,
+United Kingdom,2015,1A1A1,Coal,1.0,1.0,gbr_tax,15.9475,0.0,15.9475,GBP,eu_ets,7.62,EUR,,,
+United Kingdom,2015,1A1A1,Natural gas,1.0,1.0,gbr_tax,15.9475,0.0,15.9475,GBP,eu_ets,7.62,EUR,,,
+United Kingdom,2015,1A1A1,Oil,1.0,1.0,gbr_tax,15.9475,0.0,15.9475,GBP,eu_ets,7.62,EUR,,,
+United Kingdom,2015,1A1A2,Coal,1.0,1.0,gbr_tax,15.9475,0.0,15.9475,GBP,eu_ets,7.62,EUR,,,
+United Kingdom,2015,1A1A2,Natural gas,1.0,1.0,gbr_tax,15.9475,0.0,15.9475,GBP,eu_ets,7.62,EUR,,,
+United Kingdom,2015,1A1A2,Oil,1.0,1.0,gbr_tax,15.9475,0.0,15.9475,GBP,eu_ets,7.62,EUR,,,
 United Kingdom,2015,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
 United Kingdom,2015,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
 United Kingdom,2015,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,7.62,EUR,,,
@@ -8060,12 +8060,12 @@ United Kingdom,2016,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2016,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2016,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2016,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2016,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.25,EUR,,,
-United Kingdom,2016,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.25,EUR,,,
-United Kingdom,2016,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.25,EUR,,,
-United Kingdom,2016,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.25,EUR,,,
-United Kingdom,2016,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.25,EUR,,,
-United Kingdom,2016,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.25,EUR,,,
+United Kingdom,2016,1A1A1,Coal,1.0,1.0,gbr_tax,18.02,0.0,18.02,GBP,eu_ets,5.25,EUR,,,
+United Kingdom,2016,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.02,0.0,18.02,GBP,eu_ets,5.25,EUR,,,
+United Kingdom,2016,1A1A1,Oil,1.0,1.0,gbr_tax,18.02,0.0,18.02,GBP,eu_ets,5.25,EUR,,,
+United Kingdom,2016,1A1A2,Coal,1.0,1.0,gbr_tax,18.02,0.0,18.02,GBP,eu_ets,5.25,EUR,,,
+United Kingdom,2016,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.02,0.0,18.02,GBP,eu_ets,5.25,EUR,,,
+United Kingdom,2016,1A1A2,Oil,1.0,1.0,gbr_tax,18.02,0.0,18.02,GBP,eu_ets,5.25,EUR,,,
 United Kingdom,2016,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
 United Kingdom,2016,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
 United Kingdom,2016,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.25,EUR,,,
@@ -8358,12 +8358,12 @@ United Kingdom,2017,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2017,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2017,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2017,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2017,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.76,EUR,,,
-United Kingdom,2017,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.76,EUR,,,
-United Kingdom,2017,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.76,EUR,,,
-United Kingdom,2017,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.76,EUR,,,
-United Kingdom,2017,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.76,EUR,,,
-United Kingdom,2017,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,5.76,EUR,,,
+United Kingdom,2017,1A1A1,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,5.76,EUR,,,
+United Kingdom,2017,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,5.76,EUR,,,
+United Kingdom,2017,1A1A1,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,5.76,EUR,,,
+United Kingdom,2017,1A1A2,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,5.76,EUR,,,
+United Kingdom,2017,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,5.76,EUR,,,
+United Kingdom,2017,1A1A2,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,5.76,EUR,,,
 United Kingdom,2017,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
 United Kingdom,2017,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
 United Kingdom,2017,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,5.76,EUR,,,
@@ -8656,12 +8656,12 @@ United Kingdom,2018,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2018,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2018,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2018,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2018,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,15.48,EUR,,,
-United Kingdom,2018,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,15.48,EUR,,,
-United Kingdom,2018,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,15.48,EUR,,,
-United Kingdom,2018,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,15.48,EUR,,,
-United Kingdom,2018,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,15.48,EUR,,,
-United Kingdom,2018,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,15.48,EUR,,,
+United Kingdom,2018,1A1A1,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,15.48,EUR,,,
+United Kingdom,2018,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,15.48,EUR,,,
+United Kingdom,2018,1A1A1,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,15.48,EUR,,,
+United Kingdom,2018,1A1A2,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,15.48,EUR,,,
+United Kingdom,2018,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,15.48,EUR,,,
+United Kingdom,2018,1A1A2,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,15.48,EUR,,,
 United Kingdom,2018,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
 United Kingdom,2018,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
 United Kingdom,2018,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,15.48,EUR,,,
@@ -8954,12 +8954,12 @@ United Kingdom,2019,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2019,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2019,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2019,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2019,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.72,EUR,,,
-United Kingdom,2019,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.72,EUR,,,
-United Kingdom,2019,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.72,EUR,,,
-United Kingdom,2019,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.72,EUR,,,
-United Kingdom,2019,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.72,EUR,,,
-United Kingdom,2019,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.72,EUR,,,
+United Kingdom,2019,1A1A1,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.72,EUR,,,
+United Kingdom,2019,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.72,EUR,,,
+United Kingdom,2019,1A1A1,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.72,EUR,,,
+United Kingdom,2019,1A1A2,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.72,EUR,,,
+United Kingdom,2019,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.72,EUR,,,
+United Kingdom,2019,1A1A2,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.72,EUR,,,
 United Kingdom,2019,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
 United Kingdom,2019,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
 United Kingdom,2019,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.72,EUR,,,
@@ -9252,12 +9252,12 @@ United Kingdom,2020,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2020,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2020,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2020,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2020,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.39,EUR,,,
-United Kingdom,2020,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.39,EUR,,,
-United Kingdom,2020,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.39,EUR,,,
-United Kingdom,2020,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.39,EUR,,,
-United Kingdom,2020,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.39,EUR,,,
-United Kingdom,2020,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,eu_ets,24.39,EUR,,,
+United Kingdom,2020,1A1A1,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.39,EUR,,,
+United Kingdom,2020,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.39,EUR,,,
+United Kingdom,2020,1A1A1,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.39,EUR,,,
+United Kingdom,2020,1A1A2,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.39,EUR,,,
+United Kingdom,2020,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.39,EUR,,,
+United Kingdom,2020,1A1A2,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,eu_ets,24.39,EUR,,,
 United Kingdom,2020,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
 United Kingdom,2020,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
 United Kingdom,2020,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,24.39,EUR,,,
@@ -9550,12 +9550,12 @@ United Kingdom,2021,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2021,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2021,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2021,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2021,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,51.62,GBP,,,
-United Kingdom,2021,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,51.62,GBP,,,
-United Kingdom,2021,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,51.62,GBP,,,
-United Kingdom,2021,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,51.62,GBP,,,
-United Kingdom,2021,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,51.62,GBP,,,
-United Kingdom,2021,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,51.62,GBP,,,
+United Kingdom,2021,1A1A1,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,51.62,GBP,,,
+United Kingdom,2021,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,51.62,GBP,,,
+United Kingdom,2021,1A1A1,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,51.62,GBP,,,
+United Kingdom,2021,1A1A2,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,51.62,GBP,,,
+United Kingdom,2021,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,51.62,GBP,,,
+United Kingdom,2021,1A1A2,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,51.62,GBP,,,
 United Kingdom,2021,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,51.62,GBP,,,
 United Kingdom,2021,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,51.62,GBP,,,
 United Kingdom,2021,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,51.62,GBP,,,
@@ -9848,12 +9848,12 @@ United Kingdom,2022,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2022,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2022,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2022,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2022,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,75.47,GBP,,,
-United Kingdom,2022,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,75.47,GBP,,,
-United Kingdom,2022,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,75.47,GBP,,,
-United Kingdom,2022,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,75.47,GBP,,,
-United Kingdom,2022,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,75.47,GBP,,,
-United Kingdom,2022,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,75.47,GBP,,,
+United Kingdom,2022,1A1A1,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,75.47,GBP,,,
+United Kingdom,2022,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,75.47,GBP,,,
+United Kingdom,2022,1A1A1,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,75.47,GBP,,,
+United Kingdom,2022,1A1A2,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,75.47,GBP,,,
+United Kingdom,2022,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,75.47,GBP,,,
+United Kingdom,2022,1A1A2,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,75.47,GBP,,,
 United Kingdom,2022,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,75.47,GBP,,,
 United Kingdom,2022,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,75.47,GBP,,,
 United Kingdom,2022,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,75.47,GBP,,,
@@ -10146,12 +10146,12 @@ United Kingdom,2023,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2023,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2023,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2023,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2023,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,53.36,GBP,,,
-United Kingdom,2023,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,53.36,GBP,,,
-United Kingdom,2023,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,53.36,GBP,,,
-United Kingdom,2023,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,53.36,GBP,,,
-United Kingdom,2023,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,53.36,GBP,,,
-United Kingdom,2023,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,53.36,GBP,,,
+United Kingdom,2023,1A1A1,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,53.36,GBP,,,
+United Kingdom,2023,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,53.36,GBP,,,
+United Kingdom,2023,1A1A1,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,53.36,GBP,,,
+United Kingdom,2023,1A1A2,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,53.36,GBP,,,
+United Kingdom,2023,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,53.36,GBP,,,
+United Kingdom,2023,1A1A2,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,53.36,GBP,,,
 United Kingdom,2023,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,53.36,GBP,,,
 United Kingdom,2023,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,53.36,GBP,,,
 United Kingdom,2023,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,53.36,GBP,,,
@@ -10444,12 +10444,12 @@ United Kingdom,2024,1A1,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2024,1A1A,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2024,1A1A,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 United Kingdom,2024,1A1A,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Kingdom,2024,1A1A1,Coal,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,37.18,GBP,,,
-United Kingdom,2024,1A1A1,Natural gas,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,37.18,GBP,,,
-United Kingdom,2024,1A1A1,Oil,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,37.18,GBP,,,
-United Kingdom,2024,1A1A2,Coal,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,37.18,GBP,,,
-United Kingdom,2024,1A1A2,Natural gas,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,37.18,GBP,,,
-United Kingdom,2024,1A1A2,Oil,1.0,1.0,gbr_tax,,0.0,,,gbr_ets,37.18,GBP,,,
+United Kingdom,2024,1A1A1,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,37.18,GBP,,,
+United Kingdom,2024,1A1A1,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,37.18,GBP,,,
+United Kingdom,2024,1A1A1,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,37.18,GBP,,,
+United Kingdom,2024,1A1A2,Coal,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,37.18,GBP,,,
+United Kingdom,2024,1A1A2,Natural gas,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,37.18,GBP,,,
+United Kingdom,2024,1A1A2,Oil,1.0,1.0,gbr_tax,18.0,0.0,18.0,GBP,gbr_ets,37.18,GBP,,,
 United Kingdom,2024,1A1A3,Coal,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,37.18,GBP,,,
 United Kingdom,2024,1A1A3,Natural gas,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,37.18,GBP,,,
 United Kingdom,2024,1A1A3,Oil,0.0,1.0,NA,NA,NA,NA,NA,gbr_ets,37.18,GBP,,,

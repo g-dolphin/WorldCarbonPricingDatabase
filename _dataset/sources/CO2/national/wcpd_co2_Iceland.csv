@@ -6283,22 +6283,10 @@ Iceland,2010,1A1A3,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly
 Iceland,2010,1A1A3,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2010,1A1B,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2010,1A1B,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2010,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2003]),"1518    report(WB[2014])
-1519    report(WB[2014])
-1520    report(WB[2014])
-Name: source, dtype: object; 1518    Price calculated as 50% of EU ETS ref price. I...
-1519    Price calculated as 50% of EU ETS ref price. I...
-1520    Price calculated as 50% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2010,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2003]),report(WB[2014]); Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2010,1A1C,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2010,1A1C,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2010,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2003]),"1518    report(WB[2014])
-1519    report(WB[2014])
-1520    report(WB[2014])
-Name: source, dtype: object; 1518    Price calculated as 50% of EU ETS ref price. I...
-1519    Price calculated as 50% of EU ETS ref price. I...
-1520    Price calculated as 50% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2010,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2003]),report(WB[2014]); Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2010,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2010,1A2,Oil,NA,NA,NA,NA,NA
@@ -6355,13 +6343,7 @@ Iceland,2010,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2010,1A3A2,Oil,NA,NA,NA,NA,NA
 Iceland,2010,1A3B,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A3B,Natural gas,NA,NA,NA,NA,NA
-Iceland,2010,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1518    report(WB[2014])
-1519    report(WB[2014])
-1520    report(WB[2014])
-Name: source, dtype: object; 1518    Price calculated as 50% of EU ETS ref price. I...
-1519    Price calculated as 50% of EU ETS ref price. I...
-1520    Price calculated as 50% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2010,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2010,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2010,1A3C,Oil,NA,NA,NA,NA,NA
@@ -6385,43 +6367,19 @@ Iceland,2010,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2010,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2010,1A4A,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A4A,Natural gas,NA,NA,NA,NA,NA
-Iceland,2010,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1518    report(WB[2014])
-1519    report(WB[2014])
-1520    report(WB[2014])
-Name: source, dtype: object; 1518    Price calculated as 50% of EU ETS ref price. I...
-1519    Price calculated as 50% of EU ETS ref price. I...
-1520    Price calculated as 50% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2010,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2010,1A4B,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A4B,Natural gas,NA,NA,NA,NA,NA
-Iceland,2010,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1518    report(WB[2014])
-1519    report(WB[2014])
-1520    report(WB[2014])
-Name: source, dtype: object; 1518    Price calculated as 50% of EU ETS ref price. I...
-1519    Price calculated as 50% of EU ETS ref price. I...
-1520    Price calculated as 50% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2010,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2010,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2010,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2010,1A4C1,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Iceland,2010,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1518    report(WB[2014])
-1519    report(WB[2014])
-1520    report(WB[2014])
-Name: source, dtype: object; 1518    Price calculated as 50% of EU ETS ref price. I...
-1519    Price calculated as 50% of EU ETS ref price. I...
-1520    Price calculated as 50% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2010,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2010,1A4C2,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Iceland,2010,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1518    report(WB[2014])
-1519    report(WB[2014])
-1520    report(WB[2014])
-Name: source, dtype: object; 1518    Price calculated as 50% of EU ETS ref price. I...
-1519    Price calculated as 50% of EU ETS ref price. I...
-1520    Price calculated as 50% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2010,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 50% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2010,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2010,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2010,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -6623,22 +6581,10 @@ Iceland,2011,1A1A3,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly
 Iceland,2011,1A1A3,Oil,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2011,1A1B,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2011,1A1B,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2011,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2003]),"1521    report(WB[2014])
-1522    report(WB[2014])
-1523    report(WB[2014])
-Name: source, dtype: object; 1521    Price calculated as 75% of EU ETS ref price. I...
-1522    Price calculated as 75% of EU ETS ref price. I...
-1523    Price calculated as 75% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2011,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2003]),report(WB[2014]); Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2011,1A1C,Coal,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2011,1A1C,Natural gas,NA,leg(EC[2003]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2011,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2003]),"1521    report(WB[2014])
-1522    report(WB[2014])
-1523    report(WB[2014])
-Name: source, dtype: object; 1521    Price calculated as 75% of EU ETS ref price. I...
-1522    Price calculated as 75% of EU ETS ref price. I...
-1523    Price calculated as 75% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2011,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2003]),report(WB[2014]); Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2011,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2011,1A2,Oil,NA,NA,NA,NA,NA
@@ -6695,13 +6641,7 @@ Iceland,2011,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2011,1A3A2,Oil,NA,NA,NA,NA,NA
 Iceland,2011,1A3B,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A3B,Natural gas,NA,NA,NA,NA,NA
-Iceland,2011,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1521    report(WB[2014])
-1522    report(WB[2014])
-1523    report(WB[2014])
-Name: source, dtype: object; 1521    Price calculated as 75% of EU ETS ref price. I...
-1522    Price calculated as 75% of EU ETS ref price. I...
-1523    Price calculated as 75% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2011,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2011,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2011,1A3C,Oil,NA,NA,NA,NA,NA
@@ -6725,43 +6665,19 @@ Iceland,2011,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2011,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2011,1A4A,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A4A,Natural gas,NA,NA,NA,NA,NA
-Iceland,2011,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1521    report(WB[2014])
-1522    report(WB[2014])
-1523    report(WB[2014])
-Name: source, dtype: object; 1521    Price calculated as 75% of EU ETS ref price. I...
-1522    Price calculated as 75% of EU ETS ref price. I...
-1523    Price calculated as 75% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2011,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2011,1A4B,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A4B,Natural gas,NA,NA,NA,NA,NA
-Iceland,2011,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1521    report(WB[2014])
-1522    report(WB[2014])
-1523    report(WB[2014])
-Name: source, dtype: object; 1521    Price calculated as 75% of EU ETS ref price. I...
-1522    Price calculated as 75% of EU ETS ref price. I...
-1523    Price calculated as 75% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2011,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2011,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2011,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2011,1A4C1,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Iceland,2011,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1521    report(WB[2014])
-1522    report(WB[2014])
-1523    report(WB[2014])
-Name: source, dtype: object; 1521    Price calculated as 75% of EU ETS ref price. I...
-1522    Price calculated as 75% of EU ETS ref price. I...
-1523    Price calculated as 75% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2011,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2011,1A4C2,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Iceland,2011,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1521    report(WB[2014])
-1522    report(WB[2014])
-1523    report(WB[2014])
-Name: source, dtype: object; 1521    Price calculated as 75% of EU ETS ref price. I...
-1522    Price calculated as 75% of EU ETS ref price. I...
-1523    Price calculated as 75% of EU ETS ref price. I...
-Name: comment, dtype: object",NA,NA
+Iceland,2011,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 75% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2011,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2011,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2011,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -6963,22 +6879,10 @@ Iceland,2012,1A1A3,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly
 Iceland,2012,1A1A3,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2012,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2012,1A1B,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2012,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1524    report(WB[2014])
-1525    report(WB[2014])
-1526    report(WB[2014])
-Name: source, dtype: object; 1524    Price calculated as 100% of EU ETS ref price. ...
-1525    Price calculated as 100% of EU ETS ref price. ...
-1526    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2012,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2012,1A1C,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2012,1A1C,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2012,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1524    report(WB[2014])
-1525    report(WB[2014])
-1526    report(WB[2014])
-Name: source, dtype: object; 1524    Price calculated as 100% of EU ETS ref price. ...
-1525    Price calculated as 100% of EU ETS ref price. ...
-1526    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2012,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2012,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2012,1A2,Oil,NA,NA,NA,NA,NA
@@ -7035,13 +6939,7 @@ Iceland,2012,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly
 Iceland,2012,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2012,1A3B,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A3B,Natural gas,NA,NA,NA,NA,NA
-Iceland,2012,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1524    report(WB[2014])
-1525    report(WB[2014])
-1526    report(WB[2014])
-Name: source, dtype: object; 1524    Price calculated as 100% of EU ETS ref price. ...
-1525    Price calculated as 100% of EU ETS ref price. ...
-1526    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2012,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2012,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2012,1A3C,Oil,NA,NA,NA,NA,NA
@@ -7065,43 +6963,19 @@ Iceland,2012,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2012,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2012,1A4A,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A4A,Natural gas,NA,NA,NA,NA,NA
-Iceland,2012,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1524    report(WB[2014])
-1525    report(WB[2014])
-1526    report(WB[2014])
-Name: source, dtype: object; 1524    Price calculated as 100% of EU ETS ref price. ...
-1525    Price calculated as 100% of EU ETS ref price. ...
-1526    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2012,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2012,1A4B,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A4B,Natural gas,NA,NA,NA,NA,NA
-Iceland,2012,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1524    report(WB[2014])
-1525    report(WB[2014])
-1526    report(WB[2014])
-Name: source, dtype: object; 1524    Price calculated as 100% of EU ETS ref price. ...
-1525    Price calculated as 100% of EU ETS ref price. ...
-1526    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2012,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2012,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2012,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2012,1A4C1,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A4C1,Natural gas,NA,NA,NA,NA,NA
-Iceland,2012,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1524    report(WB[2014])
-1525    report(WB[2014])
-1526    report(WB[2014])
-Name: source, dtype: object; 1524    Price calculated as 100% of EU ETS ref price. ...
-1525    Price calculated as 100% of EU ETS ref price. ...
-1526    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2012,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2012,1A4C2,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A4C2,Natural gas,NA,NA,NA,NA,NA
-Iceland,2012,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1524    report(WB[2014])
-1525    report(WB[2014])
-1526    report(WB[2014])
-Name: source, dtype: object; 1524    Price calculated as 100% of EU ETS ref price. ...
-1525    Price calculated as 100% of EU ETS ref price. ...
-1526    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2012,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2012,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2012,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2012,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -7302,35 +7176,11 @@ Iceland,2013,1A1A3,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2013,1A1A3,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2013,1A1A3,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2013,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2013,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2013,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2013,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2013,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2013,1A1C,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2013,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2013,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2013,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2013,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2013,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2013,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2013,1A2,Oil,NA,NA,NA,NA,NA
@@ -7386,20 +7236,8 @@ Iceland,2013,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2013,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2013,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2013,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2013,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
-Iceland,2013,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2013,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2013,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2013,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2013,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2013,1A3C,Oil,NA,NA,NA,NA,NA
@@ -7422,68 +7260,20 @@ Iceland,2013,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2013,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2013,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2013,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2013,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
-Iceland,2013,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2013,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2013,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2013,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2013,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
-Iceland,2013,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2013,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2013,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2013,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2013,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2013,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2013,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2013,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
-Iceland,2013,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2013,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2013,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2013,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2013,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
-Iceland,2013,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1527    report(WB[2014])
-1528    report(WB[2014])
-1529    report(WB[2014])
-Name: source, dtype: object; 1527    Price calculated as 100% of EU ETS ref price. ...
-1528    Price calculated as 100% of EU ETS ref price. ...
-1529    Price calculated as 100% of EU ETS ref price. ...
-Name: comment, dtype: object",NA,NA
+Iceland,2013,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2013,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Price calculated as 100% of EU ETS ref price. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2013,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2013,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2013,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -7684,35 +7474,11 @@ Iceland,2014,1A1A3,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2014,1A1A3,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2014,1A1A3,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2014,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2014,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2014,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2014,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2014,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2014,1A1C,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2014,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2014,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2014,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2014,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2014,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2014,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2014,1A2,Oil,NA,NA,NA,NA,NA
@@ -7768,20 +7534,8 @@ Iceland,2014,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2014,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2014,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2014,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2014,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2014,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2014,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2014,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2014,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2014,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2014,1A3C,Oil,NA,NA,NA,NA,NA
@@ -7804,68 +7558,20 @@ Iceland,2014,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2014,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2014,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2014,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2014,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2014,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2014,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2014,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2014,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2014,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2014,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2014,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2014,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2014,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2014,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2014,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2014,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2014,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2014,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2014,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2014,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2014,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2014,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2014,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1530    report(WB[2014])
-1531    report(WB[2014])
-1532    report(WB[2014])
-Name: source, dtype: object; 1530    Rate converted back from USD using exchange ra...
-1531    Rate converted back from USD using exchange ra...
-1532    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2014,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2014,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2014]); Rate converted back from USD using exchange rate provided in report WB[2014]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2014,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2014,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2014,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -8066,35 +7772,11 @@ Iceland,2015,1A1A3,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2015,1A1A3,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2015,1A1A3,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2015,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2015,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2015,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2015,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2015,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2015,1A1C,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2015,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2015,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2015,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2015,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2015,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2015,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2015,1A2,Oil,NA,NA,NA,NA,NA
@@ -8150,20 +7832,8 @@ Iceland,2015,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2015,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2015,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2015,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2015,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2015,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2015,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2015,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2015,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2015,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2015,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8186,68 +7856,20 @@ Iceland,2015,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2015,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2015,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2015,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2015,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2015,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2015,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2015,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2015,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2015,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2015,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2015,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2015,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2015,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2015,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2015,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2015,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2015,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2015,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2015,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2015,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2015,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2015,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2015,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1533    report(WB[2015])
-1534    report(WB[2015])
-1535    report(WB[2015])
-Name: source, dtype: object; 1533    Rate converted back from USD using exchange ra...
-1534    Rate converted back from USD using exchange ra...
-1535    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2015,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2015,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2015]); Rate converted back from USD using exchange rate provided in report WB[2015]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2015,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2015,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2015,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -8448,35 +8070,11 @@ Iceland,2016,1A1A3,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2016,1A1A3,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2016,1A1A3,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2016,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2016,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2016,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2016,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2016,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2016,1A1C,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2016,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2016,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2016,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2016,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2016,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2016,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2016,1A2,Oil,NA,NA,NA,NA,NA
@@ -8532,20 +8130,8 @@ Iceland,2016,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2016,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2016,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2016,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2016,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2016,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2016,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2016,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2016,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2016,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2016,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8568,68 +8154,20 @@ Iceland,2016,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2016,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2016,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2016,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2016,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2016,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2016,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2016,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2016,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2016,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2016,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2016,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2016,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2016,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2016,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2016,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2016,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2016,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2016,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2016,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2016,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2016,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2016,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2016,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1536    report(WB[2016])
-1537    report(WB[2016])
-1538    report(WB[2016])
-Name: source, dtype: object; 1536    Rate converted back from USD using exchange ra...
-1537    Rate converted back from USD using exchange ra...
-1538    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2016,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2016,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2016]); Rate converted back from USD using exchange rate provided in report WB[2016]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2016,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2016,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2016,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -8830,35 +8368,11 @@ Iceland,2017,1A1A3,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2017,1A1A3,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2017,1A1A3,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2017,1A1B,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2017,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2017,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2017,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2017,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2017,1A1C,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2017,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2017,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2017,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2017,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2014]),report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2017,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2017,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2017,1A2,Oil,NA,NA,NA,NA,NA
@@ -8914,20 +8428,8 @@ Iceland,2017,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2017,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2017,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2017,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2017,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2017,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2017,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2017,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2017,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2017,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2017,1A3C,Oil,NA,NA,NA,NA,NA
@@ -8950,68 +8452,20 @@ Iceland,2017,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2017,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2017,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2017,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2017,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2017,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2017,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2017,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2017,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2017,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2017,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2017,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2017,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2017,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2017,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2017,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2017,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2017,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2017,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2017,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2017,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2017,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2017,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2017,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1539    report(WB[2017])
-1540    report(WB[2017])
-1541    report(WB[2017])
-Name: source, dtype: object; 1539    Rate converted back from USD using exchange ra...
-1540    Rate converted back from USD using exchange ra...
-1541    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2017,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2017,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2017]); Rate converted back from USD using exchange rate provided in report WB[2017]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2017,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2017,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2017,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -9212,35 +8666,11 @@ Iceland,2018,1A1A3,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2018,1A1A3,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2018,1A1A3,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2018,1A1B,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2018,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2018]),"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2018,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2018]),"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2018,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2018]),report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2018,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2018]),report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2018,1A1C,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2018,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2018]),"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2018,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2018]),"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2018,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2018]),report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2018,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2018]),report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2018,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2018,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2018,1A2,Oil,NA,NA,NA,NA,NA
@@ -9296,20 +8726,8 @@ Iceland,2018,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2018,1A3A2,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2018,1A3A2,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2018,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2018,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2018,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2018,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2018,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2018,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2018,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2018,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9332,68 +8750,20 @@ Iceland,2018,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2018,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2018,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2018,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2018,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2018,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2018,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2018,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2018,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2018,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2018,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2018,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2018,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2018,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2018,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2018,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2018,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2018,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2018,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2018,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2018,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2018,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2018,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
-Iceland,2018,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1542    report(WB[2018])
-1543    report(WB[2018])
-1544    report(WB[2018])
-Name: source, dtype: object; 1542    Rate converted back from USD using exchange ra...
-1543    Rate converted back from USD using exchange ra...
-1544    Rate converted back from USD using exchange ra...
-Name: comment, dtype: object",NA,NA
+Iceland,2018,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
+Iceland,2018,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,report(WB[2018]); Rate converted back from USD using exchange rate provided in report WB[2018]. Iceland does not have CHP plants operating in this year.,NA,NA
 Iceland,2018,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2018,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2018,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -9594,35 +8964,11 @@ Iceland,2019,1A1A3,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2019,1A1A3,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2019,1A1A3,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2019,1A1B,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2019,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2018]),"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2019,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2018]),"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2019,1A1B,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2018]),"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2019,1A1B,Oil,leg(ISL-ENRTA[2009]),leg(EC[2018]),"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2019,1A1C,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2019,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2018]),"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2019,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2018]),"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2019,1A1C,Natural gas,leg(ISL-ENRTA[2009]),leg(EC[2018]),"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2019,1A1C,Oil,leg(ISL-ENRTA[2009]),leg(EC[2018]),"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2019,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2019,1A2,Oil,NA,NA,NA,NA,NA
@@ -9678,20 +9024,8 @@ Iceland,2019,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly averag
 Iceland,2019,1A3A2,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2019,1A3A2,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2019,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2019,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2019,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2019,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2019,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2019,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2019,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2019,1A3C,Oil,NA,NA,NA,NA,NA
@@ -9714,68 +9048,20 @@ Iceland,2019,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2019,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2019,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2019,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2019,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2019,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2019,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2019,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2019,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2019,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2019,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2019,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2019,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2019,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2019,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2019,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2019,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2019,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2019,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2019,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2019,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2019,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2019,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1545    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1546    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1547    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1545    10% increase on rate from 2018. Iceland does n...
-1546    10% increase on rate from 2018. Iceland does n...
-1547    10% increase on rate from 2018. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2019,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2019,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2018. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2019,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2019,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2019,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -9976,35 +9262,11 @@ Iceland,2020,1A1A3,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); y
 Iceland,2020,1A1A3,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2020,1A1A3,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2020,1A1B,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2020,1A1B,Natural gas,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2020,1A1B,Oil,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2020,1A1B,Natural gas,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2020,1A1B,Oil,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2020,1A1C,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2020,1A1C,Natural gas,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2020,1A1C,Oil,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2020,1A1C,Natural gas,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2020,1A1C,Oil,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2020,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2020,1A2,Oil,NA,NA,NA,NA,NA
@@ -10060,20 +9322,8 @@ Iceland,2020,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); y
 Iceland,2020,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2020,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2020,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2020,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2020,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2020,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2020,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2020,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2020,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2020,1A3C,Oil,NA,NA,NA,NA,NA
@@ -10096,68 +9346,20 @@ Iceland,2020,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2020,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2020,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2020,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2020,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2020,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2020,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2020,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2020,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2020,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2020,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2020,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2020,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2020,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2020,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2020,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2020,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2020,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2020,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2020,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2020,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2020,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
-Iceland,2020,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1548    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1549    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-1550    report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-...
-Name: source, dtype: object; 1548    10% increase on rate from 2019. Iceland does n...
-1549    10% increase on rate from 2019. Iceland does n...
-1550    10% increase on rate from 2019. Iceland does n...
-Name: comment, dtype: object",NA,NA
+Iceland,2020,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
+Iceland,2020,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"report(WB[2019]), gvt(ISL-CAP[2018]), leg(ISL-BGT[2018]); 10% increase on rate from 2019. Iceland does not have CHP plants operating in this year.",NA,NA
 Iceland,2020,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2020,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2020,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -10358,35 +9560,11 @@ Iceland,2021,1A1A3,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); y
 Iceland,2021,1A1A3,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2021,1A1A3,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2021,1A1B,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2021,1A1B,Natural gas,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2021,1A1B,Oil,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2021,1A1B,Natural gas,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])",db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2021,1A1B,Oil,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])",db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2021,1A1C,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2021,1A1C,Natural gas,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2021,1A1C,Oil,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])","1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2021,1A1C,Natural gas,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])",db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2021,1A1C,Oil,leg(ISL-ENRTA[2009]),"leg(EC[2018], EC[2020])",db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2021,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2021,1A2,Oil,NA,NA,NA,NA,NA
@@ -10442,20 +9620,8 @@ Iceland,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); y
 Iceland,2021,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2021,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2021,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2021,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
-Iceland,2021,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
+Iceland,2021,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2021,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2021,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2021,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2021,1A3C,Oil,NA,NA,NA,NA,NA
@@ -10478,68 +9644,20 @@ Iceland,2021,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2021,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2021,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2021,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
-Iceland,2021,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
+Iceland,2021,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2021,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2021,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2021,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
-Iceland,2021,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
+Iceland,2021,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2021,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2021,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2021,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2021,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
-Iceland,2021,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
+Iceland,2021,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2021,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2021,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2021,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
-Iceland,2021,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1551    db(WBWCPDB[2024])
-1552    db(WBWCPDB[2024])
-1553                     
-Name: source, dtype: object; 1551    
-1552    
-1553    
-Name: comment, dtype: object",NA,NA
+Iceland,2021,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2021,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2021,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2021,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2021,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -10740,35 +9858,11 @@ Iceland,2022,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily)
 Iceland,2022,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2022,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2022,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2022,1A1B,Natural gas,leg(ISL-ENRTA[2009]), ,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2022,1A1B,Oil,leg(ISL-ENRTA[2009]), ,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2022,1A1B,Natural gas,leg(ISL-ENRTA[2009]), ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2022,1A1B,Oil,leg(ISL-ENRTA[2009]), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2022,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2022,1A1C,Natural gas,leg(ISL-ENRTA[2009]), ,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2022,1A1C,Oil,leg(ISL-ENRTA[2009]), ,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2022,1A1C,Natural gas,leg(ISL-ENRTA[2009]), ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2022,1A1C,Oil,leg(ISL-ENRTA[2009]), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2022,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A2,Oil,NA,NA,NA,NA,NA
@@ -10824,20 +9918,8 @@ Iceland,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily)
 Iceland,2022,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2022,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2022,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
-Iceland,2022,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
+Iceland,2022,1A3B,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2022,1A3B,Oil,leg(ISL-ENRTA[2009]),NA,; ,NA,NA
 Iceland,2022,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A3C,Oil,NA,NA,NA,NA,NA
@@ -10860,68 +9942,20 @@ Iceland,2022,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2022,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
-Iceland,2022,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
+Iceland,2022,1A4A,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2022,1A4A,Oil,leg(ISL-ENRTA[2009]),NA,; ,NA,NA
 Iceland,2022,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
-Iceland,2022,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
+Iceland,2022,1A4B,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2022,1A4B,Oil,leg(ISL-ENRTA[2009]),NA,; ,NA,NA
 Iceland,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2022,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
-Iceland,2022,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
+Iceland,2022,1A4C1,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2022,1A4C1,Oil,leg(ISL-ENRTA[2009]),NA,; ,NA,NA
 Iceland,2022,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2022,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
-Iceland,2022,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,"1554    db(WBWCPDB[2024])
-1555    db(WBWCPDB[2024])
-1556                     
-Name: source, dtype: object; 1554    
-1555    
-1556    
-Name: comment, dtype: object",NA,NA
+Iceland,2022,1A4C2,Natural gas,leg(ISL-ENRTA[2009]),NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2022,1A4C2,Oil,leg(ISL-ENRTA[2009]),NA,; ,NA,NA
 Iceland,2022,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2022,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2022,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -11122,35 +10156,11 @@ Iceland,2023,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily)
 Iceland,2023,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2023,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2023,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2023,1A1B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2023,1A1B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2023,1A1B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2023,1A1B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2023,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2023,1A1C,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2023,1A1C,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2023,1A1C,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2023,1A1C,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2023,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2023,1A2,Oil,NA,NA,NA,NA,NA
@@ -11206,20 +10216,8 @@ Iceland,2023,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily)
 Iceland,2023,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2023,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2023,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2023,1A3B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
-Iceland,2023,1A3B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
+Iceland,2023,1A3B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2023,1A3B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2023,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2023,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2023,1A3C,Oil,NA,NA,NA,NA,NA
@@ -11242,68 +10240,20 @@ Iceland,2023,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2023,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2023,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2023,1A4A,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
-Iceland,2023,1A4A,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
+Iceland,2023,1A4A,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2023,1A4A,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2023,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2023,1A4B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
-Iceland,2023,1A4B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
+Iceland,2023,1A4B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2023,1A4B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2023,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2023,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2023,1A4C1,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
-Iceland,2023,1A4C1,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
+Iceland,2023,1A4C1,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2023,1A4C1,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2023,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2023,1A4C2,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
-Iceland,2023,1A4C2,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1557    db(WBWCPDB[2024])
-1558    db(WBWCPDB[2024])
-1559    db(WBWCPDB[2024])
-Name: source, dtype: object; 1557    
-1558    
-1559    
-Name: comment, dtype: object",NA,NA
+Iceland,2023,1A4C2,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2023,1A4C2,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2023,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2023,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2023,1A4C3,Oil,NA,NA,NA,NA,NA
@@ -11504,35 +10454,11 @@ Iceland,2024,1A1A3,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily)
 Iceland,2024,1A1A3,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2024,1A1A3,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2024,1A1B,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2024,1A1B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2024,1A1B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2024,1A1B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2024,1A1B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2024,1A1C,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2024,1A1C,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Iceland,2024,1A1C,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2024,1A1C,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Iceland,2024,1A1C,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])", ,db(WBWCPDB[2024]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2024,1A2,Coal,NA,NA,NA,NA,NA
 Iceland,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Iceland,2024,1A2,Oil,NA,NA,NA,NA,NA
@@ -11588,20 +10514,8 @@ Iceland,2024,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily)
 Iceland,2024,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2024,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Iceland,2024,1A3B,Coal,NA,NA,NA,NA,NA
-Iceland,2024,1A3B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
-Iceland,2024,1A3B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
+Iceland,2024,1A3B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2024,1A3B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2024,1A3C,Coal,NA,NA,NA,NA,NA
 Iceland,2024,1A3C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2024,1A3C,Oil,NA,NA,NA,NA,NA
@@ -11624,68 +10538,20 @@ Iceland,2024,1A4,Coal,NA,NA,NA,NA,NA
 Iceland,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 Iceland,2024,1A4,Oil,NA,NA,NA,NA,NA
 Iceland,2024,1A4A,Coal,NA,NA,NA,NA,NA
-Iceland,2024,1A4A,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
-Iceland,2024,1A4A,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
+Iceland,2024,1A4A,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2024,1A4A,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2024,1A4B,Coal,NA,NA,NA,NA,NA
-Iceland,2024,1A4B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
-Iceland,2024,1A4B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
+Iceland,2024,1A4B,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2024,1A4B,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Iceland,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Iceland,2024,1A4C,Oil,NA,NA,NA,NA,NA
 Iceland,2024,1A4C1,Coal,NA,NA,NA,NA,NA
-Iceland,2024,1A4C1,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
-Iceland,2024,1A4C1,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
+Iceland,2024,1A4C1,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2024,1A4C1,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2024,1A4C2,Coal,NA,NA,NA,NA,NA
-Iceland,2024,1A4C2,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
-Iceland,2024,1A4C2,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,"1560    db(WBWCPDB[2024])
-1561    db(WBWCPDB[2024])
-1562    db(WBWCPDB[2024])
-Name: source, dtype: object; 1560    
-1561    
-1562    
-Name: comment, dtype: object",NA,NA
+Iceland,2024,1A4C2,Natural gas,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
+Iceland,2024,1A4C2,Oil,"leg(ISL-ENRTA[2009]), db(WBCPD[2024])",NA,db(WBWCPDB[2024]); ,NA,NA
 Iceland,2024,1A4C3,Coal,NA,NA,NA,NA,NA
 Iceland,2024,1A4C3,Natural gas,NA,NA,NA,NA,NA
 Iceland,2024,1A4C3,Oil,NA,NA,NA,NA,NA

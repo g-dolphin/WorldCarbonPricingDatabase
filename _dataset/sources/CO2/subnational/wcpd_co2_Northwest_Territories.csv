@@ -8954,369 +8954,63 @@ Northwest Territories,2019,1A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A1A,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A1A,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A1A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1A2J,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A2J,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A2J,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1A3,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3,Oil,NA,NA,NA,NA,NA
@@ -9329,294 +9023,60 @@ Northwest Territories,2019,1A3A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1A3D,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3D,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3D,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1A3E,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3E,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A3E,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1A4,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A4,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A4,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1A4C,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A4C,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A4C,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1A5,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A5,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2019,1A5,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2019,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2019,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1272    gvt(NWT[2020], ECCC[2021])
-1273    gvt(NWT[2020], ECCC[2021])
-1274    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1272    
-1273    
-1274    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2019,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2019,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2019,1B,NA,NA,NA,NA,NA,NA
 Northwest Territories,2019,1B1,NA,NA,NA,NA,NA,NA
 Northwest Territories,2019,1B1A,NA,NA,NA,NA,NA,NA
@@ -9792,369 +9252,63 @@ Northwest Territories,2020,1A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A1A,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A1A,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A1A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1A2J,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A2J,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A2J,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1A3,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3,Oil,NA,NA,NA,NA,NA
@@ -10167,294 +9321,60 @@ Northwest Territories,2020,1A3A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1A3D,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3D,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3D,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1A3E,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3E,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A3E,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1A4,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A4,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A4,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1A4C,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A4C,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A4C,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1A5,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A5,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2020,1A5,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2020,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2020,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1275    gvt(NWT[2020], ECCC[2021])
-1276    gvt(NWT[2020], ECCC[2021])
-1277    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1275    
-1276    
-1277    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2020,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2020,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2020,1B,NA,NA,NA,NA,NA,NA
 Northwest Territories,2020,1B1,NA,NA,NA,NA,NA,NA
 Northwest Territories,2020,1B1A,NA,NA,NA,NA,NA,NA
@@ -10630,369 +9550,63 @@ Northwest Territories,2021,1A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A1A,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A1A,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A1A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1A2J,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A2J,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A2J,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1A3,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3,Oil,NA,NA,NA,NA,NA
@@ -11005,294 +9619,60 @@ Northwest Territories,2021,1A3A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1A3D,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3D,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3D,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1A3E,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3E,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A3E,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1A4,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A4,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A4,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1A4C,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A4C,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A4C,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1A5,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A5,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2021,1A5,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2021,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2021,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1278    gvt(NWT[2020], ECCC[2021])
-1279    gvt(NWT[2020], ECCC[2021])
-1280    gvt(NWT[2020], ECCC[2021])
-Name: source, dtype: object; 1278    
-1279    
-1280    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2021,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
+Northwest Territories,2021,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"gvt(NWT[2020], ECCC[2021]); ",NA,NA
 Northwest Territories,2021,1B,NA,NA,NA,NA,NA,NA
 Northwest Territories,2021,1B1,NA,NA,NA,NA,NA,NA
 Northwest Territories,2021,1B1A,NA,NA,NA,NA,NA,NA
@@ -11468,369 +9848,63 @@ Northwest Territories,2022,1A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A1A,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A1A,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A1A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A1A1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1A3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A1C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A2A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2D,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2D,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2D,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2E,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2E,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2E,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2F,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2F,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2F,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2G,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2G,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2G,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2H,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2H,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2H,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2I,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2I,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2I,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A2J,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A2J,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A2J,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A2K,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2K,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2K,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2L,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2L,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2L,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2M,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2M,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A2M,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A3,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3,Oil,NA,NA,NA,NA,NA
@@ -11843,294 +9917,60 @@ Northwest Territories,2022,1A3A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A3B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A3D,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3D,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3D,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A3D1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3D2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A3E,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3E,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A3E,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A3E1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3E1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A3E1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A4,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A4,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A4,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A4A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A4C,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A4C,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A4C,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A4C1,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C1,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C1,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C2,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C2,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C2,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C3,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C3,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A4C3,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1A5,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A5,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2022,1A5,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2022,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2022,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,"1281    report(ECCC[2020])
-1282    report(ECCC[2020])
-1283    report(ECCC[2020])
-Name: source, dtype: object; 1281    
-1282    
-1283    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2022,1A5A,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5A,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5A,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5B,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5B,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5B,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5C,Coal,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5C,Natural gas,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
+Northwest Territories,2022,1A5C,Oil,"gvt(NWT[2020], ECCC[2021])",NA,report(ECCC[2020]); ,NA,NA
 Northwest Territories,2022,1B,NA,NA,NA,NA,NA,NA
 Northwest Territories,2022,1B1,NA,NA,NA,NA,NA,NA
 Northwest Territories,2022,1B1A,NA,NA,NA,NA,NA,NA
@@ -12306,369 +10146,63 @@ Northwest Territories,2023,1A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A1A,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A1A,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A1A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A1A1,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1A1,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1A1,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1A2,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1A2,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1A2,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1A3,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1A3,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1A3,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1B,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1B,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1B,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1C,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1C,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A1C,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A1A1,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1A1,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1A1,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1A2,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1A2,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1A2,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1A3,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1A3,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1A3,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1C,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1C,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A1C,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A2A,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2A,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2A,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2B,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2B,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2B,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2C,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2C,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2C,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2D,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2D,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2D,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2E,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2E,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2E,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2F,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2F,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2F,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2G,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2G,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2G,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2H,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2H,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2H,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2I,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2I,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2I,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A2A,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2A,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2A,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2C,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2C,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2C,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2D,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2D,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2D,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2E,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2E,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2E,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2F,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2F,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2F,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2G,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2G,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2G,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2H,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2H,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2H,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2I,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2I,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2I,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1A2J,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A2J,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A2J,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A2K,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2K,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2K,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2L,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2L,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2L,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2M,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2M,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A2M,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A2K,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2K,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2K,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2L,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2L,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2L,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2M,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2M,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A2M,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1A3,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3,Oil,NA,NA,NA,NA,NA
@@ -12681,294 +10215,60 @@ Northwest Territories,2023,1A3A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A3B,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3B,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3B,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3C,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3C,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3C,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A3B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3C,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3C,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3C,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1A3D,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3D,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3D,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A3D1,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3D1,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3D1,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3D2,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3D2,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3D2,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A3D1,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3D1,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3D1,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3D2,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3D2,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3D2,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1A3E,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3E,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A3E,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A3E1,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3E1,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A3E1,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A3E1,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3E1,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A3E1,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1A4,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A4,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A4,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A4A,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4A,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4A,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4B,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4B,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4B,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A4A,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4A,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4A,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1A4C,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A4C,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A4C,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A4C1,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4C1,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4C1,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4C2,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4C2,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4C2,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4C3,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4C3,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A4C3,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A4C1,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4C1,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4C1,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4C2,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4C2,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4C2,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4C3,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4C3,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A4C3,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1A5,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A5,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2023,1A5,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2023,1A5A,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A5A,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A5A,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A5B,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A5B,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A5B,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A5C,Coal,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A5C,Natural gas,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2023,1A5C,Oil,db(WBCPD[2024]),NA,"1284    
-1285    
-1286    
-Name: source, dtype: object; 1284    
-1285    
-1286    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2023,1A5A,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A5A,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A5A,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A5B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A5B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A5B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A5C,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A5C,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2023,1A5C,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2023,1B,NA,NA,NA,NA,NA,NA
 Northwest Territories,2023,1B1,NA,NA,NA,NA,NA,NA
 Northwest Territories,2023,1B1A,NA,NA,NA,NA,NA,NA
@@ -13144,369 +10444,63 @@ Northwest Territories,2024,1A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A1A,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A1A,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A1A,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A1A1,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1A1,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1A1,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1A2,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1A2,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1A2,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1A3,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1A3,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1A3,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1B,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1B,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1B,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1C,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1C,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A1C,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A1A1,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1A1,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1A1,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1A2,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1A2,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1A2,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1A3,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1A3,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1A3,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1C,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1C,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A1C,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A2A,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2A,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2A,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2B,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2B,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2B,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2C,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2C,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2C,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2D,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2D,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2D,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2E,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2E,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2E,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2F,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2F,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2F,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2G,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2G,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2G,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2H,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2H,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2H,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2I,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2I,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2I,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A2A,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2A,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2A,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2C,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2C,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2C,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2D,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2D,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2D,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2E,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2E,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2E,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2F,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2F,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2F,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2G,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2G,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2G,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2H,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2H,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2H,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2I,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2I,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2I,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1A2J,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A2J,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A2J,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A2K,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2K,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2K,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2L,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2L,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2L,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2M,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2M,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A2M,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A2K,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2K,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2K,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2L,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2L,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2L,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2M,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2M,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A2M,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1A3,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3,Oil,NA,NA,NA,NA,NA
@@ -13519,294 +10513,60 @@ Northwest Territories,2024,1A3A1,Oil,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3A2,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3A2,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3A2,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A3B,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3B,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3B,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3C,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3C,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3C,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A3B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3C,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3C,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3C,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1A3D,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3D,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3D,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A3D1,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3D1,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3D1,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3D2,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3D2,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3D2,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A3D1,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3D1,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3D1,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3D2,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3D2,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3D2,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1A3E,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3E,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A3E,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A3E1,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3E1,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A3E1,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A3E1,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3E1,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A3E1,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1A4,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A4,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A4,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A4A,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4A,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4A,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4B,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4B,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4B,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A4A,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4A,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4A,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1A4C,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A4C,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A4C,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A4C1,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4C1,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4C1,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4C2,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4C2,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4C2,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4C3,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4C3,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A4C3,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A4C1,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4C1,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4C1,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4C2,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4C2,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4C2,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4C3,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4C3,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A4C3,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1A5,Coal,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A5,Natural gas,NA,NA,NA,NA,NA
 Northwest Territories,2024,1A5,Oil,NA,NA,NA,NA,NA
-Northwest Territories,2024,1A5A,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A5A,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A5A,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A5B,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A5B,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A5B,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A5C,Coal,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A5C,Natural gas,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
-Northwest Territories,2024,1A5C,Oil,db(WBCPD[2024]),NA,"1287    
-1288    
-1289    
-Name: source, dtype: object; 1287    
-1288    
-1289    
-Name: comment, dtype: object",NA,NA
+Northwest Territories,2024,1A5A,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A5A,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A5A,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A5B,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A5B,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A5B,Oil,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A5C,Coal,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A5C,Natural gas,db(WBCPD[2024]),NA,; ,NA,NA
+Northwest Territories,2024,1A5C,Oil,db(WBCPD[2024]),NA,; ,NA,NA
 Northwest Territories,2024,1B,NA,NA,NA,NA,NA,NA
 Northwest Territories,2024,1B1,NA,NA,NA,NA,NA,NA
 Northwest Territories,2024,1B1A,NA,NA,NA,NA,NA,NA
