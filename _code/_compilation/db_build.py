@@ -77,9 +77,10 @@ taxes_scope_data, taxes_scope_sources = taxes_scope["data"], taxes_scope["source
 
 #-------------------- Helper Functions --------------------#
 
-def assign_price_and_currency(df, selection, scheme_df, scheme, yr, columns, source_df=None):
+def assign_price_and_currency(df, selection, scheme_df, scheme, yr, columns, fuel=None, source_df=None):
+    row_sel = (scheme_df.scheme_id == scheme) & (scheme_df.year == yr) if any(x in scheme for x in ["ets", "obps", "cat", "rggi"]) else (scheme_df.scheme_id == scheme) & (scheme_df.year == yr) & (scheme_df.em_type==fuel)
     try:
-        row = scheme_df.loc[(scheme_df.scheme_id == scheme) & (scheme_df.year == yr)].squeeze()
+        row = scheme_df.loc[row_sel].squeeze()
         price_col = "price" if any(x in scheme for x in ["ets", "obps", "cat", "rggi"]) else "rate"
         df.loc[selection, columns[price_col]] = row["rate"] if "rate" in row else row["allowance_price"]
         df.loc[selection, columns["curr_code"]] = row["currency_code"]
@@ -111,7 +112,7 @@ def ets_db_values(schemes, scheme_no):
             wcpd_all_jur.loc[selection, columns["binary"]] = 1
             wcpd_all_jur.loc[selection, columns["id"]] = scheme
             wcpd_all_jur_sources.loc[selection_src, columns["binary"]] = ets_scope_sources[scheme][yr]
-            assign_price_and_currency(wcpd_all_jur, selection, ets_prices, scheme, yr, columns, wcpd_all_jur_sources)
+            assign_price_and_currency(wcpd_all_jur, selection, ets_prices, scheme, yr, columns, source_df=wcpd_all_jur_sources)
 
 def tax_db_values(schemes, scheme_no):
     columns = {
@@ -143,7 +144,7 @@ def tax_db_values(schemes, scheme_no):
                     wcpd_all_jur.loc[sel, columns["binary"]] = 1
                     wcpd_all_jur.loc[sel, columns["id"]] = scheme
                     wcpd_all_jur_sources.loc[sel_src, columns["binary"]] = taxes_scope_sources[scheme][yr]
-                    assign_price_and_currency(wcpd_all_jur, sel, tax_rates, scheme, yr, columns, wcpd_all_jur_sources)
+                    assign_price_and_currency(wcpd_all_jur, sel, tax_rates, scheme, yr, columns, fuel, wcpd_all_jur_sources)
             else:
                 sel = (
                     (wcpd_all_jur.year == yr) &
