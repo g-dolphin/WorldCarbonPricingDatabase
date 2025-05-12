@@ -60,7 +60,7 @@ def process_ets_prices(price_dir: str = DEFAULT_PRICE_PATH) -> Dict[str, pd.Data
         if os.path.exists(path):
             data[code] = pd.read_csv(path)
             if code == "usa_rggi":
-                data[code].iloc[:, "allowance_price"] = data[code].iloc[:, "allowance_price"] / 0.907185
+                data[code]["allowance_price"] = data[code]["allowance_price"] / 0.907185
             logging.info(f"Loaded ETS price data for {code}")
         else:
             logging.warning(f"Missing price file: {filename}")
