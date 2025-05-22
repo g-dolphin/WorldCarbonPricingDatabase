@@ -2,37 +2,40 @@
 # -*- coding: utf-8 -*-
 """
 Created on Dec 1 2023
-
-@author: gd
 """
+
+import numpy as np
+import pandas as pd
 
 from importlib.machinery import SourceFileLoader
 
-ecp_cov_fac = SourceFileLoader('coverage_factors', '/Users/gd/GitHub/ECP/_code/compilation/_dependencies/dep_ecp/ecp_v3_coverageFactors.py').load_module()
+# Load coverage factor computation module
+ecp_cov_fac = SourceFileLoader(
+    'coverage_factors',
+    '/Users/gd/GitHub/ECP/_code/compilation/_dependencies/dep_ecp/ecp_v3_coverageFactors.py'
+).load_module()
 
-# for each scheme-sect, check whether there is overlap
+# -------------------------------------------------------------------------
+# Compute overlap between schemes (tax, ETS, ETS2) using coverage factors
+# -------------------------------------------------------------------------
 
-# a tricky issue is that two schemes may apply to the same sector-fuel but not cover the same emissions. 
-# Hence overlap cannot be determined solely based on scheme-jurisdiction-fuel-entries
+# Compute coverage factors
+overlap = ecp_cov_fac.coverageFactors(wcpd_all_jur.copy(), gas)
 
-# Take final dataset files, sum over all mechanisms fields.
-# If sum > 1, extract scheme_id entries (for that particular row)
-# If sum of coverage factors > 1, overlap = 1; else overlap = 0.
-    
-overlap = wcpd_all_jur.copy()
+# Retain relevant columns
+overlap = overlap[[
+    "jurisdiction", "year", "ipcc_code", "Product",
+    "tax_id", "ets_id", "ets_2_id",
+    "tax_cf", "ets_cf", "ets_2_cf"
+]]
 
-overlap = ecp_cov_fac.coverageFactors(overlap, gas)
+# Binarize scheme presence
+for scheme in ["tax_id", "ets_id", "ets_2_id"]:
+    overlap[scheme + "_bin"] = np.where(overlap[scheme] != "NA", 1, 0)
 
-overlap = overlap[["jurisdiction", "year", "ipcc_code", "Product", 
-                   "tax_id", "ets_id", "ets_2_id", 
-                   "tax_cf", "ets_cf", "ets_2_cf"]]  
-
-for col in ["tax_id", "ets_id", "ets_2_id"]:
-    overlap.loc[overlap[col]!="NA", col+"_bin"] = 1
-    overlap.loc[overlap[col]=="NA", col+"_bin"] = 0
-
-overlap["inForce"] = overlap[["tax_id_bin", "ets_id_bin", "ets_2_id_bin"]].sum(axis=1) 
+# Count active mechanisms and sum coverage factors
+overlap["inForce"] = overlap[["tax_id_bin", "ets_id_bin", "ets_2_id_bin"]].sum(axis=1)
 overlap["cf_sum"] = overlap[["tax_cf", "ets_cf", "ets_2_cf"]].sum(axis=1)
 
-overlap["overlap"] = 0
-overlap.loc[(overlap.inForce>1) & (overlap.cf_sum>1), "overlap"] = 1
+# Identify overlaps: more than one scheme in force and combined CF > 1
+overlap["overlap"] = np.where((overlap["inForce"] > 1) & (overlap["cf_sum"] > 1), 1, 0)

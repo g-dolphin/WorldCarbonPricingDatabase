@@ -17,36 +17,26 @@ Created on Tue Aug 24 14:37:49 2021
 
 # Create structure of the data frame and fill in default values 
 
-cf_taxes = pd.DataFrame()
+def build_cf_df(schemes, scope_dict):
+    rows = []
+    for scheme in schemes:
+        scheme_scope = scope_dict[scheme]
+        for year, jurisdictions in scheme_scope["jurisdictions"].items():
+            applicable_sectors = set(scheme_scope["sectors"][year])
+            # Create all combinations using MultiIndex
+            index = pd.MultiIndex.from_product(
+                [[scheme], jurisdictions, [year], wcpd_all_jur.ipcc_code.unique()],
+                names=["scheme_id", "jurisdiction", "year", "ipcc_code"]
+            )
+            df = pd.DataFrame(index=index).reset_index()
+            df["cf_CO2"] = df["ipcc_code"].apply(lambda x: 1 if x in applicable_sectors else "NA")
+            rows.append(df)
+    return pd.concat(rows, ignore_index=True)
 
-for scheme in taxes_1_list:
-    for year in taxes_scope[scheme]["jurisdictions"].keys():
-        for jurisdiction in taxes_scope[scheme]["jurisdictions"][year]:        
-            for sector in wcpd_all_jur.ipcc_code.unique():
-                
-                if sector in taxes_scope[scheme]["sectors"][year]:
-                    cf_taxes = cf_taxes.append({'scheme_id':scheme, "jurisdiction":jurisdiction,
-                                                "year":year, "ipcc_code":sector, "cf_CO2":1}, ignore_index=True)
-                else:
-                    cf_taxes = cf_taxes.append({'scheme_id':scheme, "jurisdiction":jurisdiction,
-                                                "year":year, "ipcc_code":sector, "cf_CO2":"NA"}, ignore_index=True)
+cf_taxes = build_cf_df(taxes_1_list, taxes_scope_data)
+cf_ets = build_cf_df(ets_1_list, ets_scope_data) #+ ets_2_list
 
-cf_ets = pd.DataFrame()
-
-for scheme in ets_1_list+ets_2_list:
-    for year in ets_scope[scheme]["jurisdictions"].keys():
-        for jurisdiction in ets_scope[scheme]["jurisdictions"][year]:
-            for sector in wcpd_all_jur.ipcc_code.unique():
-                 
-                if sector in ets_scope[scheme]["sectors"][year]:
-                    cf_ets = cf_ets.append({'scheme_id':scheme, "jurisdiction":jurisdiction,
-                                                "year":year, "ipcc_code":sector, "cf_CO2":1}, ignore_index=True)
-                else:
-                    cf_ets = cf_ets.append({'scheme_id':scheme, "jurisdiction":jurisdiction,
-                                                "year":year, "ipcc_code":sector, "cf_CO2":"NA"}, ignore_index=True)
-
-
-cf = pd.concat([cf_taxes, cf_ets])
+cf = pd.concat([cf_taxes, cf_ets], ignore_index=True)
 
 # Define ad-hoc values
 ## EU ETS interaction with national carbon taxes
@@ -56,20 +46,20 @@ ipcc_code = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A","1A2C",
              "1A2K", "1A2L", "1A2M", "2A1", "2A2", "2A3", "2A4A",
              "2C1", "2H1"]
 
-eu_ets_cf = {"Estonia":{"year":[i for i in range (2005,2023)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
-             "Latvia":{"year":[i for i in range (2005,2023)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
-             "Norway":{"year":[i for i in range (2005,2023)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
-             "Poland":{"year":[i for i in range (2005,2023)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}}
+eu_ets_cf = {"Estonia":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
+             "Latvia":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
+             "Norway":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
+             "Poland":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}}
 
 ## National carbon taxes
 
-est_tax_cf = {"Estonia":{"year":[i for i in range (2005,2023)], "ipcc_code":ipcc_code, "value":0.1,
+est_tax_cf = {"Estonia":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.1,
                          "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"}}
-lva_tax_cf = {"Latvia":{"year":[i for i in range (2005,2023)], "ipcc_code":ipcc_code, "value":0.1,
+lva_tax_cf = {"Latvia":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.1,
                          "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"}}
-nor_tax_cf = {"Norway":{"year":[i for i in range (2005,2023)], "ipcc_code":ipcc_code, "value":0.1,
+nor_tax_cf = {"Norway":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.1,
                          "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"}}
-pol_tax_cf = {"Poland":{"year":[i for i in range (2005,2023)], "ipcc_code":ipcc_code, "value":0.1,
+pol_tax_cf = {"Poland":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.1,
                          "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"}}
     
     

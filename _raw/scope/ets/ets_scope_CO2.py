@@ -104,7 +104,7 @@ def scope():
     eu_ets_jur_scope.update({year: eu_ets_jur_II for year in range(2007, 2008)})
     eu_ets_jur_scope.update({year: eu_ets_jur_III for year in range(2008, 2013)})
     eu_ets_jur_scope.update({year: eu_ets_jur_IV for year in range(2013, 2021)})
-    eu_ets_jur_scope.update({year: eu_ets_jur_V for year in range(2021, 2023)})
+    eu_ets_jur_scope.update({year: eu_ets_jur_V for year in range(2021, 2025)})
     
     eu_ets_ipcc_scope = {year: eu_ets_ipcc_I for year in range(2005, 2012)}
     eu_ets_ipcc_scope.update({year: eu_ets_ipcc_II for year in range(2012, 2024)})    
@@ -120,7 +120,8 @@ def scope():
                                2015:"leg(EC[2014])", 2016:"leg(EC[2014])", 
                                2017:"leg(EC[2014])", 2018:"leg(EC[2018])", 
                                2019:"leg(EC[2018])", 2020:"leg(EC[2018], EC[2020])", 
-                               2021:"leg(EC[2018], EC[2020])", 2022:" "}
+                               2021:"leg(EC[2018], EC[2020])", 2022:" ",
+                               2023:" ", 2024:" "}
 
     #----------------------------------------------------------------------------
 
@@ -136,13 +137,14 @@ def scope():
 
     ## scope dictionaries
     
-    aut_ets_jur_scope = {2022:aut_ets_jur_I}
+    aut_ets_jur_scope = {year:aut_ets_jur_I for year in range(2022,2025)}
     
-    aut_ets_ipcc_scope = {2022:aut_ets_ipcc_I}
+    aut_ets_ipcc_scope = {year:aut_ets_jur_I for year in range(2022,2025)}
     
     ## Sources dictionary
     
-    aut_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])"}
+    aut_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])",
+                             2023: " ", 2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -184,7 +186,8 @@ def scope():
     
     can_obps_scope_sources = {2019:"leg(SOR[2019])",
                               2020:"leg(SOR[2019])", 2021:"leg(SOR[2019])",
-                              2022:"leg(SOR[2019])"}
+                              2022:"leg(SOR[2019])", 2023: " ",
+                              2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -230,7 +233,8 @@ def scope():
     
     ## Sources dictionary
     
-    deu_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])"}
+    deu_ets_scope_sources = {2021:"gvt(DEU-UBA[2021])", 2022:"gvt(DEU-UBA[2021])",
+                             2023: " ", 2024:" "}
 
     #----------------------------------------------------------------------------
     
@@ -262,7 +266,9 @@ def scope():
     ## Sources dictionary
     
     mex_ets_scope_sources = {2021:"leg(MX[2019])",
-                             2022:"report(ICAP[2023])"}
+                             2022:"report(ICAP[2023])",
+                             2023: " ",
+                             2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -323,7 +329,7 @@ def scope():
                              2018:"leg(NZ-CCR[2013])", 2019:"leg(NZ-CCR[2013])",
                              2020:"leg(NZ-CCR[2020])", 2021:"leg(NZ-CCR[2020])",
                              2022:"leg(NZ-CCR[2020]), report(ICAP[2023])",
-                             2023: " ", 2024: ""}
+                             2023: " ", 2024: " "}
 
     #----------------------------------------------------------------------------
     
@@ -360,7 +366,7 @@ def scope():
     
     che_ets_scope_sources = {year:"gvt(CH[2009])" for year in range(2008, 2013)}
     che_ets_scope_sources.update({year:"gvt(CH[2009])" for year in range(2013, 2022)})
-    che_ets_scope_sources.update({year:" " for year in range(2022, 2023)})
+    che_ets_scope_sources.update({year:" " for year in range(2022, 2025)})
     
     #----------------------------------------------------------------------------
 
@@ -817,7 +823,7 @@ def scope():
     ## scope dictionaries
     chn_gd_ets_jur_scope = {year: chn_gd_ets_jur_I for year in range(2013, 2023)}
 
-    chn_gd_ets_ipcc_scope = {year: chn_gd_ets_ipcc_I for year in range(2014, 2016)}
+    chn_gd_ets_ipcc_scope = {year: chn_gd_ets_ipcc_I for year in range(2013, 2016)}
     chn_gd_ets_ipcc_scope.update({year: chn_gd_ets_ipcc_II for year in range(2016, 2021)})
     chn_gd_ets_ipcc_scope.update({year: chn_gd_ets_ipcc_III for year in range(2021, 2023)})
 
@@ -1068,6 +1074,21 @@ def scope():
     ## Jurisdiction
     can_bc_ets_jur_I = ["British Columbia"]
 
+    # IPCC categories
+    can_bc_ets_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B",
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I",
+                         "1A2J", "1A2K", "1A2L", "1A2M"]
+
+    ## scope dictionaries
+    
+    can_bc_ets_jur_scope = {2024:can_bc_ets_jur_I}
+    
+    can_bc_ets_ipcc_scope = {2024:can_bc_ets_ipcc_I}
+    
+    ## Sources dictionary
+    
+    can_bc_ets_scope_sources = {2024:" "}
+
     #----------------------------------------------------------------------------
     
     # CAN-Ontario
@@ -1184,7 +1205,8 @@ def scope():
     
     ## Sources dictionary
     
-    can_nb_ets_scope_sources = {2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])"}    
+    can_nb_ets_scope_sources = {2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])",
+                                2023: " ", 2024: " "}    
 
 
     #----------------------------------------------------------------------------
@@ -1208,15 +1230,18 @@ def scope():
     
     ## scope dictionaries
     can_ns_ets_jur_scope = {2019:can_ns_ets_jur_I, 2020:can_ns_ets_jur_I,
-                               2021:can_ns_ets_jur_I, 2022:can_ns_ets_jur_I}
+                            2021:can_ns_ets_jur_I, 2022:can_ns_ets_jur_I,
+                            2023:can_ns_ets_jur_I}
     
     can_ns_ets_ipcc_scope = {2019:can_ns_ets_ipcc_I, 2020:can_ns_ets_ipcc_I,
-                                2021:can_ns_ets_ipcc_I, 2022:can_ns_ets_ipcc_I}     
+                                2021:can_ns_ets_ipcc_I, 2022:can_ns_ets_ipcc_I,
+                                2023:can_ns_ets_ipcc_I}     
     
     ## Sources dictionary
     
     can_ns_ets_scope_sources = {2019:"gvt(ECCC[2021])", 2020:"gvt(ECCC[2021])",
-                                   2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])"}     
+                                   2021:"gvt(ECCC[2021])", 2022:"gvt(ECCC[2021])",
+                                   2023:"gvt(ECCC[2021])"}     
 
 
     #----------------------------------------------------------------------------
@@ -1229,7 +1254,21 @@ def scope():
     can_ns_ets_II_jur_I = ["Nova Scotia"]
 
     ## IPCC categories
-
+    can_ns_ets_II_ipcc_I = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2B", 
+                         "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", 
+                         "1A2J", "1A2K", "1A2L", "1A2M", "1A5A", "1B2A", "1B2A1", 
+                         "1B2A2", "1B2A3", "1B2A31", "1B2A32", "1B2A33", "1B2A34", 
+                         "1B2A35", "1B2A36", "1B2B", "1B2B1", "1B2B2", "1B2B3", 
+                         "1B2B31", "1B2B32", "1B2B33", "1B2B34", "1B2B35", "1B2B36"]
+    
+    ## scope dictionaries
+    can_ns_ets_II_jur_scope = {2024:can_ns_ets_II_jur_I}
+    
+    can_ns_ets_II_ipcc_scope = {2024:can_ns_ets_II_ipcc_I}     
+    
+    ## Sources dictionary
+    
+    can_ns_ets_II_scope_sources = {2024:"MULT-rep-035"} 
 
     #----------------------------------------------------------------------------
     
@@ -1313,10 +1352,14 @@ def scope():
                               "sectors":can_nb_ets_ipcc_scope},
                     "can_ns_ets":{"jurisdictions":can_ns_ets_jur_scope, 
                               "sectors":can_ns_ets_ipcc_scope},
+                    "can_ns_ets_II":{"jurisdictions":can_ns_ets_II_jur_scope, 
+                              "sectors":can_ns_ets_II_ipcc_scope},
                     "can_nl_ets":{"jurisdictions":can_nl_ets_jur_scope, 
                               "sectors":can_nl_ets_ipcc_scope}, 
                     "can_qc_cat":{"jurisdictions":can_qc_cat_jur_scope, 
                               "sectors":can_qc_cat_ipcc_scope}, 
+                    "can_bc_ets":{"jurisdictions":can_bc_ets_jur_scope, 
+                              "sectors":can_bc_ets_ipcc_scope}, 
                     "usa_ca_ets":{"jurisdictions":usa_ca_ets_jur_scope, 
                               "sectors":usa_ca_ets_ipcc_scope}, 
                     "usa_ma_ets":{"jurisdictions":usa_ma_ets_jur_scope, 
@@ -1352,9 +1395,12 @@ def scope():
                             "can_ab_ets":can_ab_ets_scope_sources,
                             "can_sk_ets":can_sk_ets_scope_sources,
                             "can_nb_ets":can_nb_ets_scope_sources,
+                            "can_nb_ets_II":can_ns_ets_II_scope_sources,
                             "can_ns_ets":can_ns_ets_scope_sources,
+                            "can_ns_ets_II":can_ns_ets_II_scope_sources,
                             "can_nl_ets":can_nl_ets_scope_sources,
                             "can_qc_cat":can_qc_cat_scope_sources,
+                            "can_bc_ets":can_bc_ets_scope_sources,
                             "usa_ca_ets":usa_ca_ets_scope_sources,
                             "usa_ma_ets":usa_ma_ets_scope_sources,
                             "usa_or_ets":usa_or_ets_scope_sources,

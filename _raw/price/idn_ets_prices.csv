@@ -1,7 +1,3 @@
-scheme_id,year,ghg,product,rate,currency_code,source,comment
-idn_ets,2023,CO2,Coal,9754.24,IDR,,
-idn_ets,2024,CO2,Coal,9754.24,IDR,,
-idn_ets,2023,CO2,Natural gas,9754.24,IDR,,
-idn_ets,2024,CO2,Natural gas,9754.24,IDR,,
-idn_ets,2023,CO2,Oil,9754.24,IDR,,
-idn_ets,2024,CO2,Oil,9754.24,IDR,,
+scheme_id,year,allowance_price,currency_code,source,comment
+idn_ets,2023,9754.24,IDR,-,-
+idn_ets,2024,9754.24,IDR,-,-
