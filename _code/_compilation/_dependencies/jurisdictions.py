@@ -9,7 +9,7 @@ import os
 
 # Define path to the JSON file
 #json_path = os.path.join(os.path.dirname(__file__), "jurisdictions.json")
-json_path = os.path.join("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/", "jurisdictions.json")
+json_path = os.path.join("/Users/ejoiner/OneDrive - rff/Documents/RFF Organization/Research Documents/WCPD/WorldCarbonPricingDatabase/_code/_compilation/_dependencies", "jurisdictions.json")
 
 # Load jurisdictions dictionary from file
 with open(json_path, 'r', encoding='utf-8') as f:
