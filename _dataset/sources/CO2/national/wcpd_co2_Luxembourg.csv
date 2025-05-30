@@ -10522,9 +10522,9 @@ Luxembourg,2024,1A3C,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A3D,Coal,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D,Natural gas,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D,Oil,NA,NA,NA,NA,NA
-Luxembourg,2024,1A3D1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A3D1,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Luxembourg,2024,1A3D1,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Luxembourg,2024,1A3D1,Coal,NA,NA,NA,NA,NA
+Luxembourg,2024,1A3D1,Natural gas,leg(),NA,; ,NA,NA
+Luxembourg,2024,1A3D1,Oil,leg(),NA,; ,NA,NA
 Luxembourg,2024,1A3D2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A3D2,Natural gas,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Luxembourg,2024,1A3D2,Oil,leg(), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
