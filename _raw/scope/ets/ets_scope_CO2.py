@@ -91,12 +91,13 @@ def scope():
     eu_ets_ipcc_III = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A",
                        "1A2B", "1A2C", "1A2D", "1A2E", "1A2F", "1A2G", "1A2H",
                        "1A2I", "1A2J", "1A2K", "1A2L", "1A2M", "1A3A2",
-                       "1A3D1", "1A3D2",
+                       "1A3D2",
                        "1C1A", "1C2B",
                        "2A1", "2A2", "2A3", "2A4A", "2B1", "2B2", "2B3", 
                        "2B4", "2B5", "2B6", "2B7", "2B8F",
                        "2C1", "2C2", "2C3", "2C4", "2C5", "2C6", "2H1"]
     
+    # "1A3D1", international marine bunkers; needs separate handling
     
     ## scope dictionaries
     

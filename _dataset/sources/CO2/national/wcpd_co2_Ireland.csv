@@ -10522,9 +10522,9 @@ Ireland,2024,1A3C,Oil,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A3D,Oil,NA,NA,NA,NA,NA
-Ireland,2024,1A3D1,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3D1,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
-Ireland,2024,1A3D1,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3D1,Coal,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A3D1,Natural gas,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
+Ireland,2024,1A3D1,Oil,leg(IRL-FA[2010]),NA,web(IRL-SFCT[2022]); ,NA,NA
 Ireland,2024,1A3D2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2024,1A3D2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2024,1A3D2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
