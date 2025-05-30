@@ -10522,9 +10522,9 @@ Luxembourg,2024,1A3C,Oil,1.0,0.0,lux_tax,30.0,0.0,30.0,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D,Natural gas,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D,Oil,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Luxembourg,2024,1A3D1,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
-Luxembourg,2024,1A3D1,Natural gas,1.0,1.0,lux_tax,30.0,0.0,30.0,EUR,eu_ets,64.76,EUR,,,
-Luxembourg,2024,1A3D1,Oil,1.0,1.0,lux_tax,30.0,0.0,30.0,EUR,eu_ets,64.76,EUR,,,
+Luxembourg,2024,1A3D1,Coal,0.0,0.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,2024,1A3D1,Natural gas,1.0,0.0,lux_tax,30.0,0.0,30.0,EUR,NA,NA,NA,NA,NA,NA
+Luxembourg,2024,1A3D1,Oil,1.0,0.0,lux_tax,30.0,0.0,30.0,EUR,NA,NA,NA,NA,NA,NA
 Luxembourg,2024,1A3D2,Coal,0.0,1.0,NA,NA,NA,NA,NA,eu_ets,64.76,EUR,,,
 Luxembourg,2024,1A3D2,Natural gas,1.0,1.0,lux_tax,30.0,0.0,30.0,EUR,eu_ets,64.76,EUR,,,
 Luxembourg,2024,1A3D2,Oil,1.0,1.0,lux_tax,30.0,0.0,30.0,EUR,eu_ets,64.76,EUR,,,
