@@ -115,6 +115,61 @@ def scope():
     
     #----------------------------------------------------------------------------
 
+    # Durango (mex_dg_tax) - currently inactive.
+
+    ## Jurisdiction
+    
+    mex_dg_tax_jur_I = ["Durango"]
+
+    ## IPCC categories
+    
+    mex_dg_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_dg_tax_fuel_I = []
+
+    ## scope dictionaries
+    mex_dg_tax_jur_scope = {} 
+    
+    mex_dg_tax_ipcc_scope = {}  
+
+    mex_dg_tax_fuel_scope = {} 
+    
+    ## Sources dictionary
+    
+    mex_dg_tax_scope_sources = {}
+
+    #----------------------------------------------------------------------------
+
+    # State of Mexico (mex_mex_tax)
+    
+    ## Jurisdiction
+    
+    mex_mex_tax_jur_I = ["Mexico"]
+
+    ## IPCC categories
+    
+    mex_mex_tax_ipcc_I = []
+    
+    ## Fuels
+    
+    mex_mex_tax_fuel_I = []
+
+    ## scope dictionaries
+    
+    mex_mex_tax_jur_scope = {}
+    
+    mex_mex_tax_ipcc_scope = {}
+    
+    mex_mex_tax_fuel_scope = {}
+    
+    ## Sources dictionary
+    
+    mex_mex_tax_scope_sources = {}
+
+    #----------------------------------------------------------------------------
+
     # Baja California (mex_bc_tax) - currently inactive.
 
     ## Jurisdiction
