@@ -387,16 +387,16 @@ def scope():
     
     mex_tm_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
-    ## scope dictionaries
-    mex_tm_tax_jur_scope = {year:mex_tm_tax_jur_I for year in range(2021, 2025)}
+   ## scope dictionaries
+    mex_tm_tax_jur_scope = {year:mex_tm_tax_jur_I for year in [2021, 2022, 2024]}
     
-    mex_tm_tax_ipcc_scope = {year:mex_tm_tax_ipcc_I for year in range(2021, 2025)}
+    mex_tm_tax_ipcc_scope = {year:mex_tm_tax_ipcc_I for year in [2021, 2022, 2024]}
 
-    mex_tm_tax_fuel_scope = {year:mex_tm_tax_fuel_I for year in range(2021, 2025)}
+    mex_tm_tax_fuel_scope = {year:mex_tm_tax_fuel_I for year in [2021, 2022, 2024]}
 
     ## Sources dictionary
     
-    mex_tm_tax_scope_sources = {year:"web(MEX-QT[2024a]), web(MEX-QT[2024b]), db(WCPDB[2024])" for year in range(2021, 2025)}
+    mex_tm_tax_scope_sources = {year:"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])" for year in [2021, 2022, 2024]}
 
     #----------------------------------------------------------------------------
 
@@ -432,7 +432,7 @@ def scope():
     
     ## Sources dictionary
     
-    mex_yu_tax_scope_sources = {year: " " for year in range(2022, 2025)}
+    mex_yu_tax_scope_sources = {year: "leg(MEX-YU[2022])" for year in range(2022, 2025)}
 
     #----------------------------------------------------------------------------
 
@@ -462,15 +462,16 @@ def scope():
     mex_za_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## scope dictionaries
-    mex_za_tax_jur_scope = {year:mex_za_tax_jur_I for year in range(2019, 2025)}
+    ## 6/2025 changed from 2019 to 2017 based on tax code course in project folder  
+    mex_za_tax_jur_scope = {year:mex_za_tax_jur_I for year in range(2017, 2025)}
     
-    mex_za_tax_ipcc_scope = {year:mex_za_tax_ipcc_I for year in range(2019, 2025)}
+    mex_za_tax_ipcc_scope = {year:mex_za_tax_ipcc_I for year in range(2017, 2025)}
 
-    mex_za_tax_fuel_scope = {year:mex_za_tax_fuel_I for year in range(2019, 2025)}
+    mex_za_tax_fuel_scope = {year:mex_za_tax_fuel_I for year in range(2017, 2025)}
 
     ## Sources dictionary
     
-    mex_za_tax_scope_sources = {year:" " for year in range(2019, 2025)}
+    mex_za_tax_scope_sources = {year:"leg(MEX-ZA[2016])" for year in range(2017, 2025)}
     
     
     #----------------------------------------------------------------------------
@@ -502,9 +503,8 @@ def scope():
     
     nor_tax_I_fuel_scope = {year:nor_tax_I_fuel_I for year in range(1991, 2025)}
     
-    
-    ## Sources dictionary
 
+    ## Sources dictionary
     
     nor_tax_I_scope_sources = {year: "leg(NOR-EA[1990])" for year in range(1991, 2025)}
     
@@ -571,12 +571,39 @@ def scope():
                     "col_tax":{"jurisdictions":col_tax_jur_scope, 
                               "sectors":col_tax_ipcc_scope,
                               "fuels":col_tax_fuel_scope},
+                    "nor_tax":{"jurisdictions": nor_tax_jur_scope,
+                               "sectors": nor_tax_ipcc_scope,
+                               "fuels": nor_tax_fuels_scope},
+                    "pol_tax":{"jurisdictions":pol_tax_jur_scope,
+                               "sectors:" pol_tax_ipcc_scope,
+                               "fuels": pol_tax_fuel_scope},
                     "sgp_tax":{"jurisdictions":sgp_tax_jur_scope, 
                               "sectors":sgp_tax_ipcc_scope,
                               "fuels":sgp_tax_fuel_scope},
+                    "zaf_tax":{"jurisdictions":zaf_tax_jur_scope,
+                               "sectors": zaf_tax_ipcc_scope,
+                               "fuels:" zaf_tax_fuel_scope},
+                    "mex_tax":{"jurisdictions": mex_tax_jur_scope,
+                               "sectors", mex_tax_ipcc_scope,
+                               "fuels": mex_tax_fuels_scope},
+                    "mex_em_tax":{"jurisidictions":mex_em_tax_jur_scope,
+                                  "sectors": mex_em_tax_ipcc_scope,
+                                  "fuels", mex_em_tax_fuels_scope},
+                    "mex_dur_tax":{"jurisdictions":mex_dur_tax_jur_scope,
+                                   "sectors": mex_dur_tax_ipcc_scope,
+                                   "fuels": mex_dur_tax_fuel_scope},
+                    "mex_gj_tax":{"jurisdictions":mex_gj_tax_jur_scope,
+                                  "sectors": mex_gj_tax_ipcc_scope,
+                                  "fuels": mex_gj_tax_fuel_scope},
+                    "mex_qt_tax":{"jurisdictions":mex_qt_tax_jur_scope,
+                                  "sectors": mex_qt_tax_ipcc_scope,
+                                  "fuels": mex_qt_tax_fuel_scope},
                     "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_scope, 
                                   "sectors":mex_tm_tax_ipcc_scope,
                                   "fuels":mex_tm_tax_fuel_scope},
+                    "mex_yu_tax":{"jurisdictions:"mex_yu_tax_jur_scope, 
+                                  "sectors":mex_yu_tax_ipcc_scope,
+                                  "fuels":mex_yu_tax_fuel_scope},
                     "mex_za_tax":{"jurisdictions":mex_za_tax_jur_scope, 
                                   "sectors":mex_za_tax_ipcc_scope,
                                   "fuels":mex_za_tax_fuel_scope}}
@@ -586,9 +613,15 @@ def scope():
         "can_tax_II":can_tax_II_scope_sources,
         "can_bc_tax":can_bc_tax_scope_sources,
         "col_tax":col_tax_scope_sources,
+        "nor_tax":nor_tax_scope_sources,
+        "pol_tax":pol_tax_scope_sources,
         "sgp_tax":sgp_tax_scope_sources,
+        "mex_tax": mex_tax_scope_sources,
+        "mex_em_tax":mex_em_tax_scope_sources,
+        "mex_dur_tax":mex_dur_tax_scope_sources,
+        "mex_qj_tax":mex_gj_tax_scope_sources,
         "mex_tm_tax":mex_tm_tax_scope_sources,
-        "mex_za_tax":mex_za_tax_scope_sources
+        "mex_za_tax":mex_za_tax_scope_sources,
         }
                                 
     
