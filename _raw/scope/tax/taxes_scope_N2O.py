@@ -621,7 +621,7 @@ def scope():
                               "fuels": col_tax_fuel_scope},
                    "mex_tax":{"jurisdictions": mex_tax_jur_scope,
                               "sectors": mex_tax_ipcc_scope,
-                              "fuels": mex_dur_tax_fuel_scope},
+                              "fuels": mex_dg_tax_fuel_scope},
                    "mex_dur_tax":{"jurisdictions": mex_dur_tax_jur_scope,
                                   "sectors": mex_dur_tax_ipcc_scope,
                                   "fuels": mex_dur_tax_fuel_scope},
