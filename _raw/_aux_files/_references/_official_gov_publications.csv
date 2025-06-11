@@ -1,4 +1,5 @@
 jurisdiction,year,institution,authors,title,url,last_accessed,citation_key,sourceID
+Albania,2008,General Directorate of Taxes,,National taxes,https://www.tatime.gov.al/eng/c/4/96/113/national-taxes, 2025, ABN-Tax, ABN-gov-001
 Alberta,2019,Government of Alberta,,"Standard for Completing Greenhouse Gas Compliance and Forecasting Reports
 Carbon Competitiveness Incentive Regulation ",https://open.alberta.ca/dataset/56506b9e-4bbf-4497-8de2-8ec811b9548d/resource/affb59a6-edf4-484c-84d4-c0093d64dbec/download/aep-standard-completing-ghg-compliance-forecasting-reports-v-24-2019-11.pdf,2021,ALBGOV(2019),CAN-AB-gov-001
 Alberta,2021,Government of Alberta,,Alberta Greenhouse Gas Quantification Methodologies,https://open.alberta.ca/dataset/5d79b86b-7811-413f-88d8-acd36cb9d6d2/resource/d2eb40b9-03ed-4f6b-9abf-127cd761d8c7/download/aep-alberta-greenhouse-gas-quantification-methodologies-version-2-1-2021-03.pdf,2021,ABGOV(2021),CAN-AB-gov-002
@@ -11,7 +12,8 @@ Beijing,2020,Beijing Municipal Ecology and Environment Bureau,,Notice of Beijing
 British Columbia,2018,BC Ministry of Finance,,mft-ct-005-tax-rates-fuels,https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/mft-ct-005-tax-rates-fuels.pdf,,BC-MFT,CAN-BC-gov-001
 British Columbia,2018,BC Ministry of Finance,,mft-ct-005-tax-rates-fuels,https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/motor-fuel-carbon-tax/forms-publications/publications,,,CAN-BC-gov-002
 British Columbia,2015,BC Ministry of Finance,,BC_MF(2015)_Tax_Bulletin,,,BC-MFT-II,CAN-BC-gov-003
-British Columbia,2021,Government of British Columbia,,Motor Fuel Tax and Carbon Tax Frequently Asked Questions,https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/motor-fuel-carbon-tax/business/faqs#exempt-refund,2021,BCGOV,CAN-BC-gov-004
+British Columbia,2024,Government of British Columbia,,Motor Fuel Tax and Carbon Tax Frequently Asked Questions,https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/motor-fuel-carbon-tax/business/faqs#exempt-refund,2024,BCGOV,CAN-BC-gov-004
+British Columbia,2025,Government of British Columbia,, B.C. Output-Based Pricing System, https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/bc-output-based-pricing-system, 2025, BCGOV, CAN-BC-gov-005
 California,2011,California Air Resources Board,,Final Regulation order,https://ww2.arb.ca.gov/sites/default/files/classic/regact/2010/capandtrade10/finalrevfro.pdf,2021,CA-CARB-FRO,USA-CA-gov-001
 Canada,2019,Government of Canada,,Greenhouse Gas Pollution Pricing Act: Annual report for 2019,https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/greenhouse-gas-annual-report-2019.html#toc7,2021,ECCC,CAN-gov-001
 Canada,2020,Government of Canada,,Review of the federal Output-Based Pricing System Regulations,https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/review.html,2021,ECCC,CAN-gov-002
@@ -22,7 +24,7 @@ Denmark,2021,Skatteministeriet,CO2-afgiftsloven - Afgiftssatser i lov om kuldiox
 Denmark,2021,Skatteministeriet,Meta-information on CO2 tax act,,https://www.skat.dk/skat.aspx?oID=2049787,,DK,DNK-gov-002
 Denmark,,,,,https://www.retsinformation.dk/,,DK,DNK-gov-003
 France,2019,Direction generale des douanes et droits indirects,,Introduction to taxes on oil products,https://www.douane.gouv.fr/fiche/introduction-taxes-oil-products,2021,FRA,FRA-gov-001
-Germany,2021,Environmental Protection Agency (Umweltbundesamt),Deutsche Emissionshandelsstelle (DEHSt) im Umweltbundesamt,Leitfaden zum Anwendungsbereich sowie zur †berwachung und Berichterstattung von CO2-Emissionen Nationales Emissionshandelssystem 2021 und 2022,https://www.dehst.de/SharedDocs/downloads/DE/nehs/nehs-leitfaden-monitoring.pdf;jsessionid=17D8E62866D0EAAEA73E64692857030A.1_cid331?__blob=publicationFile&v=7,2021,DEU-UBA,DEU-gov-001
+Germany,2021,Environmental Protection Agency (Umweltbundesamt),Deutsche Emissionshandelsstelle (DEHSt) im Umweltbundesamt,Leitfaden zum Anwendungsbereich sowie zur ï¿½berwachung und Berichterstattung von CO2-Emissionen Nationales Emissionshandelssystem 2021 und 2022,https://www.dehst.de/SharedDocs/downloads/DE/nehs/nehs-leitfaden-monitoring.pdf;jsessionid=17D8E62866D0EAAEA73E64692857030A.1_cid331?__blob=publicationFile&v=7,2021,DEU-UBA,DEU-gov-001
 Hubei,2014,National Center for Climate Change Strategy and International Cooperation,,China's carbon trading market construction,http://www.ncsc.org.cn/yjcg/fxgc/201401/t20140126_609643.shtml,2021,HB,CHN-HB-gov-001
 Iceland,2022,Stjornarrad Islands,,,https://www.stjornarradid.is/verkefni/umhverfi-og-natturuvernd/loftslagsmal/adgerdaaaetlun-i-loftslagsmalum/adgerdirnar/loftslagsskyrsla-stok/?itemid=991c450d-b190-11ea-8117-005056bc8c60,2022,ISL,ISL-gov-001
 Iceland,2024,,,,https://www.skatturinn.is/um-rsk/frettir-og-tilkynningar/breytingar-a-adflutningsgjoldum-o.fl.-uppfaert,2024,ISL,ISL-gov-002
