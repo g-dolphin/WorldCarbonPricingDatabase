@@ -6931,9 +6931,9 @@ Sweden,2012,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2012,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2012,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2012,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2012,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2012,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2012,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2012,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2012,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2012,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2012,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2012,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2012,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7229,9 +7229,9 @@ Sweden,2013,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2013,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2013,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2013,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2013,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2013,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2013,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2013,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2013,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2013,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2013,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2013,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2013,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7527,9 +7527,9 @@ Sweden,2014,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2014,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2014,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2014,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2014,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2014,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2014,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2014,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2014,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2014,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2014,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2014,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2014,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7825,9 +7825,9 @@ Sweden,2015,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2015,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2015,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2015,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2015,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2015,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2015,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2015,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2015,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2015,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2015,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2015,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2015,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8123,9 +8123,9 @@ Sweden,2016,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2016,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2016,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2016,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2016,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2016,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2016,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2016,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2016,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2016,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2016,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2016,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2016,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8421,9 +8421,9 @@ Sweden,2017,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2017,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2017,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2017,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2017,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2017,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2017,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2017,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2017,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2017,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2017,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2017,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2017,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8719,9 +8719,9 @@ Sweden,2018,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2018,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2018,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2018,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2018,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2018,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2018,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2018,1A3A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2018,1A3A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2018,1A3A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2018,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2018,1A3A2,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2018,1A3A2,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9017,9 +9017,9 @@ Sweden,2019,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2019,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2019,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2019,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2019,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2019,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2019,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2019,1A3A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2019,1A3A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2019,1A3A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2019,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2019,1A3A2,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2019,1A3A2,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9315,9 +9315,9 @@ Sweden,2020,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2020,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2020,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2020,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2020,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2020,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2020,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2020,1A3A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2020,1A3A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2020,1A3A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2020,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2020,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2020,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9613,9 +9613,9 @@ Sweden,2021,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2021,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2021,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2021,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2021,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2021,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2021,1A3A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2021,1A3A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2021,1A3A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2021,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2021,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9911,9 +9911,9 @@ Sweden,2022,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2022,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2022,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2022,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2022,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2022,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2022,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2022,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2022,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2022,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2022,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10209,9 +10209,9 @@ Sweden,2023,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2023,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2023,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2023,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2023,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2023,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2023,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2023,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2023,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2023,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2023,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2023,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2023,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10507,9 +10507,9 @@ Sweden,2024,1A3,Oil,NA,NA,NA,NA,NA
 Sweden,2024,1A3A,Coal,NA,NA,NA,NA,NA
 Sweden,2024,1A3A,Natural gas,NA,NA,NA,NA,NA
 Sweden,2024,1A3A,Oil,NA,NA,NA,NA,NA
-Sweden,2024,1A3A1,Coal,NA,NA,NA,NA,NA
-Sweden,2024,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Sweden,2024,1A3A1,Oil,NA,NA,NA,NA,NA
+Sweden,2024,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2024,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Sweden,2024,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2024,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2024,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Sweden,2024,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP

@@ -52,7 +52,7 @@ eu_ets_cf = [
     {
         "jurisdiction": jurisdiction,
         "year": list(range(2005, 2025)),
-        "ipcc_codes": common_ipcc_codes,
+        "ipcc_codes": industry_ipcc_codes,
         "value": 0.9,
         "comment": ""
     }
@@ -115,7 +115,7 @@ est_tax_cf = [
     {
     "jurisdiction":"Estonia",
     "year":list(range(2005, 2025)), 
-    "ipcc_code":industry_ipcc_codes, 
+    "ipcc_codes":industry_ipcc_codes, 
     "value":0.1,
     "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"
     }
@@ -124,7 +124,7 @@ lva_tax_cf = [
     {
     "jurisdiction":"Latvia",
     "year":list(range(2005, 2025)), 
-    "ipcc_code":industry_ipcc_codes, 
+    "ipcc_codes":industry_ipcc_codes, 
     "value":0.1,
     "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"
     }
@@ -133,7 +133,7 @@ nor_tax_cf = [
     {
     "jurisdiction":"Norway",
     "year":list(range(2005, 2025)), 
-    "ipcc_code":industry_ipcc_codes, 
+    "ipcc_codes":industry_ipcc_codes, 
     "value":0.1,
     "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"
     }
@@ -142,7 +142,7 @@ pol_tax_cf = [
     {
     "jurisdiction":"Poland",
     "year":list(range(2005, 2025)), 
-    "ipcc_code":industry_ipcc_codes, 
+    "ipcc_codes":industry_ipcc_codes, 
     "value":0.1,
     "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"
     }
@@ -160,7 +160,7 @@ cf_scheme = {
 for scheme in cf_scheme.keys():
     for dic in cf_scheme[scheme]:
         
-        rowSel = (cf.scheme_id==scheme) & (cf.jurisdiction==dic["jurisdiction"]) & (cf.year.isin(dic["year"])) & (cf.ipcc_code.isin(dic["ipcc_code"]))
+        rowSel = (cf.scheme_id==scheme) & (cf.jurisdiction==dic["jurisdiction"]) & (cf.year.isin(dic["year"])) & (cf.ipcc_code.isin(dic["ipcc_codes"]))
         
         cf.loc[rowSel, "cf_CO2"] = dic["value"]
         cf.loc[rowSel, "source"] = ""
