@@ -6931,9 +6931,9 @@ Norway,2012,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2012,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2012,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2012,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2012,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2012,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2012,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2012,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2012,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2012,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2012,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2012,1A3A2,Natural gas,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2012,1A3A2,Oil,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7229,9 +7229,9 @@ Norway,2013,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2013,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2013,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2013,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2013,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2013,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2013,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2013,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2013,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2013,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2013,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2013,1A3A2,Natural gas,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2013,1A3A2,Oil,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7527,9 +7527,9 @@ Norway,2014,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2014,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2014,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2014,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2014,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2014,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2014,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2014,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2014,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2014,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2014,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2014,1A3A2,Natural gas,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2014,1A3A2,Oil,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7825,9 +7825,9 @@ Norway,2015,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2015,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2015,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2015,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2015,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2015,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2015,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2015,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2015,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2015,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2015,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2015,1A3A2,Natural gas,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2015,1A3A2,Oil,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8123,9 +8123,9 @@ Norway,2016,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2016,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2016,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2016,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2016,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2016,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2016,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2016,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2016,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2016,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2016,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2016,1A3A2,Natural gas,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2016,1A3A2,Oil,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8421,9 +8421,9 @@ Norway,2017,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2017,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2017,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2017,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2017,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2017,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2017,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2017,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2017,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2017,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2017,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2017,1A3A2,Natural gas,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2017]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2017,1A3A2,Oil,leg(NOR-EA[1990]),leg(EC[2014]),"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2017]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8719,9 +8719,9 @@ Norway,2018,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2018,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2018,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2018,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2018,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2018,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2018,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2018,1A3A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2018,1A3A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2018,1A3A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2018,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2018,1A3A2,Natural gas,leg(NOR-EA[1990]),leg(EC[2018]),"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2018]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2018,1A3A2,Oil,leg(NOR-EA[1990]),leg(EC[2018]),"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2018]),report(IEA-EPT[2018]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9017,9 +9017,9 @@ Norway,2019,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2019,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2019,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2019,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2019,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2019,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2019,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2019,1A3A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2019,1A3A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2019,1A3A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2019,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2019,1A3A2,Natural gas,leg(NOR-EA[1990]),leg(EC[2018]),"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2019]),report(IEA-EPT[2020]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2019,1A3A2,Oil,leg(NOR-EA[1990]),leg(EC[2018]),"leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2019]),report(IEA-EPT[2020]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9315,9 +9315,9 @@ Norway,2020,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2020,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2020,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2020,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2020,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2020,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2020,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2020,1A3A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2020,1A3A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2020,1A3A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2020,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2020,1A3A2,Natural gas,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])","leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2020]),report(IEA-EPT[2020]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2020,1A3A2,Oil,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])","leg(NOR[1933]),gvt(NOR-DCE-CIRC11[2020]),report(IEA-EPT[2020]); The excise duty rates are determined by Directorate of Customs and Excise by authority granted from the Act concerning Sales Tax of 1933 (and subsequent amendments). The excise tax covers only combustion activities (IPCC Energy).",NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9613,9 +9613,9 @@ Norway,2021,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2021,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2021,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2021,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2021,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2021,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2021,1A3A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2021,1A3A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2021,1A3A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2021,1A3A2,Natural gas,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2021,1A3A2,Oil,leg(NOR-EA[1990]),"leg(EC[2018], EC[2020])",; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9911,9 +9911,9 @@ Norway,2022,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2022,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2022,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2022,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2022,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2022,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2022,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2022,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2022,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2022,1A3A2,Natural gas,leg(NOR-EA[1990]), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2022,1A3A2,Oil,leg(NOR-EA[1990]), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10209,9 +10209,9 @@ Norway,2023,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2023,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2023,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2023,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2023,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2023,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2023,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2023,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2023,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2023,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2023,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2023,1A3A2,Natural gas,leg(NOR-EA[1990]), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2023,1A3A2,Oil,leg(NOR-EA[1990]), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10507,9 +10507,9 @@ Norway,2024,1A3,Oil,NA,NA,NA,NA,NA
 Norway,2024,1A3A,Coal,NA,NA,NA,NA,NA
 Norway,2024,1A3A,Natural gas,NA,NA,NA,NA,NA
 Norway,2024,1A3A,Oil,NA,NA,NA,NA,NA
-Norway,2024,1A3A1,Coal,NA,NA,NA,NA,NA
-Norway,2024,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Norway,2024,1A3A1,Oil,NA,NA,NA,NA,NA
+Norway,2024,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2024,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Norway,2024,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2024,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2024,1A3A2,Natural gas,leg(NOR-EA[1990]), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Norway,2024,1A3A2,Oil,leg(NOR-EA[1990]), ,; ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP

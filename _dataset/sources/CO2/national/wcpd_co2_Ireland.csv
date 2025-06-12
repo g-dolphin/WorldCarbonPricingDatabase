@@ -6931,9 +6931,9 @@ Ireland,2012,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2012,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2012,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2012,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2012,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2012,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2012,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2012,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2012,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2012,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2012,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2012,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2012,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7229,9 +7229,9 @@ Ireland,2013,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2013,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2013,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2013,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2013,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2013,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2013,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2013,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2013,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2013,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2013,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); The tax on coal was introduced on 01/05/2013. The recorded tax rate for coal is the full (unweighted) rate in force from that date onward.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2013,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2013,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7527,9 +7527,9 @@ Ireland,2014,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2014,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2014,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2014,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2014,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2014,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2014,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2014,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2014,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2014,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2014,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); The tax rate on coal was EUR10/tCO2 between 01/01/2014 and 31/04/2014 and EUR20/tCO2 between 01/05/2014 and 31/12/2014. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2014,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2014,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7825,9 +7825,9 @@ Ireland,2015,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2015,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2015,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2015,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2015,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2015,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2015,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2015,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2015,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2015,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2015,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2015,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2015,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8123,9 +8123,9 @@ Ireland,2016,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2016,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2016,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2016,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2016,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2016,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2016,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2016,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2016,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2016,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2016,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2016,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2016,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8421,9 +8421,9 @@ Ireland,2017,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2017,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2017,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2017,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2017,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2017,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2017,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2017,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2017,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2017,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2017,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2017,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2017,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2014]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8719,9 +8719,9 @@ Ireland,2018,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2018,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2018,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2018,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2018,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2018,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2018,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2018,1A3A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2018,1A3A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2018,1A3A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2018,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2018,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2018,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9017,9 +9017,9 @@ Ireland,2019,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2019,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2019,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2019,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2019,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2019,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2019,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2019,1A3A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2019,1A3A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2019,1A3A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2019,1A3A2,Coal,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2019,1A3A2,Natural gas,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2019,1A3A2,Oil,leg(IRL-FA[2010]),leg(EC[2018]),report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9315,9 +9315,9 @@ Ireland,2020,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2020,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2020,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2020,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2020,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2020,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2020,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2020,1A3A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2020,1A3A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2020,1A3A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2020,1A3A2,Coal,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); The tax rate on coal was EUR20/tCO2 between 01/01/2020 and 30/04/2014 and EUR26/tCO2 between 01/05/2020 and 31/12/2020. The reported tax rate is the weighted average (pro rata temporis) of these two rates.,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2020,1A3A2,Natural gas,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2020,1A3A2,Oil,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9613,9 +9613,9 @@ Ireland,2021,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2021,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2021,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2021,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2021,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2021,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2021,1A3A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2021,1A3A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2021,1A3A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2021,1A3A2,Coal,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2021,1A3A2,Natural gas,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2021,1A3A2,Oil,leg(IRL-FA[2010]),"leg(EC[2018], EC[2020])",report(IEA-EPT[2020]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9911,9 +9911,9 @@ Ireland,2022,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2022,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2022,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2022,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2022,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2022,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2022,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2022,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2022,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2022,1A3A2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2022,1A3A2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2022,1A3A2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10209,9 +10209,9 @@ Ireland,2023,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2023,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2023,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2023,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2023,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2023,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2023,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2023,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2023,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2023,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2023,1A3A2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2023,1A3A2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2023,1A3A2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10507,9 +10507,9 @@ Ireland,2024,1A3,Oil,NA,NA,NA,NA,NA
 Ireland,2024,1A3A,Coal,NA,NA,NA,NA,NA
 Ireland,2024,1A3A,Natural gas,NA,NA,NA,NA,NA
 Ireland,2024,1A3A,Oil,NA,NA,NA,NA,NA
-Ireland,2024,1A3A1,Coal,NA,NA,NA,NA,NA
-Ireland,2024,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Ireland,2024,1A3A1,Oil,NA,NA,NA,NA,NA
+Ireland,2024,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Ireland,2024,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2024,1A3A2,Coal,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2024,1A3A2,Natural gas,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Ireland,2024,1A3A2,Oil,leg(IRL-FA[2010]), ,web(IRL-SFCT[2022]); ,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
