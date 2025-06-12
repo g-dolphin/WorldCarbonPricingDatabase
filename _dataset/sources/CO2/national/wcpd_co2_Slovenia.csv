@@ -6931,9 +6931,9 @@ Slovenia,2012,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2012,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2012,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2012,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2012,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2012,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2012,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2012,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2012,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2012,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2012,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2012,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2012,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7229,9 +7229,9 @@ Slovenia,2013,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2013,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2013,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2013,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2013,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2013,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2013,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2013,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2013,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2013,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2013,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2013,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2013,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7527,9 +7527,9 @@ Slovenia,2014,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2014,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2014,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2014,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2014,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2014,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2014,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2014,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2014,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2014,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2014,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2014,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2014,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -7825,9 +7825,9 @@ Slovenia,2015,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2015,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2015,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2015,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2015,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2015,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2015,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2015,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2015,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2015,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2015,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2015,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2015,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8123,9 +8123,9 @@ Slovenia,2016,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2016,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2016,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2016,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2016,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2016,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2016,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2016,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2016,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2016,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2016,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2016,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2016,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8421,9 +8421,9 @@ Slovenia,2017,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2017,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2017,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2017,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2017,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2017,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2017,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2017,1A3A1,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2017,1A3A1,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2017,1A3A1,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2017,1A3A2,Coal,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2017,1A3A2,Natural gas,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2017,1A3A2,Oil,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -8719,9 +8719,9 @@ Slovenia,2018,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2018,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2018,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2018,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2018,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2018,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2018,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2018,1A3A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2018,1A3A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2018,1A3A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2018,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2018,1A3A2,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2018,1A3A2,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9017,9 +9017,9 @@ Slovenia,2019,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2019,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2019,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2019,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2019,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2019,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2019,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2019,1A3A1,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2019,1A3A1,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2019,1A3A1,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2019,1A3A2,Coal,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2019,1A3A2,Natural gas,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2019,1A3A2,Oil,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9315,9 +9315,9 @@ Slovenia,2020,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2020,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2020,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2020,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2020,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2020,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2020,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2020,1A3A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2020,1A3A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2020,1A3A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2020,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2020,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2020,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9613,9 +9613,9 @@ Slovenia,2021,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2021,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2021,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2021,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2021,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2021,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2021,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2021,1A3A1,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2021,1A3A1,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2021,1A3A1,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2021,1A3A2,Coal,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2021,1A3A2,Natural gas,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2021,1A3A2,Oil,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -9911,9 +9911,9 @@ Slovenia,2022,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2022,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2022,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2022,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2022,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2022,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2022,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2022,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2022,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2022,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2022,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2022,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2022,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10209,9 +10209,9 @@ Slovenia,2023,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2023,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2023,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2023,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2023,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2023,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2023,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2023,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2023,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2023,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2023,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2023,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2023,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
@@ -10507,9 +10507,9 @@ Slovenia,2024,1A3,Oil,NA,NA,NA,NA,NA
 Slovenia,2024,1A3A,Coal,NA,NA,NA,NA,NA
 Slovenia,2024,1A3A,Natural gas,NA,NA,NA,NA,NA
 Slovenia,2024,1A3A,Oil,NA,NA,NA,NA,NA
-Slovenia,2024,1A3A1,Coal,NA,NA,NA,NA,NA
-Slovenia,2024,1A3A1,Natural gas,NA,NA,NA,NA,NA
-Slovenia,2024,1A3A1,Oil,NA,NA,NA,NA,NA
+Slovenia,2024,1A3A1,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2024,1A3A1,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
+Slovenia,2024,1A3A1,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2024,1A3A2,Coal,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2024,1A3A2,Natural gas,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
 Slovenia,2024,1A3A2,Oil,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP
