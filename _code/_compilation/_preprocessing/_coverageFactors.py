@@ -41,37 +41,127 @@ cf = pd.concat([cf_taxes, cf_ets], ignore_index=True)
 # Define ad-hoc values
 ## EU ETS interaction with national carbon taxes
 
-ipcc_code = ["1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A","1A2C",
-             "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
-             "1A2K", "1A2L", "1A2M", "2A1", "2A2", "2A3", "2A4A",
-             "2C1", "2H1"]
+industry_ipcc_codes = [
+    "1A1A1", "1A1A2", "1A1A3", "1A1B", "1A1C", "1A2A", "1A2C",
+    "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
+    "1A2K", "1A2L", "1A2M", "2A1", "2A2", "2A3", "2A4A",
+    "2C1", "2H1"
+]
 
-eu_ets_cf = {"Estonia":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
-             "Latvia":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
-             "Norway":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}, 
-             "Poland":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.9, "comment":""}}
+eu_ets_cf = [
+    {
+        "jurisdiction": jurisdiction,
+        "year": list(range(2005, 2025)),
+        "ipcc_codes": common_ipcc_codes,
+        "value": 0.9,
+        "comment": ""
+    }
+    for jurisdiction in ["Estonia", "Latvia", "Norway", "Poland"]
+] + [
+    {
+        "jurisdiction": jurisdiction,
+        "year": list(range(2013, 2025)),
+        "ipcc_codes": ["1A3A1"],  # International aviation
+        "value": 0.51,
+        "comment": ""
+    }
+    for jurisdiction in [
+    "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic",
+    "Denmark", "Estonia", "Finland", "France", "Germany", "Greece",
+    "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg",
+    "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia",
+    "Slovenia", "Spain", "Sweden", "Norway", "Iceland", "Liechtenstein"
+]
+]
+
+# EU-27 international aviation emissions (from EEA): 121742859 t CO2
+# EU-27 EU-ETS covered emissions: ~62 MtCO₂
+# coverage factor: 62/122 = 0.51
+
+## UK ETS international aviation (ipcc code: "1A3A1")
+
+gbr_ets_cf = [
+    {
+    "jurisdiction": "United Kingdom",
+    "year": list(range(2021, 2025)),
+    "ipcc_codes": ["1A3A1"],
+    "value": 0.32,
+    "comment": ""
+    }
+]
+
+# UK ETS international aviation emissions (from EEA): 13.6 Mt CO2
+# UK ETS covered emissions (UK-EEA flights): 5.4 MtCO₂
+# coverage factor: 0.9/3.1 = 0.28
+
+## Swiss ETS internation aviation (ipcc code: "1A3A1")
+che_ets_cf = [
+    {
+    "jurisdiction": "Switzerland",
+    "year": list(range(2021, 2025)),
+    "ipcc_codes": ["1A3A1"],
+    "value": 0.28,
+    "comment": ""
+    }
+]
+
+# Swiss ETS international aviation emissions (from EEA): 13.6 Mt CO2
+# Swiss ETS covered emissions (CHE-EEA flights): 5.4 MtCO₂
+# coverage factor: 5.4/13.6 = 0.32
 
 ## National carbon taxes
 
-est_tax_cf = {"Estonia":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.1,
-                         "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"}}
-lva_tax_cf = {"Latvia":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.1,
-                         "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"}}
-nor_tax_cf = {"Norway":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.1,
-                         "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"}}
-pol_tax_cf = {"Poland":{"year":[i for i in range (2005,2025)], "ipcc_code":ipcc_code, "value":0.1,
-                         "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"}}
+est_tax_cf = [
+    {
+    "jurisdiction":"Estonia",
+    "year":list(range(2005, 2025)), 
+    "ipcc_code":industry_ipcc_codes, 
+    "value":0.1,
+    "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"
+    }
+    ]
+lva_tax_cf = [
+    {
+    "jurisdiction":"Latvia",
+    "year":list(range(2005, 2025)), 
+    "ipcc_code":industry_ipcc_codes, 
+    "value":0.1,
+    "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"
+    }
+    ]
+nor_tax_cf = [
+    {
+    "jurisdiction":"Norway",
+    "year":list(range(2005, 2025)), 
+    "ipcc_code":industry_ipcc_codes, 
+    "value":0.1,
+    "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"
+    }
+    ]
+pol_tax_cf = [
+    {
+    "jurisdiction":"Poland",
+    "year":list(range(2005, 2025)), 
+    "ipcc_code":industry_ipcc_codes, 
+    "value":0.1,
+    "comment":"introduction of the EU ETS; all ETS covered installations are exempt from the tax"
+    }
+    ]
     
     
 # Write values
-cf_scheme = {"eu_ets":eu_ets_cf, "est_tax":est_tax_cf, "lva_tax":lva_tax_cf,
-             "nor_tax":nor_tax_cf, "pol_tax":pol_tax_cf}
+cf_scheme = {
+    "eu_ets":eu_ets_cf, "est_tax":est_tax_cf, 
+    "che_ets":che_ets_cf, "gbr_ets":gbr_ets_cf, 
+    "lva_tax":lva_tax_cf, "nor_tax":nor_tax_cf, 
+    "pol_tax":pol_tax_cf
+    }
 
 for scheme in cf_scheme.keys():
-    for jur in cf_scheme[scheme].keys():
+    for dic in cf_scheme[scheme]:
         
-        rowSel = (cf.scheme_id==scheme) & (cf.jurisdiction==jur) & (cf.year.isin(cf_scheme[scheme][jur]["year"])) & (cf.ipcc_code.isin(cf_scheme[scheme][jur]["ipcc_code"]))
+        rowSel = (cf.scheme_id==scheme) & (cf.jurisdiction==dic["jurisdiction"]) & (cf.year.isin(dic["year"])) & (cf.ipcc_code.isin(dic["ipcc_code"]))
         
-        cf.loc[rowSel, "cf_CO2"] = cf_scheme[scheme][jur]["value"]
+        cf.loc[rowSel, "cf_CO2"] = dic["value"]
         cf.loc[rowSel, "source"] = ""
-        cf.loc[rowSel, "comment"] = cf_scheme[scheme][jur]["comment"]
+        cf.loc[rowSel, "comment"] = dic["comment"]
