@@ -8,7 +8,7 @@ from importlib.machinery import SourceFileLoader
 #----------------------------- Setup -----------------------------#
 
 # Constants
-GAS = "CO2"  # Change to CH4 / F-GASES / SF6 as needed
+GAS = "CH4"# "CO2"  # Change to CH4 / F-GASES / SF6 as needed
 ROOT_DIR = Path("/Users/gd/GitHub/WorldCarbonPricingDatabase")
 CODE_DIR = ROOT_DIR / "_code/_compilation/_dependencies"
 RAW_DIR = ROOT_DIR / "_raw"

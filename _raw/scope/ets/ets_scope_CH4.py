@@ -159,29 +159,23 @@ def scope():
     
     ## Jurisdiction
     
-    che_tax_jur_I = ["Switzerland"]
+    che_ets_jur_I = ["Switzerland"]
 
     ## IPCC categories
     
     # initial scope
-    che_tax_ipcc_I = ["1A1A2", "1A1A3", "1A4A", "1A4B"]
-
-    ## Fuels
-    
-    che_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
+    che_ets_ipcc_I = ["1A1A2", "1A1A3", "1A4A", "1A4B"]
 
     ## scope dictionaries
     
-    che_tax_jur_scope = {year: che_tax_jur_I for year in range(2008, 2025)}
+    che_ets_jur_scope = {year: che_ets_jur_I for year in range(2008, 2025)}
     
-    che_tax_ipcc_scope = {year: che_tax_ipcc_I for year in range(2008, 2025)}
-    
-    che_tax_fuel_scope = {year: che_tax_fuel_I for year in range(2008, 2025)}
+    che_ets_ipcc_scope = {year: che_ets_ipcc_I for year in range(2008, 2025)}
     
     ## Sources dictionary
     
-    che_tax_scope_sources = {year: "gvt(CH[2005], CH[2009])" for year in range(2008, 2014)}
-    che_tax_scope_sources.update({year: "gvt(CH[2005], CH[2009])" for year in range(2014, 2025)})
+    che_ets_scope_sources = {year: "gvt(CH[2005], CH[2009])" for year in range(2008, 2014)}
+    che_ets_scope_sources.update({year: "gvt(CH[2005], CH[2009])" for year in range(2014, 2025)})
 
     #----------------------------------------------------------------------------
 
