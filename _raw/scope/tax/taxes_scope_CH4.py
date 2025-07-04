@@ -571,6 +571,7 @@ def scope():
                     "col_tax":{"jurisdictions":col_tax_jur_scope, 
                               "sectors":col_tax_ipcc_scope,
                               "fuels":col_tax_fuel_scope},
+                    ## two norway taxes - I or II?
                     "nor_tax":{"jurisdictions": nor_tax_jur_scope,
                                "sectors": nor_tax_ipcc_scope,
                                "fuels": nor_tax_fuels_scope},
