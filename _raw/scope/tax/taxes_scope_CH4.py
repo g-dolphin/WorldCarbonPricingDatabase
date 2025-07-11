@@ -182,9 +182,9 @@ def scope():
     
     sgp_tax_jur_scope = {year:spg_tax_jur_I for year in range(2019, 2025)}
     
-    spg_tax_ipcc_scope = {year:spg_tax_ipcc_I for year in range(2019, 2025)}  
+    sgp_tax_ipcc_scope = {year:spg_tax_ipcc_I for year in range(2019, 2025)}  
 
-    spg_tax_fuel_scope = {year:spg_tax_fuel_I for year in range(2019, 2025)}
+    sgp_tax_fuel_scope = {year:spg_tax_fuel_I for year in range(2019, 2025)}
     
     ## Sources dictionary
     
@@ -562,9 +562,9 @@ def scope():
     taxes_scope = {"can_tax_I":{"jurisdictions":can_tax_I_jur_scope, 
                               "sectors":can_tax_I_ipcc_scope,
                               "fuels":can_tax_I_fuel_scope},
-                    "can_tax_II":{"jurisdictions":can_tax_II_jur_scope, 
-                              "sectors":can_tax_II_ipcc_scope,
-                              "fuels":can_tax_II_fuel_scope},
+       #             "can_tax_II":{"jurisdictions":can_tax_II_jur_scope, 
+       #                       "sectors":can_tax_II_ipcc_scope,
+       #                       "fuels":can_tax_II_fuel_scope},
                     "can_bc_tax":{"jurisdictions":can_bc_tax_jur_scope, 
                               "sectors":can_bc_tax_ipcc_scope,
                               "fuels":can_bc_tax_fuel_scope},
@@ -572,24 +572,24 @@ def scope():
                               "sectors":col_tax_ipcc_scope,
                               "fuels":col_tax_fuel_scope},
                     ## two norway taxes - I or II?
-                    "nor_tax":{"jurisdictions": nor_tax_jur_scope,
-                               "sectors": nor_tax_ipcc_scope,
-                               "fuels": nor_tax_fuels_scope},
+                    "nor_tax":{"jurisdictions": nor_tax_I_jur_scope,
+                               "sectors": nor_tax_I_ipcc_scope,
+                               "fuels": nor_tax_I_fuel_scope},
                     "pol_tax":{"jurisdictions":pol_tax_jur_scope,
-                               "sectors:" pol_tax_ipcc_scope,
+                               "sectors": pol_tax_ipcc_scope,
                                "fuels": pol_tax_fuel_scope},
                     "sgp_tax":{"jurisdictions":sgp_tax_jur_scope, 
                               "sectors":sgp_tax_ipcc_scope,
                               "fuels":sgp_tax_fuel_scope},
                     "zaf_tax":{"jurisdictions":zaf_tax_jur_scope,
                                "sectors": zaf_tax_ipcc_scope,
-                               "fuels:" zaf_tax_fuel_scope},
+                               "fuels": zaf_tax_fuel_scope},
                     "mex_tax":{"jurisdictions": mex_tax_jur_scope,
-                               "sectors", mex_tax_ipcc_scope,
-                               "fuels": mex_tax_fuels_scope},
+                               "sectors": mex_tax_ipcc_scope,
+                               "fuels": mex_tax_fuel_scope},
                     "mex_em_tax":{"jurisidictions":mex_em_tax_jur_scope,
                                   "sectors": mex_em_tax_ipcc_scope,
-                                  "fuels", mex_em_tax_fuels_scope},
+                                  "fuels": mex_em_tax_fuel_scope},
                     "mex_dg_tax":{"jurisdictions":mex_dg_tax_jur_scope,
                                    "sectors": mex_dg_tax_ipcc_scope,
                                    "fuels": mex_dg_tax_fuel_scope},
@@ -602,7 +602,7 @@ def scope():
                     "mex_tm_tax":{"jurisdictions":mex_tm_tax_jur_scope, 
                                   "sectors":mex_tm_tax_ipcc_scope,
                                   "fuels":mex_tm_tax_fuel_scope},
-                    "mex_yu_tax":{"jurisdictions:"mex_yu_tax_jur_scope, 
+                    "mex_yu_tax":{"jurisdictions":mex_yu_tax_jur_scope, 
                                   "sectors":mex_yu_tax_ipcc_scope,
                                   "fuels":mex_yu_tax_fuel_scope},
                     "mex_za_tax":{"jurisdictions":mex_za_tax_jur_scope, 
@@ -611,10 +611,10 @@ def scope():
     
     taxes_scope_sources = {
         "can_tax_I":can_tax_I_scope_sources,
-        "can_tax_II":can_tax_II_scope_sources,
+    #    "can_tax_II":can_tax_II_scope_sources,
         "can_bc_tax":can_bc_tax_scope_sources,
         "col_tax":col_tax_scope_sources,
-        "nor_tax":nor_tax_scope_sources,
+        "nor_tax":nor_tax_I_scope_sources,
         "pol_tax":pol_tax_scope_sources,
         "sgp_tax":sgp_tax_scope_sources,
         "mex_tax": mex_tax_scope_sources,
@@ -622,7 +622,9 @@ def scope():
         "mex_dg_tax":mex_dg_tax_scope_sources,
         "mex_qj_tax":mex_gj_tax_scope_sources,
         "mex_tm_tax":mex_tm_tax_scope_sources,
+        "mex_yu_tax": mex_yu_tax_scope_sources,
         "mex_za_tax":mex_za_tax_scope_sources,
+        "zaf_tax": zaf_tax_scope_sources
         }
                                 
     
