@@ -180,11 +180,11 @@ def scope():
 
     ## scope dictionaries
     
-    sgp_tax_jur_scope = {year:spg_tax_jur_I for year in range(2019, 2025)}
+    sgp_tax_jur_scope = {year:sgp_tax_jur_I for year in range(2019, 2025)}
     
-    sgp_tax_ipcc_scope = {year:spg_tax_ipcc_I for year in range(2019, 2025)}  
+    sgp_tax_ipcc_scope = {year:sgp_tax_ipcc_I for year in range(2019, 2025)}  
 
-    sgp_tax_fuel_scope = {year:spg_tax_fuel_I for year in range(2019, 2025)}
+    sgp_tax_fuel_scope = {year:sgp_tax_fuel_I for year in range(2019, 2025)}
     
     ## Sources dictionary
     
