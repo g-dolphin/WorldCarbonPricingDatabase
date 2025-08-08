@@ -9,13 +9,10 @@ from importlib.machinery import SourceFileLoader
 
 # Constants
 GAS = "CO2"  # Change to CH4 / F-GASES / SF6 as needed
-ROOT_DIR = Path("/Users/ejoiner/OneDrive - rff/Documents/RFF Organization/Research Documents/WCPD/WorldCarbonPricingDatabase")
+ROOT_DIR = Path("/Users/gd/GitHub/WorldCarbonPricingDatabase")
 CODE_DIR = ROOT_DIR / "_code/_compilation/_dependencies"
 RAW_DIR = ROOT_DIR / "_raw"
-WCPD_STRUCTURE_PATH = {
-    "CO2": "_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv",
-    "OTHER": "_raw/_aux_files/wcpd_structure/wcpd_structure_nonCO2.csv"
-}
+WCPD_STRUCTURE_PATH = "_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv"
 
 # ---------------- Utilities ----------------
 
@@ -26,8 +23,8 @@ def load_module(name, relative_path):
         raise FileNotFoundError(path)
     return SourceFileLoader(name, path).load_module()
 
-def load_structure(gas: str) -> pd.DataFrame:
-    path = WCPD_STRUCTURE_PATH["CO2"] if gas == "CO2" else WCPD_STRUCTURE_PATH["OTHER"]
+def load_structure() -> pd.DataFrame:
+    path = WCPD_STRUCTURE_PATH
     full_path = os.path.join(ROOT_DIR, path)
     return pd.read_csv(full_path)
 
@@ -38,7 +35,6 @@ def create_jurisdiction_frame(wcpd_structure: pd.DataFrame, jurisdictions: list)
         temp["jurisdiction"] = jur
         records.append(temp)
     return pd.concat(records, axis=0)
-
 # ---------------- Main Logic ----------------
 
 logging.info(f"Starting WCPD build for GHG: {GAS}")
@@ -167,18 +163,20 @@ def tax_db_values(schemes, scheme_no):
                 
 #-------------------- Execution Section --------------------#
 
-ets_1_list = list(ets_scope_data.keys())
-ets_1_list.remove("usa_ma_ets")
-taxes_1_list = list(taxes_scope_data.keys())
-
-ets_db_values(ets_1_list, "scheme_1")
-tax_db_values(taxes_1_list, "scheme_1")
-
 if GAS == "CO2":
+    ets_1_list = list(ets_scope_data.keys())
+    ets_1_list.remove("usa_ma_ets")
+    taxes_1_list = list(taxes_scope_data.keys())
     ets_db_values(["usa_ma_ets"], "scheme_2")
     tax_db_values([], "scheme_2")
+    
+else:
+    ets_1_list = list(ets_scope_data.keys())
+    taxes_1_list = list(taxes_scope_data.keys())
 
-
+    ets_db_values(ets_1_list, "scheme_1")
+    tax_db_values(taxes_1_list, "scheme_1")
+    
 #-------------------- Post-processing --------------------#
 
 # Blank cells filling
