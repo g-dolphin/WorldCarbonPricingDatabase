@@ -1279,7 +1279,7 @@ def scope():
     
     ## Sources dictionary
     
-     mex_gj_tax_scope_sources = {year: "leg(MEX-GJ[2023]) " for year in range(2024, 2025)}
+    mex_gj_tax_scope_sources = {year: "leg(MEX-GJ[2023]) " for year in range(2024, 2025)}
 
     #----------------------------------------------------------------------------
 

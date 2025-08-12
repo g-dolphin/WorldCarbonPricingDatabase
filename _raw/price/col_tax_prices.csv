@@ -15,14 +15,14 @@ col_tax,2021,CO2,Coal,NA,COP,leg(COL-DIAN[2022]),exemptions apply to consumers o
 col_tax,2021,CO2,Natural gas,17660,COP,leg(COL-DIAN[2022]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2021,CO2,Oil,17660,COP,leg(COL-DIAN[2022]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2022,CO2,Coal,NA,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2022,CO2,Natural gas,18829,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2022,CO2,Natural gas,18829,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
 col_tax,2022,CO2,Oil,18829,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2023,CO2,Coal,NA,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2023,CO2,Natural gas,23395,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2023,CO2,Oil,23395,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2024,CO2,Coal,NA,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2024,CO2,Natural gas,25800,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2024,CO2,Oil,25800,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2023,CO2,Coal,NA,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2023,CO2,Natural gas,23395,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2023,CO2,Oil,23395,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2024,CO2,Coal,NA,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2024,CO2,Natural gas,25800,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2024,CO2,Oil,25800,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
 col_tax,2017,N2O,Coal,NA,COP,report(WB[2017]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2017,N2O,Natural gas,15000,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DIAN[2020])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2017,N2O,Oil,15000,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DIAN[2020])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
@@ -42,11 +42,11 @@ col_tax,2022,N2O,Coal,NA,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
 col_tax,2022,N2O,Natural gas,18829,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
 col_tax,2022,N2O,Oil,18829,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
 col_tax,2023,N2O,Coal,NA,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2023,N2O,Natural gas,23395,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2023,N2O,Oil,23395,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2024,N2O,Coal,NA,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2023,N2O,Natural gas,23395,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2023,N2O,Oil,23395,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2024,N2O,Coal,NA,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
 col_tax,2024,N2O,Natural gas,25800,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2024,N2O,Oil,25800,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2024,N2O,Oil,25800,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
 col_tax,2017,CH4,Coal,NA,COP,report(WB[2017]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2017,CH4,Natural gas,15000,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DIAN[2020])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2017,CH4,Oil,15000,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DIAN[2020])",exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
@@ -62,12 +62,12 @@ col_tax,2020,CH4,Oil,17211,COP,"report(OECD-TEU[2019], Mexico[2019]), leg(COL-DI
 col_tax,2021,CH4,Coal,NA,COP,leg(COL-DIAN[2022]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2021,CH4,Natural gas,17660,COP,leg(COL-DIAN[2022]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
 col_tax,2021,CH4,Oil,17660,COP,leg(COL-DIAN[2022]),exemptions apply to consumers of natural gas that are not in the petrochemical and refinery sector and fossil fuel consumers that are certified as carbon neutral; only combustion emissions are covered
-col_tax,2022,CH4,Coal,NA,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2022,CH4,Natural gas,18829,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2022,CH4,Oil,18829,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2023,CH4,Coal,NA,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2023,CH4,Natural gas,23395,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2023,CH4,Oil,23395,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2024,CH4,Coal,NA,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
-col_tax,2024,CH4,Natural gas,25800,COP, "db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2022,CH4,Coal,NA,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2022,CH4,Natural gas,18829,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2022,CH4,Oil,18829,COP,"db(WB[2024]),leg(COL-DIAN[2022])",
+col_tax,2023,CH4,Coal,NA,COP,"db(WB[2024]),leg(COL-DIAN[2022])",
+col_tax,2023,CH4,Natural gas,23395,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
+col_tax,2023,CH4,Oil,23395,COP,"db(WB[2024]),leg(COL-DIAN[2022])",
+col_tax,2024,CH4,Coal,NA,COP,"db(WB[2024]),leg(COL-DIAN[2022])",
+col_tax,2024,CH4,Natural gas,25800,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
 col_tax,2024,CH4,Oil,25800,COP,"db(WB[2024]), leg(COL-DIAN[2022])",
