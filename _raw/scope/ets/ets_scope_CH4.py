@@ -81,8 +81,7 @@ def scope():
         2017:kor_ets_ipcc_I, 2018:kor_ets_ipcc_II,
         2019:kor_ets_ipcc_II, 2020:kor_ets_ipcc_II,
         2021:kor_ets_ipcc_III, 2022:kor_ets_ipcc_III,
-        2023:kor_ets_ipcc_III, 2024:kor_ets_ipcc_III
-        }
+        2023:kor_ets_ipcc_III, 2024:kor_ets_ipcc_III}
     
     ## Sources dictionary
     
@@ -90,7 +89,9 @@ def scope():
                              2016:"leg(KR[2012], KR[2013])", 
                              2017:"leg(KR[2017])", 2018:"leg(KR[2018])", 
                              2019:"leg(KR[2018])",
-                             2020:"leg(KR[2020])", 2021:"leg(KR[2020])"}
+                             2020:"leg(KR[2020])", 2021:"leg(KR[2020])",
+                             2022:"leg(KR[2020])", 2023:"leg(KR[2020])",
+                             2024:"leg(KR[2020])"}
 
     #----------------------------------------------------------------------------
     
@@ -168,20 +169,20 @@ def scope():
 
     ## Fuels
     
-    che_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
+   #che_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## scope dictionaries
     
-    che_tax_jur_scope = {year: che_tax_jur_I for year in range(2008, 2025)}
+    che_ets_jur_scope = {year: che_tax_jur_I for year in range(2008, 2025)}
     
-    che_tax_ipcc_scope = {year: che_tax_ipcc_I for year in range(2008, 2025)}
+    che_ets_ipcc_scope = {year: che_tax_ipcc_I for year in range(2008, 2025)}
     
-    che_tax_fuel_scope = {year: che_tax_fuel_I for year in range(2008, 2025)}
+    #che_ets_fuel_scope = {year: che_tax_fuel_I for year in range(2008, 2025)}
     
     ## Sources dictionary
     
-    che_tax_scope_sources = {year: "gvt(CH[2005], CH[2009])" for year in range(2008, 2014)}
-    che_tax_scope_sources.update({year: "gvt(CH[2005], CH[2009])" for year in range(2014, 2025)})
+    che_ets_scope_sources = {year: "gvt(CH[2005], CH[2009])" for year in range(2008, 2014)}
+    che_ets_scope_sources.update({year: "gvt(CH[2005], CH[2009])" for year in range(2014, 2025)})
 
     #----------------------------------------------------------------------------
 
@@ -269,7 +270,9 @@ def scope():
                                    2015:"report(ICAP[2021])", 2016:"report(ICAP[2021])", 
                                    2017:"report(ICAP[2021])", 2018:"report(ICAP[2021])", 
                                    2019:"report(ICAP[2021])",
-                                   2020:"report(ICAP[2021])", 2021:"report(ICAP[2021])"}
+                                   2020:"report(ICAP[2021])", 2021:"report(ICAP[2021])",
+                                   2022:"report(ICAP[2021])", 2023:"report(ICAP[2021])",
+                                   2024:"report(ICAP[2021])"}
     
     #----------------------------------------------------------------------------
     
@@ -373,7 +376,9 @@ def scope():
     ## Sources dictionary
     
     can_ns_ets_scope_sources = {2019:"gvt(ECCC[2021])", 2020:"gvt(ECCC[2021])",
-                                   2021:"gvt(ECCC[2021])"}     
+                                   2021:"gvt(ECCC[2021])",
+                                   2022:"gvt(ECCC[2021])", 2023:"gvt(ECCC[2021])",
+                                   2024:"gvt(ECCC[2021])"}     
 
 
     
