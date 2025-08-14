@@ -170,6 +170,15 @@ if GAS == "CO2":
     ets_db_values(["usa_ma_ets"], "scheme_2")
     tax_db_values([], "scheme_2")
     
+if GAS == "N2O":
+    ets_1_list = list(ets_scope_data.keys())
+    taxes_1_list = list(taxes_scope_data.keys())
+    taxes_1_list.remove("nld_tax_II")
+
+    ets_db_values(ets_1_list, "scheme_1")
+    tax_db_values(taxes_1_list, "scheme_1")
+    tax_db_values(["nld_tax_II"], "scheme_2")  # Special case for Netherlands tax II
+    
 else:
     ets_1_list = list(ets_scope_data.keys())
     taxes_1_list = list(taxes_scope_data.keys())
