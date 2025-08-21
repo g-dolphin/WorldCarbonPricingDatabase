@@ -336,6 +336,7 @@ def scope():
     mex_tm_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## scope dictionaries
+    # suspended in 2023, reinstated in 2024
     mex_tm_tax_jur_scope = {2021: mex_tm_tax_jur_I, 2022: mex_tm_tax_jur_I, 
                             2024: mex_tm_tax_jur_I}
     
