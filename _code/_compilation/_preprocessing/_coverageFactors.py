@@ -17,7 +17,10 @@ Created on Tue Aug 24 14:37:49 2021
 
 # Create structure of the data frame and fill in default values 
 
-def build_cf_df(schemes, scope_dict):
+# GAS = "CO2" # change to N2O / CH4 if needed
+
+
+def build_cf_df(schemes, scope_dict, gas):
     rows = []
     for scheme in schemes:
         scheme_scope = scope_dict[scheme]
@@ -29,14 +32,19 @@ def build_cf_df(schemes, scope_dict):
                 names=["scheme_id", "jurisdiction", "year", "ipcc_code"]
             )
             df = pd.DataFrame(index=index).reset_index()
-            df["cf_CO2"] = df["ipcc_code"].apply(lambda x: 1 if x in applicable_sectors else "NA")
+            df["cf_" + gas] = df["ipcc_code"].apply(lambda x: 1 if x in applicable_sectors else "NA")
             rows.append(df)
     return pd.concat(rows, ignore_index=True)
 
-cf_taxes = build_cf_df(taxes_1_list, taxes_scope_data)
-cf_ets = build_cf_df(ets_1_list, ets_scope_data) #+ ets_2_list
+cf_taxes_co2 = build_cf_df(taxes_1_list, taxes_scope_data, "CO2")
+cf_ets_co2 = build_cf_df(ets_1_list, ets_scope_data, "CO2") #+ ets_2_list
+cf_taxes_ch4 = build_cf_df(taxes_1_list, taxes_scope_data, "CH4")
+cf_ets_ch4 = build_cf_df(ets_1_list, ets_scope_data, "CH4") #+ ets_2_list
+cf_taxes_n2o = build_cf_df(taxes_1_list, taxes_scope_data, "N2O")
+cf_ets_n2o = build_cf_df(ets_1_list, ets_scope_data, "N2O") #+ ets_2_list
 
-cf = pd.concat([cf_taxes, cf_ets], ignore_index=True)
+
+cf = pd.concat([cf_taxes_co2, cf_ets_co2, cf_taxes_ch4, cf_ets_ch4, cf_taxes_n2o, cf_ets_n2o], ignore_index=True)
 
 # Define ad-hoc values
 ## EU ETS interaction with national carbon taxes
@@ -163,5 +171,7 @@ for scheme in cf_scheme.keys():
         rowSel = (cf.scheme_id==scheme) & (cf.jurisdiction==dic["jurisdiction"]) & (cf.year.isin(dic["year"])) & (cf.ipcc_code.isin(dic["ipcc_codes"]))
         
         cf.loc[rowSel, "cf_CO2"] = dic["value"]
+        cf.loc[rowSel, "cf_CH4"] = "NA"
+        cf.loc[rowSel, "cf_N2O"] = "NA"
         cf.loc[rowSel, "source"] = ""
         cf.loc[rowSel, "comment"] = dic["comment"]
