@@ -220,16 +220,17 @@ def tax_exemptions(gas):
             wcpd_all_jur["Product"] = wcpd_all_jur["Product"].fillna("NA")
             wcpd_all_jur_sources["Product"] = wcpd_all_jur_sources["Product"].fillna("NA")
             return
+       
+        else:
+            i = 0
+            for exemption in rebate_module.tax_exemptions:
+                for yr in exemption["jurisdiction"].keys():
+                    row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
+                    wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
+                    wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = rebate_module.tax_exemptions_sources[i][yr]
 
-        i = 0
-        for exemption in rebate_module.tax_exemptions:
-            for yr in exemption["jurisdiction"].keys():
-                row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
-                wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
-                wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = rebate_module.tax_exemptions_sources[i][yr]
-
-            i+=1
-
+                i+=1
+                
         # Calculate tax rate including rebate
         wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
 
