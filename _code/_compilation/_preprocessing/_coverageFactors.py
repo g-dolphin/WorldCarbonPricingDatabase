@@ -19,6 +19,8 @@ Created on Tue Aug 24 14:37:49 2021
 
 # GAS = "CO2" # change to N2O / CH4 if needed
 
+# take GAS from db_build.py 
+# function amendment saves coverage_factors by gas and scheme in _raw folder; necessary for ch4 and n2o 
 
 def build_cf_df(schemes, scope_dict, gas):
     rows = []
@@ -34,17 +36,16 @@ def build_cf_df(schemes, scope_dict, gas):
             df = pd.DataFrame(index=index).reset_index()
             df["cf_" + gas] = df["ipcc_code"].apply(lambda x: 1 if x in applicable_sectors else "NA")
             rows.append(df)
+            # add empty columns for "Source" and "Comment"
+            df["cf_" + gas + "_source"] = "NA"
+            df["cf_" + gas + "_comment"] = "NA"
+        df.to_csv(RAW_DIR / f"coverageFactor/{scheme}_{gas}_cf.csv", index=False)
     return pd.concat(rows, ignore_index=True)
 
-cf_taxes_co2 = build_cf_df(taxes_1_list, taxes_scope_data, "CO2")
-cf_ets_co2 = build_cf_df(ets_1_list, ets_scope_data, "CO2") #+ ets_2_list
-cf_taxes_ch4 = build_cf_df(taxes_1_list, taxes_scope_data, "CH4")
-cf_ets_ch4 = build_cf_df(ets_1_list, ets_scope_data, "CH4") #+ ets_2_list
-cf_taxes_n2o = build_cf_df(taxes_1_list, taxes_scope_data, "N2O")
-cf_ets_n2o = build_cf_df(ets_1_list, ets_scope_data, "N2O") #+ ets_2_list
+cf_taxes = build_cf_df(taxes_1_list, taxes_scope_data, GAS)
+cf_ets = build_cf_df(ets_1_list, ets_scope_data, GAS) #+ ets_2_list
 
-
-cf = pd.concat([cf_taxes_co2, cf_ets_co2, cf_taxes_ch4, cf_ets_ch4, cf_taxes_n2o, cf_ets_n2o], ignore_index=True)
+cf = pd.concat([cf_taxes, cf_ets], ignore_index=True)
 
 # Define ad-hoc values
 ## EU ETS interaction with national carbon taxes
@@ -169,9 +170,6 @@ for scheme in cf_scheme.keys():
     for dic in cf_scheme[scheme]:
         
         rowSel = (cf.scheme_id==scheme) & (cf.jurisdiction==dic["jurisdiction"]) & (cf.year.isin(dic["year"])) & (cf.ipcc_code.isin(dic["ipcc_codes"]))
-        
         cf.loc[rowSel, "cf_CO2"] = dic["value"]
-        cf.loc[rowSel, "cf_CH4"] = "NA"
-        cf.loc[rowSel, "cf_N2O"] = "NA"
         cf.loc[rowSel, "source"] = ""
         cf.loc[rowSel, "comment"] = dic["comment"]
