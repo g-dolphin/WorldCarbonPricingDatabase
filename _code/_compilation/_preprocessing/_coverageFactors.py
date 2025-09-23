@@ -39,7 +39,7 @@ def build_cf_df(schemes, scope_dict, gas):
             # add empty columns for "Source" and "Comment"
             df["cf_" + gas + "_source"] = "NA"
             df["cf_" + gas + "_comment"] = "NA"
-        df.to_csv(RAW_DIR / f"coverageFactor/{scheme}_{gas}_cf.csv", index=False)
+        df.to_csv(RAW_DIR / f"coverageFactor/{gas}/{scheme}_{gas}_cf.csv", index=False)
     return pd.concat(rows, ignore_index=True)
 
 cf_taxes = build_cf_df(taxes_1_list, taxes_scope_data, GAS)
