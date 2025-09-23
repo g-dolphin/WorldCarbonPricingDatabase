@@ -171,6 +171,25 @@ tax_ex_fin_I_source = {2024:"db(WBCPDB[2024])"}
 
 # 'Mexico' - no exemptions
 
+tax_ex_mex_I_jur = ["Mexico"]
+
+tax_ex_mex_I_ipcc = ["1A3B"]
+
+tax_ex_mex_I_fuel = ["Oil"]
+
+tax_ex_mex_I_jur_scope = {year:tax_ex_mex_I_jur for year in range(2022,2025)}
+
+tax_ex_mex_I_ipcc_scope = {year:tax_ex_mex_I_ipcc for year in range(2022,2025)}
+
+tax_ex_mex_I_fuel_scope = {year:tax_ex_mex_I_fuel for year in range(2022,2025)}
+
+tax_ex_mex_I_value = {year:1 for year in range(2022, 2025)}
+
+tax_ex_mex_I = {"jurisdiction": tax_ex_mex_I_jur_scope, "ipcc": tax_ex_mex_I_ipcc_scope,
+                "fuel":tax_ex_mex_I_fuel_scope, "value":tax_ex_mex_I_value}
+
+tax_ex_mex_I_source = {year:"db(WBCPDB[2024])" for year in range(2022, 2025)}
+
 # 'Norway' - no exemptions
 
 # 'Poland' - no exemptions
