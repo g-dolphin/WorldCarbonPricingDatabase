@@ -67,11 +67,12 @@ def scope():
     
     ## Sources dictionary
     
-    eu_ets_scope_sources = {2008:"leg()", 2009:"", 2010:"",
-                            2011:"", 2012:"", 2013:"",
-                            2014:"", 2015:"", 2016:"",
-                            2017:"", 2018:"", 2019:"",
-                            2020:"", 2021: ""}
+    eu_ets_scope_sources = {2008:" ", 2009:" ", 2010:" ",
+                            2011:" ", 2012:" ", 2013:" ",
+                            2014:" ", 2015:" ", 2016:" ",
+                            2017:" ", 2018:" ", 2019:" ",
+                            2020:" ", 2021: " ", 2022: " ",
+                            2023:" ", 2024:" "} 
     
     #----------------------------------------------------------------------------
 
@@ -105,7 +106,7 @@ def scope():
     
     ## Sources dictionary
     
-    gbr_ets_scope_sources = {2021:"leg(UK-SI[2020])"}
+    gbr_ets_scope_sources = {2021:"leg(UK-SI[2020])", 2022: " ", 2023: " ", 2024: " "}  
 
     #----------------------------------------------------------------------------
     
@@ -348,9 +349,9 @@ def scope():
     
     ## Sources dictionary
     
-    can_ab_ets_scope_sources = {2019:"", 2020:"",
-                                   2021:"", 2022: "",
-                                   2023:"", 2024:""}  
+    can_ab_ets_scope_sources = {2019:" ", 2020:" ",
+                                   2021:" ", 2022: " ",
+                                   2023:" ", 2024:" "}  
 
    #----------------------------------------------------------------------------
     
@@ -378,7 +379,7 @@ def scope():
     
     can_ns_ets_ipcc_scope = {2019:can_ns_ets_ipcc_I, 2020:can_ns_ets_ipcc_I,
                              2021:can_ns_ets_ipcc_I, 2022:can_ns_ets_ipcc_I,
-                             2022:can_ns_ets_ipcc_I, 2024:can_ns_ets_ipcc_I}     
+                             2023:can_ns_ets_ipcc_I, 2024:can_ns_ets_ipcc_I}     
     
     ## Sources dictionary
     
@@ -476,13 +477,13 @@ def scope():
 
     ## Sources dictionary
     
-    chn_cq_ets_scope_sources = {2014:"",
-                                2015:"", 2016:"", 
-                                2017:"", 2018:"", 
-                                2019:"",
-                                2020:"", 2021:"",
-                                2022:"", 2023:"", 
-                                2024:""}
+    chn_cq_ets_scope_sources = {2014:" ",
+                                2015:" ", 2016:" ", 
+                                2017:" ", 2018:" ", 
+                                2019:" ",
+                                2020:" ", 2021:" ",
+                                2022:" ", 2023:" ", 
+                                2024:" "}
 
     #------------------------------All schemes dictionaries--------------------------------#
     
@@ -498,7 +499,7 @@ def scope():
                             "sectors":che_ets_ipcc_scope},
                  "can_ns_ets":{"jurisdictions":can_ns_ets_jur_scope, 
                                 "sectors":can_ns_ets_ipcc_scope},
-                 "can_ab_ets":{"jurisdiction":can_ab_ets_jur_scope,
+                 "can_ab_ets":{"jurisdictions":can_ab_ets_jur_scope,
                                "sectors":can_ab_ets_ipcc_scope},
                  "chn_cq_ets":{"jurisdictions":chn_cq_ets_jur_scope, 
                                 "sectors":chn_cq_ets_ipcc_scope},
@@ -506,7 +507,7 @@ def scope():
                                 "sectors":usa_ca_ets_ipcc_scope}}
 
     ets_scope_sources = {"eu_ets":eu_ets_scope_sources,
-                         "eu_ets":gbr_ets_scope_sources,
+                         "gbr_ets":gbr_ets_scope_sources,
                          "kor_ets":kor_ets_scope_sources,
                          "nzl_ets":nzl_ets_scope_sources,
                          "che_ets":che_ets_scope_sources,

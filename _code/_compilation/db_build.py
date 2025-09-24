@@ -8,7 +8,7 @@ from importlib.machinery import SourceFileLoader
 #----------------------------- Setup -----------------------------#
 
 # Constants
-GAS = "CO2"  # Change to CH4 / F-GASES / SF6 as needed
+GAS = "CO2"  # Change to CH4 / N2O / F-GASES / SF6 as needed
 ROOT_DIR = Path("/Users/gd/GitHub/WorldCarbonPricingDatabase")
 CODE_DIR = ROOT_DIR / "_code/_compilation/_dependencies"
 RAW_DIR = ROOT_DIR / "_raw"
@@ -167,8 +167,21 @@ if GAS == "CO2":
     ets_1_list = list(ets_scope_data.keys())
     ets_1_list.remove("usa_ma_ets")
     taxes_1_list = list(taxes_scope_data.keys())
+    
+    ets_db_values(ets_1_list, "scheme_1")
+    tax_db_values(taxes_1_list, "scheme_1")
     ets_db_values(["usa_ma_ets"], "scheme_2")
     tax_db_values([], "scheme_2")
+    
+if GAS == "N2O":
+    ets_1_list = list(ets_scope_data.keys())
+    taxes_1_list = list(taxes_scope_data.keys())
+    taxes_1_list.remove("nld_tax_II")
+
+    ets_db_values(ets_1_list, "scheme_1")
+    tax_db_values(taxes_1_list, "scheme_1")
+    ets_db_values([], "scheme_2")
+    tax_db_values(["nld_tax_II"], "scheme_2")  # Special case for Netherlands tax II
     
 else:
     ets_1_list = list(ets_scope_data.keys())
@@ -176,6 +189,8 @@ else:
 
     ets_db_values(ets_1_list, "scheme_1")
     tax_db_values(taxes_1_list, "scheme_1")
+    ets_db_values([], "scheme_2")
+    tax_db_values([], "scheme_2")
     
 #-------------------- Post-processing --------------------#
 
@@ -195,22 +210,25 @@ wcpd_all_jur_sources.rename(columns={"tax_ex_rate_sources":"tax_ex_rate"}, inpla
 wcpd_all_jur.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = 0
 wcpd_all_jur_sources.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = "NA"
 
-def tax_examptions(gas): 
-    if gas == "CO2":
+def tax_exemptions(gas): 
         ## Load tax exemptions
         rebate_module = load_module("tax_rebates", RAW_DIR / f"priceRebates/tax/_price_exemptions_tax_{GAS}.py")
 
-        i = 0
-        for exemption in rebate_module.tax_exemptions:
-            for yr in exemption["jurisdiction"].keys():
-                row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
-                wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
-                wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = rebate_module.tax_exemptions_sources[i][yr]
+        if not rebate_module.tax_exemptions or rebate_module.tax_exemptions == [""]:
+            # No exemptions, just fill columns as needed and return
+            wcpd_all_jur["tax_rate_incl_ex_clcu"] = "NA"
+            
+        else:
+            i = 0
+            for exemption in rebate_module.tax_exemptions:
+                for yr in exemption["jurisdiction"].keys():
+                    row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
+                    wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
+                    wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = rebate_module.tax_exemptions_sources[i][yr]
 
-            i+=1
-
-        # Calculate tax rate including rebate
-        wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
+                i+=1
+            # Calculate tax rate including rebate
+            wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
 
         # Fill NAs for Product
         wcpd_all_jur["Product"] = wcpd_all_jur["Product"].fillna("NA")
@@ -224,6 +242,7 @@ def tax_examptions(gas):
         wcpd_all_jur.loc[wcpd_all_jur.tax != 1, tax_cols] = "NA"
         wcpd_all_jur.loc[wcpd_all_jur.ets != 1, ets_1_cols + ets_2_cols] = "NA"
         wcpd_all_jur_sources.fillna("NA", inplace=True)
+        wcpd_all_jur.fillna("NA", inplace = True)
 
         # Reorder columns
         final_columns = [
@@ -237,40 +256,11 @@ def tax_examptions(gas):
             "tax_rate_excl_ex_clcu", "tax_ex_rate", "ets_price"
         ]
 
-        wcpd_all_jur = wcpd_all_jur[final_columns]
-        wcpd_all_jur_sources = wcpd_all_jur_sources[source_columns]
-
-    else:
+        wcpd_all_jur.loc[:, :] = wcpd_all_jur[final_columns]
+        wcpd_all_jur_sources.loc[:, :] = wcpd_all_jur_sources[source_columns]
         
-        # we don't have rebates for non-CO2 gases, so we just set tax_rate_incl_ex_clue to NA
-        wcpd_all_jur["tax_rate_incl_ex_clcu"] = np.nan
-        # Fill NAs for Product
-        wcpd_all_jur["Product"] = wcpd_all_jur["Product"].fillna("NA")
-        wcpd_all_jur_sources["Product"] = wcpd_all_jur_sources["Product"].fillna("NA")
-
-        # Replace NA values in columns
-        tax_cols = ['tax_id', 'tax_rate_excl_ex_clcu', 'tax_curr_code', 'tax_ex_rate', 'tax_rate_incl_ex_clcu']
-        ets_1_cols = ['ets_id', 'ets_price', 'ets_curr_code']
-        ets_2_cols = ['ets_2_id', 'ets_2_price', 'ets_2_curr_code']
-
-        wcpd_all_jur.loc[wcpd_all_jur.tax != 1, tax_cols] = "NA"
-        wcpd_all_jur.loc[wcpd_all_jur.ets != 1, ets_1_cols + ets_2_cols] = "NA"
-        wcpd_all_jur_sources.fillna("NA", inplace=True)
-
-        # Reorder columns
-        final_columns = [
-            "jurisdiction", "year", "ipcc_code", "Product", "tax", "ets", "tax_id",
-            "tax_rate_excl_ex_clcu", "tax_ex_rate", "tax_rate_incl_ex_clcu", "tax_curr_code",
-            "ets_id", "ets_price", "ets_curr_code", "ets_2_id", "ets_2_price", "ets_2_curr_code"
-        ]
-
-        source_columns = [
-            "jurisdiction", "year", "ipcc_code", "Product", "tax", "ets",
-            "tax_rate_excl_ex_clcu", "tax_ex_rate", "ets_price"
-        ]
-
-        wcpd_all_jur = wcpd_all_jur[final_columns]
-        wcpd_all_jur_sources = wcpd_all_jur_sources[source_columns]
+#Run Tax Exemption 
+tax_exemptions(GAS)
 
 #-------------------- Coverage Factors --------------------#
 

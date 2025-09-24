@@ -56,7 +56,7 @@ def scope():
     ## Sources dictionary
     
     can_bc_tax_scope_sources = {year:"leg(BC-CTA[2008]), gvt(BCGOV[2024])" for year in range(2008, 2024)}
-    can_bc_tax_scope_sources.update({2025:"leg(BC-CTA[2008]), gvt(BCGOV[2024]), gvt(BCGOV[2025])"})
+    can_bc_tax_scope_sources.update({2024:"leg(BC-CTA[2008]), gvt(BCGOV[2024]), gvt(BCGOV[2025])"})
     
     #----------------------------------------------------------------------------------------
     
@@ -133,7 +133,7 @@ def scope():
 
     ## Sources dictionary
     
-    col_tax_scope_sources = {year: "gvt(COL-DIAN[2022]), db(WBCPD[2024])" for year in range(2023, 2025)}                    
+    col_tax_scope_sources = {year: "gvt(COL-DIAN[2022]), db(WBCPD[2024])" for year in range(2022, 2025)}                    
                
     #----------------------------------------------------------------------------
 
@@ -188,11 +188,11 @@ def scope():
     mex_dur_tax_fuel_I = {"Oil", "Coal", "Natural Gas"}
     
     ## scope dictionaries
-    mex_dur_tax_jur_scope = {year: mex_dur_tax_jur_I for year in range(2023, 2025)}
+    mex_dur_tax_jur_scope = {year: mex_dur_tax_jur_I for year in range(2022, 2025)}
     
-    mex_dur_tax_ipcc_scope = {year: mex_dur_tax_ipcc_I for year in range(2024, 2025)}  
+    mex_dur_tax_ipcc_scope = {year: mex_dur_tax_ipcc_I for year in range(2022, 2025)}  
 
-    mex_dur_tax_fuel_scope = {year: mex_dur_tax_fuel_I for year in range(2024, 2025)}
+    mex_dur_tax_fuel_scope = {year: mex_dur_tax_fuel_I for year in range(2022, 2025)}
     
     mex_dur_tax_scope_sources = {year:"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])" for year in range(2022, 2025)}
       
@@ -260,7 +260,7 @@ def scope():
     
     mex_qt_tax_ipcc_scope = {year:mex_qt_tax_ipcc_I for year in range(2023, 2025)}
     
-    mex_qt_tax_jur_scope = {year: mex_qt_tax_ipcc_I for year in range(2023, 2025)}
+    mex_qt_tax_jur_scope = {year: mex_qt_tax_jur_I for year in range(2023, 2025)}
     
     mex_qt_tax_scope_sources = {year: "web(MEX-QT[2022]), web(MEX-QT[2025]), db(WBCPD[2024])" for year in range(2023, 2025)}
       
@@ -336,6 +336,7 @@ def scope():
     mex_tm_tax_fuel_I = ["Oil", "Natural gas", "Coal"]
 
     ## scope dictionaries
+    # suspended in 2023, reinstated in 2024
     mex_tm_tax_jur_scope = {2021: mex_tm_tax_jur_I, 2022: mex_tm_tax_jur_I, 
                             2024: mex_tm_tax_jur_I}
     
@@ -491,7 +492,8 @@ def scope():
     
     ## Sources dictionary
     
-    nld_tax_II_scope_sources = {2022:"leg(NLD(2020)), leg(NLD(2022))"}
+    nld_tax_II_scope_sources = {2022:"leg(NLD(2020)), leg(NLD(2022))", 2023:"leg(NLD(2020)), leg(NLD(2022))",
+                                2024: "leg(NLD(2020)), leg(NLD(2022))"}
 
     #----------------------------------------------------------------------------
 
@@ -591,7 +593,7 @@ def scope():
                       "2C7", "2D1", "2D2", "2D3", "2D4", "2E1", "2E2", "2E3", "2E4", "2F1A",
                       "2F1B", "2F2", "2F3", 
                       "2F4", "2F5", "2F6", "2G1A", "2G1B", "2G2", "2G3", "2G4", "2H1", 
-                      "2H2", "2H3", "4C1", "5A1", "5A2", "5B"]
+                      "2H2", "2H3", "4C1", "5A1", "5A2"]
     
     ## Fuel
     zaf_tax_fuel_I = ["Coal", "Oil", "Natural gas"]    
@@ -656,7 +658,7 @@ def scope():
                               "sectors":sgp_tax_ipcc_scope,
                               "fuels":sgp_tax_fuel_scope},
                     "zaf_tax":{"jurisdictions":zaf_tax_jur_scope,
-                               "secotrs": zaf_tax_ipcc_scope, 
+                               "sectors": zaf_tax_ipcc_scope, 
                                "fuels": zaf_tax_fuel_scope}
                     }
     
