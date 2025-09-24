@@ -359,7 +359,7 @@ def scope():
     
     mex_qt_tax_ipcc_scope = {year:mex_qt_tax_ipcc_I for year in range(2023, 2025)}
     
-    mex_qt_tax_jur_scope = {year: mex_qt_tax_ipcc_I for year in range(2023, 2025)}
+    mex_qt_tax_jur_scope = {year: mex_qt_tax_jur_I for year in range(2023, 2025)}
    
     mex_qt_tax_scope_sources = {year: "web(MEX-QT[2022]), web(MEX-QT[2025]), db(WBCPD[2024])" for year in range(2023, 2025)}
       
@@ -562,7 +562,7 @@ def scope():
     taxes_scope = {"can_tax_I":{"jurisdictions":can_tax_I_jur_scope, 
                               "sectors":can_tax_I_ipcc_scope,
                               "fuels":can_tax_I_fuel_scope},
-       #             "can_tax_II":{"jurisdictions":can_tax_II_jur_scope, 
+       #            "can_tax_II":{"jurisdictions":can_tax_II_jur_scope, 
        #                       "sectors":can_tax_II_ipcc_scope,
        #                       "fuels":can_tax_II_fuel_scope},
                     "can_bc_tax":{"jurisdictions":can_bc_tax_jur_scope, 
@@ -571,7 +571,7 @@ def scope():
                     "col_tax":{"jurisdictions":col_tax_jur_scope, 
                               "sectors":col_tax_ipcc_scope,
                               "fuels":col_tax_fuel_scope},
-                    ## two norway taxes - I or II?
+                    ## two norway taxes, use I
                     "nor_tax":{"jurisdictions": nor_tax_I_jur_scope,
                                "sectors": nor_tax_I_ipcc_scope,
                                "fuels": nor_tax_I_fuel_scope},
