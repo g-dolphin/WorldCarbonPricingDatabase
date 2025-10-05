@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wcpd-utils"       # package (distribution) name
+version = "0.0.0"
+requires-python = ">=3.10"
+
+# Map the package name to your utils directory
+[tool.setuptools]
+package-dir = { "wcpd_utils" = "_code/_compilation/_utils" }
+packages = ["wcpd_utils"]
