@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+_code/_compilation/_utils/__init__.py
+_code/_compilation/_utils/ets_prices.py
+_code/_compilation/_utils/jurisdictions.py
+_code/_compilation/_utils/sector_agg_scope.py
+_code/_compilation/_utils/tax_rates.py
+wcpd_utils.egg-info/PKG-INFO
+wcpd_utils.egg-info/SOURCES.txt
+wcpd_utils.egg-info/dependency_links.txt
+wcpd_utils.egg-info/top_level.txt
