@@ -6,11 +6,17 @@ from pathlib import Path
 from importlib.machinery import SourceFileLoader
 
 #----------------------------- Setup -----------------------------#
+def find_project_root(markers=("pyproject.toml","setup.cfg","requirements.txt",".git",".project-root")):
+    p = Path.cwd().resolve()
+    for parent in (p, *p.parents):
+        if any((parent / m).exists() for m in markers):
+            return parent
+    return p
 
 # Constants
-GAS = "CO2"  # Change to CH4 / N2O / F-GASES / SF6 as needed
-ROOT_DIR = Path("/Users/gd/GitHub/WorldCarbonPricingDatabase")
-CODE_DIR = ROOT_DIR / "_code/_compilation/_dependencies"
+GAS = "CH4"  # Change to CO2 / CH4 / F-GASES / SF6 as needed
+ROOT_DIR = find_project_root()
+CODE_DIR = ROOT_DIR / "_code/_compilation/_utils"
 RAW_DIR = ROOT_DIR / "_raw"
 WCPD_STRUCTURE_PATH = "_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv"
 
@@ -39,7 +45,7 @@ def create_jurisdiction_frame(wcpd_structure: pd.DataFrame, jurisdictions: list)
 
 logging.info(f"Starting WCPD build for GHG: {GAS}")
 
-gen_func = load_module("general", "/Users/gd/GitHub/ECP/_code/compilation/_dependencies/dep_ecp/ecp_v3_gen_func.py")
+gen_func = load_module("general", "/Users/geoffroydolphin/GitHub/ECP/_code/compilation/_dependencies/dep_ecp/ecp_v3_gen_func.py")
 jurisdictions_module = load_module("jurisdictions", CODE_DIR / "jurisdictions.py")
 ets_prices_module = load_module("ets_prices", CODE_DIR / "ets_prices.py")
 tax_rates_module = load_module("tax_rates", CODE_DIR / "tax_rates.py")
@@ -49,7 +55,7 @@ tax_scope_module = load_module("taxes_scope", RAW_DIR / f"scope/tax/taxes_scope_
 #---------------------- Load WCPD Structure ----------------------#
 
 # Load structure and jurisdiction lists
-wcpd_structure = load_structure(GAS)
+wcpd_structure = load_structure() # Note: the function currently loads the CO2 structure for all gases.
 ctries = jurisdictions_module.jurisdictions["countries"]
 subnats = jurisdictions_module.jurisdictions["subnationals"]["Canada"] + jurisdictions_module.jurisdictions["subnationals"]["China"] + jurisdictions_module.jurisdictions["subnationals"]["Japan"] + jurisdictions_module.jurisdictions["subnationals"]["United States"] + jurisdictions_module.jurisdictions["subnationals"]["Mexico"]
 all_jurisdictions = ctries + subnats
@@ -96,7 +102,7 @@ def ets_db_values(schemes, scheme_no):
         print(scheme)
         print("Available years for scheme:", list(ets_scope_data[scheme]["jurisdictions"].keys()))
         for yr in ets_scope_data[scheme]["jurisdictions"]:
-            print("Current year:", yr)
+            print("Processing year:", yr)
             selection = (
                 (wcpd_all_jur.year == yr) &
                 (wcpd_all_jur.jurisdiction.isin(ets_scope_data[scheme]["jurisdictions"][yr])) &
@@ -122,7 +128,7 @@ def tax_db_values(schemes, scheme_no):
         print(scheme)
         print("Available years for scheme:", list(taxes_scope_data[scheme]["jurisdictions"].keys()))
         for yr in taxes_scope_data[scheme]["jurisdictions"]:
-            print("Current year:", yr)
+            print("Processing year:", yr)
             juris = taxes_scope_data[scheme]["jurisdictions"][yr]
             sectors = taxes_scope_data[scheme]["sectors"][yr]
             fuels = taxes_scope_data[scheme].get("fuels", {}).get(yr, [None])
@@ -264,7 +270,7 @@ tax_exemptions(GAS)
 
 #-------------------- Coverage Factors --------------------#
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_preprocessing/_coverageFactors.py")
+stream = open("/Users/geoffroydolphin/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_preprocessing/_coverageFactors.py")
 read_file = stream.read()
 exec(read_file)
 
