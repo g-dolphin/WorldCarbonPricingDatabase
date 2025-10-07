@@ -9258,15 +9258,15 @@ Alberta,2020,1A1A1,Oil,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A1A2,Coal,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A1A2,Natural gas,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A1A2,Oil,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2020,1A1A3,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A1A3,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A1A3,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A1B,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A1B,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A1B,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A1C,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A1C,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A1C,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2020,1A1A3,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A1A3,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A1A3,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A1B,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A1B,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A1B,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A1C,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A1C,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A1C,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2020,1A2,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A2,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A2,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9288,27 +9288,27 @@ Alberta,2020,1A2E,Oil,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A2F,Coal,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A2F,Natural gas,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A2F,Oil,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2020,1A2G,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2G,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2G,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2H,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2H,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2H,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2020,1A2G,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2G,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2G,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2H,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2H,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2H,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2020,1A2I,Coal,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A2I,Natural gas,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A2I,Oil,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2020,1A2J,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2J,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2J,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2K,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2K,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2K,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2L,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2L,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2L,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2M,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2M,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A2M,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2020,1A2J,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2J,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2J,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2K,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2K,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2K,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2L,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2L,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2L,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2M,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2M,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A2M,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2020,1A3,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9318,39 +9318,39 @@ Alberta,2020,1A3A,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3A1,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3A1,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3A1,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2020,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2020,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2020,1A3D,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3D,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3D,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2020,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2020,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2020,1A3E,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3E,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A3E,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2020,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2020,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2020,1A4,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A4,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A4,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2020,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2020,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2020,1A4C,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A4C,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A4C,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9366,15 +9366,15 @@ Alberta,2020,1A4C3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A5,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A5,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1A5,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2020,1A5A,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A5A,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A5A,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2020,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2020,1A5A,Coal,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A5A,Natural gas,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A5A,Oil,1.0,can_ab_ets,30.0,CAD,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2020,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,30.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2020,1B,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1B1,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2020,1B1A,NA,1.0,can_ab_ets,30.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9556,15 +9556,15 @@ Alberta,2021,1A1A1,Oil,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A1A2,Coal,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A1A2,Natural gas,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A1A2,Oil,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2021,1A1A3,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A1A3,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A1A3,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A1B,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A1B,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A1B,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A1C,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A1C,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A1C,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2021,1A1A3,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A1A3,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A1A3,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A1B,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A1B,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A1B,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A1C,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A1C,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A1C,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2021,1A2,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A2,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A2,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9586,27 +9586,27 @@ Alberta,2021,1A2E,Oil,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A2F,Coal,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A2F,Natural gas,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A2F,Oil,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2021,1A2G,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2G,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2G,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2H,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2H,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2H,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2021,1A2G,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2G,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2G,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2H,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2H,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2H,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2021,1A2I,Coal,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A2I,Natural gas,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A2I,Oil,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2021,1A2J,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2J,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2J,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2K,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2K,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2K,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2L,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2L,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2L,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2M,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2M,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A2M,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2021,1A2J,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2J,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2J,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2K,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2K,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2K,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2L,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2L,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2L,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2M,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2M,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A2M,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2021,1A3,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9616,39 +9616,39 @@ Alberta,2021,1A3A,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3A1,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3A1,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3A1,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2021,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2021,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2021,1A3D,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3D,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3D,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2021,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2021,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2021,1A3E,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3E,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A3E,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2021,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2021,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2021,1A4,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A4,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A4,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2021,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2021,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2021,1A4C,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A4C,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A4C,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9664,15 +9664,15 @@ Alberta,2021,1A4C3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A5,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A5,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1A5,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2021,1A5A,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A5A,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A5A,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2021,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2021,1A5A,Coal,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A5A,Natural gas,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A5A,Oil,1.0,can_ab_ets,40.0,CAD,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2021,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,40.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2021,1B,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1B1,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2021,1B1A,NA,1.0,can_ab_ets,40.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9854,15 +9854,15 @@ Alberta,2022,1A1A1,Oil,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A1A2,Coal,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A1A2,Natural gas,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A1A2,Oil,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2022,1A1A3,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A1A3,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A1A3,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A1B,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A1B,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A1B,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A1C,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A1C,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A1C,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2022,1A1A3,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A1A3,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A1A3,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A1B,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A1B,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A1B,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A1C,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A1C,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A1C,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2022,1A2,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A2,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A2,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9884,27 +9884,27 @@ Alberta,2022,1A2E,Oil,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A2F,Coal,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A2F,Natural gas,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A2F,Oil,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2022,1A2G,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2G,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2G,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2H,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2H,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2H,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2022,1A2G,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2G,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2G,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2H,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2H,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2H,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2022,1A2I,Coal,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A2I,Natural gas,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A2I,Oil,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2022,1A2J,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2J,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2J,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2K,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2K,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2K,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2L,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2L,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2L,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2M,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2M,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A2M,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2022,1A2J,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2J,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2J,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2K,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2K,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2K,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2L,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2L,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2L,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2M,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2M,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A2M,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2022,1A3,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9914,39 +9914,39 @@ Alberta,2022,1A3A,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3A1,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3A1,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3A1,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2022,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2022,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2022,1A3D,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3D,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3D,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2022,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2022,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2022,1A3E,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3E,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A3E,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2022,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2022,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2022,1A4,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A4,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A4,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2022,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2022,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2022,1A4C,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A4C,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A4C,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -9962,15 +9962,15 @@ Alberta,2022,1A4C3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A5,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A5,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1A5,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2022,1A5A,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A5A,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A5A,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2022,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2022,1A5A,Coal,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A5A,Natural gas,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A5A,Oil,1.0,can_ab_ets,50.0,CAD,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2022,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,50.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2022,1B,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1B1,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2022,1B1A,NA,1.0,can_ab_ets,50.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -10152,15 +10152,15 @@ Alberta,2023,1A1A1,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A1A2,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A1A2,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A1A2,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2023,1A1A3,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A1A3,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A1A3,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A1B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A1B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A1B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A1C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A1C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A1C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2023,1A1A3,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A1A3,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A1A3,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A1B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A1B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A1B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A1C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A1C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A1C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2023,1A2,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A2,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A2,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -10182,27 +10182,27 @@ Alberta,2023,1A2E,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A2F,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A2F,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A2F,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2023,1A2G,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2G,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2G,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2H,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2H,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2H,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2023,1A2G,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2G,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2G,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2H,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2H,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2H,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2023,1A2I,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A2I,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A2I,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2023,1A2J,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2J,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2J,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2K,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2K,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2K,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2L,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2L,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2L,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2M,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2M,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A2M,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2023,1A2J,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2J,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2J,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2K,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2K,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2K,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2L,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2L,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2L,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2M,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2M,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A2M,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2023,1A3,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -10212,39 +10212,39 @@ Alberta,2023,1A3A,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3A1,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3A1,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3A1,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2023,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2023,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2023,1A3D,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3D,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3D,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2023,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2023,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2023,1A3E,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3E,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A3E,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2023,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2023,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2023,1A4,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A4,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A4,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2023,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2023,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2023,1A4C,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A4C,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A4C,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -10260,15 +10260,15 @@ Alberta,2023,1A4C3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A5,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A5,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1A5,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2023,1A5A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A5A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A5A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2023,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2023,1A5A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A5A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A5A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2023,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,65.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2023,1B,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1B1,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2023,1B1A,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -10450,15 +10450,15 @@ Alberta,2024,1A1A1,Oil,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A1A2,Coal,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A1A2,Natural gas,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A1A2,Oil,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2024,1A1A3,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A1A3,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A1A3,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A1B,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A1B,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A1B,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A1C,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A1C,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A1C,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2024,1A1A3,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A1A3,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A1A3,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A1B,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A1B,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A1B,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A1C,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A1C,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A1C,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2024,1A2,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A2,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A2,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -10480,27 +10480,27 @@ Alberta,2024,1A2E,Oil,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A2F,Coal,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A2F,Natural gas,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A2F,Oil,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2024,1A2G,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2G,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2G,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2H,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2H,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2H,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2024,1A2G,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2G,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2G,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2H,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2H,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2H,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2024,1A2I,Coal,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A2I,Natural gas,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A2I,Oil,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2024,1A2J,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2J,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2J,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2K,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2K,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2K,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2L,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2L,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2L,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2M,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2M,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A2M,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2024,1A2J,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2J,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2J,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2K,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2K,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2K,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2L,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2L,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2L,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2M,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2M,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A2M,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2024,1A3,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -10510,39 +10510,39 @@ Alberta,2024,1A3A,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3A1,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3A1,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3A1,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2024,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2024,1A3A2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3A2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3A2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2024,1A3D,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3D,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3D,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2024,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2024,1A3D1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3D1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3D1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3D2,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3D2,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3D2,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2024,1A3E,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3E,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A3E,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2024,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2024,1A3E1,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3E1,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A3E1,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2024,1A4,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A4,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A4,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2024,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2024,1A4A,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A4A,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A4A,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A4B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A4B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A4B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2024,1A4C,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A4C,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A4C,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
@@ -10558,15 +10558,15 @@ Alberta,2024,1A4C3,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A5,Coal,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A5,Natural gas,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1A5,Oil,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
-Alberta,2024,1A5A,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A5A,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A5A,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
-Alberta,2024,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0,NA,NA,NA,NA
+Alberta,2024,1A5A,Coal,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A5A,Natural gas,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A5A,Oil,1.0,can_ab_ets,80.0,CAD,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A5B,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A5B,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A5B,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A5C,Coal,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A5C,Natural gas,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
+Alberta,2024,1A5C,Oil,0.0,NA,NA,NA,1.0,can_tax_I,80.0,CAD,,,,,0.0,NA,NA,NA,NA
 Alberta,2024,1B,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1B1,NA,0.0,NA,NA,NA,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
 Alberta,2024,1B1A,NA,1.0,can_ab_ets,80.0,CAD,0.0,NA,NA,NA,,,,,NA,NA,NA,NA,NA
