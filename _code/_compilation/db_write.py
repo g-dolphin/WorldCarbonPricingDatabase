@@ -27,7 +27,7 @@ save_jurisdiction_files(wcpd_all_jur_sources, subnats, std_subnat_names, GAS, "s
 
 #---------------------------- Coverage Factors -----------------------------#
 
-coverage_dir = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/coverageFactor"
+coverage_dir = RAW_DIR / "_raw/coverageFactor"
 os.makedirs(coverage_dir, exist_ok=True)
 
 for scheme in taxes_1_list + ets_1_list:# + ets_2_list:
@@ -35,6 +35,6 @@ for scheme in taxes_1_list + ets_1_list:# + ets_2_list:
 
 #---------------------------- Scheme Overlap -------------------------------#
 
-overlap_path = "/Users/gd/GitHub/WorldCarbonPricingDatabase/_raw/overlap/overlap_CO2.csv"
+overlap_path = RAW_DIR / "_raw/overlap/overlap_CO2.csv"
 os.makedirs(os.path.dirname(overlap_path), exist_ok=True)
 overlap.to_csv(overlap_path, index=False)

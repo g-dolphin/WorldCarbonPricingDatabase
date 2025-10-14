@@ -14,7 +14,7 @@ def find_project_root(markers=("pyproject.toml","setup.cfg","requirements.txt","
     return p
 
 # Constants
-GAS = "N2O"  # Change to CO2 / CH4 / F-GASES / SF6 as needed
+GAS = "CH4"  # Change to CO2 / CH4 / F-GASES / SF6 as needed
 ROOT_DIR = find_project_root()
 CODE_DIR = ROOT_DIR / "_code/_compilation/_utils"
 RAW_DIR = ROOT_DIR / "_raw"
