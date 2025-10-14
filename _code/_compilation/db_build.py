@@ -6,11 +6,17 @@ from pathlib import Path
 from importlib.machinery import SourceFileLoader
 
 #----------------------------- Setup -----------------------------#
+def find_project_root(markers=("pyproject.toml","setup.cfg","requirements.txt",".git",".project-root")):
+    p = Path.cwd().resolve()
+    for parent in (p, *p.parents):
+        if any((parent / m).exists() for m in markers):
+            return parent
+    return p
 
 # Constants
-GAS = "CO2"  # Change to CH4 / N2O / F-GASES / SF6 as needed
-ROOT_DIR = Path("/Users/gd/GitHub/WorldCarbonPricingDatabase")
-CODE_DIR = ROOT_DIR / "_code/_compilation/_dependencies"
+GAS = "N2O"  # Change to CO2 / CH4 / F-GASES / SF6 as needed
+ROOT_DIR = find_project_root()
+CODE_DIR = ROOT_DIR / "_code/_compilation/_utils"
 RAW_DIR = ROOT_DIR / "_raw"
 WCPD_STRUCTURE_PATH = "_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv"
 
@@ -39,7 +45,7 @@ def create_jurisdiction_frame(wcpd_structure: pd.DataFrame, jurisdictions: list)
 
 logging.info(f"Starting WCPD build for GHG: {GAS}")
 
-gen_func = load_module("general", "/Users/gd/GitHub/ECP/_code/compilation/_dependencies/dep_ecp/ecp_v3_gen_func.py")
+gen_func = load_module("general", "/Users/geoffroydolphin/GitHub/ECP/_code/compilation/_dependencies/dep_ecp/ecp_v3_gen_func.py")
 jurisdictions_module = load_module("jurisdictions", CODE_DIR / "jurisdictions.py")
 ets_prices_module = load_module("ets_prices", CODE_DIR / "ets_prices.py")
 tax_rates_module = load_module("tax_rates", CODE_DIR / "tax_rates.py")
@@ -49,7 +55,7 @@ tax_scope_module = load_module("taxes_scope", RAW_DIR / f"scope/tax/taxes_scope_
 #---------------------- Load WCPD Structure ----------------------#
 
 # Load structure and jurisdiction lists
-wcpd_structure = load_structure(GAS)
+wcpd_structure = load_structure() # Note: the function currently loads the CO2 structure for all gases.
 ctries = jurisdictions_module.jurisdictions["countries"]
 subnats = jurisdictions_module.jurisdictions["subnationals"]["Canada"] + jurisdictions_module.jurisdictions["subnationals"]["China"] + jurisdictions_module.jurisdictions["subnationals"]["Japan"] + jurisdictions_module.jurisdictions["subnationals"]["United States"] + jurisdictions_module.jurisdictions["subnationals"]["Mexico"]
 all_jurisdictions = ctries + subnats
@@ -96,7 +102,7 @@ def ets_db_values(schemes, scheme_no):
         print(scheme)
         print("Available years for scheme:", list(ets_scope_data[scheme]["jurisdictions"].keys()))
         for yr in ets_scope_data[scheme]["jurisdictions"]:
-            print("Current year:", yr)
+            print("Processing year:", yr)
             selection = (
                 (wcpd_all_jur.year == yr) &
                 (wcpd_all_jur.jurisdiction.isin(ets_scope_data[scheme]["jurisdictions"][yr])) &
@@ -122,7 +128,7 @@ def tax_db_values(schemes, scheme_no):
         print(scheme)
         print("Available years for scheme:", list(taxes_scope_data[scheme]["jurisdictions"].keys()))
         for yr in taxes_scope_data[scheme]["jurisdictions"]:
-            print("Current year:", yr)
+            print("Processing year:", yr)
             juris = taxes_scope_data[scheme]["jurisdictions"][yr]
             sectors = taxes_scope_data[scheme]["sectors"][yr]
             fuels = taxes_scope_data[scheme].get("fuels", {}).get(yr, [None])
@@ -200,24 +206,25 @@ wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
 
 # Prepare wcpd_all_jur frame for tax exemptions
 ## Filling "tax_ex_rate" column with NaN if no tax scheme
-wcpd_all_jur.loc[wcpd_all_jur.tax!=1, "tax_ex_rate"] = np.nan
-wcpd_all_jur_sources.loc[wcpd_all_jur.tax!=1, "tax_ex_rate"] = np.nan
+wcpd_all_jur.loc[wcpd_all_jur.tax != 1, "tax_ex_rate"] = np.nan
+wcpd_all_jur_sources.loc[wcpd_all_jur.tax != 1, "tax_ex_rate"] = np.nan
 #all_jur.loc[(all_jur.tax==1) & (all_jur.tax_ex_rate==""), :] #checking whether we've missed any exemptions
 
 wcpd_all_jur_sources.rename(columns={"tax_ex_rate_sources":"tax_ex_rate"}, inplace=True)
 
 ## Set default non-"NA" values to 0
-wcpd_all_jur.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = 0
-wcpd_all_jur_sources.loc[wcpd_all_jur.tax==1, "tax_ex_rate"] = "NA"
+wcpd_all_jur.loc[wcpd_all_jur.tax == 1, "tax_ex_rate"] = 0
+wcpd_all_jur_sources.loc[wcpd_all_jur.tax == 1, "tax_ex_rate"] = "NA"
 
-def tax_exemptions(gas): 
+def tax_exemptions(GAS): 
         ## Load tax exemptions
         rebate_module = load_module("tax_rebates", RAW_DIR / f"priceRebates/tax/_price_exemptions_tax_{GAS}.py")
 
         if not rebate_module.tax_exemptions or rebate_module.tax_exemptions == [""]:
-            # No exemptions, just fill columns as needed and return
-            wcpd_all_jur["tax_rate_incl_ex_clcu"] = "NA"
-            
+            # No exemptions, just fill columns as needed and return            
+            # Calculate tax rate including rebate
+            wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
+
         else:
             i = 0
             for exemption in rebate_module.tax_exemptions:
@@ -264,7 +271,7 @@ tax_exemptions(GAS)
 
 #-------------------- Coverage Factors --------------------#
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_preprocessing/_coverageFactors.py")
+stream = open("/Users/geoffroydolphin/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_preprocessing/_coverageFactors.py")
 read_file = stream.read()
 exec(read_file)
 
