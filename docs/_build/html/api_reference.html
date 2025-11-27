@@ -1,0 +1,408 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>API Reference (Draft) &mdash; World Carbon Pricing Database 0.1 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=2709fde1"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Usage Guide" href="usage.html" />
+    <link rel="prev" title="Industry Mapping (_code/_industryMapping)" href="industry_mapping.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            World Carbon Pricing Database
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="architecture_compilation.html">Compilation Architecture (<code class="docutils literal notranslate"><span class="pre">_code/_compilation</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="aux_scripts.html">Auxiliary Scripts (<code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="industry_mapping.html">Industry Mapping (<code class="docutils literal notranslate"><span class="pre">_code/_industryMapping</span></code>)</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">API Reference (Draft)</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#code-compilation-db-build-py"><code class="docutils literal notranslate"><span class="pre">_code/_compilation/db_build.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#find-project-root-markers-pyproject-toml-setup-cfg-requirements-txt-git-project-root-path"><code class="docutils literal notranslate"><span class="pre">find_project_root(markers=(&quot;pyproject.toml&quot;,</span> <span class="pre">&quot;setup.cfg&quot;,</span> <span class="pre">&quot;requirements.txt&quot;,</span> <span class="pre">&quot;.git&quot;,</span> <span class="pre">&quot;.project-root&quot;))</span> <span class="pre">-&gt;</span> <span class="pre">Path</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#load-module-name-str-relative-path-module"><code class="docutils literal notranslate"><span class="pre">load_module(name:</span> <span class="pre">str,</span> <span class="pre">relative_path)</span> <span class="pre">-&gt;</span> <span class="pre">module</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#load-structure-path-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">load_structure(path)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#create-jurisdiction-frame-wcpd-structure-pd-dataframe-jurisdictions-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">create_jurisdiction_frame(wcpd_structure:</span> <span class="pre">pd.DataFrame,</span> <span class="pre">jurisdictions)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#assign-price-and-currency-df-selection-scheme-df-scheme-yr-columns-fuel-none-source-df-none"><code class="docutils literal notranslate"><span class="pre">assign_price_and_currency(df,</span> <span class="pre">selection,</span> <span class="pre">scheme_df,</span> <span class="pre">scheme,</span> <span class="pre">yr,</span> <span class="pre">columns,</span> <span class="pre">fuel=None,</span> <span class="pre">source_df=None)</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#ets-db-values-ets-1-list-list-str-label-str-none"><code class="docutils literal notranslate"><span class="pre">ets_db_values(ets_1_list:</span> <span class="pre">list[str],</span> <span class="pre">label:</span> <span class="pre">str)</span> <span class="pre">-&gt;</span> <span class="pre">None</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tax-db-values-taxes-1-list-list-str-label-str-none"><code class="docutils literal notranslate"><span class="pre">tax_db_values(taxes_1_list:</span> <span class="pre">list[str],</span> <span class="pre">label:</span> <span class="pre">str)</span> <span class="pre">-&gt;</span> <span class="pre">None</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tax-exemptions-wcpd-all-jur-pd-dataframe-gas-str-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">tax_exemptions(wcpd_all_jur:</span> <span class="pre">pd.DataFrame,</span> <span class="pre">gas:</span> <span class="pre">str)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#validate-output-df-pd-dataframe-none"><code class="docutils literal notranslate"><span class="pre">validate_output(df:</span> <span class="pre">pd.DataFrame)</span> <span class="pre">-&gt;</span> <span class="pre">None</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-compilation-db-write-py"><code class="docutils literal notranslate"><span class="pre">_code/_compilation/db_write.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#standardize-name-name-str-str"><code class="docutils literal notranslate"><span class="pre">standardize_name(name:</span> <span class="pre">str)</span> <span class="pre">-&gt;</span> <span class="pre">str</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#save-jurisdiction-files-df-pd-dataframe-jurisdictions-std-names-gas-str-level-str-base-dir-none"><code class="docutils literal notranslate"><span class="pre">save_jurisdiction_files(df:</span> <span class="pre">pd.DataFrame,</span> <span class="pre">jurisdictions,</span> <span class="pre">std_names,</span> <span class="pre">gas:</span> <span class="pre">str,</span> <span class="pre">level:</span> <span class="pre">str,</span> <span class="pre">base_dir)</span> <span class="pre">-&gt;</span> <span class="pre">None</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-compilation-utils-tax-rates-py"><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_utils/tax_rates.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#load-tax-rates-price-path-gas-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">load_tax_rates(price_path,</span> <span class="pre">gas)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-compilation-utils-ets-prices-py"><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_utils/ets_prices.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#process-ets-prices-price-dir-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">process_ets_prices(price_dir)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#process-icap-prices-price-dir-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">process_icap_prices(price_dir)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#load-ets-prices-price-dir-default-price-path-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">load_ets_prices(price_dir=DEFAULT_PRICE_PATH)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-compilation-utils-jurisdictions-py"><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_utils/jurisdictions.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#jurisdictions"><code class="docutils literal notranslate"><span class="pre">jurisdictions</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-compilation-utils-sector-agg-scope-py"><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_utils/sector_agg_scope.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#extract-lst-i"><code class="docutils literal notranslate"><span class="pre">Extract(lst,</span> <span class="pre">i)</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-compilation-preprocessing-coveragefactors-py"><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_preprocessing/_coverageFactors.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#build-cf-df-schemes-scope-dict-gas-wcpd-all-jur-raw-dir-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">build_cf_df(schemes,</span> <span class="pre">scope_dict,</span> <span class="pre">gas,</span> <span class="pre">wcpd_all_jur,</span> <span class="pre">RAW_DIR)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-aux-scripts-sumstat-py"><code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts/sumstat.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#summarystatistics-year-int-tuple-dict-dict"><code class="docutils literal notranslate"><span class="pre">summaryStatistics(year:</span> <span class="pre">int)</span> <span class="pre">-&gt;</span> <span class="pre">tuple[dict,</span> <span class="pre">dict]</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-aux-scripts-db-concat-py"><code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts/db_concat.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#concatenate-indir-pd-dataframe"><code class="docutils literal notranslate"><span class="pre">concatenate(indir)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#code-aux-scripts-scope-jurisdiction-py"><code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts/scope_jurisdiction.py</span></code></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id1"><code class="docutils literal notranslate"><span class="pre">concatenate(indir)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="usage.html">Usage Guide</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">World Carbon Pricing Database</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">API Reference (Draft)</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/api_reference.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="api-reference-draft">
+<h1>API Reference (Draft)<a class="headerlink" href="#api-reference-draft" title="Link to this heading"></a></h1>
+<p>This file sketches an <strong>informal API</strong> for the most relevant functions in this repo.<br />
+It is intended as a starting point for later Sphinx <code class="docutils literal notranslate"><span class="pre">autodoc</span></code> integration, once proper docstrings are added.</p>
+<section id="code-compilation-db-build-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_compilation/db_build.py</span></code><a class="headerlink" href="#code-compilation-db-build-py" title="Link to this heading"></a></h2>
+<section id="find-project-root-markers-pyproject-toml-setup-cfg-requirements-txt-git-project-root-path">
+<h3><code class="docutils literal notranslate"><span class="pre">find_project_root(markers=(&quot;pyproject.toml&quot;,</span> <span class="pre">&quot;setup.cfg&quot;,</span> <span class="pre">&quot;requirements.txt&quot;,</span> <span class="pre">&quot;.git&quot;,</span> <span class="pre">&quot;.project-root&quot;))</span> <span class="pre">-&gt;</span> <span class="pre">Path</span></code><a class="headerlink" href="#find-project-root-markers-pyproject-toml-setup-cfg-requirements-txt-git-project-root-path" title="Link to this heading"></a></h3>
+<p>Search upwards from the current working directory for a directory containing any of the <code class="docutils literal notranslate"><span class="pre">markers</span></code>.<br />
+Returns the first match, or the current directory if none are found.</p>
+</section>
+<hr class="docutils" />
+<section id="load-module-name-str-relative-path-module">
+<h3><code class="docutils literal notranslate"><span class="pre">load_module(name:</span> <span class="pre">str,</span> <span class="pre">relative_path)</span> <span class="pre">-&gt;</span> <span class="pre">module</span></code><a class="headerlink" href="#load-module-name-str-relative-path-module" title="Link to this heading"></a></h3>
+<p>Dynamically load a module from a file path:</p>
+<ul class="simple">
+<li><p>If <code class="docutils literal notranslate"><span class="pre">relative_path</span></code> is absolute, it is used directly.</p></li>
+<li><p>Otherwise it is joined to <code class="docutils literal notranslate"><span class="pre">ROOT_DIR</span></code>.</p></li>
+</ul>
+<p>Used to load:</p>
+<ul class="simple">
+<li><p>ECP helper modules.</p></li>
+<li><p>WCPD utility modules.</p></li>
+<li><p>Scope modules.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="load-structure-path-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">load_structure(path)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#load-structure-path-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Read the WCPD structural template CSV:</p>
+<ul class="simple">
+<li><p>Input: path to the structure file (e.g. <code class="docutils literal notranslate"><span class="pre">_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv</span></code>).</p></li>
+<li><p>Output: base DataFrame without jurisdiction column.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="create-jurisdiction-frame-wcpd-structure-pd-dataframe-jurisdictions-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">create_jurisdiction_frame(wcpd_structure:</span> <span class="pre">pd.DataFrame,</span> <span class="pre">jurisdictions)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#create-jurisdiction-frame-wcpd-structure-pd-dataframe-jurisdictions-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Given the base <code class="docutils literal notranslate"><span class="pre">wcpd_structure</span></code> and a collection of jurisdiction names:</p>
+<ul class="simple">
+<li><p>Clones the structure once per jurisdiction.</p></li>
+<li><p>Adds a <code class="docutils literal notranslate"><span class="pre">jurisdiction</span></code> column.</p></li>
+<li><p>Concatenates all clones into a single DataFrame.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="assign-price-and-currency-df-selection-scheme-df-scheme-yr-columns-fuel-none-source-df-none">
+<h3><code class="docutils literal notranslate"><span class="pre">assign_price_and_currency(df,</span> <span class="pre">selection,</span> <span class="pre">scheme_df,</span> <span class="pre">scheme,</span> <span class="pre">yr,</span> <span class="pre">columns,</span> <span class="pre">fuel=None,</span> <span class="pre">source_df=None)</span></code><a class="headerlink" href="#assign-price-and-currency-df-selection-scheme-df-scheme-yr-columns-fuel-none-source-df-none" title="Link to this heading"></a></h3>
+<p>Populate price / rate and currency columns in <code class="docutils literal notranslate"><span class="pre">df</span></code> for a given scheme and year.</p>
+<p>Parameters (inferred from usage):</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">df</span></code>: WCPD core DataFrame (<code class="docutils literal notranslate"><span class="pre">wcpd_all_jur</span></code>).</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">selection</span></code>: boolean mask or index for rows to be updated.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">scheme_df</span></code>: ETS or tax DataFrame (from <code class="docutils literal notranslate"><span class="pre">ets_prices</span></code> or <code class="docutils literal notranslate"><span class="pre">tax_rates</span></code>).</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">scheme</span></code>: scheme identifier.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">yr</span></code>: year.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">columns</span></code>: mapping from logical names (e.g. <code class="docutils literal notranslate"><span class="pre">&quot;price&quot;</span></code>, <code class="docutils literal notranslate"><span class="pre">&quot;rate&quot;</span></code>, <code class="docutils literal notranslate"><span class="pre">&quot;curr_code&quot;</span></code>) to actual column names in <code class="docutils literal notranslate"><span class="pre">df</span></code>.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">fuel</span></code> (optional): restricts to a specific emissions type (when relevant).</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">source_df</span></code> (optional): parallel DataFrame to hold textual source metadata.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="ets-db-values-ets-1-list-list-str-label-str-none">
+<h3><code class="docutils literal notranslate"><span class="pre">ets_db_values(ets_1_list:</span> <span class="pre">list[str],</span> <span class="pre">label:</span> <span class="pre">str)</span> <span class="pre">-&gt;</span> <span class="pre">None</span></code><a class="headerlink" href="#ets-db-values-ets-1-list-list-str-label-str-none" title="Link to this heading"></a></h3>
+<p>Populate ETS coverage and price columns in <code class="docutils literal notranslate"><span class="pre">wcpd_all_jur</span></code>:</p>
+<ul class="simple">
+<li><p>Iterates over ETS schemes in <code class="docutils literal notranslate"><span class="pre">ets_1_list</span></code>.</p></li>
+<li><p>Uses scope dictionaries to identify covered rows.</p></li>
+<li><p>Calls <code class="docutils literal notranslate"><span class="pre">assign_price_and_currency</span></code> to fill prices and currencies.</p></li>
+<li><p>Logs warnings for ETS-covered rows with missing prices.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="tax-db-values-taxes-1-list-list-str-label-str-none">
+<h3><code class="docutils literal notranslate"><span class="pre">tax_db_values(taxes_1_list:</span> <span class="pre">list[str],</span> <span class="pre">label:</span> <span class="pre">str)</span> <span class="pre">-&gt;</span> <span class="pre">None</span></code><a class="headerlink" href="#tax-db-values-taxes-1-list-list-str-label-str-none" title="Link to this heading"></a></h3>
+<p>Populate tax coverage and rate columns in <code class="docutils literal notranslate"><span class="pre">wcpd_all_jur</span></code>:</p>
+<ul class="simple">
+<li><p>Iterates over tax schemes in <code class="docutils literal notranslate"><span class="pre">taxes_1_list</span></code>.</p></li>
+<li><p>Uses scope dictionaries to identify covered rows.</p></li>
+<li><p>Calls <code class="docutils literal notranslate"><span class="pre">assign_price_and_currency</span></code> to fill rates and currencies.</p></li>
+<li><p>Logs warnings for tax-covered rows with missing rates.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="tax-exemptions-wcpd-all-jur-pd-dataframe-gas-str-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">tax_exemptions(wcpd_all_jur:</span> <span class="pre">pd.DataFrame,</span> <span class="pre">gas:</span> <span class="pre">str)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#tax-exemptions-wcpd-all-jur-pd-dataframe-gas-str-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Apply gas-specific tax exemptions and adjustments, possibly accounting for overlap with ETS:</p>
+<ul class="simple">
+<li><p>May modify coverage flags and effective tax rates.</p></li>
+<li><p>Returns the adjusted <code class="docutils literal notranslate"><span class="pre">wcpd_all_jur</span></code>.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="validate-output-df-pd-dataframe-none">
+<h3><code class="docutils literal notranslate"><span class="pre">validate_output(df:</span> <span class="pre">pd.DataFrame)</span> <span class="pre">-&gt;</span> <span class="pre">None</span></code><a class="headerlink" href="#validate-output-df-pd-dataframe-none" title="Link to this heading"></a></h3>
+<p>Perform basic quality checks on the compiled dataset:</p>
+<ul class="simple">
+<li><p>Reports ETS-covered rows with missing prices.</p></li>
+<li><p>Reports tax-covered rows with missing tax rates.</p></li>
+<li><p>Reports rows with overlapping ETS schemes.</p></li>
+</ul>
+<p>Prints warnings and a final status message to stdout.</p>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-compilation-db-write-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_compilation/db_write.py</span></code><a class="headerlink" href="#code-compilation-db-write-py" title="Link to this heading"></a></h2>
+<section id="standardize-name-name-str-str">
+<h3><code class="docutils literal notranslate"><span class="pre">standardize_name(name:</span> <span class="pre">str)</span> <span class="pre">-&gt;</span> <span class="pre">str</span></code><a class="headerlink" href="#standardize-name-name-str-str" title="Link to this heading"></a></h3>
+<p>Return a filesystem-friendly version of <code class="docutils literal notranslate"><span class="pre">name</span></code>:</p>
+<ul class="simple">
+<li><p>Remove <code class="docutils literal notranslate"><span class="pre">&quot;.&quot;</span></code> and <code class="docutils literal notranslate"><span class="pre">&quot;,&quot;</span></code>.</p></li>
+<li><p>Replace spaces with <code class="docutils literal notranslate"><span class="pre">&quot;_&quot;</span></code>.</p></li>
+</ul>
+<p>Used to construct file names like <code class="docutils literal notranslate"><span class="pre">wcpd_co2_United_Kingdom.csv</span></code>.</p>
+</section>
+<hr class="docutils" />
+<section id="save-jurisdiction-files-df-pd-dataframe-jurisdictions-std-names-gas-str-level-str-base-dir-none">
+<h3><code class="docutils literal notranslate"><span class="pre">save_jurisdiction_files(df:</span> <span class="pre">pd.DataFrame,</span> <span class="pre">jurisdictions,</span> <span class="pre">std_names,</span> <span class="pre">gas:</span> <span class="pre">str,</span> <span class="pre">level:</span> <span class="pre">str,</span> <span class="pre">base_dir)</span> <span class="pre">-&gt;</span> <span class="pre">None</span></code><a class="headerlink" href="#save-jurisdiction-files-df-pd-dataframe-jurisdictions-std-names-gas-str-level-str-base-dir-none" title="Link to this heading"></a></h3>
+<p>Write one CSV per jurisdiction for a given gas and level:</p>
+<ul class="simple">
+<li><p>Filters <code class="docutils literal notranslate"><span class="pre">df</span></code> by <code class="docutils literal notranslate"><span class="pre">jurisdiction</span></code>.</p></li>
+<li><p>Builds paths like:<br />
+<code class="docutils literal notranslate"><span class="pre">&lt;base_dir&gt;/&lt;gas&gt;/&lt;level&gt;/wcpd_&lt;gas_lower&gt;_&lt;std_name&gt;.csv</span></code></p></li>
+<li><p>Ensures parent directories exist.</p></li>
+<li><p>Writes CSVs without index.</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-compilation-utils-tax-rates-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_utils/tax_rates.py</span></code><a class="headerlink" href="#code-compilation-utils-tax-rates-py" title="Link to this heading"></a></h2>
+<section id="load-tax-rates-price-path-gas-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">load_tax_rates(price_path,</span> <span class="pre">gas)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#load-tax-rates-price-path-gas-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Load and harmonise carbon tax rate data:</p>
+<ul class="simple">
+<li><p>Scans <code class="docutils literal notranslate"><span class="pre">price_path</span></code> for tax rate CSVs.</p></li>
+<li><p>Filters / aggregates them for the specified <code class="docutils literal notranslate"><span class="pre">gas</span></code>.</p></li>
+<li><p>Harmonises column names.</p></li>
+<li><p>Returns a combined DataFrame with scheme IDs, years, emission types, rates, and metadata.</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-compilation-utils-ets-prices-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_utils/ets_prices.py</span></code><a class="headerlink" href="#code-compilation-utils-ets-prices-py" title="Link to this heading"></a></h2>
+<section id="process-ets-prices-price-dir-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">process_ets_prices(price_dir)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#process-ets-prices-price-dir-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Process internal ETS price files:</p>
+<ul class="simple">
+<li><p>Reads ETS price CSVs in <code class="docutils literal notranslate"><span class="pre">price_dir</span></code>.</p></li>
+<li><p>Standardises and reshapes them into a long format.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="process-icap-prices-price-dir-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">process_icap_prices(price_dir)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#process-icap-prices-price-dir-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Process ICAP price data:</p>
+<ul class="simple">
+<li><p>Reads the ICAP CSV.</p></li>
+<li><p>Selects and reshapes columns for ETS schemes tracked in WCPD.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="load-ets-prices-price-dir-default-price-path-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">load_ets_prices(price_dir=DEFAULT_PRICE_PATH)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#load-ets-prices-price-dir-default-price-path-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Combine internal and ICAP ETS price sources:</p>
+<ul class="simple">
+<li><p>Concatenates processed data.</p></li>
+<li><p>Rounds allowance prices to two decimals.</p></li>
+<li><p>Returns the combined DataFrame.</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-compilation-utils-jurisdictions-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_utils/jurisdictions.py</span></code><a class="headerlink" href="#code-compilation-utils-jurisdictions-py" title="Link to this heading"></a></h2>
+<section id="jurisdictions">
+<h3><code class="docutils literal notranslate"><span class="pre">jurisdictions</span></code><a class="headerlink" href="#jurisdictions" title="Link to this heading"></a></h3>
+<p>Top-level variable:</p>
+<ul class="simple">
+<li><p>Loaded from <code class="docutils literal notranslate"><span class="pre">jurisdictions.json</span></code>.</p></li>
+<li><p>Represents the list or mapping of WCPD jurisdictions used by <code class="docutils literal notranslate"><span class="pre">db_build.py</span></code>.</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-compilation-utils-sector-agg-scope-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_utils/sector_agg_scope.py</span></code><a class="headerlink" href="#code-compilation-utils-sector-agg-scope-py" title="Link to this heading"></a></h2>
+<section id="extract-lst-i">
+<h3><code class="docutils literal notranslate"><span class="pre">Extract(lst,</span> <span class="pre">i)</span></code><a class="headerlink" href="#extract-lst-i" title="Link to this heading"></a></h3>
+<p>Small helper function for working with lists in the context of sector aggregation and scope.</p>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-compilation-preprocessing-coveragefactors-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_preprocessing/_coverageFactors.py</span></code><a class="headerlink" href="#code-compilation-preprocessing-coveragefactors-py" title="Link to this heading"></a></h2>
+<section id="build-cf-df-schemes-scope-dict-gas-wcpd-all-jur-raw-dir-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">build_cf_df(schemes,</span> <span class="pre">scope_dict,</span> <span class="pre">gas,</span> <span class="pre">wcpd_all_jur,</span> <span class="pre">RAW_DIR)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#build-cf-df-schemes-scope-dict-gas-wcpd-all-jur-raw-dir-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Construct the coverage-factor DataFrame <code class="docutils literal notranslate"><span class="pre">cf</span></code>:</p>
+<ul class="simple">
+<li><p>Index: <code class="docutils literal notranslate"><span class="pre">(scheme_id,</span> <span class="pre">jurisdiction,</span> <span class="pre">year,</span> <span class="pre">ipcc_code)</span></code>.</p></li>
+<li><p>Coverage factor column: <code class="docutils literal notranslate"><span class="pre">cf_&lt;gas&gt;</span></code>.</p></li>
+<li><p>Additional metadata columns (e.g. <code class="docutils literal notranslate"><span class="pre">cf_&lt;gas&gt;_source</span></code>, <code class="docutils literal notranslate"><span class="pre">cf_&lt;gas&gt;_comment</span></code>).</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-aux-scripts-sumstat-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts/sumstat.py</span></code><a class="headerlink" href="#code-aux-scripts-sumstat-py" title="Link to this heading"></a></h2>
+<section id="summarystatistics-year-int-tuple-dict-dict">
+<h3><code class="docutils literal notranslate"><span class="pre">summaryStatistics(year:</span> <span class="pre">int)</span> <span class="pre">-&gt;</span> <span class="pre">tuple[dict,</span> <span class="pre">dict]</span></code><a class="headerlink" href="#summarystatistics-year-int-tuple-dict-dict" title="Link to this heading"></a></h3>
+<p>Compute summary statistics:</p>
+<ul class="simple">
+<li><p>Builds national and subnational WCPD DataFrames for the chosen <code class="docutils literal notranslate"><span class="pre">year</span></code>.</p></li>
+<li><p>Returns:</p>
+<ul>
+<li><p><code class="docutils literal notranslate"><span class="pre">sumstat_jurisdictions</span></code> – coverage metrics by jurisdiction.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">sumstat_sectors</span></code> – coverage metrics by sector.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-aux-scripts-db-concat-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts/db_concat.py</span></code><a class="headerlink" href="#code-aux-scripts-db-concat-py" title="Link to this heading"></a></h2>
+<section id="concatenate-indir-pd-dataframe">
+<h3><code class="docutils literal notranslate"><span class="pre">concatenate(indir)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#concatenate-indir-pd-dataframe" title="Link to this heading"></a></h3>
+<p>Concatenate WCPD jurisdiction-level output files:</p>
+<ul class="simple">
+<li><p>Reads all CSVs beneath <code class="docutils literal notranslate"><span class="pre">indir</span></code>.</p></li>
+<li><p>Returns a single concatenated DataFrame.</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="code-aux-scripts-scope-jurisdiction-py">
+<h2><code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts/scope_jurisdiction.py</span></code><a class="headerlink" href="#code-aux-scripts-scope-jurisdiction-py" title="Link to this heading"></a></h2>
+<section id="id1">
+<h3><code class="docutils literal notranslate"><span class="pre">concatenate(indir)</span> <span class="pre">-&gt;</span> <span class="pre">pd.DataFrame</span></code><a class="headerlink" href="#id1" title="Link to this heading"></a></h3>
+<p>Concatenate and clean scope / coverage files at sector–jurisdiction level for maintenance and updates.</p>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="industry_mapping.html" class="btn btn-neutral float-left" title="Industry Mapping (_code/_industryMapping)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="usage.html" class="btn btn-neutral float-right" title="Usage Guide" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, Geoffroy Dolphin.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
