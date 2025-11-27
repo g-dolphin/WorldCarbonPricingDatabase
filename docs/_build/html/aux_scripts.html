@@ -1,0 +1,238 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Auxiliary Scripts (_code/_aux_scripts) &mdash; World Carbon Pricing Database 0.1 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=2709fde1"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Industry Mapping (_code/_industryMapping)" href="industry_mapping.html" />
+    <link rel="prev" title="Compilation Architecture (_code/_compilation)" href="architecture_compilation.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            World Carbon Pricing Database
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="architecture_compilation.html">Compilation Architecture (<code class="docutils literal notranslate"><span class="pre">_code/_compilation</span></code>)</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Auxiliary Scripts (<code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts</span></code>)</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#scope-jurisdiction-py"><code class="docutils literal notranslate"><span class="pre">scope_jurisdiction.py</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ipcc-isic-mapping-py"><code class="docutils literal notranslate"><span class="pre">ipcc_isic_mapping.py</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#sumstat-py"><code class="docutils literal notranslate"><span class="pre">sumstat.py</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#db-concat-py"><code class="docutils literal notranslate"><span class="pre">db_concat.py</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#rawfilesupdate-scripts"><code class="docutils literal notranslate"><span class="pre">rawFilesUpdate/</span></code> scripts</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#updatescanningprice-py"><code class="docutils literal notranslate"><span class="pre">_updateScanningPrice.py</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#rawfilesupdateprice-py"><code class="docutils literal notranslate"><span class="pre">rawFilesUpdatePrice.py</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#rawfilesupdatecfactor-py"><code class="docutils literal notranslate"><span class="pre">rawFilesUpdateCFactor.py</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="industry_mapping.html">Industry Mapping (<code class="docutils literal notranslate"><span class="pre">_code/_industryMapping</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="api_reference.html">API Reference (Draft)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="usage.html">Usage Guide</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">World Carbon Pricing Database</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Auxiliary Scripts (<code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts</span></code>)</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/aux_scripts.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="auxiliary-scripts-code-aux-scripts">
+<h1>Auxiliary Scripts (<code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts</span></code>)<a class="headerlink" href="#auxiliary-scripts-code-aux-scripts" title="Link to this heading"></a></h1>
+<p>The <code class="docutils literal notranslate"><span class="pre">_aux_scripts</span></code> folder contains scripts that support maintenance, updating raw data, and producing summary statistics. They are mainly for internal use rather than a public API.</p>
+<section id="scope-jurisdiction-py">
+<h2><code class="docutils literal notranslate"><span class="pre">scope_jurisdiction.py</span></code><a class="headerlink" href="#scope-jurisdiction-py" title="Link to this heading"></a></h2>
+<p><strong>Purpose:</strong><br />
+Maintain and manipulate <strong>scope / coverage files</strong> at sector–jurisdiction level.</p>
+<p>Typical behaviour (from the code structure):</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">concatenate(indir)</span></code>:</p>
+<ul>
+<li><p>Scans <code class="docutils literal notranslate"><span class="pre">indir</span></code> (often a <code class="docutils literal notranslate"><span class="pre">_raw/scope</span></code> subfolder) for scope-related CSV files.</p></li>
+<li><p>Reads them, standardises structure, and concatenates into one DataFrame.</p></li>
+</ul>
+</li>
+</ul>
+<p>Additional logic in the script:</p>
+<ul class="simple">
+<li><p><strong>Extends coverage information</strong> where appropriate:</p>
+<ul>
+<li><p>If a scheme continues beyond the last year with an explicit scope file, it may create rows for later years with structure copied forward and coverage factor left blank (<code class="docutils literal notranslate"><span class="pre">NA</span></code>) for manual filling.</p></li>
+</ul>
+</li>
+<li><p>Sorts and overwrites the underlying CSV files with the updated structure.</p></li>
+</ul>
+<p>This script is useful when adding new years or schemes to the scope.</p>
+</section>
+<section id="ipcc-isic-mapping-py">
+<h2><code class="docutils literal notranslate"><span class="pre">ipcc_isic_mapping.py</span></code><a class="headerlink" href="#ipcc-isic-mapping-py" title="Link to this heading"></a></h2>
+<p><strong>Purpose:</strong><br />
+Support construction and maintenance of mappings between IPCC emission categories and ISIC/NACE industry codes.</p>
+<p>Characteristics:</p>
+<ul class="simple">
+<li><p>Designed as a helper or one-off script; not structured as a reusable module.</p></li>
+<li><p>Likely used in conjunction with <code class="docutils literal notranslate"><span class="pre">_industryMapping/estat_nace_prices.py</span></code>.</p></li>
+</ul>
+</section>
+<section id="sumstat-py">
+<h2><code class="docutils literal notranslate"><span class="pre">sumstat.py</span></code><a class="headerlink" href="#sumstat-py" title="Link to this heading"></a></h2>
+<p><strong>Purpose:</strong><br />
+Compute summary statistics of WCPD coverage for a given year.</p>
+<p>Key function:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">summaryStatistics(year)</span> <span class="pre">-&gt;</span> <span class="pre">(sumstat_jurisdictions,</span> <span class="pre">sumstat_sectors)</span></code>:</p>
+<ul>
+<li><p>Loads jurisdiction-level WCPD files (typically from <code class="docutils literal notranslate"><span class="pre">_dataset/data/CO2/...</span></code>).</p></li>
+<li><p>Concatenates them into a national and subnational DataFrame.</p></li>
+<li><p>Constructs binary indicators for each jurisdiction (e.g. tax present, ETS present, any pricing).</p></li>
+<li><p>Aggregates coverage statistics:</p>
+<ul>
+<li><p>By jurisdiction.</p></li>
+<li><p>By sector.</p></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>The script currently depends on ECP helper functions and may contain <strong>hard-coded paths</strong> that should be adapted for portability.</p>
+<p>At the bottom of the file there is a simple test call, e.g.:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">test</span> <span class="o">=</span> <span class="n">summaryStatistics</span><span class="p">(</span><span class="mi">2021</span><span class="p">)</span>
+</pre></div>
+</div>
+</section>
+<section id="db-concat-py">
+<h2><code class="docutils literal notranslate"><span class="pre">db_concat.py</span></code><a class="headerlink" href="#db-concat-py" title="Link to this heading"></a></h2>
+<p><strong>Purpose:</strong><br />
+Concatenate jurisdiction-level WCPD CSVs into a single DataFrame.</p>
+<p>Key pattern:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">concatenate(indir)</span></code>:</p>
+<ul>
+<li><p>Recursively scans <code class="docutils literal notranslate"><span class="pre">indir</span></code> for WCPD output CSVs.</p></li>
+<li><p>Reads and concatenates them into one DataFrame.</p></li>
+<li><p>Optionally writes the combined file back to disk.</p></li>
+</ul>
+</li>
+</ul>
+<p>Useful for:</p>
+<ul class="simple">
+<li><p>Exploratory analysis.</p></li>
+<li><p>Cross-jurisdiction validation and plotting.</p></li>
+</ul>
+</section>
+<section id="rawfilesupdate-scripts">
+<h2><code class="docutils literal notranslate"><span class="pre">rawFilesUpdate/</span></code> scripts<a class="headerlink" href="#rawfilesupdate-scripts" title="Link to this heading"></a></h2>
+<p>These scripts help update and harmonise raw data when new releases become available.</p>
+<section id="updatescanningprice-py">
+<h3><code class="docutils literal notranslate"><span class="pre">_updateScanningPrice.py</span></code><a class="headerlink" href="#updatescanningprice-py" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Contains helper logic (e.g. <code class="docutils literal notranslate"><span class="pre">get_price_column(...)</span></code>) to handle variations in column names or formats in newly scanned price files.</p></li>
+<li><p>Intended to be imported by other update scripts.</p></li>
+</ul>
+</section>
+<section id="rawfilesupdateprice-py">
+<h3><code class="docutils literal notranslate"><span class="pre">rawFilesUpdatePrice.py</span></code><a class="headerlink" href="#rawfilesupdateprice-py" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Compares existing raw price CSVs with new ones.</p></li>
+<li><p>Uses helpers from <code class="docutils literal notranslate"><span class="pre">_updateScanningPrice.py</span></code> to robustly identify price columns.</p></li>
+<li><p>Merges or replaces series as needed.</p></li>
+<li><p>Writes updated raw price files back under <code class="docutils literal notranslate"><span class="pre">_raw/price/</span></code>.</p></li>
+</ul>
+</section>
+<section id="rawfilesupdatecfactor-py">
+<h3><code class="docutils literal notranslate"><span class="pre">rawFilesUpdateCFactor.py</span></code><a class="headerlink" href="#rawfilesupdatecfactor-py" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Performs similar tasks for coverage-factor files:</p>
+<ul>
+<li><p>Reads existing coverage-factor CSVs (<code class="docutils literal notranslate"><span class="pre">_raw/coverageFactor/*.csv</span></code>).</p></li>
+<li><p>Applies updates or adds new years.</p></li>
+<li><p>Writes revised files while keeping the structure consistent with WCPD scope and <code class="docutils literal notranslate"><span class="pre">cf</span></code> construction.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="architecture_compilation.html" class="btn btn-neutral float-left" title="Compilation Architecture (_code/_compilation)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="industry_mapping.html" class="btn btn-neutral float-right" title="Industry Mapping (_code/_industryMapping)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, Geoffroy Dolphin.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

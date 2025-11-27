@@ -1,0 +1,264 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Usage Guide &mdash; World Carbon Pricing Database 0.1 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=2709fde1"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="API Reference (Draft)" href="api_reference.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            World Carbon Pricing Database
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="architecture_compilation.html">Compilation Architecture (<code class="docutils literal notranslate"><span class="pre">_code/_compilation</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="aux_scripts.html">Auxiliary Scripts (<code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="industry_mapping.html">Industry Mapping (<code class="docutils literal notranslate"><span class="pre">_code/_industryMapping</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="api_reference.html">API Reference (Draft)</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Usage Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#repository-layout-and-prerequisites">1. Repository layout and prerequisites</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#configure-gas-and-structure">2. Configure gas and structure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#run-the-build-and-write-outputs">3. Run the build and write outputs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#inspecting-and-analysing-outputs">4. Inspecting and analysing outputs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#using-these-docs-with-sphinx">5. Using these docs with Sphinx</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#minimal-sphinx-setup-with-myst">Minimal Sphinx setup (with MyST)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">World Carbon Pricing Database</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Usage Guide</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/usage.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="usage-guide">
+<h1>Usage Guide<a class="headerlink" href="#usage-guide" title="Link to this heading"></a></h1>
+<p>This guide explains how to run the WCPD build pipeline with the current codebase and how these docs can be integrated with Sphinx later.</p>
+<section id="repository-layout-and-prerequisites">
+<h2>1. Repository layout and prerequisites<a class="headerlink" href="#repository-layout-and-prerequisites" title="Link to this heading"></a></h2>
+<p>Expected top-level structure:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_code/</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_dataset/</span></code> (can be empty initially)</p></li>
+</ul>
+<p>You will need:</p>
+<ul class="simple">
+<li><p>Python (3.x) with <code class="docutils literal notranslate"><span class="pre">pandas</span></code>, <code class="docutils literal notranslate"><span class="pre">numpy</span></code>, <code class="docutils literal notranslate"><span class="pre">logging</span></code>, etc.</p></li>
+<li><p>Access to the ECP repository and coverage modules referenced via absolute paths in:</p>
+<ul>
+<li><p><code class="docutils literal notranslate"><span class="pre">_code/_compilation/db_build.py</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_code/_compilation/_preprocessing/_overlap.py</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts/sumstat.py</span></code>, etc.</p></li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<div><p><strong>Recommendation:</strong> refactor absolute paths to configuration variables or environment variables for portability.</p>
+</div></blockquote>
+</section>
+<section id="configure-gas-and-structure">
+<h2>2. Configure gas and structure<a class="headerlink" href="#configure-gas-and-structure" title="Link to this heading"></a></h2>
+<p>Open <code class="docutils literal notranslate"><span class="pre">_code/_compilation/db_build.py</span></code> and ensure:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">GAS</span> <span class="o">=</span> <span class="s2">&quot;CO2&quot;</span>  <span class="c1"># or &quot;CH4&quot;, &quot;F-GASES&quot;, &quot;SF6&quot;</span>
+<span class="n">WCPD_STRUCTURE_PATH</span> <span class="o">=</span> <span class="s2">&quot;_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv&quot;</span>
+</pre></div>
+</div>
+<p>Also verify that:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/price/</span></code> contains ETS and tax rate input files.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/scope/</span></code> contains ETS and tax scope modules/files.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/_aux_files/wcpd_structure/</span></code> contains the structure CSV(s) for the gas you are building.</p></li>
+</ul>
+</section>
+<section id="run-the-build-and-write-outputs">
+<h2>3. Run the build and write outputs<a class="headerlink" href="#run-the-build-and-write-outputs" title="Link to this heading"></a></h2>
+<p>From a Python shell or notebook, with the working directory somewhere inside the repo:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">_code._compilation</span><span class="w"> </span><span class="kn">import</span> <span class="n">db_build</span>  <span class="c1"># runs the build pipeline on import</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">_code._compilation</span><span class="w"> </span><span class="kn">import</span> <span class="n">db_write</span>  <span class="c1"># writes files using globals from db_build</span>
+</pre></div>
+</div>
+<p>What happens:</p>
+<ol class="arabic simple">
+<li><p>Importing <code class="docutils literal notranslate"><span class="pre">db_build</span></code>:</p>
+<ul class="simple">
+<li><p>Discovers <code class="docutils literal notranslate"><span class="pre">ROOT_DIR</span></code>.</p></li>
+<li><p>Loads jurisdictions, ETS prices, and tax rates.</p></li>
+<li><p>Loads scope information for ETS and taxes.</p></li>
+<li><p>Builds <code class="docutils literal notranslate"><span class="pre">wcpd_all_jur</span></code> (core WCPD data) and <code class="docutils literal notranslate"><span class="pre">wcpd_all_jur_sources</span></code> (metadata).</p></li>
+<li><p>Constructs coverage factors <code class="docutils literal notranslate"><span class="pre">cf</span></code> and overlap corrections <code class="docutils literal notranslate"><span class="pre">overlap</span></code>.</p></li>
+<li><p>Runs <code class="docutils literal notranslate"><span class="pre">validate_output(...)</span></code> and prints warnings.</p></li>
+</ul>
+</li>
+<li><p>Importing <code class="docutils literal notranslate"><span class="pre">db_write</span></code>:</p>
+<ul class="simple">
+<li><p>Uses the objects defined by <code class="docutils literal notranslate"><span class="pre">db_build</span></code> (e.g. <code class="docutils literal notranslate"><span class="pre">wcpd_all_jur</span></code>, <code class="docutils literal notranslate"><span class="pre">cf</span></code>, <code class="docutils literal notranslate"><span class="pre">overlap</span></code>, <code class="docutils literal notranslate"><span class="pre">GAS</span></code>).</p></li>
+<li><p>Writes jurisdiction-level CSVs under, for example:</p>
+<ul>
+<li><p><code class="docutils literal notranslate"><span class="pre">_dataset/data/CO2/national/</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_dataset/data/CO2/subnational/</span></code></p></li>
+</ul>
+</li>
+<li><p>Writes parallel source files under <code class="docutils literal notranslate"><span class="pre">_dataset/sources/...</span></code>.</p></li>
+<li><p>Writes coverage-factor CSVs under <code class="docutils literal notranslate"><span class="pre">_raw/coverageFactor/</span></code>.</p></li>
+<li><p>Writes overlap CSV under <code class="docutils literal notranslate"><span class="pre">_raw/overlap/</span></code>.</p></li>
+</ul>
+</li>
+</ol>
+<p>If you prefer to control the timing of writes, you can:</p>
+<ul class="simple">
+<li><p>Comment out top-level writing code in <code class="docutils literal notranslate"><span class="pre">db_write.py</span></code>, and</p></li>
+<li><p>Call <code class="docutils literal notranslate"><span class="pre">save_jurisdiction_files(...)</span></code> and the coverage / overlap writing logic manually.</p></li>
+</ul>
+</section>
+<section id="inspecting-and-analysing-outputs">
+<h2>4. Inspecting and analysing outputs<a class="headerlink" href="#inspecting-and-analysing-outputs" title="Link to this heading"></a></h2>
+<p>A typical workflow after building:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">_code._aux_scripts</span><span class="w"> </span><span class="kn">import</span> <span class="n">db_concat</span>
+
+<span class="c1"># Concatenate all national CO2 WCPD files</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">db_concat</span><span class="o">.</span><span class="n">concatenate</span><span class="p">(</span><span class="s2">&quot;_dataset/data/CO2/national&quot;</span><span class="p">)</span>
+
+<span class="c1"># Look at a few rows</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">())</span>
+</pre></div>
+</div>
+<p>For summary statistics:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">_code._aux_scripts</span><span class="w"> </span><span class="kn">import</span> <span class="n">sumstat</span>
+
+<span class="n">sumstat_jur</span><span class="p">,</span> <span class="n">sumstat_sec</span> <span class="o">=</span> <span class="n">sumstat</span><span class="o">.</span><span class="n">summaryStatistics</span><span class="p">(</span><span class="mi">2021</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>You can then export or plot these results as needed.</p>
+</section>
+<section id="using-these-docs-with-sphinx">
+<h2>5. Using these docs with Sphinx<a class="headerlink" href="#using-these-docs-with-sphinx" title="Link to this heading"></a></h2>
+<p>These Markdown files are designed to be Sphinx-friendly (especially with <code class="docutils literal notranslate"><span class="pre">myst-parser</span></code>) or usable directly with MkDocs.</p>
+<section id="minimal-sphinx-setup-with-myst">
+<h3>Minimal Sphinx setup (with MyST)<a class="headerlink" href="#minimal-sphinx-setup-with-myst" title="Link to this heading"></a></h3>
+<p>In your <code class="docutils literal notranslate"><span class="pre">conf.py</span></code>:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">extensions</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="s2">&quot;myst_parser&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;sphinx.ext.autodoc&quot;</span><span class="p">,</span>
+<span class="p">]</span>
+</pre></div>
+</div>
+<p>Create <code class="docutils literal notranslate"><span class="pre">index.md</span></code> (or <code class="docutils literal notranslate"><span class="pre">index.rst</span></code>) with something like:</p>
+<div class="highlight-md notranslate"><div class="highlight"><pre><span></span><span class="gh"># World Carbon Pricing Database</span>
+
+```{toctree}
+:maxdepth: 2
+
+overview
+architecture_compilation
+aux_scripts
+industry_mapping
+api_reference
+usage
+</pre></div>
+</div>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>
+Once docstrings are added to the modules, you can extend the docs with autodoc, for example in a Markdown file:
+
+```md
+# Compilation module reference
+
+```{autodoc} _code._compilation.db_build
+:members:
+:undoc-members:
+:show-inheritance:
+</pre></div>
+</div>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>
+<span class="n">The</span> <span class="n">current</span> <span class="n">files</span> <span class="n">give</span> <span class="n">you</span> <span class="n">the</span> <span class="n">human</span><span class="o">-</span><span class="n">readable</span> <span class="n">structure</span><span class="p">;</span> <span class="n">later</span><span class="p">,</span> <span class="n">autodoc</span> <span class="n">will</span> <span class="n">fill</span> <span class="ow">in</span> <span class="n">function</span><span class="o">-</span><span class="n">level</span> <span class="n">details</span> <span class="n">directly</span> <span class="kn">from</span><span class="w"> </span><span class="nn">the</span> <span class="n">code</span><span class="o">.</span>
+</pre></div>
+</div>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="api_reference.html" class="btn btn-neutral float-left" title="API Reference (Draft)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, Geoffroy Dolphin.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
