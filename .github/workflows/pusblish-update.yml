@@ -1,0 +1,80 @@
+name: Publish WCPD update to dashboard feed
+
+on:
+  release:
+    types: [published]   # only when a release is published
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout dashboard/meta repo where JSON lives
+      - name: Checkout wcpd_dashboard meta repo
+        uses: actions/checkout@v4
+        with:
+          repository: g-dolphin/wcpd_dashboard
+          path: meta-repo
+          token: ${{ secrets.META_REPO_TOKEN }}
+
+      - name: Add WCPD JSON entry
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+          const path = require('path');
+
+          // Path to the WCPD updates file in wcpd_dashboard
+          const updatesPath = path.join('meta-repo', 'data', 'meta', 'updates', 'updates-wcpd.json');
+
+          // Load existing array or start fresh
+          let arr = [];
+          if (fs.existsSync(updatesPath)) {
+            try {
+              arr = JSON.parse(fs.readFileSync(updatesPath, 'utf8'));
+              if (!Array.isArray(arr)) arr = [];
+            } catch {
+              arr = [];
+            }
+          }
+
+          const event = require(process.env.GITHUB_EVENT_PATH);
+          const rel = event.release;
+
+          // Skip drafts / prereleases if you don't want them
+          if (rel.draft || rel.prerelease) {
+            console.log('Skipping draft or prerelease');
+            process.exit(0);
+          }
+
+          const item = {
+            date: rel.published_at || new Date().toISOString(),
+            title: rel.name || `WCPD ${rel.tag_name}`,
+            href: rel.html_url,
+            tag: 'Dataset',
+            source: 'WCPD',
+          };
+
+          // Avoid duplicates
+          const exists = arr.some(x =>
+            x.href === item.href ||
+            (x.title === item.title && x.date === item.date)
+          );
+          if (exists) {
+            console.log('Update already present, nothing to do');
+          } else {
+            arr.push(item);
+            // Optionally keep newest first
+            arr.sort((a, b) => new Date(b.date) - new Date(a.date));
+            fs.writeFileSync(updatesPath, JSON.stringify(arr, null, 2) + '\n');
+            console.log('Added WCPD update item');
+          }
+          EOF
+
+      - name: Commit and push to wcpd_dashboard
+        working-directory: meta-repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/meta/updates/updates-wcpd.json
+          git commit -m "Add WCPD update from release $GITHUB_REF_NAME" || echo "No changes to commit"
+          git push
