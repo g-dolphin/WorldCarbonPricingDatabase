@@ -100,7 +100,18 @@ def process_icap_prices(price_dir: str) -> pd.DataFrame:
 
     drop_schemes = {"usa_rggi", "can_on_ets", "che_ets", "usa_ca_ets", "can_qc_cat", "can_ns_ets", "usa_wa_ets"}
 
-    icap_csv_path = os.path.join(price_dir, "_icap-graph-price-data-2008-04-01-2025-04-15.csv")
+    icap_dir = os.path.join(price_dir, "_icap")
+    icap_files = [
+        os.path.join(icap_dir, filename)
+        for filename in os.listdir(icap_dir)
+        if filename.startswith("icap_prices") and filename.endswith(".csv")
+    ]
+    if not icap_files:
+        raise FileNotFoundError(
+            f"No ICAP price files found in {icap_dir}. Expected files like "
+            "'icap_pricesYYYYMMDD_HHMMSS.csv'."
+        )
+    icap_csv_path = max(icap_files, key=os.path.getmtime)
 
     # Read header row for column filtering
     columns = pd.read_csv(icap_csv_path, encoding="latin-1", nrows=0).columns
@@ -108,8 +119,18 @@ def process_icap_prices(price_dir: str) -> pd.DataFrame:
 
     # Read actual data (header=1 skips redundant top row)
     df = pd.read_csv(icap_csv_path, encoding="latin-1", header=1, low_memory=False)
-    df = pd.concat([df.loc[:, ["Date"]], df.loc[:, df.columns.str.startswith('Reference Market')]],
-                         axis=1)
+    primary_cols = df.columns[df.columns.str.startswith("Primary Market")]
+    if len(primary_cols) == 0:
+        raise ValueError(
+            f"No 'Primary Market' columns found in {icap_csv_path}. "
+            "The ICAP download format may have changed."
+        )
+    if len(primary_cols) != len(target_cols):
+        raise ValueError(
+            f"Mismatch between scheme headers and Primary Market columns in {icap_csv_path}. "
+            f"Found {len(target_cols)} scheme columns and {len(primary_cols)} primary columns."
+        )
+    df = pd.concat([df.loc[:, ["Date"]], df.loc[:, primary_cols]], axis=1)
     df.columns = ["Date"]+target_cols
 
     # Rename columns using first match
