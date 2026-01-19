@@ -1,4 +1,3 @@
-page/__site
 .DS_store
 _raw/sources/html/
 _raw/sources/pdf/
@@ -7,3 +6,4 @@ _raw/sources/meta/
 _raw/sources/sources/
 _raw/sources/*.csv
 _raw/sources/
+wcpd_architecture.mmd
