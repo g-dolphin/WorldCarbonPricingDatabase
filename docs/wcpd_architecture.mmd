@@ -1,0 +1,113 @@
+flowchart TB
+    %% LAYERS %%
+
+    subgraph U["1. Upstream Data Sources"]
+        direction TB
+        U1["1A. Static & Research Inputs\n- Legal texts\n- Historical rates & scopes\n- Jurisdiction metadata"]
+        U2["1B. Automated Web Scraping\n- Gov releases\n- News / blogs\n- Policy events"]
+        U3["1C. Partnered & External Datasets\n- OECD ECP\n- IMF & World Bank\n- GLORIA, Climate TRACE"]
+    end
+
+    subgraph I["2. Ingestion & Review Workflow"]
+        direction TB
+        I1["Candidate Generation\ncp_candidates.csv"]
+        I2["Streamlit Review App\nreview_app.py"]
+        I3["Review State\ncp_review_state.csv"]
+    end
+
+    subgraph R["3. Curated Raw Data Layer (_raw)"]
+        direction TB
+        R1["sources.csv"]
+        R2["raw_artifacts.csv"]
+        R3["Tax & ETS scope tables\nExemptions / rebates"]
+        R4["FX rates & deflators\nJurisdiction dictionary (JSON)"]
+    end
+
+    subgraph C["4. Core Compilation Pipeline"]
+        direction TB
+        C0["db_build.py"]
+
+        subgraph C_A["4A. Tax Module"]
+            C1["Parse tax laws & rates"]
+            C2["Apply scope & exemptions"]
+            C3["Convert to CO₂ prices\nFX + deflators"]
+        end
+
+        subgraph C_B["4B. ETS Module"]
+            C4["Parse allowance & auction prices"]
+            C5["Scope & coverage mapping\nincl. subnational"]
+        end
+
+        subgraph C_C["4C. Harmonization & Integration"]
+            C6["Merge taxes & ETS\nper jurisdiction-year"]
+            C7["Consistency checks\nhierarchies"]
+            C8["Derived indicators\ncoverage, avg CO₂ price,\nCO₂-weighted price"]
+        end
+    end
+
+    subgraph D["5. Data Products (_output)"]
+        direction TB
+        D1["wcpd_instruments.csv"]
+        D2["wcpd_prices.csv"]
+        D3["wcpd_coverage.csv"]
+        D4["wcpd_aggregates.csv\nsubnational breakdowns"]
+        D5["Derived analytics\ncarbon costs, ETS curves,\nCBAM metrics"]
+        D6["_figures/ directory\ncharts & heatmaps"]
+    end
+
+    subgraph A["6. Downstream Applications"]
+        direction TB
+        A1["Web Dashboard\n(Next.js + FastAPI)"]
+        A2["API / Programmatic Access\nJSON/CSV endpoints"]
+        A3["Research & Modeling\nNiGEM, MRIO, asset-level costs"]
+        A4["Future extensions\nlive policy feed, webhooks"]
+    end
+
+    %% FLOWS %%
+
+    U1 --> I1
+    U2 --> I1
+    U3 --> R1
+
+    I1 --> I2
+    I2 --> I3
+    I3 --> R1
+    I3 --> R2
+
+    R1 --> C0
+    R2 --> C0
+    R3 --> C0
+    R4 --> C0
+
+    C0 --> C1
+    C0 --> C4
+
+    C1 --> C2 --> C3 --> C6
+    C4 --> C5 --> C6
+
+    C6 --> C7 --> C8
+
+    C8 --> D1
+    C8 --> D2
+    C8 --> D3
+    C8 --> D4
+    C8 --> D5
+    D2 --> D6
+    D3 --> D6
+
+    D1 --> A1
+    D2 --> A1
+    D3 --> A1
+    D4 --> A1
+    D5 --> A1
+    D6 --> A1
+
+    D1 --> A2
+    D2 --> A2
+    D3 --> A2
+    D4 --> A2
+    D5 --> A3
+    D2 --> A3
+    D3 --> A3
+
+    A2 --> A4
