@@ -1,0 +1,143 @@
+flowchart TB
+    %% ============================================================
+    %% WCPD: Upstream -> Raw -> Compilation -> Dataset outputs
+    %% then ECP: Compilation + Reporting (figures registry, plots, dataFig)
+    %% ============================================================
+
+    subgraph W0["WCPD codebase: _code_wcpd (runs first)"]
+        direction TB
+
+        subgraph W1["1. Upstream sources extraction & review  (_code/_sources_extraction/)"]
+            direction TB
+            W1a["fetch.py\n(scrape/download raw artifacts)"]
+            W1b["extract.py\n(parse artifacts -> candidates)"]
+            W1c["patterns.py + config.py\n(regex/rules & source config)"]
+            W1d["review_app.py\n(Streamlit review UI)"]
+            W1e["apply_review.py\n(apply decisions -> upstream CSV outputs)"]
+            W1f["cli.py\n(command entrypoint)"]
+
+            subgraph W1o["Upstream files written under _raw/sources/"]
+                direction TB
+                W1o1["_raw/sources/cp_candidates.csv"]
+                W1o2["_raw/sources/cp_review_state.csv"]
+                W1o3["_raw/sources/upstream_prices.csv"]
+                W1o4["_raw/sources/upstream_start_dates.csv"]
+                W1o5["_raw/sources/upstream_coverage_ipcc.csv"]
+                W1o6["_raw/sources/sources.csv\n(or _raw/upstream/sources.csv)"]
+                W1o7["_raw/sources/meta/raw_artifacts.csv"]
+            end
+        end
+
+        subgraph W2["2. Curated raw inputs used by compilation (_raw/)"]
+            direction TB
+            W2a["_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv\n(WCPD sector x jurisdiction skeleton)"]
+            W2b["_raw/price/\n(default price dir; tax & ETS price inputs)\n(e.g. *tax*_prices.csv, usa_rggi_prices.csv, usa_wa_ets_prices.csv, …)"]
+            W2c["_raw/coverageFactor/\n(output folder for scheme coverage factors)"]
+            W2d["_raw/overlap/overlap_CO2.csv\n(output overlap table)"]
+            W2e["jurisdictions.json\n(used by _code/_compilation/_utils/jurisdictions.py)"]
+        end
+
+        subgraph W3["3. Core compilation (_code/_compilation/)"]
+            direction TB
+            W3a["db_build.py\n(build jurisdiction x sector x year panel)\nuses _preprocessing + _utils"]
+            W3b["db_write.py\n(write per-jurisdiction CSVs to _dataset/)"]
+
+            subgraph W3u["_code/_compilation/_utils/"]
+                direction TB
+                W3u1["tax_rates.py\n(load & standardize tax rates)"]
+                W3u2["ets_prices.py\n(load & standardize ETS prices)"]
+                W3u3["jurisdictions.py\n(load jurisdiction dictionary)"]
+                W3u4["sector_agg_scope.py\n(scope/aggregation helpers)"]
+            end
+
+            subgraph W3p["_code/_compilation/_preprocessing/"]
+                direction TB
+                W3p1["_coverageFactors.py\n(generate coverage factors files"]
+                W3p2["_overlap.py\n(overlap logic)"]
+            end
+        end
+
+        subgraph W4["4. WCPD dataset outputs (_dataset/)"]
+            direction TB
+
+            subgraph W4a["_dataset/data/<GAS>/"]
+                direction TB
+                W4a1["national/wcpd_<gas>_<std_name>.csv"]
+                W4a2["subnational/wcpd_<gas>_<std_name>.csv"]
+            end
+
+            subgraph W4b["_dataset/sources/<GAS>/"]
+                direction TB
+                W4b1["national/wcpd_<gas>_<std_name>.csv\n(sources/notes fields)"]
+                W4b2["subnational/wcpd_<gas>_<std_name>.csv\n(sources/notes fields)"]
+            end
+        end
+    end
+
+    %% ------------------------------------------------------------
+    %% ECP: code comes after WCPD, uses WCPD outputs for charts/metrics
+    %% ------------------------------------------------------------
+
+    subgraph E0["ECP codebase: _code_ecp (runs after WCPD)"]
+        direction TB
+
+        subgraph E1["5. ECP compilation (_code/compilation/)"]
+            direction TB
+            E1a["_code/compilation/ccost/carbonCost.py\n(carbon cost computations)"]
+            E1b["_code/compilation/_utils/dep_ecp/*\n(curr conversion, coverage, overlap,\nweighted averages, inventory preprocessing, …)"]
+            E1c["_code/compilation/_utils/dep_ccost/*\n(gloriaProcessing.py, constantUSD.py, …)"]
+        end
+
+        subgraph E2["6. ECP reporting & figures (_code/reporting/charts/)"]
+            direction TB
+            E2a["generate_charts.py\n(builds registry + outputs figures/data)"]
+
+            subgraph E2o["_output/_figures/ (from generate_charts.py)"]
+                direction TB
+                E2o1["_output/_figures/chart_registry.json"]
+                E2o2["_output/_figures/plots/\n(e.g. coverage_<year>.png, …)"]
+                E2o3["_output/_figures/dataFig/\n(e.g. coverage_<year>.csv, …)"]
+            end
+        end
+    end
+
+    %% ============================================================
+    %% FLOW / DEPENDENCIES
+    %% ============================================================
+
+    %% WCPD upstream chain
+    W1a --> W1b --> W1o1
+    W1d --> W1o2
+    W1e --> W1o3
+    W1e --> W1o4
+    W1e --> W1o5
+    W1a --> W1o7
+    W1b --> W1o6
+
+    %% WCPD compilation inputs
+    W1o3 --> W2b
+    W1o4 --> W2b
+    W1o5 --> W2b
+    W2a --> W3a
+    W2b --> W3a
+    W2e --> W3u3
+
+    %% WCPD compilation outputs
+    W3a --> W3b
+    W3p1 --> W2c
+    W3p2 --> W2d
+    W3b --> W4a1
+    W3b --> W4a2
+    W3b --> W4b1
+    W3b --> W4b2
+
+    %% ECP depends on WCPD dataset outputs
+    W4a1 --> E1a
+    W4a2 --> E1a
+    W4a1 --> E2a
+    W4a2 --> E2a
+
+    %% ECP reporting outputs
+    E2a --> E2o1
+    E2a --> E2o2
+    E2a --> E2o3
