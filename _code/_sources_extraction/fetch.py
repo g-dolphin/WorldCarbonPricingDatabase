@@ -1,9 +1,75 @@
 from __future__ import annotations
+import datetime as dt
+import re
 from pathlib import Path
 import httpx
 from bs4 import BeautifulSoup
 from .config import Source
 from .storage import store_artifact
+
+def _extract_year(text: str, pattern: str | None = None) -> int | None:
+    if not text:
+        return None
+    if pattern:
+        try:
+            match = re.search(pattern, text, flags=re.IGNORECASE)
+        except re.error:
+            match = None
+        if match:
+            for group in match.groups():
+                if group and group.isdigit() and len(group) == 4:
+                    return int(group)
+            found = re.findall(r"(20\d{2})", match.group(0))
+            if found:
+                return int(found[-1])
+    found = re.findall(r"(20\d{2})", text)
+    return int(found[-1]) if found else None
+
+
+def _select_links(soup: BeautifulSoup, selector: str | None) -> list[tuple[str, str]]:
+    links: list[tuple[str, str]] = []
+    if selector:
+        for node in soup.select(selector):
+            href = node.get("href")
+            if not href:
+                continue
+            links.append((href, node.get_text(" ", strip=True)))
+    if not links:
+        for a in soup.find_all("a", href=True):
+            links.append((a["href"], a.get_text(" ", strip=True)))
+    return links
+
+
+def _candidate_pdf_links(
+    soup: BeautifulSoup, source: Source, base_url: httpx.URL
+) -> list[tuple[str, int | None]]:
+    candidates: list[tuple[str, int | None]] = []
+    for href, text in _select_links(soup, source.doc_link_selector):
+        if not href.lower().endswith(".pdf"):
+            continue
+        if source.doc_pattern:
+            if not re.search(source.doc_pattern, href, flags=re.IGNORECASE) and not re.search(
+                source.doc_pattern, text, flags=re.IGNORECASE
+            ):
+                continue
+        year = _extract_year(f"{text} {href}", source.doc_pattern)
+        url = httpx.URL(href, base=base_url).join(href)
+        candidates.append((str(url), year))
+    return candidates
+
+
+def _year_url_candidates(source: Source) -> list[tuple[str, int]]:
+    if not source.year_url_template:
+        return []
+    current_year = dt.datetime.utcnow().year
+    start_year = current_year
+    if source.last_seen_year and source.last_seen_year.isdigit():
+        start_year = max(start_year, int(source.last_seen_year) + 1)
+    target_years = list(range(start_year, current_year + 2))
+    return [
+        (source.year_url_template.format(year=year), year) for year in target_years
+    ]
+
 
 def fetch_source(source: Source, raw_root: Path) -> list[str]:
     """
@@ -35,17 +101,24 @@ def fetch_source(source: Source, raw_root: Path) -> list[str]:
         # Optionally follow PDF links
         if source.source_type == "html_index_pdf_links":
             soup = BeautifulSoup(resp.text, "lxml")
-            for a in soup.find_all("a", href=True):
-                href = a["href"]
-                if not href.lower().endswith(".pdf"):
-                    continue
-                if source.doc_pattern:
-                    text_match = source.doc_pattern in (a.get_text() or "")
-                    href_match = source.doc_pattern in href
-                    if not (text_match or href_match):
-                        continue
+            candidates = _candidate_pdf_links(soup, source, resp.url)
+            candidates.extend(_year_url_candidates(source))
 
-                pdf_url = httpx.URL(href, base=resp.url).join(href)
+            last_seen_year = None
+            if source.last_seen_year and source.last_seen_year.isdigit():
+                last_seen_year = int(source.last_seen_year)
+
+            if last_seen_year is not None:
+                candidates = [
+                    c for c in candidates if c[1] is None or c[1] > last_seen_year
+                ] or candidates
+
+            candidates = sorted(candidates, key=lambda c: (c[1] or 0), reverse=True)
+            seen_urls: set[str] = set()
+            for pdf_url, _year in candidates[:5]:
+                if pdf_url in seen_urls:
+                    continue
+                seen_urls.add(pdf_url)
                 pdf_resp = httpx.get(pdf_url, follow_redirects=True, timeout=60)
                 if pdf_resp.status_code != 200:
                     continue
