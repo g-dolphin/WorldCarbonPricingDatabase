@@ -51,6 +51,11 @@ def build_final_table() -> pd.DataFrame:
             merged[col] = ""
         merged[col] = merged[col].fillna("")
 
+    for col in ["edited_ghg", "edited_product", "edited_ipcc"]:
+        if col not in merged.columns:
+            merged[col] = ""
+        merged[col] = merged[col].fillna("")
+
     # Compute final values
     merged["final_value"] = merged.apply(
         lambda r: r["edited_value"] if r["edited_value"] else r["value"],
@@ -69,8 +74,27 @@ def build_final_table() -> pd.DataFrame:
         axis=1,
     )
 
+    merged["final_ghg"] = merged["edited_ghg"]
+    merged["final_product"] = merged["edited_product"]
+    merged["final_ipcc"] = merged["edited_ipcc"]
+
     # Standardise some key columns (ensure they exist)
-    for col in ["scheme_id", "jurisdiction_code", "source_id", "artifact_id", "field_name", "method", "confidence", "reviewer", "reviewed_at", "comment"]:
+    for col in [
+        "review_entry_id",
+        "scheme_id",
+        "jurisdiction_code",
+        "source_id",
+        "artifact_id",
+        "field_name",
+        "method",
+        "confidence",
+        "reviewer",
+        "reviewed_at",
+        "comment",
+        "final_ghg",
+        "final_product",
+        "final_ipcc",
+    ]:
         if col not in merged.columns:
             merged[col] = ""
 
@@ -84,6 +108,7 @@ def write_prices(df: pd.DataFrame) -> None:
         return
 
     cols = [
+        "review_entry_id",
         "scheme_id",
         "jurisdiction_code",
         "source_id",
@@ -92,6 +117,9 @@ def write_prices(df: pd.DataFrame) -> None:
         "final_numeric_value",
         "final_currency",
         "final_unit",
+        "final_ghg",
+        "final_product",
+        "final_ipcc",
         "final_value",  # human-readable string
         "method",
         "confidence",
@@ -111,12 +139,16 @@ def write_start_dates(df: pd.DataFrame) -> None:
         return
 
     cols = [
+        "review_entry_id",
         "scheme_id",
         "jurisdiction_code",
         "source_id",
         "artifact_id",
         "candidate_id",
         "final_value",  # start date as reviewed text (e.g. "1 January 2025")
+        "final_ghg",
+        "final_product",
+        "final_ipcc",
         "method",
         "confidence",
         "reviewer",
@@ -135,12 +167,16 @@ def write_ipcc(df: pd.DataFrame) -> None:
         return
 
     cols = [
+        "review_entry_id",
         "scheme_id",
         "jurisdiction_code",
         "source_id",
         "artifact_id",
         "candidate_id",
         "final_value",  # IPCC code
+        "final_ghg",
+        "final_product",
+        "final_ipcc",
         "method",
         "confidence",
         "reviewer",

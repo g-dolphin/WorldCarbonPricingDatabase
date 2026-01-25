@@ -7,8 +7,8 @@ from .fetch import fetch_source
 def main() -> None:
     parser = argparse.ArgumentParser(prog="wcpd-upstream")
     parser.add_argument("command", choices=["fetch-all", "fetch-one"], help="What to run")
-    parser.add_argument("--sources", default="_raw/upstream/sources.csv", help="Path to sources.csv")
-    parser.add_argument("--raw-root", default="_raw/upstream", help="Root folder for raw artifacts")
+    parser.add_argument("--sources", default="_raw/sources/sources.csv", help="Path to sources.csv")
+    parser.add_argument("--raw-root", default="_raw/sources", help="Root folder for raw artifacts")
     parser.add_argument("--source-id", help="Source ID for fetch-one")
     args = parser.parse_args()
 
