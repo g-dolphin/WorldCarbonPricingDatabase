@@ -905,9 +905,9 @@ def scope():
     
     mex_qt_tax_ipcc_scope = {year:mex_qt_tax_ipcc_I for year in range(2023, 2025)}
     
-    mex_qt_tax_jur_scope = {year: mex_qt_tax_ipcc_I for year in range(2023, 2025)}
+    mex_qt_tax_jur_scope = {year: mex_qt_tax_jur_I for year in range(2023, 2025)}
     
-    mex_qt_tax_sources = {year: "web(MEX-QT[2022]), web(MEX-QT[2025]), db(WBCPD[2024])" for year in range(2023, 2025)}
+    mex_qt_tax_scope_sources = {year: "web(MEX-QT[2022]), web(MEX-QT[2025]), db(WBCPD[2024])" for year in range(2023, 2025)}
       
     #----------------------------------------------------------------------------
 
