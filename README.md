@@ -64,6 +64,8 @@ Contributions to the dataset are greatly appreciated. Please bear in mind the fo
 ! All files under the `_data` directory are the final dataset files and are not the ones to be updated !
 
 The files to be modified to update the dataset are found under the `_raw` and `_compilation` directories, respectively.
+For a concise, year-agnostic checklist of the update sequence and all `_raw` files involved, see [`docs/update_workflow.md`](docs/update_workflow.md).
+For instructions on using the Streamlit review app, see [`docs/review_app.md`](docs/review_app.md).
 
 If you wish to contribute to the development of the dataset, please follow these steps:
 1. Clone the repository to your local machine
