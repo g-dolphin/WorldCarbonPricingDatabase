@@ -15,7 +15,8 @@ class Artifact:
     artifact_id: str
     source_id: str
     jurisdiction_code: str
-    scheme_id: str
+    instrument_id: str
+    year: str
     local_path: str
 
 def load_text_artifacts(jurisdiction_filter: List[str] | None = None) -> List[Artifact]:
@@ -25,15 +26,19 @@ def load_text_artifacts(jurisdiction_filter: List[str] | None = None) -> List[Ar
     if not meta_path.exists():
         raise FileNotFoundError(f"Could not find raw_artifacts metadata at {meta_path}")
 
-    # Build source_id → instrument_id lookup from sources file
-    source_to_scheme: dict[str, str] = {}
+    # Build source_id → instrument_id/year lookup from sources file
+    source_to_instrument: dict[str, str] = {}
+    source_to_year: dict[str, str] = {}
     if SOURCES_PATH.exists():
         sources_df = pd.read_csv(SOURCES_PATH, dtype=str)
         for _, r in sources_df.iterrows():
             sid = str(r.get("source_id", "")).strip()
             inst = str(r.get("instrument_id", "")).strip()
+            year = str(r.get("year", "")).strip()
             if sid and inst:
-                source_to_scheme[sid] = inst
+                source_to_instrument[sid] = inst
+            if sid and year:
+                source_to_year[sid] = year
 
     with meta_path.open(newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
@@ -52,14 +57,16 @@ def load_text_artifacts(jurisdiction_filter: List[str] | None = None) -> List[Ar
 
             # Prefer instrument_id from meta; fall back to sources lookup
             instrument_meta = str(row.get("instrument_id", "")).strip()
-            scheme_id = instrument_meta or source_to_scheme.get(row["source_id"], "")
+            instrument_id = instrument_meta or source_to_instrument.get(row["source_id"], "")
+            year = source_to_year.get(row["source_id"], "")
 
             artifacts.append(
                 Artifact(
                     artifact_id=row["artifact_id"],
                     source_id=row["source_id"],
                     jurisdiction_code=juris,
-                    scheme_id=scheme_id,
+                    instrument_id=instrument_id,
+                    year=year,
                     local_path=str(text_rel),
                 )
             )
@@ -76,10 +83,11 @@ def run_extraction(jurisdiction_filter: List[str] | None = None) -> None:
         if new_file:
             writer.writerow([
                 "candidate_id",
-                "scheme_id",
+                "instrument_id",
                 "source_id",
                 "jurisdiction_code",
                 "artifact_id",
+                "year",
                 "field_name",
                 "value",          # generic string value (IPCC codes, dates, pretty rate string)
                 "numeric_value",  # numeric price/tax rate where applicable
@@ -110,10 +118,11 @@ def run_extraction(jurisdiction_filter: List[str] | None = None) -> None:
 
                 writer.writerow([
                     candidate_id,
-                    art.scheme_id,
+                    art.instrument_id,
                     art.source_id,
                     art.jurisdiction_code,
                     art.artifact_id,
+                    art.year,
                     m.field_name,
                     m.value,
                     "" if m.numeric_value is None else f"{m.numeric_value:.6g}",

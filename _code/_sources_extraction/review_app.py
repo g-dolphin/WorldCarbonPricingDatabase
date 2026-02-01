@@ -25,6 +25,7 @@ from streamlit.components.v1 import html as st_html
 RAW_ROOT = Path("_raw/sources")
 CAND_PATH = RAW_ROOT / "cp_candidates.csv"
 REVIEW_PATH = RAW_ROOT / "cp_review_state.csv"
+DISCOVERY_PATH = RAW_ROOT / "discovery_candidates.csv"
 META_PATH = RAW_ROOT / "meta" / "raw_artifacts.csv"
 SOURCES_PATH = RAW_ROOT / "sources.csv"  # or sources_master.csv later
 SCHEME_PATH = Path("_raw/_aux_files/scheme_description.csv")
@@ -33,6 +34,7 @@ RAW_PRICE_DIR = RAW_DB_ROOT / "price"
 RAW_SCOPE_DIR = RAW_DB_ROOT / "scope"
 RAW_REBATES_DIR = RAW_DB_ROOT / "priceRebates" / "tax"
 RAW_STRUCTURE_DIR = RAW_DB_ROOT / "_aux_files" / "wcpd_structure"
+DATASET_ROOT = Path("_dataset/data")
 
 GAS_OPTIONS = {
     "CO2": "CO2",
@@ -76,14 +78,37 @@ WCPD_DASHBOARD_LOGO = Path(
 # -------------------------------------------------------------------
 
 
+def _candidates_signature() -> tuple[int, int]:
+    if not CAND_PATH.exists():
+        return (0, 0)
+    stat = CAND_PATH.stat()
+    return (stat.st_mtime_ns, stat.st_size)
+
+
 @st.cache_data
-def load_candidates() -> pd.DataFrame:
+def load_candidates(cand_sig: tuple[int, int] | None = None) -> pd.DataFrame:
+    _ = cand_sig  # cache key only
     if not CAND_PATH.exists():
         return pd.DataFrame()
     df = pd.read_csv(CAND_PATH, dtype=str)
     if "numeric_value" in df.columns:
         df["numeric_value"] = pd.to_numeric(df["numeric_value"], errors="coerce")
     return df
+
+
+def _discovery_signature() -> tuple[int, int]:
+    if not DISCOVERY_PATH.exists():
+        return (0, 0)
+    stat = DISCOVERY_PATH.stat()
+    return (stat.st_mtime_ns, stat.st_size)
+
+
+@st.cache_data
+def load_discovery_candidates(sig: tuple[int, int] | None = None) -> pd.DataFrame:
+    _ = sig  # cache key only
+    if not DISCOVERY_PATH.exists():
+        return pd.DataFrame()
+    return pd.read_csv(DISCOVERY_PATH, dtype=str)
 
 
 @st.cache_data
@@ -154,6 +179,209 @@ def load_scheme_description() -> pd.DataFrame:
     if SCHEME_PATH.exists():
         return pd.read_csv(SCHEME_PATH, dtype=str)
     return pd.DataFrame()
+
+
+def _normalize_gas_token(value: str) -> str:
+    token = str(value).strip().upper()
+    if token in {"CO2", "CH4", "N2O"}:
+        return token
+    if "HFC" in token or "PFC" in token or "SF6" in token or "F-GAS" in token or "FGAS" in token:
+        return "F-GASES"
+    return ""
+
+
+@st.cache_data
+def load_expected_schemes_for_gas(gas_label: str) -> list[str]:
+    schemes = load_scheme_description()
+    if schemes.empty:
+        return []
+    gas_key = _normalize_gas_token(gas_label)
+    if not gas_key:
+        return []
+    out: list[str] = []
+    for _, row in schemes.iterrows():
+        scheme_id = str(row.get("scheme_id", "")).strip()
+        if not scheme_id:
+            continue
+        ghg_raw = str(row.get("ghg", "")).strip()
+        if not ghg_raw:
+            continue
+        tokens = [_normalize_gas_token(t) for t in ghg_raw.split(",")]
+        if gas_key in tokens:
+            out.append(scheme_id)
+    return sorted(set(out))
+
+
+@st.cache_data
+def load_scheme_type_map() -> dict[str, str]:
+    schemes = load_scheme_description()
+    if schemes.empty:
+        return {}
+    out: dict[str, str] = {}
+    for _, row in schemes.iterrows():
+        scheme_id = str(row.get("scheme_id", "")).strip()
+        scheme_type = str(row.get("scheme_type", "")).strip().lower()
+        if scheme_id and scheme_type:
+            out[scheme_id] = scheme_type
+    return out
+
+
+@st.cache_data
+def load_raw_price_presence(target_year: int, gas_label: str) -> set[str]:
+    present: set[str] = set()
+    if not RAW_PRICE_DIR.exists():
+        return present
+    target = str(target_year)
+    gas_key = str(gas_label).strip().upper()
+    scheme_type_map = load_scheme_type_map()
+    for path in RAW_PRICE_DIR.glob("*.csv"):
+        try:
+            df = pd.read_csv(path, dtype=str)
+        except Exception:
+            continue
+        if not {"scheme_id", "year"}.issubset(df.columns):
+            continue
+        has_rate = "rate" in df.columns
+        has_allowance = "allowance_price" in df.columns
+        year_mask = df["year"].astype(str).str.strip() == target
+        if not year_mask.any():
+            continue
+        if "ghg" in df.columns:
+            ghg_mask = df["ghg"].astype(str).str.strip().str.upper() == gas_key
+        else:
+            ghg_mask = pd.Series([True] * len(df), index=df.index)
+        matches = df.loc[year_mask & ghg_mask, "scheme_id"].dropna().astype(str)
+        for value in matches:
+            value = value.strip()
+            if value:
+                scheme_type = scheme_type_map.get(value)
+                if scheme_type == "tax" and not has_rate:
+                    continue
+                if scheme_type == "ets" and not has_allowance:
+                    continue
+                if scheme_type is None or scheme_type == "":
+                    if has_rate and not has_allowance:
+                        present.add(value)
+                        continue
+                    if has_allowance and not has_rate:
+                        present.add(value)
+                        continue
+                    if has_allowance and has_rate:
+                        present.add(value)
+                        continue
+                else:
+                    present.add(value)
+    return present
+
+
+@st.cache_data
+def load_raw_coverage_presence(target_year: int, gas_label: str) -> set[str]:
+    present: set[str] = set()
+    gas_dir = RAW_DB_ROOT / "coverageFactor" / GAS_OPTIONS.get(gas_label, "")
+    if not gas_dir.exists():
+        return present
+    target = str(target_year)
+    for path in gas_dir.glob("*.csv"):
+        try:
+            df = pd.read_csv(path, dtype=str)
+        except Exception:
+            continue
+        if not {"scheme_id", "year"}.issubset(df.columns):
+            continue
+        year_mask = df["year"].astype(str).str.strip() == target
+        if not year_mask.any():
+            continue
+        matches = df.loc[year_mask, "scheme_id"].dropna().astype(str)
+        for value in matches:
+            value = value.strip()
+            if value:
+                present.add(value)
+    return present
+
+
+def _scope_year_present(scope_map: dict, target_year: int) -> bool:
+    if not isinstance(scope_map, dict):
+        return False
+    return target_year in scope_map or str(target_year) in scope_map
+
+
+@st.cache_data
+def load_raw_scope_presence(target_year: int, gas_label: str) -> set[str]:
+    present: set[str] = set()
+    gas_key = GAS_OPTIONS.get(gas_label, "")
+    if not gas_key:
+        return present
+    scope_files = [
+        RAW_SCOPE_DIR / "ets" / f"ets_scope_{gas_key}.py",
+        RAW_SCOPE_DIR / "tax" / f"taxes_scope_{gas_key}.py",
+    ]
+    for path in scope_files:
+        if not path.exists():
+            continue
+        spec = importlib.util.spec_from_file_location(f"scope_{path.stem}", path)
+        if spec is None or spec.loader is None:
+            continue
+        module = importlib.util.module_from_spec(spec)
+        try:
+            spec.loader.exec_module(module)
+        except Exception:
+            continue
+        if not hasattr(module, "scope"):
+            continue
+        try:
+            data_block = module.scope()
+        except Exception:
+            continue
+        if not isinstance(data_block, dict):
+            continue
+        scheme_map = data_block.get("data")
+        if not isinstance(scheme_map, dict):
+            continue
+        for scheme_id, block in scheme_map.items():
+            if not isinstance(block, dict):
+                continue
+            if _scope_year_present(block.get("jurisdictions", {}), target_year):
+                present.add(str(scheme_id))
+                continue
+            if _scope_year_present(block.get("sectors", {}), target_year):
+                present.add(str(scheme_id))
+                continue
+            if _scope_year_present(block.get("fuels", {}), target_year):
+                present.add(str(scheme_id))
+                continue
+    return present
+
+
+@st.cache_data
+def load_dataset_presence(target_year: int, gas_label: str) -> set[str]:
+    present: set[str] = set()
+    gas_dir = DATASET_ROOT / GAS_OPTIONS.get(gas_label, "")
+    if not gas_dir.exists():
+        return present
+    target = str(target_year)
+    for subdir in ("national", "subnational"):
+        folder = gas_dir / subdir
+        if not folder.exists():
+            continue
+        for path in folder.glob("*.csv"):
+            try:
+                df = pd.read_csv(path, dtype=str)
+            except Exception:
+                continue
+            if "year" not in df.columns:
+                continue
+            year_mask = df["year"].astype(str).str.strip() == target
+            if not year_mask.any():
+                continue
+            for col in ("tax_id", "ets_id", "ets_2_id"):
+                if col not in df.columns:
+                    continue
+                values = df.loc[year_mask, col].dropna().astype(str)
+                for value in values:
+                    value = value.strip()
+                    if value and value.upper() not in {"NA", "NAN"}:
+                        present.add(value)
+    return present
 
 
 @st.cache_data
@@ -519,6 +747,8 @@ def render_run_status() -> None:
     # Basic file existence/size
     st.sidebar.markdown("**cp_candidates.csv**")
     st.sidebar.caption(_file_status(CAND_PATH))
+    if CAND_PATH.exists():
+        st.sidebar.caption(str(CAND_PATH.resolve()))
 
     st.sidebar.markdown("**cp_review_state.csv**")
     st.sidebar.caption(_file_status(REVIEW_PATH))
@@ -534,7 +764,7 @@ def render_run_status() -> None:
 
     # Row counts where possible
     try:
-        cand = load_candidates()
+        cand = load_candidates(_candidates_signature())
         if not cand.empty:
             st.sidebar.markdown(f"- Candidates: **{len(cand)}** rows")
     except Exception:
@@ -546,6 +776,9 @@ def render_run_status() -> None:
             st.sidebar.markdown(f"- Reviewed decisions: **{len(rev)}** rows")
     except Exception:
         pass
+    if st.sidebar.button("Refresh candidates"):
+        st.cache_data.clear()
+        st.rerun()
 
 
 # -------------------------------------------------------------------
@@ -554,9 +787,11 @@ def render_run_status() -> None:
 
 
 def merge_all_candidates() -> pd.DataFrame:
-    cand = load_candidates()
+    cand = load_candidates(_candidates_signature())
     if cand.empty:
         return cand
+    if "instrument_id" not in cand.columns and "scheme_id" in cand.columns:
+        cand["instrument_id"] = cand["scheme_id"]
 
     meta = load_meta()
     sources = load_sources()
@@ -581,19 +816,35 @@ def merge_all_candidates() -> pd.DataFrame:
                     "document_type",
                     "title",
                     "jurisdiction_code",
+                    "year",
                 ]
             ].drop_duplicates("source_id"),
             on="source_id",
             how="left",
             suffixes=("", "_src"),
         )
+        for col in ["instrument_id", "year", "jurisdiction_code"]:
+            src_col = f"{col}_src"
+            if src_col not in cand.columns:
+                continue
+            if col not in cand.columns:
+                cand[col] = cand[src_col]
+            else:
+                missing = cand[col].isna() | (cand[col].astype(str).str.strip() == "")
+                cand.loc[missing, col] = cand.loc[missing, src_col]
+            cand = cand.drop(columns=[src_col])
 
     # candidate → scheme_name / scheme_type
     if not schemes.empty and "scheme_id" in schemes.columns:
         scheme_cols = ["scheme_id", "scheme_name"]
         if "scheme_type" in schemes.columns:
             scheme_cols.append("scheme_type")
-        cand = cand.merge(schemes[scheme_cols], on="scheme_id", how="left")
+        cand = cand.merge(
+            schemes[scheme_cols],
+            left_on="instrument_id",
+            right_on="scheme_id",
+            how="left",
+        )
 
     # merge review state
     if not review.empty:
@@ -704,33 +955,16 @@ def review_view(reviewer: str) -> None:
 
     # Sidebar filters
     schemes = (
-        sorted(df["scheme_id"].dropna().unique().tolist())
-        if "scheme_id" in df.columns
+        sorted(df["instrument_id"].dropna().unique().tolist())
+        if "instrument_id" in df.columns
         else []
     )
-    sel_schemes = st.sidebar.multiselect("Carbon pricing mechanism (scheme_id)", schemes)
-
-    status_options = ["unreviewed", "accepted", "rejected", "skipped"]
-    sel_status = st.sidebar.multiselect(
-        "Status", status_options, default=["unreviewed"]
-    )
-
-    # Confidence
-    min_conf, max_conf = st.sidebar.slider(
-        "Confidence range", 0.0, 1.0, (0.0, 1.0), step=0.05
-    )
+    sel_schemes = st.sidebar.multiselect("Carbon pricing mechanism (instrument_id)", schemes)
 
     # Apply filters
     q = df.copy()
     if sel_schemes:
-        q = q[q["scheme_id"].isin(sel_schemes)]
-
-    def status_of(row):
-        if row.get("decision") in ("accepted", "rejected", "skipped"):
-            return row["decision"]
-        return "unreviewed"
-
-    q["status"] = q.apply(status_of, axis=1)
+        q = q[q["instrument_id"].isin(sel_schemes)]
 
     def variable_label(row: pd.Series) -> str:
         edited = str(row.get("edited_variable", "")).strip()
@@ -762,9 +996,37 @@ def review_view(reviewer: str) -> None:
     if sel_variables:
         q = q[q["variable_label"].isin(sel_variables)]
 
+    years = (
+        sorted(
+            y
+            for y in df["year"].dropna().astype(str).unique().tolist()
+            if y.strip()
+        )
+        if "year" in df.columns
+        else []
+    )
+    sel_years = st.sidebar.multiselect("Year", years)
+    if sel_years and "year" in q.columns:
+        q = q[q["year"].astype(str).isin(sel_years)]
+
+    def status_of(row):
+        if row.get("decision") in ("accepted", "rejected", "skipped"):
+            return row["decision"]
+        return "unreviewed"
+
+    q["status"] = q.apply(status_of, axis=1)
+
+    status_options = ["unreviewed", "accepted", "rejected", "skipped"]
+    sel_status = st.sidebar.multiselect(
+        "Status", status_options, default=["unreviewed"]
+    )
     if sel_status:
         q = q[q["status"].isin(sel_status)]
 
+    # Confidence
+    min_conf, max_conf = st.sidebar.slider(
+        "Confidence range", 0.0, 1.0, (0.0, 1.0), step=0.05
+    )
     if "confidence" in q.columns:
         conf = pd.to_numeric(q["confidence"], errors="coerce")
         q = q[(conf >= min_conf - 1e-9) & (conf <= max_conf + 1e-9)]
@@ -778,9 +1040,9 @@ def review_view(reviewer: str) -> None:
 
     q["carbon_pricing_mechanism"] = q.apply(
         lambda r: (
-            f"{_safe_text(r.get('scheme_name'))} – {_safe_text(r.get('scheme_id'))}"
+            f"{_safe_text(r.get('scheme_name'))} – {_safe_text(r.get('instrument_id'))}"
             if _safe_text(r.get("scheme_name"))
-            else _safe_text(r.get("scheme_id"))
+            else _safe_text(r.get("instrument_id"))
         ),
         axis=1,
     )
@@ -789,6 +1051,7 @@ def review_view(reviewer: str) -> None:
     top_left, top_right = st.columns([3, 2])
     with top_left:
         st.subheader("Candidates")
+        show_all_cols = st.checkbox("Show all columns", value=False)
         display_cols = [
             "candidate_id",
             "status",
@@ -801,7 +1064,10 @@ def review_view(reviewer: str) -> None:
             "confidence",
             "source_id",
         ]
-        display_cols = [c for c in display_cols if c in q.columns]
+        if show_all_cols:
+            display_cols = q.columns.tolist()
+        else:
+            display_cols = [c for c in display_cols if c in q.columns]
         st.dataframe(q[display_cols].reset_index(drop=True), height=320)
 
     review_entry_container = None
@@ -859,7 +1125,7 @@ def review_view(reviewer: str) -> None:
 
         st.markdown(
             f"**Candidate:** `{row['candidate_id']}`  |  "
-            f"**Carbon pricing mechanism:** `{row.get('scheme_id', '')}` – {row.get('scheme_name', '')}"
+            f"**Carbon pricing mechanism:** `{row.get('instrument_id', '')}` – {row.get('scheme_name', '')}"
         )
         raw_field = str(row.get("field_name", "") or "")
         if raw_field == "ipcc_category":
@@ -1123,6 +1389,162 @@ def source_manager_view() -> None:
         ].reset_index(drop=True),
         height=300,
     )
+
+    st.markdown("---")
+    st.subheader("Discovery candidates")
+    disc = load_discovery_candidates(_discovery_signature())
+    if disc.empty:
+        st.caption(
+            "No discovery candidates found. Run `python3 -m _code._sources_extraction.discover` "
+            "to populate _raw/sources/discovery_candidates.csv."
+        )
+    else:
+        dq = disc.copy()
+        if "year_guess" in dq.columns:
+            year_options = sorted(
+                y for y in dq["year_guess"].dropna().astype(str).unique().tolist() if y
+            )
+            sel_years = st.multiselect("Discovery year", year_options)
+            if sel_years:
+                dq = dq[dq["year_guess"].astype(str).isin(sel_years)]
+        if "method" in dq.columns:
+            method_options = sorted(
+                m for m in dq["method"].dropna().astype(str).unique().tolist() if m
+            )
+            sel_methods = st.multiselect("Discovery method", method_options)
+            if sel_methods:
+                dq = dq[dq["method"].astype(str).isin(sel_methods)]
+        if "jurisdiction_code" in dq.columns:
+            juris_opts = sorted(
+                j
+                for j in dq["jurisdiction_code"].dropna().astype(str).unique().tolist()
+                if j
+            )
+            sel_juris = st.multiselect("Discovery jurisdiction", juris_opts)
+            if sel_juris:
+                dq = dq[dq["jurisdiction_code"].astype(str).isin(sel_juris)]
+
+        display_disc_cols = [
+            "candidate_id",
+            "url",
+            "title",
+            "year_guess",
+            "jurisdiction_code",
+            "instrument_id",
+            "method",
+            "score",
+        ]
+        display_disc_cols = [c for c in display_disc_cols if c in dq.columns]
+        st.dataframe(dq[display_disc_cols].reset_index(drop=True), height=240)
+
+        def _suggest_source_id(
+            jurisdiction_code: str, year_guess: str, existing_ids: set[str]
+        ) -> str:
+            base = "DISC"
+            if jurisdiction_code:
+                base = f"{jurisdiction_code}-DISC"
+            if year_guess:
+                base = f"{base}-{year_guess}"
+            candidate = f"{base}-001"
+            counter = 1
+            while candidate in existing_ids:
+                counter += 1
+                candidate = f"{base}-{counter:03d}"
+            return candidate
+
+        def _default_doc_type(url: str) -> str:
+            return "official_publication" if url.lower().endswith(".pdf") else "webpage"
+
+        def _default_source_type(url: str) -> str:
+            return "pdf_direct" if url.lower().endswith(".pdf") else "html_page"
+
+        if "candidate_id" in dq.columns and not dq.empty:
+            selected_disc_id = st.selectbox(
+                "Select discovery candidate",
+                options=dq["candidate_id"].tolist(),
+            )
+            cand = dq[dq["candidate_id"] == selected_disc_id].iloc[0]
+            existing_ids = set(df["source_id"].dropna().astype(str).tolist())
+            with st.form("promote_discovery_candidate"):
+                st.markdown("**Promote candidate to sources.csv**")
+                source_id = st.text_input(
+                    "New source_id",
+                    value=_suggest_source_id(
+                        str(cand.get("jurisdiction_code", "")).strip(),
+                        str(cand.get("year_guess", "")).strip(),
+                        existing_ids,
+                    ),
+                )
+                juris_for_form = st.text_input(
+                    "Jurisdiction code", value=str(cand.get("jurisdiction_code", "")).strip()
+                )
+                instrument_id = st.text_input(
+                    "Instrument ID (scheme_id)",
+                    value=str(cand.get("instrument_id", "")).strip(),
+                )
+                url = st.text_input("URL", value=str(cand.get("url", "")).strip())
+                title = st.text_input(
+                    "Title / description",
+                    value=str(cand.get("title", "")).strip(),
+                )
+                year = st.text_input(
+                    "Year", value=str(cand.get("year_guess", "")).strip()
+                )
+                document_type = st.selectbox(
+                    "Document type",
+                    options=["legislation", "official_publication", "webpage", "report"],
+                    index=["legislation", "official_publication", "webpage", "report"].index(
+                        _default_doc_type(str(cand.get("url", "")))
+                    ),
+                )
+                source_type = st.selectbox(
+                    "Source type",
+                    options=["html_page", "pdf_direct", "html_index_pdf_links"],
+                    index=["html_page", "pdf_direct", "html_index_pdf_links"].index(
+                        _default_source_type(str(cand.get("url", "")))
+                    ),
+                )
+                active = st.checkbox("Active (include in fetch-all)", value=False)
+                submitted = st.form_submit_button("Add to sources")
+                if submitted:
+                    if not source_id:
+                        st.error("source_id is required.")
+                    elif not url:
+                        st.error("URL is required.")
+                    elif not juris_for_form:
+                        st.error("Jurisdiction code is required.")
+                    elif source_id in existing_ids:
+                        st.error("source_id already exists in sources.csv.")
+                    else:
+                        new_row = {
+                            "source_id": source_id,
+                            "jurisdiction_code": juris_for_form,
+                            "instrument_id": instrument_id,
+                            "document_type": document_type,
+                            "url": url,
+                            "source_type": source_type,
+                            "doc_pattern": "",
+                            "access_method": "requests",
+                            "parsing_strategy": "generic_html",
+                            "change_frequency": "ad_hoc",
+                            "active": "1" if active else "0",
+                            "title": title,
+                            "institution": "",
+                            "year": year,
+                            "citation_key": "",
+                            "notes": (
+                                f"discovery candidate {cand.get('candidate_id', '')} "
+                                f"(method={cand.get('method', '')}, seed={cand.get('source_seed', '')})"
+                            ),
+                        }
+                        df_cur = load_sources()
+                        df_cur = pd.concat(
+                            [df_cur, pd.DataFrame([new_row])], ignore_index=True
+                        )
+                        save_sources(df_cur)
+                        st.success(f"Added new source {source_id}")
+                        st.cache_data.clear()
+                        st.rerun()
 
     st.markdown("---")
     st.subheader("Add or edit a source")
@@ -1751,6 +2173,80 @@ def overlaps_view() -> None:
     st.caption("Overlap files are generated from scope/coverage factors; review only.")
 
 
+def gap_dashboard_view() -> None:
+    st.title("WCPD – Data Gaps Dashboard")
+    st.caption("Raw inputs and final dataset.")
+
+    gas_label = st.selectbox("Gas", options=list(GAS_OPTIONS.keys()), index=0)
+    current = dt.datetime.utcnow().year
+    target_year = int(
+        st.number_input("Target year", min_value=1990, max_value=current + 2, value=current)
+    )
+
+    expected = set(load_expected_schemes_for_gas(gas_label))
+
+    raw_price = load_raw_price_presence(target_year, gas_label)
+    raw_scope = load_raw_scope_presence(target_year, gas_label)
+    raw_cf = load_raw_coverage_presence(target_year, gas_label)
+    raw_observed = set().union(raw_price, raw_scope, raw_cf)
+
+    if not expected:
+        expected = set(raw_observed)
+
+    st.subheader("Raw data")
+    st.caption("Checks _raw/price, _raw/scope, _raw/coverageFactor for the target year.")
+
+    raw_rows: list[dict[str, Any]] = []
+    for data_type, present in [
+        ("price", raw_price),
+        ("scope", raw_scope),
+        ("coverageFactor", raw_cf),
+    ]:
+        missing = sorted(expected - present)
+        for scheme_id in missing:
+            raw_rows.append(
+                {
+                    "gas": gas_label,
+                    "data_type": data_type,
+                    "scheme_id": scheme_id,
+                    "year": target_year,
+                }
+            )
+
+    if raw_rows:
+        raw_df = pd.DataFrame(raw_rows)
+        st.dataframe(raw_df, height=360)
+        st.caption(
+            f"Missing counts — price: {len(expected - raw_price)}, "
+            f"scope: {len(expected - raw_scope)}, "
+            f"coverageFactor: {len(expected - raw_cf)}"
+        )
+    else:
+        st.success("No raw data gaps detected for the selected gas/year.")
+
+    st.subheader("Final dataset")
+    st.caption("Checks _dataset/data for tax/ETS IDs in the target year.")
+
+    final_present = load_dataset_presence(target_year, gas_label)
+    final_missing = sorted(expected - final_present)
+    if final_missing:
+        final_df = pd.DataFrame(
+            [
+                {
+                    "gas": gas_label,
+                    "data_type": "final_dataset",
+                    "scheme_id": scheme_id,
+                    "year": target_year,
+                }
+                for scheme_id in final_missing
+            ]
+        )
+        st.dataframe(final_df, height=360)
+        st.caption(f"Missing count — final dataset: {len(final_missing)}")
+    else:
+        st.success("No final dataset gaps detected for the selected gas/year.")
+
+
 def raw_editor_view(reviewer: str) -> None:
     st.title("WCPD – Raw Editor")
     st.caption(
@@ -1784,7 +2280,7 @@ def main():
     st.sidebar.title("Upstream Workbench")
     view = st.sidebar.radio(
         "View",
-        options=["Review candidates", "Manage sources", "Raw editor"],
+        options=["Review candidates", "Manage sources", "Raw editor", "Gap dashboard"],
         index=0,
     )
 
@@ -1794,6 +2290,8 @@ def main():
         review_view(reviewer=reviewer)
     elif view == "Manage sources":
         source_manager_view()
+    elif view == "Gap dashboard":
+        gap_dashboard_view()
     else:
         raw_editor_view(reviewer=reviewer)
 
