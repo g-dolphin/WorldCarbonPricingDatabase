@@ -40,6 +40,9 @@ def build_final_table() -> pd.DataFrame:
     if merged.empty:
         return merged
 
+    if "instrument_id" not in merged.columns and "scheme_id" in merged.columns:
+        merged["instrument_id"] = merged["scheme_id"]
+
     # Fill NaNs with empty strings for convenience
     for col in ["edited_value", "edited_numeric_value", "edited_currency", "edited_unit"]:
         if col not in merged.columns:
@@ -81,7 +84,7 @@ def build_final_table() -> pd.DataFrame:
     # Standardise some key columns (ensure they exist)
     for col in [
         "review_entry_id",
-        "scheme_id",
+        "instrument_id",
         "jurisdiction_code",
         "source_id",
         "artifact_id",
@@ -109,7 +112,7 @@ def write_prices(df: pd.DataFrame) -> None:
 
     cols = [
         "review_entry_id",
-        "scheme_id",
+        "instrument_id",
         "jurisdiction_code",
         "source_id",
         "artifact_id",
@@ -140,7 +143,7 @@ def write_start_dates(df: pd.DataFrame) -> None:
 
     cols = [
         "review_entry_id",
-        "scheme_id",
+        "instrument_id",
         "jurisdiction_code",
         "source_id",
         "artifact_id",
@@ -168,7 +171,7 @@ def write_ipcc(df: pd.DataFrame) -> None:
 
     cols = [
         "review_entry_id",
-        "scheme_id",
+        "instrument_id",
         "jurisdiction_code",
         "source_id",
         "artifact_id",
