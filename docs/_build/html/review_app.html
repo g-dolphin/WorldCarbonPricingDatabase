@@ -1,0 +1,261 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WCPD Review App (Streamlit) – User Guide &mdash; World Carbon Pricing Database 0.1 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=2709fde1"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            World Carbon Pricing Database
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="architecture_compilation.html">Compilation Architecture (<code class="docutils literal notranslate"><span class="pre">_code/_compilation</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="aux_scripts.html">Auxiliary Scripts (<code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="industry_mapping.html">Industry Mapping (<code class="docutils literal notranslate"><span class="pre">_code/_industryMapping</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="api_reference.html">API Reference (Draft)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="usage.html">Usage Guide</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">World Carbon Pricing Database</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">WCPD Review App (Streamlit) – User Guide</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/review_app.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="wcpd-review-app-streamlit-user-guide">
+<h1>WCPD Review App (Streamlit) – User Guide<a class="headerlink" href="#wcpd-review-app-streamlit-user-guide" title="Link to this heading"></a></h1>
+<p>This document describes the Streamlit review app used to manage upstream sources and edit raw data files safely.</p>
+<section id="location">
+<h2>Location<a class="headerlink" href="#location" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>App: <code class="docutils literal notranslate"><span class="pre">_code/_sources_extraction/review_app.py</span></code></p></li>
+<li><p>Launch (local): <code class="docutils literal notranslate"><span class="pre">streamlit</span> <span class="pre">run</span> <span class="pre">_code/_sources_extraction/review_app.py</span></code></p></li>
+</ul>
+</section>
+<section id="what-the-app-does">
+<h2>What the app does<a class="headerlink" href="#what-the-app-does" title="Link to this heading"></a></h2>
+<p>The app is split into three main areas:</p>
+<ol class="arabic simple">
+<li><p><strong>Review candidates</strong>: review extracted candidates from fetched sources.</p></li>
+<li><p><strong>Manage sources</strong>: edit the upstream sources registry for the fetcher and promote discovery candidates.</p></li>
+<li><p><strong>Raw editor</strong>: write updates directly into raw data files (prices, scope, rebates) using timestamped output files for safety.</p></li>
+</ol>
+<p><strong>How Review Candidates connects to Raw Editor</strong><br />
+Reviewed values are saved to <code class="docutils literal notranslate"><span class="pre">_raw/sources/cp_review_state.csv</span></code>. To turn those decisions into structured outputs, run <code class="docutils literal notranslate"><span class="pre">_code/_sources_extraction/apply_review.py</span></code>, which writes:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/upstream_prices.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/upstream_start_dates.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/upstream_coverage_ipcc.csv</span></code></p></li>
+</ul>
+<p>These outputs include the reviewed <strong>GHG</strong>, <strong>fuel/product</strong>, and <strong>IPCC</strong> selections (when provided). They are <strong>inputs for manual encoding</strong> in the Raw editor (prices/scope/rebates). The app does not auto-write to <code class="docutils literal notranslate"><span class="pre">_raw/price</span></code> or <code class="docutils literal notranslate"><span class="pre">_raw/scope</span></code> from review decisions.</p>
+</section>
+<section id="data-paths-used-by-the-app">
+<h2>Data paths used by the app<a class="headerlink" href="#data-paths-used-by-the-app" title="Link to this heading"></a></h2>
+<p><strong>Upstream extraction</strong> (<code class="docutils literal notranslate"><span class="pre">_raw/sources/</span></code>)</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">cp_candidates.csv</span></code>: extracted candidates for review.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">cp_review_state.csv</span></code>: review decisions and edits.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">sources.csv</span></code>: upstream source registry.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">discovery_candidates.csv</span></code>: candidate URLs found by discovery (optional).</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">meta/raw_artifacts.csv</span></code>: log of fetched artifacts.</p></li>
+</ul>
+<p><strong>Source discovery inputs (optional)</strong></p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/discovery_seeds.csv</span></code>: extra seed URLs for discovery.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/discovery_queries.csv</span></code>: search queries for SerpAPI (if enabled).</p></li>
+</ul>
+<p><strong>Scheme metadata</strong></p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/_aux_files/scheme_description.csv</span></code>: scheme list and metadata.</p></li>
+</ul>
+<p><strong>Raw data files edited by the app</strong></p>
+<ul class="simple">
+<li><p>Prices: <code class="docutils literal notranslate"><span class="pre">_raw/price/*.csv</span></code></p></li>
+<li><p>Scope (ETS): <code class="docutils literal notranslate"><span class="pre">_raw/scope/ets/ets_scope_&lt;GAS&gt;.py</span></code></p></li>
+<li><p>Scope (Taxes): <code class="docutils literal notranslate"><span class="pre">_raw/scope/tax/taxes_scope_&lt;GAS&gt;.py</span></code></p></li>
+<li><p>Price rebates: <code class="docutils literal notranslate"><span class="pre">_raw/priceRebates/tax/_price_exemptions_tax_&lt;GAS&gt;.py</span></code></p></li>
+</ul>
+<p><strong>Review-only</strong></p>
+<ul class="simple">
+<li><p>Coverage factors: <code class="docutils literal notranslate"><span class="pre">_raw/coverageFactor/&lt;GAS&gt;/*.csv</span></code></p></li>
+<li><p>Overlaps: <code class="docutils literal notranslate"><span class="pre">_raw/overlap/overlap_mechanisms_&lt;GAS&gt;.csv</span></code></p></li>
+</ul>
+</section>
+<section id="how-to-use-the-app">
+<h2>How to use the app<a class="headerlink" href="#how-to-use-the-app" title="Link to this heading"></a></h2>
+<section id="review-candidates">
+<h3>1) Review candidates<a class="headerlink" href="#review-candidates" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><strong>Input</strong>: <code class="docutils literal notranslate"><span class="pre">_raw/sources/cp_candidates.csv</span></code></p></li>
+<li><p><strong>Output</strong>: <code class="docutils literal notranslate"><span class="pre">_raw/sources/cp_review_state.csv</span></code></p></li>
+<li><p>Use filters for jurisdiction, scheme, field, and confidence.</p></li>
+<li><p>Save decisions as accepted/rejected/skipped. Edits are stored per candidate.</p></li>
+<li><p>Use the <strong>Applies to</strong> selectors (GHG, fuel/product, IPCC category) to scope each accepted value.</p></li>
+</ul>
+</section>
+<section id="manage-sources">
+<h3>2) Manage sources<a class="headerlink" href="#manage-sources" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><strong>Input/Output</strong>: <code class="docutils literal notranslate"><span class="pre">_raw/sources/sources.csv</span></code></p></li>
+<li><p>Add or edit upstream sources used by the fetcher.</p></li>
+<li><p>URL validation is optional.</p></li>
+<li><p><strong>Discovery candidates</strong>: review <code class="docutils literal notranslate"><span class="pre">_raw/sources/discovery_candidates.csv</span></code> and promote rows into <code class="docutils literal notranslate"><span class="pre">sources.csv</span></code>.</p></li>
+</ul>
+</section>
+<section id="a-source-discovery-optional-upstream-of-manage-sources">
+<h3>2a) Source discovery (optional, upstream of Manage sources)<a class="headerlink" href="#a-source-discovery-optional-upstream-of-manage-sources" title="Link to this heading"></a></h3>
+<p>Run discovery to generate <code class="docutils literal notranslate"><span class="pre">discovery_candidates.csv</span></code>:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">python3</span> <span class="pre">-m</span> <span class="pre">_code._sources_extraction.discover</span> <span class="pre">--years</span> <span class="pre">2025,2026</span></code></p></li>
+<li><p>With SerpAPI (optional): <code class="docutils literal notranslate"><span class="pre">--search-provider</span> <span class="pre">serpapi</span></code> (uses <code class="docutils literal notranslate"><span class="pre">SERPAPI_KEY</span></code>)</p></li>
+</ul>
+</section>
+<section id="raw-editor">
+<h3>3) Raw editor<a class="headerlink" href="#raw-editor" title="Link to this heading"></a></h3>
+<p>The raw editor writes new files with timestamped names (YYYYMMDD) and provides a <strong>promote</strong> flow to replace the canonical file.</p>
+<section id="prices">
+<h4>Prices<a class="headerlink" href="#prices" title="Link to this heading"></a></h4>
+<ul class="simple">
+<li><p><strong>Edits</strong>: <code class="docutils literal notranslate"><span class="pre">_raw/price/&lt;scheme_id&gt;_prices.csv</span></code></p></li>
+<li><p><strong>Key fields</strong>: <code class="docutils literal notranslate"><span class="pre">scheme_id</span></code>, <code class="docutils literal notranslate"><span class="pre">year</span></code>, <code class="docutils literal notranslate"><span class="pre">ghg</span></code>, <code class="docutils literal notranslate"><span class="pre">product</span></code>, <code class="docutils literal notranslate"><span class="pre">rate</span></code>, <code class="docutils literal notranslate"><span class="pre">currency_code</span></code>, <code class="docutils literal notranslate"><span class="pre">source</span></code>, <code class="docutils literal notranslate"><span class="pre">comment</span></code></p></li>
+<li><p>The app warns only when a <strong>non-empty</strong> existing entry conflicts with the new value.</p></li>
+</ul>
+</section>
+<section id="scope-ets-and-taxes">
+<h4>Scope (ETS and Taxes)<a class="headerlink" href="#scope-ets-and-taxes" title="Link to this heading"></a></h4>
+<ul class="simple">
+<li><p><strong>Edits</strong>:</p>
+<ul>
+<li><p>ETS: <code class="docutils literal notranslate"><span class="pre">_raw/scope/ets/ets_scope_&lt;GAS&gt;.py</span></code></p></li>
+<li><p>Taxes: <code class="docutils literal notranslate"><span class="pre">_raw/scope/tax/taxes_scope_&lt;GAS&gt;.py</span></code></p></li>
+</ul>
+</li>
+<li><p>Per-year UI with multi-select <strong>IPCC codes</strong> and <strong>fuels</strong> (fuels only for taxes).</p></li>
+<li><p><strong>Scheme type</strong> is determined by where the <code class="docutils literal notranslate"><span class="pre">scheme_id</span></code> exists (ETS or tax scope file).</p></li>
+</ul>
+</section>
+<section id="price-rebates-exemptions">
+<h4>Price rebates / exemptions<a class="headerlink" href="#price-rebates-exemptions" title="Link to this heading"></a></h4>
+<ul class="simple">
+<li><p><strong>Edits</strong>: <code class="docutils literal notranslate"><span class="pre">_raw/priceRebates/tax/_price_exemptions_tax_&lt;GAS&gt;.py</span></code></p></li>
+<li><p>Per-year UI for jurisdiction, IPCC, fuels, and rebate value.</p></li>
+<li><p>New entries are appended as new exemption blocks; a warning appears on conflicts.</p></li>
+</ul>
+</section>
+<section id="coverage-factors-review-only">
+<h4>Coverage factors (review-only)<a class="headerlink" href="#coverage-factors-review-only" title="Link to this heading"></a></h4>
+<ul class="simple">
+<li><p>Displays the current CSV contents from <code class="docutils literal notranslate"><span class="pre">_raw/coverageFactor/&lt;GAS&gt;</span></code>.</p></li>
+</ul>
+</section>
+<section id="overlaps-review-only">
+<h4>Overlaps (review-only)<a class="headerlink" href="#overlaps-review-only" title="Link to this heading"></a></h4>
+<ul class="simple">
+<li><p>Displays <code class="docutils literal notranslate"><span class="pre">_raw/overlap/overlap_mechanisms_&lt;GAS&gt;.csv</span></code> for validation.</p></li>
+</ul>
+</section>
+</section>
+</section>
+<section id="promote-workflow-safe-writes">
+<h2>Promote workflow (safe writes)<a class="headerlink" href="#promote-workflow-safe-writes" title="Link to this heading"></a></h2>
+<p>When you write from the Raw editor:</p>
+<ol class="arabic simple">
+<li><p>The app generates a <strong>timestamped</strong> file (e.g., <code class="docutils literal notranslate"><span class="pre">ets_scope_CO2_20250308.py</span></code>).</p></li>
+<li><p>The canonical file is unchanged.</p></li>
+<li><p>Use the <strong>Promote timestamped file</strong> section to replace the canonical file.</p></li>
+<li><p>A <strong>diff preview</strong> is shown before promotion.</p></li>
+</ol>
+</section>
+<section id="overwrite-warnings">
+<h2>Overwrite warnings<a class="headerlink" href="#overwrite-warnings" title="Link to this heading"></a></h2>
+<p>Warnings appear only if the existing value is <strong>non-empty</strong> and differs from the new value. A confirmation checkbox is required before overwriting.</p>
+</section>
+<section id="notes">
+<h2>Notes<a class="headerlink" href="#notes" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Jurisdiction lists are treated as user-reviewed: they are editable, but expected to change less frequently than other parameters.</p></li>
+<li><p>Overlap files are derived from scope/coverage factors; edits should be done upstream in scope/coverage factor inputs, not by editing overlap CSVs directly.</p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, Geoffroy Dolphin.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -19,7 +19,7 @@
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Compilation Architecture (_code/_compilation)" href="architecture_compilation.html" /> 
+    <link rel="next" title="Overview" href="overview.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -43,11 +43,14 @@
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
               <p class="caption" role="heading"><span class="caption-text">Contents</span></p>
 <ul>
+<li class="toctree-l1"><a class="reference internal" href="overview.html">Overview</a></li>
 <li class="toctree-l1"><a class="reference internal" href="architecture_compilation.html">Compilation Architecture (<code class="docutils literal notranslate"><span class="pre">_code/_compilation</span></code>)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="aux_scripts.html">Auxiliary Scripts (<code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts</span></code>)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="industry_mapping.html">Industry Mapping (<code class="docutils literal notranslate"><span class="pre">_code/_industryMapping</span></code>)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="api_reference.html">API Reference (Draft)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="usage.html">Usage Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="review_app.html">WCPD Review App (Streamlit) – User Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="update_workflow.html">WCPD update workflow (any year)</a></li>
 </ul>
 
         </div>
@@ -80,6 +83,12 @@
 <div class="toctree-wrapper compound">
 <p class="caption" role="heading"><span class="caption-text">Contents</span></p>
 <ul>
+<li class="toctree-l1"><a class="reference internal" href="overview.html">Overview</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="overview.html#high-level-flow">High-level flow</a></li>
+<li class="toctree-l2"><a class="reference internal" href="overview.html#key-locations">Key locations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="overview.html#diagram">Diagram</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="architecture_compilation.html">Compilation Architecture (<code class="docutils literal notranslate"><span class="pre">_code/_compilation</span></code>)</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="architecture_compilation.html#modules">Modules</a></li>
 </ul>
@@ -117,6 +126,23 @@
 <li class="toctree-l2"><a class="reference internal" href="usage.html#using-these-docs-with-sphinx">5. Using these docs with Sphinx</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="review_app.html">WCPD Review App (Streamlit) – User Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="review_app.html#location">Location</a></li>
+<li class="toctree-l2"><a class="reference internal" href="review_app.html#what-the-app-does">What the app does</a></li>
+<li class="toctree-l2"><a class="reference internal" href="review_app.html#data-paths-used-by-the-app">Data paths used by the app</a></li>
+<li class="toctree-l2"><a class="reference internal" href="review_app.html#how-to-use-the-app">How to use the app</a></li>
+<li class="toctree-l2"><a class="reference internal" href="review_app.html#promote-workflow-safe-writes">Promote workflow (safe writes)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="review_app.html#overwrite-warnings">Overwrite warnings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="review_app.html#notes">Notes</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="update_workflow.html">WCPD update workflow (any year)</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="update_workflow.html#discover-potential-sources-optional-human-in-the-loop">0) Discover potential sources (optional, human-in-the-loop)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="update_workflow.html#update-upstream-sources-registry-artifacts">1) Update upstream sources (registry + artifacts)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="update_workflow.html#run-extraction-review-candidate-pipeline">2) Run extraction + review (candidate pipeline)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="update_workflow.html#encode-updates-into-the-raw-data-files">3) Encode updates into the raw data files</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </section>
@@ -125,13 +151,13 @@
            </div>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
-        <a href="architecture_compilation.html" class="btn btn-neutral float-right" title="Compilation Architecture (_code/_compilation)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="overview.html" class="btn btn-neutral float-right" title="Overview" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>
 
   <div role="contentinfo">
-    <p>&#169; Copyright 2025, Geoffroy Dolphin.</p>
+    <p>&#169; Copyright 2026, Geoffroy Dolphin.</p>
   </div>
 
   Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a

@@ -1,0 +1,179 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WCPD update workflow (any year) &mdash; World Carbon Pricing Database 0.1 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=2709fde1"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            World Carbon Pricing Database
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="architecture_compilation.html">Compilation Architecture (<code class="docutils literal notranslate"><span class="pre">_code/_compilation</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="aux_scripts.html">Auxiliary Scripts (<code class="docutils literal notranslate"><span class="pre">_code/_aux_scripts</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="industry_mapping.html">Industry Mapping (<code class="docutils literal notranslate"><span class="pre">_code/_industryMapping</span></code>)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="api_reference.html">API Reference (Draft)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="usage.html">Usage Guide</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">World Carbon Pricing Database</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">WCPD update workflow (any year)</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/update_workflow.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="wcpd-update-workflow-any-year">
+<h1>WCPD update workflow (any year)<a class="headerlink" href="#wcpd-update-workflow-any-year" title="Link to this heading"></a></h1>
+<p>This is a short, year-agnostic checklist for updating the dataset. It focuses on the files you edit under <code class="docutils literal notranslate"><span class="pre">_raw/</span></code>.</p>
+<section id="discover-potential-sources-optional-human-in-the-loop">
+<h2>0) Discover potential sources (optional, human-in-the-loop)<a class="headerlink" href="#discover-potential-sources-optional-human-in-the-loop" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_code/_sources_extraction/discover.py</span></code> (sitemap/page-link/search API discovery)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/discovery_candidates.csv</span></code> (candidate URLs for review)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/discovery_seeds.csv</span></code> (optional extra seed URLs)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/discovery_queries.csv</span></code> (optional search queries for SerpAPI)</p></li>
+<li><p>Review and promote discovery candidates in <strong>Manage sources</strong> (adds to <code class="docutils literal notranslate"><span class="pre">sources.csv</span></code>)</p></li>
+</ul>
+</section>
+<section id="update-upstream-sources-registry-artifacts">
+<h2>1) Update upstream sources (registry + artifacts)<a class="headerlink" href="#update-upstream-sources-registry-artifacts" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/sources.csv</span></code> (source registry for fetcher/app)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/sources_bibliography.csv</span></code> (references for the sources)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/sources_schema.csv</span></code> (schema/fields for the sources file)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/html/</span></code> and <code class="docutils literal notranslate"><span class="pre">_raw/sources/pdf/</span></code> (fetched artifacts)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/text/</span></code> (parsed text from artifacts)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/meta/raw_artifacts.csv</span></code> (artifact log)</p></li>
+</ul>
+</section>
+<section id="run-extraction-review-candidate-pipeline">
+<h2>2) Run extraction + review (candidate pipeline)<a class="headerlink" href="#run-extraction-review-candidate-pipeline" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/cp_candidates.csv</span></code> (extracted candidates)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/cp_review_state.csv</span></code> (review decisions)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/upstream_prices.csv</span></code> (accepted price candidates)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/upstream_start_dates.csv</span></code> (accepted start-date candidates)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/sources/upstream_coverage_ipcc.csv</span></code> (accepted IPCC coverage candidates)</p></li>
+</ul>
+</section>
+<section id="encode-updates-into-the-raw-data-files">
+<h2>3) Encode updates into the raw data files<a class="headerlink" href="#encode-updates-into-the-raw-data-files" title="Link to this heading"></a></h2>
+<p>These are the files you ultimately update to move the dataset forward for the target year.</p>
+<p>Prices and tax rates</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/price/*.csv</span></code> (per-instrument price time series, incl. taxes and ETS prices)</p></li>
+</ul>
+<p>Coverage / scope (what is covered)</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/scope/ets/ets_scope_CO2.py</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/scope/ets/ets_scope_CH4.py</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/scope/ets/ets_scope_N2O.py</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/scope/ets/ets_scope_Fgases.py</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/scope/ets/ets_scope_exceptions.py</span></code></p></li>
+</ul>
+<p>Coverage factors (if partial coverage or exemptions require it)</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/coverageFactor/CO2/*.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/coverageFactor/CH4/*.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/coverageFactor/N2O/*.csv</span></code></p></li>
+</ul>
+<p>Price rebates / exemptions</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/priceRebates/tax/_price_exemptions_tax_CO2.py</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/priceRebates/tax/_price_exemptions_tax_CH4.py</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/priceRebates/tax/_price_exemptions_tax_N2O.py</span></code></p></li>
+</ul>
+<p>Overlaps between mechanisms (if new overlaps emerge)</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/overlap/overlap_mechanisms_CO2.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/overlap/overlap_mechanisms_CH4.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/overlap/overlap_mechanisms_N2O.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/overlap/overlap_mechanisms_F-GASES.csv</span></code></p></li>
+</ul>
+<p>Auxiliary scheme metadata (only if adding or renaming schemes)</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">_raw/_aux_files/scheme_description.csv</span></code></p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, Geoffroy Dolphin.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
