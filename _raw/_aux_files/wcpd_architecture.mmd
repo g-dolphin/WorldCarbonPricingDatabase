@@ -15,8 +15,10 @@ flowchart TB
             W1d["review_app.py\n(Streamlit review UI)"]
             W1e["apply_review.py\n(apply decisions -> upstream CSV outputs)"]
             W1f["cli.py\n(command entrypoint)"]
+            W1g["discover.py\n(discover source candidates)"]
+            W1h["SerpAPI\n(optional search API)"]
 
-            subgraph W1o["Upstream files written under _raw/sources/"]
+            subgraph W1o["Upstream files under _raw/sources/ (inputs/outputs)"]
                 direction TB
                 W1o1["_raw/sources/cp_candidates.csv"]
                 W1o2["_raw/sources/cp_review_state.csv"]
@@ -25,6 +27,9 @@ flowchart TB
                 W1o5["_raw/sources/upstream_coverage_ipcc.csv"]
                 W1o6["_raw/sources/sources.csv\n(or _raw/upstream/sources.csv)"]
                 W1o7["_raw/sources/meta/raw_artifacts.csv"]
+                W1o8["_raw/sources/discovery_candidates.csv"]
+                W1o9["_raw/sources/discovery_seeds.csv"]
+                W1o10["_raw/sources/discovery_queries.csv"]
             end
         end
 
@@ -106,13 +111,19 @@ flowchart TB
     %% ============================================================
 
     %% WCPD upstream chain
+    W1o6 --> W1a
     W1a --> W1b --> W1o1
     W1d --> W1o2
     W1e --> W1o3
     W1e --> W1o4
     W1e --> W1o5
     W1a --> W1o7
-    W1b --> W1o6
+    W1g --> W1o8
+    W1o8 --> W1d
+    W1o9 --> W1g
+    W1o10 --> W1g
+    W1h --> W1g
+    W1d --> W1o6
 
     %% WCPD compilation inputs
     W1o3 --> W2b
