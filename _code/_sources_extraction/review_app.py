@@ -6,8 +6,10 @@ import copy
 import datetime as dt
 import difflib
 import importlib.util
+import json
 import os
 import pprint
+import subprocess
 import base64
 import uuid
 from pathlib import Path
@@ -35,6 +37,7 @@ RAW_SCOPE_DIR = RAW_DB_ROOT / "scope"
 RAW_REBATES_DIR = RAW_DB_ROOT / "priceRebates" / "tax"
 RAW_STRUCTURE_DIR = RAW_DB_ROOT / "_aux_files" / "wcpd_structure"
 DATASET_ROOT = Path("_dataset/data")
+ETS_PRICE_UTIL_PATH = Path("_code/_compilation/_utils/ets_prices.py")
 
 GAS_OPTIONS = {
     "CO2": "CO2",
@@ -42,6 +45,8 @@ GAS_OPTIONS = {
     "N2O": "N2O",
     "F-GASES": "Fgases",
 }
+
+SERPAPI_KEY_ENV = "SERPAPI_KEY"
 
 REQUIRED_SOURCE_COLUMNS = [
     "source_id",
@@ -69,9 +74,19 @@ REQUIRED_SOURCE_COLUMNS = [
     "next_check_due",
 ]
 
-WCPD_DASHBOARD_LOGO = Path(
-    "/Users/geoffroydolphin/GitHub/wcpd_dashboard/frontend/public/wcpd_new_2_tm.png"
-)
+def _resolve_logo_path() -> Path | None:
+    candidates = [
+        Path("/Users/geoffroydolphin/GitHub/wcpd_dashboard/frontend/public/wcpd_new_2_tm.png"),
+        Path("/Users/geoffroydolphin/GitHub/wcpd-dashboard/frontend/public/wcpd_new_2_tm.png"),
+        Path("/Users/geoffroydolphin/GitHub/wcpd-dashboard/frontend/public/wcpd_new_2.png"),
+    ]
+    for path in candidates:
+        if path.exists():
+            return path
+    return None
+
+
+WCPD_DASHBOARD_LOGO = _resolve_logo_path()
 
 # -------------------------------------------------------------------
 # Shared loaders (cached)
@@ -227,13 +242,93 @@ def load_scheme_type_map() -> dict[str, str]:
 
 
 @st.cache_data
-def load_raw_price_presence(target_year: int, gas_label: str) -> set[str]:
+def load_instrument_options() -> list[str]:
+    schemes = load_schemes()
+    if schemes.empty or "scheme_id" not in schemes.columns:
+        return []
+    values = schemes["scheme_id"].dropna().astype(str).tolist()
+    return sorted({v.strip() for v in values if v.strip()})
+
+
+@st.cache_data
+def _icap_price_signature() -> tuple[int, int, int]:
+    if not RAW_PRICE_DIR.exists():
+        return (0, 0, 0)
+    icap_dir = RAW_PRICE_DIR / "_icap"
+    if not icap_dir.exists():
+        return (0, 0, 0)
+    csv_files = sorted(icap_dir.glob("*.csv"))
+    if not csv_files:
+        return (0, 0, 0)
+    latest = max(csv_files, key=lambda p: p.stat().st_mtime_ns)
+    stat = latest.stat()
+    return (stat.st_mtime_ns, stat.st_size, len(csv_files))
+
+
+@st.cache_data
+def load_raw_icap_price_presence(
+    target_year: int, gas_label: str, icap_sig: tuple[int, int, int] | None = None
+) -> set[str]:
+    _ = icap_sig  # cache key only
+    present: set[str] = set()
+    if not ETS_PRICE_UTIL_PATH.exists():
+        return present
+    try:
+        spec = importlib.util.spec_from_file_location("ets_prices_util", ETS_PRICE_UTIL_PATH)
+        if spec is None or spec.loader is None:
+            return present
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        if not hasattr(module, "load_ets_prices"):
+            return present
+        extra_df = module.load_ets_prices(str(RAW_PRICE_DIR))
+        if not isinstance(extra_df, pd.DataFrame):
+            return present
+        if not {"scheme_id", "year"}.issubset(extra_df.columns):
+            return present
+        target = str(target_year)
+        gas_key = str(gas_label).strip().upper()
+        year_mask = extra_df["year"].astype(str).str.strip() == target
+        if "ghg" in extra_df.columns:
+            ghg_mask = (
+                extra_df["ghg"]
+                .astype(str)
+                .str.strip()
+                .str.upper()
+                == gas_key
+            )
+        else:
+            ghg_mask = pd.Series([True] * len(extra_df), index=extra_df.index)
+        if "allowance_price" in extra_df.columns:
+            price_mask = extra_df["allowance_price"].notna()
+        else:
+            price_mask = pd.Series([True] * len(extra_df), index=extra_df.index)
+        matches = extra_df.loc[
+            year_mask & ghg_mask & price_mask, "scheme_id"
+        ].dropna().astype(str)
+        for value in matches:
+            value = value.strip()
+            if value:
+                present.add(value)
+    except Exception:
+        return present
+    return present
+
+
+@st.cache_data
+def load_raw_price_presence(
+    target_year: int, gas_label: str, icap_sig: tuple[int, int, int] | None = None
+) -> set[str]:
+    _ = icap_sig  # cache key only
     present: set[str] = set()
     if not RAW_PRICE_DIR.exists():
         return present
     target = str(target_year)
     gas_key = str(gas_label).strip().upper()
     scheme_type_map = load_scheme_type_map()
+    # ------------------------------------------------------------------
+    # Standard raw price CSVs (flat files under _raw/price)
+    # ------------------------------------------------------------------
     for path in RAW_PRICE_DIR.glob("*.csv"):
         try:
             df = pd.read_csv(path, dtype=str)
@@ -271,6 +366,11 @@ def load_raw_price_presence(target_year: int, gas_label: str) -> set[str]:
                         continue
                 else:
                     present.add(value)
+
+    # ------------------------------------------------------------------
+    # ICAP ETS prices (processed via compilation utils to assign scheme_id)
+    # ------------------------------------------------------------------
+    present |= load_raw_icap_price_presence(target_year, gas_label, icap_sig)
     return present
 
 
@@ -385,6 +485,80 @@ def load_dataset_presence(target_year: int, gas_label: str) -> set[str]:
 
 
 @st.cache_data
+def load_dataset_scheme_ids() -> set[str]:
+    present: set[str] = set()
+    if not DATASET_ROOT.exists():
+        return present
+    for gas_dir in DATASET_ROOT.iterdir():
+        if not gas_dir.is_dir():
+            continue
+        for subdir in ("national", "subnational"):
+            folder = gas_dir / subdir
+            if not folder.exists():
+                continue
+            for path in folder.glob("*.csv"):
+                try:
+                    df = pd.read_csv(path, dtype=str, usecols=["tax_id", "ets_id", "ets_2_id"])
+                except Exception:
+                    continue
+                for col in ("tax_id", "ets_id", "ets_2_id"):
+                    if col not in df.columns:
+                        continue
+                    values = df[col].dropna().astype(str)
+                    for value in values:
+                        value = value.strip()
+                        if value and value.upper() not in {"NA", "NAN"}:
+                            present.add(value)
+    return present
+
+
+def _serpapi_search(
+    query: str,
+    api_key: str,
+    num_results: int,
+    hl: str | None,
+    gl: str | None,
+) -> list[dict[str, str]]:
+    params = {
+        "engine": "google",
+        "q": query,
+        "api_key": api_key,
+        "num": num_results,
+    }
+    if hl:
+        params["hl"] = hl
+    if gl:
+        params["gl"] = gl
+    resp = httpx.get("https://serpapi.com/search.json", params=params, timeout=30)
+    resp.raise_for_status()
+    data = resp.json()
+    results: list[dict[str, str]] = []
+    for item in data.get("organic_results", []) or []:
+        link = str(item.get("link", "")).strip()
+        if not link:
+            continue
+        results.append(
+            {
+                "url": link,
+                "title": str(item.get("title", "")).strip(),
+                "snippet": str(item.get("snippet", "")).strip(),
+            }
+        )
+    for item in data.get("news_results", []) or []:
+        link = str(item.get("link", "")).strip()
+        if not link:
+            continue
+        results.append(
+            {
+                "url": link,
+                "title": str(item.get("title", "")).strip(),
+                "snippet": str(item.get("snippet", "")).strip(),
+            }
+        )
+    return results
+
+
+@st.cache_data
 def load_ipcc_codes(gas_label: str) -> list[str]:
     if gas_label == "CO2":
         path = RAW_STRUCTURE_DIR / "wcpd_structure_CO2.csv"
@@ -397,6 +571,29 @@ def load_ipcc_codes(gas_label: str) -> list[str]:
     if codes is None:
         return []
     return sorted({c for c in codes.dropna().astype(str).tolist()})
+
+
+@st.cache_data
+def load_jurisdiction_options() -> list[str]:
+    path = Path("_code/_compilation/_utils/jurisdictions.json")
+    if not path.exists():
+        return []
+    try:
+        with open(path, "r", encoding="utf-8") as handle:
+            data = json.load(handle)
+    except Exception:
+        return []
+    countries = []
+    subnationals = []
+    if isinstance(data, dict):
+        countries = data.get("countries", []) if isinstance(data.get("countries"), list) else []
+        sub_map = data.get("subnationals", {})
+        if isinstance(sub_map, dict):
+            for items in sub_map.values():
+                if isinstance(items, list):
+                    subnationals.extend(items)
+    options = sorted({str(x).strip() for x in countries + subnationals if str(x).strip()})
+    return options
 
 
 @st.cache_data
@@ -781,6 +978,25 @@ def render_run_status() -> None:
         st.rerun()
 
 
+def render_discovery_button() -> None:
+    if st.sidebar.button("Run discovery (update candidates)"):
+        with st.sidebar.spinner("Running discovery..."):
+            result = subprocess.run(
+                ["python3", "-m", "_code._sources_extraction.discover"],
+                capture_output=True,
+                text=True,
+                check=False,
+            )
+        if result.returncode == 0:
+            st.sidebar.success("Discovery complete. Candidates updated.")
+            st.cache_data.clear()
+            st.rerun()
+        else:
+            st.sidebar.error("Discovery failed. See details below.")
+            with st.sidebar.expander("Discovery error details"):
+                st.code((result.stdout or "") + "\n" + (result.stderr or ""))
+
+
 # -------------------------------------------------------------------
 # Candidate review helpers
 # -------------------------------------------------------------------
@@ -953,13 +1169,36 @@ def review_view(reviewer: str) -> None:
         st.warning("No candidates found at _raw/sources/cp_candidates.csv")
         return
 
+    gap_scheme = st.session_state.get("gap_filter_instrument_id")
+    gap_year = st.session_state.get("gap_filter_year")
+    gap_variable = st.session_state.get("gap_filter_variable")
+    apply_gap_filters = bool(st.session_state.get("gap_apply_filters"))
+
+    if gap_scheme or gap_year or gap_variable:
+        st.info(
+            "Gap dashboard filters applied. Use the sidebar to adjust or clear below."
+        )
+        if st.button("Clear gap filters"):
+            st.session_state.pop("gap_filter_instrument_id", None)
+            st.session_state.pop("gap_filter_year", None)
+            st.session_state.pop("gap_filter_variable", None)
+            st.session_state.pop("gap_apply_filters", None)
+            st.rerun()
+
     # Sidebar filters
     schemes = (
         sorted(df["instrument_id"].dropna().unique().tolist())
         if "instrument_id" in df.columns
         else []
     )
-    sel_schemes = st.sidebar.multiselect("Carbon pricing mechanism (instrument_id)", schemes)
+    scheme_key = "review_filter_schemes"
+    if apply_gap_filters:
+        st.session_state[scheme_key] = (
+            [gap_scheme] if gap_scheme and gap_scheme in schemes else []
+        )
+    sel_schemes = st.sidebar.multiselect(
+        "Carbon pricing mechanism (instrument_id)", schemes, key=scheme_key
+    )
 
     # Apply filters
     q = df.copy()
@@ -987,8 +1226,15 @@ def review_view(reviewer: str) -> None:
         "Price rebate",
         "Scope",
     ]
+    variable_key = "review_filter_variables"
+    if apply_gap_filters:
+        st.session_state[variable_key] = (
+            [gap_variable]
+            if gap_variable and gap_variable in variable_options
+            else variable_options
+        )
     sel_variables = st.sidebar.multiselect(
-        "Variable", variable_options, default=variable_options
+        "Variable", variable_options, key=variable_key
     )
     st.sidebar.caption(
         "Variable filter only changes which candidate entries are shown, not what a document can contain."
@@ -1005,9 +1251,26 @@ def review_view(reviewer: str) -> None:
         if "year" in df.columns
         else []
     )
-    sel_years = st.sidebar.multiselect("Year", years)
+    year_key = "review_filter_years"
+    if apply_gap_filters:
+        st.session_state[year_key] = (
+            [str(gap_year)] if gap_year and str(gap_year) in years else []
+        )
+    sel_years = st.sidebar.multiselect("Year", years, key=year_key)
     if sel_years and "year" in q.columns:
         q = q[q["year"].astype(str).isin(sel_years)]
+
+    # Jurisdiction filter
+    juris_options = (
+        sorted(df["jurisdiction_code"].dropna().astype(str).unique().tolist())
+        if "jurisdiction_code" in df.columns
+        else []
+    )
+    juris_options = ["All"] + juris_options if juris_options else []
+    sel_juris = st.sidebar.multiselect("Jurisdiction", juris_options, default=["All"] if juris_options else [])
+    if sel_juris and "jurisdiction_code" in q.columns:
+        if "All" not in sel_juris:
+            q = q[q["jurisdiction_code"].astype(str).isin(sel_juris)]
 
     def status_of(row):
         if row.get("decision") in ("accepted", "rejected", "skipped"):
@@ -1031,7 +1294,33 @@ def review_view(reviewer: str) -> None:
         conf = pd.to_numeric(q["confidence"], errors="coerce")
         q = q[(conf >= min_conf - 1e-9) & (conf <= max_conf + 1e-9)]
 
+    # Sorting
+    sort_options = []
+    for col in ["jurisdiction_code", "instrument_id", "year", "confidence", "candidate_id"]:
+        if col in q.columns:
+            sort_options.append(col)
+    if sort_options:
+        sort_by = st.sidebar.selectbox("Sort by", options=sort_options, index=0)
+        sort_order = st.sidebar.radio("Sort order", options=["asc", "desc"], index=0, horizontal=True)
+        ascending = sort_order == "asc"
+        q = q.sort_values(by=sort_by, ascending=ascending, kind="mergesort")
+
     st.sidebar.markdown(f"**{len(q)} candidates** after filters")
+
+    if apply_gap_filters:
+        st.session_state["gap_apply_filters"] = False
+        if q.empty:
+            st.warning(
+                "No review candidates match the selected gap. "
+                "Try Manage sources to add a source, or adjust filters."
+            )
+            return
+    if q.empty:
+        st.warning(
+            "No review candidates match the current filters. "
+            "Adjust filters or add sources."
+        )
+        return
 
     def _safe_text(value: Any) -> str:
         if value is None or (isinstance(value, float) and pd.isna(value)):
@@ -1047,40 +1336,44 @@ def review_view(reviewer: str) -> None:
         axis=1,
     )
 
-    # Layout: top row (candidates + selector), then details + document
-    top_left, top_right = st.columns([3, 2])
-    with top_left:
-        st.subheader("Candidates")
-        show_all_cols = st.checkbox("Show all columns", value=False)
-        display_cols = [
-            "candidate_id",
-            "status",
-            "carbon_pricing_mechanism",
-            "variable_label",
-            "value",
-            "numeric_value",
-            "currency",
-            "unit",
-            "confidence",
-            "source_id",
-        ]
-        if show_all_cols:
-            display_cols = q.columns.tolist()
-        else:
-            display_cols = [c for c in display_cols if c in q.columns]
-        st.dataframe(q[display_cols].reset_index(drop=True), height=320)
+    # Layout: candidates table then selector
+    st.subheader("Candidates")
+    show_all_cols = st.checkbox("Show all columns", value=True)
+    display_cols = [
+        "candidate_id",
+        "status",
+        "carbon_pricing_mechanism",
+        "variable_label",
+        "value",
+        "numeric_value",
+        "currency",
+        "unit",
+        "confidence",
+        "source_id",
+    ]
+    if show_all_cols:
+        display_cols = q.columns.tolist()
+    else:
+        display_cols = [c for c in display_cols if c in q.columns]
+    st.dataframe(
+        q[display_cols].reset_index(drop=True),
+        height=380,
+        use_container_width=True,
+    )
 
     review_entry_container = None
     review_entry_choice = "New entry"
-    with top_right:
-        st.subheader("Select candidate")
-        selected_id = st.selectbox(
-            "Candidate ID",
-            options=q["candidate_id"].tolist(),
-        )
-        review_entry_container = st.container()
+    st.subheader("Select candidate")
+    selected_id = st.selectbox(
+        "Candidate ID",
+        options=q["candidate_id"].tolist(),
+    )
+    review_entry_container = st.container()
 
     candidate_rows = q[q["candidate_id"] == selected_id]
+    if candidate_rows.empty:
+        st.warning("Selected candidate has no rows after filtering.")
+        return
     review_entries = [
         r for r in candidate_rows["review_entry_id"].dropna().unique().tolist() if r
     ]
@@ -1399,7 +1692,15 @@ def source_manager_view() -> None:
             "to populate _raw/sources/discovery_candidates.csv."
         )
     else:
+        known_urls = set(
+            u.strip().lower()
+            for u in df.get("url", pd.Series(dtype=str)).dropna().astype(str).tolist()
+            if u.strip()
+        )
         dq = disc.copy()
+        search_query = st.text_input(
+            "Search discovery candidates", value="", help="Search across visible columns."
+        ).strip()
         if "year_guess" in dq.columns:
             year_options = sorted(
                 y for y in dq["year_guess"].dropna().astype(str).unique().tolist() if y
@@ -1424,7 +1725,17 @@ def source_manager_view() -> None:
             if sel_juris:
                 dq = dq[dq["jurisdiction_code"].astype(str).isin(sel_juris)]
 
+        if search_query:
+            cols = [c for c in dq.columns if c not in {"score"}]
+            mask = pd.Series(False, index=dq.index)
+            needle = search_query.lower()
+            for col in cols:
+                series = dq[col].astype(str).str.lower()
+                mask = mask | series.str.contains(needle, na=False)
+            dq = dq[mask]
+
         display_disc_cols = [
+            "promoted",
             "candidate_id",
             "url",
             "title",
@@ -1434,8 +1745,29 @@ def source_manager_view() -> None:
             "method",
             "score",
         ]
+        dq["promoted"] = dq.get("url", pd.Series(dtype=str)).apply(
+            lambda u: str(u).strip().lower() in known_urls if pd.notna(u) else False
+        )
         display_disc_cols = [c for c in display_disc_cols if c in dq.columns]
-        st.dataframe(dq[display_disc_cols].reset_index(drop=True), height=240)
+        display_df = dq[display_disc_cols].reset_index(drop=True)
+        column_config = {}
+        if "promoted" in display_df.columns:
+            column_config["promoted"] = st.column_config.CheckboxColumn(
+                "promoted", width="small", help="Already in sources.csv"
+            )
+        if "title" in display_df.columns:
+            column_config["title"] = st.column_config.TextColumn(
+                "title", width="large"
+            )
+        selection = st.dataframe(
+            display_df,
+            height=260,
+            use_container_width=True,
+            column_config=column_config or None,
+            on_select="rerun",
+            selection_mode="single-row",
+            key="discovery_candidates_table",
+        )
 
         def _suggest_source_id(
             jurisdiction_code: str, year_guess: str, existing_ids: set[str]
@@ -1459,12 +1791,20 @@ def source_manager_view() -> None:
             return "pdf_direct" if url.lower().endswith(".pdf") else "html_page"
 
         if "candidate_id" in dq.columns and not dq.empty:
-            selected_disc_id = st.selectbox(
-                "Select discovery candidate",
-                options=dq["candidate_id"].tolist(),
-            )
+            selected_rows = []
+            try:
+                selected_rows = selection.selection.rows
+            except Exception:
+                selected_rows = []
+            if not selected_rows:
+                st.info("Select a discovery candidate row above to promote.")
+                return
+            selected_disc_id = display_df.iloc[selected_rows[0]]["candidate_id"]
             cand = dq[dq["candidate_id"] == selected_disc_id].iloc[0]
             existing_ids = set(df["source_id"].dropna().astype(str).tolist())
+            new_instrument = st.checkbox(
+                "New instrument", value=False, key="promote_new_instrument"
+            )
             with st.form("promote_discovery_candidate"):
                 st.markdown("**Promote candidate to sources.csv**")
                 source_id = st.text_input(
@@ -1475,13 +1815,44 @@ def source_manager_view() -> None:
                         existing_ids,
                     ),
                 )
-                juris_for_form = st.text_input(
-                    "Jurisdiction code", value=str(cand.get("jurisdiction_code", "")).strip()
+                jurisdiction_options = ["All", ""] + load_jurisdiction_options()
+                default_juris = str(cand.get("jurisdiction_code", "")).strip()
+                try:
+                    default_index = (
+                        jurisdiction_options.index(default_juris)
+                        if default_juris in jurisdiction_options
+                        else 0
+                    )
+                except Exception:
+                    default_index = 0
+                juris_for_form = st.selectbox(
+                    "Jurisdiction",
+                    options=jurisdiction_options,
+                    index=default_index,
                 )
-                instrument_id = st.text_input(
-                    "Instrument ID (scheme_id)",
-                    value=str(cand.get("instrument_id", "")).strip(),
-                )
+                instrument_options = [""] + load_instrument_options()
+                default_instrument = str(cand.get("instrument_id", "")).strip()
+                if new_instrument:
+                    instrument_id = st.text_input(
+                        "Instrument ID (scheme_id)",
+                        value=default_instrument,
+                        key="promote_instrument_input",
+                    )
+                else:
+                    try:
+                        default_inst_index = (
+                            instrument_options.index(default_instrument)
+                            if default_instrument in instrument_options
+                            else 0
+                        )
+                    except Exception:
+                        default_inst_index = 0
+                    instrument_id = st.selectbox(
+                        "Instrument ID (scheme_id)",
+                        options=instrument_options,
+                        index=default_inst_index,
+                        key="promote_instrument_select",
+                    )
                 url = st.text_input("URL", value=str(cand.get("url", "")).strip())
                 title = st.text_input(
                     "Title / description",
@@ -1720,6 +2091,158 @@ def source_manager_view() -> None:
             st.cache_data.clear()  # refresh cached views
             st.rerun()
 
+
+# -------------------------------------------------------------------
+# Scheme intake
+# -------------------------------------------------------------------
+
+
+def scheme_intake_view() -> None:
+    st.title("WCPD – Scheme Intake")
+    st.caption("Identify new schemes and run targeted web discovery queries.")
+
+    st.subheader("Current dataset schemes")
+    schemes = load_schemes()
+    dataset_scheme_ids = load_dataset_scheme_ids()
+    if schemes.empty:
+        st.info("No scheme_description.csv found or empty.")
+    else:
+        schemes_view = schemes.copy()
+        schemes_view["in_dataset"] = schemes_view["scheme_id"].apply(
+            lambda s: str(s).strip() in dataset_scheme_ids
+        )
+        display_cols = [
+            "scheme_id",
+            "scheme_name",
+            "scheme_type",
+            "implementation_year",
+            "in_dataset",
+        ]
+        display_cols = [c for c in display_cols if c in schemes_view.columns]
+        st.dataframe(
+            schemes_view[display_cols].sort_values(
+                by=["in_dataset", "implementation_year"], ascending=[True, False]
+            ),
+            height=280,
+            use_container_width=True,
+        )
+
+    st.markdown("---")
+    st.subheader("Search for new schemes (SerpAPI)")
+    api_key = os.environ.get(SERPAPI_KEY_ENV, "").strip()
+    if not api_key:
+        st.warning(
+            f"SerpAPI key not found. Set `{SERPAPI_KEY_ENV}` in your environment."
+        )
+
+    current_year = dt.datetime.utcnow().year
+    target_year = st.number_input(
+        "Target year for query templates",
+        min_value=1990,
+        max_value=current_year + 2,
+        value=current_year,
+        step=1,
+    )
+    default_queries = [
+        "new emissions trading system {year}",
+        "emissions trading system launched {year}",
+        "cap-and-trade program launched {year}",
+        "cap-and-invest program launched {year}",
+        "carbon tax introduced {year}",
+        "carbon pricing scheme launched {year}",
+        "national ETS launched {year}",
+        "subnational ETS launched {year}",
+    ]
+    query_text = st.text_area(
+        "Queries (one per line, {year} supported)",
+        value="\n".join(default_queries),
+        height=160,
+    )
+    results_per_query = st.slider("Results per query", 5, 20, 10, step=1)
+    hl = st.text_input("Language (hl)", value="")
+    gl = st.text_input("Country (gl)", value="")
+    if st.button("Run scheme discovery search", type="primary", disabled=not api_key):
+        queries = [
+            q.strip().format(year=target_year)
+            for q in query_text.splitlines()
+            if q.strip()
+        ]
+        rows: list[dict[str, str]] = []
+        with st.spinner("Running SerpAPI queries..."):
+            for q in queries:
+                try:
+                    hits = _serpapi_search(
+                        query=q,
+                        api_key=api_key,
+                        num_results=results_per_query,
+                        hl=hl or None,
+                        gl=gl or None,
+                    )
+                except Exception as exc:
+                    st.error(f"Query failed: {q} ({exc})")
+                    continue
+                for hit in hits:
+                    rows.append(
+                        {
+                            "query": q,
+                            "title": hit.get("title", ""),
+                            "url": hit.get("url", ""),
+                            "snippet": hit.get("snippet", ""),
+                        }
+                    )
+        if rows:
+            st.dataframe(pd.DataFrame(rows), use_container_width=True, height=320)
+        else:
+            st.info("No results returned.")
+
+    st.markdown("---")
+    st.subheader("Generate targeted discovery queries")
+    st.caption(
+        "Create a discovery_queries.csv with queries tied to known scheme names."
+    )
+    include_missing_only = st.checkbox(
+        "Only schemes not yet in dataset", value=True
+    )
+    keyword_text = st.text_area(
+        "Keywords (one per line)",
+        value="emissions trading\ncarbon tax\ncap-and-trade",
+        height=100,
+    )
+    if st.button("Write discovery_queries.csv"):
+        if schemes.empty:
+            st.warning("No schemes available to build queries.")
+        else:
+            keywords = [k.strip() for k in keyword_text.splitlines() if k.strip()]
+            if not keywords:
+                st.warning("Please provide at least one keyword.")
+            else:
+                schemes_view = schemes.copy()
+                schemes_view["in_dataset"] = schemes_view["scheme_id"].apply(
+                    lambda s: str(s).strip() in dataset_scheme_ids
+                )
+                if include_missing_only:
+                    schemes_view = schemes_view[~schemes_view["in_dataset"]]
+                queries: list[dict[str, str]] = []
+                for _, row in schemes_view.iterrows():
+                    scheme_id = str(row.get("scheme_id", "")).strip()
+                    scheme_name = str(row.get("scheme_name", "")).strip()
+                    year = str(row.get("implementation_year", "")).strip()
+                    base = scheme_name or scheme_id
+                    if not base:
+                        continue
+                    for kw in keywords:
+                        queries.append(
+                            {
+                                "query": f"\"{base}\" {kw}",
+                                "jurisdiction_code": "",
+                                "instrument_id": scheme_id,
+                                "source_seed": "scheme_intake",
+                                "year": year,
+                            }
+                        )
+                out_path = RAW_ROOT / "discovery_queries.csv"
+                pd.DataFrame(queries).to_csv(out_path, index=False)
+                st.success(f"Wrote {len(queries)} queries to {out_path}.")
 
 # -------------------------------------------------------------------
 # Raw editor views
@@ -2185,7 +2708,9 @@ def gap_dashboard_view() -> None:
 
     expected = set(load_expected_schemes_for_gas(gas_label))
 
-    raw_price = load_raw_price_presence(target_year, gas_label)
+    icap_sig = _icap_price_signature()
+    raw_price = load_raw_price_presence(target_year, gas_label, icap_sig)
+    raw_icap_price = load_raw_icap_price_presence(target_year, gas_label, icap_sig)
     raw_scope = load_raw_scope_presence(target_year, gas_label)
     raw_cf = load_raw_coverage_presence(target_year, gas_label)
     raw_observed = set().union(raw_price, raw_scope, raw_cf)
@@ -2195,6 +2720,8 @@ def gap_dashboard_view() -> None:
 
     st.subheader("Raw data")
     st.caption("Checks _raw/price, _raw/scope, _raw/coverageFactor for the target year.")
+    if raw_icap_price:
+        st.caption(f"ICAP-derived ETS price schemes detected: {len(raw_icap_price)}")
 
     raw_rows: list[dict[str, Any]] = []
     for data_type, present in [
@@ -2221,6 +2748,34 @@ def gap_dashboard_view() -> None:
             f"scope: {len(expected - raw_scope)}, "
             f"coverageFactor: {len(expected - raw_cf)}"
         )
+        st.subheader("Investigate a gap")
+        row_labels = [
+            f"{r['scheme_id']} | {r['data_type']} | {r['year']} | {r['gas']}"
+            for r in raw_rows
+        ]
+        selected_label = st.selectbox(
+            "Select missing row to investigate", options=row_labels
+        )
+        selected_row = raw_rows[row_labels.index(selected_label)]
+
+        def _gap_variable(data_type: str) -> str:
+            if data_type == "price":
+                return "Allowance price"
+            if data_type == "coverageFactor":
+                return "Coverage factor"
+            if data_type == "scope":
+                return "Scope"
+            return "Scope"
+
+        if st.button("Open in Review candidates"):
+            st.session_state["gap_filter_instrument_id"] = selected_row["scheme_id"]
+            st.session_state["gap_filter_year"] = selected_row["year"]
+            st.session_state["gap_filter_variable"] = _gap_variable(
+                selected_row["data_type"]
+            )
+            st.session_state["gap_apply_filters"] = True
+            st.session_state["pending_view"] = "Review candidates"
+            st.rerun()
     else:
         st.success("No raw data gaps detected for the selected gas/year.")
 
@@ -2274,20 +2829,50 @@ def main():
     st.set_page_config(page_title="WCPD – Upstream Workbench", layout="wide")
     apply_wcpd_branding()
 
+    with st.expander("How to use this app", expanded=False):
+        st.markdown(
+            """
+**Recommended flow**
+1. **Gap dashboard**: identify missing data by scheme/year/variable.
+2. **Scheme intake**: review current schemes and run targeted web discovery queries.
+3. **Review candidates**: jump from a selected gap to filtered candidate evidence.
+4. **Manage sources**: add or edit sources when candidates are missing or incomplete.
+5. **Raw editor**: apply edits to raw inputs (prices, scope, rebates, coverage factors).
+
+**Notes**
+- Use the gap→review handoff to keep filters aligned with the missing row.
+- If no candidates match, add sources and re-run discovery/fetch.
+"""
+        )
+
     # Choose view
-    if WCPD_DASHBOARD_LOGO.exists():
+    if WCPD_DASHBOARD_LOGO and WCPD_DASHBOARD_LOGO.exists():
         st.sidebar.image(str(WCPD_DASHBOARD_LOGO), width=220)
     st.sidebar.title("Upstream Workbench")
+    pending_view = st.session_state.pop("pending_view", None)
+    if pending_view:
+        st.session_state["view"] = pending_view
+    if "view" not in st.session_state:
+        st.session_state["view"] = "Gap dashboard"
     view = st.sidebar.radio(
         "View",
-        options=["Review candidates", "Manage sources", "Raw editor", "Gap dashboard"],
+        options=[
+            "Gap dashboard",
+            "Scheme intake",
+            "Review candidates",
+            "Manage sources",
+            "Raw editor",
+        ],
         index=0,
+        key="view",
     )
 
     reviewer = st.sidebar.text_input("Reviewer name/initials", value="GD")
 
     if view == "Review candidates":
         review_view(reviewer=reviewer)
+    elif view == "Scheme intake":
+        scheme_intake_view()
     elif view == "Manage sources":
         source_manager_view()
     elif view == "Gap dashboard":
@@ -2295,7 +2880,8 @@ def main():
     else:
         raw_editor_view(reviewer=reviewer)
 
-    # Run checklist in sidebar (last)
+    # Run quick actions + checklist in sidebar (last)
+    render_discovery_button()
     render_run_status()
 
 

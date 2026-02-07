@@ -83,6 +83,7 @@ def process_icap_prices(price_dir: str) -> pd.DataFrame:
     # Define mapping of substrings to scheme IDs
     column_map = {
         "Nova Scotia": "can_ns_ets", "European Union": "eu_ets", "Quebec": "can_qc_cat",
+        "Québec": "can_qc_cat", "QuÃ©bec": "can_qc_cat",
         "Ontario": "can_on_ets", "Switzerland": "che_ets", "United Kingdom": "gbr_ets",
         "China": "chn_ets", "German": "deu_ets", "Shenzhen": "chn_sz_ets", "Shanghai": "chn_sh_ets",
         "Beijing": "chn_bj_ets", "Guangdong": "chn_gd_ets", "Tianjin": "chn_tj_ets",
@@ -101,17 +102,21 @@ def process_icap_prices(price_dir: str) -> pd.DataFrame:
     drop_schemes = {"usa_rggi", "can_on_ets", "che_ets", "usa_ca_ets", "can_qc_cat", "can_ns_ets", "usa_wa_ets"}
 
     icap_dir = os.path.join(price_dir, "_icap")
-    icap_files = [
-        os.path.join(icap_dir, filename)
-        for filename in os.listdir(icap_dir)
-        if filename.startswith("icap_prices") and filename.endswith(".csv")
-    ]
-    if not icap_files:
-        raise FileNotFoundError(
-            f"No ICAP price files found in {icap_dir}. Expected files like "
-            "'icap_pricesYYYYMMDD_HHMMSS.csv'."
-        )
-    icap_csv_path = max(icap_files, key=os.path.getmtime)
+    preferred_path = os.path.join(icap_dir, "_ICAP_allowance_prices.csv")
+    if os.path.exists(preferred_path):
+        icap_csv_path = preferred_path
+    else:
+        icap_files = [
+            os.path.join(icap_dir, filename)
+            for filename in os.listdir(icap_dir)
+            if filename.startswith("icap_prices") and filename.endswith(".csv")
+        ]
+        if not icap_files:
+            raise FileNotFoundError(
+                f"No ICAP price files found in {icap_dir}. Expected files like "
+                "'icap_pricesYYYYMMDD_HHMMSS.csv'."
+            )
+        icap_csv_path = max(icap_files, key=os.path.getmtime)
 
     # Read header row for column filtering
     columns = pd.read_csv(icap_csv_path, encoding="latin-1", nrows=0).columns
@@ -120,48 +125,119 @@ def process_icap_prices(price_dir: str) -> pd.DataFrame:
     # Read actual data (header=1 skips redundant top row)
     df = pd.read_csv(icap_csv_path, encoding="latin-1", header=1, low_memory=False)
     primary_cols = df.columns[df.columns.str.startswith("Primary Market")]
-    if len(primary_cols) == 0:
+    secondary_cols = df.columns[df.columns.str.startswith("Secondary Market")]
+    if len(primary_cols) == 0 and len(secondary_cols) == 0:
         raise ValueError(
-            f"No 'Primary Market' columns found in {icap_csv_path}. "
+            f"No 'Primary Market' or 'Secondary Market' columns found in {icap_csv_path}. "
             "The ICAP download format may have changed."
         )
-    if len(primary_cols) != len(target_cols):
-        raise ValueError(
-            f"Mismatch between scheme headers and Primary Market columns in {icap_csv_path}. "
-            f"Found {len(target_cols)} scheme columns and {len(primary_cols)} primary columns."
-        )
-    df = pd.concat([df.loc[:, ["Date"]], df.loc[:, primary_cols]], axis=1)
-    df.columns = ["Date"]+target_cols
+    if len(primary_cols) == 0:
+        logging.warning("No 'Primary Market' columns found in %s.", icap_csv_path)
+    if len(secondary_cols) == 0:
+        logging.warning("No 'Secondary Market' columns found in %s.", icap_csv_path)
 
-    # Rename columns using first match
-    renamed_cols = {"Date": "Date"}
-    for col in target_cols:
+    if (
+        len(primary_cols) != len(target_cols)
+        or len(secondary_cols) != len(target_cols)
+    ):
+        logging.warning(
+            "Mismatch between scheme headers and market columns in %s. "
+            "Found %s scheme columns, %s primary columns, %s secondary columns. "
+            "Aligning by position using the shorter length.",
+            icap_csv_path,
+            len(target_cols),
+            len(primary_cols),
+            len(secondary_cols),
+        )
+        n = min(
+            len(target_cols),
+            len(primary_cols) if len(primary_cols) > 0 else len(target_cols),
+            len(secondary_cols) if len(secondary_cols) > 0 else len(target_cols),
+        )
+        target_cols = target_cols[:n]
+        primary_cols = primary_cols[:n]
+        secondary_cols = secondary_cols[:n]
+
+    # Resolve target scheme IDs in order
+    scheme_ids: list[str] = []
+    use_idx: list[int] = []
+    for idx, col in enumerate(target_cols):
+        mapped = ""
         for key, new_name in column_map.items():
             if key in col:
-                renamed_cols[col] = new_name
+                mapped = new_name
                 break
+        if mapped:
+            scheme_ids.append(mapped)
+            use_idx.append(idx)
 
-    df.rename(columns=renamed_cols, inplace=True)
+    target_cols = [target_cols[i] for i in use_idx]
+    primary_cols = [primary_cols[i] for i in use_idx]
+    secondary_cols = [secondary_cols[i] for i in use_idx]
+
+    def _build_market_df(market_cols: list[str]) -> pd.DataFrame:
+        if not market_cols:
+            return pd.DataFrame(columns=["Date"] + scheme_ids)
+        out = pd.concat([df.loc[:, ["Date"]], df.loc[:, market_cols]], axis=1)
+        out.columns = ["Date"] + scheme_ids
+        return out
+
+    primary_df = _build_market_df(primary_cols)
+    secondary_df = _build_market_df(secondary_cols)
 
     # Remove trailing rows with summary text
-    df = df.iloc[:-4].copy()
+    if len(primary_df) >= 4:
+        primary_df = primary_df.iloc[:-4].copy()
+    if len(secondary_df) >= 4:
+        secondary_df = secondary_df.iloc[:-4].copy()
 
-    # Extract year from date string
-    df["year"] = df["Date"].str.extract(r"(\d{4})").astype(int)
+    def _yearly_avg(market_df: pd.DataFrame) -> pd.DataFrame:
+        if market_df.empty:
+            return pd.DataFrame(columns=["year"])
+        market_df = market_df.copy()
+        market_df["year"] = market_df["Date"].str.extract(r"(\d{4})").astype(int)
+        for col in market_df.columns:
+            if col in ("Date", "year"):
+                continue
+            market_df[col] = pd.to_numeric(market_df[col], errors="coerce")
+        yearly = market_df.drop(columns="Date").groupby("year", as_index=False).mean()
+        yearly.drop(columns=drop_schemes & set(yearly.columns), errors="ignore", inplace=True)
+        return yearly
 
-    # Ensure numeric prices
-    for col in df.columns:
-        if col not in ("Date", "year"):
-            df[col] = pd.to_numeric(df[col], errors="coerce")
+    yearly_primary = _yearly_avg(primary_df)
+    yearly_secondary = _yearly_avg(secondary_df)
 
-    # Compute yearly averages
-    yearly_avg = df.drop(columns="Date").groupby("year", as_index=False).mean()
+    tidy_primary = yearly_primary.melt(
+        id_vars=["year"], var_name="scheme_id", value_name="allowance_price_primary"
+    )
+    tidy_secondary = yearly_secondary.melt(
+        id_vars=["year"], var_name="scheme_id", value_name="allowance_price_secondary"
+    )
 
-    # Drop unneeded schemes
-    yearly_avg.drop(columns=drop_schemes & set(yearly_avg.columns), errors="ignore", inplace=True)
+    merged = tidy_secondary.merge(tidy_primary, on=["year", "scheme_id"], how="outer")
 
-    # Melt into long format
-    tidy = yearly_avg.melt(id_vars=["year"], var_name="scheme_id", value_name="allowance_price")
+    # Prefer secondary prices when available; fall back to primary.
+    merged["allowance_price"] = merged["allowance_price_secondary"]
+    primary_fill = merged["allowance_price"].isna()
+    merged.loc[primary_fill, "allowance_price"] = merged.loc[
+        primary_fill, "allowance_price_primary"
+    ]
+
+    # Flag large differences (>5% of secondary) when both are available.
+    both = merged["allowance_price_secondary"].notna() & merged[
+        "allowance_price_primary"
+    ].notna()
+    secondary_abs = merged["allowance_price_secondary"].abs()
+    diff = (merged["allowance_price_primary"] - merged["allowance_price_secondary"]).abs()
+    merged["primary_secondary_diff_flag"] = False
+    merged.loc[both & (secondary_abs == 0), "primary_secondary_diff_flag"] = (
+        diff[both & (secondary_abs == 0)] > 0
+    )
+    merged.loc[both & (secondary_abs > 0), "primary_secondary_diff_flag"] = (
+        diff[both & (secondary_abs > 0)] > (0.05 * secondary_abs[both & (secondary_abs > 0)])
+    )
+
+    tidy = merged.loc[:, ["scheme_id", "year", "allowance_price", "primary_secondary_diff_flag"]]
 
     # Add metadata
     tidy["currency_code"] = tidy["scheme_id"].map(curr_codes).fillna("")
