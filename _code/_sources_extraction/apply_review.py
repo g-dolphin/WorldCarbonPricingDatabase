@@ -44,12 +44,19 @@ def build_final_table() -> pd.DataFrame:
         merged["instrument_id"] = merged["scheme_id"]
 
     # Fill NaNs with empty strings for convenience
-    for col in ["edited_value", "edited_numeric_value", "edited_currency", "edited_unit"]:
+    for col in [
+        "edited_value",
+        "edited_numeric_value",
+        "edited_currency",
+        "edited_unit",
+        "edited_effective_date",
+        "edited_end_date",
+    ]:
         if col not in merged.columns:
             merged[col] = ""
         merged[col] = merged[col].fillna("")
 
-    for col in ["value", "numeric_value", "currency", "unit"]:
+    for col in ["value", "numeric_value", "currency", "unit", "effective_date", "end_date"]:
         if col not in merged.columns:
             merged[col] = ""
         merged[col] = merged[col].fillna("")
@@ -76,6 +83,14 @@ def build_final_table() -> pd.DataFrame:
         lambda r: r["edited_unit"] if r["edited_unit"] else r["unit"],
         axis=1,
     )
+    merged["final_effective_date"] = merged.apply(
+        lambda r: r["edited_effective_date"] if r["edited_effective_date"] else r["effective_date"],
+        axis=1,
+    )
+    merged["final_end_date"] = merged.apply(
+        lambda r: r["edited_end_date"] if r["edited_end_date"] else r["end_date"],
+        axis=1,
+    )
 
     merged["final_ghg"] = merged["edited_ghg"]
     merged["final_product"] = merged["edited_product"]
@@ -97,6 +112,8 @@ def build_final_table() -> pd.DataFrame:
         "final_ghg",
         "final_product",
         "final_ipcc",
+        "final_effective_date",
+        "final_end_date",
     ]:
         if col not in merged.columns:
             merged[col] = ""
@@ -124,6 +141,8 @@ def write_prices(df: pd.DataFrame) -> None:
         "final_product",
         "final_ipcc",
         "final_value",  # human-readable string
+        "final_effective_date",
+        "final_end_date",
         "method",
         "confidence",
         "reviewer",
