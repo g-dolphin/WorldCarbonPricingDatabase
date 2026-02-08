@@ -44,6 +44,10 @@ These outputs include the reviewed **GHG**, **fuel/product**, and **IPCC** selec
 - Scope (Taxes): `_raw/scope/tax/taxes_scope_<GAS>.py`
 - Price rebates: `_raw/priceRebates/tax/_price_exemptions_tax_<GAS>.py`
 
+**Tax rate preprocessing (pro rata)**
+- `_raw/price/_preproc/rate_changes.csv`: rate change periods
+- `_raw/price/_preproc/annual_rates.csv`: annual rates in tax price format
+
 **Review-only**
 - Coverage factors: `_raw/coverageFactor/<GAS>/*.csv`
 - Overlaps: `_raw/overlap/overlap_mechanisms_<GAS>.csv`
@@ -64,6 +68,7 @@ These outputs include the reviewed **GHG**, **fuel/product**, and **IPCC** selec
 - Use filters for jurisdiction, scheme, field, and confidence.
 - Save decisions as accepted/rejected/skipped. Edits are stored per candidate.
 - Use the **Applies to** selectors (GHG, fuel/product, IPCC category) to scope each accepted value.
+- For **tax rate** entries, you can optionally record **Effective date** and **End date** to support pro‑rata annual averages.
 
 ### 4) Manage sources
 - **Input/Output**: `_raw/sources/sources.csv`
