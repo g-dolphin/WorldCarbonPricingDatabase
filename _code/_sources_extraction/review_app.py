@@ -138,6 +138,8 @@ def load_review_state() -> pd.DataFrame:
                 "edited_numeric_value",
                 "edited_currency",
                 "edited_unit",
+                "edited_effective_date",
+                "edited_end_date",
                 "edited_variable",
                 "edited_year",
                 "edited_ghg",
@@ -1079,6 +1081,8 @@ def merge_all_candidates() -> pd.DataFrame:
         "edited_numeric_value",
         "edited_currency",
         "edited_unit",
+        "edited_effective_date",
+        "edited_end_date",
         "edited_variable",
         "edited_year",
         "edited_ghg",
@@ -1396,6 +1400,8 @@ def review_view(reviewer: str) -> None:
             "edited_numeric_value",
             "edited_currency",
             "edited_unit",
+            "edited_effective_date",
+            "edited_end_date",
             "edited_variable",
             "edited_year",
             "edited_ghg",
@@ -1486,6 +1492,8 @@ def review_view(reviewer: str) -> None:
         edited_numeric_value = str(numeric_default or "")
         edited_currency = str(currency_default or "")
         edited_unit = str(unit_default or "")
+        edited_effective_date = str(row.get("edited_effective_date") or "")
+        edited_end_date = str(row.get("edited_end_date") or "")
 
         rate_label = "Tax rate" if scheme_type == "tax" else "Allowance price"
         variable_options = [rate_label, "Coverage factor", "Price rebate", "Scope"]
@@ -1523,6 +1531,20 @@ def review_view(reviewer: str) -> None:
             if cfg["unit"]:
                 with cols[3]:
                     edited_unit = st.text_input("Unit", value=edited_unit)
+
+        if field_name == "rate" and scheme_type == "tax":
+            st.markdown("**Rate change period (optional)**")
+            col_dates = st.columns(2)
+            with col_dates[0]:
+                edited_effective_date = st.text_input(
+                    "Effective date (YYYY-MM-DD)",
+                    value=edited_effective_date,
+                )
+            with col_dates[1]:
+                edited_end_date = st.text_input(
+                    "End date (YYYY-MM-DD)",
+                    value=edited_end_date,
+                )
 
         st.markdown("**Applies to**")
         if edited_variable == "Scope":
@@ -1608,6 +1630,8 @@ def review_view(reviewer: str) -> None:
                 "edited_numeric_value": edited_numeric_value,
                 "edited_currency": edited_currency,
                 "edited_unit": edited_unit,
+                "edited_effective_date": edited_effective_date,
+                "edited_end_date": edited_end_date,
                 "edited_variable": edited_variable,
                 "edited_year": ";".join(edited_year),
                 "edited_ghg": ";".join(edited_ghg),

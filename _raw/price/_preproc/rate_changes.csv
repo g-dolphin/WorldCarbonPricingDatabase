@@ -1,0 +1,122 @@
+scheme_id,product,effective_date,end_date,rate,currency_code,source,comment
+arg_tax,,2018-03-01,2018-05-31,0.412,,,
+arg_tax,,2018-06-01,2018-08-31,0.44,,,
+arg_tax,,2018-09-01,2018-11-30,0.478,,,
+arg_tax,,2018-12-01,2018-12-31,0.545,,,
+arg_tax,,2019-01-01,2019-02-28,0.545,,,
+arg_tax,,2019-03-01,2019-05-31,0.608,,,
+arg_tax,,2019-06-01,2019-08-31,0.68,,,
+arg_tax,,2019-09-01,2019-10-31,0.68,,,
+arg_tax,,2019-11-01,2019-11-30,0.744,,,
+arg_tax,,2019-12-01,2019-12-31,0.837,,,
+arg_tax,,2020-01-01,2020-02-28,0.837,,,
+arg_tax,,2020-03-01,2020-05-31,0.936,,,
+arg_tax,,2020-06-01,2020-08-31,0.936,,,
+arg_tax,,2020-09-01,2020-10-15,0.936,,,
+arg_tax,,2020-10-16,2020-11-30,1.009,,,
+arg_tax,,2020-12-01,2020-12-15,1.009,,,
+arg_tax,,2020-12-16,2020-12-31,1.063,,,
+arg_tax,,2021-01-01,2021-01-15,1.063,,,
+arg_tax,,2021-01-16,2021-02-28,1.144,,,
+arg_tax,,2021-03-01,2021-03-11,1.144,,,
+arg_tax,,2021-03-12,2021-03-31,1.274,,,
+arg_tax,,2021-04-01,2021-05-31,1.193,,,
+arg_tax,,2021-06-01,2021-06-20,1.193,,,
+arg_tax,,2021-06-21,2021-08-31,1.274,,,
+arg_tax,,2021-09-01,2021-11-30,1.274,,,
+arg_tax,,2021-12-01,2021-12-31,1.274,,,
+arg_tax,,2022-01-01,2022-02-28,1.274,,,
+arg_tax,,2022-03-01,2022-05-31,1.274,,,
+arg_tax,,2022-06-01,2022-08-31,1.274,,,
+irl_tax,,2010-05-01,2012-04-30,2.77,,,
+irl_tax,,2012-05-01,2013-04-30,3.7,,,
+irl_tax,,2013-05-01,2014-04-30,3.7,,,
+irl_tax,,2014-05-01,2020-04-30,3.7,,,
+irl_tax,,2020-05-01,2021-04-30,4.71,,,
+slo_tax,,2022-01-01,2022-06-20,17.3,,,
+slo_tax,,2022-06-21,2022-07-31,0,,,
+slo_tax,,2022-08-01,2022-09-12,17.3,,,
+slo_tax,,2022-09-13,2022-12-31,0,,,
+slo_tax,,2023-01-01,2023-05-01,0,,,
+slo_tax,,2023-05-01,2023-12-31,17.3,,,
+gbr_tax,Carbon price equivalent,2013-04-01,,4.94,,,
+gbr_tax,Natural gas,2013-04-01,,0.00091,,,
+gbr_tax,LPG,2013-04-01,,0.0146,,,
+gbr_tax,Coal and other taxable solid fuels,2013-04-01,,0.44264,,,
+gbr_tax,Gas oil and rebated bio blend,2013-04-01,,0.01365,,,
+gbr_tax,"Fuel oil, other heavy oil and rebated light oil",2013-04-01,,0.01568,,,
+gbr_tax,Carbon price equivalent,2014-04-01,,9.55,,,
+gbr_tax,Natural gas,2014-04-01,,0.00175,,,
+gbr_tax,LPG,2014-04-01,,0.02822,,,
+gbr_tax,Coal and other taxable solid fuels,2014-04-01,,0.81906,,,
+gbr_tax,Gas oil and rebated bio blend,2014-04-01,,0.02642,,,
+gbr_tax,"Fuel oil, other heavy oil and rebated light oil",2014-04-01,,0.03011,,,
+gbr_tax,Carbon price equivalent,2015-04-01,,18.08,,,
+gbr_tax,Natural gas,2015-04-01,,0.00334,,,
+gbr_tax,LPG,2015-04-01,,0.05307,,,
+gbr_tax,Coal and other taxable solid fuels,2015-04-01,,1.5686,,,
+gbr_tax,Gas oil and rebated bio blend,2015-04-01,,0.0499,,,
+gbr_tax,"Fuel oil, other heavy oil and rebated light oil",2015-04-01,,0.0573,,,
+gbr_tax,Carbon price equivalent,2016-04-01,,18,,,
+gbr_tax,Natural gas,2016-04-01,,0.00331,,,
+gbr_tax,LPG,2016-04-01,,0.0528,,,
+gbr_tax,Coal and other taxable solid fuels,2016-04-01,,1.5479,,,
+gbr_tax,Gas oil and rebated bio blend,2016-04-01,,0.04916,,,
+gbr_tax,"Fuel oil, other heavy oil and rebated light oil",2016-04-01,,0.05711,,,
+gbr_tax,Carbon price equivalent,2017-04-01,,18,,,
+gbr_tax,Natural gas,2017-04-01,,0.00331,,,
+gbr_tax,Carbon price equivalent,2018-04-01,,18,,,
+gbr_tax,Natural gas,2018-04-01,,0.00331,,,
+gbr_tax,Carbon price equivalent,2019-04-01,,18,,,
+gbr_tax,Natural gas,2019-04-01,,0.00331,,,
+gbr_tax,Carbon price equivalent,2020-04-01,,18,,,
+gbr_tax,Natural gas,2020-04-01,,0.00331,,,
+gbr_tax,Carbon price equivalent,2021-04-01,,18,,,
+gbr_tax,Natural gas,2021-04-01,,0.00331,,,
+gbr_tax,Carbon price equivalent,Sources,,https://www.gov.uk/guidance/climate-change-levy-rates,,,
+gbr_tax,Carbon price equivalent,2013,,4.94,,,
+gbr_tax,Carbon price equivalent,2014,,8.3975,,,
+gbr_tax,Carbon price equivalent,2015,,15.947499999999998,,,
+gbr_tax,Carbon price equivalent,2016,,18.02,,,
+gbr_tax,Carbon price equivalent,2017,,18,,,
+gbr_tax,Carbon price equivalent,2018,,18,,,
+gbr_tax,Carbon price equivalent,2019,,18,,,
+gbr_tax,Carbon price equivalent,2020,,18,,,
+gbr_tax,Carbon price equivalent,2021,,18,,,
+prt_tax,,2019-01-01,2019-12-31,12.83300945,,,
+prt_tax,,2020-01-01,2020-02-14,12.83300945,,,
+prt_tax,,2020-02-15,2020-12-31,23.79147992,,,
+can_bc_tax,,2008-01-01,2008-03-31,0,CAD,nan,The tax rate is updated once a year at the start of the fiscal year (April 1)
+can_bc_tax,,2008-04-01,2008-12-31,10,CAD,nan,nan
+can_bc_tax,,2009-01-01,2009-03-31,10,CAD,nan,nan
+can_bc_tax,,2009-04-01,2009-12-31,15,CAD,nan,nan
+can_bc_tax,,2010-01-01,2010-03-31,15,CAD,nan,nan
+can_bc_tax,,2010-04-01,2010-12-31,20,CAD,nan,nan
+can_bc_tax,,2011-01-01,2011-03-31,20,CAD,nan,nan
+can_bc_tax,,2011-04-01,2011-12-31,25,CAD,nan,nan
+can_bc_tax,,2012-01-01,2012-03-31,25,CAD,nan,nan
+can_bc_tax,,2012-04-01,2012-12-31,30,CAD,nan,nan
+can_bc_tax,,2013-01-01,2013-03-31,30,CAD,nan,nan
+can_bc_tax,,2013-04-01,2013-12-31,30,CAD,nan,nan
+can_bc_tax,,2014-01-01,2014-03-31,30,CAD,nan,nan
+can_bc_tax,,2014-04-01,2014-12-31,30,CAD,nan,nan
+can_bc_tax,,2015-01-01,2015-03-31,30,CAD,nan,nan
+can_bc_tax,,2015-04-01,2015-12-31,30,CAD,nan,nan
+can_bc_tax,,2016-01-01,2016-03-31,30,CAD,nan,nan
+can_bc_tax,,2016-04-01,2016-12-31,30,CAD,nan,nan
+can_bc_tax,,2017-01-01,2017-03-31,30,CAD,nan,nan
+can_bc_tax,,2017-04-01,2017-12-31,30,CAD,nan,nan
+can_bc_tax,,2018-01-01,2018-03-31,30,CAD,nan,nan
+can_bc_tax,,2018-04-01,2018-12-31,35,CAD,nan,nan
+can_bc_tax,,2019-01-01,2019-03-31,35,CAD,nan,nan
+can_bc_tax,,2019-04-01,2019-12-31,40,CAD,nan,nan
+can_bc_tax,,2020-01-01,2020-03-31,40,CAD,nan,nan
+can_bc_tax,,2020-04-01,2020-12-31,40,CAD,nan,nan
+can_bc_tax,,2021-01-01,2021-03-31,40,CAD,nan,nan
+can_bc_tax,,2021-04-01,2021-12-31,45,CAD,nan,nan
+can_bc_tax,,2022-01-01,2022-03-31,45,CAD,nan,nan
+can_bc_tax,,2022-04-01,2022-12-31,50,CAD,nan,nan
+can_bc_tax,,2023-01-01,2023-03-31,50,CAD,nan,nan
+can_bc_tax,,2023-04-01,2023-12-31,65,CAD,nan,nan
+can_bc_tax,,2024-01-01,2024-03-31,65,CAD,nan,nan
+can_bc_tax,,2024-04-01,2024-12-31,80,CAD,nan,nan
