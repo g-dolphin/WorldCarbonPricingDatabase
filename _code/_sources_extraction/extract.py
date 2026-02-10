@@ -26,14 +26,14 @@ def load_text_artifacts(jurisdiction_filter: List[str] | None = None) -> List[Ar
     if not meta_path.exists():
         raise FileNotFoundError(f"Could not find raw_artifacts metadata at {meta_path}")
 
-    # Build source_id → instrument_id/year lookup from sources file
+    # Build source_id → scheme_id/year lookup from sources file
     source_to_instrument: dict[str, str] = {}
     source_to_year: dict[str, str] = {}
     if SOURCES_PATH.exists():
         sources_df = pd.read_csv(SOURCES_PATH, dtype=str)
         for _, r in sources_df.iterrows():
             sid = str(r.get("source_id", "")).strip()
-            inst = str(r.get("instrument_id", "")).strip()
+            inst = str(r.get("scheme_id", "") or r.get("instrument_id", "")).strip()
             year = str(r.get("year", "")).strip()
             if sid and inst:
                 source_to_instrument[sid] = inst

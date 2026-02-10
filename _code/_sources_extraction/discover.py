@@ -161,6 +161,12 @@ def _normalize_text(text: str) -> str:
     return text
 
 
+def _get_jurisdiction(row: dict[str, str] | pd.Series) -> str:
+    if isinstance(row, pd.Series):
+        return str(row.get("jurisdiction", "") or row.get("jurisdiction_code", "")).strip()
+    return str(row.get("jurisdiction", "") or row.get("jurisdiction_code", "")).strip()
+
+
 KEYWORD_PHRASES_NORM = [_normalize_text(k) for k in KEYWORD_PHRASES]
 LOG_SEED_EVERY = 25
 
@@ -363,8 +369,8 @@ def _load_search_queries(path: Path) -> list[dict[str, str]]:
             queries.append(
                 {
                     "query": query,
-                    "jurisdiction_code": str(row.get("jurisdiction_code", "")).strip(),
-                    "instrument_id": str(row.get("instrument_id", "")).strip(),
+                    "jurisdiction_code": _get_jurisdiction(row),
+                    "instrument_id": str(row.get("scheme_id", "") or row.get("instrument_id", "")).strip(),
                     "source_seed": str(row.get("source_seed", "")).strip(),
                     "year": str(row.get("year", "")).strip(),
                 }
@@ -456,8 +462,8 @@ def _load_seeds(sources_df: pd.DataFrame, seed_path: Path) -> list[Seed]:
             seeds.append(
                 Seed(
                     url=url,
-                    jurisdiction_code=str(row.get("jurisdiction_code", "")).strip(),
-                    instrument_id=str(row.get("instrument_id", "")).strip(),
+                    jurisdiction_code=_get_jurisdiction(row),
+                    instrument_id=str(row.get("scheme_id", "") or row.get("instrument_id", "")).strip(),
                     source_id=str(row.get("source_id", "")).strip(),
                     seed_type="sources.csv",
                 )
@@ -472,8 +478,8 @@ def _load_seeds(sources_df: pd.DataFrame, seed_path: Path) -> list[Seed]:
                 seeds.append(
                     Seed(
                         url=url,
-                        jurisdiction_code=str(row.get("jurisdiction_code", "")).strip(),
-                        instrument_id=str(row.get("instrument_id", "")).strip(),
+                        jurisdiction_code=_get_jurisdiction(row),
+                        instrument_id=str(row.get("scheme_id", "") or row.get("instrument_id", "")).strip(),
                         source_id=str(row.get("source_id", "")).strip(),
                         seed_type="discovery_seeds.csv",
                     )
@@ -596,7 +602,7 @@ def run_discovery(
                     title=str(row.get("title", "")).strip(),
                     method="year_template",
                     seed_url=str(row.get("source_id", "")).strip(),
-                    jurisdiction_code=str(row.get("jurisdiction_code", "")).strip(),
+                    jurisdiction_code=_get_jurisdiction(row),
                     instrument_id=str(row.get("instrument_id", "")).strip(),
                 )
         log(f"Year templates added: {len(candidates) - before}")

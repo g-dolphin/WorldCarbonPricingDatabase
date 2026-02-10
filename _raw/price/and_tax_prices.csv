@@ -1,0 +1,4 @@
+scheme_id,year,ghg,product,rate,currency_code,source,comment
+and_tax,2025,CO2,Coal,30,EUR,World Bank Carbon Pricing Dashboard 2025,
+and_tax,2025,CO2,Natural gas,30,EUR,World Bank Carbon Pricing Dashboard 2025,
+and_tax,2025,CO2,Oil,30,EUR,World Bank Carbon Pricing Dashboard 2025,
