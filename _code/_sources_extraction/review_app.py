@@ -10,9 +10,11 @@ import json
 import os
 import pprint
 import subprocess
+import hashlib
 import base64
 import uuid
 from pathlib import Path
+from urllib.parse import urlparse
 from typing import Any, Iterable, Optional
 
 import httpx
@@ -47,11 +49,23 @@ GAS_OPTIONS = {
 }
 
 SERPAPI_KEY_ENV = "SERPAPI_KEY"
+SCHEME_COLUMNS = [
+    "scheme_id",
+    "scheme_name",
+    "scheme_type",
+    "implementing_legislation",
+    "legislation_year",
+    "implementation_year",
+    "ghg",
+    "sector",
+    "source",
+    "comment",
+]
 
 REQUIRED_SOURCE_COLUMNS = [
     "source_id",
-    "jurisdiction_code",
-    "instrument_id",
+    "jurisdiction",
+    "scheme_id",
     "document_type",
     "url",
     "source_type",
@@ -176,6 +190,10 @@ def load_meta() -> pd.DataFrame:
 def load_sources() -> pd.DataFrame:
     if SOURCES_PATH.exists():
         df = pd.read_csv(SOURCES_PATH, dtype=str)
+        if "jurisdiction" not in df.columns and "jurisdiction_code" in df.columns:
+            df = df.rename(columns={"jurisdiction_code": "jurisdiction"})
+        if "scheme_id" not in df.columns and "instrument_id" in df.columns:
+            df = df.rename(columns={"instrument_id": "scheme_id"})
         # ensure all required columns exist
         for col in REQUIRED_SOURCE_COLUMNS:
             if col not in df.columns:
@@ -208,7 +226,9 @@ def _normalize_gas_token(value: str) -> str:
 
 
 @st.cache_data
-def load_expected_schemes_for_gas(gas_label: str) -> list[str]:
+def load_expected_schemes_for_gas(
+    gas_label: str, target_year: int | None = None
+) -> list[str]:
     schemes = load_scheme_description()
     if schemes.empty:
         return []
@@ -220,6 +240,14 @@ def load_expected_schemes_for_gas(gas_label: str) -> list[str]:
         scheme_id = str(row.get("scheme_id", "")).strip()
         if not scheme_id:
             continue
+        if target_year is not None:
+            raw_year = str(row.get("implementation_year", "")).strip()
+            if raw_year and raw_year.replace(".", "").isdigit():
+                try:
+                    if int(float(raw_year)) > target_year:
+                        continue
+                except ValueError:
+                    pass
         ghg_raw = str(row.get("ghg", "")).strip()
         if not ghg_raw:
             continue
@@ -250,6 +278,164 @@ def load_instrument_options() -> list[str]:
         return []
     values = schemes["scheme_id"].dropna().astype(str).tolist()
     return sorted({v.strip() for v in values if v.strip()})
+
+
+def _normalize_url(url: str) -> str:
+    if not url:
+        return ""
+    parsed = urlparse(url)
+    if not parsed.scheme or not parsed.netloc:
+        return url.strip()
+    normalized = parsed._replace(fragment="").geturl()
+    if normalized.endswith("/") and len(normalized) > len(parsed.scheme) + 3:
+        normalized = normalized.rstrip("/")
+    return normalized
+
+
+def _candidate_id(url: str, method: str) -> str:
+    digest = hashlib.md5(url.encode("utf-8")).hexdigest()[:10]
+    return f"{method}-{digest}"
+
+
+def _doc_type_token(document_type: str) -> str:
+    mapping = {
+        "legislation": "leg",
+        "official_publication": "gov",
+        "webpage": "web",
+        "report": "rep",
+    }
+    return mapping.get(document_type, "src")
+
+
+def _normalize_source_prefix(value: str) -> str:
+    if not value:
+        return "SRC"
+    clean = "".join(ch if ch.isalnum() else "-" for ch in value.upper())
+    while "--" in clean:
+        clean = clean.replace("--", "-")
+    clean = clean.strip("-")
+    return clean or "SRC"
+
+
+def _split_jurisdictions(value: str) -> list[str]:
+    if not value:
+        return []
+    parts = [p.strip() for p in str(value).split(",")]
+    return [p for p in parts if p]
+
+
+def _build_jurisdiction_prefix_map(df: pd.DataFrame) -> dict[str, str]:
+    prefix_map: dict[str, dict[str, int]] = {}
+    if df.empty or "source_id" not in df.columns or "jurisdiction" not in df.columns:
+        return {}
+    for _, row in df.iterrows():
+        jurisdiction = str(row.get("jurisdiction", "")).strip()
+        source_id = str(row.get("source_id", "")).strip()
+        if not jurisdiction or not source_id:
+            continue
+        parts = source_id.split("-")
+        if len(parts) < 3:
+            continue
+        prefix = "-".join(parts[:-2])
+        prefix_map.setdefault(jurisdiction, {})
+        prefix_map[jurisdiction][prefix] = prefix_map[jurisdiction].get(prefix, 0) + 1
+    out: dict[str, str] = {}
+    for jurisdiction, counts in prefix_map.items():
+        prefix = sorted(counts.items(), key=lambda x: -x[1])[0][0]
+        out[jurisdiction] = prefix
+    return out
+
+
+def _suggest_source_id(
+    jurisdiction: str,
+    document_type: str,
+    existing_ids: set[str],
+    prefix_map: dict[str, str] | None = None,
+) -> str:
+    prefix_map = prefix_map or {}
+    prefix = prefix_map.get(jurisdiction, _normalize_source_prefix(jurisdiction))
+    token = _doc_type_token(document_type)
+    base = f"{prefix}-{token}"
+    max_n = 0
+    for sid in existing_ids:
+        if not sid.startswith(f"{base}-"):
+            continue
+        tail = sid.split("-")[-1]
+        if tail.isdigit():
+            max_n = max(max_n, int(tail))
+    return f"{base}-{max_n + 1:03d}"
+
+
+def _build_citation_key(document_type: str, institution: str, year: str) -> str:
+    parts = [document_type, institution, year]
+    cleaned: list[str] = []
+    for part in parts:
+        token = str(part).strip()
+        if not token:
+            continue
+        token = token.replace(" ", "")
+        cleaned.append(token)
+    return "-".join(cleaned)
+
+
+def _append_discovery_candidates(rows: list[dict[str, str]]) -> int:
+    if not rows:
+        return 0
+    fieldnames = [
+        "candidate_id",
+        "url",
+        "title",
+        "year_guess",
+        "jurisdiction_code",
+        "instrument_id",
+        "doc_hint",
+        "method",
+        "source_seed",
+        "discovered_at",
+        "score",
+    ]
+    if DISCOVERY_PATH.exists():
+        existing = pd.read_csv(DISCOVERY_PATH, dtype=str)
+    else:
+        existing = pd.DataFrame(columns=fieldnames)
+    existing_urls = {
+        _normalize_url(u)
+        for u in existing.get("url", pd.Series(dtype=str)).dropna().astype(str)
+        if str(u).strip()
+    }
+    now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    new_rows: list[dict[str, str]] = []
+    for row in rows:
+        url = str(row.get("url", "")).strip()
+        if not url:
+            continue
+        normalized = _normalize_url(url)
+        if not normalized or normalized in existing_urls:
+            continue
+        method = str(row.get("method", "serpapi")).strip() or "serpapi"
+        new_rows.append(
+            {
+                "candidate_id": _candidate_id(url, method),
+                "url": url,
+                "title": str(row.get("title", "")).strip(),
+                "year_guess": str(row.get("year_guess", "")).strip(),
+                "jurisdiction_code": str(row.get("jurisdiction_code", "")).strip(),
+                "instrument_id": str(row.get("instrument_id", "")).strip(),
+                "doc_hint": "pdf" if url.lower().endswith(".pdf") else "html",
+                "method": method,
+                "source_seed": str(row.get("source_seed", "")).strip(),
+                "discovered_at": now,
+                "score": str(row.get("score", "")).strip(),
+            }
+        )
+        existing_urls.add(normalized)
+    if not new_rows:
+        return 0
+    combined = pd.concat([existing, pd.DataFrame(new_rows)], ignore_index=True)
+    combined = combined[fieldnames]
+    DISCOVERY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    combined.to_csv(DISCOVERY_PATH, index=False)
+    return len(new_rows)
 
 
 @st.cache_data
@@ -657,6 +843,10 @@ def _timestamped_path(path: Path) -> Path:
     return path.with_name(f"{path.stem}_{_now_stamp()}{path.suffix}")
 
 
+def _temp_path(path: Path) -> Path:
+    return path.with_name(f"{path.stem}_temp{path.suffix}")
+
+
 def _is_nonempty(value: Any) -> bool:
     if value is None:
         return False
@@ -795,6 +985,16 @@ def apply_wcpd_branding() -> None:
           color: var(--wcpd-banner-blue);
           border-bottom: 2px solid var(--wcpd-banner-blue);
         }
+
+        .wcpd-top-banner {
+          background: var(--wcpd-banner-blue);
+          color: #ffffff;
+          padding: 12px 16px;
+          border-radius: 8px;
+          margin: 4px 0 10px 0;
+          font-weight: 600;
+          letter-spacing: 0.2px;
+        }
         </style>
         """,
         unsafe_allow_html=True,
@@ -922,8 +1122,72 @@ def _promote_file_ui(canonical_path: Path, key_prefix: str) -> None:
         if not confirm:
             st.error("Please confirm promotion before proceeding.")
             return
+        if canonical_path.suffix.lower() == ".csv":
+            try:
+                df_new = pd.read_csv(selected, dtype=str)
+                if "record_date" in df_new.columns:
+                    df_new = df_new.drop(columns=["record_date"])
+                    df_new.to_csv(canonical_path, index=False)
+                    os.remove(selected)
+                    st.success(f"Promoted {selected} -> {canonical_path} (record_date removed)")
+                    return
+            except Exception:
+                pass
         os.replace(selected, canonical_path)
         st.success(f"Promoted {selected} -> {canonical_path}")
+
+
+def _promote_temp_price_ui(canonical_path: Path, temp_path: Path, key_prefix: str) -> None:
+    st.markdown("### Promote temp file")
+    if not temp_path.exists():
+        st.caption("No temp file found.")
+        return
+    df_new = None
+    try:
+        old_text = canonical_path.read_text(encoding="utf-8", errors="ignore")
+    except FileNotFoundError:
+        old_text = ""
+    try:
+        df_new = pd.read_csv(temp_path, dtype=str)
+        df_preview = df_new.copy()
+        if "record_date" in df_preview.columns:
+            df_preview = df_preview.drop(columns=["record_date"])
+        new_text = df_preview.to_csv(index=False)
+    except Exception:
+        new_text = temp_path.read_text(encoding="utf-8", errors="ignore")
+    diff_lines = list(
+        difflib.unified_diff(
+            old_text.splitlines(),
+            new_text.splitlines(),
+            fromfile=str(canonical_path),
+            tofile=str(temp_path),
+            lineterm="",
+        )
+    )
+    if diff_lines:
+        st.markdown("**Diff preview**")
+        st.code("\n".join(diff_lines[:400]), language="diff")
+        if len(diff_lines) > 400:
+            st.caption("Diff truncated to 400 lines.")
+    else:
+        st.caption("No diff (files identical or canonical missing).")
+    confirm = st.checkbox(
+        f"Confirm replace {canonical_path}",
+        value=False,
+        key=f"{key_prefix}_promote_confirm",
+    )
+    if st.button("Promote file", key=f"{key_prefix}_promote_button"):
+        if not confirm:
+            st.error("Please confirm promotion before proceeding.")
+            return
+        if df_new is not None:
+            if "record_date" in df_new.columns:
+                df_new = df_new.drop(columns=["record_date"])
+            df_new.to_csv(canonical_path, index=False)
+        else:
+            canonical_path.write_text(new_text, encoding="utf-8")
+        os.remove(temp_path)
+        st.success(f"Promoted {temp_path} -> {canonical_path} (record_date removed)")
 
 def _file_status(path: Path) -> str:
     """Return a short status string for a file."""
@@ -1008,6 +1272,8 @@ def merge_all_candidates() -> pd.DataFrame:
     cand = load_candidates(_candidates_signature())
     if cand.empty:
         return cand
+    if "scheme_id" not in cand.columns and "instrument_id" in cand.columns:
+        cand["scheme_id"] = cand["instrument_id"]
     if "instrument_id" not in cand.columns and "scheme_id" in cand.columns:
         cand["instrument_id"] = cand["scheme_id"]
 
@@ -1030,10 +1296,10 @@ def merge_all_candidates() -> pd.DataFrame:
             sources[
                 [
                     "source_id",
-                    "instrument_id",
+                    "scheme_id",
                     "document_type",
                     "title",
-                    "jurisdiction_code",
+                    "jurisdiction",
                     "year",
                 ]
             ].drop_duplicates("source_id"),
@@ -1041,7 +1307,7 @@ def merge_all_candidates() -> pd.DataFrame:
             how="left",
             suffixes=("", "_src"),
         )
-        for col in ["instrument_id", "year", "jurisdiction_code"]:
+        for col in ["scheme_id", "year", "jurisdiction"]:
             src_col = f"{col}_src"
             if src_col not in cand.columns:
                 continue
@@ -1059,7 +1325,7 @@ def merge_all_candidates() -> pd.DataFrame:
             scheme_cols.append("scheme_type")
         cand = cand.merge(
             schemes[scheme_cols],
-            left_on="instrument_id",
+            left_on="scheme_id",
             right_on="scheme_id",
             how="left",
         )
@@ -1146,6 +1412,10 @@ def save_review_row(row: dict) -> None:
 
 
 def save_sources(df: pd.DataFrame) -> None:
+    if "instrument_id" in df.columns and "scheme_id" not in df.columns:
+        df = df.rename(columns={"instrument_id": "scheme_id"})
+    if "instrument_id" in df.columns and "scheme_id" in df.columns:
+        df = df.drop(columns=["instrument_id"])
     df.to_csv(SOURCES_PATH, index=False)
 
 
@@ -1266,15 +1536,19 @@ def review_view(reviewer: str) -> None:
 
     # Jurisdiction filter
     juris_options = (
-        sorted(df["jurisdiction_code"].dropna().astype(str).unique().tolist())
-        if "jurisdiction_code" in df.columns
+        sorted({j for v in df["jurisdiction"].dropna().astype(str).tolist() for j in _split_jurisdictions(v)})
+        if "jurisdiction" in df.columns
         else []
     )
     juris_options = ["All"] + juris_options if juris_options else []
     sel_juris = st.sidebar.multiselect("Jurisdiction", juris_options, default=["All"] if juris_options else [])
-    if sel_juris and "jurisdiction_code" in q.columns:
+    if sel_juris and "jurisdiction" in q.columns:
         if "All" not in sel_juris:
-            q = q[q["jurisdiction_code"].astype(str).isin(sel_juris)]
+            q = q[
+                q["jurisdiction"]
+                .astype(str)
+                .apply(lambda v: bool(set(_split_jurisdictions(v)) & set(sel_juris)))
+            ]
 
     def status_of(row):
         if row.get("decision") in ("accepted", "rejected", "skipped"):
@@ -1300,7 +1574,7 @@ def review_view(reviewer: str) -> None:
 
     # Sorting
     sort_options = []
-    for col in ["jurisdiction_code", "instrument_id", "year", "confidence", "candidate_id"]:
+    for col in ["jurisdiction", "instrument_id", "year", "confidence", "candidate_id"]:
         if col in q.columns:
             sort_options.append(col)
     if sort_options:
@@ -1439,7 +1713,9 @@ def review_view(reviewer: str) -> None:
             set(load_ipcc_codes("CO2")) | set(load_ipcc_codes("CH4"))
         )
         year_options = load_year_options()
-        juris_options = sorted(df["jurisdiction_code"].dropna().unique().tolist())
+        juris_options = sorted(
+            {j for v in df["jurisdiction"].dropna().astype(str).tolist() for j in _split_jurisdictions(v)}
+        )
 
         def split_list(value: str) -> list[str]:
             if not value:
@@ -1548,8 +1824,8 @@ def review_view(reviewer: str) -> None:
 
         st.markdown("**Applies to**")
         if edited_variable == "Scope":
-            if not jurisdiction_default and row.get("jurisdiction_code"):
-                jurisdiction_default = [str(row.get("jurisdiction_code"))]
+            if not jurisdiction_default and row.get("jurisdiction"):
+                jurisdiction_default = _split_jurisdictions(row.get("jurisdiction"))
             col5, col6 = st.columns(2)
             with col5:
                 edited_jurisdiction = st.multiselect(
@@ -1577,8 +1853,8 @@ def review_view(reviewer: str) -> None:
                     "IPCC category", options=ipcc_options, default=ipcc_default
                 )
         else:
-            if not jurisdiction_default and row.get("jurisdiction_code"):
-                jurisdiction_default = [str(row.get("jurisdiction_code"))]
+            if not jurisdiction_default and row.get("jurisdiction"):
+                jurisdiction_default = _split_jurisdictions(row.get("jurisdiction"))
             col5, col6 = st.columns(2)
             with col5:
                 edited_jurisdiction = st.multiselect(
@@ -1664,7 +1940,12 @@ def source_manager_view() -> None:
     st.sidebar.markdown("---")
     st.sidebar.header("Source filters")
 
-    juris_options = sorted(df["jurisdiction_code"].dropna().unique().tolist())
+    juris_values = (
+        df["jurisdiction"].dropna().astype(str).tolist()
+        if "jurisdiction" in df.columns
+        else []
+    )
+    juris_options = sorted({j for v in juris_values for j in _split_jurisdictions(v)})
     juris_filter = st.sidebar.multiselect(
         "Jurisdiction", juris_options, default=juris_options
     )
@@ -1682,7 +1963,11 @@ def source_manager_view() -> None:
 
     q = df.copy()
     if juris_filter:
-        q = q[q["jurisdiction_code"].isin(juris_filter)]
+        q = q[
+            q["jurisdiction"]
+            .astype(str)
+            .apply(lambda v: bool(set(_split_jurisdictions(v)) & set(juris_filter)))
+        ]
     if doc_filter:
         q = q[q["document_type"].isin(doc_filter)]
     if active_filter == "active only":
@@ -1695,8 +1980,8 @@ def source_manager_view() -> None:
         q[
             [
                 "source_id",
-                "jurisdiction_code",
-                "instrument_id",
+                "scheme_id",
+                "jurisdiction",
                 "document_type",
                 "source_type",
                 "active",
@@ -1706,6 +1991,236 @@ def source_manager_view() -> None:
         ].reset_index(drop=True),
         height=300,
     )
+
+    st.markdown("---")
+    st.subheader("Add or edit a source")
+
+    mode = st.radio("Mode", ["Add new", "Edit existing"], horizontal=True)
+
+    if mode == "Edit existing" and not q.empty:
+        selected_source_id = st.selectbox(
+            "Select source_id to edit", options=q["source_id"].tolist()
+        )
+        row = df[df["source_id"] == selected_source_id].iloc[0]
+    else:
+        selected_source_id = None
+        row = pd.Series({col: "" for col in REQUIRED_SOURCE_COLUMNS})
+
+    schemes_for_juris = pd.DataFrame()
+    if not schemes.empty:
+        schemes_for_juris = schemes.copy()
+
+    scheme_options = []
+    if not schemes.empty and "scheme_id" in schemes.columns:
+        if "scheme_name" in schemes.columns:
+            scheme_options = (
+                schemes["scheme_id"].astype(str)
+                + " – "
+                + schemes["scheme_name"].astype(str)
+            ).tolist()
+        else:
+            scheme_options = schemes["scheme_id"].astype(str).tolist()
+    current_inst = row.get("scheme_id", "")
+    default_idx = 0
+    if current_inst:
+        for i, s in enumerate(scheme_options):
+            if s.startswith(current_inst + " –") or s == current_inst:
+                default_idx = i
+                break
+    scheme_choice = st.selectbox(
+        "Scheme ID",
+        options=[""] + scheme_options,
+        index=0 if not current_inst else default_idx + 1,
+    )
+    scheme_id = scheme_choice.split(" – ", 1)[0] if scheme_choice else ""
+
+    jurisdiction_options = load_jurisdiction_options()
+    current_jurisdictions = _split_jurisdictions(row.get("jurisdiction", ""))
+    jurisdiction = st.multiselect(
+        "Jurisdiction",
+        options=jurisdiction_options,
+        default=[j for j in current_jurisdictions if j in jurisdiction_options],
+    )
+    juris_for_form = ", ".join(jurisdiction)
+
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        document_type = st.selectbox(
+            "Document type",
+            options=["legislation", "official_publication", "webpage", "report"],
+            index=["legislation", "official_publication", "webpage", "report"].index(
+                row.get("document_type", "webpage")
+            )
+            if row.get("document_type", "") in [
+                "legislation",
+                "official_publication",
+                "webpage",
+                "report",
+            ]
+            else 2,
+        )
+        existing_ids = set(df["source_id"].dropna().astype(str).tolist())
+        prefix_map = _build_jurisdiction_prefix_map(df)
+        auto_mode = st.checkbox(
+            "Auto-generate Source ID", value=True, key="source_id_auto_mode"
+        )
+        source_id_value = row.get("source_id", "") if mode == "Edit existing" else ""
+        if auto_mode and mode != "Edit existing":
+            primary_jurisdiction = jurisdiction[0] if jurisdiction else ""
+            auto_source_id = _suggest_source_id(
+                primary_jurisdiction, document_type, existing_ids, prefix_map
+            )
+            source_id = st.text_input(
+                "Source ID",
+                value=auto_source_id,
+                help="Auto-generated from jurisdiction and document type.",
+                disabled=True,
+            )
+        else:
+            source_id = st.text_input(
+                "Source ID",
+                value=source_id_value,
+                help="Unique identifier, e.g. CAN-AB-leg-005",
+            )
+    with col2:
+        source_type = st.selectbox(
+            "Source type",
+            options=["html_page", "pdf_direct", "html_index_pdf_links"],
+            index=["html_page", "pdf_direct", "html_index_pdf_links"].index(
+                row.get("source_type", "html_page")
+            )
+            if row.get("source_type", "") in [
+                "html_page",
+                "pdf_direct",
+                "html_index_pdf_links",
+            ]
+            else 0,
+        )
+        access_method_options = ["requests"]
+        current_access = str(row.get("access_method", "requests") or "requests").strip()
+        if current_access and current_access not in access_method_options:
+            access_method_options = [current_access] + access_method_options
+        access_method = st.selectbox(
+            "Access method",
+            options=access_method_options,
+            index=access_method_options.index(current_access)
+            if current_access in access_method_options
+            else 0,
+        )
+    with col3:
+        change_frequency = st.selectbox(
+            "Change frequency",
+            options=["ad_hoc", "annual", "monthly", "continuous"],
+            index=["ad_hoc", "annual", "monthly", "continuous"].index(
+                row.get("change_frequency", "ad_hoc")
+            )
+            if row.get("change_frequency", "") in [
+                "ad_hoc",
+                "annual",
+                "monthly",
+                "continuous",
+            ]
+            else 0,
+        )
+        active = st.checkbox(
+            "Active (include in fetch-all)",
+            value=str(row.get("active", "1")) in ["1", "True", "true"],
+        )
+
+    url = st.text_input("URL", value=row.get("url", ""))
+    if st.button("Validate URL"):
+        ok, msg = validate_url(url)
+        if ok:
+            st.success(f"URL looks good: {msg}")
+        else:
+            st.error(f"URL problem: {msg}")
+
+    title = st.text_input("Title / description", value=row.get("title", ""))
+    doc_pattern_options = ["", "(20\\d{2})"]
+    current_pattern = str(row.get("doc_pattern", "") or "").strip()
+    if current_pattern and current_pattern not in doc_pattern_options:
+        doc_pattern_options = [current_pattern] + doc_pattern_options
+    doc_pattern = st.selectbox(
+        "doc_pattern (optional)",
+        options=doc_pattern_options,
+        index=doc_pattern_options.index(current_pattern)
+        if current_pattern in doc_pattern_options
+        else 0,
+    )
+
+    parsing_options = ["generic_html", "generic_pdf"]
+    suggested_parsing = "generic_pdf" if source_type == "pdf_direct" else "generic_html"
+    current_parsing = str(row.get("parsing_strategy", suggested_parsing) or suggested_parsing).strip()
+    if current_parsing and current_parsing not in parsing_options:
+        parsing_options = [current_parsing] + parsing_options
+    parsing_strategy = st.selectbox(
+        "Parsing strategy",
+        options=parsing_options,
+        index=parsing_options.index(current_parsing)
+        if current_parsing in parsing_options
+        else 0,
+    )
+
+    institution = st.text_input("Institution", value=row.get("institution", ""))
+    year = st.text_input("Year", value=row.get("year", ""))
+    auto_citation = st.checkbox(
+        "Auto-generate citation key",
+        value=not bool(str(row.get("citation_key", "")).strip()),
+        key="citation_key_auto",
+    )
+    suggested_citation = _build_citation_key(document_type, institution, year)
+    if auto_citation:
+        citation_key = st.text_input(
+            "Citation key",
+            value=suggested_citation,
+            disabled=True,
+        )
+    else:
+        citation_key = st.text_input("Citation key", value=row.get("citation_key", ""))
+    notes = st.text_area("Notes", value=row.get("notes", ""), height=80)
+
+    if st.button("Save source", type="primary"):
+        if not source_id:
+            st.error("source_id is required.")
+        elif not url:
+            st.error("URL is required.")
+        elif not jurisdiction:
+            st.error("At least one jurisdiction is required.")
+        else:
+            if auto_mode and mode != "Edit existing":
+                source_id = auto_source_id
+            new_row = {
+                "source_id": source_id,
+                "jurisdiction": juris_for_form,
+                "scheme_id": scheme_id,
+                "document_type": document_type,
+                "url": url,
+                "source_type": source_type,
+                "doc_pattern": doc_pattern,
+                "access_method": access_method,
+                "parsing_strategy": parsing_strategy,
+                "change_frequency": change_frequency,
+                "active": "1" if active else "0",
+                "title": title,
+                "institution": institution,
+                "year": year,
+                "citation_key": citation_key,
+                "notes": notes,
+            }
+
+            df_cur = load_sources()
+            if source_id in df_cur["source_id"].values:
+                df_cur.loc[df_cur["source_id"] == source_id, :] = new_row
+                st.success(f"Updated existing source {source_id}")
+            else:
+                df_cur = pd.concat(
+                    [df_cur, pd.DataFrame([new_row])], ignore_index=True
+                )
+                st.success(f"Added new source {source_id}")
+
+            save_sources(df_cur)
+            st.cache_data.clear()  # refresh cached views
+            st.rerun()
 
     st.markdown("---")
     st.subheader("Discovery candidates")
@@ -1765,7 +2280,7 @@ def source_manager_view() -> None:
             "title",
             "year_guess",
             "jurisdiction_code",
-            "instrument_id",
+            "scheme_id",
             "method",
             "score",
         ]
@@ -1793,7 +2308,7 @@ def source_manager_view() -> None:
             key="discovery_candidates_table",
         )
 
-        def _suggest_source_id(
+        def _suggest_disc_source_id(
             jurisdiction_code: str, year_guess: str, existing_ids: set[str]
         ) -> str:
             base = "DISC"
@@ -1827,13 +2342,13 @@ def source_manager_view() -> None:
             cand = dq[dq["candidate_id"] == selected_disc_id].iloc[0]
             existing_ids = set(df["source_id"].dropna().astype(str).tolist())
             new_instrument = st.checkbox(
-                "New instrument", value=False, key="promote_new_instrument"
+                "New scheme", value=False, key="promote_new_instrument"
             )
             with st.form("promote_discovery_candidate"):
                 st.markdown("**Promote candidate to sources.csv**")
                 source_id = st.text_input(
                     "New source_id",
-                    value=_suggest_source_id(
+                    value=_suggest_disc_source_id(
                         str(cand.get("jurisdiction_code", "")).strip(),
                         str(cand.get("year_guess", "")).strip(),
                         existing_ids,
@@ -1857,8 +2372,8 @@ def source_manager_view() -> None:
                 instrument_options = [""] + load_instrument_options()
                 default_instrument = str(cand.get("instrument_id", "")).strip()
                 if new_instrument:
-                    instrument_id = st.text_input(
-                        "Instrument ID (scheme_id)",
+                    scheme_id = st.text_input(
+                        "Scheme ID",
                         value=default_instrument,
                         key="promote_instrument_input",
                     )
@@ -1871,8 +2386,8 @@ def source_manager_view() -> None:
                         )
                     except Exception:
                         default_inst_index = 0
-                    instrument_id = st.selectbox(
-                        "Instrument ID (scheme_id)",
+                    scheme_id = st.selectbox(
+                        "Scheme ID",
                         options=instrument_options,
                         index=default_inst_index,
                         key="promote_instrument_select",
@@ -1907,14 +2422,14 @@ def source_manager_view() -> None:
                     elif not url:
                         st.error("URL is required.")
                     elif not juris_for_form:
-                        st.error("Jurisdiction code is required.")
+                        st.error("Jurisdiction is required.")
                     elif source_id in existing_ids:
                         st.error("source_id already exists in sources.csv.")
                     else:
                         new_row = {
                             "source_id": source_id,
-                            "jurisdiction_code": juris_for_form,
-                            "instrument_id": instrument_id,
+                            "jurisdiction": juris_for_form,
+                            "scheme_id": scheme_id,
                             "document_type": document_type,
                             "url": url,
                             "source_type": source_type,
@@ -1940,180 +2455,6 @@ def source_manager_view() -> None:
                         st.success(f"Added new source {source_id}")
                         st.cache_data.clear()
                         st.rerun()
-
-    st.markdown("---")
-    st.subheader("Add or edit a source")
-
-    mode = st.radio("Mode", ["Add new", "Edit existing"], horizontal=True)
-
-    if mode == "Edit existing" and not q.empty:
-        selected_source_id = st.selectbox(
-            "Select source_id to edit", options=q["source_id"].tolist()
-        )
-        row = df[df["source_id"] == selected_source_id].iloc[0]
-    else:
-        selected_source_id = None
-        row = pd.Series({col: "" for col in REQUIRED_SOURCE_COLUMNS})
-
-    juris_for_form = st.text_input(
-        "Jurisdiction code", value=row.get("jurisdiction_code", "")
-    )
-
-    schemes_for_juris = pd.DataFrame()
-    if not schemes.empty and juris_for_form:
-        schemes_for_juris = schemes[
-            schemes["scheme_name"].str.contains(
-                juris_for_form, case=False, na=False
-            )
-        ]
-
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        source_id = st.text_input(
-            "Source ID",
-            value=row.get("source_id", ""),
-            help="Unique identifier, e.g. CAN-AB-leg-005",
-        )
-        document_type = st.selectbox(
-            "Document type",
-            options=["legislation", "official_publication", "webpage", "report"],
-            index=["legislation", "official_publication", "webpage", "report"].index(
-                row.get("document_type", "webpage")
-            )
-            if row.get("document_type", "") in [
-                "legislation",
-                "official_publication",
-                "webpage",
-                "report",
-            ]
-            else 2,
-        )
-    with col2:
-        source_type = st.selectbox(
-            "Source type",
-            options=["html_page", "pdf_direct", "html_index_pdf_links"],
-            index=["html_page", "pdf_direct", "html_index_pdf_links"].index(
-                row.get("source_type", "html_page")
-            )
-            if row.get("source_type", "") in [
-                "html_page",
-                "pdf_direct",
-                "html_index_pdf_links",
-            ]
-            else 0,
-        )
-        access_method = st.text_input(
-            "Access method", value=row.get("access_method", "requests")
-        )
-    with col3:
-        change_frequency = st.selectbox(
-            "Change frequency",
-            options=["ad_hoc", "annual", "monthly", "continuous"],
-            index=["ad_hoc", "annual", "monthly", "continuous"].index(
-                row.get("change_frequency", "ad_hoc")
-            )
-            if row.get("change_frequency", "") in [
-                "ad_hoc",
-                "annual",
-                "monthly",
-                "continuous",
-            ]
-            else 0,
-        )
-        active = st.checkbox(
-            "Active (include in fetch-all)",
-            value=str(row.get("active", "1")) in ["1", "True", "true"],
-        )
-
-    url = st.text_input("URL", value=row.get("url", ""))
-    if st.button("Validate URL"):
-        ok, msg = validate_url(url)
-        if ok:
-            st.success(f"URL looks good: {msg}")
-        else:
-            st.error(f"URL problem: {msg}")
-
-    title = st.text_input("Title / description", value=row.get("title", ""))
-    doc_pattern = st.text_input(
-        "doc_pattern (optional)", value=row.get("doc_pattern", "")
-    )
-    parsing_strategy = st.text_input(
-        "Parsing strategy", value=row.get("parsing_strategy", "generic_html")
-    )
-
-    st.markdown("### Instrument / scheme mapping")
-
-    if not schemes_for_juris.empty:
-        scheme_options = (
-            schemes_for_juris["scheme_id"] + " – " + schemes_for_juris["scheme_name"]
-        ).tolist()
-        current_inst = row.get("instrument_id", "")
-        default_idx = 0
-        if current_inst:
-            for i, s in enumerate(scheme_options):
-                if s.startswith(current_inst + " –"):
-                    default_idx = i
-                    break
-
-        scheme_choice = st.selectbox(
-            "Scheme for this source (filtered by jurisdiction substring)",
-            options=[""] + scheme_options,
-            index=0 if not current_inst else default_idx + 1,
-        )
-        if scheme_choice:
-            instrument_id = scheme_choice.split(" – ", 1)[0]
-        else:
-            instrument_id = row.get("instrument_id", "")
-    else:
-        instrument_id = st.text_input(
-            "Instrument ID (scheme_id)", value=row.get("instrument_id", "")
-        )
-
-    institution = st.text_input("Institution", value=row.get("institution", ""))
-    year = st.text_input("Year", value=row.get("year", ""))
-    citation_key = st.text_input("Citation key", value=row.get("citation_key", ""))
-    notes = st.text_area("Notes", value=row.get("notes", ""), height=80)
-
-    if st.button("Save source", type="primary"):
-        if not source_id:
-            st.error("source_id is required.")
-        elif not url:
-            st.error("URL is required.")
-        elif not juris_for_form:
-            st.error("Jurisdiction code is required.")
-        else:
-            new_row = {
-                "source_id": source_id,
-                "jurisdiction_code": juris_for_form,
-                "instrument_id": instrument_id,
-                "document_type": document_type,
-                "url": url,
-                "source_type": source_type,
-                "doc_pattern": doc_pattern,
-                "access_method": access_method,
-                "parsing_strategy": parsing_strategy,
-                "change_frequency": change_frequency,
-                "active": "1" if active else "0",
-                "title": title,
-                "institution": institution,
-                "year": year,
-                "citation_key": citation_key,
-                "notes": notes,
-            }
-
-            df_cur = load_sources()
-            if source_id in df_cur["source_id"].values:
-                df_cur.loc[df_cur["source_id"] == source_id, :] = new_row
-                st.success(f"Updated existing source {source_id}")
-            else:
-                df_cur = pd.concat(
-                    [df_cur, pd.DataFrame([new_row])], ignore_index=True
-                )
-                st.success(f"Added new source {source_id}")
-
-            save_sources(df_cur)
-            st.cache_data.clear()  # refresh cached views
-            st.rerun()
 
 
 # -------------------------------------------------------------------
@@ -2214,10 +2555,72 @@ def scheme_intake_view() -> None:
                             "snippet": hit.get("snippet", ""),
                         }
                     )
-        if rows:
-            st.dataframe(pd.DataFrame(rows), use_container_width=True, height=320)
+        st.session_state["scheme_intake_results"] = rows
+
+    rows = st.session_state.get("scheme_intake_results", [])
+    if rows:
+        results_df = pd.DataFrame(rows)
+        st.dataframe(results_df, use_container_width=True, height=320)
+        if st.button("Save results to discovery_candidates.csv"):
+            save_rows: list[dict[str, str]] = []
+            for row in rows:
+                save_rows.append(
+                    {
+                        "url": row.get("url", ""),
+                        "title": row.get("title", ""),
+                        "year_guess": str(target_year),
+                        "jurisdiction_code": "",
+                        "instrument_id": "",
+                        "method": "serpapi",
+                        "source_seed": f"scheme_intake:{row.get('query', '')}",
+                        "score": "",
+                    }
+                )
+            added = _append_discovery_candidates(save_rows)
+            if added:
+                st.success(f"Saved {added} new discovery candidates.")
+            else:
+                st.info("No new candidates to save (all URLs already present).")
+    elif st.session_state.get("scheme_intake_results") is not None:
+        st.info("No results returned.")
+
+    st.markdown("---")
+    st.subheader("Edit scheme_description.csv")
+    st.caption("Update scheme characteristics for new or existing schemes.")
+    scheme_df = load_scheme_description()
+    if scheme_df.empty:
+        scheme_df = pd.DataFrame(columns=SCHEME_COLUMNS)
+    for col in SCHEME_COLUMNS:
+        if col not in scheme_df.columns:
+            scheme_df[col] = ""
+    scheme_df = scheme_df[SCHEME_COLUMNS]
+    edited_df = st.data_editor(
+        scheme_df,
+        use_container_width=True,
+        height=320,
+        num_rows="dynamic",
+        key="scheme_description_editor",
+    )
+    if st.button("Save scheme_description.csv"):
+        clean = edited_df.copy().fillna("")
+        for col in SCHEME_COLUMNS:
+            if col not in clean.columns:
+                clean[col] = ""
+        clean = clean[SCHEME_COLUMNS]
+        clean["scheme_id"] = clean["scheme_id"].astype(str).str.strip()
+        nonempty_mask = clean.apply(
+            lambda row: any(str(v).strip() for v in row.tolist()), axis=1
+        )
+        clean = clean[nonempty_mask]
+        if clean["scheme_id"].eq("").any():
+            st.error("Scheme ID is required for all rows.")
+        elif clean["scheme_id"].duplicated().any():
+            st.error("Duplicate scheme_id values detected. Please make them unique.")
         else:
-            st.info("No results returned.")
+            SCHEME_PATH.parent.mkdir(parents=True, exist_ok=True)
+            clean.to_csv(SCHEME_PATH, index=False)
+            st.cache_data.clear()
+            st.success(f"Saved {len(clean)} schemes to {SCHEME_PATH}.")
 
     st.markdown("---")
     st.subheader("Generate targeted discovery queries")
@@ -2292,6 +2695,7 @@ def prices_editor_view(reviewer: str) -> None:
 
     scheme_id = st.selectbox("Scheme ID", sorted(scheme_options))
     price_path = _price_file_path(scheme_id)
+    temp_path = _temp_path(price_path)
 
     existing_df = pd.DataFrame(
         columns=[
@@ -2311,6 +2715,8 @@ def prices_editor_view(reviewer: str) -> None:
     if not existing_df.empty:
         st.caption(f"Existing prices in {price_path}")
         st.dataframe(existing_df.tail(20), height=200)
+    if temp_path.exists():
+        st.caption(f"Temp file detected: {temp_path}")
 
     ghg_options = ["CO2", "CH4", "N2O", "F-GASES"]
     products = load_price_products()
@@ -2319,9 +2725,9 @@ def prices_editor_view(reviewer: str) -> None:
     with col1:
         year = int(st.number_input("Year", min_value=1990, max_value=2100, value=2024))
     with col2:
-        ghg = st.selectbox("GHG", ghg_options)
+        ghg = st.multiselect("GHG", ghg_options, default=["CO2"])
     with col3:
-        product = st.selectbox("Product / fuel", products)
+        product = st.multiselect("Product / fuel", products, default=products[:1])
     with col4:
         currency_code = st.text_input("Currency code", value="")
 
@@ -2335,26 +2741,38 @@ def prices_editor_view(reviewer: str) -> None:
 
     conflict = False
     conflict_details: list[str] = []
-    if not existing_df.empty:
+    check_df = existing_df
+    if temp_path.exists():
+        try:
+            check_df = pd.read_csv(temp_path, dtype=str)
+        except Exception:
+            check_df = existing_df
+    ghg_sel = [g for g in ghg if g]
+    product_sel = [p for p in product if p]
+    if not ghg_sel or not product_sel:
+        st.warning("Select at least one GHG and one product.")
+    if not check_df.empty and ghg_sel and product_sel:
         mask = (
-            (existing_df["year"].astype(str) == str(year))
-            & (existing_df["ghg"].astype(str) == ghg)
-            & (existing_df["product"].astype(str) == product)
+            (check_df["year"].astype(str) == str(year))
+            & (check_df["ghg"].astype(str).isin(ghg_sel))
+            & (check_df["product"].astype(str).isin(product_sel))
         )
         if mask.any():
-            existing_row = existing_df[mask].iloc[0]
-            for field, new_value in [
-                ("rate", rate),
-                ("currency_code", currency_code),
-                ("source", source),
-                ("comment", comment),
-            ]:
-                old_value = existing_row.get(field, "")
-                if _is_nonempty(old_value) and str(old_value).strip() != str(new_value).strip():
-                    conflict = True
-                    conflict_details.append(
-                        f"{field}: existing '{old_value}' vs new '{new_value}'"
-                    )
+            existing_rows = check_df[mask]
+            for _, existing_row in existing_rows.iterrows():
+                for field, new_value in [
+                    ("rate", rate),
+                    ("currency_code", currency_code),
+                    ("source", source),
+                    ("comment", comment),
+                ]:
+                    old_value = existing_row.get(field, "")
+                    if _is_nonempty(old_value) and str(old_value).strip() != str(new_value).strip():
+                        conflict = True
+                        conflict_details.append(
+                            f"{existing_row.get('ghg','')} {existing_row.get('product','')}: "
+                            f"{field} existing '{old_value}' vs new '{new_value}'"
+                        )
 
     confirm = True
     if conflict:
@@ -2367,32 +2785,55 @@ def prices_editor_view(reviewer: str) -> None:
         if conflict and not confirm:
             st.error("Resolve conflict confirmation before writing.")
             return
+        if not ghg_sel or not product_sel:
+            st.error("Select at least one GHG and one product before writing.")
+            return
 
-        new_row = {
-            "scheme_id": scheme_id,
-            "year": str(year),
-            "ghg": ghg,
-            "product": product,
-            "rate": rate,
-            "currency_code": currency_code,
-            "source": source,
-            "comment": comment,
-        }
-
-        df_out = existing_df.copy()
+        record_date = dt.datetime.utcnow().date().isoformat()
+        df_out = check_df.copy()
+        mask = None
+        new_rows: list[dict[str, str]] = []
+        for g in ghg_sel:
+            for p in product_sel:
+                new_rows.append(
+                    {
+                        "scheme_id": scheme_id,
+                        "year": str(year),
+                        "ghg": g,
+                        "product": p,
+                        "rate": rate,
+                        "currency_code": currency_code,
+                        "source": source,
+                        "comment": comment,
+                        "record_date": record_date,
+                    }
+                )
         if df_out.empty:
-            df_out = pd.DataFrame([new_row])
+            df_out = pd.DataFrame(new_rows)
         else:
             mask = (
                 (df_out["year"].astype(str) == str(year))
-                & (df_out["ghg"].astype(str) == ghg)
-                & (df_out["product"].astype(str) == product)
+                & (df_out["ghg"].astype(str).isin(ghg_sel))
+                & (df_out["product"].astype(str).isin(product_sel))
             )
             if mask.any():
-                df_out.loc[mask, :] = new_row
+                for row in new_rows:
+                    row_mask = (
+                        (df_out["year"].astype(str) == str(year))
+                        & (df_out["ghg"].astype(str) == row["ghg"])
+                        & (df_out["product"].astype(str) == row["product"])
+                    )
+                    if row_mask.any():
+                        df_out.loc[row_mask, :] = row
+                    else:
+                        df_out = pd.concat([df_out, pd.DataFrame([row])], ignore_index=True)
             else:
-                df_out = pd.concat([df_out, pd.DataFrame([new_row])], ignore_index=True)
+                df_out = pd.concat([df_out, pd.DataFrame(new_rows)], ignore_index=True)
 
+        if "record_date" not in df_out.columns:
+            df_out["record_date"] = ""
+        if mask is not None and mask.any():
+            df_out.loc[mask, "record_date"] = record_date
         df_out = df_out[
             [
                 "scheme_id",
@@ -2403,17 +2844,17 @@ def prices_editor_view(reviewer: str) -> None:
                 "currency_code",
                 "source",
                 "comment",
+                "record_date",
             ]
         ]
         df_out = df_out.sort_values(by=["year", "ghg", "product"])
 
-        out_path = _timestamped_path(price_path)
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        df_out.to_csv(out_path, index=False)
-        st.success(f"Wrote new price file: {out_path}")
+        temp_path.parent.mkdir(parents=True, exist_ok=True)
+        df_out.to_csv(temp_path, index=False)
+        st.success(f"Wrote temp price file: {temp_path}")
         st.info("Use the promote section below to replace the canonical file.")
 
-    _promote_file_ui(price_path, key_prefix=f"price_{scheme_id}")
+    _promote_temp_price_ui(price_path, temp_path, key_prefix=f"price_{scheme_id}")
 
 
 def _coerce_year_key(year: int, mapping: dict[Any, Any]) -> Any:
@@ -2427,7 +2868,7 @@ def _coerce_year_key(year: int, mapping: dict[Any, Any]) -> Any:
 def scope_editor_view(reviewer: str) -> None:
     st.subheader("Scope")
 
-    gas_label = st.selectbox("Gas", list(GAS_OPTIONS.keys()))
+    gas_label = st.session_state.get("scope_gas", list(GAS_OPTIONS.keys())[0])
 
     ets_data = load_scope_data(gas_label, "ets")
     tax_data = load_scope_data(gas_label, "tax")
@@ -2443,11 +2884,13 @@ def scope_editor_view(reviewer: str) -> None:
         return
 
     scheme_label = st.selectbox(
-        "Scheme",
+        "Scheme ID",
         sorted({f"{sid} ({stype})" for sid, stype in scheme_choices}),
     )
     scheme_id = scheme_label.split(" (", 1)[0]
     scheme_type = scheme_label.split(" (", 1)[1].rstrip(")")
+
+    gas_label = st.selectbox("Gas", list(GAS_OPTIONS.keys()), key="scope_gas")
 
     if scheme_type == "ets":
         data_block = ets_data["data"]
@@ -2570,6 +3013,7 @@ def _flatten_rebates(exemptions: list[Any], sources: list[Any]) -> list[dict[str
         ipcc_map = exemption.get("ipcc", {})
         fuel_map = exemption.get("fuel", {})
         val_map = exemption.get("value", {})
+        scheme_map = exemption.get("scheme_id", {})
         for year_key, jurisdictions in jur_map.items():
             year = int(year_key) if str(year_key).isdigit() else year_key
             rows.append(
@@ -2580,6 +3024,7 @@ def _flatten_rebates(exemptions: list[Any], sources: list[Any]) -> list[dict[str
                     "fuels": fuel_map.get(year_key, []),
                     "value": val_map.get(year_key, ""),
                     "source": source_map.get(year_key, ""),
+                    "scheme_id": scheme_map.get(year_key, ""),
                 }
             )
     return rows
@@ -2599,7 +3044,18 @@ def rebates_editor_view(reviewer: str) -> None:
         st.caption("Existing exemptions (sample)")
         st.dataframe(pd.DataFrame(flattened).head(20), height=200)
 
-    year = int(st.number_input("Year (rebate)", min_value=1990, max_value=2100, value=2024, key="rebate_year"))
+    scheme_type_map = load_scheme_type_map()
+    scheme_options = sorted(
+        [sid for sid, stype in scheme_type_map.items() if stype == "tax"]
+    )
+    scheme_options = [""] + scheme_options if scheme_options else [""]
+    scheme_id = st.selectbox("Scheme ID (rebate)", options=scheme_options, key="rebate_scheme_id")
+
+    year = int(
+        st.number_input(
+            "Year (rebate)", min_value=1990, max_value=2100, value=2024, key="rebate_year"
+        )
+    )
 
     scope_jur_options: set[str] = set()
     try:
@@ -2628,6 +3084,8 @@ def rebates_editor_view(reviewer: str) -> None:
     for row in flattened:
         if row["year"] != year:
             continue
+        if scheme_id and row.get("scheme_id") and str(row.get("scheme_id")).strip() != scheme_id:
+            continue
         if not (set(row["jurisdictions"]) & set(jurisdictions)):
             continue
         if not (set(row["ipcc"]) & set(ipcc_codes)):
@@ -2652,8 +3110,12 @@ def rebates_editor_view(reviewer: str) -> None:
         if conflict and not confirm:
             st.error("Resolve conflict confirmation before writing.")
             return
+        if not scheme_id:
+            st.error("Select a Scheme ID before writing.")
+            return
 
         new_exemption = {
+            "scheme_id": {year: scheme_id},
             "jurisdiction": {year: jurisdictions},
             "ipcc": {year: ipcc_codes},
             "fuel": {year: fuels},
@@ -2730,7 +3192,7 @@ def gap_dashboard_view() -> None:
         st.number_input("Target year", min_value=1990, max_value=current + 2, value=current)
     )
 
-    expected = set(load_expected_schemes_for_gas(gas_label))
+    expected = set(load_expected_schemes_for_gas(gas_label, target_year=target_year))
 
     icap_sig = _icap_price_signature()
     raw_price = load_raw_price_presence(target_year, gas_label, icap_sig)
@@ -2800,6 +3262,68 @@ def gap_dashboard_view() -> None:
             st.session_state["gap_apply_filters"] = True
             st.session_state["pending_view"] = "Review candidates"
             st.rerun()
+
+        st.markdown("---")
+        st.subheader("Generate discovery queries from raw gaps")
+        st.caption(
+            "Writes _raw/sources/discovery_queries.csv with queries including scheme name and year."
+        )
+        extra_keywords = st.text_area(
+            "Optional keywords (one per line)",
+            value="",
+            height=80,
+            help="If provided, each keyword will be appended to the base query.",
+        )
+        if st.button("Write discovery_queries.csv from gaps"):
+            scheme_desc = load_scheme_description()
+            scheme_name_map = {}
+            if not scheme_desc.empty:
+                for _, row in scheme_desc.iterrows():
+                    sid = str(row.get("scheme_id", "")).strip()
+                    sname = str(row.get("scheme_name", "")).strip()
+                    if sid:
+                        scheme_name_map[sid] = sname
+            keywords = [k.strip() for k in extra_keywords.splitlines() if k.strip()]
+            queries: list[dict[str, str]] = []
+            for row in raw_rows:
+                scheme_id = str(row.get("scheme_id", "")).strip()
+                scheme_name = scheme_name_map.get(scheme_id, "") or scheme_id
+                year = str(row.get("year", "")).strip()
+                data_type = str(row.get("data_type", "")).strip()
+                if not scheme_name or not year:
+                    continue
+                base = f"\"{scheme_name}\" {year}"
+                hint = data_type.replace("coverageFactor", "coverage factor").strip()
+                if hint:
+                    base = f"{base} {hint}"
+                if keywords:
+                    for kw in keywords:
+                        queries.append(
+                            {
+                                "query": f"{base} {kw}",
+                                "jurisdiction_code": "",
+                                "instrument_id": scheme_id,
+                                "source_seed": "gap_dashboard",
+                                "year": year,
+                            }
+                        )
+                else:
+                    queries.append(
+                        {
+                            "query": base,
+                            "jurisdiction_code": "",
+                            "instrument_id": scheme_id,
+                            "source_seed": "gap_dashboard",
+                            "year": year,
+                        }
+                    )
+            out_path = RAW_ROOT / "discovery_queries.csv"
+            if queries:
+                df_out = pd.DataFrame(queries).drop_duplicates()
+                df_out.to_csv(out_path, index=False)
+                st.success(f"Wrote {len(df_out)} queries to {out_path}.")
+            else:
+                st.info("No queries generated from current gaps.")
     else:
         st.success("No raw data gaps detected for the selected gas/year.")
 
@@ -2829,7 +3353,7 @@ def gap_dashboard_view() -> None:
 def raw_editor_view(reviewer: str) -> None:
     st.title("WCPD – Raw Editor")
     st.caption(
-        "Writes timestamped files for safety; original raw files remain unchanged."
+        "Writes temp or timestamped files for safety; original raw files remain unchanged."
     )
     tabs = st.tabs(["Prices", "Scope", "Price Rebates", "Coverage Factors", "Overlaps"])
     with tabs[0]:
@@ -2853,14 +3377,36 @@ def main():
     st.set_page_config(page_title="WCPD – Upstream Workbench", layout="wide")
     apply_wcpd_branding()
 
+    st.markdown(
+        '<div class="wcpd-top-banner">WCPD – Upstream Workbench</div>',
+        unsafe_allow_html=True,
+    )
+
     with st.expander("How to use this app", expanded=False):
+        st.graphviz_chart(
+            """
+digraph WCPD {
+  rankdir=LR;
+  node [shape=box, style=rounded, fontsize=11];
+  A [label="Scheme intake"];
+  B [label="Gap dashboard"];
+  C [label="Manage sources"];
+  D [label="Review candidates"];
+  E [label="Raw editor"];
+  F [label="Run discovery"];
+  A -> B -> C -> D -> E;
+  C -> F [style=dashed, label="discovery queries"];
+  F -> C;
+}
+"""
+        )
         st.markdown(
             """
 **Recommended flow**
-1. **Gap dashboard**: identify missing data by scheme/year/variable.
-2. **Scheme intake**: review current schemes and run targeted web discovery queries.
-3. **Review candidates**: jump from a selected gap to filtered candidate evidence.
-4. **Manage sources**: add or edit sources when candidates are missing or incomplete.
+1. **Scheme intake**: review current schemes and run targeted web discovery queries.
+2. **Gap dashboard**: identify missing data by scheme/year/variable.
+3. **Manage sources**: add or edit sources when candidates are missing or incomplete.
+4. **Review candidates**: jump from a selected gap to filtered candidate evidence.
 5. **Raw editor**: apply edits to raw inputs (prices, scope, rebates, coverage factors).
 
 **Notes**
@@ -2877,14 +3423,14 @@ def main():
     if pending_view:
         st.session_state["view"] = pending_view
     if "view" not in st.session_state:
-        st.session_state["view"] = "Gap dashboard"
+        st.session_state["view"] = "Scheme intake"
     view = st.sidebar.radio(
         "View",
         options=[
-            "Gap dashboard",
             "Scheme intake",
-            "Review candidates",
+            "Gap dashboard",
             "Manage sources",
+            "Review candidates",
             "Raw editor",
         ],
         index=0,

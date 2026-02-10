@@ -8,10 +8,10 @@ This document describes the Streamlit review app used to manage upstream sources
 
 ## What the app does
 The app is split into five main areas:
-1. **Gap dashboard**: identify missing data by scheme/year/variable and jump to Review candidates with filters applied.
-2. **Scheme intake**: review existing schemes and run SerpAPI searches for newly launched schemes.
-3. **Review candidates**: review extracted candidates from fetched sources.
-4. **Manage sources**: edit the upstream sources registry for the fetcher and promote discovery candidates.
+1. **Scheme intake**: review existing schemes and run SerpAPI searches for newly launched schemes.
+2. **Gap dashboard**: identify missing data by scheme/year/variable and jump to Review candidates with filters applied.
+3. **Manage sources**: edit the upstream sources registry for the fetcher and promote discovery candidates.
+4. **Review candidates**: review extracted candidates from fetched sources.
 5. **Raw editor**: write updates directly into raw data files (prices, scope, rebates) using timestamped output files for safety.
 
 **How Review Candidates connects to Raw Editor**  
@@ -53,24 +53,16 @@ These outputs include the reviewed **GHG**, **fuel/product**, and **IPCC** selec
 - Overlaps: `_raw/overlap/overlap_mechanisms_<GAS>.csv`
 
 ## How to use the app
-### 1) Gap dashboard
-- Check missing raw inputs (price, scope, coverageFactor) for a target year and gas.
-- Click **Open in Review candidates** on a missing row to pre-fill filters.
-
-### 2) Scheme intake
+### 1) Scheme intake
 - Review the scheme list and whether each scheme appears in the dataset.
 - Run fixed SerpAPI query templates to identify new schemes (manual action only).
 - Generate a targeted `discovery_queries.csv` tied to scheme names and keywords.
 
-### 3) Review candidates
-- **Input**: `_raw/sources/cp_candidates.csv`
-- **Output**: `_raw/sources/cp_review_state.csv`
-- Use filters for jurisdiction, scheme, field, and confidence.
-- Save decisions as accepted/rejected/skipped. Edits are stored per candidate.
-- Use the **Applies to** selectors (GHG, fuel/product, IPCC category) to scope each accepted value.
-- For **tax rate** entries, you can optionally record **Effective date** and **End date** to support pro‑rata annual averages.
+### 2) Gap dashboard
+- Check missing raw inputs (price, scope, coverageFactor) for a target year and gas.
+- Click **Open in Review candidates** on a missing row to pre-fill filters.
 
-### 4) Manage sources
+### 3) Manage sources
 - **Input/Output**: `_raw/sources/sources.csv`
 - Add or edit upstream sources used by the fetcher.
 - URL validation is optional.
@@ -79,7 +71,15 @@ These outputs include the reviewed **GHG**, **fuel/product**, and **IPCC** selec
   - A **promoted** flag indicates if the candidate URL already exists in `sources.csv`.
   - The promote form uses controlled pickers for **Jurisdiction** and **Instrument ID** (with a **New instrument** toggle).
 
-### 4a) Source discovery (optional, upstream of Manage sources)
+### 4) Review candidates
+- **Input**: `_raw/sources/cp_candidates.csv`
+- **Output**: `_raw/sources/cp_review_state.csv`
+- Use filters for jurisdiction, scheme, field, and confidence.
+- Save decisions as accepted/rejected/skipped. Edits are stored per candidate.
+- Use the **Applies to** selectors (GHG, fuel/product, IPCC category) to scope each accepted value.
+- For **tax rate** entries, you can optionally record **Effective date** and **End date** to support pro‑rata annual averages.
+
+### 3a) Source discovery (optional, upstream of Manage sources)
 Run discovery to generate `discovery_candidates.csv`:
 - `python3 -m _code._sources_extraction.discover --years 2025,2026`
 - With SerpAPI (optional): `--search-provider serpapi` (uses `SERPAPI_KEY`)
