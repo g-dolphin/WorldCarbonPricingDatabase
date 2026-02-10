@@ -34,10 +34,12 @@ def load_sources(path: str | Path) -> List[Source]:
     df = pd.read_csv(path)
     sources: List[Source] = []
     for _, row in df.iterrows():
+        jurisdiction = str(row.get("jurisdiction", "") or row.get("jurisdiction_code", "")).strip()
+        scheme_id = str(row.get("scheme_id", "") or row.get("instrument_id", "")).strip()
         sources.append(Source(
             source_id=str(row["source_id"]),
-            jurisdiction_code=str(row.get("jurisdiction_code", "")),
-            instrument_id=str(row.get("instrument_id", "")),
+            jurisdiction_code=jurisdiction,
+            instrument_id=scheme_id,
             document_type=str(row.get("document_type", "")),
             url = str(row.get("url", "")).strip(),
             source_type = str(row.get("source_type", "html_page")).strip() or "html_page",
