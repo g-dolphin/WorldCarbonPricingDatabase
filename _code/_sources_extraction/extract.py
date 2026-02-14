@@ -20,11 +20,12 @@ class Artifact:
     local_path: str
 
 def load_text_artifacts(jurisdiction_filter: List[str] | None = None) -> List[Artifact]:
-    meta_path = RAW_ROOT / "meta" / "raw_artifacts.csv"
     artifacts: List[Artifact] = []
-
-    if not meta_path.exists():
-        raise FileNotFoundError(f"Could not find raw_artifacts metadata at {meta_path}")
+    meta_paths = list(RAW_ROOT.glob("*/meta/raw_artifacts.csv"))
+    if not meta_paths:
+        raise FileNotFoundError(
+            f"Could not find any raw_artifacts metadata under {RAW_ROOT}"
+        )
 
     # Build source_id → scheme_id/year lookup from sources file
     source_to_instrument: dict[str, str] = {}
@@ -40,36 +41,38 @@ def load_text_artifacts(jurisdiction_filter: List[str] | None = None) -> List[Ar
             if sid and year:
                 source_to_year[sid] = year
 
-    with meta_path.open(newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            if row.get("artifact_type") not in {"html", "pdf"}:
-                continue
+    for meta_path in meta_paths:
+        scheme_id = meta_path.parent.parent.name
+        with meta_path.open(newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                if row.get("artifact_type") not in {"html", "pdf"}:
+                    continue
 
-            juris = row.get("jurisdiction_code", "")
-            if jurisdiction_filter and juris not in jurisdiction_filter:
-                continue
+                juris = row.get("jurisdiction_code", "")
+                if jurisdiction_filter and juris not in jurisdiction_filter:
+                    continue
 
-            local_path = row.get("local_path", "")
-            parts = Path(local_path)
-            basename = parts.name.rsplit(".", 1)[0]
-            text_rel = Path("text") / row["source_id"] / f"{basename}.txt"
+                local_path = row.get("local_path", "")
+                parts = Path(local_path)
+                basename = parts.name.rsplit(".", 1)[0]
+                text_rel = Path(scheme_id) / "text" / row["source_id"] / f"{basename}.txt"
 
-            # Prefer instrument_id from meta; fall back to sources lookup
-            instrument_meta = str(row.get("instrument_id", "")).strip()
-            instrument_id = instrument_meta or source_to_instrument.get(row["source_id"], "")
-            year = source_to_year.get(row["source_id"], "")
+                # Prefer instrument_id from meta; fall back to sources lookup
+                instrument_meta = str(row.get("instrument_id", "")).strip()
+                instrument_id = instrument_meta or source_to_instrument.get(row["source_id"], "")
+                year = source_to_year.get(row["source_id"], "")
 
-            artifacts.append(
-                Artifact(
-                    artifact_id=row["artifact_id"],
-                    source_id=row["source_id"],
-                    jurisdiction_code=juris,
-                    instrument_id=instrument_id,
-                    year=year,
-                    local_path=str(text_rel),
+                artifacts.append(
+                    Artifact(
+                        artifact_id=row["artifact_id"],
+                        source_id=row["source_id"],
+                        jurisdiction_code=juris,
+                        instrument_id=instrument_id,
+                        year=year,
+                        local_path=str(text_rel),
+                    )
                 )
-            )
 
     return artifacts
 

@@ -30,7 +30,6 @@ RAW_ROOT = Path("_raw/sources")
 CAND_PATH = RAW_ROOT / "cp_candidates.csv"
 REVIEW_PATH = RAW_ROOT / "cp_review_state.csv"
 DISCOVERY_PATH = RAW_ROOT / "discovery_candidates.csv"
-META_PATH = RAW_ROOT / "meta" / "raw_artifacts.csv"
 SOURCES_PATH = RAW_ROOT / "sources.csv"  # or sources_master.csv later
 SCHEME_PATH = Path("_raw/_aux_files/scheme_description.csv")
 RAW_DB_ROOT = Path("_raw")
@@ -181,9 +180,22 @@ def load_review_state() -> pd.DataFrame:
 
 @st.cache_data
 def load_meta() -> pd.DataFrame:
-    if not META_PATH.exists():
+    meta_paths = list(RAW_ROOT.glob("*/meta/raw_artifacts.csv"))
+    if not meta_paths:
         return pd.DataFrame()
-    return pd.read_csv(META_PATH, dtype=str)
+    frames = []
+    for path in meta_paths:
+        try:
+            frames.append(pd.read_csv(path, dtype=str))
+        except Exception:
+            continue
+    if not frames:
+        return pd.DataFrame()
+    return pd.concat(frames, ignore_index=True)
+
+
+def _meta_paths() -> list[Path]:
+    return list(RAW_ROOT.glob("*/meta/raw_artifacts.csv"))
 
 
 @st.cache_data
@@ -1217,7 +1229,11 @@ def render_run_status() -> None:
     st.sidebar.caption(_file_status(REVIEW_PATH))
 
     st.sidebar.markdown("**raw_artifacts.csv**")
-    st.sidebar.caption(_file_status(META_PATH))
+    meta_paths = _meta_paths()
+    if not meta_paths:
+        st.sidebar.caption("❌ missing")
+    else:
+        st.sidebar.caption(f"✅ {len(meta_paths)} file(s)")
 
     st.sidebar.markdown("**sources_with_instruments.csv**")
     st.sidebar.caption(_file_status(SOURCES_PATH))
