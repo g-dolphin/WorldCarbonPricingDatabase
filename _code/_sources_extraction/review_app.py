@@ -37,6 +37,11 @@ RAW_PRICE_DIR = RAW_DB_ROOT / "price"
 RAW_SCOPE_DIR = RAW_DB_ROOT / "scope"
 RAW_REBATES_DIR = RAW_DB_ROOT / "priceRebates" / "tax"
 RAW_STRUCTURE_DIR = RAW_DB_ROOT / "_aux_files" / "wcpd_structure"
+IPCC_MAP_PATH = RAW_DB_ROOT / "_aux_files" / "ipcc2006_iea_category_codes.csv"
+ECP_IPCC_MAP_PATH = Path(
+    "/Users/geoffroydolphin/GitHub/ECP/_raw/_aux_files/ipcc2006_iea_category_codes.csv"
+)
+JURIS_GROUPS_PATH = RAW_DB_ROOT / "_aux_files" / "jurisdiction_groups.json"
 DATASET_ROOT = Path("_dataset/data")
 ETS_PRICE_UTIL_PATH = Path("_code/_compilation/_utils/ets_prices.py")
 
@@ -228,6 +233,43 @@ def load_scheme_description() -> pd.DataFrame:
     return pd.DataFrame()
 
 
+@st.cache_data
+def load_scheme_metadata() -> pd.DataFrame:
+    schemes = load_scheme_description()
+    sources = load_sources()
+
+    base = schemes.copy()
+    if base.empty:
+        base = pd.DataFrame(columns=SCHEME_COLUMNS)
+    for col in SCHEME_COLUMNS:
+        if col not in base.columns:
+            base[col] = ""
+
+    meta = base.copy()
+
+    jurisdiction_map: dict[str, set[str]] = {}
+    source_counts: dict[str, int] = {}
+    if not sources.empty:
+        for _, row in sources.iterrows():
+            schemes = _split_jurisdictions(row.get("scheme_id", ""))
+            jurisdictions = _split_jurisdictions(row.get("jurisdiction", ""))
+            if not schemes:
+                continue
+            for sid in schemes:
+                source_counts[sid] = source_counts.get(sid, 0) + 1
+                if jurisdictions:
+                    jurisdiction_map.setdefault(sid, set()).update(jurisdictions)
+
+    meta["jurisdiction"] = meta["scheme_id"].apply(
+        lambda s: ", ".join(sorted(jurisdiction_map.get(str(s).strip(), set())))
+    )
+    meta["source_count"] = meta["scheme_id"].apply(
+        lambda s: source_counts.get(str(s).strip(), 0)
+    )
+    meta["has_sources"] = meta["source_count"].apply(lambda v: bool(v))
+    return meta
+
+
 def _normalize_gas_token(value: str) -> str:
     token = str(value).strip().upper()
     if token in {"CO2", "CH4", "N2O"}:
@@ -241,7 +283,7 @@ def _normalize_gas_token(value: str) -> str:
 def load_expected_schemes_for_gas(
     gas_label: str, target_year: int | None = None
 ) -> list[str]:
-    schemes = load_scheme_description()
+    schemes = load_scheme_metadata()
     if schemes.empty:
         return []
     gas_key = _normalize_gas_token(gas_label)
@@ -271,11 +313,11 @@ def load_expected_schemes_for_gas(
 
 @st.cache_data
 def load_scheme_type_map() -> dict[str, str]:
-    schemes = load_scheme_description()
-    if schemes.empty:
+    meta = load_scheme_metadata()
+    if meta.empty:
         return {}
     out: dict[str, str] = {}
-    for _, row in schemes.iterrows():
+    for _, row in meta.iterrows():
         scheme_id = str(row.get("scheme_id", "")).strip()
         scheme_type = str(row.get("scheme_type", "")).strip().lower()
         if scheme_id and scheme_type:
@@ -285,7 +327,7 @@ def load_scheme_type_map() -> dict[str, str]:
 
 @st.cache_data
 def load_instrument_options() -> list[str]:
-    schemes = load_schemes()
+    schemes = load_scheme_metadata()
     if schemes.empty or "scheme_id" not in schemes.columns:
         return []
     values = schemes["scheme_id"].dropna().astype(str).tolist()
@@ -332,8 +374,13 @@ def _normalize_source_prefix(value: str) -> str:
 def _split_jurisdictions(value: str) -> list[str]:
     if not value:
         return []
-    parts = [p.strip() for p in str(value).split(",")]
-    return [p for p in parts if p]
+    raw = str(value)
+    parts: list[str] = []
+    for chunk in raw.replace(";", ",").split(","):
+        part = chunk.strip()
+        if part:
+            parts.append(part)
+    return parts
 
 
 def _build_jurisdiction_prefix_map(df: pd.DataFrame) -> dict[str, str]:
@@ -774,6 +821,186 @@ def load_ipcc_codes(gas_label: str) -> list[str]:
 
 
 @st.cache_data
+def load_ipcc_name_map() -> dict[str, str]:
+    for path in [IPCC_MAP_PATH, ECP_IPCC_MAP_PATH]:
+        if not path.exists():
+            continue
+        try:
+            df = pd.read_csv(path, dtype=str)
+        except Exception:
+            continue
+        if "ipcc_code" not in df.columns:
+            continue
+        name_map: dict[str, str] = {}
+        for _, row in df.iterrows():
+            code = str(row.get("ipcc_code", "") or "").strip()
+            if not code:
+                continue
+            fullname = str(row.get("FULLNAME", "") or "").strip()
+            codename = str(row.get("CODENAME", "") or "").strip()
+            label = fullname or codename
+            if label:
+                name_map[code] = label
+        return name_map
+    return {}
+
+
+@st.cache_data
+def load_jurisdiction_groups() -> dict[str, set[str]]:
+    if not JURIS_GROUPS_PATH.exists():
+        return {}
+    try:
+        data = json.loads(JURIS_GROUPS_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    groups: dict[str, set[str]] = {}
+    for group, members in data.items():
+        if not isinstance(members, list):
+            continue
+        clean_group = str(group).strip()
+        if not clean_group:
+            continue
+        cleaned = {str(m).strip() for m in members if str(m).strip()}
+        if cleaned:
+            groups[clean_group] = cleaned
+    return groups
+
+
+def _ipcc_display(code: str, name_map: dict[str, str]) -> str:
+    label = name_map.get(str(code).strip(), "")
+    if label:
+        return f"{code} — {label}"
+    return str(code)
+
+
+def _merge_ipcc_options(options: Iterable[str], defaults: Iterable[str]) -> list[str]:
+    merged = {str(o).strip() for o in options if str(o).strip()}
+    merged.update({str(d).strip() for d in defaults if str(d).strip()})
+    return sorted(merged)
+
+
+def _expand_jurisdiction_selection(selected: list[str]) -> set[str]:
+    group_map = load_jurisdiction_groups()
+    expanded: set[str] = set()
+    for item in selected:
+        if item.startswith("Group: "):
+            group = item.replace("Group: ", "", 1)
+            expanded.update(group_map.get(group, set()))
+        else:
+            expanded.add(item)
+    return expanded
+
+
+def _scheme_jurisdiction_map(sources_df: pd.DataFrame) -> dict[str, set[str]]:
+    mapping: dict[str, set[str]] = {}
+    if sources_df.empty:
+        return mapping
+    for _, row in sources_df.iterrows():
+        schemes = _split_jurisdictions(row.get("scheme_id", ""))
+        jurisdictions = set(_split_jurisdictions(row.get("jurisdiction", "")))
+        if not schemes or not jurisdictions:
+            continue
+        for sid in schemes:
+            mapping.setdefault(sid, set()).update(jurisdictions)
+    return mapping
+
+
+def _render_manage_sources_shortcut(location: str) -> None:
+    if st.button("Go to Manage sources", key=f"manage_sources_{location}"):
+        st.session_state["pending_view"] = "Manage sources"
+        st.rerun()
+
+
+def _render_related_discovery_candidates(
+    scheme_id: str,
+    year: int | None,
+    key_prefix: str,
+    variable_hint: str | None = None,
+) -> None:
+    if not scheme_id:
+        return
+    disc = load_discovery_candidates(_discovery_signature())
+    if disc.empty or "instrument_id" not in disc.columns:
+        st.caption("No discovery candidates available.")
+        return
+    q = disc[disc["instrument_id"].astype(str) == str(scheme_id)]
+    if year is not None and "year_guess" in q.columns:
+        q = q[q["year_guess"].astype(str) == str(year)]
+    if q.empty:
+        st.caption("No discovery candidates match this scheme/year.")
+        return
+    st.markdown("**Related discovery candidates**")
+    display_cols = [c for c in ["title", "url", "snippet", "year_guess", "source_seed"] if c in q.columns]
+    st.dataframe(q[display_cols].head(50), use_container_width=True, height=220)
+    if st.button("Open Review candidates with filters", key=f"{key_prefix}_open_review"):
+        st.session_state["gap_filter_instrument_id"] = scheme_id
+        if year is not None:
+            st.session_state["gap_filter_year"] = year
+        if variable_hint:
+            st.session_state["gap_filter_variable"] = variable_hint
+        st.session_state["gap_apply_filters"] = True
+        st.session_state["pending_view"] = "Review candidates"
+        st.rerun()
+
+
+def _set_next_actions(message: str, actions: list[str]) -> None:
+    st.session_state["next_actions_message"] = message
+    st.session_state["next_actions"] = actions
+
+
+def _run_discovery_action() -> None:
+    with st.spinner("Running discovery..."):
+        result = subprocess.run(
+            ["python3", "-m", "_code._sources_extraction.discover"],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    if result.returncode == 0:
+        st.success("Discovery complete. Candidates updated.")
+        st.cache_data.clear()
+        st.rerun()
+    else:
+        st.error("Discovery failed. See details below.")
+        with st.expander("Discovery error details"):
+            st.code((result.stdout or "") + "\n" + (result.stderr or ""))
+
+
+def _render_next_actions() -> None:
+    actions = st.session_state.get("next_actions") or []
+    if not actions:
+        return
+    message = st.session_state.get("next_actions_message", "Next steps")
+    st.info(message)
+    cols = st.columns(min(3, len(actions)))
+    for idx, action in enumerate(actions):
+        label = {
+            "run_discovery": "Run discovery",
+            "open_review": "Open Review candidates",
+            "open_manage_sources": "Open Manage sources",
+            "open_raw_editor": "Open Raw editor",
+        }.get(action, action)
+        with cols[idx % len(cols)]:
+            if st.button(label, key=f"next_action_{action}_{idx}"):
+                if action == "run_discovery":
+                    _run_discovery_action()
+                elif action == "open_review":
+                    st.session_state["pending_view"] = "Review candidates"
+                    st.rerun()
+                elif action == "open_manage_sources":
+                    st.session_state["pending_view"] = "Manage sources"
+                    st.rerun()
+                elif action == "open_raw_editor":
+                    st.session_state["pending_view"] = "Raw editor"
+                    st.rerun()
+    if st.button("Dismiss next steps"):
+        st.session_state.pop("next_actions", None)
+        st.session_state.pop("next_actions_message", None)
+
+
+@st.cache_data
 def load_jurisdiction_options() -> list[str]:
     path = Path("_code/_compilation/_utils/jurisdictions.json")
     if not path.exists():
@@ -1093,8 +1320,113 @@ def _list_timestamped_versions(path: Path) -> list[Path]:
     return sorted(path.parent.glob(pattern))
 
 
+def _collect_timestamped_canonicals(search_dir: Path) -> list[Path]:
+    canonicals: set[Path] = set()
+    if not search_dir.exists():
+        return []
+    for path in search_dir.glob("*.py"):
+        stem = path.stem
+        if len(stem) < 9:
+            continue
+        if stem[-9:-8] != "_":
+            continue
+        stamp = stem[-8:]
+        if not stamp.isdigit():
+            continue
+        canonical = path.with_name(f"{stem[:-9]}.py")
+        canonicals.add(canonical)
+    return sorted(canonicals)
+
+
+def _render_pending_changes_panel() -> None:
+    st.subheader("Pending changes")
+
+    price_temp_files: list[Path] = []
+    if RAW_PRICE_DIR.exists():
+        price_temp_files = sorted(RAW_PRICE_DIR.glob("*_prices_temp.csv"))
+
+    scope_canonicals = []
+    if RAW_SCOPE_DIR.exists():
+        scope_canonicals.extend(_collect_timestamped_canonicals(RAW_SCOPE_DIR / "ets"))
+        scope_canonicals.extend(_collect_timestamped_canonicals(RAW_SCOPE_DIR / "tax"))
+
+    rebate_canonicals = _collect_timestamped_canonicals(RAW_REBATES_DIR)
+
+    if not price_temp_files and not scope_canonicals and not rebate_canonicals:
+        st.caption("No temp or timestamped files detected.")
+        return
+
+    if price_temp_files:
+        st.markdown("**Prices (temp files)**")
+        for temp_path in price_temp_files:
+            stem = temp_path.stem
+            canonical_stem = stem[:-5] if stem.endswith("_temp") else stem
+            canonical_path = temp_path.with_name(f"{canonical_stem}{temp_path.suffix}")
+            with st.expander(f"{temp_path.name}", expanded=False):
+                _promote_temp_price_ui(
+                    canonical_path,
+                    temp_path,
+                    key_prefix=f"pending_price_{canonical_stem}",
+                )
+
+    if scope_canonicals:
+        st.markdown("**Scope (timestamped files)**")
+        for canonical in scope_canonicals:
+            with st.expander(f"{canonical.name}", expanded=False):
+                _promote_file_ui(canonical, key_prefix=f"pending_scope_{canonical.stem}")
+
+    if rebate_canonicals:
+        st.markdown("**Price rebates (timestamped files)**")
+        for canonical in rebate_canonicals:
+            with st.expander(f"{canonical.name}", expanded=False):
+                _promote_file_ui(canonical, key_prefix=f"pending_rebates_{canonical.stem}")
+
+
+def find_schemes_missing_sources() -> list[str]:
+    sources_df = load_sources()
+    scheme_ids: set[str] = set()
+
+    if RAW_PRICE_DIR.exists():
+        for path in RAW_PRICE_DIR.glob("*.csv"):
+            try:
+                df = pd.read_csv(path, dtype=str)
+            except Exception:
+                continue
+            if "scheme_id" in df.columns:
+                for val in df["scheme_id"].dropna().astype(str).tolist():
+                    v = val.strip()
+                    if v:
+                        scheme_ids.add(v)
+
+    for gas_label in GAS_OPTIONS.keys():
+        try:
+            ets = load_scope_data(gas_label, "ets")["data"]
+            tax = load_scope_data(gas_label, "tax")["data"]
+        except Exception:
+            ets, tax = {}, {}
+        scheme_ids.update(ets.keys())
+        scheme_ids.update(tax.keys())
+
+        try:
+            rebates = load_rebates_data(gas_label)["exemptions"]
+            for ex in rebates:
+                scheme_map = ex.get("scheme_id", {})
+                for sid in scheme_map.values():
+                    v = str(sid).strip()
+                    if v:
+                        scheme_ids.add(v)
+        except Exception:
+            pass
+
+    missing: list[str] = []
+    for sid in sorted(scheme_ids):
+        if not _source_options_for_scheme(sid, sources_df):
+            missing.append(sid)
+    return missing
+
+
 def _promote_file_ui(canonical_path: Path, key_prefix: str) -> None:
-    st.markdown("### Promote timestamped file")
+    st.markdown("### Promote temp file")
     versions = _list_timestamped_versions(canonical_path)
     if not versions:
         st.caption("No timestamped files found.")
@@ -1259,24 +1591,21 @@ def render_run_status() -> None:
         st.cache_data.clear()
         st.rerun()
 
+    missing_sources = find_schemes_missing_sources()
+    if missing_sources:
+        st.sidebar.markdown("### Source coverage")
+        st.sidebar.caption(
+            f"Missing sources for {len(missing_sources)} scheme(s) with raw data."
+        )
+        preview = ", ".join(missing_sources[:10])
+        st.sidebar.caption(f"Examples: {preview}")
+        if len(missing_sources) > 10:
+            st.sidebar.caption("…")
+
 
 def render_discovery_button() -> None:
     if st.sidebar.button("Run discovery (update candidates)"):
-        with st.sidebar.spinner("Running discovery..."):
-            result = subprocess.run(
-                ["python3", "-m", "_code._sources_extraction.discover"],
-                capture_output=True,
-                text=True,
-                check=False,
-            )
-        if result.returncode == 0:
-            st.sidebar.success("Discovery complete. Candidates updated.")
-            st.cache_data.clear()
-            st.rerun()
-        else:
-            st.sidebar.error("Discovery failed. See details below.")
-            with st.sidebar.expander("Discovery error details"):
-                st.code((result.stdout or "") + "\n" + (result.stderr or ""))
+        _run_discovery_action()
 
 
 # -------------------------------------------------------------------
@@ -1453,6 +1782,7 @@ def validate_url(url: str) -> tuple[bool, str]:
 
 def review_view(reviewer: str) -> None:
     st.title("WCPD – Upstream Candidate Review")
+    _render_next_actions()
 
     df = merge_all_candidates()
     if df.empty:
@@ -1476,11 +1806,13 @@ def review_view(reviewer: str) -> None:
             st.rerun()
 
     # Sidebar filters
-    schemes = (
-        sorted(df["instrument_id"].dropna().unique().tolist())
-        if "instrument_id" in df.columns
-        else []
-    )
+    schemes = []
+    scheme_meta = load_scheme_metadata()
+    if not scheme_meta.empty and "scheme_id" in scheme_meta.columns:
+        schemes.extend(
+            scheme_meta["scheme_id"].dropna().astype(str).tolist()
+        )
+    schemes = sorted({s.strip() for s in schemes if str(s).strip()})
     scheme_key = "review_filter_schemes"
     if apply_gap_filters:
         st.session_state[scheme_key] = (
@@ -1489,6 +1821,8 @@ def review_view(reviewer: str) -> None:
     sel_schemes = st.sidebar.multiselect(
         "Carbon pricing mechanism (instrument_id)", schemes, key=scheme_key
     )
+    if len(sel_schemes) == 1:
+        st.session_state["current_scheme_id"] = sel_schemes[0]
 
     # Apply filters
     q = df.copy()
@@ -1556,14 +1890,21 @@ def review_view(reviewer: str) -> None:
         if "jurisdiction" in df.columns
         else []
     )
-    juris_options = ["All"] + juris_options if juris_options else []
-    sel_juris = st.sidebar.multiselect("Jurisdiction", juris_options, default=["All"] if juris_options else [])
+    group_map = load_jurisdiction_groups()
+    group_labels = [f"Group: {g}" for g in sorted(group_map.keys())] if group_map else []
+    juris_options = ["All"] + group_labels + juris_options if juris_options else []
+    sel_juris = st.sidebar.multiselect(
+        "Jurisdiction / group",
+        juris_options,
+        default=["All"] if juris_options else [],
+    )
     if sel_juris and "jurisdiction" in q.columns:
         if "All" not in sel_juris:
+            expanded = _expand_jurisdiction_selection(sel_juris)
             q = q[
                 q["jurisdiction"]
                 .astype(str)
-                .apply(lambda v: bool(set(_split_jurisdictions(v)) & set(sel_juris)))
+                .apply(lambda v: bool(set(_split_jurisdictions(v)) & expanded))
             ]
 
     def status_of(row):
@@ -1600,6 +1941,8 @@ def review_view(reviewer: str) -> None:
         q = q.sort_values(by=sort_by, ascending=ascending, kind="mergesort")
 
     st.sidebar.markdown(f"**{len(q)} candidates** after filters")
+    st.sidebar.markdown("---")
+    _render_manage_sources_shortcut("review_sidebar")
 
     if apply_gap_filters:
         st.session_state["gap_apply_filters"] = False
@@ -1705,6 +2048,8 @@ def review_view(reviewer: str) -> None:
             if col in row:
                 row[col] = ""
     detail_left, detail_right = st.columns([3, 2])
+    if row.get("instrument_id"):
+        st.session_state["current_scheme_id"] = row.get("instrument_id")
 
     with detail_left:
         st.subheader("Details & Review")
@@ -1754,6 +2099,8 @@ def review_view(reviewer: str) -> None:
         jurisdiction_default = split_list(row.get("edited_jurisdiction") or "")
         if field_name == "ipcc_category" and not ipcc_default:
             ipcc_default = split_list(row.get("value") or "")
+        ipcc_options = _merge_ipcc_options(ipcc_options, ipcc_default)
+        ipcc_name_map = load_ipcc_name_map()
         year_options_all = sorted(set(year_options) | set(year_default))
 
         def field_ui_config(name: str) -> dict[str, bool]:
@@ -1866,7 +2213,10 @@ def review_view(reviewer: str) -> None:
                 )
             with col9:
                 edited_ipcc = st.multiselect(
-                    "IPCC category", options=ipcc_options, default=ipcc_default
+                    "IPCC category",
+                    options=ipcc_options,
+                    default=ipcc_default,
+                    format_func=lambda c: _ipcc_display(c, ipcc_name_map),
                 )
         else:
             if not jurisdiction_default and row.get("jurisdiction"):
@@ -1895,7 +2245,10 @@ def review_view(reviewer: str) -> None:
                 )
             with col9:
                 edited_ipcc = st.multiselect(
-                    "IPCC category", options=ipcc_options, default=ipcc_default
+                    "IPCC category",
+                    options=ipcc_options,
+                    default=ipcc_default,
+                    format_func=lambda c: _ipcc_display(c, ipcc_name_map),
                 )
 
         st.markdown("**Snippet (context)**")
@@ -1939,6 +2292,23 @@ def review_view(reviewer: str) -> None:
             st.rerun()
 
     with detail_right:
+        st.subheader("Context & Files")
+        _render_manage_sources_shortcut("review_context")
+        scheme_for_sources = str(row.get("instrument_id", "") or "").strip()
+        if scheme_for_sources:
+            st.markdown("**Source lookup**")
+            sources_df = load_sources()
+            _render_source_picker(
+                "Source",
+                scheme_id=scheme_for_sources,
+                sources_df=sources_df,
+                existing_value="",
+                key=f"review_source_lookup_{row.get('candidate_id','')}",
+            )
+            if st.button("Open Raw editor for this scheme"):
+                st.session_state["current_scheme_id"] = scheme_for_sources
+                st.session_state["pending_view"] = "Raw editor"
+                st.rerun()
         render_candidate_document_panel(row)
 
 
@@ -1948,6 +2318,7 @@ def source_manager_view() -> None:
     st.markdown(
         "Use this page to **add** or **edit** upstream sources used by the fetcher."
     )
+    _render_next_actions()
 
     df = load_sources()
     schemes = load_schemes()
@@ -2235,6 +2606,10 @@ def source_manager_view() -> None:
                 st.success(f"Added new source {source_id}")
 
             save_sources(df_cur)
+            _set_next_actions(
+                "Source saved. Next steps:",
+                ["run_discovery", "open_review"],
+            )
             st.cache_data.clear()  # refresh cached views
             st.rerun()
 
@@ -2469,6 +2844,10 @@ def source_manager_view() -> None:
                         )
                         save_sources(df_cur)
                         st.success(f"Added new source {source_id}")
+                        _set_next_actions(
+                            "Source added from discovery candidate. Next steps:",
+                            ["run_discovery", "open_review"],
+                        )
                         st.cache_data.clear()
                         st.rerun()
 
@@ -2481,9 +2860,10 @@ def source_manager_view() -> None:
 def scheme_intake_view() -> None:
     st.title("WCPD – Scheme Intake")
     st.caption("Identify new schemes and run targeted web discovery queries.")
+    _render_next_actions()
 
     st.subheader("Current dataset schemes")
-    schemes = load_schemes()
+    schemes = load_scheme_metadata()
     dataset_scheme_ids = load_dataset_scheme_ids()
     if schemes.empty:
         st.info("No scheme_description.csv found or empty.")
@@ -2498,6 +2878,8 @@ def scheme_intake_view() -> None:
             "scheme_type",
             "implementation_year",
             "in_dataset",
+            "jurisdiction",
+            "source_count",
         ]
         display_cols = [c for c in display_cols if c in schemes_view.columns]
         st.dataframe(
@@ -2507,6 +2889,19 @@ def scheme_intake_view() -> None:
             height=280,
             use_container_width=True,
         )
+        scheme_ids = sorted(
+            s for s in schemes_view["scheme_id"].dropna().astype(str).tolist() if s.strip()
+        )
+        if scheme_ids:
+            current = st.session_state.get("current_scheme_id", "")
+            if current and current not in scheme_ids:
+                scheme_ids.append(current)
+            selected_scheme = st.selectbox(
+                "Set current scheme context",
+                options=scheme_ids,
+                index=scheme_ids.index(current) if current in scheme_ids else 0,
+            )
+            st.session_state["current_scheme_id"] = selected_scheme
 
     st.markdown("---")
     st.subheader("Search for new schemes (SerpAPI)")
@@ -2686,6 +3081,10 @@ def scheme_intake_view() -> None:
                 out_path = RAW_ROOT / "discovery_queries.csv"
                 pd.DataFrame(queries).to_csv(out_path, index=False)
                 st.success(f"Wrote {len(queries)} queries to {out_path}.")
+                _set_next_actions(
+                    "Discovery queries written. Next steps:",
+                    ["run_discovery", "open_review"],
+                )
 
 # -------------------------------------------------------------------
 # Raw editor views
@@ -2696,6 +3095,7 @@ def prices_editor_view(reviewer: str) -> None:
     st.subheader("Prices")
 
     scheme_options: set[str] = set()
+    existing_price_schemes: set[str] = set()
     scheme_desc = load_scheme_description()
     if not scheme_desc.empty and "scheme_id" in scheme_desc.columns:
         scheme_options.update(
@@ -2703,13 +3103,72 @@ def prices_editor_view(reviewer: str) -> None:
         )
     if RAW_PRICE_DIR.exists():
         for path in RAW_PRICE_DIR.glob("*_prices.csv"):
-            scheme_options.add(path.stem.replace("_prices", ""))
+            scheme_id = path.stem.replace("_prices", "")
+            scheme_options.add(scheme_id)
+            existing_price_schemes.add(scheme_id)
 
     if not scheme_options:
         st.warning("No scheme_id values found for price editing.")
         return
 
-    scheme_id = st.selectbox("Scheme ID", sorted(scheme_options))
+    ghg_options = ["CO2", "CH4", "N2O", "F-GASES"]
+    products = load_price_products()
+
+    col1, col2, col3, col4 = st.columns(4)
+    with col1:
+        year = int(st.number_input("Year", min_value=1990, max_value=2100, value=2024))
+    with col2:
+        ghg = st.multiselect("GHG", ghg_options, default=["CO2"])
+    with col3:
+        product = st.multiselect("Product / fuel", products, default=products[:1])
+    with col4:
+        currency_code = st.text_input("Currency code", value="")
+
+    ghg_sel = [g for g in ghg if g]
+    icap_sig = _icap_price_signature()
+    icap_schemes: set[str] = set()
+    for gas_label in ghg_sel:
+        icap_schemes |= load_raw_icap_price_presence(year, gas_label, icap_sig)
+
+    scheme_labels: dict[str, str] = {}
+    for sid in scheme_options:
+        label = sid
+        if sid not in existing_price_schemes:
+            label = f"{label} (new)"
+        if sid in icap_schemes:
+            label = f"{label} (ICAP)"
+        scheme_labels[label] = sid
+    if icap_schemes:
+        icap_list = ", ".join(sorted(icap_schemes))
+        st.markdown(
+            f"<span style='color:#999'>ICAP-derived schemes: {icap_list}</span>",
+            unsafe_allow_html=True,
+        )
+
+    current_scheme = st.session_state.get("current_scheme_id", "")
+    scheme_label_options = sorted(scheme_labels.keys())
+    preferred_label = None
+    if current_scheme:
+        for label, sid in scheme_labels.items():
+            if sid == current_scheme:
+                preferred_label = label
+                break
+    scheme_label = st.selectbox(
+        "Scheme ID",
+        scheme_label_options,
+        index=scheme_label_options.index(preferred_label)
+        if preferred_label in scheme_label_options
+        else 0,
+    )
+    scheme_id = scheme_labels[scheme_label]
+    st.session_state["current_scheme_id"] = scheme_id
+    scheme_type_map = load_scheme_type_map()
+    scheme_type = scheme_type_map.get(scheme_id, "")
+    variable_hint = None
+    if scheme_type == "tax":
+        variable_hint = "Tax rate"
+    elif scheme_type == "ets":
+        variable_hint = "Allowance price"
     price_path = _price_file_path(scheme_id)
     temp_path = _temp_path(price_path)
 
@@ -2734,24 +3193,26 @@ def prices_editor_view(reviewer: str) -> None:
     if temp_path.exists():
         st.caption(f"Temp file detected: {temp_path}")
 
-    ghg_options = ["CO2", "CH4", "N2O", "F-GASES"]
-    products = load_price_products()
-
-    col1, col2, col3, col4 = st.columns(4)
-    with col1:
-        year = int(st.number_input("Year", min_value=1990, max_value=2100, value=2024))
-    with col2:
-        ghg = st.multiselect("GHG", ghg_options, default=["CO2"])
-    with col3:
-        product = st.multiselect("Product / fuel", products, default=products[:1])
-    with col4:
-        currency_code = st.text_input("Currency code", value="")
+    with st.expander("Related discovery candidates", expanded=False):
+        _render_related_discovery_candidates(
+            scheme_id,
+            year,
+            key_prefix=f"price_disc_{scheme_id}_{year}",
+            variable_hint=variable_hint,
+        )
 
     col5, col6 = st.columns(2)
     with col5:
         rate = st.text_input("Rate", value="NA")
     with col6:
-        source = st.text_input("Source", value="")
+        sources_df = load_sources()
+        source = _render_source_picker(
+            "Source",
+            scheme_id=scheme_id,
+            sources_df=sources_df,
+            existing_value="",
+            key=f"price_source_{scheme_id}",
+        )
 
     comment = st.text_area("Comment", value="", height=80)
 
@@ -2763,7 +3224,6 @@ def prices_editor_view(reviewer: str) -> None:
             check_df = pd.read_csv(temp_path, dtype=str)
         except Exception:
             check_df = existing_df
-    ghg_sel = [g for g in ghg if g]
     product_sel = [p for p in product if p]
     if not ghg_sel or not product_sel:
         st.warning("Select at least one GHG and one product.")
@@ -2881,6 +3341,113 @@ def _coerce_year_key(year: int, mapping: dict[Any, Any]) -> Any:
     return year
 
 
+def _source_options_for_scheme(scheme_id: str, sources_df: pd.DataFrame) -> list[str]:
+    if sources_df.empty or "source_id" not in sources_df.columns:
+        return []
+    scheme_id = str(scheme_id).strip()
+    if not scheme_id:
+        return []
+
+    scheme_jurisdictions: set[str] = set()
+    for _, row in sources_df.iterrows():
+        row_schemes = _split_jurisdictions(row.get("scheme_id", ""))
+        if scheme_id in row_schemes:
+            scheme_jurisdictions.update(_split_jurisdictions(row.get("jurisdiction", "")))
+
+    group_map = load_jurisdiction_groups()
+    member_to_groups: dict[str, set[str]] = {}
+    for group, members in group_map.items():
+        for member in members:
+            member_to_groups.setdefault(member, set()).add(group)
+
+    expanded_scheme_jurisdictions = set(scheme_jurisdictions)
+    for j in list(expanded_scheme_jurisdictions):
+        expanded_scheme_jurisdictions.update(member_to_groups.get(j, set()))
+        expanded_scheme_jurisdictions.update(group_map.get(j, set()))
+
+    options: set[str] = set()
+    for _, row in sources_df.iterrows():
+        source_id = str(row.get("source_id", "")).strip()
+        if not source_id:
+            continue
+        row_schemes = _split_jurisdictions(row.get("scheme_id", ""))
+        if scheme_id in row_schemes:
+            options.add(source_id)
+            continue
+        row_jurisdictions = set(_split_jurisdictions(row.get("jurisdiction", "")))
+        if expanded_scheme_jurisdictions and row_jurisdictions & expanded_scheme_jurisdictions:
+            options.add(source_id)
+    return sorted(options)
+
+
+def _render_source_picker(
+    label: str,
+    scheme_id: str,
+    sources_df: pd.DataFrame,
+    existing_value: str = "",
+    key: str | None = None,
+) -> str:
+    def _details_for(source_id: str) -> tuple[str, str]:
+        if sources_df.empty or not source_id:
+            return "", ""
+        match = sources_df[sources_df["source_id"].astype(str) == str(source_id)]
+        if match.empty:
+            return "", ""
+        row = match.iloc[0].to_dict()
+        parts = []
+        for field in [
+            "jurisdiction",
+            "scheme_id",
+            "document_type",
+            "source_type",
+            "year",
+            "institution",
+            "title",
+            "url",
+        ]:
+            val = str(row.get(field, "") or "").strip()
+            if val:
+                parts.append(f"{field}: {val}")
+        detail = " | ".join(parts)
+        short = (
+            f"{row.get('document_type','') or ''} "
+            f"{row.get('institution','') or ''} "
+            f"{row.get('year','') or ''}"
+        ).strip()
+        return short, detail
+
+    options = _source_options_for_scheme(scheme_id, sources_df)
+    existing_value = str(existing_value or "").strip()
+    if existing_value and existing_value not in options:
+        options = [existing_value] + options
+        st.caption(
+            "Existing source is not in sources.csv for this scheme. "
+            "Consider adding it in Manage sources."
+        )
+
+    if not options:
+        st.warning("No sources found for this scheme in sources.csv.")
+        if st.button("Go to Manage sources", key=f"{key}_manage_sources"):
+            st.session_state["pending_view"] = "Manage sources"
+            st.rerun()
+        return st.text_input(label, value=existing_value, key=key)
+
+    options = [""] + options
+    idx = options.index(existing_value) if existing_value in options else 0
+    selection = st.selectbox(label, options=options, index=idx, key=key)
+    if not selection:
+        if st.button("Go to Manage sources", key=f"{key}_manage_sources"):
+            st.session_state["pending_view"] = "Manage sources"
+            st.rerun()
+    short, detail = _details_for(selection)
+    if detail:
+        st.markdown(
+            f"<span title='{detail}'>Selected source details: {short or selection}</span>",
+            unsafe_allow_html=True,
+        )
+    return selection
+
+
 def scope_editor_view(reviewer: str) -> None:
     st.subheader("Scope")
 
@@ -2889,22 +3456,59 @@ def scope_editor_view(reviewer: str) -> None:
     ets_data = load_scope_data(gas_label, "ets")
     tax_data = load_scope_data(gas_label, "tax")
 
-    scheme_choices: list[tuple[str, str]] = []
+    scheme_types: dict[str, set[str]] = {}
     for scheme_id in ets_data["data"].keys():
-        scheme_choices.append((scheme_id, "ets"))
+        scheme_types.setdefault(scheme_id, set()).add("ets")
     for scheme_id in tax_data["data"].keys():
-        scheme_choices.append((scheme_id, "tax"))
+        scheme_types.setdefault(scheme_id, set()).add("tax")
 
-    if not scheme_choices:
+    scheme_desc = load_scheme_description()
+    if not scheme_desc.empty and "scheme_id" in scheme_desc.columns:
+        known_ids = set(scheme_types.keys())
+        for scheme_id in scheme_desc["scheme_id"].dropna().astype(str).tolist():
+            scheme_id = scheme_id.strip()
+            if scheme_id and scheme_id not in known_ids:
+                scheme_types.setdefault(scheme_id, set()).add("new")
+
+    if not scheme_types:
         st.warning("No schemes found for scope editing.")
         return
 
+    scheme_labels: dict[str, str] = {}
+    for sid, types in scheme_types.items():
+        label = f"{sid} (new)" if types == {"new"} else sid
+        scheme_labels[label] = sid
+    current_scheme = st.session_state.get("current_scheme_id", "")
+    scheme_label_options = sorted(scheme_labels.keys())
+    preferred_label = None
+    if current_scheme:
+        for label, sid in scheme_labels.items():
+            if sid == current_scheme:
+                preferred_label = label
+                break
     scheme_label = st.selectbox(
         "Scheme ID",
-        sorted({f"{sid} ({stype})" for sid, stype in scheme_choices}),
+        scheme_label_options,
+        index=scheme_label_options.index(preferred_label)
+        if preferred_label in scheme_label_options
+        else 0,
     )
-    scheme_id = scheme_label.split(" (", 1)[0]
-    scheme_type = scheme_label.split(" (", 1)[1].rstrip(")")
+    scheme_id = scheme_labels[scheme_label]
+    st.session_state["current_scheme_id"] = scheme_id
+    types_for_scheme = scheme_types.get(scheme_id, set())
+    scheme_type = ""
+    if "new" in types_for_scheme or len(types_for_scheme) > 1:
+        scheme_type = st.selectbox(
+            "Scheme type",
+            ["ets", "tax"],
+            help="Choose the scope file this entry should write to.",
+        )
+        if "new" in types_for_scheme:
+            st.info(
+                "This will create the first scope entry for this scheme in the selected scope file."
+            )
+    else:
+        scheme_type = next(iter(types_for_scheme)) if types_for_scheme else "tax"
 
     gas_label = st.selectbox("Gas", list(GAS_OPTIONS.keys()), key="scope_gas")
 
@@ -2948,19 +3552,39 @@ def scope_editor_view(reviewer: str) -> None:
 
     jur_options = sorted({j for years in jur_dict.values() for j in years})
     ipcc_options = load_ipcc_codes(gas_label)
+    ipcc_name_map = load_ipcc_name_map()
     fuel_options = load_price_products()
 
     jurisdictions = st.multiselect(
         "Jurisdictions", options=jur_options, default=existing_jur
     )
+    ipcc_options = _merge_ipcc_options(ipcc_options, existing_sectors)
     ipcc_codes = st.multiselect(
-        "IPCC codes", options=ipcc_options, default=existing_sectors
+        "IPCC codes",
+        options=ipcc_options,
+        default=existing_sectors,
+        format_func=lambda c: _ipcc_display(c, ipcc_name_map),
     )
     fuels: list[str] = []
     if scheme_type == "tax":
         fuels = st.multiselect("Fuels", options=fuel_options, default=existing_fuels)
 
-    source = st.text_input("Source (for this year)", value=str(existing_source or ""))
+    sources_df = load_sources()
+    source = _render_source_picker(
+        "Source (for this year)",
+        scheme_id=scheme_id,
+        sources_df=sources_df,
+        existing_value=str(existing_source or ""),
+        key=f"scope_source_{scheme_id}_{scheme_type}_{year}",
+    )
+
+    with st.expander("Related discovery candidates", expanded=False):
+        _render_related_discovery_candidates(
+            scheme_id,
+            year,
+            key_prefix=f"scope_disc_{scheme_id}_{year}",
+            variable_hint="Scope",
+        )
 
     conflict = False
     conflict_details: list[str] = []
@@ -3065,7 +3689,16 @@ def rebates_editor_view(reviewer: str) -> None:
         [sid for sid, stype in scheme_type_map.items() if stype == "tax"]
     )
     scheme_options = [""] + scheme_options if scheme_options else [""]
-    scheme_id = st.selectbox("Scheme ID (rebate)", options=scheme_options, key="rebate_scheme_id")
+    current_scheme = st.session_state.get("current_scheme_id", "")
+    index = scheme_options.index(current_scheme) if current_scheme in scheme_options else 0
+    scheme_id = st.selectbox(
+        "Scheme ID (rebate)",
+        options=scheme_options,
+        index=index,
+        key="rebate_scheme_id",
+    )
+    if scheme_id:
+        st.session_state["current_scheme_id"] = scheme_id
 
     year = int(
         st.number_input(
@@ -3086,14 +3719,35 @@ def rebates_editor_view(reviewer: str) -> None:
     jur_options = sorted(scope_jur_options)
 
     jurisdictions = st.multiselect("Jurisdictions (rebate)", jur_options)
+    rebate_ipcc_options = load_ipcc_codes(gas_label)
+    rebate_ipcc_options = _merge_ipcc_options(rebate_ipcc_options, [])
+    ipcc_name_map = load_ipcc_name_map()
     ipcc_codes = st.multiselect(
-        "IPCC codes (rebate)", load_ipcc_codes(gas_label), key="rebate_ipcc"
+        "IPCC codes (rebate)",
+        rebate_ipcc_options,
+        key="rebate_ipcc",
+        format_func=lambda c: _ipcc_display(c, ipcc_name_map),
     )
     fuels = st.multiselect(
         "Fuels (rebate)", load_price_products(), key="rebate_fuels"
     )
     value = st.number_input("Rebate value (0-1)", min_value=0.0, max_value=1.0, value=0.0)
-    source = st.text_input("Source (rebate)", value="")
+    sources_df = load_sources()
+    source = _render_source_picker(
+        "Source (rebate)",
+        scheme_id=scheme_id,
+        sources_df=sources_df,
+        existing_value="",
+        key=f"rebate_source_{scheme_id}_{year}",
+    )
+
+    with st.expander("Related discovery candidates", expanded=False):
+        _render_related_discovery_candidates(
+            scheme_id,
+            year,
+            key_prefix=f"rebate_disc_{scheme_id}_{year}",
+            variable_hint="Price rebate",
+        )
 
     conflict = False
     conflict_details: list[str] = []
@@ -3201,6 +3855,8 @@ def overlaps_view() -> None:
 def gap_dashboard_view() -> None:
     st.title("WCPD – Data Gaps Dashboard")
     st.caption("Raw inputs and final dataset.")
+    _render_next_actions()
+    _render_manage_sources_shortcut("gap_top")
 
     gas_label = st.selectbox("Gas", options=list(GAS_OPTIONS.keys()), index=0)
     current = dt.datetime.utcnow().year
@@ -3243,6 +3899,30 @@ def gap_dashboard_view() -> None:
             )
 
     if raw_rows:
+        sources_df = load_sources()
+        scheme_juris_map = _scheme_jurisdiction_map(sources_df)
+        group_map = load_jurisdiction_groups()
+        group_labels = [f"Group: {g}" for g in sorted(group_map.keys())] if group_map else []
+        juris_options = sorted(
+            {j for v in scheme_juris_map.values() for j in v}
+        )
+        filter_options = group_labels + juris_options
+        if filter_options:
+            selected = st.multiselect(
+                "Filter by jurisdiction / group (optional)",
+                options=filter_options,
+                default=[],
+            )
+            if selected:
+                expanded = _expand_jurisdiction_selection(selected)
+                raw_rows = [
+                    row
+                    for row in raw_rows
+                    if scheme_juris_map.get(row["scheme_id"], set()) & expanded
+                ]
+                if not raw_rows:
+                    st.warning("No gaps match the selected jurisdiction / group filter.")
+                    return
         raw_df = pd.DataFrame(raw_rows)
         st.dataframe(raw_df, height=360)
         st.caption(
@@ -3259,6 +3939,7 @@ def gap_dashboard_view() -> None:
             "Select missing row to investigate", options=row_labels
         )
         selected_row = raw_rows[row_labels.index(selected_label)]
+        st.session_state["current_scheme_id"] = selected_row["scheme_id"]
 
         def _gap_variable(data_type: str) -> str:
             if data_type == "price":
@@ -3338,6 +4019,10 @@ def gap_dashboard_view() -> None:
                 df_out = pd.DataFrame(queries).drop_duplicates()
                 df_out.to_csv(out_path, index=False)
                 st.success(f"Wrote {len(df_out)} queries to {out_path}.")
+                _set_next_actions(
+                    "Discovery queries written. Next steps:",
+                    ["run_discovery", "open_review"],
+                )
             else:
                 st.info("No queries generated from current gaps.")
     else:
@@ -3371,6 +4056,9 @@ def raw_editor_view(reviewer: str) -> None:
     st.caption(
         "Writes temp or timestamped files for safety; original raw files remain unchanged."
     )
+    _render_next_actions()
+    _render_manage_sources_shortcut("raw_editor_top")
+    _render_pending_changes_panel()
     tabs = st.tabs(["Prices", "Scope", "Price Rebates", "Coverage Factors", "Overlaps"])
     with tabs[0]:
         prices_editor_view(reviewer=reviewer)
@@ -3419,15 +4107,17 @@ digraph WCPD {
         st.markdown(
             """
 **Recommended flow**
-1. **Scheme intake**: review current schemes and run targeted web discovery queries.
-2. **Gap dashboard**: identify missing data by scheme/year/variable.
-3. **Manage sources**: add or edit sources when candidates are missing or incomplete.
-4. **Review candidates**: jump from a selected gap to filtered candidate evidence.
-5. **Raw editor**: apply edits to raw inputs (prices, scope, rebates, coverage factors).
+1. **Scheme intake**: review current schemes, set the current scheme context, and run targeted discovery queries.
+2. **Gap dashboard**: identify missing data by scheme/year/variable and generate discovery queries.
+3. **Manage sources**: add or edit sources; follow the suggested next steps to run discovery and review candidates.
+4. **Review candidates**: use filtered candidates, open related source lookup, and jump to Raw editor.
+5. **Raw editor**: apply edits to raw inputs and promote pending temp/timestamped files.
 
 **Notes**
-- Use the gap→review handoff to keep filters aligned with the missing row.
-- If no candidates match, add sources and re-run discovery/fetch.
+- **Current scheme context** is shared across views and defaults Raw editor selections.
+- Use the **Related discovery candidates** expander in Raw editor tabs for fast evidence review.
+- Jurisdiction **groups** can be used in filters where available.
+- After adding sources or writing queries, use the **Next steps** panel to run discovery and review.
 """
         )
 
