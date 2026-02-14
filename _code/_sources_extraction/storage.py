@@ -32,12 +32,13 @@ def store_artifact(
         raise ValueError(f"Unsupported artifact_type: {artifact_type}")
 
     ext = "html" if artifact_type == "html" else "pdf"
-    out_dir = raw_root / artifact_type / source.source_id
+    scheme_id = (source.instrument_id or "").strip() or "unknown_scheme"
+    out_dir = raw_root / scheme_id / artifact_type / source.source_id
     out_dir.mkdir(parents=True, exist_ok=True)
     file_path = out_dir / f"{ts}_{h}.{ext}"
     file_path.write_bytes(content_bytes)
 
-    meta_dir = raw_root / "meta"
+    meta_dir = raw_root / scheme_id / "meta"
     meta_dir.mkdir(parents=True, exist_ok=True)
     meta_path = meta_dir / "raw_artifacts.csv"
     new = not meta_path.exists()
@@ -77,7 +78,7 @@ def store_artifact(
         text = extract_text_from_pdf(content_bytes)
 
     if text.strip():
-        text_dir = raw_root / "text" / source.source_id
+        text_dir = raw_root / scheme_id / "text" / source.source_id
         text_dir.mkdir(parents=True, exist_ok=True)
         text_path = text_dir / f"{ts}_{h}.txt"
         text_path.write_text(text, encoding="utf-8")
