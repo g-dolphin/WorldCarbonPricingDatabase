@@ -353,10 +353,11 @@ def _candidate_id(url: str, method: str) -> str:
 
 def _doc_type_token(document_type: str) -> str:
     mapping = {
-        "legislation": "leg",
-        "official_publication": "gov",
-        "webpage": "web",
-        "report": "rep",
+        "legislation": "LEG",
+        "official_publication": "GOV",
+        "webpage": "WEB",
+        "news": "NEWS",
+        "report": "REP",
     }
     return mapping.get(document_type, "src")
 
@@ -423,6 +424,49 @@ def _suggest_source_id(
         if tail.isdigit():
             max_n = max(max_n, int(tail))
     return f"{base}-{max_n + 1:03d}"
+
+
+def _valid_source_id(source_id: str) -> tuple[bool, str]:
+    source_id = str(source_id or "").strip()
+    if not source_id:
+        return False, "source_id is required."
+    parts = source_id.split("-")
+    if len(parts) < 3:
+        return False, "source_id must have at least three parts separated by '-'"
+    token = parts[-2]
+    seq = parts[-1]
+    valid_tokens = {
+        _doc_type_token("legislation"),
+        _doc_type_token("official_publication"),
+        _doc_type_token("webpage"),
+        _doc_type_token("news"),
+        _doc_type_token("report"),
+    }
+    if token not in valid_tokens:
+        return False, f"source_id doc type token must be one of: {', '.join(sorted(valid_tokens))}"
+    if not (seq.isdigit() and len(seq) == 3):
+        return False, "source_id sequence must be a 3-digit number (e.g., 001)"
+    prefix = "-".join(parts[:-2])
+    if not prefix or any(not seg.isalnum() for seg in prefix.split("-")):
+        return False, "source_id prefix must be alphanumeric segments (A-Z/0-9) separated by '-'"
+    if source_id.upper() != source_id:
+        return False, "source_id must be uppercase"
+    return True, ""
+
+
+def _normalize_source_id(source_id: str) -> str:
+    raw = str(source_id or "").strip()
+    if not raw:
+        return ""
+    raw = raw.replace(" ", "-").replace("_", "-")
+    while "--" in raw:
+        raw = raw.replace("--", "-")
+    raw = raw.upper()
+    parts = raw.split("-")
+    if len(parts) >= 3 and parts[-1].isdigit():
+        parts[-1] = parts[-1].zfill(3)
+        raw = "-".join(parts)
+    return raw
 
 
 def _build_citation_key(document_type: str, institution: str, year: str) -> str:
@@ -1462,6 +1506,14 @@ def _promote_file_ui(canonical_path: Path, key_prefix: str) -> None:
         value=False,
         key=f"{key_prefix}_promote_confirm",
     )
+    discard = st.button("Discard selected file", key=f"{key_prefix}_discard_button")
+    if discard:
+        try:
+            os.remove(selected)
+            st.success(f"Discarded {selected}")
+            st.rerun()
+        except Exception as exc:
+            st.error(f"Failed to discard {selected}: {exc}")
     if st.button("Promote file", key=f"{key_prefix}_promote_button"):
         if not confirm:
             st.error("Please confirm promotion before proceeding.")
@@ -1486,6 +1538,13 @@ def _promote_temp_price_ui(canonical_path: Path, temp_path: Path, key_prefix: st
     if not temp_path.exists():
         st.caption("No temp file found.")
         return
+    if st.button("Discard temp file", key=f"{key_prefix}_discard_temp"):
+        try:
+            os.remove(temp_path)
+            st.success(f"Discarded {temp_path}")
+            st.rerun()
+        except Exception as exc:
+            st.error(f"Failed to discard {temp_path}: {exc}")
     df_new = None
     try:
         old_text = canonical_path.read_text(encoding="utf-8", errors="ignore")
@@ -2383,6 +2442,7 @@ def source_manager_view() -> None:
     st.subheader("Add or edit a source")
 
     mode = st.radio("Mode", ["Add new", "Edit existing"], horizontal=True)
+    st.caption("Source ID format: PREFIX-DOC-### (e.g., CAN-AB-LEG-001)")
 
     if mode == "Edit existing" and not q.empty:
         selected_source_id = st.selectbox(
@@ -2407,7 +2467,7 @@ def source_manager_view() -> None:
             ).tolist()
         else:
             scheme_options = schemes["scheme_id"].astype(str).tolist()
-    current_inst = row.get("scheme_id", "")
+    current_inst = str(row.get("scheme_id", "") or "").strip()
     default_idx = 0
     if current_inst:
         for i, s in enumerate(scheme_options):
@@ -2432,21 +2492,26 @@ def source_manager_view() -> None:
 
     col1, col2, col3 = st.columns(3)
     with col1:
+        doc_type_options = [
+            "legislation",
+            "official_publication",
+            "news",
+            "report",
+        ]
+        current_doc_type = str(row.get("document_type", "news") or "").strip()
+        if current_doc_type and current_doc_type not in doc_type_options:
+            doc_type_options = [current_doc_type] + doc_type_options
         document_type = st.selectbox(
             "Document type",
-            options=["legislation", "official_publication", "webpage", "report"],
-            index=["legislation", "official_publication", "webpage", "report"].index(
-                row.get("document_type", "webpage")
-            )
-            if row.get("document_type", "") in [
-                "legislation",
-                "official_publication",
-                "webpage",
-                "report",
-            ]
-            else 2,
+            options=doc_type_options,
+            index=doc_type_options.index(current_doc_type)
+            if current_doc_type in doc_type_options
+            else 0,
         )
-        existing_ids = set(df["source_id"].dropna().astype(str).tolist())
+        existing_ids = {
+            _normalize_source_id(v)
+            for v in df["source_id"].dropna().astype(str).tolist()
+        }
         prefix_map = _build_jurisdiction_prefix_map(df)
         auto_mode = st.checkbox(
             "Auto-generate Source ID", value=True, key="source_id_auto_mode"
@@ -2467,7 +2532,7 @@ def source_manager_view() -> None:
             source_id = st.text_input(
                 "Source ID",
                 value=source_id_value,
-                help="Unique identifier, e.g. CAN-AB-leg-005",
+                help="Unique identifier, e.g. CAN-AB-LEG-005",
             )
     with col2:
         source_type = st.selectbox(
@@ -2567,8 +2632,10 @@ def source_manager_view() -> None:
     notes = st.text_area("Notes", value=row.get("notes", ""), height=80)
 
     if st.button("Save source", type="primary"):
-        if not source_id:
-            st.error("source_id is required.")
+        source_id = _normalize_source_id(source_id)
+        ok, err = _valid_source_id(source_id)
+        if not ok:
+            st.error(err)
         elif not url:
             st.error("URL is required.")
         elif not jurisdiction:
@@ -2612,6 +2679,39 @@ def source_manager_view() -> None:
             )
             st.cache_data.clear()  # refresh cached views
             st.rerun()
+
+    st.caption("Save the source before fetching so the fetcher can resolve the source_id.")
+    normalized_source_id = _normalize_source_id(source_id)
+    if st.button("Fetch this source now"):
+        df_cur = load_sources()
+        existing_ids = {
+            _normalize_source_id(v)
+            for v in df_cur["source_id"].dropna().astype(str).tolist()
+        }
+        if normalized_source_id not in existing_ids:
+            st.error("Save the source before fetching.")
+        else:
+            with st.spinner("Fetching source..."):
+                result = subprocess.run(
+                    [
+                        "python3",
+                        "-m",
+                        "_code._sources_extraction.cli",
+                        "fetch-one",
+                        "--source-id",
+                        normalized_source_id,
+                    ],
+                    capture_output=True,
+                    text=True,
+                    check=False,
+                )
+            if result.returncode == 0:
+                st.success(f"Fetched {normalized_source_id}")
+                st.cache_data.clear()
+                st.rerun()
+            else:
+                st.error("Fetch failed. See details below.")
+                st.code((result.stdout or "") + "\n" + (result.stderr or ""))
 
     st.markdown("---")
     st.subheader("Discovery candidates")
@@ -2700,22 +2800,24 @@ def source_manager_view() -> None:
         )
 
         def _suggest_disc_source_id(
-            jurisdiction_code: str, year_guess: str, existing_ids: set[str]
+            jurisdiction_code: str,
+            document_type: str,
+            existing_ids: set[str],
         ) -> str:
-            base = "DISC"
-            if jurisdiction_code:
-                base = f"{jurisdiction_code}-DISC"
-            if year_guess:
-                base = f"{base}-{year_guess}"
-            candidate = f"{base}-001"
-            counter = 1
-            while candidate in existing_ids:
-                counter += 1
-                candidate = f"{base}-{counter:03d}"
-            return candidate
+            prefix = _normalize_source_prefix(jurisdiction_code) if jurisdiction_code else "SRC"
+            token = _doc_type_token(document_type)
+            base = f"{prefix}-{token}"
+            max_n = 0
+            for sid in existing_ids:
+                if not sid.startswith(f"{base}-"):
+                    continue
+                tail = sid.split("-")[-1]
+                if tail.isdigit():
+                    max_n = max(max_n, int(tail))
+            return f"{base}-{max_n + 1:03d}"
 
         def _default_doc_type(url: str) -> str:
-            return "official_publication" if url.lower().endswith(".pdf") else "webpage"
+            return "official_publication" if url.lower().endswith(".pdf") else "news"
 
         def _default_source_type(url: str) -> str:
             return "pdf_direct" if url.lower().endswith(".pdf") else "html_page"
@@ -2731,7 +2833,10 @@ def source_manager_view() -> None:
                 return
             selected_disc_id = display_df.iloc[selected_rows[0]]["candidate_id"]
             cand = dq[dq["candidate_id"] == selected_disc_id].iloc[0]
-            existing_ids = set(df["source_id"].dropna().astype(str).tolist())
+            existing_ids = {
+                _normalize_source_id(v)
+                for v in df["source_id"].dropna().astype(str).tolist()
+            }
             new_instrument = st.checkbox(
                 "New scheme", value=False, key="promote_new_instrument"
             )
@@ -2741,7 +2846,7 @@ def source_manager_view() -> None:
                     "New source_id",
                     value=_suggest_disc_source_id(
                         str(cand.get("jurisdiction_code", "")).strip(),
-                        str(cand.get("year_guess", "")).strip(),
+                        _default_doc_type(str(cand.get("url", ""))),
                         existing_ids,
                     ),
                 )
@@ -2793,10 +2898,18 @@ def source_manager_view() -> None:
                 )
                 document_type = st.selectbox(
                     "Document type",
-                    options=["legislation", "official_publication", "webpage", "report"],
-                    index=["legislation", "official_publication", "webpage", "report"].index(
-                        _default_doc_type(str(cand.get("url", "")))
-                    ),
+                    options=[
+                        "legislation",
+                        "official_publication",
+                        "news",
+                        "report",
+                    ],
+                    index=[
+                        "legislation",
+                        "official_publication",
+                        "news",
+                        "report",
+                    ].index(_default_doc_type(str(cand.get("url", "")))),
                 )
                 source_type = st.selectbox(
                     "Source type",
@@ -2808,8 +2921,10 @@ def source_manager_view() -> None:
                 active = st.checkbox("Active (include in fetch-all)", value=False)
                 submitted = st.form_submit_button("Add to sources")
                 if submitted:
-                    if not source_id:
-                        st.error("source_id is required.")
+                    source_id = _normalize_source_id(source_id)
+                    ok, err = _valid_source_id(source_id)
+                    if not ok:
+                        st.error(err)
                     elif not url:
                         st.error("URL is required.")
                     elif not juris_for_form:
@@ -3114,36 +3229,12 @@ def prices_editor_view(reviewer: str) -> None:
     ghg_options = ["CO2", "CH4", "N2O", "F-GASES"]
     products = load_price_products()
 
-    col1, col2, col3, col4 = st.columns(4)
-    with col1:
-        year = int(st.number_input("Year", min_value=1990, max_value=2100, value=2024))
-    with col2:
-        ghg = st.multiselect("GHG", ghg_options, default=["CO2"])
-    with col3:
-        product = st.multiselect("Product / fuel", products, default=products[:1])
-    with col4:
-        currency_code = st.text_input("Currency code", value="")
-
-    ghg_sel = [g for g in ghg if g]
-    icap_sig = _icap_price_signature()
-    icap_schemes: set[str] = set()
-    for gas_label in ghg_sel:
-        icap_schemes |= load_raw_icap_price_presence(year, gas_label, icap_sig)
-
     scheme_labels: dict[str, str] = {}
     for sid in scheme_options:
         label = sid
         if sid not in existing_price_schemes:
             label = f"{label} (new)"
-        if sid in icap_schemes:
-            label = f"{label} (ICAP)"
         scheme_labels[label] = sid
-    if icap_schemes:
-        icap_list = ", ".join(sorted(icap_schemes))
-        st.markdown(
-            f"<span style='color:#999'>ICAP-derived schemes: {icap_list}</span>",
-            unsafe_allow_html=True,
-        )
 
     current_scheme = st.session_state.get("current_scheme_id", "")
     scheme_label_options = sorted(scheme_labels.keys())
@@ -3193,6 +3284,72 @@ def prices_editor_view(reviewer: str) -> None:
     if temp_path.exists():
         st.caption(f"Temp file detected: {temp_path}")
 
+    last_year = None
+    last_ghg: list[str] = []
+    last_product: list[str] = []
+    if not existing_df.empty and "year" in existing_df.columns:
+        years = [
+            int(float(y))
+            for y in existing_df["year"].dropna().astype(str).tolist()
+            if str(y).replace(".", "").isdigit()
+        ]
+        if years:
+            last_year = max(years)
+            last_mask = existing_df["year"].astype(str) == str(last_year)
+            if last_mask.any():
+                if "ghg" in existing_df.columns:
+                    last_ghg = (
+                        existing_df.loc[last_mask, "ghg"]
+                        .dropna()
+                        .astype(str)
+                        .str.strip()
+                        .tolist()
+                    )
+                    last_ghg = sorted({g for g in last_ghg if g})
+                if "product" in existing_df.columns:
+                    last_product = (
+                        existing_df.loc[last_mask, "product"]
+                        .dropna()
+                        .astype(str)
+                        .str.strip()
+                        .tolist()
+                    )
+                    last_product = sorted({p for p in last_product if p})
+
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        year = int(
+            st.number_input(
+                "Year",
+                min_value=1990,
+                max_value=2100,
+                value=last_year or 2024,
+            )
+        )
+    with col2:
+        ghg = st.multiselect(
+            "GHG", ghg_options, default=last_ghg or ["CO2"]
+        )
+    with col3:
+        product = st.multiselect(
+            "Product / fuel",
+            products,
+            default=last_product or products[:1],
+        )
+
+    ghg_sel = [g for g in ghg if g]
+    product_sel = [p for p in product if p]
+
+    icap_sig = _icap_price_signature()
+    icap_schemes = set()
+    for gas_label in ghg_sel:
+        icap_schemes |= load_raw_icap_price_presence(year, gas_label, icap_sig)
+    if scheme_id in icap_schemes:
+        st.markdown(
+            "<span style='color:#999'>Prices for this scheme/year appear to be ICAP-derived.</span>",
+            unsafe_allow_html=True,
+        )
+
     with st.expander("Related discovery candidates", expanded=False):
         _render_related_discovery_candidates(
             scheme_id,
@@ -3201,10 +3358,33 @@ def prices_editor_view(reviewer: str) -> None:
             variable_hint=variable_hint,
         )
 
-    col5, col6 = st.columns(2)
+    default_currency = ""
+    if not existing_df.empty and ghg_sel and product_sel:
+        mask = (
+            (existing_df["year"].astype(str) == str(year))
+            & (existing_df["ghg"].astype(str).isin(ghg_sel))
+            & (existing_df["product"].astype(str).isin(product_sel))
+        )
+        if mask.any() and "currency_code" in existing_df.columns:
+            values = (
+                existing_df.loc[mask, "currency_code"]
+                .dropna()
+                .astype(str)
+                .str.strip()
+                .tolist()
+            )
+            values = [v for v in values if v]
+            if values:
+                unique_vals = sorted(set(values))
+                if len(unique_vals) == 1:
+                    default_currency = unique_vals[0]
+
+    col5, col6, col7 = st.columns(3)
     with col5:
-        rate = st.text_input("Rate", value="NA")
+        currency_code = st.text_input("Currency code", value=default_currency)
     with col6:
+        rate = st.text_input("Rate", value="NA")
+    with col7:
         sources_df = load_sources()
         source = _render_source_picker(
             "Source",
@@ -3347,6 +3527,7 @@ def _source_options_for_scheme(scheme_id: str, sources_df: pd.DataFrame) -> list
     scheme_id = str(scheme_id).strip()
     if not scheme_id:
         return []
+    multi_tokens = {"_multi_jurisdiction", "_multi_jurisdictions"}
 
     scheme_jurisdictions: set[str] = set()
     for _, row in sources_df.iterrows():
@@ -3371,10 +3552,13 @@ def _source_options_for_scheme(scheme_id: str, sources_df: pd.DataFrame) -> list
         if not source_id:
             continue
         row_schemes = _split_jurisdictions(row.get("scheme_id", ""))
+        row_jurisdictions = set(_split_jurisdictions(row.get("jurisdiction", "")))
+        if multi_tokens & set(row_schemes + list(row_jurisdictions)):
+            options.add(source_id)
+            continue
         if scheme_id in row_schemes:
             options.add(source_id)
             continue
-        row_jurisdictions = set(_split_jurisdictions(row.get("jurisdiction", "")))
         if expanded_scheme_jurisdictions and row_jurisdictions & expanded_scheme_jurisdictions:
             options.add(source_id)
     return sorted(options)
@@ -3387,6 +3571,17 @@ def _render_source_picker(
     existing_value: str = "",
     key: str | None = None,
 ) -> str:
+    def _title_for(source_id: str) -> str:
+        if sources_df.empty or not source_id:
+            return ""
+        match = sources_df[sources_df["source_id"].astype(str) == str(source_id)]
+        if match.empty:
+            return ""
+        raw = str(match.iloc[0].get("title", "") or "").strip()
+        if not raw:
+            return ""
+        return raw[:80] + ("…" if len(raw) > 80 else "")
+
     def _details_for(source_id: str) -> tuple[str, str]:
         if sources_df.empty or not source_id:
             return "", ""
@@ -3434,7 +3629,13 @@ def _render_source_picker(
 
     options = [""] + options
     idx = options.index(existing_value) if existing_value in options else 0
-    selection = st.selectbox(label, options=options, index=idx, key=key)
+    selection = st.selectbox(
+        label,
+        options=options,
+        index=idx,
+        key=key,
+        format_func=lambda s: f"{s} — {_title_for(s)}" if s else s,
+    )
     if not selection:
         if st.button("Go to Manage sources", key=f"{key}_manage_sources"):
             st.session_state["pending_view"] = "Manage sources"
@@ -3541,14 +3742,27 @@ def scope_editor_view(reviewer: str) -> None:
     year_choice = st.selectbox("Year", options=all_years + ["New year"])
     if year_choice == "New year":
         year = int(st.number_input("New year", min_value=1990, max_value=2100, value=2025))
+        prev_year = max([y for y in all_years if y < year], default=None)
     else:
         year = int(year_choice)
+        prev_year = None
 
     year_key = _coerce_year_key(year, jur_dict)
     existing_jur = jur_dict.get(year_key, [])
     existing_sectors = sector_dict.get(_coerce_year_key(year, sector_dict), [])
     existing_fuels = fuel_dict.get(_coerce_year_key(year, fuel_dict), [])
     existing_source = scheme_sources.get(_coerce_year_key(year, scheme_sources), "")
+
+    if prev_year is not None:
+        prev_jur = jur_dict.get(_coerce_year_key(prev_year, jur_dict), [])
+        prev_sectors = sector_dict.get(_coerce_year_key(prev_year, sector_dict), [])
+        prev_fuels = fuel_dict.get(_coerce_year_key(prev_year, fuel_dict), [])
+        if not existing_jur and prev_jur:
+            existing_jur = prev_jur
+        if not existing_sectors and prev_sectors:
+            existing_sectors = prev_sectors
+        if scheme_type == "tax" and not existing_fuels and prev_fuels:
+            existing_fuels = prev_fuels
 
     jur_options = sorted({j for years in jur_dict.values() for j in years})
     ipcc_options = load_ipcc_codes(gas_label)

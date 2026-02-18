@@ -85,7 +85,22 @@ def fetch_source(source: Source, raw_root: Path) -> list[str]:
 
     artifact_ids: list[str] = []
 
-    if source.source_type in ("html_page", "html_index_pdf_links"):
+    is_pdf_url = str(resp.url).lower().endswith(".pdf") or source.url.lower().endswith(".pdf")
+    content_type = resp.headers.get("content-type", "").lower()
+    is_pdf_content = "application/pdf" in content_type
+    if source.source_type in ("html_page", "html_index_pdf_links") and (is_pdf_url or is_pdf_content):
+        # Fallback: treat as direct PDF when the response is a PDF.
+        artifact_ids.append(
+            store_artifact(
+                raw_root=raw_root,
+                source=source,
+                artifact_type="pdf",
+                content_bytes=resp.content,
+                fetched_url=str(resp.url),
+                http_status=resp.status_code,
+            )
+        )
+    elif source.source_type in ("html_page", "html_index_pdf_links"):
         # Store landing page HTML
         artifact_ids.append(
             store_artifact(
