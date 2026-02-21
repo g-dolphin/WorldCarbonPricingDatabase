@@ -1,0 +1,79 @@
+acts:
+- act_id: ZA_CTA_2019
+  jurisdiction: South Africa
+  instrument_name: Carbon Tax Act
+  instrument_type: Act
+  citation: Act 15 of 2019
+  adoption_date: '2019-05-23'
+  publication_date: '2019-05-23'
+  entry_into_force: '2019-06-01'
+  source_url: https://www.gov.za/sites/default/files/gcis_document/201905/4248323-5act15of2019carbontaxact.pdf
+provisions:
+- provision_id: ZA_RATE
+  act_id: ZA_CTA_2019
+  provision_ref: Section 5 / annual updates
+  chapter_ref: ''
+  title: Carbon tax base rate
+  change_type: baseline
+  change_note: Annual statutory/budget updates.
+rate_series_meta:
+  provision_id: ZA_RATE
+  pollutant: CO2e
+  unit: ZAR/tCO2e
+  basis: Carbon tax base rate
+  method: statutory/budget
+rate_series:
+- rate_id: ZA_2019_06
+  rate_value: 120
+  effective_from: '2019-06-01'
+  effective_to: '2019-12-31'
+- rate_id: ZA_2020
+  rate_value: 127
+  effective_from: '2020-01-01'
+  effective_to: '2020-12-31'
+- rate_id: ZA_2021
+  rate_value: 134
+  effective_from: '2021-01-01'
+  effective_to: '2021-12-31'
+- rate_id: ZA_2022
+  rate_value: 144
+  effective_from: '2022-01-01'
+  effective_to: '2022-12-31'
+- rate_id: ZA_2023
+  rate_value: 159
+  effective_from: '2023-01-01'
+  effective_to: '2023-12-31'
+- rate_id: ZA_2024
+  rate_value: 190
+  effective_from: '2024-01-01'
+  effective_to: '2024-12-31'
+- rate_id: ZA_2025
+  rate_value: 236
+  effective_from: '2025-01-01'
+  effective_to: '2025-12-31'
+- rate_id: ZA_2026
+  rate_value: 308
+  effective_from: '2026-01-01'
+  effective_to: '2026-12-31'
+- rate_id: ZA_2027
+  rate_value: 347
+  effective_from: '2027-01-01'
+  effective_to: '2027-12-31'
+- rate_id: ZA_2028
+  rate_value: 385
+  effective_from: '2028-01-01'
+  effective_to: '2028-12-31'
+- rate_id: ZA_2029
+  rate_value: 424
+  effective_from: '2029-01-01'
+  effective_to: '2029-12-31'
+- rate_id: ZA_2030
+  rate_value: 462
+  effective_from: '2030-01-01'
+  effective_to: ''
+artifacts:
+  carbon_tax_act_pdf:
+    url: https://www.gov.za/sites/default/files/gcis_document/201905/4248323-5act15of2019carbontaxact.pdf
+    filename: carbon_tax_act_2019.pdf
+    act_id: ZA_CTA_2019
+    kind: pdf

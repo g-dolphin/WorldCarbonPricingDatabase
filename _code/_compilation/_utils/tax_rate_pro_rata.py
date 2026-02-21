@@ -34,7 +34,7 @@ def _infer_end_dates(df: pd.DataFrame) -> pd.DataFrame:
     df["effective_date"] = df["effective_date"].apply(_parse_date)
     df["end_date"] = df["end_date"].apply(_parse_date)
 
-    df = df.sort_values(by=["scheme_id", "product", "effective_date"])
+    df = df.sort_values(by=["scheme_id", "product", "ghg", "effective_date"])
 
     def _fill_group(group: pd.DataFrame) -> pd.DataFrame:
         group = group.copy()
@@ -50,7 +50,7 @@ def _infer_end_dates(df: pd.DataFrame) -> pd.DataFrame:
                     group.iloc[i, group.columns.get_loc("end_date")] = pd.Timestamp(year=year, month=12, day=31)
         return group
 
-    df = df.groupby(["scheme_id", "product"], dropna=False, sort=False).apply(_fill_group)
+    df = df.groupby(["scheme_id", "product", "ghg"], dropna=False, sort=False).apply(_fill_group)
     df = df.reset_index(drop=True)
     return df
 
@@ -60,10 +60,12 @@ def compute_annual_rates(rate_changes: pd.DataFrame) -> pd.DataFrame:
         return rate_changes
 
     df = rate_changes.copy()
-    for col in ["scheme_id", "product", "currency_code", "source", "comment"]:
+    for col in ["scheme_id", "product", "currency_code", "source", "comment", "ghg"]:
         if col not in df.columns:
             df[col] = ""
         df[col] = df[col].fillna("")
+    if (df["ghg"] == "").all():
+        df["ghg"] = "CO2"
 
     df = _infer_end_dates(df)
 
@@ -72,7 +74,7 @@ def compute_annual_rates(rate_changes: pd.DataFrame) -> pd.DataFrame:
         if pd.isna(r["effective_date"]) or pd.isna(r["end_date"]):
             continue
         try:
-            rate = float(r.get("rate"))
+                rate = float(r.get("rate"))
         except Exception:
             continue
         start = r["effective_date"].normalize()
@@ -92,6 +94,7 @@ def compute_annual_rates(rate_changes: pd.DataFrame) -> pd.DataFrame:
                 {
                     "scheme_id": r["scheme_id"],
                     "product": r["product"],
+                    "ghg": r["ghg"],
                     "year": year,
                     "rate_days": rate * days,
                     "days_in_year": days_in_year,
@@ -105,7 +108,7 @@ def compute_annual_rates(rate_changes: pd.DataFrame) -> pd.DataFrame:
         return pd.DataFrame()
 
     tmp = pd.DataFrame(rows)
-    grouped = tmp.groupby(["scheme_id", "product", "year"], dropna=False)
+    grouped = tmp.groupby(["scheme_id", "product", "ghg", "year"], dropna=False)
 
     out = grouped.agg(
         rate_days=("rate_days", "sum"),
@@ -120,9 +123,74 @@ def compute_annual_rates(rate_changes: pd.DataFrame) -> pd.DataFrame:
         comment=("comment", lambda s: ";".join(sorted({x for x in s if x}))),
     ).reset_index()
 
-    out = out.merge(meta, on=["scheme_id", "product", "year"], how="left")
-    out = out[["scheme_id", "year", "product", "rate", "currency_code", "source", "comment"]]
+    out = out.merge(meta, on=["scheme_id", "product", "ghg", "year"], how="left")
+    out = out[
+        ["scheme_id", "year", "ghg", "product", "rate", "currency_code", "source", "comment"]
+    ]
     return out
+
+
+def apply_annual_rates_to_tax_files(annual_rates: pd.DataFrame, price_dir: Path) -> int:
+    if annual_rates.empty:
+        return 0
+    price_dir = Path(price_dir)
+    price_dir.mkdir(parents=True, exist_ok=True)
+
+    required = ["scheme_id", "year", "ghg", "product", "rate", "currency_code", "source", "comment"]
+    for col in required:
+        if col not in annual_rates.columns:
+            annual_rates[col] = ""
+
+    updated = 0
+    for scheme_id, block in annual_rates.groupby("scheme_id"):
+        if not scheme_id:
+            continue
+        path = price_dir / f"{scheme_id}_prices.csv"
+        if path.exists():
+            df = pd.read_csv(path, dtype=str)
+        else:
+            df = pd.DataFrame(columns=required)
+
+        for col in required:
+            if col not in df.columns:
+                df[col] = ""
+
+        def _key(frame: pd.DataFrame) -> pd.Series:
+            return (
+                frame["scheme_id"].astype(str).str.strip()
+                + "|"
+                + frame["year"].astype(str).str.strip()
+                + "|"
+                + frame["ghg"].astype(str).str.strip()
+                + "|"
+                + frame["product"].astype(str).str.strip()
+            )
+
+        existing_key = _key(df)
+        incoming_key = _key(block)
+        df = df.copy()
+        block = block.copy()
+
+        for _, row in block.iterrows():
+            key = (
+                f"{str(row.get('scheme_id','')).strip()}|"
+                f"{str(row.get('year','')).strip()}|"
+                f"{str(row.get('ghg','')).strip()}|"
+                f"{str(row.get('product','')).strip()}"
+            )
+            mask = existing_key == key
+            if mask.any():
+                for col in required:
+                    df.loc[mask, col] = row.get(col, "")
+            else:
+                df = pd.concat([df, pd.DataFrame([row[required]])], ignore_index=True)
+
+        df = df[required]
+        df = df.sort_values(by=["year", "ghg", "product"])
+        df.to_csv(path, index=False)
+        updated += 1
+
+    return updated
 
 
 def main() -> None:
@@ -144,6 +212,10 @@ def main() -> None:
     out.to_csv(out_path, index=False)
 
     print(f"Wrote {len(out)} rows to {out_path}")
+
+    if args.out_tax:
+        updated = apply_annual_rates_to_tax_files(out, Path(args.out_tax))
+        print(f"Updated {updated} tax price file(s) in {args.out_tax}")
 
 
 if __name__ == "__main__":

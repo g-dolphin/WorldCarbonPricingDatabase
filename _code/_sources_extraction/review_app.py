@@ -36,6 +36,9 @@ RAW_DB_ROOT = Path("_raw")
 RAW_PRICE_DIR = RAW_DB_ROOT / "price"
 RAW_SCOPE_DIR = RAW_DB_ROOT / "scope"
 RAW_REBATES_DIR = RAW_DB_ROOT / "priceRebates" / "tax"
+RAW_PREPROC_DIR = RAW_PRICE_DIR / "_preproc"
+RATE_CHANGES_PATH = RAW_PREPROC_DIR / "rate_changes.csv"
+ANNUAL_RATES_PATH = RAW_PREPROC_DIR / "annual_rates.csv"
 RAW_STRUCTURE_DIR = RAW_DB_ROOT / "_aux_files" / "wcpd_structure"
 IPCC_MAP_PATH = RAW_DB_ROOT / "_aux_files" / "ipcc2006_iea_category_codes.csv"
 ECP_IPCC_MAP_PATH = Path(
@@ -44,6 +47,7 @@ ECP_IPCC_MAP_PATH = Path(
 JURIS_GROUPS_PATH = RAW_DB_ROOT / "_aux_files" / "jurisdiction_groups.json"
 DATASET_ROOT = Path("_dataset/data")
 ETS_PRICE_UTIL_PATH = Path("_code/_compilation/_utils/ets_prices.py")
+TAX_RATE_UTIL_PATH = Path("_code/_compilation/_utils/tax_rate_pro_rata.py")
 
 GAS_OPTIONS = {
     "CO2": "CO2",
@@ -158,6 +162,7 @@ def load_review_state() -> pd.DataFrame:
                 "edited_unit",
                 "edited_effective_date",
                 "edited_end_date",
+                "edited_rate_change_date",
                 "edited_variable",
                 "edited_year",
                 "edited_ghg",
@@ -173,6 +178,8 @@ def load_review_state() -> pd.DataFrame:
     if "review_entry_id" not in df.columns:
         df["review_entry_id"] = ""
     df["review_entry_id"] = df["review_entry_id"].fillna("")
+    if "edited_rate_change_date" not in df.columns:
+        df["edited_rate_change_date"] = ""
     if not df.empty:
         missing = df["review_entry_id"] == ""
         if missing.any():
@@ -217,6 +224,101 @@ def load_sources() -> pd.DataFrame:
                 df[col] = ""
         return df
     return pd.DataFrame(columns=REQUIRED_SOURCE_COLUMNS)
+
+
+def _rate_changes_columns() -> list[str]:
+    return [
+        "scheme_id",
+        "product",
+        "ghg",
+        "effective_date",
+        "end_date",
+        "rate",
+        "currency_code",
+        "source",
+        "comment",
+    ]
+
+
+@st.cache_data
+def load_rate_changes() -> pd.DataFrame:
+    if RATE_CHANGES_PATH.exists():
+        df = pd.read_csv(RATE_CHANGES_PATH, dtype=str)
+    else:
+        df = pd.DataFrame(columns=_rate_changes_columns())
+    for col in _rate_changes_columns():
+        if col not in df.columns:
+            df[col] = ""
+    return df
+
+
+def save_rate_changes(df: pd.DataFrame) -> None:
+    RAW_PREPROC_DIR.mkdir(parents=True, exist_ok=True)
+    df.to_csv(RATE_CHANGES_PATH, index=False)
+
+
+def _upsert_rate_changes(rows: list[dict[str, str]]) -> int:
+    if not rows:
+        return 0
+    df = load_rate_changes().copy()
+    for col in _rate_changes_columns():
+        if col not in df.columns:
+            df[col] = ""
+
+    def _norm(val: object) -> str:
+        return str(val or "").strip()
+
+    def _key(frame: pd.DataFrame) -> pd.Series:
+        return (
+            frame["scheme_id"].astype(str).str.strip()
+            + "|"
+            + frame["product"].astype(str).str.strip()
+            + "|"
+            + frame["ghg"].astype(str).str.strip()
+            + "|"
+            + frame["effective_date"].astype(str).str.strip()
+        )
+
+    existing_key = _key(df)
+    updated = 0
+    for row in rows:
+        key = (
+            f"{_norm(row.get('scheme_id'))}|"
+            f"{_norm(row.get('product'))}|"
+            f"{_norm(row.get('ghg'))}|"
+            f"{_norm(row.get('effective_date'))}"
+        )
+        mask = existing_key == key
+        if mask.any():
+            for col in _rate_changes_columns():
+                df.loc[mask, col] = _norm(row.get(col, ""))
+        else:
+            df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)
+        updated += 1
+
+    df = df[_rate_changes_columns()]
+    save_rate_changes(df)
+    return updated
+
+
+def _recompute_annual_rates(update_price_files: bool) -> tuple[int, int]:
+    try:
+        from _code._compilation._utils import tax_rate_pro_rata as pro_rata
+    except Exception:
+        spec = importlib.util.spec_from_file_location("tax_rate_pro_rata", TAX_RATE_UTIL_PATH)
+        if spec is None or spec.loader is None:
+            return (0, 0)
+        pro_rata = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(pro_rata)
+
+    df = load_rate_changes().copy()
+    annual = pro_rata.compute_annual_rates(df)
+    RAW_PREPROC_DIR.mkdir(parents=True, exist_ok=True)
+    annual.to_csv(ANNUAL_RATES_PATH, index=False)
+    updated = 0
+    if update_price_files:
+        updated = pro_rata.apply_annual_rates_to_tax_files(annual, RAW_PRICE_DIR)
+    return (len(annual), updated)
 
 
 @st.cache_data
@@ -1753,6 +1855,7 @@ def merge_all_candidates() -> pd.DataFrame:
         "edited_unit",
         "edited_effective_date",
         "edited_end_date",
+        "edited_rate_change_date",
         "edited_variable",
         "edited_year",
         "edited_ghg",
@@ -1782,6 +1885,7 @@ def save_review_row(row: dict) -> None:
                 "edited_numeric_value",
                 "edited_currency",
                 "edited_unit",
+                "edited_rate_change_date",
                 "edited_variable",
                 "edited_year",
                 "edited_ghg",
@@ -1808,6 +1912,24 @@ def save_review_row(row: dict) -> None:
         df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)
 
     df.to_csv(REVIEW_PATH, index=False)
+
+
+def _update_candidate_rate_change_date(candidate_id: str, rate_change_date: str) -> None:
+    if not candidate_id or not CAND_PATH.exists():
+        return
+    try:
+        cand = pd.read_csv(CAND_PATH, dtype=str)
+    except Exception:
+        return
+    if cand.empty or "candidate_id" not in cand.columns:
+        return
+    if "rate_change_date" not in cand.columns:
+        cand["rate_change_date"] = ""
+    mask = cand["candidate_id"].astype(str) == str(candidate_id)
+    if not mask.any():
+        return
+    cand.loc[mask, "rate_change_date"] = rate_change_date
+    cand.to_csv(CAND_PATH, index=False)
 
 
 # -------------------------------------------------------------------
@@ -1864,7 +1986,8 @@ def review_view(reviewer: str) -> None:
             st.session_state.pop("gap_apply_filters", None)
             st.rerun()
 
-    # Sidebar filters
+    st.markdown("**Filter Bar**")
+    st.caption("These filters control the candidate list below.")
     schemes = []
     scheme_meta = load_scheme_metadata()
     if not scheme_meta.empty and "scheme_id" in scheme_meta.columns:
@@ -1877,9 +2000,11 @@ def review_view(reviewer: str) -> None:
         st.session_state[scheme_key] = (
             [gap_scheme] if gap_scheme and gap_scheme in schemes else []
         )
-    sel_schemes = st.sidebar.multiselect(
-        "Carbon pricing mechanism (instrument_id)", schemes, key=scheme_key
-    )
+    filter_row_1 = st.columns(3)
+    with filter_row_1[0]:
+        sel_schemes = st.multiselect(
+            "Carbon pricing mechanism (instrument_id)", schemes, key=scheme_key
+        )
     if len(sel_schemes) == 1:
         st.session_state["current_scheme_id"] = sel_schemes[0]
 
@@ -1916,10 +2041,11 @@ def review_view(reviewer: str) -> None:
             if gap_variable and gap_variable in variable_options
             else variable_options
         )
-    sel_variables = st.sidebar.multiselect(
-        "Variable", variable_options, key=variable_key
-    )
-    st.sidebar.caption(
+    with filter_row_1[1]:
+        sel_variables = st.multiselect(
+            "Variable", variable_options, key=variable_key
+        )
+    st.caption(
         "Variable filter only changes which candidate entries are shown, not what a document can contain."
     )
     if sel_variables:
@@ -1939,7 +2065,8 @@ def review_view(reviewer: str) -> None:
         st.session_state[year_key] = (
             [str(gap_year)] if gap_year and str(gap_year) in years else []
         )
-    sel_years = st.sidebar.multiselect("Year", years, key=year_key)
+    with filter_row_1[2]:
+        sel_years = st.multiselect("Year", years, key=year_key)
     if sel_years and "year" in q.columns:
         q = q[q["year"].astype(str).isin(sel_years)]
 
@@ -1952,11 +2079,13 @@ def review_view(reviewer: str) -> None:
     group_map = load_jurisdiction_groups()
     group_labels = [f"Group: {g}" for g in sorted(group_map.keys())] if group_map else []
     juris_options = ["All"] + group_labels + juris_options if juris_options else []
-    sel_juris = st.sidebar.multiselect(
-        "Jurisdiction / group",
-        juris_options,
-        default=["All"] if juris_options else [],
-    )
+    filter_row_2 = st.columns(3)
+    with filter_row_2[0]:
+        sel_juris = st.multiselect(
+            "Jurisdiction / group",
+            juris_options,
+            default=["All"] if juris_options else [],
+        )
     if sel_juris and "jurisdiction" in q.columns:
         if "All" not in sel_juris:
             expanded = _expand_jurisdiction_selection(sel_juris)
@@ -1974,16 +2103,18 @@ def review_view(reviewer: str) -> None:
     q["status"] = q.apply(status_of, axis=1)
 
     status_options = ["unreviewed", "accepted", "rejected", "skipped"]
-    sel_status = st.sidebar.multiselect(
-        "Status", status_options, default=["unreviewed"]
-    )
+    with filter_row_2[1]:
+        sel_status = st.multiselect(
+            "Status", status_options, default=["unreviewed"]
+        )
     if sel_status:
         q = q[q["status"].isin(sel_status)]
 
     # Confidence
-    min_conf, max_conf = st.sidebar.slider(
-        "Confidence range", 0.0, 1.0, (0.0, 1.0), step=0.05
-    )
+    with filter_row_2[2]:
+        min_conf, max_conf = st.slider(
+            "Confidence range", 0.0, 1.0, (0.0, 1.0), step=0.05
+        )
     if "confidence" in q.columns:
         conf = pd.to_numeric(q["confidence"], errors="coerce")
         q = q[(conf >= min_conf - 1e-9) & (conf <= max_conf + 1e-9)]
@@ -1994,14 +2125,18 @@ def review_view(reviewer: str) -> None:
         if col in q.columns:
             sort_options.append(col)
     if sort_options:
-        sort_by = st.sidebar.selectbox("Sort by", options=sort_options, index=0)
-        sort_order = st.sidebar.radio("Sort order", options=["asc", "desc"], index=0, horizontal=True)
+        filter_row_3 = st.columns(2)
+        with filter_row_3[0]:
+            sort_by = st.selectbox("Sort by", options=sort_options, index=0)
+        with filter_row_3[1]:
+            sort_order = st.radio(
+                "Sort order", options=["asc", "desc"], index=0, horizontal=True
+            )
         ascending = sort_order == "asc"
         q = q.sort_values(by=sort_by, ascending=ascending, kind="mergesort")
 
-    st.sidebar.markdown(f"**{len(q)} candidates** after filters")
-    st.sidebar.markdown("---")
-    _render_manage_sources_shortcut("review_sidebar")
+    st.markdown(f"**{len(q)} candidates** after filters")
+    _render_manage_sources_shortcut("review_filters")
 
     if apply_gap_filters:
         st.session_state["gap_apply_filters"] = False
@@ -2192,20 +2327,38 @@ def review_view(reviewer: str) -> None:
         edited_unit = str(unit_default or "")
         edited_effective_date = str(row.get("edited_effective_date") or "")
         edited_end_date = str(row.get("edited_end_date") or "")
+        rate_change_default = (
+            row.get("edited_rate_change_date")
+            or row.get("rate_change_date")
+            or ""
+        )
+        edited_rate_change_date = str(rate_change_default or "")
 
-        rate_label = "Tax rate" if scheme_type == "tax" else "Allowance price"
+        rate_label = "Allowance price / tax rate"
         variable_options = [rate_label, "Coverage factor", "Price rebate", "Scope"]
         if variable_default and variable_default not in variable_options:
             variable_options.append(variable_default)
-        edited_variable = st.selectbox(
-            "Variable",
-            options=variable_options,
-            index=variable_options.index(variable_default)
-            if variable_default in variable_options
-            else 0,
-        )
 
-        if cfg["value"] and cfg["unit"] and not (cfg["numeric"] or cfg["currency"]):
+        if field_name in {"ipcc_category", "ipcc_code"}:
+            edited_variable = variable_default or "Scope"
+        else:
+            edited_variable = st.selectbox(
+                "Variable",
+                options=variable_options,
+                index=variable_options.index(variable_default)
+                if variable_default in variable_options
+                else 0,
+            )
+
+        if field_name in {"ipcc_category", "ipcc_code"}:
+            if not edited_value:
+                edited_value = "0"
+            edited_value = st.selectbox(
+                "Value",
+                options=["0", "1"],
+                index=0 if str(edited_value).strip() != "1" else 1,
+            )
+        elif cfg["value"] and cfg["unit"] and not (cfg["numeric"] or cfg["currency"]):
             col1, col2 = st.columns(2)
             with col1:
                 edited_value = st.text_input("Value", value=edited_value)
@@ -2238,11 +2391,19 @@ def review_view(reviewer: str) -> None:
                     "Effective date (YYYY-MM-DD)",
                     value=edited_effective_date,
                 )
-            with col_dates[1]:
-                edited_end_date = st.text_input(
-                    "End date (YYYY-MM-DD)",
-                    value=edited_end_date,
-                )
+                with col_dates[1]:
+                    edited_end_date = st.text_input(
+                        "End date (YYYY-MM-DD)",
+                        value=edited_end_date,
+                    )
+
+        if edited_variable == rate_label:
+            edited_rate_change_date = st.text_input(
+                "Rate change date (YYYY-MM-DD)",
+                value=edited_rate_change_date,
+            )
+        else:
+            edited_rate_change_date = ""
 
         st.markdown("**Applies to**")
         if edited_variable == "Scope":
@@ -2336,6 +2497,7 @@ def review_view(reviewer: str) -> None:
                 "edited_unit": edited_unit,
                 "edited_effective_date": edited_effective_date,
                 "edited_end_date": edited_end_date,
+                "edited_rate_change_date": edited_rate_change_date,
                 "edited_variable": edited_variable,
                 "edited_year": ";".join(edited_year),
                 "edited_ghg": ";".join(edited_ghg),
@@ -2347,12 +2509,14 @@ def review_view(reviewer: str) -> None:
                 "comment": comment,
             }
             save_review_row(review_row)
+            _update_candidate_rate_change_date(
+                row.get("candidate_id", ""), edited_rate_change_date
+            )
             st.success("Saved.")
             st.rerun()
 
     with detail_right:
         st.subheader("Context & Files")
-        _render_manage_sources_shortcut("review_context")
         scheme_for_sources = str(row.get("instrument_id", "") or "").strip()
         if scheme_for_sources:
             st.markdown("**Source lookup**")
@@ -2382,9 +2546,8 @@ def source_manager_view() -> None:
     df = load_sources()
     schemes = load_schemes()
 
-    # Sidebar filters
-    st.sidebar.markdown("---")
-    st.sidebar.header("Source filters")
+    st.markdown("**Filter Bar**")
+    st.caption("These filters control the Existing sources table below.")
 
     juris_values = (
         df["jurisdiction"].dropna().astype(str).tolist()
@@ -2392,20 +2555,24 @@ def source_manager_view() -> None:
         else []
     )
     juris_options = sorted({j for v in juris_values for j in _split_jurisdictions(v)})
-    juris_filter = st.sidebar.multiselect(
-        "Jurisdiction", juris_options, default=juris_options
-    )
+    filter_row = st.columns(3)
+    with filter_row[0]:
+        juris_filter = st.multiselect(
+            "Jurisdiction", juris_options, default=juris_options
+        )
 
     doc_types = sorted(df["document_type"].dropna().unique().tolist())
-    doc_filter = st.sidebar.multiselect(
-        "Document type", doc_types, default=doc_types or []
-    )
+    with filter_row[1]:
+        doc_filter = st.multiselect(
+            "Document type", doc_types, default=doc_types or []
+        )
 
-    active_filter = st.sidebar.selectbox(
-        "Active flag",
-        options=["all", "active only", "inactive only"],
-        index=0,
-    )
+    with filter_row[2]:
+        active_filter = st.selectbox(
+            "Active flag",
+            options=["all", "active only", "inactive only"],
+            index=0,
+        )
 
     q = df.copy()
     if juris_filter:
@@ -2641,6 +2808,25 @@ def source_manager_view() -> None:
         elif not jurisdiction:
             st.error("At least one jurisdiction is required.")
         else:
+            if mode != "Edit existing":
+                empty_optional = all(
+                    not str(val or "").strip()
+                    for val in [
+                        scheme_id,
+                        title,
+                        institution,
+                        year,
+                        notes,
+                        doc_pattern,
+                        "" if auto_citation else citation_key,
+                    ]
+                )
+                if empty_optional:
+                    st.warning(
+                        "Nothing to save yet. Fill at least one descriptive field "
+                        "(e.g., scheme ID, title, institution, year, or notes)."
+                    )
+                    return
             if auto_mode and mode != "Edit existing":
                 source_id = auto_source_id
             new_row = {
@@ -2663,6 +2849,25 @@ def source_manager_view() -> None:
             }
 
             df_cur = load_sources()
+            if mode == "Edit existing" and selected_source_id:
+                existing_row = (
+                    df_cur[df_cur["source_id"] == selected_source_id]
+                    .iloc[0]
+                    .to_dict()
+                )
+                def _norm_val(val: object) -> str:
+                    if val is None:
+                        return ""
+                    return str(val).strip()
+
+                unchanged = True
+                for key, new_val in new_row.items():
+                    if _norm_val(existing_row.get(key, "")) != _norm_val(new_val):
+                        unchanged = False
+                        break
+                if unchanged:
+                    st.warning("No changes detected. Update at least one field before saving.")
+                    return
             if source_id in df_cur["source_id"].values:
                 df_cur.loc[df_cur["source_id"] == source_id, :] = new_row
                 st.success(f"Updated existing source {source_id}")
@@ -2691,6 +2896,7 @@ def source_manager_view() -> None:
         if normalized_source_id not in existing_ids:
             st.error("Save the source before fetching.")
         else:
+            st.cache_data.clear()
             with st.spinner("Fetching source..."):
                 result = subprocess.run(
                     [
@@ -3279,10 +3485,50 @@ def prices_editor_view(reviewer: str) -> None:
         existing_df = pd.read_csv(price_path, dtype=str)
 
     if not existing_df.empty:
-        st.caption(f"Existing prices in {price_path}")
-        st.dataframe(existing_df.tail(20), height=200)
+        st.caption(f"Existing prices in {price_path} ({len(existing_df)} rows)")
+        display_df = existing_df.copy()
+        if {"year", "ghg", "product"}.issubset(display_df.columns):
+            display_df = display_df.sort_values(
+                by=["year", "ghg", "product"], kind="mergesort"
+            )
+        default_show_all = len(display_df) <= 200
+        show_all = st.checkbox(
+            "Show all rows",
+            value=default_show_all,
+            key=f"price_show_all_{scheme_id}",
+        )
+        if not show_all:
+            display_df = display_df.tail(100)
+            st.caption("Showing last 100 rows.")
+        st.dataframe(display_df, height=240 if show_all else 200)
     if temp_path.exists():
         st.caption(f"Temp file detected: {temp_path}")
+    if scheme_type == "tax":
+        st.markdown("**Preproc status**")
+        rate_df = load_rate_changes()
+        annual_df = (
+            pd.read_csv(ANNUAL_RATES_PATH, dtype=str)
+            if ANNUAL_RATES_PATH.exists()
+            else pd.DataFrame()
+        )
+        rate_rows = len(rate_df)
+        annual_rows = len(annual_df)
+        rate_mtime = (
+            dt.datetime.fromtimestamp(RATE_CHANGES_PATH.stat().st_mtime).isoformat(timespec="seconds")
+            if RATE_CHANGES_PATH.exists()
+            else "missing"
+        )
+        annual_mtime = (
+            dt.datetime.fromtimestamp(ANNUAL_RATES_PATH.stat().st_mtime).isoformat(timespec="seconds")
+            if ANNUAL_RATES_PATH.exists()
+            else "missing"
+        )
+        st.caption(
+            f"`rate_changes.csv`: {rate_rows} rows, updated {rate_mtime}"
+        )
+        st.caption(
+            f"`annual_rates.csv`: {annual_rows} rows, updated {annual_mtime}"
+        )
 
     last_year = None
     last_ghg: list[str] = []
@@ -3395,6 +3641,32 @@ def prices_editor_view(reviewer: str) -> None:
         )
 
     comment = st.text_area("Comment", value="", height=80)
+    effective_date = ""
+    end_date = ""
+    record_preproc = False
+    update_annual = False
+    if scheme_type == "tax":
+        st.markdown("**Rate change period (optional)**")
+        col_dates = st.columns(2)
+        with col_dates[0]:
+            effective_date = st.text_input(
+                "Effective date (YYYY-MM-DD)",
+                value="",
+            )
+        with col_dates[1]:
+            end_date = st.text_input(
+                "End date (YYYY-MM-DD)",
+                value="",
+            )
+        record_preproc = st.checkbox(
+            "Record as rate change (preproc)",
+            value=bool(effective_date),
+        )
+        update_annual = st.checkbox(
+            "Update annual rates + price files",
+            value=record_preproc,
+            disabled=not record_preproc,
+        )
 
     conflict = False
     conflict_details: list[str] = []
@@ -3443,6 +3715,40 @@ def prices_editor_view(reviewer: str) -> None:
             return
         if not ghg_sel or not product_sel:
             st.error("Select at least one GHG and one product before writing.")
+            return
+        if scheme_type == "tax" and record_preproc:
+            if not effective_date:
+                st.error("Provide an effective date to record a rate change.")
+                return
+            rate_rows: list[dict[str, str]] = []
+            for g in ghg_sel:
+                for p in product_sel:
+                    rate_rows.append(
+                        {
+                            "scheme_id": scheme_id,
+                            "product": p,
+                            "ghg": g,
+                            "effective_date": effective_date,
+                            "end_date": end_date,
+                            "rate": rate,
+                            "currency_code": currency_code,
+                            "source": source,
+                            "comment": comment,
+                        }
+                    )
+            updated = _upsert_rate_changes(rate_rows)
+            annual_count = 0
+            price_updated = 0
+            if update_annual:
+                annual_count, price_updated = _recompute_annual_rates(
+                    update_price_files=True
+                )
+            st.success(f"Recorded {updated} rate change row(s).")
+            if update_annual:
+                st.success(
+                    f"Updated annual_rates.csv ({annual_count} rows) and {price_updated} price file(s)."
+                )
+            st.cache_data.clear()
             return
 
         record_date = dt.datetime.utcnow().date().isoformat()

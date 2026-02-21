@@ -1,0 +1,55 @@
+acts:
+- act_id: ES_L16_2013
+  jurisdiction: Spain
+  instrument_name: Ley 16/2013 (introduced F-gas tax)
+  instrument_type: Act
+  citation: Ley 16/2013, de 29 de octubre
+  adoption_date: '2013-10-29'
+  publication_date: '2013-10-30'
+  entry_into_force: '2014-01-01'
+  source_url: https://www.boe.es/eli/es/l/2013/10/29/16
+- act_id: ES_L14_2022
+  jurisdiction: Spain
+  instrument_name: Ley 14/2022 (reform)
+  instrument_type: Act
+  citation: Ley 14/2022, de 8 de julio
+  adoption_date: '2022-07-08'
+  publication_date: '2022-07-09'
+  entry_into_force: '2022-09-01'
+  source_url: https://www.boe.es/eli/es/l/2022/07/08/14
+provisions:
+- provision_id: ES_FGAS
+  act_id: ES_L16_2013
+  provision_ref: Impuesto sobre gases fluorados
+  chapter_ref: ''
+  title: F-gas tax coefficient/formula
+  change_type: baseline
+  change_note: Placeholder coefficients; replace with full legal extraction.
+rate_series_meta:
+  provision_id: ES_FGAS
+  pollutant: F-gas
+  unit: EUR × GWP (coefficient)
+  basis: Formula coefficient
+  method: formula
+rate_series:
+- rate_id: ES_2014
+  rate_value: 0.02
+  effective_from: '2014-01-01'
+  effective_to: '2022-08-31'
+  notes: Placeholder; confirm in BOE/AEAT.
+- rate_id: ES_2022
+  rate_value: 0.015
+  effective_from: '2022-09-01'
+  effective_to: ''
+  notes: Placeholder; confirm in BOE/AEAT.
+artifacts:
+  ley16_2013_html:
+    url: https://www.boe.es/eli/es/l/2013/10/29/16
+    filename: ley_16_2013.html
+    act_id: ES_L16_2013
+    kind: html
+  ley14_2022_html:
+    url: https://www.boe.es/eli/es/l/2022/07/08/14
+    filename: ley_14_2022.html
+    act_id: ES_L14_2022
+    kind: html

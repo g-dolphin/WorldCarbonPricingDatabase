@@ -6,4 +6,6 @@ _raw/sources/meta/
 _raw/sources/sources/
 _raw/sources/*.csv
 _raw/sources/
+_raw/_preproc_tax
+_raw/price/*_temp.csv
 wcpd_architecture.mmd
