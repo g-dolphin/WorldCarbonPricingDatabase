@@ -1,0 +1,92 @@
+acts:
+- act_id: JP_TAXREFORM_2012
+  jurisdiction: Japan
+  instrument_name: Tax Reform Act 2012 (introducing TCCM add-on)
+  instrument_type: Act (amendment)
+  citation: Law No. 16 of 2012
+  adoption_date: '2012-03-31'
+  publication_date: ''
+  entry_into_force: '2012-10-01'
+  source_url: https://climate-laws.org/document/act-partially-amending-the-law-on-special-tax-measures-tax-reform-act-2012-law-no-16-of-2012_d4a5
+- act_id: JP_MOE_RATE_TABLE
+  jurisdiction: Japan
+  instrument_name: MOE rate table (staged schedule)
+  instrument_type: Administrative PDF
+  citation: MOE Japan staged rates
+  adoption_date: ''
+  publication_date: ''
+  entry_into_force: ''
+  source_url: https://www.env.go.jp/content/000042354.pdf
+provisions:
+- provision_id: JP_TCCM_EQ
+  act_id: JP_TAXREFORM_2012
+  provision_ref: TCCM equivalence
+  chapter_ref: ''
+  title: Fully phased-in equivalence
+  change_type: baseline
+  change_note: Equivalence anchor; fuel-unit add-ons in extras.
+rate_series_meta:
+  provision_id: JP_TCCM_EQ
+  pollutant: CO2
+  unit: JPY/tCO2 (equivalence)
+  basis: Equivalence of fully phased-in add-on
+  method: administrative
+rate_series:
+- rate_id: JP_EQ_20160401
+  rate_value: 289
+  effective_from: '2016-04-01'
+  effective_to: ''
+  notes: Fully phased-in equivalence per MOE.
+extras:
+  fuel_unit_addon_rates:
+  - fuel: Crude oil & petroleum products
+    unit: JPY/kl (add-on)
+    effective_from: '2012-10-01'
+    effective_to: '2014-03-31'
+    rate_value: 250
+  - fuel: Crude oil & petroleum products
+    unit: JPY/kl (add-on)
+    effective_from: '2014-04-01'
+    effective_to: '2016-03-31'
+    rate_value: 500
+  - fuel: Crude oil & petroleum products
+    unit: JPY/kl (add-on)
+    effective_from: '2016-04-01'
+    effective_to: ''
+    rate_value: 760
+  - fuel: Gaseous hydrocarbons (LPG/LNG)
+    unit: JPY/ton (add-on)
+    effective_from: '2012-10-01'
+    effective_to: '2014-03-31'
+    rate_value: 260
+  - fuel: Gaseous hydrocarbons (LPG/LNG)
+    unit: JPY/ton (add-on)
+    effective_from: '2014-04-01'
+    effective_to: '2016-03-31'
+    rate_value: 520
+  - fuel: Gaseous hydrocarbons (LPG/LNG)
+    unit: JPY/ton (add-on)
+    effective_from: '2016-04-01'
+    effective_to: ''
+    rate_value: 780
+  - fuel: Coal
+    unit: JPY/ton (add-on)
+    effective_from: '2012-10-01'
+    effective_to: '2014-03-31'
+    rate_value: 220
+  - fuel: Coal
+    unit: JPY/ton (add-on)
+    effective_from: '2014-04-01'
+    effective_to: '2016-03-31'
+    rate_value: 440
+  - fuel: Coal
+    unit: JPY/ton (add-on)
+    effective_from: '2016-04-01'
+    effective_to: ''
+    rate_value: 670
+artifacts:
+  moe_rates_pdf:
+    url: https://www.env.go.jp/content/000042354.pdf
+    filename: moe_tccm_rates.pdf
+    act_id: JP_MOE_RATE_TABLE
+    kind: pdf

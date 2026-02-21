@@ -60,16 +60,16 @@ def scope():
     eu_ets_gas_scope = {2013:eu_ets_gas_I, 2014:eu_ets_gas_I, 2015:eu_ets_gas_I,
                         2016:eu_ets_gas_I, 2017:eu_ets_gas_I, 2018:eu_ets_gas_I,
                         2019:eu_ets_gas_I, 2020:eu_ets_gas_I, 2021:eu_ets_gas_I,
-                        2022:et_ets_gas_I, 2023:eu_ets_gas_I, 2024:eu_ets_gas_I} 
+                        2022:eu_ets_gas_I, 2023:eu_ets_gas_I, 2024:eu_ets_gas_I} 
 
     eu_ets_jur_scope = {2013:eu_ets_jur_I, 2014:eu_ets_jur_I, 2015:eu_ets_jur_I,
                         2016:eu_ets_jur_I, 2017:eu_ets_jur_I, 2018:eu_ets_jur_I,
-                        2019:eu_ets_jur_I, 2020:eu_ets_jur_I, 2021:eu_ets_jur_II
+                        2019:eu_ets_jur_I, 2020:eu_ets_jur_I, 2021:eu_ets_jur_II,
                         2022:eu_ets_jur_II, 2023:eu_ets_jur_II, 2024:eu_ets_jur_II}
     
     eu_ets_ipcc_scope = {2013:eu_ets_ipcc_I, 2014:eu_ets_ipcc_I, 2015:eu_ets_ipcc_I,
                          2016:eu_ets_ipcc_I, 2017:eu_ets_ipcc_I, 2018:eu_ets_ipcc_I,
-                         2019:eu_ets_ipcc_I, 2020:eu_ets_ipcc_I, 2021:eu_ets_ipcc_I
+                         2019:eu_ets_ipcc_I, 2020:eu_ets_ipcc_I, 2021:eu_ets_ipcc_I,
                          2022:eu_ets_ipcc_I, 2023:eu_ets_ipcc_I, 2024:eu_ets_ipcc_I}
 
     
@@ -606,5 +606,4 @@ def scope():
     data_and_sources = {"data":ets_scope, "sources":ets_scope_sources}
     
     return data_and_sources
-
 

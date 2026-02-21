@@ -1,0 +1,27 @@
+jurisdiction: Sweden
+prefix: sweden
+artifacts:
+  skatteverket_rates_pdf:
+    url: "https://skatteverket.se/download/18.386bd4b919276cc86c42ae8/1732884933875/Skattesatser%20t.o.m.%202024-12-31.pdf"
+    filename: "Skattesatser_tom_2024-12-31.pdf"
+    act_id: "SE_SKV_HIST_TOM_2024_12_31"
+    kind: "pdf"
+  lse_consolidated_html:
+    url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-19941776-om-skatt-pa-energi_sfs-1994-1776/"
+    filename: "lse_consolidated.html"
+    act_id: "SE_LSE_1994_1776"
+    kind: "html"
+
+amending_acts:
+  - act_id: "SE_SFS_2022_1775"
+    url: "https://svenskforfattningssamling.se/sites/default/files/sfs/2022-12/SFS2022-1775.pdf"
+    entry_into_force: "2023-01-01"
+  - act_id: "SE_SFS_2025_1357"
+    url: "https://svenskforfattningssamling.se/sites/default/files/sfs/2025-11/SFS2025-1357.pdf"
+    entry_into_force: "2026-01-01"
+  - act_id: "SE_SFS_2025_1358"
+    url: "https://svenskforfattningssamling.se/sites/default/files/sfs/2025-11/SFS2025-1358.pdf"
+    entry_into_force: "2026-07-01"
+  - act_id: "SE_SFS_2025_577"
+    url: "https://svenskforfattningssamling.se/doc/2025577.html"
+    entry_into_force: "2026-07-01"
