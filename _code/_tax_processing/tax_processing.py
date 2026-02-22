@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import os
 import re
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Dict, Tuple, Optional
 
@@ -16,8 +17,109 @@ DATE_COLS = [
     "effective_to",
 ]
 
-DEFAULT_SEED_DIR = Path("_raw/_preproc_tax/seeds")
-DEFAULT_OUT_DIR = Path("_raw/_preproc_tax/out")
+DEFAULT_SEED_DIR = Path("_raw/_preproc/_preproc_tax/seeds")
+DEFAULT_OUT_DIR = Path("_raw/_preproc/_preproc_tax/out")
+SCHEME_DESC_PATH = Path("_raw/_aux_files/scheme_description.csv")
+
+EU_SCHEMES = {
+    "and_tax",
+    "dnk_tax",
+    "est_tax",
+    "fin_tax",
+    "fra_tax",
+    "hun_tax",
+    "irl_tax",
+    "isl_tax",
+    "lie_tax",
+    "lux_tax",
+    "lva_tax",
+    "nld_tax",
+    "pol_tax",
+    "prt_tax",
+    "slo_tax",
+    "esp_tax",
+}
+
+
+def _scheme_start_date(scheme_id: Optional[str]) -> Optional[date]:
+    if not scheme_id:
+        return None
+    if not SCHEME_DESC_PATH.exists():
+        return None
+    try:
+        desc = pd.read_csv(SCHEME_DESC_PATH)
+    except Exception:
+        return None
+    row = desc[desc["scheme_id"] == scheme_id]
+    if row.empty:
+        return None
+    year = row["implementation_year"].iloc[0]
+    try:
+        year_int = int(year)
+    except Exception:
+        return None
+    if year_int <= 0:
+        return None
+    return date(year_int, 1, 1)
+
+
+def _normalize_periods(
+    df: pd.DataFrame,
+    group_cols: list[str],
+    scheme_id: Optional[str],
+    table_name: str,
+    start_date: Optional[date],
+) -> pd.DataFrame:
+    if df.empty or "effective_from" not in df.columns:
+        return df
+    out = df.copy()
+    out = _coerce_dates(out)
+    if "effective_to" not in out.columns:
+        return out
+    today = date.today()
+    for keys, g in out.groupby(group_cols, dropna=False):
+        g = g.sort_values("effective_from")
+        if start_date is not None:
+            first = g["effective_from"].dropna().min()
+            if pd.notna(first) and first.date() > start_date:
+                print(
+                    f"WARNING: {scheme_id} {table_name} {keys} starts at {first.date()} "
+                    f"after scheme_start_date {start_date}"
+                )
+        # fill effective_to using next effective_from
+        idxs = g.index.tolist()
+        for i, idx in enumerate(idxs):
+            curr_from = g.loc[idx, "effective_from"]
+            curr_to = g.loc[idx, "effective_to"]
+            next_from = None
+            if i + 1 < len(idxs):
+                next_from = g.loc[idxs[i + 1], "effective_from"]
+            if pd.isna(curr_from):
+                continue
+            if pd.isna(curr_to) and pd.notna(next_from):
+                out.loc[idx, "effective_to"] = next_from - pd.Timedelta(days=1)
+            if pd.notna(curr_to) and pd.notna(next_from):
+                if next_from <= curr_to:
+                    print(
+                        f"WARNING: {scheme_id} {table_name} {keys} overlap: "
+                        f"{next_from.date()} <= {curr_to.date()}"
+                    )
+                elif next_from > curr_to + pd.Timedelta(days=1):
+                    print(
+                        f"WARNING: {scheme_id} {table_name} {keys} gap: "
+                        f"{curr_to.date()} -> {next_from.date()}"
+                    )
+        last_to = g["effective_to"].dropna().max()
+        if pd.notna(last_to) and last_to.date() < today:
+            print(
+                f"WARNING: {scheme_id} {table_name} {keys} ends {last_to.date()} "
+                f"before today {today}"
+            )
+    # back to ISO date strings
+    for c in ["effective_from", "effective_to"]:
+        if c in out.columns:
+            out[c] = out[c].dt.date.astype("object")
+    return out
 
 
 def _find_seed(seed_dir: Path, stem: str, prefix: Optional[str]) -> Path:
@@ -284,6 +386,30 @@ def main(seed_dir: str, out_dir: str, prefix: Optional[str] = None) -> None:
 
     dfs = _read_seed_csvs(seed_dir_p, prefix)
     validate_seeds(dfs)
+    scheme_id = prefix
+    if scheme_id in EU_SCHEMES:
+        start_date = _scheme_start_date(scheme_id)
+        dfs["rates"] = _normalize_periods(
+            dfs["rates"],
+            ["provision_id", "pollutant"],
+            scheme_id,
+            "rates",
+            start_date,
+        )
+        dfs["coverage_rules"] = _normalize_periods(
+            dfs["coverage_rules"],
+            ["provision_id", "scope_type", "scope_subject"],
+            scheme_id,
+            "coverage",
+            start_date,
+        )
+        dfs["exemptions"] = _normalize_periods(
+            dfs["exemptions"],
+            ["provision_id", "exemption_type", "description_text"],
+            scheme_id,
+            "exemptions",
+            start_date,
+        )
 
     finals = build_final_tables(dfs)
 
