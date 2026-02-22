@@ -17,7 +17,7 @@ def _discover_schemes() -> list[str]:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default=str(Path("_raw/_preproc_tax/seeds")))
+    ap.add_argument("--out", default=str(Path("_raw/_preproc/_preproc_tax/seeds")))
     ap.add_argument("--download-artifacts", action="store_true")
     ap.add_argument("--with-6akap", action="store_true", help="Sweden only")
     args = ap.parse_args()

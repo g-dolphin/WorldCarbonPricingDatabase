@@ -27,8 +27,8 @@ def _discover_schemes() -> list[str]:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--seeds-root", default=str(Path("_raw/_preproc_tax/seeds")))
-    ap.add_argument("--out-root", default=str(Path("_raw/_preproc_tax/out")))
+    ap.add_argument("--seeds-root", default=str(Path("_raw/_preproc/_preproc_tax/seeds")))
+    ap.add_argument("--out-root", default=str(Path("_raw/_preproc/_preproc_tax/out")))
     ap.add_argument("--scheme", action="append", help="Run only these scheme IDs")
     ap.add_argument("--download-artifacts", action="store_true")
     ap.add_argument("--with-6akap", action="store_true", help="Swe tax only")
