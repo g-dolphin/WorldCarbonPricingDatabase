@@ -8,5 +8,6 @@ _raw/sources/*.csv
 _raw/sources/
 _raw/_preproc
 _code/_tax_processing
+_code/_sources_extraction
 _raw/price/*_temp.csv
 wcpd_architecture.mmd
