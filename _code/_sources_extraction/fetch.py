@@ -7,6 +7,14 @@ from bs4 import BeautifulSoup
 from .config import Source
 from .storage import store_artifact
 
+DEFAULT_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    )
+}
+
 def _extract_year(text: str, pattern: str | None = None) -> int | None:
     if not text:
         return None
@@ -80,21 +88,27 @@ def fetch_source(source: Source, raw_root: Path) -> list[str]:
     if source.access_method != "requests":
         raise NotImplementedError("Phase 1 only supports access_method='requests'")
 
-    resp = httpx.get(source.url, follow_redirects=True, timeout=30)
+    headers = DEFAULT_HEADERS
+    if "r.jina.ai" in source.url:
+        headers = None
+    resp = httpx.get(source.url, follow_redirects=True, timeout=30, headers=headers)
     resp.raise_for_status()
 
     artifact_ids: list[str] = []
 
     is_pdf_url = str(resp.url).lower().endswith(".pdf") or source.url.lower().endswith(".pdf")
+    is_docx_url = str(resp.url).lower().endswith(".docx") or source.url.lower().endswith(".docx")
     content_type = resp.headers.get("content-type", "").lower()
     is_pdf_content = "application/pdf" in content_type
-    if source.source_type in ("html_page", "html_index_pdf_links") and (is_pdf_url or is_pdf_content):
+    is_docx_content = "application/vnd.openxmlformats-officedocument.wordprocessingml.document" in content_type
+    if source.source_type in ("html_page", "html_index_pdf_links") and (is_pdf_url or is_pdf_content or is_docx_url or is_docx_content):
         # Fallback: treat as direct PDF when the response is a PDF.
+        artifact_type = "docx" if (is_docx_url or is_docx_content) else "pdf"
         artifact_ids.append(
             store_artifact(
                 raw_root=raw_root,
                 source=source,
-                artifact_type="pdf",
+                artifact_type=artifact_type,
                 content_bytes=resp.content,
                 fetched_url=str(resp.url),
                 http_status=resp.status_code,
@@ -134,7 +148,12 @@ def fetch_source(source: Source, raw_root: Path) -> list[str]:
                 if pdf_url in seen_urls:
                     continue
                 seen_urls.add(pdf_url)
-                pdf_resp = httpx.get(pdf_url, follow_redirects=True, timeout=60)
+                pdf_resp = httpx.get(
+                    pdf_url,
+                    follow_redirects=True,
+                    timeout=60,
+                    headers=DEFAULT_HEADERS,
+                )
                 if pdf_resp.status_code != 200:
                     continue
 
@@ -156,6 +175,17 @@ def fetch_source(source: Source, raw_root: Path) -> list[str]:
                 raw_root=raw_root,
                 source=source,
                 artifact_type="pdf",
+                content_bytes=resp.content,
+                fetched_url=str(resp.url),
+                http_status=resp.status_code,
+            )
+        )
+    elif source.source_type == "docx_direct":
+        artifact_ids.append(
+            store_artifact(
+                raw_root=raw_root,
+                source=source,
+                artifact_type="docx",
                 content_bytes=resp.content,
                 fetched_url=str(resp.url),
                 http_status=resp.status_code,

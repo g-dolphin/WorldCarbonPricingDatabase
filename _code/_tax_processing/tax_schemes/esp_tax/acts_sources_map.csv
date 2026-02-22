@@ -1,1 +1,4 @@
 act_id,source_id,jurisdiction,instrument_name,instrument_type,citation,adoption_date,publication_date,entry_into_force,source_url
+ES_L16_2013,ESP-TAX-leg-001,Spain,"Ley 16/2013, de 29 de octubre",Law,BOE-A-2013-11331,2013-10-29,2013-10-30,2014-01-01,https://www.boe.es/eli/es/l/2013/10/29/16
+ES_L6_2018,ESP-TAX-leg-002,Spain,"Ley 6/2018, de 3 de julio",Law,BOE-A-2018-9268,2018-07-03,2018-07-04,2018-09-01,https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268
+ES_L14_2022,ESP-TAX-leg-003,Spain,"Ley 14/2022, de 8 de julio",Law,BOE-A-2022-14275,2022-07-08,2022-07-09,2022-09-01,https://www.boe.es/eli/es/l/2022/07/08/14

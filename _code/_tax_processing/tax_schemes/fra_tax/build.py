@@ -11,6 +11,55 @@ from common.artifacts import download_artifacts
 from common.sources_seed import build_acts_seed_from_sources
 
 SCHEME_ID = "fra_tax"
+IPCC_PATH = "/Users/geoffroydolphin/GitHub/ECP/_raw/_aux_files/ipcc2006_iea_category_codes.csv"
+
+def _ipcc_codes(prefix: str) -> list[str]:
+    try:
+        df = pd.read_csv(IPCC_PATH)
+    except Exception:
+        return []
+    return df[(df["ipcc_code"].str.startswith(prefix)) & (df["lowest_level"] == 1)]["ipcc_code"].tolist()
+
+def _coverage_from_rates(rates: pd.DataFrame) -> pd.DataFrame:
+    cols = ["coverage_id","provision_id","scope_type","scope_subject","condition_text","effective_from","effective_to","notes"]
+    if rates.empty:
+        return pd.DataFrame(columns=cols)
+    periods = (
+        rates[["effective_from","effective_to"]]
+        .drop_duplicates()
+        .fillna("")
+        .to_records(index=False)
+        .tolist()
+    )
+    ipcc_power = _ipcc_codes("1A1A")
+    ipcc_industry = _ipcc_codes("1A2")
+    ipcc_transport = _ipcc_codes("1A3")
+    ipcc_other = _ipcc_codes("1A4")
+    rows = []
+    for eff_from, eff_to in periods:
+        for code in ipcc_power + ipcc_industry + ipcc_transport + ipcc_other:
+            rows.append({
+                "coverage_id": f"FRA_COV_{code}_{eff_from}",
+                "provision_id": "FR_CCE_VALUE",
+                "scope_type": "ipcc_code",
+                "scope_subject": code,
+                "condition_text": "Carbon component applies to fossil energy products; ETS installations are exempt.",
+                "effective_from": eff_from,
+                "effective_to": eff_to,
+                "notes": "Mapped to lowest-level IPCC energy categories (1A1A/1A2/1A3/1A4).",
+            })
+        for sector in ["power", "industry", "transport", "buildings"]:
+            rows.append({
+                "coverage_id": f"FRA_COV_SECTOR_{sector}_{eff_from}",
+                "provision_id": "FR_CCE_VALUE",
+                "scope_type": "sector",
+                "scope_subject": sector,
+                "condition_text": "Carbon component applies to fossil energy products; ETS installations are exempt.",
+                "effective_from": eff_from,
+                "effective_to": eff_to,
+                "notes": "Broad sector tag.",
+            })
+    return pd.DataFrame(rows, columns=cols)
 
 def main():
     ap = argparse.ArgumentParser()
@@ -31,7 +80,8 @@ def main():
                               pollutant=meta["pollutant"], unit=meta["unit"],
                               basis=meta["basis"], method=meta["method"])
 
-    coverage = pd.DataFrame(cfg.get("coverage", []))
+    coverage_cfg = cfg.get("coverage", []) or []
+    coverage = pd.DataFrame(coverage_cfg) if coverage_cfg else _coverage_from_rates(rates)
     exemptions = pd.DataFrame(cfg.get("exemptions", []))
     sources = build_sources_register(acts)
 
