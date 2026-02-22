@@ -3,7 +3,7 @@ import csv
 import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
-from .parse import extract_text_from_html, extract_text_from_pdf
+from .parse import extract_text_from_html, extract_text_from_pdf, extract_text_from_docx
 from .config import Source
 
 def _timestamp() -> str:
@@ -28,10 +28,15 @@ def store_artifact(
     h = _hash_bytes(content_bytes)
     artifact_id = f"{source.source_id}_{ts}_{h}"
 
-    if artifact_type not in {"html", "pdf"}:
+    if artifact_type not in {"html", "pdf", "docx"}:
         raise ValueError(f"Unsupported artifact_type: {artifact_type}")
 
-    ext = "html" if artifact_type == "html" else "pdf"
+    if artifact_type == "html":
+        ext = "html"
+    elif artifact_type == "pdf":
+        ext = "pdf"
+    else:
+        ext = "docx"
     scheme_id = (source.instrument_id or "").strip() or "unknown_scheme"
     out_dir = raw_root / scheme_id / artifact_type / source.source_id
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -74,8 +79,10 @@ def store_artifact(
     # Text extraction
     if artifact_type == "html":
         text = extract_text_from_html(content_bytes)
-    else:
+    elif artifact_type == "pdf":
         text = extract_text_from_pdf(content_bytes)
+    else:
+        text = extract_text_from_docx(content_bytes)
 
     if text.strip():
         text_dir = raw_root / scheme_id / "text" / source.source_id
