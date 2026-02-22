@@ -13,8 +13,27 @@ from typing import Optional
 import pandas as pd
 
 
-DEFAULT_PREPROC_DIR = Path("_raw/price/_preproc")
-DEFAULT_INPUT = DEFAULT_PREPROC_DIR / "rate_changes.csv"
+DEFAULT_OUT_DIR = Path("_raw/_preproc/_preproc_tax/out")
+DEFAULT_RATE_CHANGES_DIR = Path("_raw/price/_preproc")
+DEFAULT_INPUT = DEFAULT_RATE_CHANGES_DIR / "rate_changes.csv"
+
+
+def _extract_currency(unit: object) -> str:
+    s = str(unit or "").strip()
+    if not s:
+        return ""
+    if "/" in s:
+        return s.split("/", 1)[0].strip()
+    if " per " in s:
+        return s.split(" per ", 1)[0].strip()
+    return s
+
+
+def _is_ghg_label(label: str) -> bool:
+    s = str(label or "").strip().lower()
+    if not s:
+        return False
+    return bool(pd.Series([s]).str.contains(r"(?:^|\\b)(co2e?|ch4|n2o|sf6|nf3|hfcs?|pfcs?)\\b|greenhouse", regex=True).iloc[0])
 
 
 def _parse_date(value: object) -> Optional[pd.Timestamp]:
@@ -74,7 +93,7 @@ def compute_annual_rates(rate_changes: pd.DataFrame) -> pd.DataFrame:
         if pd.isna(r["effective_date"]) or pd.isna(r["end_date"]):
             continue
         try:
-                rate = float(r.get("rate"))
+            rate = float(r.get("rate"))
         except Exception:
             continue
         start = r["effective_date"].normalize()
@@ -127,6 +146,82 @@ def compute_annual_rates(rate_changes: pd.DataFrame) -> pd.DataFrame:
     out = out[
         ["scheme_id", "year", "ghg", "product", "rate", "currency_code", "source", "comment"]
     ]
+    return out
+
+
+def _load_final_rates(out_dir: Path) -> pd.DataFrame:
+    rows = []
+    out_dir = Path(out_dir)
+    if not out_dir.exists():
+        return pd.DataFrame()
+    for scheme_dir in sorted(out_dir.iterdir()):
+        if not scheme_dir.is_dir():
+            continue
+        path = scheme_dir / "final_rates.csv"
+        if not path.exists():
+            continue
+        df = pd.read_csv(path, dtype=str)
+        if df.empty:
+            continue
+        df["scheme_id"] = scheme_dir.name
+        rows.append(df)
+    if not rows:
+        return pd.DataFrame()
+    return pd.concat(rows, ignore_index=True)
+
+
+def build_rate_changes_from_final_rates(final_rates: pd.DataFrame) -> pd.DataFrame:
+    if final_rates.empty:
+        return final_rates
+
+    df = final_rates.copy()
+    for col in [
+        "scheme_id",
+        "pollutant",
+        "rate_value",
+        "rate_unit",
+        "rate_value_tco2e",
+        "rate_unit_tco2e",
+        "effective_from",
+        "effective_to",
+        "source_id",
+        "source_url",
+        "method",
+        "notes",
+    ]:
+        if col not in df.columns:
+            df[col] = ""
+
+    rv_tco2e = pd.to_numeric(df["rate_value_tco2e"], errors="coerce")
+    rv = pd.to_numeric(df["rate_value"], errors="coerce")
+    use_tco2e = rv_tco2e.notna()
+    rate = rv.where(~use_tco2e, rv_tco2e)
+    unit = df["rate_unit"].where(~use_tco2e, df["rate_unit_tco2e"])
+
+    pollutant = df["pollutant"].fillna("").astype(str).str.strip()
+    is_ghg = pollutant.apply(_is_ghg_label)
+    ghg = pollutant.where(is_ghg, "CO2")
+    ghg = ghg.replace({"co2": "CO2", "co2e": "CO2e"})
+    product = pollutant.where(~is_ghg, "")
+
+    source = df["source_id"].fillna("").astype(str).str.strip()
+    source = source.where(source != "", df["source_url"].fillna("").astype(str).str.strip())
+    comment = df["method"].fillna("").astype(str).str.strip()
+    comment = comment.where(comment != "", df["notes"].fillna("").astype(str).str.strip())
+
+    out = pd.DataFrame(
+        {
+            "scheme_id": df["scheme_id"].fillna("").astype(str).str.strip(),
+            "product": product,
+            "ghg": ghg,
+            "rate": rate,
+            "currency_code": unit.apply(_extract_currency),
+            "source": source,
+            "comment": comment,
+            "effective_date": df["effective_from"],
+            "end_date": df["effective_to"],
+        }
+    )
     return out
 
 
@@ -195,18 +290,21 @@ def apply_annual_rates_to_tax_files(annual_rates: pd.DataFrame, price_dir: Path)
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--preproc-dir", default=str(DEFAULT_PREPROC_DIR))
+    parser.add_argument("--preproc-dir", default=str(DEFAULT_RATE_CHANGES_DIR))
     parser.add_argument("--input", default=str(DEFAULT_INPUT))
-    parser.add_argument("--out", default=str(DEFAULT_PREPROC_DIR / "annual_rates.csv"))
+    parser.add_argument("--rates-dir", default=str(DEFAULT_OUT_DIR))
+    parser.add_argument("--out", default=str(DEFAULT_OUT_DIR / "annual_rates.csv"))
     parser.add_argument("--out-tax", default="")
     args = parser.parse_args()
 
     input_path = Path(args.input)
-    if not input_path.exists():
-        raise FileNotFoundError(f"Missing input file: {input_path}")
-
-    df = pd.read_csv(input_path, dtype=str)
-    out = compute_annual_rates(df)
+    if input_path.exists():
+        df = pd.read_csv(input_path, dtype=str)
+        out = compute_annual_rates(df)
+    else:
+        final_rates = _load_final_rates(Path(args.rates_dir))
+        rate_changes = build_rate_changes_from_final_rates(final_rates)
+        out = compute_annual_rates(rate_changes)
     out_path = Path(args.out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out.to_csv(out_path, index=False)
