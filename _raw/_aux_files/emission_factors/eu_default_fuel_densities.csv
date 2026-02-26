@@ -1,0 +1,7 @@
+fuel_category,density_kg_per_l,density_kg_per_m3,source_id,source_table,notes
+gasoline,0.745,745,EU-ECOTRANSIT-EN16258-2023,Table 59 (EN 16258 defaults),Default gasoline density (EN 16258).
+aviation_gasoline,0.8,800,EU-ECOTRANSIT-EN16258-2023,Table 59 (EN 16258 defaults),Default aviation gasoline density (EN 16258).
+diesel,0.832,832,EU-ECOTRANSIT-EN16258-2023,Table 59 (EN 16258 defaults),Default diesel density (EN 16258).
+kerosene,0.8,800,EU-ECOTRANSIT-EN16258-2023,Table 59 (EN 16258 defaults),Default jet/kerosene density (EN 16258).
+lpg,0.55,550,EU-ECOTRANSIT-EN16258-2023,Table 59 (EN 16258 defaults),Default LPG density (EN 16258).
+heavy_fuel_oil,0.97,970,EU-ECOTRANSIT-EN16258-2023,Table 59 (EN 16258 defaults),Default heavy fuel oil density (EN 16258).

@@ -1,0 +1,75 @@
+fuel_name,ncv_tj_per_gg,co2_ef_kg_per_tj,source_id_ncv,source_id_co2_ef,notes
+-non sleuf rehtO lissof,,100000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Anthracite,26.7,98300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Aviation Gasoline,44.3,70000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Biodiesels,,70800.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Biodiesels 14,27.0,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Biogasoline 13,27.0,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Bitumen,40.2,80700.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Blast Furnace Gas 4,,260000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Blast Furnace Gas 6,2.47,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Brown Coal Briquettes,20.7,97500.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Charcoal,,112000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Charcoal 12,29.5,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Coal Tar,,80700.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Coal Tar 3,28.0,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Coke Oven Coke and Lignite Coke,28.2,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Coke Oven Gas,,44400.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Coke Oven Gas 5,38.7,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Coking Coal,28.2,94600.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Crude Oil,42.3,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Ethane,46.4,61600.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Gas Coke,28.2,107000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Gas Works Gas 4,38.7,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Gas/Diesel Oil,43.0,74100.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Industrial Wastes,,143000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Jet Gasoline,44.3,70000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Jet Kerosene,44.1,71500.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Landfill Gas 16,50.4,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Lignite,11.9,101000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Liquefied Petroleum Gases,47.3,63100.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Lubricants,40.2,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Motor Gasoline,44.3,69300,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Municipal Wastes (biomass fraction),11.6,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Municipal Wastes (non-biomass fraction),10.0,91700.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Naphtha,44.5,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Natural Gas,48.0,56100.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Natural Gas Liquids,44.2,64200.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Oil Shale and Tar Sands,8.9,107000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Orimulsion,27.5,77000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Biogas,,54600.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Biogas 18,50.4,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Bituminous Coal,25.8,94600.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Kerosene,43.8,71900.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Liquid Biofuels,,79600.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Liquid Biofuels 15,27.4,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Petroleum Products,40.2,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Primary Solid Biomass,,100000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Other Primary Solid Biomass 11,11.6,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Oxygen Steel Furnace Gas 5,,182000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Oxygen Steel Furnace Gas 7,7.06,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Paraffin Waxes,40.2,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Patent Fuel,20.7,97500.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Peat,9.76,106000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Petroleum Coke,32.5,97500.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Refinery Feedstocks,43.0,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Refinery Gas 2,49.5,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Residual Fuel Oil,40.4,77400.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Shale Oil,38.1,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Sludge Gas,,54600.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Sludge Gas 17,50.4,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Sub-Bituminous Coal,18.9,96100.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Sulphite lyes (black liquor) 10,11.8,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Sulphite lyes (black liquor)5,,95300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Waste Oil,,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Waste Oil ８,40.2,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+White Spirit & SBP,,73300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+White Spirit and SBP,40.2,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+Wood/Wood Waste 9,15.6,,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+diuqiL sleufoiB,,70800.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+ekoC,,107000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+enilosaG,,69300.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+liO rehtO,,57600.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+sesaG devireD,,44400.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+sleufoiB diloS,,112000.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
+ssamoib saG,,54600.0,IPCC-2006-V2-CH1,IPCC-2006-V2-CH1,Defaults from IPCC 2006 Vol.2 Ch.1 Tables 1.2 (NCV) and 1.4 (CO2 EF); 2019 Refinement uses 2006 defaults.
