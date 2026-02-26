@@ -15,4 +15,5 @@ api_reference
 usage
 review_app
 update_workflow
+seed_schema
 ```
