@@ -1,13 +1,16 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
 lux_tax,2021,CO2,Coal,0,EUR,leg(LUX-CBF[2020]),"The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating)."
-lux_tax,2021,CO2,Oil,20,EUR,leg(LUX-CBF[2020]),"The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating)."
 lux_tax,2021,CO2,Natural gas,20,EUR,leg(LUX-CBF[2020]),"The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating)."
+lux_tax,2021,CO2,Oil,20,EUR,leg(LUX-CBF[2020]),"The tax applies to diesel, heating oil, petrol and natural gas. Hence, it primarily targets fuels aimed for use in road transport and buildings (heating)."
 lux_tax,2022,CO2,Coal,0,EUR,,
-lux_tax,2022,CO2,Oil,25,EUR,,
 lux_tax,2022,CO2,Natural gas,25,EUR,,
+lux_tax,2022,CO2,Oil,25,EUR,,
 lux_tax,2023,CO2,Coal,30,EUR,,
-lux_tax,2023,CO2,Oil,30,EUR,,
 lux_tax,2023,CO2,Natural gas,30,EUR,,
-lux_tax,2024,CO2,Coal,30,EUR,,
-lux_tax,2024,CO2,Oil,30,EUR,,
-lux_tax,2024,CO2,Natural gas,30,EUR,,
+lux_tax,2023,CO2,Oil,30,EUR,,
+lux_tax,2025,CO2,Coal,40,EUR,LUX-TAX-gov-005,
+lux_tax,2025,CO2,Natural gas,40,EUR,LUX-TAX-gov-005,
+lux_tax,2025,CO2,Oil,40,EUR,LUX-TAX-gov-005,
+lux_tax,2026,CO2,Coal,45,EUR,LUX-TAX-gov-005,
+lux_tax,2026,CO2,Natural gas,45,EUR,LUX-TAX-gov-005,
+lux_tax,2026,CO2,Oil,45,EUR,LUX-TAX-gov-005,
