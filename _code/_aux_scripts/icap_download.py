@@ -16,24 +16,108 @@ import shutil
 import unicodedata
 from datetime import datetime
 import urllib.request
+import ssl
+import json
+import ssl
 
-ICAP_URL = (
-    "https://allowancepriceexplorer.icapcarbonaction.com/systems/reports/price/"
-    "download?systemIds=6-33-28-29-14-8-16-30-32-15-35-4-7-11-18-19-20-21-23-24-25-26"
-    "&startDate=1110326400000&endDate=1768848182186"
-)
+ICAP_BASE_URL = "https://allowancepriceexplorer.icapcarbonaction.com"
+ICAP_SYSTEMS_API = f"{ICAP_BASE_URL}/api/systems"
+ICAP_REPORT_URL = f"{ICAP_BASE_URL}/systems/reports/price/download"
+
+DEFAULT_SYSTEM_IDS = [
+    6, 33, 28, 29, 14, 8, 16, 30, 32, 15, 35, 4, 7, 11, 18, 19, 20, 21, 23, 24, 25, 26
+]
 
 
-def download_icap_csv(output_dir: str) -> str:
+def _default_ssl_context() -> ssl.SSLContext:
+    context = ssl.create_default_context()
+    try:
+        import certifi  # type: ignore
+
+        context.load_verify_locations(certifi.where())
+    except Exception:
+        # Fall back to system CAs; if they are missing, urllib will raise SSL error.
+        pass
+    return context
+
+
+def _read_icap_systems(context: ssl.SSLContext) -> list[dict]:
+    request = urllib.request.Request(
+        ICAP_SYSTEMS_API,
+        headers={"User-Agent": "Mozilla/5.0"},
+    )
+    with urllib.request.urlopen(request, context=context) as response:
+        payload = response.read().decode("utf-8")
+    return json.loads(payload)
+
+
+def _canonical_scheme_name(name: str | None) -> str:
+    if name is None:
+        return ""
+    collapsed = " ".join(str(name).split())
+    if collapsed == "":
+        return ""
+    collapsed = unicodedata.normalize("NFKD", collapsed).encode("ascii", "ignore").decode("ascii")
+
+    aliases = {
+        "European Union Emissions Trading System (until 2018)": "European Union Emissions Trading System",
+        "European Union Emissions Trading System (from 2019)": "European Union Emissions Trading System",
+        "European Union Emissions Trading System (from 2019, download)": "European Union Emissions Trading System",
+        "New Zealand Emissions Trading System (Up to 2023)": "New Zealand Emissions Trading System",
+        "New Zealand Emissions Trading System (From 2024)": "New Zealand Emissions Trading System",
+        "California Cap-and-Trade Program (download)": "California Cap-and-Trade Program",
+        "Washington Cap-and-Invest Program (download)": "Washington Cap-and-Invest Program",
+        "United Kingdom Emissions Trading Scheme (download)": "United Kingdom Emissions Trading Scheme",
+    }
+    return aliases.get(collapsed, collapsed)
+
+
+def _build_report_url(system_ids: list[int]) -> str:
+    ids = "-".join(str(x) for x in system_ids)
+    # Start date corresponds to 2005-03-09; end date far in future
+    return f"{ICAP_REPORT_URL}?systemIds={ids}&startDate=1110326400000&endDate=1768848182186"
+
+
+def _discover_system_ids(template_path: str, context: ssl.SSLContext) -> list[int]:
+    try:
+        systems = _read_icap_systems(context)
+    except Exception:
+        return DEFAULT_SYSTEM_IDS
+
+    # Collect canonical scheme names from template
+    template_encoding = _detect_encoding(template_path)
+    template_top, template_header = _read_headers(template_path, template_encoding)
+    template_keys = _build_keys(template_top, template_header, canonicalize=True)
+    template_schemes = sorted({k[0] for k in template_keys if k[0]})
+
+    ids: list[int] = []
+    for sys in systems:
+        name = _canonical_scheme_name(sys.get("name"))
+        if name in template_schemes:
+            ids.append(int(sys.get("id")))
+    if not ids:
+        return DEFAULT_SYSTEM_IDS
+    return sorted(set(ids))
+
+
+def download_icap_csv(output_dir: str, template_path: str | None = None) -> str:
     os.makedirs(output_dir, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d")
     output_filename = f"icap_prices_{timestamp}.csv"
     output_path = os.path.join(output_dir, output_filename)
+    if template_path is None:
+        repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        template_path = os.path.join(
+            repo_root, "_raw", "price", "_icap", "_ICAP_allowance_prices.csv"
+        )
+    context = _default_ssl_context()
+    system_ids = _discover_system_ids(template_path, context)
+    report_url = _build_report_url(system_ids)
     request = urllib.request.Request(
-        ICAP_URL,
+        report_url,
         headers={"User-Agent": "Mozilla/5.0"},
     )
-    with urllib.request.urlopen(request) as response:
+    with urllib.request.urlopen(request, context=context) as response:
         with open(output_path, "wb") as outfile:
             shutil.copyfileobj(response, outfile)
     return output_path
@@ -76,14 +160,21 @@ def _normalize_label(label: str | None) -> str:
     return label.strip()
 
 
-def _build_keys(header_top: list[str], header: list[str]) -> list[tuple[str, str]]:
+def _build_keys(
+    header_top: list[str],
+    header: list[str],
+    canonicalize: bool = False,
+) -> list[tuple[str, str]]:
     keys = []
     current_scheme = ""
     for top_value, label in zip(header_top, header):
         top_value = top_value if top_value is not None else ""
         if top_value != "":
             current_scheme = top_value
-        keys.append((_normalize_scheme_name(current_scheme), _normalize_label(label)))
+        scheme_name = _normalize_scheme_name(current_scheme)
+        if canonicalize:
+            scheme_name = _canonical_scheme_name(scheme_name)
+        keys.append((scheme_name, _normalize_label(label)))
     return keys
 
 
@@ -99,12 +190,12 @@ def normalize_icap_file(
     if template_path is None:
         repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
         template_path = os.path.join(
-            repo_root, "_raw", "price", "_icap", "_icap-graph-price-data-2008-04-01-2025-04-15.csv"
+            repo_root, "_raw", "price", "_icap", "_ICAP_allowance_prices.csv"
         )
 
     template_encoding = _detect_encoding(template_path)
     template_top, template_header = _read_headers(template_path, template_encoding)
-    template_keys = _build_keys(template_top, template_header)
+    template_keys = _build_keys(template_top, template_header, canonicalize=True)
 
     input_encoding = _detect_encoding(input_path)
     with open(input_path, "r", encoding=input_encoding, newline="") as infile:
@@ -115,21 +206,47 @@ def normalize_icap_file(
         if not input_top or not input_header:
             raise ValueError("ICAP file is missing the expected two header rows.")
 
-        input_keys = _build_keys(input_top, input_header)
-        input_key_map = {}
+        input_keys = _build_keys(input_top, input_header, canonicalize=True)
+        input_key_map: dict[tuple[str, str], list[int]] = {}
         for idx, key in enumerate(input_keys):
-            input_key_map.setdefault(key, idx)
+            input_key_map.setdefault(key, []).append(idx)
+
+        # Identify date column in input (scheme blank + label Date)
+        date_idxs = input_key_map.get(("", "Date"), [])
+        date_idx = date_idxs[0] if date_idxs else None
 
         with open(output_path, "w", encoding="latin-1", newline="") as outfile:
             writer = csv.writer(outfile)
             writer.writerow(template_top)
             writer.writerow(template_header)
 
+            def _parse_date(value: str | None) -> datetime | None:
+                if not value:
+                    return None
+                try:
+                    return datetime.strptime(value.strip(), "%Y-%m-%d")
+                except Exception:
+                    return None
+
+            rows_with_dates: list[tuple[datetime | None, list[str]]] = []
             for row in reader:
                 output_row = []
                 for key in template_keys:
-                    idx = input_key_map.get(key)
-                    output_row.append(row[idx] if idx is not None and idx < len(row) else "")
+                    idxs = input_key_map.get(key, [])
+                    value = ""
+                    for idx in idxs:
+                        if idx < len(row) and row[idx] not in ("", None):
+                            value = row[idx]
+                            break
+                    output_row.append(value)
+                date_value = row[date_idx] if date_idx is not None and date_idx < len(row) else ""
+                rows_with_dates.append((_parse_date(date_value), output_row))
+
+            rows_with_dates.sort(
+                key=lambda item: (item[0] is None, item[0] or datetime.max)
+            )
+
+            for _, output_row in rows_with_dates:
                 writer.writerow(output_row)
 
     return output_path
@@ -149,7 +266,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    raw_path = download_icap_csv(args.output_dir)
+    raw_path = download_icap_csv(args.output_dir, template_path=args.template_path)
     normalized_path = normalize_icap_file(raw_path, template_path=args.template_path)
 
     print(f"Downloaded: {raw_path}")

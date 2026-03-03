@@ -1,0 +1,3 @@
+fuel_category,uom,ghg_unit,value_per_unit,year,scope,level1,level2,level3,notes
+natural_gas,m3,kg CO2e,2.06672,2025,Scope 1,Fuels,Gaseous fuels,Natural gas,"UK Government GHG Conversion Factors for Company Reporting (2025), Scope 1, Natural gas, cubic metres."
+natural_gas,m3,kg CO2e of CO2 per unit,2.0627,2025,Scope 1,Fuels,Gaseous fuels,Natural gas,"UK Government GHG Conversion Factors for Company Reporting (2025), Scope 1, Natural gas, cubic metres."
