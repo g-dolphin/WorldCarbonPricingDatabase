@@ -68,6 +68,29 @@ def process_ets_prices(price_dir: str = DEFAULT_PRICE_PATH) -> Dict[str, pd.Data
     return data
 
 
+ICAP_COLUMN_MAP = {
+    "Nova Scotia": "can_ns_ets", "European Union": "eu_ets", "Quebec": "can_qc_ets",
+    "Québec": "can_qc_ets", "QuÃ©bec": "can_qc_ets",
+    "Ontario": "can_on_ets", "Switzerland": "che_ets", "United Kingdom": "gbr_ets",
+    "China": "chn_ets", "German": "deu_ets", "Shenzhen": "chn_sz_ets", "Shanghai": "chn_sh_ets",
+    "Beijing": "chn_bj_ets", "Guangdong": "chn_gd_ets", "Tianjin": "chn_tj_ets",
+    "Hubei": "chn_hb_ets", "Chongqing": "chn_cq_ets", "Fujian": "chn_fj_ets",
+    "New Zealand": "nzl_ets", "Regional Greenhouse": "usa_rggi", "California": "usa_ca_ets",
+    "Korean": "kor_ets", "Washington": "usa_wa_ets"
+}
+
+ICAP_DROP_SCHEMES = {
+    "usa_rggi", "can_on_ets", "che_ets", "usa_ca_ets", "can_qc_ets", "can_ns_ets", "usa_wa_ets"
+}
+
+
+def get_icap_scheme_ids(include_dropped: bool = False) -> list[str]:
+    schemes = sorted(set(ICAP_COLUMN_MAP.values()))
+    if include_dropped:
+        return schemes
+    return [s for s in schemes if s not in ICAP_DROP_SCHEMES]
+
+
 def process_icap_prices(price_dir: str) -> pd.DataFrame:
     """
     Processes ICAP ETS price data and returns a tidy DataFrame with yearly averages.
@@ -81,16 +104,7 @@ def process_icap_prices(price_dir: str) -> pd.DataFrame:
     """
 
     # Define mapping of substrings to scheme IDs
-    column_map = {
-        "Nova Scotia": "can_ns_ets", "European Union": "eu_ets", "Quebec": "can_qc_cat",
-        "Québec": "can_qc_cat", "QuÃ©bec": "can_qc_cat",
-        "Ontario": "can_on_ets", "Switzerland": "che_ets", "United Kingdom": "gbr_ets",
-        "China": "chn_ets", "German": "deu_ets", "Shenzhen": "chn_sz_ets", "Shanghai": "chn_sh_ets",
-        "Beijing": "chn_bj_ets", "Guangdong": "chn_gd_ets", "Tianjin": "chn_tj_ets",
-        "Hubei": "chn_hb_ets", "Chongqing": "chn_cq_ets", "Fujian": "chn_fj_ets",
-        "New Zealand": "nzl_ets", "Regional Greenhouse": "usa_rggi", "California": "usa_ca_ets",
-        "Korean": "kor_ets", "Washington": "usa_wa_ets"
-    }
+    column_map = ICAP_COLUMN_MAP
 
     # Define currencies for valid schemes
     curr_codes = {
@@ -99,24 +113,20 @@ def process_icap_prices(price_dir: str) -> pd.DataFrame:
         "chn_gd_ets": "CNY", "chn_tj_ets": "CNY", "chn_hb_ets": "CNY", "chn_cq_ets": "CNY", "chn_fj_ets": "CNY"
     }
 
-    drop_schemes = {"usa_rggi", "can_on_ets", "che_ets", "usa_ca_ets", "can_qc_cat", "can_ns_ets", "usa_wa_ets"}
+    drop_schemes = ICAP_DROP_SCHEMES
 
     icap_dir = os.path.join(price_dir, "_icap")
-    preferred_path = os.path.join(icap_dir, "_ICAP_allowance_prices.csv")
-    if os.path.exists(preferred_path):
-        icap_csv_path = preferred_path
-    else:
-        icap_files = [
-            os.path.join(icap_dir, filename)
-            for filename in os.listdir(icap_dir)
-            if filename.startswith("icap_prices") and filename.endswith(".csv")
-        ]
-        if not icap_files:
-            raise FileNotFoundError(
-                f"No ICAP price files found in {icap_dir}. Expected files like "
-                "'icap_pricesYYYYMMDD_HHMMSS.csv'."
-            )
-        icap_csv_path = max(icap_files, key=os.path.getmtime)
+    normalized_files = [
+        os.path.join(icap_dir, filename)
+        for filename in os.listdir(icap_dir)
+        if filename.startswith("icap_prices_") and filename.endswith("-normalized.csv")
+    ]
+    if not normalized_files:
+        raise FileNotFoundError(
+            f"No normalized ICAP price files found in {icap_dir}. Expected files like "
+            "'icap_prices_YYYYMMDD-normalized.csv'. Run _code/_aux_scripts/icap_download.py."
+        )
+    icap_csv_path = max(normalized_files, key=os.path.getmtime)
 
     # Read header row for column filtering
     columns = pd.read_csv(icap_csv_path, encoding="latin-1", nrows=0).columns

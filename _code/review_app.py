@@ -417,6 +417,13 @@ def load_expected_schemes_for_gas(
                         continue
                 except ValueError:
                     pass
+            raw_abolition = str(row.get("abolition_year", "")).strip()
+            if raw_abolition and raw_abolition.replace(".", "").isdigit():
+                try:
+                    if int(float(raw_abolition)) <= target_year:
+                        continue
+                except ValueError:
+                    pass
         ghg_raw = str(row.get("ghg", "")).strip()
         if not ghg_raw:
             continue
@@ -663,7 +670,7 @@ def _icap_price_signature() -> tuple[int, int, int]:
     icap_dir = RAW_PRICE_DIR / "_icap"
     if not icap_dir.exists():
         return (0, 0, 0)
-    csv_files = sorted(icap_dir.glob("*.csv"))
+    csv_files = sorted(icap_dir.glob("icap_prices_*-normalized.csv"))
     if not csv_files:
         return (0, 0, 0)
     latest = max(csv_files, key=lambda p: p.stat().st_mtime_ns)
@@ -685,37 +692,61 @@ def load_raw_icap_price_presence(
             return present
         module = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(module)
-        if not hasattr(module, "load_ets_prices"):
+        if not hasattr(module, "ICAP_COLUMN_MAP"):
             return present
-        extra_df = module.load_ets_prices(str(RAW_PRICE_DIR))
-        if not isinstance(extra_df, pd.DataFrame):
+        column_map = getattr(module, "ICAP_COLUMN_MAP")
+        if not hasattr(module, "get_icap_scheme_ids"):
             return present
-        if not {"scheme_id", "year"}.issubset(extra_df.columns):
+        try:
+            scheme_ids = set(module.get_icap_scheme_ids(include_dropped=True))
+        except TypeError:
+            scheme_ids = set(module.get_icap_scheme_ids())
+
+        icap_dir = RAW_PRICE_DIR / "_icap"
+        normalized_files = sorted(icap_dir.glob("icap_prices_*-normalized.csv"))
+        if not normalized_files:
             return present
-        target = str(target_year)
-        gas_key = str(gas_label).strip().upper()
-        year_mask = extra_df["year"].astype(str).str.strip() == target
-        if "ghg" in extra_df.columns:
-            ghg_mask = (
-                extra_df["ghg"]
-                .astype(str)
-                .str.strip()
-                .str.upper()
-                == gas_key
-            )
-        else:
-            ghg_mask = pd.Series([True] * len(extra_df), index=extra_df.index)
-        if "allowance_price" in extra_df.columns:
-            price_mask = extra_df["allowance_price"].notna()
-        else:
-            price_mask = pd.Series([True] * len(extra_df), index=extra_df.index)
-        matches = extra_df.loc[
-            year_mask & ghg_mask & price_mask, "scheme_id"
-        ].dropna().astype(str)
-        for value in matches:
-            value = value.strip()
-            if value:
-                present.add(value)
+        icap_path = max(normalized_files, key=lambda p: p.stat().st_mtime_ns)
+
+        df = pd.read_csv(icap_path, header=[0, 1], encoding="latin-1", low_memory=False)
+        # find date column
+        date_col = None
+        for col in df.columns:
+            if isinstance(col, tuple) and str(col[1]).strip() == "Date":
+                date_col = col
+                break
+        if date_col is None:
+            return present
+        df = df.copy()
+        df["__year"] = pd.to_datetime(df[date_col], errors="coerce").dt.year
+        df = df[df["__year"] == target_year]
+        if df.empty:
+            return present
+
+        scheme_cols: dict[str, list[tuple[str, str]]] = {}
+        last_scheme = ""
+        for col in df.columns:
+            if not isinstance(col, tuple):
+                continue
+            raw_scheme = str(col[0]).strip()
+            label = str(col[1]).strip()
+            # Forward-fill scheme names for columns where pandas gives Unnamed top headers
+            if raw_scheme and not raw_scheme.startswith("Unnamed"):
+                last_scheme = raw_scheme
+            scheme_name = last_scheme
+            if not scheme_name or label == "Date":
+                continue
+            for key, scheme_id in column_map.items():
+                if key in scheme_name and scheme_id in scheme_ids:
+                    scheme_cols.setdefault(scheme_id, []).append(col)
+
+        for scheme_id, cols in scheme_cols.items():
+            if not cols:
+                continue
+            sub = df.loc[:, cols]
+            values = sub.apply(pd.to_numeric, errors="coerce")
+            if values.notna().any().any():
+                present.add(scheme_id)
     except Exception:
         return present
     return present
@@ -3558,21 +3589,34 @@ def prices_editor_view(reviewer: str) -> None:
         variable_hint = "Tax rate"
     elif scheme_type == "ets":
         variable_hint = "Allowance price"
+    is_ets = scheme_type == "ets"
     price_path = _price_file_path(scheme_id)
     temp_path = _temp_path(price_path)
 
-    existing_df = pd.DataFrame(
-        columns=[
-            "scheme_id",
-            "year",
-            "ghg",
-            "product",
-            "rate",
-            "currency_code",
-            "source",
-            "comment",
-        ]
-    )
+    if is_ets:
+        existing_df = pd.DataFrame(
+            columns=[
+                "scheme_id",
+                "year",
+                "allowance_price",
+                "currency_code",
+                "source",
+                "comment",
+            ]
+        )
+    else:
+        existing_df = pd.DataFrame(
+            columns=[
+                "scheme_id",
+                "year",
+                "ghg",
+                "product",
+                "rate",
+                "currency_code",
+                "source",
+                "comment",
+            ]
+        )
     if price_path.exists():
         existing_df = pd.read_csv(price_path, dtype=str)
 
@@ -3583,6 +3627,8 @@ def prices_editor_view(reviewer: str) -> None:
             display_df = display_df.sort_values(
                 by=["year", "ghg", "product"], kind="mergesort"
             )
+        elif "year" in display_df.columns:
+            display_df = display_df.sort_values(by=["year"], kind="mergesort")
         default_show_all = len(display_df) <= 200
         show_all = st.checkbox(
             "Show all rows",
@@ -3635,7 +3681,7 @@ def prices_editor_view(reviewer: str) -> None:
             last_year = max(years)
             last_mask = existing_df["year"].astype(str) == str(last_year)
             if last_mask.any():
-                if "ghg" in existing_df.columns:
+                if not is_ets and "ghg" in existing_df.columns:
                     last_ghg = (
                         existing_df.loc[last_mask, "ghg"]
                         .dropna()
@@ -3644,7 +3690,7 @@ def prices_editor_view(reviewer: str) -> None:
                         .tolist()
                     )
                     last_ghg = sorted({g for g in last_ghg if g})
-                if "product" in existing_df.columns:
+                if not is_ets and "product" in existing_df.columns:
                     last_product = (
                         existing_df.loc[last_mask, "product"]
                         .dropna()
@@ -3665,23 +3711,40 @@ def prices_editor_view(reviewer: str) -> None:
             )
         )
     with col2:
-        ghg = st.multiselect(
-            "GHG", ghg_options, default=last_ghg or ["CO2"]
-        )
+        if is_ets:
+            ghg = []
+        else:
+            default_ghg = last_ghg or ["CO2"]
+            default_ghg = [g for g in default_ghg if g in ghg_options]
+            if not default_ghg:
+                default_ghg = ["CO2"] if "CO2" in ghg_options else ghg_options[:1]
+            ghg = st.multiselect(
+                "GHG", ghg_options, default=default_ghg
+            )
     with col3:
-        product = st.multiselect(
-            "Product / fuel",
-            products,
-            default=last_product or products[:1],
-        )
+        if is_ets:
+            product = []
+        else:
+            default_product = last_product or products[:1]
+            default_product = [p for p in default_product if p in products]
+            if not default_product:
+                default_product = products[:1]
+            product = st.multiselect(
+                "Product / fuel",
+                products,
+                default=default_product,
+            )
 
     ghg_sel = [g for g in ghg if g]
     product_sel = [p for p in product if p]
 
     icap_sig = _icap_price_signature()
     icap_schemes = set()
-    for gas_label in ghg_sel:
-        icap_schemes |= load_raw_icap_price_presence(year, gas_label, icap_sig)
+    if is_ets:
+        icap_schemes |= load_raw_icap_price_presence(year, "CO2", icap_sig)
+    else:
+        for gas_label in ghg_sel:
+            icap_schemes |= load_raw_icap_price_presence(year, gas_label, icap_sig)
     if scheme_id in icap_schemes:
         st.markdown(
             "<span style='color:#999'>Prices for this scheme/year appear to be ICAP-derived.</span>",
@@ -3697,13 +3760,18 @@ def prices_editor_view(reviewer: str) -> None:
         )
 
     default_currency = ""
-    if not existing_df.empty and ghg_sel and product_sel:
-        mask = (
-            (existing_df["year"].astype(str) == str(year))
-            & (existing_df["ghg"].astype(str).isin(ghg_sel))
-            & (existing_df["product"].astype(str).isin(product_sel))
-        )
-        if mask.any() and "currency_code" in existing_df.columns:
+    if not existing_df.empty:
+        if is_ets:
+            mask = existing_df["year"].astype(str) == str(year)
+        elif ghg_sel and product_sel:
+            mask = (
+                (existing_df["year"].astype(str) == str(year))
+                & (existing_df["ghg"].astype(str).isin(ghg_sel))
+                & (existing_df["product"].astype(str).isin(product_sel))
+            )
+        else:
+            mask = None
+        if mask is not None and mask.any() and "currency_code" in existing_df.columns:
             values = (
                 existing_df.loc[mask, "currency_code"]
                 .dropna()
@@ -3769,23 +3837,31 @@ def prices_editor_view(reviewer: str) -> None:
         except Exception:
             check_df = existing_df
     product_sel = [p for p in product if p]
-    if not ghg_sel or not product_sel:
+    if not is_ets and (not ghg_sel or not product_sel):
         st.warning("Select at least one GHG and one product.")
-    if not check_df.empty and ghg_sel and product_sel:
-        mask = (
-            (check_df["year"].astype(str) == str(year))
-            & (check_df["ghg"].astype(str).isin(ghg_sel))
-            & (check_df["product"].astype(str).isin(product_sel))
-        )
-        if mask.any():
+    if not check_df.empty:
+        if is_ets:
+            mask = check_df["year"].astype(str) == str(year)
+        elif ghg_sel and product_sel:
+            mask = (
+                (check_df["year"].astype(str) == str(year))
+                & (check_df["ghg"].astype(str).isin(ghg_sel))
+                & (check_df["product"].astype(str).isin(product_sel))
+            )
+        else:
+            mask = None
+        if mask is not None and mask.any():
             existing_rows = check_df[mask]
             for _, existing_row in existing_rows.iterrows():
                 for field, new_value in [
                     ("rate", rate),
+                    ("allowance_price", rate),
                     ("currency_code", currency_code),
                     ("source", source),
                     ("comment", comment),
                 ]:
+                    if field not in existing_row:
+                        continue
                     old_value = existing_row.get(field, "")
                     if _is_nonempty(old_value) and str(old_value).strip() != str(new_value).strip():
                         conflict = True
@@ -3805,7 +3881,7 @@ def prices_editor_view(reviewer: str) -> None:
         if conflict and not confirm:
             st.error("Resolve conflict confirmation before writing.")
             return
-        if not ghg_sel or not product_sel:
+        if not is_ets and (not ghg_sel or not product_sel):
             st.error("Select at least one GHG and one product before writing.")
             return
         if scheme_type == "tax" and record_preproc:
@@ -3847,61 +3923,95 @@ def prices_editor_view(reviewer: str) -> None:
         df_out = check_df.copy()
         mask = None
         new_rows: list[dict[str, str]] = []
-        for g in ghg_sel:
-            for p in product_sel:
-                new_rows.append(
-                    {
-                        "scheme_id": scheme_id,
-                        "year": str(year),
-                        "ghg": g,
-                        "product": p,
-                        "rate": rate,
-                        "currency_code": currency_code,
-                        "source": source,
-                        "comment": comment,
-                        "record_date": record_date,
-                    }
-                )
+        if is_ets:
+            new_rows.append(
+                {
+                    "scheme_id": scheme_id,
+                    "year": str(year),
+                    "allowance_price": rate,
+                    "currency_code": currency_code,
+                    "source": source,
+                    "comment": comment,
+                    "record_date": record_date,
+                }
+            )
+        else:
+            for g in ghg_sel:
+                for p in product_sel:
+                    new_rows.append(
+                        {
+                            "scheme_id": scheme_id,
+                            "year": str(year),
+                            "ghg": g,
+                            "product": p,
+                            "rate": rate,
+                            "currency_code": currency_code,
+                            "source": source,
+                            "comment": comment,
+                            "record_date": record_date,
+                        }
+                    )
         if df_out.empty:
             df_out = pd.DataFrame(new_rows)
         else:
-            mask = (
-                (df_out["year"].astype(str) == str(year))
-                & (df_out["ghg"].astype(str).isin(ghg_sel))
-                & (df_out["product"].astype(str).isin(product_sel))
-            )
-            if mask.any():
-                for row in new_rows:
-                    row_mask = (
-                        (df_out["year"].astype(str) == str(year))
-                        & (df_out["ghg"].astype(str) == row["ghg"])
-                        & (df_out["product"].astype(str) == row["product"])
-                    )
-                    if row_mask.any():
-                        df_out.loc[row_mask, :] = row
-                    else:
-                        df_out = pd.concat([df_out, pd.DataFrame([row])], ignore_index=True)
+            if is_ets:
+                mask = df_out["year"].astype(str) == str(year)
+                if mask.any():
+                    df_out.loc[mask, :] = new_rows[0]
+                else:
+                    df_out = pd.concat([df_out, pd.DataFrame(new_rows)], ignore_index=True)
             else:
-                df_out = pd.concat([df_out, pd.DataFrame(new_rows)], ignore_index=True)
+                mask = (
+                    (df_out["year"].astype(str) == str(year))
+                    & (df_out["ghg"].astype(str).isin(ghg_sel))
+                    & (df_out["product"].astype(str).isin(product_sel))
+                )
+                if mask.any():
+                    for row in new_rows:
+                        row_mask = (
+                            (df_out["year"].astype(str) == str(year))
+                            & (df_out["ghg"].astype(str) == row["ghg"])
+                            & (df_out["product"].astype(str) == row["product"])
+                        )
+                        if row_mask.any():
+                            df_out.loc[row_mask, :] = row
+                        else:
+                            df_out = pd.concat([df_out, pd.DataFrame([row])], ignore_index=True)
+                else:
+                    df_out = pd.concat([df_out, pd.DataFrame(new_rows)], ignore_index=True)
 
         if "record_date" not in df_out.columns:
             df_out["record_date"] = ""
         if mask is not None and mask.any():
             df_out.loc[mask, "record_date"] = record_date
-        df_out = df_out[
-            [
-                "scheme_id",
-                "year",
-                "ghg",
-                "product",
-                "rate",
-                "currency_code",
-                "source",
-                "comment",
-                "record_date",
+        if is_ets:
+            df_out = df_out[
+                [
+                    "scheme_id",
+                    "year",
+                    "allowance_price",
+                    "currency_code",
+                    "source",
+                    "comment",
+                    "record_date",
+                ]
             ]
-        ]
-        df_out = df_out.sort_values(by=["year", "ghg", "product"])
+            df_out = df_out.sort_values(by=["year"])
+        else:
+            df_out = df_out[
+                [
+                    "scheme_id",
+                    "year",
+                    "ghg",
+                    "product",
+                    "rate",
+                    "currency_code",
+                    "source",
+                    "comment",
+                    "record_date",
+                ]
+            ]
+            df_out = df_out.sort_values(by=["year", "ghg", "product"])
 
         temp_path.parent.mkdir(parents=True, exist_ok=True)
         df_out.to_csv(temp_path, index=False)
@@ -3945,6 +4055,7 @@ def _source_options_for_scheme(scheme_id: str, sources_df: pd.DataFrame) -> list
         expanded_scheme_jurisdictions.update(group_map.get(j, set()))
 
     options: set[str] = set()
+    allow_multi = not scheme_jurisdictions
     for _, row in sources_df.iterrows():
         source_id = str(row.get("source_id", "")).strip()
         if not source_id:
@@ -3952,7 +4063,8 @@ def _source_options_for_scheme(scheme_id: str, sources_df: pd.DataFrame) -> list
         row_schemes = _split_jurisdictions(row.get("scheme_id", ""))
         row_jurisdictions = set(_split_jurisdictions(row.get("jurisdiction", "")))
         if multi_tokens & set(row_schemes + list(row_jurisdictions)):
-            options.add(source_id)
+            if allow_multi:
+                options.add(source_id)
             continue
         if scheme_id in row_schemes:
             options.add(source_id)

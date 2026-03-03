@@ -1,0 +1,11 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+1_100_1004_1_1,Scope 1,Fuels,Gaseous fuels,Natural gas,,,cubic metres,kg CO2e,2.06672
+1_100_1004_1_2,Scope 1,Fuels,Gaseous fuels,Natural gas,,,cubic metres,kg CO2e of CO2 per unit,2.0627
+1_100_1004_1_3,Scope 1,Fuels,Gaseous fuels,Natural gas,,,cubic metres,kg CO2e of CH4 per unit,0.00307
+1_100_1004_1_4,Scope 1,Fuels,Gaseous fuels,Natural gas,,,cubic metres,kg CO2e of N2O per unit,0.00095
+1_100_1005_1_1,Scope 1,Fuels,Gaseous fuels,Natural gas (100% mineral blend),,,cubic metres,kg CO2e,2.08906
+1_100_1005_1_2,Scope 1,Fuels,Gaseous fuels,Natural gas (100% mineral blend),,,cubic metres,kg CO2e of CO2 per unit,2.08504
+1_100_1005_1_3,Scope 1,Fuels,Gaseous fuels,Natural gas (100% mineral blend),,,cubic metres,kg CO2e of CH4 per unit,0.00307
+1_100_1005_1_4,Scope 1,Fuels,Gaseous fuels,Natural gas (100% mineral blend),,,cubic metres,kg CO2e of N2O per unit,0.00095
+11_100_1004_1_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,,,cubic metres,kg CO2e,0.3366
+11_100_1005_1_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),,,cubic metres,kg CO2e,0.3366

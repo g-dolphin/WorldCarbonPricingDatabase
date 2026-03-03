@@ -1,0 +1,12 @@
+year,daily_mxn,monthly_mxn,annual_mxn,source_id,source_url,notes
+2016,73.04,2220.42,26645.04,MEX-UMA-VLEX-2016-2022,https://vlex.com.mx/vid/valor-unidad-medida-actualizacion-1073501362,Historical UMA table (secondary source).
+2017,75.49,2294.9,27538.8,MEX-UMA-VLEX-2016-2022,https://vlex.com.mx/vid/valor-unidad-medida-actualizacion-1073501362,Historical UMA table (secondary source).
+2018,80.6,2450.24,29402.88,MEX-UMA-VLEX-2016-2022,https://vlex.com.mx/vid/valor-unidad-medida-actualizacion-1073501362,Historical UMA table (secondary source).
+2019,84.49,2568.5,30822.0,MEX-UMA-VLEX-2016-2022,https://vlex.com.mx/vid/valor-unidad-medida-actualizacion-1073501362,Historical UMA table (secondary source).
+2020,86.88,2641.15,31693.8,MEX-UMA-VLEX-2016-2022,https://vlex.com.mx/vid/valor-unidad-medida-actualizacion-1073501362,Historical UMA table (secondary source).
+2021,89.62,2724.45,32693.4,MEX-UMA-VLEX-2016-2022,https://vlex.com.mx/vid/valor-unidad-medida-actualizacion-1073501362,Historical UMA table (secondary source).
+2022,96.22,2925.09,35101.08,MEX-UMA-VLEX-2016-2022,https://vlex.com.mx/vid/valor-unidad-medida-actualizacion-1073501362,Historical UMA table (secondary source).
+2023,103.74,3153.7,37844.4,MEX-UMA-INEGI-2023,https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/UMA/UMA2023.pdf,INEGI comunicado UMA 2023; values effective 1 Feb 2023.
+2024,108.57,3300.53,39606.36,MEX-UMA-INEGI-2024,https://inegi.org.mx/contenidos/saladeprensa/boletines/2024/UMA/UMA2024.pdf,INEGI comunicado UMA 2024; values effective 1 Feb 2024.
+2025,113.14,3439.46,41273.52,MEX-UMA-INEGI-2025,https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/uma/uma2025.pdf,INEGI comunicado UMA 2025; values effective 1 Feb 2025.
+2026,117.31,3566.22,42794.64,MEX-UMA-INEGI-2026,https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf,INEGI comunicado UMA 2026; values effective 1 Feb 2026.
