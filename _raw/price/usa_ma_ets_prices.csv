@@ -1,7 +1,9 @@
 scheme_id,year,allowance_price,currency_code,source,comment
-usa_ma_ets,2019,7.49,USD,gvt(MassDEP[2019]),annual allowance-weighted average of auction clearing prices
-usa_ma_ets,2020,7.5,USD,gvt(MassDEP[2020]),annual allowance-weighted average of auction clearing prices
-usa_ma_ets,2021,6.88,USD,gvt(MassDEP[2021]),annual allowance-weighted average of auction clearing prices
-usa_ma_ets,2022,8.17,USD,gvt(MassDEP[2022]),annual allowance-weighted average of auction clearing prices
-usa_ma_ets,2023,9.2,USD,gvt(MassDEP[2024]),annual allowance-weighted average of auction clearing prices
-usa_ma_ets,2024,3.35,USD,gvt(MassDEP[2024]),annual allowance-weighted average of auction clearing prices
+usa_ma_ets,2018,6.71,USD,gvt(MassDEP[2018]),annual allowance-weighted average of auction clearing prices
+usa_ma_ets,2019,8,USD,gvt(MassDEP[2019]),annual allowance-weighted average of auction clearing prices
+usa_ma_ets,2020,7.31,USD,gvt(MassDEP[2020]),annual allowance-weighted average of auction clearing prices
+usa_ma_ets,2021,8.4,USD,gvt(MassDEP[2021]),annual allowance-weighted average of auction clearing prices
+usa_ma_ets,2022,9.04,USD,gvt(MassDEP[2022]),annual allowance-weighted average of auction clearing prices
+usa_ma_ets,2023,6.97,USD,gvt(MassDEP[2024]),annual allowance-weighted average of auction clearing prices
+usa_ma_ets,2024,3.71,USD,gvt(MassDEP[2024]),annual allowance-weighted average of auction clearing prices
+usa_ma_ets,2025,14.17,USD,gvt(MassDEP[2025]),annual allowance-weighted average of auction clearing prices
