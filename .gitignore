@@ -10,4 +10,9 @@ _raw/_preproc
 _code/_preprocessing
 _code/_sources_extraction
 _raw/price/*_temp.csv
+
+_raw/scope/ets/ets_scope_*_*.py
+_raw/scope/tax/taxes_scope_*_*.py
+
+
 wcpd_architecture.mmd
