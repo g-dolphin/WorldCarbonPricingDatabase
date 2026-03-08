@@ -49,6 +49,7 @@ Prices and tax rates
 - `_raw/price/*.csv` (per-instrument price time series, incl. taxes and ETS prices)
 - `_raw/price/_preproc/rate_changes.csv` (optional, tax rate change periods for pro‑rata averages)
 - `_raw/price/_preproc/annual_rates.csv` (optional, computed annual averages)
+Note: Some taxes publish a headline base rate per tCO2 (e.g., Finland) while fuel‑specific CO2 components are calculated using emission factors and fuel densities. This can make fuel‑specific €/unit rates appear inconsistent with the headline €/tCO2 value. Record the headline base value explicitly (when provided) and link fuel‑specific rates to the base via provisions/sources notes.
 
 Coverage / scope (what is covered)
 - `_raw/scope/ets/ets_scope_CO2.py`

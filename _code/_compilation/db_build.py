@@ -220,21 +220,53 @@ def tax_exemptions(GAS):
         ## Load tax exemptions
         rebate_module = load_module("tax_rebates", RAW_DIR / f"priceRebates/tax/_price_exemptions_tax_{GAS}.py")
 
-        if not rebate_module.tax_exemptions or rebate_module.tax_exemptions == [""]:
-            # No exemptions, just fill columns as needed and return            
+        records = getattr(rebate_module, "tax_exemptions_records", None)
+        legacy = getattr(rebate_module, "tax_exemptions", None)
+        legacy_sources = getattr(rebate_module, "tax_exemptions_sources", None)
+
+        if records:
+            for rec in records:
+                year_from = rec.get("year_from")
+                year_to = rec.get("year_to")
+                if year_from is None or year_to is None:
+                    continue
+                value_by_year = rec.get("value_by_year", {})
+                source_by_year = rec.get("source_by_year", {})
+                default_value = rec.get("value")
+                default_source = rec.get("source", "NA")
+
+                for yr in range(int(year_from), int(year_to) + 1):
+                    value = value_by_year.get(yr, default_value)
+                    if value is None:
+                        continue
+                    source = source_by_year.get(yr, default_source)
+                    row_selection = (
+                        wcpd_all_jur.jurisdiction.isin(rec.get("jurisdiction", []))
+                        & (wcpd_all_jur.year == yr)
+                        & (wcpd_all_jur.ipcc_code.isin(rec.get("ipcc", [])))
+                        & (wcpd_all_jur.Product.isin(rec.get("fuel", [])))
+                    )
+                    wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = value
+                    wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = source
+
+            # Calculate tax rate including rebate
+            wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
+
+        elif legacy and legacy != [""]:
+            i = 0
+            for exemption in legacy:
+                for yr in exemption["jurisdiction"].keys():
+                    row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
+                    wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
+                    if legacy_sources:
+                        wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = legacy_sources[i][yr]
+
+                i+=1
             # Calculate tax rate including rebate
             wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
 
         else:
-            i = 0
-            for exemption in rebate_module.tax_exemptions:
-                for yr in exemption["jurisdiction"].keys():
-                    row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
-                    wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
-                    wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = rebate_module.tax_exemptions_sources[i][yr]
-
-                i+=1
-            # Calculate tax rate including rebate
+            # No exemptions, just fill columns as needed and return
             wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
 
         # Fill NAs for Product

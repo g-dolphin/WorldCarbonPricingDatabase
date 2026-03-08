@@ -729,37 +729,37 @@ def scope():
     
     ## Jurisdictions    
     
-    nor_tax_I_jur_I = ["Norway"]
+    nor_tax_jur_I = ["Norway"]
     nor_tax_II_jur_I = ["Norway"]
     
     ## IPCC categories
-    nor_tax_I_ipcc_I = ["1A1A1", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
+    nor_tax_ipcc_I = ["1A1A1", "1A1B", "1A1C", "1A2A", "1A2B", "1A2C",
                         "1A2D", "1A2E", "1A2F", "1A2G", "1A2H", "1A2I", "1A2J",
                         "1A2K", "1A2L", "1A2M", "1A3A2", "1A3B", "1A4A", "1A4B",
                         "1A4C2"]
     
-    nor_tax_I_ipcc_II = ["1A1B", "1A1C", "1A3A2", "1A3B", "1A4A", "1A4B",
+    nor_tax_ipcc_II = ["1A1B", "1A1C", "1A3A2", "1A3B", "1A4A", "1A4B",
                          "1A4C2"]
     
     nor_tax_II_ipcc_I = ["1B2A1", "1B2A2", "1B2A32", "1B2A33"]
     
     ## Fuels
 
-    nor_tax_I_fuel_I = ["Oil"]
-    nor_tax_I_fuel_II = ["Oil", "Natural gas"]
+    nor_tax_fuel_I = ["Oil"]
+    nor_tax_fuel_II = ["Oil", "Natural gas"]
     
     nor_tax_II_fuel_I = ["Oil", "Natural gas"]    
      
     
     ## scope dictionaries
 
-    nor_tax_I_jur_scope = {year:nor_tax_I_jur_I for year in range(1991, 2025)}
+    nor_tax_jur_scope = {year:nor_tax_jur_I for year in range(1991, 2025)}
 
-    nor_tax_I_ipcc_scope = {year:nor_tax_I_ipcc_I for year in range(1991, 2008)}
-    nor_tax_I_ipcc_scope.update({year: nor_tax_I_ipcc_II for year in range(2008, 2025)})
+    nor_tax_ipcc_scope = {year:nor_tax_ipcc_I for year in range(1991, 2008)}
+    nor_tax_ipcc_scope.update({year: nor_tax_ipcc_II for year in range(2008, 2025)})
     
-    nor_tax_I_fuel_scope = {year:nor_tax_I_fuel_I for year in range(1991, 2007)}
-    nor_tax_I_fuel_scope.update({year: nor_tax_I_fuel_II for year in range(2007, 2025)})
+    nor_tax_fuel_scope = {year:nor_tax_fuel_I for year in range(1991, 2007)}
+    nor_tax_fuel_scope.update({year: nor_tax_fuel_II for year in range(2007, 2025)})
 
     nor_tax_II_jur_scope = {year:nor_tax_II_jur_I for year in range(1991, 2025)}
 
@@ -770,7 +770,7 @@ def scope():
     
     ## Sources dictionary
     
-    nor_tax_I_scope_sources = {year: "leg(NOR-EA[1990])" for year in range(1991, 2025)}
+    nor_tax_scope_sources = {year: "leg(NOR-EA[1990])" for year in range(1991, 2025)}
     
     nor_tax_II_scope_sources = {year: "leg(NOR-EA[1990])" for year in range(1991, 2025)}
     
@@ -1702,9 +1702,9 @@ def scope():
                       "nld_tax_II":{"jurisdictions":nld_tax_II_jur_scope, 
                                   "sectors":nld_tax_II_ipcc_scope,
                                   "fuels":nld_tax_II_fuel_scope},
-                      "nor_tax_I":{"jurisdictions":nor_tax_I_jur_scope, 
-                                  "sectors":nor_tax_I_ipcc_scope,
-                                  "fuels":nor_tax_I_fuel_scope},
+                      "nor_tax_I":{"jurisdictions":nor_tax_jur_scope, 
+                                  "sectors":nor_tax_ipcc_scope,
+                                  "fuels":nor_tax_fuel_scope},
                       "nor_tax_II":{"jurisdictions":nor_tax_II_jur_scope, 
                                   "sectors":nor_tax_II_ipcc_scope,
                                   "fuels":nor_tax_II_fuel_scope},
@@ -1803,7 +1803,7 @@ def scope():
                               "mex_tax":mex_tax_scope_sources,
                               "nld_tax":nld_tax_scope_sources,
                               "nld_tax_II":nld_tax_II_scope_sources,                             
-                              "nor_tax_I":nor_tax_I_scope_sources,
+                              "nor_tax_I":nor_tax_scope_sources,
                               "nor_tax_II":nor_tax_II_scope_sources,
                               "prt_tax":prt_tax_scope_sources,
                               "pol_tax":pol_tax_scope_sources,

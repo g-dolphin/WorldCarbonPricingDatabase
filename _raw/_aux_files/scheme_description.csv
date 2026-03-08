@@ -6,24 +6,24 @@ aus_sm,Australia ERF Safeguard Mechanism,ets,,,2023,,"CO2, CH4, N2O, HFCs, SF6, 
 aus_tax,Australia CPM,tax,Clean Energy Act 2011,2011,2012,2015,"CO2, CH4, N2O",,,
 aut_ets,Austria National Emissions Trading System (N-EHS),ets,,,2022,,"CO2, CH4, N2O, HFCs, SF6, PFCs",,,
 can_ab_ets,Alberta TIER,ets,,,2020,,"CO2, CH4, N2O, HFCs, SF6, PFCs",,ECCC(2021),
-can_ab_tax,Alberta carbon tax,tax,,,2017,,CO2,,,
+can_ab_tax,Alberta carbon tax,tax,,,2017,2019,CO2,,,"Canada Dept of Finance news release (2019-06-13) notes Alberta carbon levy repealed May 30, 2019."
 can_bc_ets,BC OBPS,ets,,,2024,,"CO2, CH4, N2O, HFCs, SF6, PFCs",,,
 can_bc_ggirca,BC GGIRCA,ets,,,,,,,,
 can_bc_tax,BC carbon tax,tax,,,2008,,"CO2, CH4, N2O, HFCs, SF6, PFCs",,,
 can_nb_ets,New Brunswick OBPS,ets,,,2021,,"CO2, CH4, N2O, SF6, HFCs, PFCs",,ICAP,
-can_nb_tax,New Brunswick carbon tax,tax,Gasoline and Motive Fuel Tax Act,2020,2020,2024,CO2,,,
+can_nb_tax,New Brunswick carbon tax,tax,Gasoline and Motive Fuel Tax Act,2020,2020,2023,CO2,,,"NB Finance notice: Carbon Emitting Product Tax eliminated effective July 1, 2023."
 can_nl_ets,Newfoundland and Labrador PSS,ets,,,2019,,"CO2, CH4, N2O, SF6, HFCs, PFCs",,,
-can_nl_tax,Newfoundland and Labrador carbon tax,tax,Revenue Administration Act,,2019,2024,,,,
+can_nl_tax,Newfoundland and Labrador carbon tax,tax,Revenue Administration Act,,2019,2023,,,,"NL Finance notice: provincial carbon tax repealed; no longer collected as of July 1, 2023."
 can_ns_ets,Nova Scotia CaT,ets,,,2019,,"CO2, CH4, N2O, SF6, NF3, HFCs, PFCs",,ICAP,
 can_ns_ets_II,Nova Scotia OBPS,ets,,,2024,,"CO2, CH4, N2O, SF6, NF3, HFCs, PFCs",,ICAP,
 can_nt_tax,Northwest Territories carbon tax,tax,,,2019,,,,,
 can_obps,Canada federal OBPS,ets,,,2019,,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",,,
 can_on_ets,Ontario EPS,ets,,,2022,,,,,
-can_pe_tax,Prince Edward Island carbon tax,tax,,,2019,2024,,,,
+can_pe_tax,Prince Edward Island carbon tax,tax,,,2019,2023,,,,"PEI Finance: provincial carbon levy no longer charged after July 1, 2023."
 can_qc_ets,Quebec CaT,ets,,,2013,,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",,ICAP,
 can_sk_ets,Saskatchewan OBPS,ets,,,2019,,,,,including federal OBPS coverage
-can_tax_I,Canada federal fuel charge,tax,,,2019,2025,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",,,most provinces
-can_tax_II,Canada federal fuel charge,tax,,,2019,2025,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",,,Yukon & Nunavut
+can_tax_I,Canada federal fuel charge,tax,,,2019,2025,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",,,"Canada Dept of Finance backgrounder: federal fuel charge ceases effective April 1, 2025."
+can_tax_II,Canada federal fuel charge,tax,,,2019,2025,"CO2, CH4, N2O, SF6, HFCs, PFCs, NF3",,,"Canada Dept of Finance backgrounder: federal fuel charge ceases effective April 1, 2025."
 che_ets,Switzerland ETS,ets,,,2008,,"CO2, N2O, CH4, HFCs, NF3, SF6, PFCs",,ICAP,
 che_tax,Switzerland carbon tax,tax,Ordinance on the Reduction of CO2 Emissions,,2008,,CO2,,,
 chl_tax,Chile carbon tax,tax,,,2017,,CO2,,,
@@ -76,7 +76,7 @@ mex_za_tax,Zacatecas carbon tax,tax,,,2017,,"CO2, CH4, N2O, HFCs, PFCs, SF6, NF3
 mne_ets,Montenegro,ets,,,2022,,,,,
 nld_tax,Netherlands carbon tax - industry,tax,Industry CO2 Tax Act,2021,2021,,"CO2, N2O",,,
 nld_tax_II,Netherlands minimum CO2 price - electricity,tax,Minimum CO2 Price Electricity Generation Act,2022,2022,,CO2,,,"The scheme applies to all emitters in the target sectors, regardless of annual emission levels. "
-nor_tax_I,Norway carbon tax,tax,,,1991,,CO2,,,
+nor_tax,Norway carbon tax,tax,,,1991,,CO2,,,
 nor_tax_II,Norway carbon tax,tax,,,1991,,CO2,,,
 nzl_ets,New Zealand ETS,ets,,,2008,,"CO2, CH4, N2O, SF6, HFCs, PFCs",,ICAP,
 pol_tax,Poland carbon tax,tax,,,1990,,CO2,,,
