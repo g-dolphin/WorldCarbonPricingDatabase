@@ -38,6 +38,7 @@ RAW_PRICE_DIR = RAW_DB_ROOT / "price"
 RAW_SCOPE_DIR = RAW_DB_ROOT / "scope"
 RAW_REBATES_DIR = RAW_DB_ROOT / "priceRebates" / "tax"
 RAW_PREPROC_DIR = RAW_PRICE_DIR / "_preproc"
+ANNUAL_UPDATE_PATH = Path("_code/_preprocessing/annual_update.py")
 RATE_CHANGES_PATH = RAW_PREPROC_DIR / "rate_changes.csv"
 ANNUAL_RATES_PATH = RAW_PREPROC_DIR / "annual_rates.csv"
 RAW_STRUCTURE_DIR = RAW_DB_ROOT / "_aux_files" / "wcpd_structure"
@@ -1544,7 +1545,14 @@ def _render_pending_changes_panel() -> None:
 
     rebate_canonicals = _collect_timestamped_canonicals(RAW_REBATES_DIR)
 
-    if not price_temp_files and not scope_canonicals and not rebate_canonicals:
+    coverage_canonicals = []
+    coverage_dir = Path("_code/_compilation/_preprocessing")
+    coverage_path = coverage_dir / "_coverageFactors.py"
+    if coverage_path.exists():
+        pattern = f"{coverage_path.stem}_*.py"
+        coverage_canonicals = sorted(coverage_dir.glob(pattern))
+
+    if not price_temp_files and not scope_canonicals and not rebate_canonicals and not coverage_canonicals:
         st.caption("No temp or timestamped files detected.")
         return
 
@@ -1572,6 +1580,12 @@ def _render_pending_changes_panel() -> None:
         for canonical in rebate_canonicals:
             with st.expander(f"{canonical.name}", expanded=False):
                 _promote_file_ui(canonical, key_prefix=f"pending_rebates_{canonical.stem}")
+
+    if coverage_canonicals:
+        st.markdown("**Coverage factors (timestamped files)**")
+        for path in coverage_canonicals:
+            with st.expander(f"{path.name}", expanded=False):
+                _promote_file_ui(coverage_path, key_prefix=f"pending_cf_{path.stem}")
 
 
 def find_schemes_missing_sources() -> list[str]:
@@ -4796,6 +4810,316 @@ def raw_editor_view(reviewer: str) -> None:
         overlaps_view()
 
 
+def _load_annual_update_module():
+    if not ANNUAL_UPDATE_PATH.exists():
+        return None
+    spec = importlib.util.spec_from_file_location("annual_update", ANNUAL_UPDATE_PATH)
+    if not spec or not spec.loader:
+        return None
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def _preview_csv(path: Path, max_rows: int = 200) -> None:
+    if not path or not path.exists():
+        st.info("No output generated.")
+        return
+    st.caption(str(path))
+    try:
+        df = pd.read_csv(path)
+    except Exception as exc:
+        st.error(f"Failed to read {path}: {exc}")
+        return
+    if df.empty:
+        st.info("Empty file.")
+        return
+    st.dataframe(df.head(max_rows), height=360)
+
+
+def annual_update_view() -> None:
+    st.title("Annual Update")
+    st.caption("Generate annual update proposal reports (scope rollovers, scope changes, coverage factors, prices).")
+
+    mod = _load_annual_update_module()
+    if mod is None:
+        st.error(f"Missing annual update helper: {ANNUAL_UPDATE_PATH}")
+        return
+
+    default_year = mod.suggest_target_year()
+    target_year = int(st.number_input("Target year", value=int(default_year), step=1))
+
+    col1, col2 = st.columns(2)
+    with col1:
+        do_tax = st.checkbox("Include carbon taxes", value=True)
+    with col2:
+        do_ets = st.checkbox("Include ETS", value=True)
+
+    gas_for_scope = st.selectbox("Scope gas", list(GAS_OPTIONS.keys()), key="annual_scope_gas")
+
+    if st.button("Generate annual update reports"):
+        outputs = mod.run_annual_update(
+            target_year=target_year, do_tax=do_tax, do_ets=do_ets, gas_label=gas_for_scope
+        )
+
+        st.success("Reports generated.")
+        st.subheader("Scope rollover proposals")
+        if do_tax:
+            st.info("Use the rollover diff preview below to write a timestamped scope file.")
+        if do_ets:
+            st.info("Use the rollover diff preview below to write a timestamped scope file.")
+
+        st.subheader("Scope changes feed (target year)")
+        st.caption("Select rows below to apply scope changes to the rollover file.")
+
+        st.subheader("Coverage factor rollovers")
+        _preview_csv(outputs.coverage_factors)
+
+        st.subheader("Price updates (target year)")
+        if do_tax:
+            _preview_csv(outputs.prices_tax)
+        if do_ets:
+            _preview_csv(outputs.prices_ets)
+
+    st.divider()
+    st.subheader("Apply (write temp files)")
+    st.caption("Writes *_temp.csv files. Scope updates remain proposals.")
+
+    col_apply_1, col_apply_2 = st.columns(2)
+    with col_apply_1:
+        if st.button("Apply price updates"):
+            applied = mod.apply_annual_update(target_year=target_year, do_tax=do_tax, do_ets=do_ets)
+            st.success("Price temp files written.")
+            if applied.prices_tax_temp_dir:
+                st.caption(f"Tax price temp files: {applied.prices_tax_temp_dir}")
+            if applied.prices_ets_temp_dir:
+                st.caption(f"ETS price temp files: {applied.prices_ets_temp_dir}")
+
+    with col_apply_2:
+        if st.button("Apply coverage factor updates"):
+            applied = mod.apply_annual_update(target_year=target_year, do_tax=False, do_ets=False)
+            if applied.coverage_factors_script:
+                st.success("Coverage factor script updated (timestamped).")
+                st.caption(f"Coverage factor script: {applied.coverage_factors_script}")
+            else:
+                st.warning("No coverage factor script changes were needed.")
+
+    st.divider()
+    st.subheader("Apply scope changes (selected rows)")
+    st.caption("Writes timestamped scope files using selected scope change rows.")
+
+    st.subheader("Rollover diff preview")
+    st.caption("Preview rollover changes before writing a timestamped scope file.")
+
+    def _rollover_preview(scheme_type: str) -> None:
+        data, sources, scope_path = mod.build_rollover_scope_data(
+            scheme_type, gas_for_scope, target_year
+        )
+        if data is None or sources is None or scope_path is None:
+            st.info(f"No rollover data available for {scheme_type}.")
+            return
+        new_text = mod._render_scope_module(data, sources)
+        old_text = scope_path.read_text(encoding="utf-8") if scope_path.exists() else ""
+        diff = "\n".join(
+            difflib.unified_diff(
+                old_text.splitlines(),
+                new_text.splitlines(),
+                fromfile=str(scope_path),
+                tofile=str(scope_path),
+                lineterm="",
+            )
+        )
+        with st.expander(f"Diff preview ({scheme_type})", expanded=False):
+            st.code(diff or "No changes detected.", language="diff")
+        confirm = st.checkbox(
+            f"Confirm write rollover file ({scheme_type})",
+            value=False,
+            key=f"confirm_rollover_{scheme_type}",
+        )
+        if st.button(f"Write rollover file ({scheme_type})", key=f"write_rollover_{scheme_type}"):
+            if not confirm:
+                st.error("Confirm write before proceeding.")
+                return
+            stamp = dt.datetime.utcnow().strftime("%Y%m%d")
+            out_path = scope_path.with_name(f"{scope_path.stem}_{stamp}.py")
+            out_path.write_text(new_text, encoding="utf-8")
+            st.success(f"Wrote rollover scope file: {out_path}")
+
+    if do_tax:
+        _rollover_preview("tax")
+    if do_ets:
+        _rollover_preview("ets")
+
+    def _apply_scope_changes_from_rows(
+        rows: pd.DataFrame, scheme_type: str, gas_label: str
+    ):
+        if rows.empty:
+            return None, None
+        data_block, sources_block, scope_path = mod.build_rollover_scope_data(
+            scheme_type, gas_label, target_year
+        )
+        if data_block is None or sources_block is None or scope_path is None:
+            return None, None
+
+        def _year_from_row(r: pd.Series) -> Optional[int]:
+            for col in ["effective_from", "effective_to"]:
+                if col in r and pd.notna(r[col]):
+                    try:
+                        return pd.to_datetime(r[col]).year
+                    except Exception:
+                        continue
+            return None
+
+        def _ensure_year_entry(entry: dict, year: int, key: str) -> list:
+            if key not in entry:
+                entry[key] = {}
+            if year not in entry[key]:
+                # copy nearest previous year if available
+                prev_years = [y for y in entry[key].keys() if str(y).isdigit() and int(y) < year]
+                if prev_years:
+                    prev = max(prev_years, key=lambda y: int(y))
+                    entry[key][year] = list(entry[key].get(prev, []))
+                else:
+                    entry[key][year] = []
+            return entry[key][year]
+
+        # Apply selected change rows on top of rollover data
+        for _, row in rows.iterrows():
+            scheme_id = str(row.get("scheme_id", "")).strip()
+            if not scheme_id:
+                continue
+            year = _year_from_row(row)
+            if year is None:
+                continue
+
+            change_kind = str(row.get("change_kind", "scope_start"))
+            action = "add" if "start" in change_kind else "remove"
+
+            scope_type = str(row.get("scope_type", "")).lower()
+            scope_subject = row.get("scope_subject")
+            ipcc_code = row.get("ipcc_code")
+
+            scheme_entry = data_block.get(scheme_id, {})
+            scheme_entry.setdefault("jurisdictions", {})
+            scheme_entry.setdefault("sectors", {})
+            if scheme_type == "tax":
+                scheme_entry.setdefault("fuels", {})
+
+            # Determine codes to modify
+            codes: list[str] = []
+            if "ipcc" in scope_type:
+                if pd.notna(ipcc_code) and str(ipcc_code).strip():
+                    codes = [c for c in str(ipcc_code).split(";") if c]
+                elif pd.notna(scope_subject):
+                    codes = [str(scope_subject)]
+                target_list = _ensure_year_entry(scheme_entry, year, "sectors")
+            elif "fuel" in scope_type and scheme_type == "tax":
+                if pd.notna(scope_subject):
+                    codes = [str(scope_subject)]
+                target_list = _ensure_year_entry(scheme_entry, year, "fuels")
+            else:
+                # Default to sectors if unknown
+                if pd.notna(scope_subject):
+                    codes = [str(scope_subject)]
+                target_list = _ensure_year_entry(scheme_entry, year, "sectors")
+
+            if codes:
+                if action == "add":
+                    for code in codes:
+                        if code not in target_list:
+                            target_list.append(code)
+                else:
+                    target_list[:] = [c for c in target_list if c not in codes]
+
+            data_block[scheme_id] = scheme_entry
+
+            # Set/append source for this year if provided
+            source_val = ""
+            for col in ["source_id", "citation", "source_url"]:
+                v = row.get(col)
+                if pd.notna(v) and str(v).strip():
+                    source_val = str(v).strip()
+                    break
+            if source_val:
+                scheme_sources = sources_block.get(scheme_id, {})
+                scheme_sources[year] = source_val
+                sources_block[scheme_id] = scheme_sources
+
+        new_text = _render_scope_module(data_block, sources_block)
+        old_text = scope_path.read_text(encoding="utf-8") if scope_path.exists() else ""
+        diff = "\n".join(
+            difflib.unified_diff(
+                old_text.splitlines(),
+                new_text.splitlines(),
+                fromfile=str(scope_path),
+                tofile=str(scope_path),
+                lineterm="",
+            )
+        )
+        return scope_path, diff, new_text
+
+    def _render_scope_changes_selector(label: str, path: Path, scheme_type: str) -> None:
+        if not path.exists():
+            st.info(f"{label} not found: {path}")
+            return
+        df = pd.read_csv(path)
+        if df.empty:
+            st.info(f"{label} is empty.")
+            return
+        df = df.copy()
+        # Filter to target year
+        for col in ["effective_from", "effective_to"]:
+            if col in df.columns:
+                df[col] = pd.to_datetime(df[col], errors="coerce")
+        mask = False
+        if "effective_from" in df.columns:
+            mask = mask | (df["effective_from"].dt.year == target_year)
+        if "effective_to" in df.columns:
+            mask = mask | (df["effective_to"].dt.year == target_year)
+        df = df.loc[mask].copy()
+        if df.empty:
+            st.info(f"{label}: no rows for target year {target_year}.")
+            return
+        df["apply"] = False
+        st.markdown(f"**{label}**")
+        edited = st.data_editor(df, height=280, key=f"annual_scope_{scheme_type}")
+        to_apply = edited[edited["apply"] == True].drop(columns=["apply"])
+        if st.button(f"Preview diff for {label}", key=f"preview_scope_{scheme_type}"):
+            result = _apply_scope_changes_from_rows(to_apply, scheme_type, gas_for_scope)
+            if not result or result[0] is None:
+                st.info("No rows selected.")
+                return
+            scope_path, diff_text, new_text = result
+            st.session_state[f"annual_scope_diff_{scheme_type}"] = diff_text
+            st.session_state[f"annual_scope_new_{scheme_type}"] = new_text
+            st.session_state[f"annual_scope_path_{scheme_type}"] = str(scope_path)
+
+        diff_text = st.session_state.get(f"annual_scope_diff_{scheme_type}")
+        new_text = st.session_state.get(f"annual_scope_new_{scheme_type}")
+        scope_path_str = st.session_state.get(f"annual_scope_path_{scheme_type}")
+        if diff_text:
+            with st.expander("Diff preview", expanded=False):
+                st.code(diff_text, language="diff")
+            confirm = st.checkbox("Confirm write", value=False, key=f"confirm_scope_{scheme_type}")
+            if st.button(f"Write scope file for {label}", key=f"write_scope_{scheme_type}"):
+                if not confirm:
+                    st.error("Confirm write before proceeding.")
+                    return
+                out_path = _timestamped_path(Path(scope_path_str))
+                out_path.parent.mkdir(parents=True, exist_ok=True)
+                Path(out_path).write_text(new_text, encoding="utf-8")
+                st.success(f"Wrote scope file: {out_path}")
+        else:
+            st.caption("Run preview to see diff before writing.")
+
+    if do_tax:
+        tax_changes_path = Path("_raw/_preproc/_preproc_tax/out") / "scope_changes_last3y_tax.csv"
+        _render_scope_changes_selector("Tax scope changes", tax_changes_path, "tax")
+    if do_ets:
+        ets_changes_path = Path("_raw/_preproc/_preproc_ets/out") / "scope_changes_last3y_ets.csv"
+        _render_scope_changes_selector("ETS scope changes", ets_changes_path, "ets")
+
+
 # -------------------------------------------------------------------
 # Main
 # -------------------------------------------------------------------
@@ -4861,6 +5185,7 @@ digraph WCPD {
             "Gap dashboard",
             "Manage sources",
             "Review candidates",
+            "Annual update",
             "Raw editor",
         ],
         index=0,
@@ -4877,6 +5202,8 @@ digraph WCPD {
         source_manager_view()
     elif view == "Gap dashboard":
         gap_dashboard_view()
+    elif view == "Annual update":
+        annual_update_view()
     else:
         raw_editor_view(reviewer=reviewer)
 

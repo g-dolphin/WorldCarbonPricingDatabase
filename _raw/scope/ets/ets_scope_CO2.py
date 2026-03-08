@@ -140,7 +140,7 @@ def scope():
     
     aut_ets_jur_scope = {year:aut_ets_jur_I for year in range(2022,2025)}
     
-    aut_ets_ipcc_scope = {year:aut_ets_jur_I for year in range(2022,2025)}
+    aut_ets_ipcc_scope = {year:aut_ets_ipcc_I for year in range(2022,2025)}
     
     ## Sources dictionary
     
