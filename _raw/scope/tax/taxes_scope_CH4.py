@@ -484,29 +484,29 @@ def scope():
     
     ## Jurisdictions    
     
-    nor_tax_I_jur_I = ["Norway"]
+    nor_tax_jur_I = ["Norway"]
     
     ## IPCC categories
     
-    nor_tax_I_ipcc_I = ["1B2A1", "1B2A2", "1B2B2", "1B2B1"] 
+    nor_tax_ipcc_I = ["1B2A1", "1B2A2", "1B2B2", "1B2B1"] 
     
     ## Fuels
 
-    nor_tax_I_fuel_I = ["Oil", "Natural gas"]
+    nor_tax_fuel_I = ["Oil", "Natural gas"]
     
     
     ## scope dictionaries
 
-    nor_tax_I_jur_scope = {year:nor_tax_I_jur_I for year in range(1991, 2025)}
+    nor_tax_jur_scope = {year:nor_tax_jur_I for year in range(1991, 2025)}
 
-    nor_tax_I_ipcc_scope = {year:nor_tax_I_ipcc_I for year in range(1991, 2025)}
+    nor_tax_ipcc_scope = {year:nor_tax_ipcc_I for year in range(1991, 2025)}
     
-    nor_tax_I_fuel_scope = {year:nor_tax_I_fuel_I for year in range(1991, 2025)}
+    nor_tax_fuel_scope = {year:nor_tax_fuel_I for year in range(1991, 2025)}
     
 
     ## Sources dictionary
     
-    nor_tax_I_scope_sources = {year: "leg(NOR-EA[1990])" for year in range(1991, 2025)}
+    nor_tax_scope_sources = {year: "leg(NOR-EA[1990])" for year in range(1991, 2025)}
     
     
     #----------------------------------------------------------------------------
@@ -572,9 +572,9 @@ def scope():
                               "sectors":col_tax_ipcc_scope,
                               "fuels":col_tax_fuel_scope},
                     ## two norway taxes, use I
-                    "nor_tax":{"jurisdictions": nor_tax_I_jur_scope,
-                               "sectors": nor_tax_I_ipcc_scope,
-                               "fuels": nor_tax_I_fuel_scope},
+                    "nor_tax":{"jurisdictions": nor_tax_jur_scope,
+                               "sectors": nor_tax_ipcc_scope,
+                               "fuels": nor_tax_fuel_scope},
                     "pol_tax":{"jurisdictions":pol_tax_jur_scope,
                                "sectors": pol_tax_ipcc_scope,
                                "fuels": pol_tax_fuel_scope},
@@ -614,7 +614,7 @@ def scope():
     #    "can_tax_II":can_tax_II_scope_sources,
         "can_bc_tax":can_bc_tax_scope_sources,
         "col_tax":col_tax_scope_sources,
-        "nor_tax":nor_tax_I_scope_sources,
+        "nor_tax":nor_tax_scope_sources,
         "pol_tax":pol_tax_scope_sources,
         "sgp_tax":sgp_tax_scope_sources,
         "mex_tax": mex_tax_scope_sources,

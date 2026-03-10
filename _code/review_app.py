@@ -66,6 +66,7 @@ SCHEME_COLUMNS = [
     "implementing_legislation",
     "legislation_year",
     "implementation_year",
+    "abolition_year",
     "ghg",
     "sector",
     "source",
@@ -412,6 +413,9 @@ def load_expected_schemes_for_gas(
             continue
         if target_year is not None:
             raw_year = str(row.get("implementation_year", "")).strip()
+            if not raw_year or raw_year.lower() == "nan":
+                # Ignore schemes with missing implementation_year in gap expectations
+                continue
             if raw_year and raw_year.replace(".", "").isdigit():
                 try:
                     if int(float(raw_year)) > target_year:

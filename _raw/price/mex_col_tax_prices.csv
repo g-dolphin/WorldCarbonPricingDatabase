@@ -1,0 +1,13 @@
+scheme_id,year,ghg,product,rate,currency_code,source,comment
+mex_col_tax,2025,CH4,Coal,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,CH4,Natural gas,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,CH4,Oil,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,CO2,Coal,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,CO2,Natural gas,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,CO2,Oil,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,F-GASES,Coal,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,F-GASES,Natural gas,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,F-GASES,Oil,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,N2O,Coal,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,N2O,Natural gas,565.7,MXN,MEX-COL-LEG-LEH-2024,
+mex_col_tax,2025,N2O,Oil,565.7,MXN,MEX-COL-LEG-LEH-2024,
