@@ -8,7 +8,6 @@ aut_ets,Austria National Emissions Trading System (N-EHS),ets,,,2022,,"CO2, CH4,
 can_ab_ets,Alberta TIER,ets,,,2020,,"CO2, CH4, N2O, HFCs, SF6, PFCs",,ECCC(2021),
 can_ab_tax,Alberta carbon tax,tax,,,2017,2019,CO2,,,"Canada Dept of Finance news release (2019-06-13) notes Alberta carbon levy repealed May 30, 2019."
 can_bc_ets,BC OBPS,ets,,,2024,,"CO2, CH4, N2O, HFCs, SF6, PFCs",,,
-can_bc_ggirca,BC GGIRCA,ets,,,2019,,"CO2, CH4, N2O, HFCs, SF6, PFCs",,,
 can_bc_tax,BC carbon tax,tax,,,2008,,"CO2, CH4, N2O, HFCs, SF6, PFCs",,,
 can_nb_ets,New Brunswick OBPS,ets,,,2021,,"CO2, CH4, N2O, SF6, HFCs, PFCs",,ICAP,
 can_nb_tax,New Brunswick carbon tax,tax,Gasoline and Motive Fuel Tax Act,2020,2020,2023,CO2,,,"NB Finance notice: Carbon Emitting Product Tax eliminated effective July 1, 2023."
@@ -75,7 +74,7 @@ mex_yu_tax,Yucatan carbon tax,tax,,,2022,,"CO2, CH4, N2O, HFCs, PFCs, SF6, NF3",
 mex_za_tax,Zacatecas carbon tax,tax,,,2017,,"CO2, CH4, N2O, HFCs, PFCs, SF6, NF3",,,
 mne_ets,Montenegro,ets,,,2022,,CO2,,,
 nld_tax,Netherlands carbon tax - industry,tax,Industry CO2 Tax Act,2021,2021,,"CO2, N2O",,,
-nld_tax_II,Netherlands minimum CO2 price - electricity,tax,Minimum CO2 Price Electricity Generation Act,2022,2022,,CO2,,,"The scheme applies to all emitters in the target sectors, regardless of annual emission levels. "
+nld_tax_II,Netherlands minimum CO2 price - electricity,tax,Minimum CO2 Price Electricity Generation Act,2022,2022,2022,CO2,,,"The scheme applies to all emitters in the target sectors, regardless of annual emission levels. "
 nor_tax,Norway carbon tax,tax,,,1991,,CO2,,,
 nor_tax_II,Norway carbon tax,tax,,,1991,,CO2,,,
 nzl_ets,New Zealand ETS,ets,,,2008,,"CO2, CH4, N2O, SF6, HFCs, PFCs",,ICAP,
