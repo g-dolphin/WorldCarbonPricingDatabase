@@ -1,4 +1,28 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
+alb_tax,2014,CO2,Benzinë,659.6475497073156,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2014,CO2,Gazoil,1115.690163871344,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2014,CO2,Koks nafte,946.7455621301777,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2014,CO2,Mazut,969.0891569777132,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2014,CO2,Oil,1115.690163871344,ALL,ALB-TAX-gov-001,text_parse; representative_fuel=Gazoil; method=representative_fuel
+alb_tax,2014,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2014,CO2,Solar,1115.690163871344,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2014,CO2,Vajgur,1115.690163871344,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2015,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2016,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2017,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2018,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2019,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2020,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2021,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2022,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2023,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2024,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2025,CO2,Qymyr,1229.1656423619647,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2026,CO2,Qymyr,609.5314555274401,ALL,ALB-TAX-gov-001,text_parse
+alb_tax,2026,CO2,Qymyr (NKM 2704),30.981709341726233,ALL,ALB-TAX-gov-001,manual
+alb_tax,2027,CO2,Qymyr (NKM 2704),82.1127550125824,ALL,ALB-TAX-gov-001,manual
+alb_tax,2028,CO2,Qymyr (NKM 2704),123.02851010526406,ALL,ALB-TAX-gov-001,manual
+alb_tax,2029,CO2,Qymyr (NKM 2704),174.38436761728877,ALL,ALB-TAX-gov-001,manual
 alb_tax,2024,CO2,Coal,1255,ALL,World Bank Carbon Pricing Dashboard 2024,
 alb_tax,2024,CO2,Natural gas,1255,ALL,World Bank Carbon Pricing Dashboard 2024,
 alb_tax,2024,CO2,Oil,1255,ALL,World Bank Carbon Pricing Dashboard 2024,

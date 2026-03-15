@@ -1,100 +1,102 @@
 scheme_id,year,ghg,product,rate,currency_code,source,comment
 nor_tax_II,1991,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,1991,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,1991,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,1992,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,1991,CO2,Oil,225.5639,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,1991,CO2,Natural gas,256.4103,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,1992,CO2,Natural gas,341.8803,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,1992,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,1992,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,1993,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,1993,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,1992,CO2,Oil,300.7519,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,1993,CO2,Oil,300.7519,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,1993,CO2,Natural gas,341.8803,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,1993,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,1994,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,1994,CO2,Oil,308.2707,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,1994,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,1994,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,1995,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,1994,CO2,Natural gas,350.4274,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,1995,CO2,Oil,312.0301,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,1995,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,1995,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,1996,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,1996,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,1995,CO2,Natural gas,354.7009,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,1996,CO2,Natural gas,363.2479000000001,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,1996,CO2,Oil,319.5489,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,1996,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,1997,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,1997,CO2,Oil,327.0677,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,1997,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,1997,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,1997,CO2,Natural gas,371.7949,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,1998,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,1998,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,1998,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,1999,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,1999,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,1998,CO2,Natural gas,380.3419,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,1998,CO2,Oil,334.5865,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,1999,CO2,Oil,334.5865,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,1999,CO2,Natural gas,380.3419,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,1999,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2000,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2000,CO2,Oil,263.1579,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2000,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2000,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2001,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,2000,CO2,Natural gas,299.1453,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2001,CO2,Natural gas,307.6923,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,2001,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2001,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2001,CO2,Oil,270.6767,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2002,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2002,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2002,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2002,CO2,Natural gas,311.9658,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2002,CO2,Oil,274.4361,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2003,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2003,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2003,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2003,CO2,Natural gas,320.5128,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2003,CO2,Oil,281.9549,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2004,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2004,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2004,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,2005,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2004,CO2,Natural gas,324.7863,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2004,CO2,Oil,285.7143,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2005,CO2,Oil,293.2331,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2005,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2005,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2006,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2005,CO2,Natural gas,333.3333,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2006,CO2,Oil,296.9925,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2006,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2006,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2007,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,2007,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,2006,CO2,Natural gas,337.6068,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2007,CO2,Oil,300.7519,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2007,CO2,Natural gas,341.8803,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,2007,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2008,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,2008,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,2008,CO2,Oil,169.1729,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2008,CO2,Natural gas,192.3077,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,2008,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2009,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2009,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2009,CO2,Natural gas,196.58119999999997,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2009,CO2,Oil,172.9323,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2009,,Coal,,NOK,leg(NOR[1990]),
 nor_tax_II,2010,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2010,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2010,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,2011,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2010,CO2,Natural gas,200.8547,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2010,CO2,Oil,176.6917,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2011,CO2,Oil,180.45109999999997,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2011,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2011,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2012,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2011,CO2,Natural gas,205.12819999999996,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2012,CO2,Oil,184.2105,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2012,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2012,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2013,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,2012,CO2,Natural gas,209.4017,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2013,CO2,Natural gas,410.2563999999999,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,2013,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2013,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,2014,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,2014,,Natural gas,,NOK,leg(NOR[1990]),
+nor_tax_II,2013,CO2,Oil,360.9023,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2014,CO2,Oil,368.4211,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2014,CO2,Natural gas,418.8034,NOK,leg(NOR[1990]),lovdata_rates
 nor_tax_II,2014,,Coal,,NOK,leg(NOR[1990]),
 nor_tax_II,2015,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2015,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2015,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,2016,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2016,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2015,CO2,Natural gas,427.3503999999999,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2015,CO2,Oil,375.9398,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2016,CO2,Natural gas,435.8974,NOK,leg(NOR[1990]),lovdata_rates
+nor_tax_II,2016,CO2,Oil,383.4586000000001,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2016,,Coal,,NOK,leg(NOR[1990]),
 nor_tax_II,2017,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2017,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2017,,Oil,,NOK,leg(NOR[1990]),
-nor_tax_II,2018,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2018,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2017,CO2,Natural gas,3059.8291,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Natural gas vented; method=representative_fuel
+nor_tax_II,2017,CO2,Oil,390.9774,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2018,CO2,Natural gas,3119.6581,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Natural gas vented; method=representative_fuel
+nor_tax_II,2018,CO2,Oil,398.49619999999993,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2018,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2019,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2019,CO2,Oil,406.015,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2019,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2019,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2020,,Natural gas,,NOK,leg(NOR[1990]),
-nor_tax_II,2020,,Oil,,NOK,leg(NOR[1990]),
+nor_tax_II,2019,CO2,Natural gas,3166.6667,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Natural gas vented; method=representative_fuel
+nor_tax_II,2020,CO2,Natural gas,3388.8889000000004,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Natural gas vented; method=representative_fuel
+nor_tax_II,2020,CO2,Oil,432.3308,NOK,leg(NOR[1990]),lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2020,,Coal,,NOK,leg(NOR[1990]),
-nor_tax_II,2021,,Natural gas,,NOK,,
+nor_tax_II,2021,CO2,Natural gas,3743.5897,NOK,,lovdata_rates; representative_fuel=Natural gas vented; method=representative_fuel
 nor_tax_II,2021,,Coal,,NOK,,
-nor_tax_II,2021,,Oil,,NOK,,
-nor_tax_II,2023,,Oil,,NOK,,
+nor_tax_II,2021,CO2,Oil,477.44359999999995,NOK,,lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2023,CO2,Oil,763.1579,NOK,,lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
 nor_tax_II,2023,,Coal,,NOK,,
-nor_tax_II,2023,,Natural gas,,NOK,,
+nor_tax_II,2023,CO2,Natural gas,5841.8803,NOK,,lovdata_rates; representative_fuel=Natural gas vented; method=representative_fuel
 nor_tax_II,2024,,Coal,,NOK,,
-nor_tax_II,2024,,Oil,,NOK,,
-nor_tax_II,2024,,Natural gas,,NOK,,
+nor_tax_II,2024,CO2,Oil,789.4737,NOK,,lovdata_rates; representative_fuel=Oil/condensate; method=representative_fuel
+nor_tax_II,2024,CO2,Natural gas,7217.9487,NOK,,lovdata_rates; representative_fuel=Natural gas vented; method=representative_fuel
+nor_tax_II,2025,CO2,Natural gas,944.4444,NOK,,lovdata_rates; representative_fuel=Natural gas (fuel combustion); method=representative_fuel
+nor_tax_II,2025,CO2,Oil,944.4444,NOK,,lovdata_rates; representative_fuel=Petroleum flared; method=representative_fuel
