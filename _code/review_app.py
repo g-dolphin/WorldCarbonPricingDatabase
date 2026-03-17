@@ -26,19 +26,22 @@ from streamlit.components.v1 import html as st_html
 # Paths / constants
 # -------------------------------------------------------------------
 
-RAW_ROOT = Path("_raw/_sources")
+APP_ROOT = Path(__file__).resolve().parent
+REPO_ROOT = APP_ROOT.parent
+
+RAW_ROOT = REPO_ROOT / "_raw" / "_sources"
 CAND_PATH = RAW_ROOT / "cp_candidates.csv"
 REVIEW_PATH = RAW_ROOT / "cp_review_state.csv"
 DISCOVERY_PATH = RAW_ROOT / "discovery_candidates.csv"
 DISCOVERY_REVIEW_PATH = RAW_ROOT / "discovery_review_state.csv"
 SOURCES_PATH = RAW_ROOT / "sources.csv"  # or sources_master.csv later
-SCHEME_PATH = Path("_raw/_aux_files/scheme_description.csv")
-RAW_DB_ROOT = Path("_raw")
+SCHEME_PATH = REPO_ROOT / "_raw" / "_aux_files" / "scheme_description.csv"
+RAW_DB_ROOT = REPO_ROOT / "_raw"
 RAW_PRICE_DIR = RAW_DB_ROOT / "price"
 RAW_SCOPE_DIR = RAW_DB_ROOT / "scope"
 RAW_REBATES_DIR = RAW_DB_ROOT / "priceRebates" / "tax"
 RAW_PREPROC_DIR = RAW_PRICE_DIR / "_preproc"
-ANNUAL_UPDATE_PATH = Path("_code/_preprocessing/annual_update.py")
+ANNUAL_UPDATE_PATH = REPO_ROOT / "_code" / "_preprocessing" / "annual_update.py"
 RATE_CHANGES_PATH = RAW_PREPROC_DIR / "rate_changes.csv"
 ANNUAL_RATES_PATH = RAW_PREPROC_DIR / "annual_rates.csv"
 RAW_STRUCTURE_DIR = RAW_DB_ROOT / "_aux_files" / "wcpd_structure"
@@ -47,9 +50,10 @@ ECP_IPCC_MAP_PATH = Path(
     "/Users/geoffroydolphin/GitHub/ECP/_raw/_aux_files/ipcc2006_iea_category_codes.csv"
 )
 JURIS_GROUPS_PATH = RAW_DB_ROOT / "_aux_files" / "jurisdiction_groups.json"
-DATASET_ROOT = Path("_dataset/data")
-ETS_PRICE_UTIL_PATH = Path("_code/_compilation/_utils/ets_prices.py")
-TAX_RATE_UTIL_PATH = Path("_code/_compilation/_utils/tax_rate_pro_rata.py")
+DATASET_ROOT = REPO_ROOT / "_dataset" / "data"
+DATASET_QA_ROOT = REPO_ROOT / "_dataset" / "qa"
+ETS_PRICE_UTIL_PATH = REPO_ROOT / "_code" / "_compilation" / "_utils" / "ets_prices.py"
+TAX_RATE_UTIL_PATH = REPO_ROOT / "_code" / "_compilation" / "_utils" / "tax_rate_pro_rata.py"
 
 GAS_OPTIONS = {
     "CO2": "CO2",
@@ -1197,7 +1201,7 @@ def _render_next_actions() -> None:
 
 @st.cache_data
 def load_jurisdiction_options() -> list[str]:
-    path = Path("_code/_compilation/_utils/jurisdictions.json")
+    path = REPO_ROOT / "_code" / "_compilation" / "_utils" / "jurisdictions.json"
     if not path.exists():
         return []
     try:
@@ -1550,7 +1554,7 @@ def _render_pending_changes_panel() -> None:
     rebate_canonicals = _collect_timestamped_canonicals(RAW_REBATES_DIR)
 
     coverage_canonicals = []
-    coverage_dir = Path("_code/_compilation/_preprocessing")
+    coverage_dir = REPO_ROOT / "_code" / "_compilation" / "_preprocessing"
     coverage_path = coverage_dir / "_coverageFactors.py"
     if coverage_path.exists():
         pattern = f"{coverage_path.stem}_*.py"
@@ -4793,6 +4797,63 @@ def gap_dashboard_view() -> None:
         st.success("No final dataset gaps detected for the selected gas/year.")
 
 
+def dataset_qa_view() -> None:
+    st.title("WCPD – Dataset QA")
+    st.caption("Reads the latest post-build QA report from _dataset/qa.")
+    gas_label = st.selectbox("Gas", options=list(GAS_OPTIONS.keys()), index=0, key="qa_gas")
+    latest_dir = DATASET_QA_ROOT / gas_label / "latest"
+    summary_path = latest_dir / "summary.json"
+    odd_entries_path = latest_dir / "odd_entries.csv"
+    significant_changes_path = latest_dir / "significant_changes.csv"
+
+    if not summary_path.exists():
+        st.info(
+            "No QA report found for this gas. Run the dataset build/write step to generate one."
+        )
+        return
+
+    try:
+        summary = json.loads(summary_path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        st.error(f"Failed to read QA summary: {exc}")
+        return
+
+    cols = st.columns(4)
+    cols[0].metric("Rows scanned", summary.get("row_count", 0))
+    cols[1].metric("Odd entries", summary.get("odd_entry_count", 0))
+    cols[2].metric("Significant changes", summary.get("significant_change_count", 0))
+    cols[3].metric("Price threshold", f"{summary.get('price_change_threshold', 0):.0%}")
+
+    st.caption(
+        f"Generated: {summary.get('generated_at', '')} | Baseline: {summary.get('baseline_dir', '') or 'none'}"
+    )
+
+    odd_entries = pd.DataFrame()
+    significant_changes = pd.DataFrame()
+    if odd_entries_path.exists():
+        try:
+            odd_entries = pd.read_csv(odd_entries_path, dtype=str)
+        except Exception as exc:
+            st.error(f"Failed to read odd entries report: {exc}")
+    if significant_changes_path.exists():
+        try:
+            significant_changes = pd.read_csv(significant_changes_path, dtype=str)
+        except Exception as exc:
+            st.error(f"Failed to read significant changes report: {exc}")
+
+    st.subheader("Odd entries")
+    if odd_entries.empty:
+        st.success("No odd entries flagged in the latest report.")
+    else:
+        st.dataframe(odd_entries, height=320)
+
+    st.subheader("Significant changes")
+    if significant_changes.empty:
+        st.success("No significant changes flagged against the baseline.")
+    else:
+        st.dataframe(significant_changes, height=320)
+
+
 def raw_editor_view(reviewer: str) -> None:
     st.title("WCPD – Raw Editor")
     st.caption(
@@ -5117,10 +5178,14 @@ def annual_update_view() -> None:
             st.caption("Run preview to see diff before writing.")
 
     if do_tax:
-        tax_changes_path = Path("_raw/_preproc/_preproc_tax/out") / "scope_changes_last3y_tax.csv"
+        tax_changes_path = (
+            REPO_ROOT / "_raw" / "_preproc" / "_preproc_tax" / "out" / "scope_changes_last3y_tax.csv"
+        )
         _render_scope_changes_selector("Tax scope changes", tax_changes_path, "tax")
     if do_ets:
-        ets_changes_path = Path("_raw/_preproc/_preproc_ets/out") / "scope_changes_last3y_ets.csv"
+        ets_changes_path = (
+            REPO_ROOT / "_raw" / "_preproc" / "_preproc_ets" / "out" / "scope_changes_last3y_ets.csv"
+        )
         _render_scope_changes_selector("ETS scope changes", ets_changes_path, "ets")
 
 
@@ -5187,6 +5252,7 @@ digraph WCPD {
         options=[
             "Scheme intake",
             "Gap dashboard",
+            "Dataset QA",
             "Manage sources",
             "Review candidates",
             "Annual update",
@@ -5206,6 +5272,8 @@ digraph WCPD {
         source_manager_view()
     elif view == "Gap dashboard":
         gap_dashboard_view()
+    elif view == "Dataset QA":
+        dataset_qa_view()
     elif view == "Annual update":
         annual_update_view()
     else:
