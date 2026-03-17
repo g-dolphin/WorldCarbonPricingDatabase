@@ -1,40 +1,96 @@
+from __future__ import annotations
+
 import os
+from pathlib import Path
 
-#----------------------------- Helper Functions -----------------------------#
+try:
+    from _code._compilation import dataset_qa
+    from _code._compilation import db_build as build
+except ImportError:
+    import dataset_qa  # type: ignore
+    import db_build as build  # type: ignore
 
-def standardize_name(name):
+
+def standardize_name(name: str) -> str:
     return name.replace(".", "").replace(",", "").replace(" ", "_")
 
-def save_jurisdiction_files(df, jurisdictions, std_names, gas, level, base_dir):
+
+def save_jurisdiction_files(
+    df, jurisdictions, std_names, gas: str, level: str, base_dir: Path
+) -> None:
     for jur, std_name in zip(jurisdictions, std_names):
         subset = df[df.jurisdiction == jur]
         filename = f"wcpd_{gas.lower()}_{std_name}.csv"
-        out_path = os.path.join(base_dir, gas, level, filename)
-        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        out_path = Path(base_dir) / gas / level / filename
+        out_path.parent.mkdir(parents=True, exist_ok=True)
         subset.to_csv(out_path, index=False)
 
-#------------------------------- File Writing -------------------------------#
+
+ROOT_DIR = Path(build.ROOT_DIR)
+RAW_DIR = Path(build.RAW_DIR)
+DATASET_DATA_DIR = ROOT_DIR / "_dataset" / "data"
+DATASET_SOURCES_DIR = ROOT_DIR / "_dataset" / "sources"
+DATASET_QA_DIR = ROOT_DIR / "_dataset" / "qa"
+GAS = build.GAS
 
 # Standardized names
-std_country_names = [standardize_name(x) for x in ctries]
-std_subnat_names = [standardize_name(x) for x in subnats]
+std_country_names = [standardize_name(x) for x in build.ctries]
+std_subnat_names = [standardize_name(x) for x in build.subnats]
+
+# Snapshot current gas outputs before overwriting them so QA can compare builds.
+baseline_dir = dataset_qa.create_dataset_snapshot(DATASET_DATA_DIR, GAS, DATASET_QA_DIR)
 
 # Save national and subnational data files
-save_jurisdiction_files(wcpd_all_jur, ctries, std_country_names, GAS, "national", "_dataset/data")
-save_jurisdiction_files(wcpd_all_jur, subnats, std_subnat_names, GAS, "subnational", "_dataset/data")
-save_jurisdiction_files(wcpd_all_jur_sources, ctries, std_country_names, GAS, "national", "_dataset/sources")
-save_jurisdiction_files(wcpd_all_jur_sources, subnats, std_subnat_names, GAS, "subnational", "_dataset/sources")
+save_jurisdiction_files(
+    build.wcpd_all_jur, build.ctries, std_country_names, GAS, "national", DATASET_DATA_DIR
+)
+save_jurisdiction_files(
+    build.wcpd_all_jur,
+    build.subnats,
+    std_subnat_names,
+    GAS,
+    "subnational",
+    DATASET_DATA_DIR,
+)
+save_jurisdiction_files(
+    build.wcpd_all_jur_sources,
+    build.ctries,
+    std_country_names,
+    GAS,
+    "national",
+    DATASET_SOURCES_DIR,
+)
+save_jurisdiction_files(
+    build.wcpd_all_jur_sources,
+    build.subnats,
+    std_subnat_names,
+    GAS,
+    "subnational",
+    DATASET_SOURCES_DIR,
+)
 
-#---------------------------- Coverage Factors -----------------------------#
+# Coverage factors
+coverage_dir = RAW_DIR / "coverageFactor"
+coverage_dir.mkdir(parents=True, exist_ok=True)
+for scheme in build.taxes_1_list + build.ets_1_list:
+    build.cf[build.cf.scheme_id == scheme].to_csv(coverage_dir / f"{scheme}_cf.csv", index=False)
 
-coverage_dir = RAW_DIR / "_raw/coverageFactor"
-os.makedirs(coverage_dir, exist_ok=True)
+# Scheme overlap
+overlap_dir = RAW_DIR / "overlap"
+overlap_dir.mkdir(parents=True, exist_ok=True)
+overlap_path = overlap_dir / f"overlap_{GAS}.csv"
+build.overlap.to_csv(overlap_path, index=False)
 
-for scheme in taxes_1_list + ets_1_list:# + ets_2_list:
-    cf[cf.scheme_id == scheme].to_csv(os.path.join(coverage_dir, f"{scheme}_cf.csv"), index=False)
-
-#---------------------------- Scheme Overlap -------------------------------#
-
-overlap_path = RAW_DIR / "_raw/overlap/overlap_CO2.csv"
-os.makedirs(os.path.dirname(overlap_path), exist_ok=True)
-overlap.to_csv(overlap_path, index=False)
+# Dataset QA
+qa_summary = dataset_qa.run_postprocess_qa(
+    dataset_root=DATASET_DATA_DIR,
+    qa_root=DATASET_QA_DIR,
+    gas=GAS,
+    baseline_dir=baseline_dir,
+    price_change_threshold=0.05,
+)
+print(
+    "Dataset QA complete:",
+    f"odd_entries={qa_summary['odd_entry_count']}",
+    f"significant_changes={qa_summary['significant_change_count']}",
+)
