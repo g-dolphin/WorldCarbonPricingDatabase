@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+from datetime import datetime
 from pathlib import Path
 
 try:
@@ -28,8 +29,12 @@ def save_jurisdiction_files(
 
 ROOT_DIR = Path(build.ROOT_DIR)
 RAW_DIR = Path(build.RAW_DIR)
-DATASET_DATA_DIR = ROOT_DIR / "_dataset" / "data"
-DATASET_SOURCES_DIR = ROOT_DIR / "_dataset" / "sources"
+DATASET_VERSION = os.environ.get(
+    "WCPD_DATASET_VERSION",
+    f"v{datetime.now().year}.1",
+)
+DATASET_DATA_DIR = ROOT_DIR / "_dataset" / "data" / DATASET_VERSION
+DATASET_SOURCES_DIR = ROOT_DIR / "_dataset" / "sources" / DATASET_VERSION
 DATASET_QA_DIR = ROOT_DIR / "_dataset" / "qa"
 GAS = build.GAS
 BUILD_RESULT = build.build(GAS)
@@ -78,7 +83,12 @@ save_jurisdiction_files(
 # Coverage factors
 coverage_dir = RAW_DIR / "coverageFactor"
 coverage_dir.mkdir(parents=True, exist_ok=True)
-for scheme in BUILD_RESULT["taxes_1_list"] + BUILD_RESULT["ets_1_list"]:
+for scheme in (
+    BUILD_RESULT["taxes_1_list"]
+    + BUILD_RESULT["tax_2_list"]
+    + BUILD_RESULT["ets_1_list"]
+    + BUILD_RESULT["ets_2_list"]
+):
     BUILD_RESULT["cf"][BUILD_RESULT["cf"].scheme_id == scheme].to_csv(
         coverage_dir / f"{scheme}_cf.csv", index=False
     )
@@ -102,6 +112,7 @@ qa_summary = dataset_qa.run_postprocess_qa(
 )
 print(
     "Dataset QA complete:",
+    f"version={DATASET_VERSION}",
     f"odd_entries={qa_summary['odd_entry_count']}",
     f"significant_changes={qa_summary['significant_change_count']}",
 )

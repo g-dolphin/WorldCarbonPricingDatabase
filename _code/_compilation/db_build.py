@@ -158,6 +158,59 @@ def scope_block(scope_config, primary_key, *aliases):
     return {}
 
 
+def apply_ets_scope_exceptions(ets_scope_data, ets_scope_sources, gas: str):
+    exceptions_module = load_module(
+        "ets_scope_exceptions",
+        RAW_DIR / "scope/ets/ets_scope_exceptions.py",
+    )
+    records = getattr(exceptions_module, "ETS_SCOPE_EXCEPTIONS", [])
+    gas = gas.upper()
+
+    for record in records:
+        record_gas = str(record.get("gas", "")).upper()
+        if record_gas and record_gas != gas:
+            continue
+
+        scheme_id = record.get("scheme_id")
+        if scheme_id not in ets_scope_data:
+            continue
+
+        year_from = int(record["year_from"])
+        year_to = int(record["year_to"])
+        jurisdictions_to_add = list(record.get("jurisdictions", []))
+        add_sectors = list(record.get("add_sectors", []))
+        remove_sectors = set(record.get("remove_sectors", []))
+        source_suffix = record.get("source")
+
+        scheme_data = ets_scope_data[scheme_id]
+        scheme_jurisdictions = scope_block(scheme_data, "jurisdictions")
+        scheme_sectors = scope_block(scheme_data, "sectors")
+
+        for year in range(year_from, year_to + 1):
+            year_jurisdictions = list(scheme_jurisdictions.get(year, []))
+            for jurisdiction in jurisdictions_to_add:
+                if jurisdiction not in year_jurisdictions:
+                    year_jurisdictions.append(jurisdiction)
+            scheme_jurisdictions[year] = year_jurisdictions
+
+            year_sectors = list(scheme_sectors.get(year, []))
+            for sector in add_sectors:
+                if sector not in year_sectors:
+                    year_sectors.append(sector)
+            if remove_sectors:
+                year_sectors = [sector for sector in year_sectors if sector not in remove_sectors]
+            scheme_sectors[year] = year_sectors
+
+            if source_suffix:
+                base_source = year_source(ets_scope_sources, scheme_id, year)
+                ets_scope_sources.setdefault(scheme_id, {})
+                ets_scope_sources[scheme_id][year] = (
+                    source_suffix if base_source == "NA" else f"{base_source}; {source_suffix}"
+                )
+
+    return ets_scope_data, ets_scope_sources
+
+
 def run_tax_exemptions(gas: str, wcpd_all_jur: pd.DataFrame, wcpd_all_jur_sources: pd.DataFrame):
     rebate_module = load_module(
         f"tax_rebates_{gas}",
@@ -281,6 +334,10 @@ def build(gas: str = DEFAULT_GAS, verbose: bool = False):
         "coverage_factors",
         ROOT_DIR / "_code/_compilation/_preprocessing/_coverageFactors.py",
     )
+    overlap_module = load_module(
+        "overlap",
+        ROOT_DIR / "_code/_compilation/_preprocessing/_overlap.py",
+    )
 
     wcpd_structure = load_structure(gas)
     ctries = jurisdictions_module.jurisdictions["countries"]
@@ -309,6 +366,9 @@ def build(gas: str = DEFAULT_GAS, verbose: bool = False):
 
     ets_scope = ets_scope_module.scope()
     ets_scope_data, ets_scope_sources = ets_scope["data"], ets_scope["sources"]
+    ets_scope_data, ets_scope_sources = apply_ets_scope_exceptions(
+        ets_scope_data, ets_scope_sources, gas
+    )
     taxes_scope = tax_scope_module.scope()
     taxes_scope_data, taxes_scope_sources = taxes_scope["data"], taxes_scope["sources"]
 
@@ -440,30 +500,36 @@ def build(gas: str = DEFAULT_GAS, verbose: bool = False):
         ets_1_list = list(ets_scope_data.keys())
         if "usa_ma_ets" in ets_1_list:
             ets_1_list.remove("usa_ma_ets")
+        ets_2_list = ["usa_ma_ets"]
         taxes_1_list = list(taxes_scope_data.keys())
+        tax_2_list = []
 
         ets_db_values(ets_1_list, "scheme_1")
         tax_db_values(taxes_1_list, "scheme_1")
-        ets_db_values(["usa_ma_ets"], "scheme_2")
-        tax_db_values([], "scheme_2")
+        ets_db_values(ets_2_list, "scheme_2")
+        tax_db_values(tax_2_list, "scheme_2")
     elif gas == "N2O":
         ets_1_list = list(ets_scope_data.keys())
+        ets_2_list = []
         taxes_1_list = list(taxes_scope_data.keys())
         if "nld_tax_II" in taxes_1_list:
             taxes_1_list.remove("nld_tax_II")
+        tax_2_list = ["nld_tax_II"]
 
         ets_db_values(ets_1_list, "scheme_1")
         tax_db_values(taxes_1_list, "scheme_1")
-        ets_db_values([], "scheme_2")
-        tax_db_values(["nld_tax_II"], "scheme_2")
+        ets_db_values(ets_2_list, "scheme_2")
+        tax_db_values(tax_2_list, "scheme_2")
     else:
         ets_1_list = list(ets_scope_data.keys())
+        ets_2_list = []
         taxes_1_list = list(taxes_scope_data.keys())
+        tax_2_list = []
 
         ets_db_values(ets_1_list, "scheme_1")
         tax_db_values(taxes_1_list, "scheme_1")
-        ets_db_values([], "scheme_2")
-        tax_db_values([], "scheme_2")
+        ets_db_values(ets_2_list, "scheme_2")
+        tax_db_values(tax_2_list, "scheme_2")
 
     run_tax_exemptions(gas, wcpd_all_jur, wcpd_all_jur_sources)
     wcpd_all_jur, wcpd_all_jur_sources = finalize_output(wcpd_all_jur, wcpd_all_jur_sources)
@@ -472,10 +538,16 @@ def build(gas: str = DEFAULT_GAS, verbose: bool = False):
         gas=gas,
         wcpd_all_jur=wcpd_all_jur,
         raw_dir=RAW_DIR,
-        taxes_1_list=taxes_1_list,
+        taxes_1_list=taxes_1_list + tax_2_list,
         taxes_scope_data=taxes_scope_data,
-        ets_1_list=ets_1_list,
+        ets_1_list=ets_1_list + ets_2_list,
         ets_scope_data=ets_scope_data,
+    )
+    overlap = overlap_module.compute_overlap(
+        wcpd_all_jur=wcpd_all_jur,
+        gas=gas,
+        raw_dir=RAW_DIR,
+        coverage_factors=cf,
     )
 
     validate_output(wcpd_all_jur)
@@ -487,8 +559,11 @@ def build(gas: str = DEFAULT_GAS, verbose: bool = False):
         "wcpd_all_jur": wcpd_all_jur,
         "wcpd_all_jur_sources": wcpd_all_jur_sources,
         "taxes_1_list": taxes_1_list,
+        "tax_2_list": tax_2_list,
         "ets_1_list": ets_1_list,
+        "ets_2_list": ets_2_list,
         "cf": cf,
+        "overlap": overlap,
     }
 
 
