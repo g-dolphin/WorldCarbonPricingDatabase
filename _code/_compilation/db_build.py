@@ -1,86 +1,137 @@
-import os
-import pandas as pd
-import numpy as np
+import argparse
 import logging
-from pathlib import Path
+import os
 from importlib.machinery import SourceFileLoader
+from pathlib import Path
 
-#----------------------------- Setup -----------------------------#
-def find_project_root(markers=("pyproject.toml","setup.cfg","requirements.txt",".git",".project-root")):
+import numpy as np
+import pandas as pd
+
+
+def find_project_root(
+    markers=("pyproject.toml", "setup.cfg", "requirements.txt", ".git", ".project-root")
+):
     p = Path.cwd().resolve()
     for parent in (p, *p.parents):
-        if any((parent / m).exists() for m in markers):
+        if any((parent / marker).exists() for marker in markers):
             return parent
     return p
 
-# Constants
-GAS = "CH4"  # Change to CO2 / CH4 / F-GASES / SF6 as needed
+
 ROOT_DIR = find_project_root()
 CODE_DIR = ROOT_DIR / "_code/_compilation/_utils"
 RAW_DIR = ROOT_DIR / "_raw"
-WCPD_STRUCTURE_PATH = "_raw/_aux_files/wcpd_structure/wcpd_structure_CO2.csv"
+DEFAULT_GAS = os.environ.get("WCPD_GAS", "CO2").upper()
+GAS = DEFAULT_GAS
 
-# ---------------- Utilities ----------------
+OUTPUT_COLUMNS = [
+    "tax",
+    "ets",
+    "ets_2",
+    "tax_2",
+    "tax_id",
+    "tax_2_id",
+    "ets_id",
+    "ets_2_id",
+    "tax_rate_excl_ex_clcu",
+    "tax_2_rate_excl_ex_clcu",
+    "tax_curr_code",
+    "tax_2_curr_code",
+    "tax_ex_rate",
+    "tax_rate_incl_ex_clcu",
+    "ets_price",
+    "ets_curr_code",
+    "ets_2_price",
+    "ets_2_curr_code",
+]
+
+SOURCE_COLUMNS = [
+    "tax",
+    "ets",
+    "ets_2",
+    "tax_2",
+    "tax_rate_excl_ex_clcu",
+    "tax_2_rate_excl_ex_clcu",
+    "tax_ex_rate",
+    "ets_price",
+    "ets_2_price",
+]
+
+FINAL_COLUMNS = [
+    "jurisdiction",
+    "year",
+    "ipcc_code",
+    "Product",
+    "tax",
+    "ets",
+    "tax_id",
+    "tax_rate_excl_ex_clcu",
+    "tax_ex_rate",
+    "tax_rate_incl_ex_clcu",
+    "tax_curr_code",
+    "ets_id",
+    "ets_price",
+    "ets_curr_code",
+    "ets_2_id",
+    "ets_2_price",
+    "ets_2_curr_code",
+]
+
+FINAL_SOURCE_COLUMNS = [
+    "jurisdiction",
+    "year",
+    "ipcc_code",
+    "Product",
+    "tax",
+    "ets",
+    "tax_rate_excl_ex_clcu",
+    "tax_ex_rate",
+    "ets_price",
+    "ets_2_price",
+]
+
 
 def load_module(name, relative_path):
-    path = os.path.join(ROOT_DIR, relative_path)
-    if not os.path.exists(path):
-        logging.error(f"Module not found: {path}")
+    path = Path(relative_path)
+    if not path.is_absolute():
+        path = ROOT_DIR / path
+    if not path.exists():
+        logging.error("Module not found: %s", path)
         raise FileNotFoundError(path)
-    return SourceFileLoader(name, path).load_module()
+    return SourceFileLoader(name, str(path)).load_module()
 
-def load_structure() -> pd.DataFrame:
-    path = WCPD_STRUCTURE_PATH
-    full_path = os.path.join(ROOT_DIR, path)
-    return pd.read_csv(full_path)
 
-def create_jurisdiction_frame(wcpd_structure: pd.DataFrame, jurisdictions: list) -> pd.DataFrame:
+def structure_path_for_gas(gas: str) -> Path:
+    suffix = "CO2" if gas == "CO2" else "nonCO2"
+    return RAW_DIR / "_aux_files" / "wcpd_structure" / f"wcpd_structure_{suffix}.csv"
+
+
+def load_structure(gas: str) -> pd.DataFrame:
+    return pd.read_csv(structure_path_for_gas(gas))
+
+
+def create_jurisdiction_frame(wcpd_structure: pd.DataFrame, jurisdictions: list[str]) -> pd.DataFrame:
     records = []
-    for jur in jurisdictions:
+    for jurisdiction in jurisdictions:
         temp = wcpd_structure.copy()
-        temp["jurisdiction"] = jur
+        temp["jurisdiction"] = jurisdiction
         records.append(temp)
-    return pd.concat(records, axis=0)
-# ---------------- Main Logic ----------------
+    return pd.concat(records, axis=0, ignore_index=True)
 
-logging.info(f"Starting WCPD build for GHG: {GAS}")
 
-gen_func = load_module("general", "/Users/geoffroydolphin/GitHub/ECP/_code/compilation/_dependencies/dep_ecp/ecp_v3_gen_func.py")
-jurisdictions_module = load_module("jurisdictions", CODE_DIR / "jurisdictions.py")
-ets_prices_module = load_module("ets_prices", CODE_DIR / "ets_prices.py")
-tax_rates_module = load_module("tax_rates", CODE_DIR / "tax_rates.py")
-ets_scope_module = load_module("ets_scope", RAW_DIR / f"scope/ets/ets_scope_{GAS}.py")
-tax_scope_module = load_module("taxes_scope", RAW_DIR / f"scope/tax/taxes_scope_{GAS}.py")
+def initialize_columns(df: pd.DataFrame, columns: list[str]) -> pd.DataFrame:
+    for column in columns:
+        if column not in df.columns:
+            df[column] = pd.NA
+    return df
 
-#---------------------- Load WCPD Structure ----------------------#
 
-# Load structure and jurisdiction lists
-wcpd_structure = load_structure() # Note: the function currently loads the CO2 structure for all gases.
-ctries = jurisdictions_module.jurisdictions["countries"]
-subnats = jurisdictions_module.jurisdictions["subnationals"]["Canada"] + jurisdictions_module.jurisdictions["subnationals"]["China"] + jurisdictions_module.jurisdictions["subnationals"]["Japan"] + jurisdictions_module.jurisdictions["subnationals"]["United States"] + jurisdictions_module.jurisdictions["subnationals"]["Mexico"]
-all_jurisdictions = ctries + subnats
-
-# Build jurisdiction-level dataframe
-wcpd_all_jur = create_jurisdiction_frame(wcpd_structure, all_jurisdictions)
-wcpd_all_jur_sources = create_jurisdiction_frame(wcpd_structure, all_jurisdictions)
-
-logging.info(f"Constructed base data for {len(all_jurisdictions)} jurisdictions")
-
-#------------------- Load Price and Scope Data ------------------#
-
-ets_prices = ets_prices_module.load_ets_prices(RAW_DIR / "price")
-tax_rates = tax_rates_module.load_tax_rates(RAW_DIR / "price", gas=GAS)
-tax_rates.rename(columns={"product": "em_type"}, inplace=True)
-
-ets_scope = ets_scope_module.scope()
-ets_scope_data, ets_scope_sources = ets_scope["data"], ets_scope["sources"]
-taxes_scope = tax_scope_module.scope()
-taxes_scope_data, taxes_scope_sources = taxes_scope["data"], taxes_scope["sources"]
-
-#-------------------- Helper Functions --------------------#
-
-def assign_price_and_currency(df, selection, scheme_df, scheme, yr, columns, fuel=None, source_df=None):
-    row_sel = (scheme_df.scheme_id == scheme) & (scheme_df.year == yr) if any(x in scheme for x in ["ets", "obps", "cat", "rggi"]) else (scheme_df.scheme_id == scheme) & (scheme_df.year == yr) & (scheme_df.em_type==fuel)
+def assign_price_and_currency(df, selection, scheme_df, scheme, year, columns, fuel=None, source_df=None):
+    row_sel = (
+        (scheme_df.scheme_id == scheme) & (scheme_df.year == year)
+        if any(x in scheme for x in ["ets", "obps", "cat", "rggi"])
+        else (scheme_df.scheme_id == scheme) & (scheme_df.year == year) & (scheme_df.em_type == fuel)
+    )
     try:
         row = scheme_df.loc[row_sel].squeeze()
         price_col = "price" if any(x in scheme for x in ["ets", "obps", "cat", "rggi"]) else "rate"
@@ -89,225 +140,113 @@ def assign_price_and_currency(df, selection, scheme_df, scheme, yr, columns, fue
         if source_df is not None:
             source = f"{row['source']}; {row['comment']}"
             source_df.loc[selection, columns[price_col]] = source
-    except Exception as e:
-        print(f"{scheme} {yr}: {e}")
+    except Exception as exc:
+        print(f"{scheme} {year}: {exc}")
 
-def ets_db_values(schemes, scheme_no):
-    columns = {
-        "scheme_1": {"id": "ets_id", "binary": "ets", "price": "ets_price", "curr_code": "ets_curr_code"},
-        "scheme_2": {"id": "ets_2_id", "binary": "ets_2", "price": "ets_2_price", "curr_code": "ets_2_curr_code"}
-    }[scheme_no]
 
-    for scheme in schemes:
-        print(scheme)
-        print("Available years for scheme:", list(ets_scope_data[scheme]["jurisdictions"].keys()))
-        for yr in ets_scope_data[scheme]["jurisdictions"]:
-            print("Processing year:", yr)
-            selection = (
-                (wcpd_all_jur.year == yr) &
-                (wcpd_all_jur.jurisdiction.isin(ets_scope_data[scheme]["jurisdictions"][yr])) &
-                (wcpd_all_jur.ipcc_code.isin(ets_scope_data[scheme]["sectors"][yr]))
-            )
-            selection_src = (
-                (wcpd_all_jur_sources.year == yr) &
-                (wcpd_all_jur_sources.jurisdiction.isin(ets_scope_data[scheme]["jurisdictions"][yr])) &
-                (wcpd_all_jur_sources.ipcc_code.isin(ets_scope_data[scheme]["sectors"][yr]))
-            )
-            wcpd_all_jur.loc[selection, columns["binary"]] = 1
-            wcpd_all_jur.loc[selection, columns["id"]] = scheme
-            wcpd_all_jur_sources.loc[selection_src, columns["binary"]] = ets_scope_sources[scheme][yr]
-            assign_price_and_currency(wcpd_all_jur, selection, ets_prices, scheme, yr, columns, source_df=wcpd_all_jur_sources)
+def year_source(source_dict, scheme, year):
+    scheme_sources = source_dict.get(scheme, {})
+    if year in scheme_sources:
+        return scheme_sources[year]
+    return "NA"
 
-def tax_db_values(schemes, scheme_no):
-    columns = {
-        "scheme_1": {"id": "tax_id", "binary": "tax", "rate": "tax_rate_excl_ex_clcu", "curr_code": "tax_curr_code"},
-        "scheme_2": {"id": "tax_2_id", "binary": "tax_2", "rate": "tax_2_rate_excl_ex_clcu", "curr_code": "tax_2_curr_code"}
-    }[scheme_no]
 
-    for scheme in schemes:
-        print(scheme)
-        print("Available years for scheme:", list(taxes_scope_data[scheme]["jurisdictions"].keys()))
-        for yr in taxes_scope_data[scheme]["jurisdictions"]:
-            print("Processing year:", yr)
-            juris = taxes_scope_data[scheme]["jurisdictions"][yr]
-            sectors = taxes_scope_data[scheme]["sectors"][yr]
-            fuels = taxes_scope_data[scheme].get("fuels", {}).get(yr, [None])
+def scope_block(scope_config, primary_key, *aliases):
+    for key in (primary_key, *aliases):
+        if key in scope_config:
+            return scope_config[key]
+    return {}
 
-            # if GAS == "CO2":
-            for fuel in fuels:
-            #         sel = (
-            #             (wcpd_all_jur.year == yr) &
-            #             (wcpd_all_jur.jurisdiction.isin(juris)) &
-            #             (wcpd_all_jur.ipcc_code.isin(sectors)) &
-            #             (wcpd_all_jur.Product == fuel)
-            #         )
-            #         sel_src = (
-            #             (wcpd_all_jur_sources.year == yr) &
-            #             (wcpd_all_jur_sources.jurisdiction.isin(juris)) &
-            #             (wcpd_all_jur_sources.ipcc_code.isin(sectors)) &
-            #             (wcpd_all_jur_sources.Product == fuel)
-            #         )
-            #         wcpd_all_jur.loc[sel, columns["binary"]] = 1
-            #         wcpd_all_jur.loc[sel, columns["id"]] = scheme
-            #         wcpd_all_jur_sources.loc[sel_src, columns["binary"]] = taxes_scope_sources[scheme][yr]
-            #         assign_price_and_currency(wcpd_all_jur, sel, tax_rates, scheme, yr, columns, fuel, wcpd_all_jur_sources)
-            # else:
-                sel = (
-                        (wcpd_all_jur.year == yr) &
-                        (wcpd_all_jur.jurisdiction.isin(juris)) &
-                        (wcpd_all_jur.ipcc_code.isin(sectors))
-                    )
-                sel_src = (
-                        (wcpd_all_jur_sources.year == yr) &
-                        (wcpd_all_jur_sources.jurisdiction.isin(juris)) &
-                        (wcpd_all_jur_sources.ipcc_code.isin(sectors))
-                    )
-                wcpd_all_jur.loc[sel, columns["binary"]] = 1
-                wcpd_all_jur.loc[sel, columns["id"]] = scheme
-                wcpd_all_jur_sources.loc[sel_src, columns["binary"]] = taxes_scope_sources[scheme][yr]
-                assign_price_and_currency(wcpd_all_jur, sel, tax_rates, scheme, yr, columns, fuel, wcpd_all_jur_sources)
-                
-#-------------------- Execution Section --------------------#
 
-if GAS == "CO2":
-    ets_1_list = list(ets_scope_data.keys())
-    ets_1_list.remove("usa_ma_ets")
-    taxes_1_list = list(taxes_scope_data.keys())
-    
-    ets_db_values(ets_1_list, "scheme_1")
-    tax_db_values(taxes_1_list, "scheme_1")
-    ets_db_values(["usa_ma_ets"], "scheme_2")
-    tax_db_values([], "scheme_2")
-    
-if GAS == "N2O":
-    ets_1_list = list(ets_scope_data.keys())
-    taxes_1_list = list(taxes_scope_data.keys())
-    taxes_1_list.remove("nld_tax_II")
+def run_tax_exemptions(gas: str, wcpd_all_jur: pd.DataFrame, wcpd_all_jur_sources: pd.DataFrame):
+    rebate_module = load_module(
+        f"tax_rebates_{gas}",
+        RAW_DIR / f"priceRebates/tax/_price_exemptions_tax_{gas}.py",
+    )
 
-    ets_db_values(ets_1_list, "scheme_1")
-    tax_db_values(taxes_1_list, "scheme_1")
-    ets_db_values([], "scheme_2")
-    tax_db_values(["nld_tax_II"], "scheme_2")  # Special case for Netherlands tax II
-    
-else:
-    ets_1_list = list(ets_scope_data.keys())
-    taxes_1_list = list(taxes_scope_data.keys())
+    records = getattr(rebate_module, "tax_exemptions_records", None)
+    legacy = getattr(rebate_module, "tax_exemptions", None)
+    legacy_sources = getattr(rebate_module, "tax_exemptions_sources", None)
 
-    ets_db_values(ets_1_list, "scheme_1")
-    tax_db_values(taxes_1_list, "scheme_1")
-    ets_db_values([], "scheme_2")
-    tax_db_values([], "scheme_2")
-    
-#-------------------- Post-processing --------------------#
+    if records:
+        for rec in records:
+            year_from = rec.get("year_from")
+            year_to = rec.get("year_to")
+            if year_from is None or year_to is None:
+                continue
+            value_by_year = rec.get("value_by_year", {})
+            source_by_year = rec.get("source_by_year", {})
+            default_value = rec.get("value")
+            default_source = rec.get("source", "NA")
 
-# Blank cells filling
-wcpd_all_jur.loc[wcpd_all_jur.tax!=1, "tax"] = 0
-wcpd_all_jur.loc[wcpd_all_jur.ets!=1, "ets"] = 0
-
-# Prepare wcpd_all_jur frame for tax exemptions
-## Filling "tax_ex_rate" column with NaN if no tax scheme
-wcpd_all_jur.loc[wcpd_all_jur.tax != 1, "tax_ex_rate"] = np.nan
-wcpd_all_jur_sources.loc[wcpd_all_jur.tax != 1, "tax_ex_rate"] = np.nan
-#all_jur.loc[(all_jur.tax==1) & (all_jur.tax_ex_rate==""), :] #checking whether we've missed any exemptions
-
-wcpd_all_jur_sources.rename(columns={"tax_ex_rate_sources":"tax_ex_rate"}, inplace=True)
-
-## Set default non-"NA" values to 0
-wcpd_all_jur.loc[wcpd_all_jur.tax == 1, "tax_ex_rate"] = 0
-wcpd_all_jur_sources.loc[wcpd_all_jur.tax == 1, "tax_ex_rate"] = "NA"
-
-def tax_exemptions(GAS): 
-        ## Load tax exemptions
-        rebate_module = load_module("tax_rebates", RAW_DIR / f"priceRebates/tax/_price_exemptions_tax_{GAS}.py")
-
-        records = getattr(rebate_module, "tax_exemptions_records", None)
-        legacy = getattr(rebate_module, "tax_exemptions", None)
-        legacy_sources = getattr(rebate_module, "tax_exemptions_sources", None)
-
-        if records:
-            for rec in records:
-                year_from = rec.get("year_from")
-                year_to = rec.get("year_to")
-                if year_from is None or year_to is None:
+            for year in range(int(year_from), int(year_to) + 1):
+                value = value_by_year.get(year, default_value)
+                if value is None:
                     continue
-                value_by_year = rec.get("value_by_year", {})
-                source_by_year = rec.get("source_by_year", {})
-                default_value = rec.get("value")
-                default_source = rec.get("source", "NA")
+                source = source_by_year.get(year, default_source)
+                row_selection = (
+                    wcpd_all_jur.jurisdiction.isin(rec.get("jurisdiction", []))
+                    & (wcpd_all_jur.year == year)
+                    & (wcpd_all_jur.ipcc_code.isin(rec.get("ipcc", [])))
+                    & (wcpd_all_jur.Product.isin(rec.get("fuel", [])))
+                )
+                wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = value
+                wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = source
+    elif legacy and legacy != [""]:
+        for idx, exemption in enumerate(legacy):
+            for year in exemption["jurisdiction"].keys():
+                row_selection = (
+                    wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][year])
+                    & (wcpd_all_jur.year == year)
+                    & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][year]))
+                    & (wcpd_all_jur.Product.isin(exemption["fuel"][year]))
+                )
+                wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][year]
+                if legacy_sources:
+                    wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = legacy_sources[idx][year]
 
-                for yr in range(int(year_from), int(year_to) + 1):
-                    value = value_by_year.get(yr, default_value)
-                    if value is None:
-                        continue
-                    source = source_by_year.get(yr, default_source)
-                    row_selection = (
-                        wcpd_all_jur.jurisdiction.isin(rec.get("jurisdiction", []))
-                        & (wcpd_all_jur.year == yr)
-                        & (wcpd_all_jur.ipcc_code.isin(rec.get("ipcc", [])))
-                        & (wcpd_all_jur.Product.isin(rec.get("fuel", [])))
-                    )
-                    wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = value
-                    wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = source
+    wcpd_all_jur["tax_rate_incl_ex_clcu"] = (
+        wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
+    )
 
-            # Calculate tax rate including rebate
-            wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
 
-        elif legacy and legacy != [""]:
-            i = 0
-            for exemption in legacy:
-                for yr in exemption["jurisdiction"].keys():
-                    row_selection = (wcpd_all_jur.jurisdiction.isin(exemption["jurisdiction"][yr])) & (wcpd_all_jur.year==yr) & (wcpd_all_jur.ipcc_code.isin(exemption["ipcc"][yr])) & (wcpd_all_jur.Product.isin(exemption["fuel"][yr]))
-                    wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = exemption["value"][yr]
-                    if legacy_sources:
-                        wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = legacy_sources[i][yr]
+def finalize_output(wcpd_all_jur: pd.DataFrame, wcpd_all_jur_sources: pd.DataFrame):
+    wcpd_all_jur.loc[wcpd_all_jur.tax != 1, "tax"] = 0
+    wcpd_all_jur.loc[wcpd_all_jur.ets != 1, "ets"] = 0
+    wcpd_all_jur.loc[wcpd_all_jur.ets_2 != 1, "ets_2"] = 0
+    wcpd_all_jur.loc[wcpd_all_jur.tax_2 != 1, "tax_2"] = 0
 
-                i+=1
-            # Calculate tax rate including rebate
-            wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
+    wcpd_all_jur.loc[wcpd_all_jur.tax != 1, "tax_ex_rate"] = np.nan
+    wcpd_all_jur_sources.loc[wcpd_all_jur.tax != 1, "tax_ex_rate"] = np.nan
 
-        else:
-            # No exemptions, just fill columns as needed and return
-            wcpd_all_jur["tax_rate_incl_ex_clcu"] = wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
+    tax_mask = wcpd_all_jur.tax == 1
+    tax_ex_rate = pd.to_numeric(wcpd_all_jur.loc[tax_mask, "tax_ex_rate"], errors="coerce")
+    wcpd_all_jur.loc[tax_mask, "tax_ex_rate"] = tax_ex_rate.fillna(0)
+    wcpd_all_jur_sources.loc[wcpd_all_jur.tax == 1, "tax_ex_rate"] = (
+        wcpd_all_jur_sources.loc[wcpd_all_jur.tax == 1, "tax_ex_rate"].fillna("NA")
+    )
 
-        # Fill NAs for Product
-        wcpd_all_jur["Product"] = wcpd_all_jur["Product"].fillna("NA")
-        wcpd_all_jur_sources["Product"] = wcpd_all_jur_sources["Product"].fillna("NA")
+    wcpd_all_jur["Product"] = wcpd_all_jur["Product"].fillna("NA")
+    wcpd_all_jur_sources["Product"] = wcpd_all_jur_sources["Product"].fillna("NA")
 
-        # Replace NA values in columns
-        tax_cols = ['tax_id', 'tax_rate_excl_ex_clcu', 'tax_curr_code', 'tax_ex_rate', 'tax_rate_incl_ex_clcu']
-        ets_1_cols = ['ets_id', 'ets_price', 'ets_curr_code']
-        ets_2_cols = ['ets_2_id', 'ets_2_price', 'ets_2_curr_code']
+    tax_cols = [
+        "tax_id",
+        "tax_rate_excl_ex_clcu",
+        "tax_curr_code",
+        "tax_ex_rate",
+        "tax_rate_incl_ex_clcu",
+    ]
+    ets_1_cols = ["ets_id", "ets_price", "ets_curr_code"]
+    ets_2_cols = ["ets_2_id", "ets_2_price", "ets_2_curr_code"]
 
-        wcpd_all_jur.loc[wcpd_all_jur.tax != 1, tax_cols] = "NA"
-        wcpd_all_jur.loc[wcpd_all_jur.ets != 1, ets_1_cols + ets_2_cols] = "NA"
-        wcpd_all_jur_sources.fillna("NA", inplace=True)
-        wcpd_all_jur.fillna("NA", inplace = True)
+    wcpd_all_jur.loc[wcpd_all_jur.tax != 1, tax_cols] = "NA"
+    wcpd_all_jur.loc[wcpd_all_jur.ets != 1, ets_1_cols] = "NA"
+    wcpd_all_jur.loc[wcpd_all_jur.ets_2 != 1, ets_2_cols] = "NA"
+    wcpd_all_jur_sources.fillna("NA", inplace=True)
+    wcpd_all_jur.fillna("NA", inplace=True)
 
-        # Reorder columns
-        final_columns = [
-            "jurisdiction", "year", "ipcc_code", "Product", "tax", "ets", "tax_id",
-            "tax_rate_excl_ex_clcu", "tax_ex_rate", "tax_rate_incl_ex_clcu", "tax_curr_code",
-            "ets_id", "ets_price", "ets_curr_code", "ets_2_id", "ets_2_price", "ets_2_curr_code"
-        ]
+    return wcpd_all_jur[FINAL_COLUMNS].copy(), wcpd_all_jur_sources[FINAL_SOURCE_COLUMNS].copy()
 
-        source_columns = [
-            "jurisdiction", "year", "ipcc_code", "Product", "tax", "ets",
-            "tax_rate_excl_ex_clcu", "tax_ex_rate", "ets_price"
-        ]
-
-        wcpd_all_jur.loc[:, :] = wcpd_all_jur[final_columns]
-        wcpd_all_jur_sources.loc[:, :] = wcpd_all_jur_sources[source_columns]
-        
-#Run Tax Exemption 
-tax_exemptions(GAS)
-
-#-------------------- Coverage Factors --------------------#
-
-stream = open("/Users/geoffroydolphin/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_preprocessing/_coverageFactors.py")
-read_file = stream.read()
-exec(read_file)
-
-#-------------------- Validation Checks --------------------#
 
 def validate_output(df):
     print("\nRunning validation checks...")
@@ -320,11 +259,251 @@ def validate_output(df):
     if not missing_tax_rates.empty:
         print(f"Warning: {len(missing_tax_rates)} tax-covered rows have missing tax rates.")
 
-    overlapping_schemes = df[(df["ets"] == 1) & (df["ets_2"] == 1)]
-    if not overlapping_schemes.empty:
-        print(f"Note: {len(overlapping_schemes)} rows have overlapping ETS schemes.")
+    if "ets_2" in df.columns:
+        overlapping_schemes = df[(df["ets"] == 1) & (df["ets_2"] == 1)]
+        if not overlapping_schemes.empty:
+            print(f"Note: {len(overlapping_schemes)} rows have overlapping ETS schemes.")
 
     print("Validation checks complete.\n")
 
-# Run validation
-validate_output(wcpd_all_jur)
+
+def build(gas: str = DEFAULT_GAS, verbose: bool = False):
+    gas = gas.upper()
+    logging.info("Starting WCPD build for GHG: %s", gas)
+    status = print if verbose else (lambda *args, **kwargs: None)
+
+    jurisdictions_module = load_module("jurisdictions", CODE_DIR / "jurisdictions.py")
+    ets_prices_module = load_module("ets_prices", CODE_DIR / "ets_prices.py")
+    tax_rates_module = load_module("tax_rates", CODE_DIR / "tax_rates.py")
+    ets_scope_module = load_module("ets_scope", RAW_DIR / f"scope/ets/ets_scope_{gas}.py")
+    tax_scope_module = load_module("taxes_scope", RAW_DIR / f"scope/tax/taxes_scope_{gas}.py")
+    coverage_module = load_module(
+        "coverage_factors",
+        ROOT_DIR / "_code/_compilation/_preprocessing/_coverageFactors.py",
+    )
+
+    wcpd_structure = load_structure(gas)
+    ctries = jurisdictions_module.jurisdictions["countries"]
+    subnats = (
+        jurisdictions_module.jurisdictions["subnationals"]["Canada"]
+        + jurisdictions_module.jurisdictions["subnationals"]["China"]
+        + jurisdictions_module.jurisdictions["subnationals"]["Japan"]
+        + jurisdictions_module.jurisdictions["subnationals"]["United States"]
+        + jurisdictions_module.jurisdictions["subnationals"]["Mexico"]
+    )
+    all_jurisdictions = ctries + subnats
+
+    wcpd_all_jur = initialize_columns(
+        create_jurisdiction_frame(wcpd_structure, all_jurisdictions), OUTPUT_COLUMNS
+    )
+    wcpd_all_jur_sources = initialize_columns(
+        create_jurisdiction_frame(wcpd_structure, all_jurisdictions), SOURCE_COLUMNS
+    )
+
+    logging.info("Constructed base data for %s jurisdictions", len(all_jurisdictions))
+
+    ets_prices = ets_prices_module.load_ets_prices(RAW_DIR / "price")
+    tax_rates = tax_rates_module.load_tax_rates(RAW_DIR / "price", gas=gas)
+    if "product" in tax_rates.columns:
+        tax_rates = tax_rates.rename(columns={"product": "em_type"})
+
+    ets_scope = ets_scope_module.scope()
+    ets_scope_data, ets_scope_sources = ets_scope["data"], ets_scope["sources"]
+    taxes_scope = tax_scope_module.scope()
+    taxes_scope_data, taxes_scope_sources = taxes_scope["data"], taxes_scope["sources"]
+
+    def ets_db_values(schemes, scheme_no):
+        columns = {
+            "scheme_1": {
+                "id": "ets_id",
+                "binary": "ets",
+                "price": "ets_price",
+                "curr_code": "ets_curr_code",
+            },
+            "scheme_2": {
+                "id": "ets_2_id",
+                "binary": "ets_2",
+                "price": "ets_2_price",
+                "curr_code": "ets_2_curr_code",
+            },
+        }[scheme_no]
+
+        for scheme in schemes:
+            scheme_cfg = ets_scope_data[scheme]
+            scheme_jurisdictions = scope_block(scheme_cfg, "jurisdictions")
+            scheme_sectors = scope_block(scheme_cfg, "sectors")
+
+            if not scheme_jurisdictions or not scheme_sectors:
+                status(f"Warning: skipping {scheme} due to incomplete ETS scope configuration.")
+                continue
+
+            status(scheme)
+            status("Available years for scheme:", list(scheme_jurisdictions.keys()))
+            for year in scheme_jurisdictions:
+                if year not in scheme_sectors:
+                    status(f"Warning: skipping {scheme} {year} due to missing ETS sector scope.")
+                    continue
+                status("Processing year:", year)
+                selection = (
+                    (wcpd_all_jur.year == year)
+                    & (wcpd_all_jur.jurisdiction.isin(scheme_jurisdictions[year]))
+                    & (wcpd_all_jur.ipcc_code.isin(scheme_sectors[year]))
+                )
+                selection_src = (
+                    (wcpd_all_jur_sources.year == year)
+                    & (wcpd_all_jur_sources.jurisdiction.isin(scheme_jurisdictions[year]))
+                    & (wcpd_all_jur_sources.ipcc_code.isin(scheme_sectors[year]))
+                )
+                wcpd_all_jur.loc[selection, columns["binary"]] = 1
+                wcpd_all_jur.loc[selection, columns["id"]] = scheme
+                wcpd_all_jur_sources.loc[selection_src, columns["binary"]] = year_source(
+                    ets_scope_sources, scheme, year
+                )
+                assign_price_and_currency(
+                    wcpd_all_jur,
+                    selection,
+                    ets_prices,
+                    scheme,
+                    year,
+                    columns,
+                    source_df=wcpd_all_jur_sources,
+                )
+
+    def tax_db_values(schemes, scheme_no):
+        columns = {
+            "scheme_1": {
+                "id": "tax_id",
+                "binary": "tax",
+                "rate": "tax_rate_excl_ex_clcu",
+                "curr_code": "tax_curr_code",
+            },
+            "scheme_2": {
+                "id": "tax_2_id",
+                "binary": "tax_2",
+                "rate": "tax_2_rate_excl_ex_clcu",
+                "curr_code": "tax_2_curr_code",
+            },
+        }[scheme_no]
+
+        for scheme in schemes:
+            scheme_cfg = taxes_scope_data[scheme]
+            scheme_jurisdictions = scope_block(scheme_cfg, "jurisdictions", "juristicons")
+            scheme_sectors = scope_block(scheme_cfg, "sectors")
+            scheme_fuels = scope_block(scheme_cfg, "fuels")
+
+            if not scheme_jurisdictions or not scheme_sectors:
+                status(f"Warning: skipping {scheme} due to incomplete tax scope configuration.")
+                continue
+
+            status(scheme)
+            status("Available years for scheme:", list(scheme_jurisdictions.keys()))
+            for year in scheme_jurisdictions:
+                if year not in scheme_sectors:
+                    status(f"Warning: skipping {scheme} {year} due to missing tax sector scope.")
+                    continue
+                status("Processing year:", year)
+                jurisdictions = scheme_jurisdictions[year]
+                sectors = scheme_sectors[year]
+                fuels = scheme_fuels.get(year, [None])
+
+                for fuel in fuels:
+                    selection = (
+                        (wcpd_all_jur.year == year)
+                        & (wcpd_all_jur.jurisdiction.isin(jurisdictions))
+                        & (wcpd_all_jur.ipcc_code.isin(sectors))
+                    )
+                    selection_src = (
+                        (wcpd_all_jur_sources.year == year)
+                        & (wcpd_all_jur_sources.jurisdiction.isin(jurisdictions))
+                        & (wcpd_all_jur_sources.ipcc_code.isin(sectors))
+                    )
+                    if gas == "CO2" and fuel is not None:
+                        selection &= wcpd_all_jur.Product == fuel
+                        selection_src &= wcpd_all_jur_sources.Product == fuel
+                    wcpd_all_jur.loc[selection, columns["binary"]] = 1
+                    wcpd_all_jur.loc[selection, columns["id"]] = scheme
+                    wcpd_all_jur_sources.loc[selection_src, columns["binary"]] = year_source(
+                        taxes_scope_sources, scheme, year
+                    )
+                    assign_price_and_currency(
+                        wcpd_all_jur,
+                        selection,
+                        tax_rates,
+                        scheme,
+                        year,
+                        columns,
+                        fuel,
+                        wcpd_all_jur_sources,
+                    )
+
+    if gas == "CO2":
+        ets_1_list = list(ets_scope_data.keys())
+        if "usa_ma_ets" in ets_1_list:
+            ets_1_list.remove("usa_ma_ets")
+        taxes_1_list = list(taxes_scope_data.keys())
+
+        ets_db_values(ets_1_list, "scheme_1")
+        tax_db_values(taxes_1_list, "scheme_1")
+        ets_db_values(["usa_ma_ets"], "scheme_2")
+        tax_db_values([], "scheme_2")
+    elif gas == "N2O":
+        ets_1_list = list(ets_scope_data.keys())
+        taxes_1_list = list(taxes_scope_data.keys())
+        if "nld_tax_II" in taxes_1_list:
+            taxes_1_list.remove("nld_tax_II")
+
+        ets_db_values(ets_1_list, "scheme_1")
+        tax_db_values(taxes_1_list, "scheme_1")
+        ets_db_values([], "scheme_2")
+        tax_db_values(["nld_tax_II"], "scheme_2")
+    else:
+        ets_1_list = list(ets_scope_data.keys())
+        taxes_1_list = list(taxes_scope_data.keys())
+
+        ets_db_values(ets_1_list, "scheme_1")
+        tax_db_values(taxes_1_list, "scheme_1")
+        ets_db_values([], "scheme_2")
+        tax_db_values([], "scheme_2")
+
+    run_tax_exemptions(gas, wcpd_all_jur, wcpd_all_jur_sources)
+    wcpd_all_jur, wcpd_all_jur_sources = finalize_output(wcpd_all_jur, wcpd_all_jur_sources)
+
+    cf = coverage_module.generate_coverage_factors(
+        gas=gas,
+        wcpd_all_jur=wcpd_all_jur,
+        raw_dir=RAW_DIR,
+        taxes_1_list=taxes_1_list,
+        taxes_scope_data=taxes_scope_data,
+        ets_1_list=ets_1_list,
+        ets_scope_data=ets_scope_data,
+    )
+
+    validate_output(wcpd_all_jur)
+
+    return {
+        "gas": gas,
+        "ctries": ctries,
+        "subnats": subnats,
+        "wcpd_all_jur": wcpd_all_jur,
+        "wcpd_all_jur_sources": wcpd_all_jur_sources,
+        "taxes_1_list": taxes_1_list,
+        "ets_1_list": ets_1_list,
+        "cf": cf,
+    }
+
+
+def _populate_module_globals(build_result):
+    globals().update(build_result)
+    globals()["GAS"] = build_result["gas"]
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Build WCPD compilation tables for a single gas.")
+    parser.add_argument("--gas", default=DEFAULT_GAS, help="Gas to build: CO2, CH4, N2O, etc.")
+    parser.add_argument("--verbose", action="store_true", help="Print per-scheme progress details.")
+    args = parser.parse_args()
+    _populate_module_globals(build(args.gas, verbose=args.verbose))
+
+
+if __name__ == "__main__":
+    main()
