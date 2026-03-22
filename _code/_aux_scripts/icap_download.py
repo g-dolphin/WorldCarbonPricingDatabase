@@ -178,6 +178,53 @@ def _build_keys(
     return keys
 
 
+def _parse_date(value: str | None) -> datetime | None:
+    if not value:
+        return None
+    try:
+        return datetime.strptime(value.strip(), "%Y-%m-%d")
+    except Exception:
+        return None
+
+
+def _read_rows_mapped_to_template(
+    path: str,
+    template_keys: list[tuple[str, str]],
+) -> list[tuple[datetime | None, str, list[str]]]:
+    encoding = _detect_encoding(path)
+    with open(path, "r", encoding=encoding, newline="") as infile:
+        reader = csv.reader(infile)
+        input_top = next(reader, None)
+        input_header = next(reader, None)
+        if not input_top or not input_header:
+            raise ValueError(f"ICAP file {path} is missing the expected two header rows.")
+
+        input_keys = _build_keys(input_top, input_header, canonicalize=True)
+        input_key_map: dict[tuple[str, str], list[int]] = {}
+        for idx, key in enumerate(input_keys):
+            input_key_map.setdefault(key, []).append(idx)
+
+        date_key = ("", "Date")
+        if date_key not in template_keys:
+            raise ValueError("Template keys do not include a Date column.")
+        template_date_idx = template_keys.index(date_key)
+
+        rows: list[tuple[datetime | None, str, list[str]]] = []
+        for row in reader:
+            output_row = []
+            for key in template_keys:
+                idxs = input_key_map.get(key, [])
+                value = ""
+                for idx in idxs:
+                    if idx < len(row) and row[idx] not in ("", None):
+                        value = row[idx]
+                        break
+                output_row.append(value)
+            date_value = output_row[template_date_idx] if template_date_idx < len(output_row) else ""
+            rows.append((_parse_date(date_value), date_value, output_row))
+    return rows
+
+
 def normalize_icap_file(
     input_path: str,
     output_path: str | None = None,
@@ -196,58 +243,50 @@ def normalize_icap_file(
     template_encoding = _detect_encoding(template_path)
     template_top, template_header = _read_headers(template_path, template_encoding)
     template_keys = _build_keys(template_top, template_header, canonicalize=True)
+    date_key = ("", "Date")
+    date_idx = template_keys.index(date_key)
+    eu_scheme_name = _canonical_scheme_name("European Union Emissions Trading System")
+    eu_column_indexes = [idx for idx, key in enumerate(template_keys) if key[0] == eu_scheme_name]
 
-    input_encoding = _detect_encoding(input_path)
-    with open(input_path, "r", encoding=input_encoding, newline="") as infile:
-        reader = csv.reader(infile)
-        input_top = next(reader, None)
-        input_header = next(reader, None)
+    legacy_rows = _read_rows_mapped_to_template(template_path, template_keys)
+    input_rows = _read_rows_mapped_to_template(input_path, template_keys)
 
-        if not input_top or not input_header:
-            raise ValueError("ICAP file is missing the expected two header rows.")
+    legacy_by_date = {date_value: (parsed_date, row) for parsed_date, date_value, row in legacy_rows}
+    combined_by_date: dict[str, tuple[datetime | None, list[str]]] = {}
 
-        input_keys = _build_keys(input_top, input_header, canonicalize=True)
-        input_key_map: dict[tuple[str, str], list[int]] = {}
-        for idx, key in enumerate(input_keys):
-            input_key_map.setdefault(key, []).append(idx)
+    # Start from the newly downloaded rows and backfill only EU ETS cells from legacy.
+    for parsed_date, date_value, row in input_rows:
+        merged_row = list(row)
+        if date_value in legacy_by_date:
+            legacy_parsed_date, legacy_row = legacy_by_date[date_value]
+            for idx in eu_column_indexes:
+                if merged_row[idx] in ("", None):
+                    merged_row[idx] = legacy_row[idx]
+            combined_by_date[date_value] = (parsed_date or legacy_parsed_date, merged_row)
+        else:
+            combined_by_date[date_value] = (parsed_date, merged_row)
 
-        # Identify date column in input (scheme blank + label Date)
-        date_idxs = input_key_map.get(("", "Date"), [])
-        date_idx = date_idxs[0] if date_idxs else None
+    # Add legacy-only dates, but populate only the EU ETS columns.
+    for date_value, (parsed_date, legacy_row) in legacy_by_date.items():
+        if date_value in combined_by_date:
+            continue
+        blank_row = [""] * len(template_keys)
+        blank_row[date_idx] = date_value
+        for idx in eu_column_indexes:
+            blank_row[idx] = legacy_row[idx]
+        combined_by_date[date_value] = (parsed_date, blank_row)
 
-        with open(output_path, "w", encoding="latin-1", newline="") as outfile:
-            writer = csv.writer(outfile)
-            writer.writerow(template_top)
-            writer.writerow(template_header)
+    rows_with_dates = sorted(
+        combined_by_date.values(),
+        key=lambda item: (item[0] is None, item[0] or datetime.max),
+    )
 
-            def _parse_date(value: str | None) -> datetime | None:
-                if not value:
-                    return None
-                try:
-                    return datetime.strptime(value.strip(), "%Y-%m-%d")
-                except Exception:
-                    return None
-
-            rows_with_dates: list[tuple[datetime | None, list[str]]] = []
-            for row in reader:
-                output_row = []
-                for key in template_keys:
-                    idxs = input_key_map.get(key, [])
-                    value = ""
-                    for idx in idxs:
-                        if idx < len(row) and row[idx] not in ("", None):
-                            value = row[idx]
-                            break
-                    output_row.append(value)
-                date_value = row[date_idx] if date_idx is not None and date_idx < len(row) else ""
-                rows_with_dates.append((_parse_date(date_value), output_row))
-
-            rows_with_dates.sort(
-                key=lambda item: (item[0] is None, item[0] or datetime.max)
-            )
-
-            for _, output_row in rows_with_dates:
-                writer.writerow(output_row)
+    with open(output_path, "w", encoding="latin-1", newline="") as outfile:
+        writer = csv.writer(outfile)
+        writer.writerow(template_top)
+        writer.writerow(template_header)
+        for _, output_row in rows_with_dates:
+            writer.writerow(output_row)
 
     return output_path
 

@@ -264,12 +264,10 @@ def process_icap_prices(price_dir: str) -> pd.DataFrame:
 
 def load_ets_prices(price_dir: str = DEFAULT_PRICE_PATH):
     # Aggregate data from all the sources
-    df = pd.concat(
-        process_ets_prices(price_dir), 
-        ignore_index=True
-    )
-    df = pd.concat([df, process_icap_prices(price_dir)])
-    
-    df["allowance_price"] =  df["allowance_price"].round(2)
+    raw_frames = list(process_ets_prices(price_dir).values())
+    df = pd.concat(raw_frames, ignore_index=True) if raw_frames else pd.DataFrame()
+    df = pd.concat([df, process_icap_prices(price_dir)], ignore_index=True)
+
+    df["allowance_price"] = pd.to_numeric(df["allowance_price"], errors="coerce").round(2)
 
     return df
