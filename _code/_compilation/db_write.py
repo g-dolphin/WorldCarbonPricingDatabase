@@ -1,13 +1,14 @@
 from __future__ import annotations
 
 import os
+from datetime import datetime
 from pathlib import Path
 
 try:
-    from _code._compilation import dataset_qa
+    from _code._compilation import db_qa as dataset_qa
     from _code._compilation import db_build as build
 except ImportError:
-    import dataset_qa  # type: ignore
+    import db_qa as dataset_qa  # type: ignore
     import db_build as build  # type: ignore
 
 
@@ -28,41 +29,51 @@ def save_jurisdiction_files(
 
 ROOT_DIR = Path(build.ROOT_DIR)
 RAW_DIR = Path(build.RAW_DIR)
-DATASET_DATA_DIR = ROOT_DIR / "_dataset" / "data"
-DATASET_SOURCES_DIR = ROOT_DIR / "_dataset" / "sources"
+DATASET_VERSION = os.environ.get(
+    "WCPD_DATASET_VERSION",
+    f"v{datetime.now().year}.1",
+)
+DATASET_DATA_DIR = ROOT_DIR / "_dataset" / "data" / DATASET_VERSION
+DATASET_SOURCES_DIR = ROOT_DIR / "_dataset" / "sources" / DATASET_VERSION
 DATASET_QA_DIR = ROOT_DIR / "_dataset" / "qa"
 GAS = build.GAS
+BUILD_RESULT = build.build(GAS)
 
 # Standardized names
-std_country_names = [standardize_name(x) for x in build.ctries]
-std_subnat_names = [standardize_name(x) for x in build.subnats]
+std_country_names = [standardize_name(x) for x in BUILD_RESULT["ctries"]]
+std_subnat_names = [standardize_name(x) for x in BUILD_RESULT["subnats"]]
 
 # Snapshot current gas outputs before overwriting them so QA can compare builds.
 baseline_dir = dataset_qa.create_dataset_snapshot(DATASET_DATA_DIR, GAS, DATASET_QA_DIR)
 
 # Save national and subnational data files
 save_jurisdiction_files(
-    build.wcpd_all_jur, build.ctries, std_country_names, GAS, "national", DATASET_DATA_DIR
+    BUILD_RESULT["wcpd_all_jur"],
+    BUILD_RESULT["ctries"],
+    std_country_names,
+    GAS,
+    "national",
+    DATASET_DATA_DIR,
 )
 save_jurisdiction_files(
-    build.wcpd_all_jur,
-    build.subnats,
+    BUILD_RESULT["wcpd_all_jur"],
+    BUILD_RESULT["subnats"],
     std_subnat_names,
     GAS,
     "subnational",
     DATASET_DATA_DIR,
 )
 save_jurisdiction_files(
-    build.wcpd_all_jur_sources,
-    build.ctries,
+    BUILD_RESULT["wcpd_all_jur_sources"],
+    BUILD_RESULT["ctries"],
     std_country_names,
     GAS,
     "national",
     DATASET_SOURCES_DIR,
 )
 save_jurisdiction_files(
-    build.wcpd_all_jur_sources,
-    build.subnats,
+    BUILD_RESULT["wcpd_all_jur_sources"],
+    BUILD_RESULT["subnats"],
     std_subnat_names,
     GAS,
     "subnational",
@@ -72,14 +83,24 @@ save_jurisdiction_files(
 # Coverage factors
 coverage_dir = RAW_DIR / "coverageFactor"
 coverage_dir.mkdir(parents=True, exist_ok=True)
-for scheme in build.taxes_1_list + build.ets_1_list:
-    build.cf[build.cf.scheme_id == scheme].to_csv(coverage_dir / f"{scheme}_cf.csv", index=False)
+for scheme in (
+    BUILD_RESULT["taxes_1_list"]
+    + BUILD_RESULT["tax_2_list"]
+    + BUILD_RESULT["ets_1_list"]
+    + BUILD_RESULT["ets_2_list"]
+):
+    BUILD_RESULT["cf"][BUILD_RESULT["cf"].scheme_id == scheme].to_csv(
+        coverage_dir / f"{scheme}_cf.csv", index=False
+    )
 
 # Scheme overlap
 overlap_dir = RAW_DIR / "overlap"
 overlap_dir.mkdir(parents=True, exist_ok=True)
 overlap_path = overlap_dir / f"overlap_{GAS}.csv"
-build.overlap.to_csv(overlap_path, index=False)
+if "overlap" in BUILD_RESULT:
+    BUILD_RESULT["overlap"].to_csv(overlap_path, index=False)
+else:
+    print("Overlap export skipped: build result does not include overlap output.")
 
 # Dataset QA
 qa_summary = dataset_qa.run_postprocess_qa(
@@ -91,6 +112,7 @@ qa_summary = dataset_qa.run_postprocess_qa(
 )
 print(
     "Dataset QA complete:",
+    f"version={DATASET_VERSION}",
     f"odd_entries={qa_summary['odd_entry_count']}",
     f"significant_changes={qa_summary['significant_change_count']}",
 )
