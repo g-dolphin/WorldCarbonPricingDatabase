@@ -26,6 +26,14 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 
+
+def scope_block(scope_config, primary_key, *aliases):
+    for key in (primary_key, *aliases):
+        if key in scope_config:
+            return scope_config[key]
+    return {}
+
+
 def build_cf_df(schemes, scope_dict, gas, wcpd_all_jur, RAW_DIR):
     all_schemes = []
     cf_col = f"cf_{gas}"
@@ -33,9 +41,14 @@ def build_cf_df(schemes, scope_dict, gas, wcpd_all_jur, RAW_DIR):
     for scheme in schemes:
         scheme_chunks = []
         scheme_scope = scope_dict[scheme]
+        scheme_jurisdictions = scope_block(scheme_scope, "jurisdictions", "juristicons")
+        scheme_sectors = scope_block(scheme_scope, "sectors")
 
-        for year, jurisdictions in scheme_scope["jurisdictions"].items():
-            applicable_sectors = set(scheme_scope["sectors"].get(year, []))
+        if not scheme_jurisdictions or not scheme_sectors:
+            continue
+
+        for year, jurisdictions in scheme_jurisdictions.items():
+            applicable_sectors = set(scheme_sectors.get(year, []))
 
             # Cartesian product index -> DataFrame
             index = pd.MultiIndex.from_product(
@@ -64,14 +77,21 @@ def build_cf_df(schemes, scope_dict, gas, wcpd_all_jur, RAW_DIR):
         scheme_df.to_csv(out_dir / f"{scheme}_{gas}_cf.csv", index=False)
         all_schemes.append(scheme_df)
 
+    if not all_schemes:
+        return pd.DataFrame(
+            columns=[
+                "scheme_id",
+                "jurisdiction",
+                "year",
+                "ipcc_code",
+                cf_col,
+                f"{cf_col}_source",
+                f"{cf_col}_comment",
+            ]
+        )
+
     # Return all schemes combined (all years preserved)
     return pd.concat(all_schemes, ignore_index=True)
-
-
-cf_taxes = build_cf_df(taxes_1_list, taxes_scope_data, GAS, wcpd_all_jur, RAW_DIR)
-cf_ets = build_cf_df(ets_1_list, ets_scope_data, GAS, wcpd_all_jur, RAW_DIR) #+ ets_2_list
-
-cf = pd.concat([cf_taxes, cf_ets], ignore_index=True)
 
 # Define ad-hoc values
 ## EU ETS interaction with national carbon taxes
@@ -185,17 +205,50 @@ pol_tax_cf = [
     
     
 # Write values
-cf_scheme = {
-    "eu_ets":eu_ets_cf, "est_tax":est_tax_cf, 
-    "che_ets":che_ets_cf, "gbr_ets":gbr_ets_cf, 
-    "lva_tax":lva_tax_cf, "nor_tax":nor_tax_cf, 
-    "pol_tax":pol_tax_cf
-    }
+CF_SCHEME_OVERRIDES = {
+    "eu_ets": eu_ets_cf,
+    "est_tax": est_tax_cf,
+    "che_ets": che_ets_cf,
+    "gbr_ets": gbr_ets_cf,
+    "lva_tax": lva_tax_cf,
+    "nor_tax": nor_tax_cf,
+    "pol_tax": pol_tax_cf,
+}
 
-for scheme in cf_scheme.keys():
-    for dic in cf_scheme[scheme]:
-        
-        rowSel = (cf.scheme_id==scheme) & (cf.jurisdiction==dic["jurisdiction"]) & (cf.year.isin(dic["year"])) & (cf.ipcc_code.isin(dic["ipcc_codes"]))
-        cf.loc[rowSel, f"cf_{GAS}"] = dic["value"]
-        cf.loc[rowSel, "source"] = ""
-        cf.loc[rowSel, "comment"] = dic["comment"]
+
+def apply_cf_overrides(cf: pd.DataFrame, gas: str) -> pd.DataFrame:
+    if cf.empty:
+        return cf
+
+    cf_col = f"cf_{gas}"
+    source_col = f"{cf_col}_source"
+    comment_col = f"{cf_col}_comment"
+
+    for scheme, overrides in CF_SCHEME_OVERRIDES.items():
+        for override in overrides:
+            row_sel = (
+                (cf.scheme_id == scheme)
+                & (cf.jurisdiction == override["jurisdiction"])
+                & (cf.year.isin(override["year"]))
+                & (cf.ipcc_code.isin(override["ipcc_codes"]))
+            )
+            cf.loc[row_sel, cf_col] = override["value"]
+            cf.loc[row_sel, source_col] = ""
+            cf.loc[row_sel, comment_col] = override["comment"]
+
+    return cf
+
+
+def generate_coverage_factors(
+    gas: str,
+    wcpd_all_jur: pd.DataFrame,
+    raw_dir,
+    taxes_1_list,
+    taxes_scope_data,
+    ets_1_list,
+    ets_scope_data,
+) -> pd.DataFrame:
+    cf_taxes = build_cf_df(taxes_1_list, taxes_scope_data, gas, wcpd_all_jur, raw_dir)
+    cf_ets = build_cf_df(ets_1_list, ets_scope_data, gas, wcpd_all_jur, raw_dir)
+    cf = pd.concat([cf_taxes, cf_ets], ignore_index=True)
+    return apply_cf_overrides(cf, gas)
