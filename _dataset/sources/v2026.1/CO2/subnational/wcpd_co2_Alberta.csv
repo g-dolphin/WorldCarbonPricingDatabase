@@ -8358,15 +8358,15 @@ Alberta,2017,1A1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A1A,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A1A,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A1A,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2017,1A1A1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A1A1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A1A1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A1A2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A1A2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A1A2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A1A3,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A1A3,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A1A3,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2017,1A1A1,Coal,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A1A1,Natural gas,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A1A1,Oil,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A1A2,Coal,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A1A2,Natural gas,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A1A2,Oil,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A1A3,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A1A3,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A1A3,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A1B,Coal,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
 Alberta,2017,1A1B,Natural gas,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
 Alberta,2017,1A1B,Oil,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
@@ -8376,45 +8376,45 @@ Alberta,2017,1A1C,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A2,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A2,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A2,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2017,1A2A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2C,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A2C,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A2C,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A2D,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2D,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2D,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2E,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A2E,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A2E,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A2F,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2F,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2F,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2G,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2G,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2G,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2H,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2H,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2H,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2I,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2I,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2I,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2J,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2J,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2J,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2K,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2K,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2K,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2L,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2L,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2L,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2M,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2M,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A2M,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2017,1A2A,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2A,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2A,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2B,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2C,Coal,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A2C,Natural gas,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A2C,Oil,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A2D,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2D,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2D,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2E,Coal,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A2E,Natural gas,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A2E,Oil,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A2F,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2F,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2F,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2G,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2G,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2G,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2H,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2H,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2H,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2I,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2I,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2I,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2J,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2J,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2J,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2K,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2K,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2K,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2L,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2L,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2L,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2M,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2M,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A2M,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3,Oil,NA,NA,NA,NA,NA,NA
@@ -8427,60 +8427,60 @@ Alberta,2017,1A3A1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3A2,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3A2,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3A2,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2017,1A3B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2017,1A3B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3B,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3C,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3C,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3C,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3D,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3D,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3D,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2017,1A3D1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3D1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3D1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3D2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3D2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3D2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2017,1A3D1,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3D1,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3D1,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3D2,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3D2,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3D2,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3E,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3E,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A3E,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2017,1A3E1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3E1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A3E1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2017,1A3E1,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3E1,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A3E1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A4,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A4,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A4,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2017,1A4A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2017,1A4A,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4A,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4A,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4B,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A4C,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A4C,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A4C,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2017,1A4C1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A4C1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A4C1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])","gvt(SGER[2009], SGER[2019])",web(ALB[2019]); ,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
-Alberta,2017,1A4C2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4C2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4C2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4C3,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4C3,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A4C3,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2017,1A4C1,Coal,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A4C1,Natural gas,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A4C1,Oil,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
+Alberta,2017,1A4C2,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4C2,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4C2,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4C3,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4C3,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A4C3,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A5,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A5,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2017,1A5,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2017,1A5A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A5A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A5A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A5B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A5B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A5B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A5C,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A5C,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2017,1A5C,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2017,1A5A,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A5A,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A5A,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A5B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A5B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A5B,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A5C,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A5C,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2017,1A5C,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2017,1B,NA,NA,NA,NA,NA,NA,NA
 Alberta,2017,1B1,NA,NA,NA,NA,NA,NA,NA
 Alberta,2017,1B1A,NA,NA,"gvt(SGER[2009], SGER[2019])",NA,NA,"gvt(SGER[2009], SGER[2019]), db(WCPD[2020]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available",NA
@@ -8656,15 +8656,15 @@ Alberta,2018,1A1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A1A,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A1A,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A1A,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2018,1A1A1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A1A1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A1A1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A1A2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A1A2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A1A2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A1A3,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A1A3,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A1A3,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A1,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A1,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A1,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A2,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A2,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A2,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A3,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A3,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A1A3,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
 Alberta,2018,1A1B,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
 Alberta,2018,1A1B,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
 Alberta,2018,1A1B,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
@@ -8674,45 +8674,45 @@ Alberta,2018,1A1C,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Cli
 Alberta,2018,1A2,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A2,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A2,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2018,1A2A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2C,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2C,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2C,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2D,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2D,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2D,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2E,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2E,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2E,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2F,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2F,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2F,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2G,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2G,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2G,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2H,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2H,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2H,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2I,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2I,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2I,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2J,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2J,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2J,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2K,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2K,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2K,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2L,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2L,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2L,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2M,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2M,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A2M,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2A,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2A,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2A,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2B,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2B,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2B,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2C,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2C,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2C,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2D,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2D,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2D,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2E,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2E,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2E,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2F,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2F,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2F,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2G,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2G,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2G,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2H,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2H,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2H,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2I,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2I,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2I,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2J,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2J,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2J,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2K,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2K,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2K,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2L,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2L,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2L,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2M,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2M,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A2M,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
 Alberta,2018,1A3,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3,Oil,NA,NA,NA,NA,NA,NA
@@ -8725,60 +8725,60 @@ Alberta,2018,1A3A1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3A2,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3A2,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3A2,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2018,1A3B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2018,1A3B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3B,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3C,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3C,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3C,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3D,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3D,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3D,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2018,1A3D1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3D1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3D1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3D2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3D2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3D2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2018,1A3D1,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3D1,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3D1,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3D2,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3D2,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3D2,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3E,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3E,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A3E,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2018,1A3E1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3E1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A3E1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2018,1A3E1,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3E1,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A3E1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A4,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A4,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A4,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2018,1A4A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2018,1A4A,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4A,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4A,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4B,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A4C,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A4C,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A4C,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2018,1A4C1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4C1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4C1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4C2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4C2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4C2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4C3,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4C3,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A4C3,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2018,1A4C1,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4C1,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4C1,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4C2,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4C2,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4C2,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4C3,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4C3,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A4C3,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A5,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A5,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2018,1A5,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2018,1A5A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A5A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A5A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2018,1A5B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A5B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A5B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A5C,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A5C,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2018,1A5C,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2018,1A5A,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A5A,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A5A,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2018,1A5B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A5B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A5B,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A5C,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A5C,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2018,1A5C,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2018,1B,NA,NA,NA,NA,NA,NA,NA
 Alberta,2018,1B1,NA,NA,NA,NA,NA,NA,NA
 Alberta,2018,1B1A,NA,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
@@ -8954,15 +8954,15 @@ Alberta,2019,1A1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A1A,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A1A,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A1A,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2019,1A1A1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A1A1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A1A1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A1A2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A1A2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A1A2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A1A3,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A1A3,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A1A3,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A1,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A1,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A1,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A2,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A2,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A2,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A3,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A3,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A1A3,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
 Alberta,2019,1A1B,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
 Alberta,2019,1A1B,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
 Alberta,2019,1A1B,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
@@ -8972,45 +8972,45 @@ Alberta,2019,1A1C,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Cli
 Alberta,2019,1A2,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A2,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A2,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2019,1A2A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2C,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2C,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2C,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2D,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2D,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2D,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2E,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2E,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2E,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2F,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2F,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2F,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2G,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2G,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2G,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2H,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2H,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2H,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2I,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2I,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2I,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2J,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2J,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2J,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2K,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2K,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2K,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2L,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2L,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2L,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2M,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2M,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A2M,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2A,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2A,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2A,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2B,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2B,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2B,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2C,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2C,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2C,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2D,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2D,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2D,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2E,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2E,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2E,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2F,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2F,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2F,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2G,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2G,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2G,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2H,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2H,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2H,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2I,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2I,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2I,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2J,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2J,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2J,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2K,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2K,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2K,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2L,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2L,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2L,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2M,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2M,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A2M,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
 Alberta,2019,1A3,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3,Oil,NA,NA,NA,NA,NA,NA
@@ -9023,60 +9023,60 @@ Alberta,2019,1A3A1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3A2,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3A2,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3A2,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2019,1A3B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2019,1A3B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3B,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3C,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3C,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3C,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3D,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3D,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3D,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2019,1A3D1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3D1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3D1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3D2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3D2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3D2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2019,1A3D1,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3D1,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3D1,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3D2,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3D2,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3D2,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3E,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3E,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A3E,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2019,1A3E1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3E1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A3E1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2019,1A3E1,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3E1,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A3E1,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A4,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A4,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A4,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2019,1A4A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2019,1A4A,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4A,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4A,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4B,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A4C,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A4C,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A4C,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2019,1A4C1,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4C1,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4C1,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4C2,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4C2,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4C2,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4C3,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4C3,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A4C3,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2019,1A4C1,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4C1,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4C1,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4C2,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4C2,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4C2,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4C3,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4C3,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A4C3,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A5,Coal,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A5,Natural gas,NA,NA,NA,NA,NA,NA
 Alberta,2019,1A5,Oil,NA,NA,NA,NA,NA,NA
-Alberta,2019,1A5A,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A5A,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A5A,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",gvt(ALBGOV[2019]),web(ALB[2019]); ,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
-Alberta,2019,1A5B,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A5B,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A5B,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A5C,Coal,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A5C,Natural gas,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
-Alberta,2019,1A5C,Oil,"web(ALB[2019], AG-CLR[2018]), gvt(ALB-FP[2016])",NA,web(ALB[2019]); ,NA,NA,NA
+Alberta,2019,1A5A,Coal,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A5A,Natural gas,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A5A,Oil,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA
+Alberta,2019,1A5B,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A5B,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A5B,Oil,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A5C,Coal,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A5C,Natural gas,NA,NA,NA,NA,NA,NA
+Alberta,2019,1A5C,Oil,NA,NA,NA,NA,NA,NA
 Alberta,2019,1B,NA,NA,NA,NA,NA,NA,NA
 Alberta,2019,1B1,NA,NA,NA,NA,NA,NA,NA
 Alberta,2019,1B1A,NA,NA,gvt(ALBGOV[2019]),NA,NA,leg(AB[2017]); the price of Climate Change and Emissions Management Fund credit (upper bound) is used as no transaction data is available,NA

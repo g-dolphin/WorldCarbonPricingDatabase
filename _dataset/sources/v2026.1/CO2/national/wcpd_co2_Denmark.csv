@@ -7440,7 +7440,7 @@ Denmark,2013,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2013,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2013,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2013,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2013,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2013,4C1,NA,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2013,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2013,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2013,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -7738,7 +7738,7 @@ Denmark,2014,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2014,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2014,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2014,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2014,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2014,4C1,NA,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2014,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2014,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2014,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -8036,7 +8036,7 @@ Denmark,2015,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2015,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2015,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2015,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2015,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2015,4C1,NA,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2015,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2015,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2015,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -8334,7 +8334,7 @@ Denmark,2016,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2016,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2016,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2016,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2016,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2016,4C1,NA,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2016,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2016,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2016,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -8632,7 +8632,7 @@ Denmark,2017,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2017,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2017,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2017,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2017,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2017,4C1,NA,NA,leg(EC[2014]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2017,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2017,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2017,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -8930,7 +8930,7 @@ Denmark,2018,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2018,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2018,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2018,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2018,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2018,4C1,NA,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2018,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2018,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2018,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -9228,7 +9228,7 @@ Denmark,2019,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2019,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2019,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2019,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2019,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2019,4C1,NA,NA,leg(EC[2018]),NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2019,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2019,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2019,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -9526,7 +9526,7 @@ Denmark,2020,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2020,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2020,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2020,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2020,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2020,4C1,NA,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2020,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2020,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2020,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -9824,7 +9824,7 @@ Denmark,2021,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2021,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2021,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2021,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2021,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2021,4C1,NA,NA,"leg(EC[2018], EC[2020])",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2021,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2021,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2021,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -10122,7 +10122,7 @@ Denmark,2022,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2022,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2022,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2022,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2022,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2022,4C1,NA,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2022,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2022,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2022,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -10420,7 +10420,7 @@ Denmark,2023,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2023,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2023,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2023,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2023,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2023,4C1,NA,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2023,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2023,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2023,4D1,NA,NA,NA,NA,NA,NA,NA
@@ -10718,7 +10718,7 @@ Denmark,2024,4A2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2024,4A3,NA,NA,NA,NA,NA,NA,NA
 Denmark,2024,4B,NA,NA,NA,NA,NA,NA,NA
 Denmark,2024,4C,NA,NA,NA,NA,NA,NA,NA
-Denmark,2024,4C1,NA,NA,NA,NA,NA,NA,NA
+Denmark,2024,4C1,NA,NA, ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Denmark,2024,4C2,NA,NA,NA,NA,NA,NA,NA
 Denmark,2024,4D,NA,NA,NA,NA,NA,NA,NA
 Denmark,2024,4D1,NA,NA,NA,NA,NA,NA,NA

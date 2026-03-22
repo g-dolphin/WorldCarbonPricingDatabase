@@ -9252,21 +9252,21 @@ New Brunswick,2020,1A1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A1A,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
-New Brunswick,2020,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
-New Brunswick,2020,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
-New Brunswick,2020,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
-New Brunswick,2020,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
-New Brunswick,2020,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",leg(SOR[2019]),web(NB[2021]); ,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
-New Brunswick,2020,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2020,1A1A1,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
+New Brunswick,2020,1A1A1,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
+New Brunswick,2020,1A1A1,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
+New Brunswick,2020,1A1A2,Coal,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
+New Brunswick,2020,1A1A2,Natural gas,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
+New Brunswick,2020,1A1A2,Oil,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
+New Brunswick,2020,1A1A3,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1A3,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1A3,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1B,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A1C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A2,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A2,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A2,Oil,NA,NA,NA,NA,NA,NA
@@ -9321,36 +9321,36 @@ New Brunswick,2020,1A3A1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3A2,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2020,1A3B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3B,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3D,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3D,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3D,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2020,1A3D1,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D1,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D1,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D2,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D2,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3D2,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3E,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3E,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A3E,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2020,1A3E1,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3E1,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A3E1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2020,1A4A,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4A,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4A,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A4B,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4C,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4C,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A4C,Oil,NA,NA,NA,NA,NA,NA
@@ -9366,15 +9366,15 @@ New Brunswick,2020,1A4C3,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1A5,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2020,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2020,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2020,1A5A,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5A,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5A,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5B,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2020,1A5C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1B,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2020,1B1,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
 New Brunswick,2020,1B1A,NA,NA,leg(SOR[2019]),NA,NA,"gvt(ECCC[2020]), report(IETA[2020]);  the emissions charge is recorded (upper bound of carbon prices) as no transaction data is available",NA
@@ -9550,21 +9550,21 @@ New Brunswick,2021,1A1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A1A,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),web(NB[2021]); ,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
-New Brunswick,2021,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2021,1A1A1,Coal,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1A1,Natural gas,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1A1,Oil,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1A2,Coal,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1A2,Natural gas,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1A2,Oil,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1A3,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1A3,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1A3,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1B,Coal,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1B,Natural gas,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1B,Oil,NA,gvt(ECCC[2021]),NA,NA,web(OSLER[2021]); the NB OPBS was accepted by the federal government with transition on 1/1/2021. It applies to the same gases as the Federal OBPS and applies the same pricing scale rising to $50 per tonne by 2022,NA
+New Brunswick,2021,1A1C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A1C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A2,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A2,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A2,Oil,NA,NA,NA,NA,NA,NA
@@ -9619,36 +9619,36 @@ New Brunswick,2021,1A3A1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3A2,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2021,1A3B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3B,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3D,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3D,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3D,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2021,1A3D1,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D1,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D1,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D2,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D2,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3D2,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3E,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3E,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A3E,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2021,1A3E1,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3E1,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A3E1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2021,1A4A,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4A,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4A,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A4B,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4C,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4C,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A4C,Oil,NA,NA,NA,NA,NA,NA
@@ -9664,15 +9664,15 @@ New Brunswick,2021,1A4C3,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1A5,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2021,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
-New Brunswick,2021,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,web(NB[2021]); ,NA,NA,NA
+New Brunswick,2021,1A5A,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5A,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5A,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5B,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2021,1A5C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1B,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1B1,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2021,1B1A,NA,NA,NA,NA,NA,NA,NA
@@ -9848,21 +9848,21 @@ New Brunswick,2022,1A1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A1A,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A1A1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1A1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1A1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1A2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1A2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1A2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1A3,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A1A3,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A1A3,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A1B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",gvt(ECCC[2021]),report(ECCC[2020]); ,NA,report(ECCC[2020]); -,NA
-New Brunswick,2022,1A1C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A1C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A1C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
+New Brunswick,2022,1A1A1,Coal,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1A1,Natural gas,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1A1,Oil,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1A2,Coal,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1A2,Natural gas,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1A2,Oil,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1A3,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1A3,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1A3,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1B,Coal,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1B,Natural gas,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1B,Oil,NA,gvt(ECCC[2021]),NA,NA,report(ECCC[2020]); -,NA
+New Brunswick,2022,1A1C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A1C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A2,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A2,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A2,Oil,NA,NA,NA,NA,NA,NA
@@ -9917,36 +9917,36 @@ New Brunswick,2022,1A3A1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3A2,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
+New Brunswick,2022,1A3B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3B,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3D,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3D,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3D,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3D1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3D1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3D1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3D2,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3D2,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3D2,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
+New Brunswick,2022,1A3D1,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D1,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D1,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D2,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D2,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3D2,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3E,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3E,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A3E,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A3E1,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3E1,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A3E1,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
+New Brunswick,2022,1A3E1,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3E1,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A3E1,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A4A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A4A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A4A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A4B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A4B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A4B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
+New Brunswick,2022,1A4A,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4A,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4A,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A4B,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4C,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4C,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A4C,Oil,NA,NA,NA,NA,NA,NA
@@ -9962,15 +9962,15 @@ New Brunswick,2022,1A4C3,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Coal,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Natural gas,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1A5,Oil,NA,NA,NA,NA,NA,NA
-New Brunswick,2022,1A5A,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A5A,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A5A,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A5B,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A5B,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A5B,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A5C,Coal,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A5C,Natural gas,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
-New Brunswick,2022,1A5C,Oil,"gvt(ECCC[2021]), report(KPMG[2020])",NA,report(ECCC[2020]); ,NA,NA,NA
+New Brunswick,2022,1A5A,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5A,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5A,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5B,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5B,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5B,Oil,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5C,Coal,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5C,Natural gas,NA,NA,NA,NA,NA,NA
+New Brunswick,2022,1A5C,Oil,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1B,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1B1,NA,NA,NA,NA,NA,NA,NA
 New Brunswick,2022,1B1A,NA,NA,NA,NA,NA,NA,NA
