@@ -14,5 +14,6 @@ _raw/price/*_temp.csv
 _raw/scope/ets/ets_scope_*_*.py
 _raw/scope/tax/taxes_scope_*_*.py
 
+_dataset/qa/CO2
 
 wcpd_architecture.mmd
