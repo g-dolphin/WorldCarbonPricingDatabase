@@ -38,7 +38,9 @@ OUTPUT_COLUMNS = [
     "tax_curr_code",
     "tax_2_curr_code",
     "tax_ex_rate",
+    "tax_base_relief_rate",
     "tax_rate_incl_ex_clcu",
+    "tax_rate_effective_clcu",
     "ets_price",
     "ets_curr_code",
     "ets_2_price",
@@ -53,6 +55,7 @@ SOURCE_COLUMNS = [
     "tax_rate_excl_ex_clcu",
     "tax_2_rate_excl_ex_clcu",
     "tax_ex_rate",
+    "tax_base_relief_rate",
     "ets_price",
     "ets_2_price",
 ]
@@ -67,7 +70,9 @@ FINAL_COLUMNS = [
     "tax_id",
     "tax_rate_excl_ex_clcu",
     "tax_ex_rate",
+    "tax_base_relief_rate",
     "tax_rate_incl_ex_clcu",
+    "tax_rate_effective_clcu",
     "tax_curr_code",
     "ets_id",
     "ets_price",
@@ -86,6 +91,7 @@ FINAL_SOURCE_COLUMNS = [
     "ets",
     "tax_rate_excl_ex_clcu",
     "tax_ex_rate",
+    "tax_base_relief_rate",
     "ets_price",
     "ets_2_price",
 ]
@@ -158,6 +164,44 @@ def scope_block(scope_config, primary_key, *aliases):
     return {}
 
 
+def _append_source(existing, new_source: str) -> str:
+    existing_text = "" if pd.isna(existing) else str(existing).strip()
+    new_text = str(new_source or "").strip()
+    if not new_text or new_text == "NA":
+        return existing_text or "NA"
+    if not existing_text or existing_text == "NA":
+        return new_text
+    if new_text in existing_text.split("; "):
+        return existing_text
+    return f"{existing_text}; {new_text}"
+
+
+def _infer_tax_relief_column(record: dict) -> str:
+    relief_base = str(record.get("relief_base", "")).strip().lower()
+    relief_kind = str(record.get("relief_kind", "")).strip().lower()
+
+    if relief_base in {"taxable_emissions", "taxable_base", "tax_base", "base", "emissions"}:
+        return "tax_base_relief_rate"
+    if relief_base in {"tax_rate", "rate"}:
+        return "tax_ex_rate"
+    if relief_kind in {"allowance", "offset", "tax_free_allowance", "tax-free allowance"}:
+        return "tax_base_relief_rate"
+    return "tax_ex_rate"
+
+
+def _recompute_tax_rate_outputs(wcpd_all_jur: pd.DataFrame) -> None:
+    statutory = pd.to_numeric(wcpd_all_jur["tax_rate_excl_ex_clcu"], errors="coerce")
+    tax_ex_rate = pd.to_numeric(wcpd_all_jur["tax_ex_rate"], errors="coerce").fillna(0)
+    tax_base_relief_rate = pd.to_numeric(
+        wcpd_all_jur["tax_base_relief_rate"], errors="coerce"
+    ).fillna(0)
+
+    wcpd_all_jur["tax_rate_incl_ex_clcu"] = statutory * (1 - tax_ex_rate)
+    wcpd_all_jur["tax_rate_effective_clcu"] = (
+        statutory * (1 - tax_ex_rate) * (1 - tax_base_relief_rate)
+    )
+
+
 def apply_ets_scope_exceptions(ets_scope_data, ets_scope_sources, gas: str):
     exceptions_module = load_module(
         "ets_scope_exceptions",
@@ -211,13 +255,15 @@ def apply_ets_scope_exceptions(ets_scope_data, ets_scope_sources, gas: str):
     return ets_scope_data, ets_scope_sources
 
 
-def run_tax_exemptions(gas: str, wcpd_all_jur: pd.DataFrame, wcpd_all_jur_sources: pd.DataFrame):
+def run_tax_reliefs(gas: str, wcpd_all_jur: pd.DataFrame, wcpd_all_jur_sources: pd.DataFrame):
     rebate_module = load_module(
         f"tax_rebates_{gas}",
         RAW_DIR / f"priceRebates/tax/_price_exemptions_tax_{gas}.py",
     )
 
-    records = getattr(rebate_module, "tax_exemptions_records", None)
+    records = getattr(rebate_module, "tax_relief_records", None)
+    if records is None:
+        records = getattr(rebate_module, "tax_exemptions_records", None)
     legacy = getattr(rebate_module, "tax_exemptions", None)
     legacy_sources = getattr(rebate_module, "tax_exemptions_sources", None)
 
@@ -231,6 +277,7 @@ def run_tax_exemptions(gas: str, wcpd_all_jur: pd.DataFrame, wcpd_all_jur_source
             source_by_year = rec.get("source_by_year", {})
             default_value = rec.get("value")
             default_source = rec.get("source", "NA")
+            target_col = _infer_tax_relief_column(rec)
 
             for year in range(int(year_from), int(year_to) + 1):
                 value = value_by_year.get(year, default_value)
@@ -243,8 +290,11 @@ def run_tax_exemptions(gas: str, wcpd_all_jur: pd.DataFrame, wcpd_all_jur_source
                     & (wcpd_all_jur.ipcc_code.isin(rec.get("ipcc", [])))
                     & (wcpd_all_jur.Product.isin(rec.get("fuel", [])))
                 )
-                wcpd_all_jur.loc[row_selection, "tax_ex_rate"] = value
-                wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = source
+                wcpd_all_jur.loc[row_selection, target_col] = value
+                existing_source = wcpd_all_jur_sources.loc[row_selection, target_col]
+                wcpd_all_jur_sources.loc[row_selection, target_col] = existing_source.apply(
+                    lambda current: _append_source(current, source)
+                )
     elif legacy and legacy != [""]:
         for idx, exemption in enumerate(legacy):
             for year in exemption["jurisdiction"].keys():
@@ -258,9 +308,7 @@ def run_tax_exemptions(gas: str, wcpd_all_jur: pd.DataFrame, wcpd_all_jur_source
                 if legacy_sources:
                     wcpd_all_jur_sources.loc[row_selection, "tax_ex_rate"] = legacy_sources[idx][year]
 
-    wcpd_all_jur["tax_rate_incl_ex_clcu"] = (
-        wcpd_all_jur["tax_rate_excl_ex_clcu"] * (1 - wcpd_all_jur["tax_ex_rate"])
-    )
+    _recompute_tax_rate_outputs(wcpd_all_jur)
 
 
 def finalize_output(wcpd_all_jur: pd.DataFrame, wcpd_all_jur_sources: pd.DataFrame):
@@ -271,23 +319,35 @@ def finalize_output(wcpd_all_jur: pd.DataFrame, wcpd_all_jur_sources: pd.DataFra
 
     wcpd_all_jur.loc[wcpd_all_jur.tax != 1, "tax_ex_rate"] = np.nan
     wcpd_all_jur_sources.loc[wcpd_all_jur.tax != 1, "tax_ex_rate"] = np.nan
+    wcpd_all_jur.loc[wcpd_all_jur.tax != 1, "tax_base_relief_rate"] = np.nan
+    wcpd_all_jur_sources.loc[wcpd_all_jur.tax != 1, "tax_base_relief_rate"] = np.nan
 
     tax_mask = wcpd_all_jur.tax == 1
     tax_ex_rate = pd.to_numeric(wcpd_all_jur.loc[tax_mask, "tax_ex_rate"], errors="coerce")
+    tax_base_relief_rate = pd.to_numeric(
+        wcpd_all_jur.loc[tax_mask, "tax_base_relief_rate"], errors="coerce"
+    )
     wcpd_all_jur.loc[tax_mask, "tax_ex_rate"] = tax_ex_rate.fillna(0)
+    wcpd_all_jur.loc[tax_mask, "tax_base_relief_rate"] = tax_base_relief_rate.fillna(0)
     wcpd_all_jur_sources.loc[wcpd_all_jur.tax == 1, "tax_ex_rate"] = (
         wcpd_all_jur_sources.loc[wcpd_all_jur.tax == 1, "tax_ex_rate"].fillna("NA")
+    )
+    wcpd_all_jur_sources.loc[wcpd_all_jur.tax == 1, "tax_base_relief_rate"] = (
+        wcpd_all_jur_sources.loc[wcpd_all_jur.tax == 1, "tax_base_relief_rate"].fillna("NA")
     )
 
     wcpd_all_jur["Product"] = wcpd_all_jur["Product"].fillna("NA")
     wcpd_all_jur_sources["Product"] = wcpd_all_jur_sources["Product"].fillna("NA")
+    _recompute_tax_rate_outputs(wcpd_all_jur)
 
     tax_cols = [
         "tax_id",
         "tax_rate_excl_ex_clcu",
         "tax_curr_code",
         "tax_ex_rate",
+        "tax_base_relief_rate",
         "tax_rate_incl_ex_clcu",
+        "tax_rate_effective_clcu",
     ]
     ets_1_cols = ["ets_id", "ets_price", "ets_curr_code"]
     ets_2_cols = ["ets_2_id", "ets_2_price", "ets_2_curr_code"]
@@ -531,7 +591,7 @@ def build(gas: str = DEFAULT_GAS, verbose: bool = False):
         ets_db_values(ets_2_list, "scheme_2")
         tax_db_values(tax_2_list, "scheme_2")
 
-    run_tax_exemptions(gas, wcpd_all_jur, wcpd_all_jur_sources)
+    run_tax_reliefs(gas, wcpd_all_jur, wcpd_all_jur_sources)
     wcpd_all_jur, wcpd_all_jur_sources = finalize_output(wcpd_all_jur, wcpd_all_jur_sources)
 
     cf = coverage_module.generate_coverage_factors(

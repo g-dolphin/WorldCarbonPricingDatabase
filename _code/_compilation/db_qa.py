@@ -12,7 +12,9 @@ KEY_COLUMNS = ["jurisdiction", "year", "ipcc_code", "Product"]
 NUMERIC_COLUMNS = [
     "tax_rate_excl_ex_clcu",
     "tax_ex_rate",
+    "tax_base_relief_rate",
     "tax_rate_incl_ex_clcu",
+    "tax_rate_effective_clcu",
     "ets_price",
     "ets_2_price",
 ]
@@ -217,6 +219,39 @@ def find_odd_entries(df: pd.DataFrame, gas: str) -> pd.DataFrame:
                 "high",
                 "tax_ex_rate",
                 "tax_ex_rate is outside [0, 1].",
+            )
+        )
+
+    if "tax_base_relief_rate" in df.columns:
+        base_relief_rate = _to_numeric(df["tax_base_relief_rate"])
+        invalid_base_relief_rate = base_relief_rate.notna() & (
+            (base_relief_rate < 0) | (base_relief_rate > 1)
+        )
+        issues.extend(
+            _issues_from_mask(
+                df,
+                gas,
+                invalid_base_relief_rate,
+                "invalid_tax_base_relief_rate",
+                "high",
+                "tax_base_relief_rate",
+                "tax_base_relief_rate is outside [0, 1].",
+            )
+        )
+
+    if {"tax_rate_excl_ex_clcu", "tax_rate_effective_clcu"}.issubset(df.columns):
+        statutory = _to_numeric(df["tax_rate_excl_ex_clcu"])
+        effective = _to_numeric(df["tax_rate_effective_clcu"])
+        invalid_effective = effective.notna() & statutory.notna() & (effective > statutory)
+        issues.extend(
+            _issues_from_mask(
+                df,
+                gas,
+                invalid_effective,
+                "effective_tax_rate_exceeds_statutory_rate",
+                "high",
+                "tax_rate_effective_clcu",
+                "tax_rate_effective_clcu exceeds tax_rate_excl_ex_clcu.",
             )
         )
 
