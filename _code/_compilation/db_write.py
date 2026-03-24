@@ -81,7 +81,7 @@ save_jurisdiction_files(
 )
 
 # Coverage factors
-coverage_dir = RAW_DIR / "coverageFactor"
+coverage_dir = RAW_DIR / "coverageFactor" / GAS
 coverage_dir.mkdir(parents=True, exist_ok=True)
 for scheme in (
     BUILD_RESULT["taxes_1_list"]
