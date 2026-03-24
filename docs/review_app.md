@@ -12,7 +12,7 @@ The app is split into five main areas:
 2. **Gap dashboard**: identify missing data by scheme/year/variable and jump to Review candidates with filters applied.
 3. **Manage sources**: edit the upstream sources registry for the fetcher and promote discovery candidates.
 4. **Review candidates**: review extracted candidates from fetched sources.
-5. **Raw editor**: write updates directly into raw data files (prices, scope, rebates) using timestamped output files for safety.
+5. **Raw editor**: write updates directly into raw data files (prices, scope, tax reliefs) using timestamped output files for safety.
 
 **How Review Candidates connects to Raw Editor**  
 Reviewed values are saved to `_raw/sources/cp_review_state.csv`. To turn those decisions into structured outputs, run `_code/_sources_extraction/apply_review.py`, which writes:
@@ -20,7 +20,7 @@ Reviewed values are saved to `_raw/sources/cp_review_state.csv`. To turn those d
 - `_raw/sources/upstream_start_dates.csv`
 - `_raw/sources/upstream_coverage_ipcc.csv`
 
-These outputs include the reviewed **GHG**, **fuel/product**, and **IPCC** selections (when provided). They are **inputs for manual encoding** in the Raw editor (prices/scope/rebates). The app does not auto-write to `_raw/price` or `_raw/scope` from review decisions.
+These outputs include the reviewed **GHG**, **fuel/product**, and **IPCC** selections (when provided). They are **inputs for manual encoding** in the Raw editor (prices/scope/tax reliefs). The app does not auto-write to `_raw/price` or `_raw/scope` from review decisions.
 
 ## Data paths used by the app
 **Upstream extraction** (`_raw/sources/`)
@@ -42,7 +42,7 @@ These outputs include the reviewed **GHG**, **fuel/product**, and **IPCC** selec
 - Prices: `_raw/price/*.csv`
 - Scope (ETS): `_raw/scope/ets/ets_scope_<GAS>.py`
 - Scope (Taxes): `_raw/scope/tax/taxes_scope_<GAS>.py`
-- Price rebates: `_raw/priceRebates/tax/_price_exemptions_tax_<GAS>.py`
+- Tax reliefs: `_raw/priceRebates/tax/_price_exemptions_tax_<GAS>.py`
 
 **Tax rate preprocessing (pro rata)**
 - `_raw/price/_preproc/rate_changes.csv`: rate change periods
@@ -100,10 +100,10 @@ The raw editor writes new files with timestamped names (YYYYMMDD) and provides a
 - Per-year UI with multi-select **IPCC codes** and **fuels** (fuels only for taxes).
 - **Scheme type** is determined by where the `scheme_id` exists (ETS or tax scope file).
 
-#### Price rebates / exemptions
+#### Tax reliefs
 - **Edits**: `_raw/priceRebates/tax/_price_exemptions_tax_<GAS>.py`
-- Per-year UI for jurisdiction, IPCC, fuels, and rebate value.
-- New entries are appended as new exemption blocks; a warning appears on conflicts.
+- Per-year UI for jurisdiction, IPCC, fuels, relief kind, relief base, and relief value.
+- The app writes `tax_relief_records` blocks. Legacy exemption blocks remain readable.
 
 #### Coverage factors (review-only)
 - Displays the current CSV contents from `_raw/coverageFactor/<GAS>`.
