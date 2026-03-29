@@ -53,3 +53,12 @@ can_tax_II,2021,CH4,Natural gas,40,CAD,gvt(ECCC[2019]),
 can_tax_II,2022,CH4,Natural gas,50,CAD,report(ECCC[2020]),
 can_tax_II,2023,CH4,Natural gas,65,CAD,db(WCPD[2024]),
 can_tax_II,2024,CH4,Natural gas,80,CAD,db(WCPD[2024]),
+can_tax_II,2025,CO2,Coal,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter
+can_tax_II,2025,CO2,Oil,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter
+can_tax_II,2025,CO2,Natural gas,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter
+can_tax_II,2025,N2O,Coal,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter
+can_tax_II,2025,N2O,Oil,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter
+can_tax_II,2025,N2O,Natural gas,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter
+can_tax_II,2025,CH4,Coal,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter
+can_tax_II,2025,CH4,Oil,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter
+can_tax_II,2025,CH4,Natural gas,23.424657534246574,CAD,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025",consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter

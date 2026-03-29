@@ -104,3 +104,6 @@ fin_tax,2023,CO2,Natural gas,77,EUR,db(WBCPBD[2024]),
 fin_tax,2024,CO2,Coal,93.02,EUR,db(WBCPBD[2024]),
 fin_tax,2024,CO2,Oil,93.02,EUR,db(WBCPBD[2024]),
 fin_tax,2024,CO2,Natural gas,93.02,EUR,db(WBCPBD[2024]),
+fin_tax,2025,CO2,Coal,93.02,EUR,FIN-TAX-rates-001,the carbon tax does not apply to peat; carried forward to 2025 from the Vero rates table (no change from 2024)
+fin_tax,2025,CO2,Oil,93.02,EUR,FIN-TAX-rates-001,carried forward to 2025 from the Vero rates table (no change from 2024)
+fin_tax,2025,CO2,Natural gas,93.02,EUR,FIN-TAX-rates-001,carried forward to 2025 from the Vero rates table (no change from 2024)
