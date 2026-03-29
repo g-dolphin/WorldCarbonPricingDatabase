@@ -10744,7 +10744,7 @@ Mexico,2025,1A1A,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A1A1,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A1A1,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A1A1,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A1A1,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A1A2,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10753,52 +10753,52 @@ Mexico,2025,1A1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A1A3,Oil,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A1B,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A1B,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A1B,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A1B,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A1C,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A1C,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A1C,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A1C,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A2A,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A2A,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A2A,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A2A,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A2B,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A2B,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A2B,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A2B,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A2C,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A2C,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A2C,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A2C,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A2D,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A2D,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A2D,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A2D,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A2E,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A2E,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A2E,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A2E,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A2F,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A2F,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A2F,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A2F,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A2G,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A2G,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A2G,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A2G,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A2H,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A2H,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A2H,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A2H,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A2I,Coal,leg(LIEP[2012]),report(ICAP[2023]),; ,NA,NA,nan; nan,NA
 Mexico,2025,1A2I,Natural gas,NA,report(ICAP[2023]),NA,NA,NA,nan; nan,NA
-Mexico,2025,1A2I,Oil,leg(LIEP[2012]),report(ICAP[2023]),NA,NA,NA,nan; nan,NA
+Mexico,2025,1A2I,Oil,leg(LIEP[2012]),report(ICAP[2023]),"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,nan; nan,NA
 Mexico,2025,1A2J,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A2J,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A2J,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A2J,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A2K,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A2K,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A2K,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A2K,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A2L,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A2L,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A2L,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A2L,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A2M,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A2M,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A2M,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A2M,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10810,10 +10810,10 @@ Mexico,2025,1A3A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A3A1,Oil,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A3A2,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A3A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A3A2,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A3A2,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A3B,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A3B,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A3B,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A3B,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A3C,Coal,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A3C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A3C,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10840,13 +10840,13 @@ Mexico,2025,1A4A,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A4A,Oil,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A4B,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A4B,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A4B,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A4B,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A4C,Coal,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A4C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A4C,Oil,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A4C1,Coal,leg(LIEP[2012]),NA,; ,NA,NA,NA,NA
 Mexico,2025,1A4C1,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Mexico,2025,1A4C1,Oil,leg(LIEP[2012]),NA,NA,NA,NA,NA,NA
+Mexico,2025,1A4C1,Oil,leg(LIEP[2012]),NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
 Mexico,2025,1A4C2,Coal,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A4C2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Mexico,2025,1A4C2,Oil,NA,NA,NA,NA,NA,NA,NA

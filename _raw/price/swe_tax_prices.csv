@@ -95,9 +95,12 @@ swe_tax,2021,CO2,Natural gas,1205.315217,SEK,db(EC-TED),own calculations based o
 swe_tax,2022,CO2,Oil,1221.0,SEK,db(EC-TED),own calculations based on EC Taxes in Europe database.
 swe_tax,2022,CO2,Coal,1221.0,SEK,db(EC-TED),own calculations based on EC Taxes in Europe database.
 swe_tax,2022,CO2,Natural gas,1221.0,SEK,db(EC-TED),own calculations based on EC Taxes in Europe database.
-swe_tax,2023,CO2,Oil,1328.0,SEK,,own calculations based on Skatteverkett (Swedish Tax Agency).
-swe_tax,2023,CO2,Coal,1328.0,SEK,,own calculations based on Skatteverkett (Swedish Tax Agency).
-swe_tax,2023,CO2,Natural gas,1328.0,SEK,,own calculations based on Skatteverkett (Swedish Tax Agency).
-swe_tax,2024,CO2,Coal,1451.0,SEK,,own calculations based on Skatteverkett (Swedish Tax Agency).
-swe_tax,2024,CO2,Oil,1451.0,SEK,,own calculations based on Skatteverkett (Swedish Tax Agency).
-swe_tax,2024,CO2,Natural gas,1451.0,SEK,,own calculations based on Skatteverkett (Swedish Tax Agency).
+swe_tax,2023,CO2,Oil,1327.1028037383178,SEK,SWE-TAX-SKV-2024-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e
+swe_tax,2023,CO2,Coal,1327.1028037383178,SEK,SWE-TAX-SKV-2024-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e
+swe_tax,2023,CO2,Natural gas,1327.1028037383178,SEK,SWE-TAX-SKV-2024-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e
+swe_tax,2024,CO2,Coal,1450.467289719626,SEK,SWE-TAX-SKV-2024-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e
+swe_tax,2024,CO2,Oil,1450.467289719626,SEK,SWE-TAX-SKV-2024-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e
+swe_tax,2024,CO2,Natural gas,1450.467289719626,SEK,SWE-TAX-SKV-2024-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e
+swe_tax,2025,CO2,Coal,1510.7476635514017,SEK,SWE-TAX-SKV-2025-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e
+swe_tax,2025,CO2,Oil,1510.7476635514017,SEK,SWE-TAX-SKV-2025-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e
+swe_tax,2025,CO2,Natural gas,1510.7476635514017,SEK,SWE-TAX-SKV-2025-001,representative_fuel=Naturgas som används för annat ändamål; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e

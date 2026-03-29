@@ -10748,9 +10748,9 @@ Quebec,2025,1A1A1,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,NA,nan;
 Quebec,2025,1A1A2,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,NA,nan; nan,NA
 Quebec,2025,1A1A2,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,NA,nan; nan,NA
 Quebec,2025,1A1A2,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,NA,nan; nan,NA
-Quebec,2025,1A1A3,Coal,NA,"leg(QC[2011], QC[2012], QC[2013])",NA,NA,NA,NA,NA
-Quebec,2025,1A1A3,Natural gas,NA,"leg(QC[2011], QC[2012], QC[2013])",NA,NA,NA,NA,NA
-Quebec,2025,1A1A3,Oil,NA,"leg(QC[2011], QC[2012], QC[2013])",NA,NA,NA,NA,NA
+Quebec,2025,1A1A3,Coal,NA,"leg(QC[2011], QC[2012], QC[2013])",NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Quebec,2025,1A1A3,Natural gas,NA,"leg(QC[2011], QC[2012], QC[2013])",NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Quebec,2025,1A1A3,Oil,NA,"leg(QC[2011], QC[2012], QC[2013])",NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Quebec,2025,1A1B,Coal,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,NA,nan; nan,NA
 Quebec,2025,1A1B,Natural gas,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,NA,nan; nan,NA
 Quebec,2025,1A1B,Oil,NA,"leg(CA-AB32[2006]), gvt(CARB-FRO[2011])",NA,NA,NA,nan; nan,NA

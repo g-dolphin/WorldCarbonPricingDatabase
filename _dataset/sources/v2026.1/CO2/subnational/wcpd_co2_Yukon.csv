@@ -10748,15 +10748,15 @@ Yukon,2025,1A1A1,Oil,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1A1A2,Coal,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1A1A2,Natural gas,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1A1A2,Oil,NA, ,NA,NA,NA,nan; nan,NA
-Yukon,2025,1A1A3,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A1A3,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A1A3,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A1B,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A1B,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A1B,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A1C,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A1C,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A1C,Oil, ,NA,NA,NA,NA,NA,NA
+Yukon,2025,1A1A3,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A1A3,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A1A3,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A1B,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A1B,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A1B,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A1C,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A1C,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A1C,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Yukon,2025,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10778,27 +10778,27 @@ Yukon,2025,1A2E,Oil,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1A2F,Coal,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1A2F,Natural gas,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1A2F,Oil,NA, ,NA,NA,NA,nan; nan,NA
-Yukon,2025,1A2G,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2G,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2G,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2H,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2H,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2H,Oil, ,NA,NA,NA,NA,NA,NA
+Yukon,2025,1A2G,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2G,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2G,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2H,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2H,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2H,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Yukon,2025,1A2I,Coal,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1A2I,Natural gas,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1A2I,Oil,NA, ,NA,NA,NA,nan; nan,NA
-Yukon,2025,1A2J,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2J,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2J,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2K,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2K,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2K,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2L,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2L,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2L,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2M,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2M,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A2M,Oil, ,NA,NA,NA,NA,NA,NA
+Yukon,2025,1A2J,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2J,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2J,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2K,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2K,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2K,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2L,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2L,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2L,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2M,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2M,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A2M,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Yukon,2025,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10811,36 +10811,36 @@ Yukon,2025,1A3A1,Oil,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3B,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3B,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3B,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3C,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3C,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3C,Oil, ,NA,NA,NA,NA,NA,NA
+Yukon,2025,1A3B,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3B,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3B,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3C,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3C,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3C,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Yukon,2025,1A3D,Coal,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3D,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3D,Oil,NA,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3D1,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3D1,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3D1,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3D2,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3D2,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3D2,Oil, ,NA,NA,NA,NA,NA,NA
+Yukon,2025,1A3D1,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3D1,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3D1,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3D2,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3D2,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3D2,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Yukon,2025,1A3E,Coal,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3E,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A3E,Oil,NA,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3E1,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3E1,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A3E1,Oil, ,NA,NA,NA,NA,NA,NA
+Yukon,2025,1A3E1,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3E1,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A3E1,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Yukon,2025,1A4,Coal,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A4,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A4,Oil,NA,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A4A,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A4A,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A4A,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A4B,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A4B,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A4B,Oil, ,NA,NA,NA,NA,NA,NA
+Yukon,2025,1A4A,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A4A,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A4A,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A4B,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A4B,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A4B,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Yukon,2025,1A4C,Coal,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A4C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A4C,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10856,15 +10856,15 @@ Yukon,2025,1A4C3,Oil,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A5,Coal,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A5,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1A5,Oil,NA,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5A,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5A,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5A,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5B,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5B,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5B,Oil, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5C,Coal, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5C,Natural gas, ,NA,NA,NA,NA,NA,NA
-Yukon,2025,1A5C,Oil, ,NA,NA,NA,NA,NA,NA
+Yukon,2025,1A5A,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A5A,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A5A,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A5B,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A5B,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A5B,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A5C,Coal, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A5C,Natural gas, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Yukon,2025,1A5C,Oil, ,NA,"CAN-TAX-II-CRA-2025, CAN-TAX-II-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Yukon,2025,1B,NA,NA,NA,NA,NA,NA,NA,NA
 Yukon,2025,1B1,NA,NA, ,NA,NA,NA,nan; nan,NA
 Yukon,2025,1B1A,NA,NA, ,NA,NA,NA,nan; nan,NA
