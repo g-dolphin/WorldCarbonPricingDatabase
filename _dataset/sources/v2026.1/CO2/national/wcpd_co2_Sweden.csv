@@ -10155,12 +10155,12 @@ Sweden,2023,1A1A2,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily
 Sweden,2023,1A1A3,Coal,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2023,1A1A3,Natural gas,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2023,1A1A3,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2023,1A1B,Coal,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2023,1A1B,Natural gas,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2023,1A1B,Oil,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2023,1A1C,Coal,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2023,1A1C,Natural gas,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2023,1A1C,Oil,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2023,1A1B,Coal,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2023,1A1B,Natural gas,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2023,1A1B,Oil,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2023,1A1C,Coal,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2023,1A1C,Natural gas,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2023,1A1C,Oil,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2023,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10215,9 +10215,9 @@ Sweden,2023,1A3A1,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily
 Sweden,2023,1A3A2,Coal,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2023,1A3A2,Natural gas,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2023,1A3A2,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2023,1A3B,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A3B,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A3B,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
+Sweden,2023,1A3B,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A3B,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A3B,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2023,1A3C,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A3C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A3C,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10239,21 +10239,21 @@ Sweden,2023,1A3E1,Oil,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A4,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A4,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A4,Oil,NA,NA,NA,NA,NA,NA,NA
-Sweden,2023,1A4A,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4A,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4A,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4B,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4B,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4B,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
+Sweden,2023,1A4A,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4A,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4A,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4B,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4B,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4B,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2023,1A4C,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A4C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A4C,Oil,NA,NA,NA,NA,NA,NA,NA
-Sweden,2023,1A4C1,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4C1,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4C1,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4C2,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4C2,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2023,1A4C2,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
+Sweden,2023,1A4C1,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4C1,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4C1,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4C2,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4C2,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2023,1A4C2,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2023,1A4C3,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A4C3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2023,1A4C3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10453,12 +10453,12 @@ Sweden,2024,1A1A2,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily
 Sweden,2024,1A1A3,Coal,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2024,1A1A3,Natural gas,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2024,1A1A3,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2024,1A1B,Coal,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2024,1A1B,Natural gas,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2024,1A1B,Oil,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2024,1A1C,Coal,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2024,1A1C,Natural gas,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2024,1A1C,Oil,report(SMF-CT[2011]), ,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2024,1A1B,Coal,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2024,1A1B,Natural gas,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2024,1A1B,Oil,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2024,1A1C,Coal,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2024,1A1C,Natural gas,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2024,1A1C,Oil,report(SMF-CT[2011]), ,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2024,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10513,9 +10513,9 @@ Sweden,2024,1A3A1,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily
 Sweden,2024,1A3A2,Coal,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2024,1A3A2,Natural gas,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2024,1A3A2,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2024,1A3B,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A3B,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A3B,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
+Sweden,2024,1A3B,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A3B,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A3B,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2024,1A3C,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A3C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A3C,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10537,21 +10537,21 @@ Sweden,2024,1A3E1,Oil,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A4,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A4,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A4,Oil,NA,NA,NA,NA,NA,NA,NA
-Sweden,2024,1A4A,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4A,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4A,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4B,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4B,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4B,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
+Sweden,2024,1A4A,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4A,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4A,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4B,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4B,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4B,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2024,1A4C,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A4C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A4C,Oil,NA,NA,NA,NA,NA,NA,NA
-Sweden,2024,1A4C1,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4C1,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4C1,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4C2,Coal,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4C2,Natural gas,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
-Sweden,2024,1A4C2,Oil,report(SMF-CT[2011]),NA,; own calculations based on Skatteverkett (Swedish Tax Agency).,NA,NA,NA,NA
+Sweden,2024,1A4C1,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4C1,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4C1,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4C2,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4C2,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2024,1A4C2,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2024-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2024,1A4C3,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A4C3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2024,1A4C3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10751,12 +10751,12 @@ Sweden,2025,1A1A2,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily
 Sweden,2025,1A1A3,Coal,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2025,1A1A3,Natural gas,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2025,1A1A3,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2025,1A1B,Coal,report(SMF-CT[2011]), ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2025,1A1B,Natural gas,report(SMF-CT[2011]), ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2025,1A1B,Oil,report(SMF-CT[2011]), ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2025,1A1C,Coal,report(SMF-CT[2011]), ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2025,1A1C,Natural gas,report(SMF-CT[2011]), ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2025,1A1C,Oil,report(SMF-CT[2011]), ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2025,1A1B,Coal,report(SMF-CT[2011]), ,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2025,1A1B,Natural gas,report(SMF-CT[2011]), ,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2025,1A1B,Oil,report(SMF-CT[2011]), ,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2025,1A1C,Coal,report(SMF-CT[2011]), ,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2025,1A1C,Natural gas,report(SMF-CT[2011]), ,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Sweden,2025,1A1C,Oil,report(SMF-CT[2011]), ,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2025,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10811,9 +10811,9 @@ Sweden,2025,1A3A1,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily
 Sweden,2025,1A3A2,Coal,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2025,1A3A2,Natural gas,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Sweden,2025,1A3A2,Oil,NA, ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Sweden,2025,1A3B,Coal,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A3B,Natural gas,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A3B,Oil,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
+Sweden,2025,1A3B,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A3B,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A3B,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2025,1A3C,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A3C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A3C,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10835,21 +10835,21 @@ Sweden,2025,1A3E1,Oil,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A4,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A4,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A4,Oil,NA,NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4A,Coal,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4A,Natural gas,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4A,Oil,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4B,Coal,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4B,Natural gas,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4B,Oil,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
+Sweden,2025,1A4A,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4A,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4A,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4B,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4B,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4B,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2025,1A4C,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A4C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A4C,Oil,NA,NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4C1,Coal,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4C1,Natural gas,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4C1,Oil,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4C2,Coal,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4C2,Natural gas,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
-Sweden,2025,1A4C2,Oil,report(SMF-CT[2011]),NA,NA,NA,NA,NA,NA
+Sweden,2025,1A4C1,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4C1,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4C1,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4C2,Coal,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4C2,Natural gas,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
+Sweden,2025,1A4C2,Oil,report(SMF-CT[2011]),NA,SWE-TAX-SKV-2025-001; representative_fuel=Naturgas som anvÃ¤nds fÃ¶r annat Ã¤ndamÃ¥l; method=representative_fuel; converted from Skatteverket fuel-unit schedule to SEK/tCO2e,NA,NA,NA,NA
 Sweden,2025,1A4C3,Coal,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A4C3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Sweden,2025,1A4C3,Oil,NA,NA,NA,NA,NA,NA,NA

@@ -5679,60 +5679,60 @@ Switzerland,2008,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A1,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2008,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2008,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -5843,41 +5843,41 @@ Switzerland,2008,1C2A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1C2B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,1C3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2A,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,2A4,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,2A4B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2A4C,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2A4D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2B,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,2B10,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,2B5,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2B6,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,2B8,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,2B9,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2B9A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2B9B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2C,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2008,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2008,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,2D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2D1,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2D2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5902,7 +5902,7 @@ Switzerland,2008,2G2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2G3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2G4,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2H,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2008,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2008,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2008,2H2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,2H3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2008,3A,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5977,60 +5977,60 @@ Switzerland,2009,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A1,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2009,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2009,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2009,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2009,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2009,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2009,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -6141,41 +6141,41 @@ Switzerland,2009,1C2A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1C2B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,1C3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2A,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,2A4,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,2A4B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2A4C,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2A4D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2B,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,2B10,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,2B5,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2B6,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,2B8,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,2B9,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2B9A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2B9B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2C,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2009,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2009,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,2D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2D1,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2D2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6200,7 +6200,7 @@ Switzerland,2009,2G2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2G3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2G4,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2H,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2009,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2009,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2009,2H2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,2H3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2009,3A,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6275,60 +6275,60 @@ Switzerland,2010,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A1,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2010,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2010,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2010,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2010,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2010,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2010,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -6439,41 +6439,41 @@ Switzerland,2010,1C2A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1C2B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,1C3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2A,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,2A4,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,2A4B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2A4C,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2A4D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2B,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,2B10,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,2B5,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2B6,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,2B8,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,2B9,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2B9A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2B9B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2C,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2010,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2010,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,2D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2D1,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2D2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6498,7 +6498,7 @@ Switzerland,2010,2G2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2G3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2G4,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2H,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2010,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2010,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2010,2H2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,2H3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2010,3A,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6573,60 +6573,60 @@ Switzerland,2011,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A1,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2011,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2011,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2011,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2011,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2011,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2011,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -6737,41 +6737,41 @@ Switzerland,2011,1C2A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1C2B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,1C3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2A,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,2A4,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,2A4B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2A4C,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2A4D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2B,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,2B10,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,2B5,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2B6,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,2B8,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,2B9,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2B9A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2B9B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2C,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2011,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2011,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,2D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2D1,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2D2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6796,7 +6796,7 @@ Switzerland,2011,2G2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2G3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2G4,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2H,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2011,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2011,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2011,2H2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,2H3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2011,3A,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6871,60 +6871,60 @@ Switzerland,2012,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A1,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2012,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2012,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2012,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2012,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2012,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,NA,NA
-Switzerland,2012,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),report(GLOBE-SWI[2015]); ,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -7035,41 +7035,41 @@ Switzerland,2012,1C2A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1C2B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,1C3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2A,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,2A4,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,2A4B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2A4C,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2A4D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2B,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,2B10,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,2B5,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2B6,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,2B8,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,2B9,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2B9A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2B9B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2C,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2012,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2012,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,2D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2D1,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2D2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7094,7 +7094,7 @@ Switzerland,2012,2G2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2G3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2G4,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2H,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2012,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2012,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2012,2H2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,2H3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2012,3A,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7169,60 +7169,60 @@ Switzerland,2013,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A1,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,NA,NA
-Switzerland,2013,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,NA,NA
-Switzerland,2013,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,NA,NA
-Switzerland,2013,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,NA,NA
-Switzerland,2013,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,NA,NA
-Switzerland,2013,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,NA,NA
-Switzerland,2013,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,1A1A2,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1A2,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1A3,Coal,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1A3,Oil,"gvt(CH[2005], CH[2009])",gvt(CH[2009]),"report(WB[2014],IEA-EPT[2018]); ",NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A1C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,1A2A,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2A,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2A,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2B,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2B,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2B,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2C,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2C,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2C,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2D,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2D,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2D,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2E,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2E,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2E,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2F,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2F,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2F,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2G,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2G,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2G,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2H,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2H,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2H,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2I,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2I,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2I,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2J,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2J,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2J,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2K,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2K,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2K,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2L,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2L,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2L,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2M,Coal,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2M,Natural gas,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,1A2M,Oil,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -7333,41 +7333,41 @@ Switzerland,2013,1C2A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1C2B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,1C3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2A,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,2A1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2A2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2A3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,2A4,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,2A4A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,2A4B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2A4C,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2A4D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2B,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,2B1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,2B10,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,2B2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2B3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2B4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,2B5,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2B6,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,2B7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,2B8,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,2B8A,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2B8B,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2B8C,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2B8D,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2B8E,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2B8F,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,2B9,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2B9A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2B9B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2C,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
-Switzerland,2013,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,2C1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2C2,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2C3,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2C4,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2C5,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2C6,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
+Switzerland,2013,2C7,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,2D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2D1,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2D2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7392,7 +7392,7 @@ Switzerland,2013,2G2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2G3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2G4,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2H,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2013,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,NA,NA
+Switzerland,2013,2H1,NA,NA,gvt(CH[2009]),NA,NA,NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA
 Switzerland,2013,2H2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,2H3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2013,3A,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10742,63 +10742,63 @@ Switzerland,2025,1A1,Oil,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1A1A,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1A1A,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,1A1A1,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A1A1,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A1A1,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A1A2,Coal,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,NA,NA
-Switzerland,2025,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,NA,NA
-Switzerland,2025,1A1A2,Oil,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,NA,NA
-Switzerland,2025,1A1A3,Coal,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,NA,NA
-Switzerland,2025,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,NA,NA
-Switzerland,2025,1A1A3,Oil,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,NA,NA
-Switzerland,2025,1A1B,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A1B,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A1B,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A1C,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A1C,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A1C,Oil,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,1A1A1,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1A1,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1A1,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1A2,Coal,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1A2,Natural gas,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1A2,Oil,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1A3,Coal,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1A3,Natural gas,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1A3,Oil,"gvt(CH[2005], CH[2009])", ,CHE-leg-008; ,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1B,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1B,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1B,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1C,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1C,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A1C,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,1A2A,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2A,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2A,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2B,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2B,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2B,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2C,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2C,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2C,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2D,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2D,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2D,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2E,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2E,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2E,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2F,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2F,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2F,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2G,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2G,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2G,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2H,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2H,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2H,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2I,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2I,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2I,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2J,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2J,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2J,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2K,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2K,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2K,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2L,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2L,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2L,Oil,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2M,Coal,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2M,Natural gas,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,1A2M,Oil,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,1A2A,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2A,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2A,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2B,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2B,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2B,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2C,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2C,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2C,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2D,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2D,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2D,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2E,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2E,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2E,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2F,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2F,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2F,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2G,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2G,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2G,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2H,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2H,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2H,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2I,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2I,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2I,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2J,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2J,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2J,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2K,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2K,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2K,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2L,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2L,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2L,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2M,Coal,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2M,Natural gas,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,1A2M,Oil,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10909,41 +10909,41 @@ Switzerland,2025,1C2A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1C2B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,1C3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2A,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,2A1,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2A2,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2A3,NA,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,2A1,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2A2,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2A3,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,2A4,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,2A4A,NA,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,2A4A,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,2A4B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2A4C,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2A4D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2B,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,2B1,NA,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,2B1,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,2B10,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,2B2,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2B3,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2B4,NA,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,2B2,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2B3,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2B4,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,2B5,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2B6,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,2B7,NA,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,2B7,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,2B8,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,2B8A,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2B8B,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2B8C,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2B8D,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2B8E,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2B8F,NA,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,2B8A,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2B8B,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2B8C,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2B8D,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2B8E,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2B8F,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,2B9,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2B9A,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2B9B,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2C,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,2C1,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2C2,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2C3,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2C4,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2C5,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2C6,NA,NA, ,NA,NA,NA,NA,NA
-Switzerland,2025,2C7,NA,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,2C1,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2C2,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2C3,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2C4,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2C5,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2C6,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
+Switzerland,2025,2C7,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,2D,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2D1,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2D2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10968,7 +10968,7 @@ Switzerland,2025,2G2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2G3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2G4,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2H,NA,NA,NA,NA,NA,NA,NA,NA
-Switzerland,2025,2H1,NA,NA, ,NA,NA,NA,NA,NA
+Switzerland,2025,2H1,NA,NA, ,NA,NA,NA,CHE-ETS-auctions-001; calculated based on annual volume-weighted auction clearing price and allowances sold from Swiss Emissions Registry; includes competitive and non-competitive delivered awards,NA
 Switzerland,2025,2H2,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,2H3,NA,NA,NA,NA,NA,NA,NA,NA
 Switzerland,2025,3A,NA,NA,NA,NA,NA,NA,NA,NA

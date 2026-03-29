@@ -10748,15 +10748,15 @@ Saskatchewan,2025,1A1A1,Oil,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
 Saskatchewan,2025,1A1A2,Coal,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
 Saskatchewan,2025,1A1A2,Natural gas,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
 Saskatchewan,2025,1A1A2,Oil,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1A3,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1A3,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1A3,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1B,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1B,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1B,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1C,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1C,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A1C,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1A3,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1A3,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1A3,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1B,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1B,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1B,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1C,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1C,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A1C,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
 Saskatchewan,2025,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10778,27 +10778,27 @@ Saskatchewan,2025,1A2E,Oil,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
 Saskatchewan,2025,1A2F,Coal,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
 Saskatchewan,2025,1A2F,Natural gas,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
 Saskatchewan,2025,1A2F,Oil,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2G,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2G,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2G,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2H,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2H,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2H,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2G,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2G,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2G,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2H,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2H,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2H,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
 Saskatchewan,2025,1A2I,Coal,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
 Saskatchewan,2025,1A2I,Natural gas,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
 Saskatchewan,2025,1A2I,Oil,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2J,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2J,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2J,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2K,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2K,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2K,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2L,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2L,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2L,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2M,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2M,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A2M,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2J,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2J,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2J,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2K,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2K,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2K,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2L,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2L,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2L,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2M,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2M,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A2M,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
 Saskatchewan,2025,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10808,39 +10808,39 @@ Saskatchewan,2025,1A3A,Oil,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3A1,Coal,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3A2,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3A2,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3A2,Oil, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3B,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3B,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3B,Oil, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3C,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3C,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3C,Oil, ,NA,NA,NA,NA,NA,NA
+Saskatchewan,2025,1A3A2,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3A2,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3A2,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3B,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3B,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3B,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3C,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3C,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3C,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Saskatchewan,2025,1A3D,Coal,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3D,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3D,Oil,NA,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3D1,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3D1,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3D1,Oil, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3D2,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3D2,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3D2,Oil, ,NA,NA,NA,NA,NA,NA
+Saskatchewan,2025,1A3D1,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3D1,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3D1,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3D2,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3D2,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3D2,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Saskatchewan,2025,1A3E,Coal,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3E,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A3E,Oil,NA,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3E1,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3E1,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A3E1,Oil, ,NA,NA,NA,NA,NA,NA
+Saskatchewan,2025,1A3E1,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3E1,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A3E1,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Saskatchewan,2025,1A4,Coal,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A4,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A4,Oil,NA,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A4A,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A4A,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A4A,Oil, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A4B,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A4B,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A4B,Oil, ,NA,NA,NA,NA,NA,NA
+Saskatchewan,2025,1A4A,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A4A,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A4A,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A4B,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A4B,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A4B,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Saskatchewan,2025,1A4C,Coal,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A4C,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A4C,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10856,15 +10856,15 @@ Saskatchewan,2025,1A4C3,Oil,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A5,Coal,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A5,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1A5,Oil,NA,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A5A,Coal, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A5A,Natural gas, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A5A,Oil, ,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
-Saskatchewan,2025,1A5B,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A5B,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A5B,Oil, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A5C,Coal, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A5C,Natural gas, ,NA,NA,NA,NA,NA,NA
-Saskatchewan,2025,1A5C,Oil, ,NA,NA,NA,NA,NA,NA
+Saskatchewan,2025,1A5A,Coal, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A5A,Natural gas, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A5A,Oil, ,db(WBCPD[2024]),"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,nan; nan,NA
+Saskatchewan,2025,1A5B,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A5B,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A5B,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A5C,Coal, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A5C,Natural gas, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
+Saskatchewan,2025,1A5C,Oil, ,NA,"CAN-TAX-I-CRA-2025, CAN-TAX-I-FIN-2025; consumer carbon price removed effective 2025-04-01; pro rata temporis annual average using CAD 95/tCO2e for 2025-01-01 to 2025-03-31 and CAD 0 thereafter",NA,NA,NA,NA
 Saskatchewan,2025,1B,NA,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1B1,NA,NA,NA,NA,NA,NA,NA,NA
 Saskatchewan,2025,1B1A,NA,NA,db(WBCPD[2024]),NA,NA,NA,nan; nan,NA
