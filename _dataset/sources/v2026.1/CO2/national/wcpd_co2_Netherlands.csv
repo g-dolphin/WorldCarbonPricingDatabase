@@ -10739,18 +10739,18 @@ Netherlands,2025,1A,Oil,NA,NA,NA,NA,NA,NA,NA
 Netherlands,2025,1A1,Coal,NA,NA,NA,NA,NA,NA,NA
 Netherlands,2025,1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Netherlands,2025,1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Netherlands,2025,1A1A,Coal,"leg(NLD(2020)), leg(NLD(2022))",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Netherlands,2025,1A1A,Natural gas,"leg(NLD(2020)), leg(NLD(2022))",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Netherlands,2025,1A1A,Oil,"leg(NLD(2020)), leg(NLD(2022))",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Netherlands,2025,1A1A1,Coal,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Netherlands,2025,1A1A1,Natural gas,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Netherlands,2025,1A1A1,Oil,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Netherlands,2025,1A1A2,Coal,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Netherlands,2025,1A1A2,Natural gas,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Netherlands,2025,1A1A2,Oil,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Netherlands,2025,1A1A3,Coal,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Netherlands,2025,1A1A3,Natural gas,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
-Netherlands,2025,1A1A3,Oil,"leg(NLD(2020)), leg(NLD(2022))", ,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A,Coal,"leg(NLD(2020)), leg(NLD(2022))",NA,NA,NA,NA,NA,NA
+Netherlands,2025,1A1A,Natural gas,"leg(NLD(2020)), leg(NLD(2022))",NA,NA,NA,NA,NA,NA
+Netherlands,2025,1A1A,Oil,"leg(NLD(2020)), leg(NLD(2022))",NA,NA,NA,NA,NA,NA
+Netherlands,2025,1A1A1,Coal,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A1,Natural gas,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A1,Oil,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A2,Coal,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A2,Natural gas,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A2,Oil,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A3,Coal,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A3,Natural gas,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
+Netherlands,2025,1A1A3,Oil,"leg(NLD(2020)), leg(NLD(2022))", ,NA,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Netherlands,2025,1A1B,Coal,db(WBCPD[2024]), ,; ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Netherlands,2025,1A1B,Natural gas,db(WBCPD[2024]), ,; ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA
 Netherlands,2025,1A1B,Oil,db(WBCPD[2024]), ,; ,NA,NA,db(ICAP-ETS[2024]); yearly average of (daily) prices provided by ICAP,NA

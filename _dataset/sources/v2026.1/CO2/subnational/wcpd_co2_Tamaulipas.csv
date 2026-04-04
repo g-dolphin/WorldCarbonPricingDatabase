@@ -10444,63 +10444,63 @@ Tamaulipas,2024,1A1,Oil,NA,NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A1A,Coal,NA,NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A1A,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
-Tamaulipas,2024,1A1A1,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1A1,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1A1,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1A2,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1A2,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1A2,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1A3,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1A3,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1A3,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1B,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1B,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1B,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1C,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1C,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A1C,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
+Tamaulipas,2024,1A1A1,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1A1,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1A1,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1A2,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1A2,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1A2,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1A3,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1A3,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1A3,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1B,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1B,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1B,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1C,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1C,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A1C,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Tamaulipas,2024,1A2A,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2A,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2A,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2B,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2B,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2B,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2C,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2C,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2C,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2D,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2D,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2D,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2E,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2E,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2E,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2F,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2F,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2F,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2G,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2G,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2G,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2H,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2H,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2H,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2I,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2I,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2I,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2J,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2J,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2J,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2K,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2K,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2K,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2L,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2L,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2L,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2M,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2M,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
-Tamaulipas,2024,1A2M,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,"Series([], Name: source, dtype: object); Series([], Name: comment, dtype: object)",NA,NA,NA,NA
+Tamaulipas,2024,1A2A,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2A,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2A,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2B,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2B,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2B,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2C,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2C,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2C,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2D,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2D,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2D,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2E,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2E,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2E,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2F,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2F,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2F,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2G,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2G,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2G,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2H,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2H,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2H,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2I,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2I,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2I,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2J,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2J,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2J,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2K,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2K,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2K,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2L,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2L,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2L,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2M,Coal,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2M,Natural gas,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
+Tamaulipas,2024,1A2M,Oil,"web(MEX-TM[2023], web(MEX-TM[2024a]), web(MEX-TM[2024b]), db(WCPDB[2024])",NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Tamaulipas,2024,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
