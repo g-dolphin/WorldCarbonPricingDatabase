@@ -33,6 +33,7 @@ def process_ets_prices(price_dir: str = DEFAULT_PRICE_PATH) -> Dict[str, pd.Data
 
     files = {
         "aut_ets": "aut_ets_prices.csv",
+        "aus_sm": "aus_sm_prices.csv",
         "can_obps": "can_obps_prices.csv",
         "kaz_ets": "kaz_ets_prices.csv",
         "idn_ets": "idn_ets_prices.csv",

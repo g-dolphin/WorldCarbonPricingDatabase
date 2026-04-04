@@ -133,14 +133,56 @@ def initialize_columns(df: pd.DataFrame, columns: list[str]) -> pd.DataFrame:
 
 
 def assign_price_and_currency(df, selection, scheme_df, scheme, year, columns, fuel=None, source_df=None):
+    # Classify scheme table type by available columns first; some ETS IDs do not include "ets" in the name (e.g. aus_sm).
+    is_ets_like = (
+        any(x in scheme for x in ["ets", "obps", "cat", "rggi"])
+        or "allowance_price" in scheme_df.columns
+        or "em_type" not in scheme_df.columns
+    )
     row_sel = (
         (scheme_df.scheme_id == scheme) & (scheme_df.year == year)
-        if any(x in scheme for x in ["ets", "obps", "cat", "rggi"])
+        if is_ets_like
         else (scheme_df.scheme_id == scheme) & (scheme_df.year == year) & (scheme_df.em_type == fuel)
     )
+    if is_ets_like:
+        # Some ETS price tables (e.g. aus_sm) are product and/or gas specific.
+        # Align on product and gas where those columns are available.
+        base_sel = (scheme_df.scheme_id == scheme) & (scheme_df.year == year)
+        if (
+            fuel is not None
+            and "product" in scheme_df.columns
+            and scheme_df.loc[base_sel, "product"].notna().any()
+        ):
+            fuel_norm = str(fuel).strip().lower()
+            row_sel = row_sel & (scheme_df["product"].astype(str).str.strip().str.lower() == fuel_norm)
+        if "ghg" in scheme_df.columns and scheme_df.loc[base_sel, "ghg"].notna().any():
+            row_sel = row_sel & (scheme_df["ghg"].astype(str).str.upper() == str(GAS).upper())
     try:
-        row = scheme_df.loc[row_sel].squeeze()
-        price_col = "price" if any(x in scheme for x in ["ets", "obps", "cat", "rggi"]) else "rate"
+        matched = scheme_df.loc[row_sel]
+        if matched.empty:
+            raise ValueError("No matching price rows")
+        if isinstance(matched, pd.Series):
+            row = matched
+        elif len(matched) == 1:
+            row = matched.iloc[0]
+        else:
+            # Some schemes may publish multiple rows for a year (e.g. by product).
+            # Collapse to a single yearly row for assignment in the compilation table.
+            row = matched.iloc[0].copy()
+            value_col = "allowance_price" if is_ets_like else "rate"
+            if value_col in matched.columns:
+                row[value_col] = pd.to_numeric(matched[value_col], errors="coerce").mean()
+            if "currency_code" in matched.columns:
+                currency_vals = matched["currency_code"].dropna().astype(str).str.strip()
+                if not currency_vals.empty:
+                    row["currency_code"] = currency_vals.iloc[0]
+            for meta_col in ("source", "comment"):
+                if meta_col in matched.columns:
+                    vals = matched[meta_col].dropna().astype(str).str.strip()
+                    vals = vals[vals != ""]
+                    if not vals.empty:
+                        row[meta_col] = vals.iloc[0]
+        price_col = "price" if is_ets_like else "rate"
         df.loc[selection, columns[price_col]] = row["rate"] if "rate" in row else row["allowance_price"]
         df.loc[selection, columns["curr_code"]] = row["currency_code"]
         if source_df is not None:
