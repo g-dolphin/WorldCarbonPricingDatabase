@@ -10164,18 +10164,18 @@ Guangdong Province,2023,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A2A,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A2A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2023,1A2A,Coal,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,1A2A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
 Guangdong Province,2023,1A2B,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2C,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A2D,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A2D,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2023,1A2D,Coal,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,1A2D,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
 Guangdong Province,2023,1A2E,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A2E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10212,9 +10212,9 @@ Guangdong Province,2023,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A3A1,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A3A2,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A3A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,1A3A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2023,1A3A2,Coal,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
 Guangdong Province,2023,1A3B,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10313,7 +10313,7 @@ Guangdong Province,2023,1C2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1C2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,1C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,2A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2023,2A1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
 Guangdong Province,2023,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10331,17 +10331,17 @@ Guangdong Province,2023,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,2B8A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,2B8B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,2B8C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,2B8D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,2B8E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2023,2B8A,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,2B8B,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,2B8C,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,2B8D,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
+Guangdong Province,2023,2B8E,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
 Guangdong Province,2023,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,2C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2023,2C1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
 Guangdong Province,2023,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10372,7 +10372,7 @@ Guangdong Province,2023,2G2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2023,2H1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2023,2H1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,75.83,CNY,NA,NA,NA
 Guangdong Province,2023,2H2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2023,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10462,18 +10462,18 @@ Guangdong Province,2024,1A1C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A2A,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A2A,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A2A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2024,1A2A,Coal,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,1A2A,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,1A2A,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
 Guangdong Province,2024,1A2B,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2C,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2C,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2C,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A2D,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A2D,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A2D,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2024,1A2D,Coal,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,1A2D,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,1A2D,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
 Guangdong Province,2024,1A2E,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2E,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A2E,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10510,9 +10510,9 @@ Guangdong Province,2024,1A3A,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A3A1,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A3A1,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A3A1,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A3A2,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A3A2,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,1A3A2,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2024,1A3A2,Coal,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,1A3A2,Natural gas,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,1A3A2,Oil,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
 Guangdong Province,2024,1A3B,Coal,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A3B,Natural gas,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1A3B,Oil,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10611,7 +10611,7 @@ Guangdong Province,2024,1C2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1C2B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,1C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,2A1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2024,2A1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
 Guangdong Province,2024,2A2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2A3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2A4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10629,17 +10629,17 @@ Guangdong Province,2024,2B5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2B6,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2B7,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2B8,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,2B8A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,2B8B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,2B8C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,2B8D,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,2B8E,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2024,2B8A,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,2B8B,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,2B8C,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,2B8D,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
+Guangdong Province,2024,2B8E,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
 Guangdong Province,2024,2B8F,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2B9,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2B9A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2B9B,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2C,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,2C1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2024,2C1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
 Guangdong Province,2024,2C2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2C3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2C4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10670,7 +10670,7 @@ Guangdong Province,2024,2G2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2G3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2G4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2H,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Guangdong Province,2024,2H1,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guangdong Province,2024,2H1,NA,0,1,NA,NA,NA,NA,NA,NA,NA,chn_gd_ets,51.32,CNY,NA,NA,NA
 Guangdong Province,2024,2H2,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,2H3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Guangdong Province,2024,3A,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
