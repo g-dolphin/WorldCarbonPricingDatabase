@@ -10444,63 +10444,63 @@ Durango,2024,1A1,Oil,NA,NA,NA,NA,NA,NA,NA
 Durango,2024,1A1A,Coal,NA,NA,NA,NA,NA,NA,NA
 Durango,2024,1A1A,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Durango,2024,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A1,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A2,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A3,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1A3,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1B,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1B,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1B,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1C,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1C,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A1C,Oil,NA,NA,NA,NA,NA,NA,NA
+Durango,2024,1A1A1,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1A1,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A1A1,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1A2,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1A2,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A1A2,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1A3,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1A3,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A1A3,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1B,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1B,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A1B,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1C,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A1C,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A1C,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
 Durango,2024,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Durango,2024,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Durango,2024,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2A,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2A,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2A,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2B,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2B,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2B,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2C,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2C,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2C,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2D,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2D,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2D,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2E,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2E,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2E,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2F,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2F,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2F,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2G,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2G,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2G,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2H,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2H,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2H,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2I,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2I,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2I,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2J,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2J,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2J,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2K,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2K,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2K,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2L,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2L,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2L,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2M,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2M,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2024,1A2M,Oil,NA,NA,NA,NA,NA,NA,NA
+Durango,2024,1A2A,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2A,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2A,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2B,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2B,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2B,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2C,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2C,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2C,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2D,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2D,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2D,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2E,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2E,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2E,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2F,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2F,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2F,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2G,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2G,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2G,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2H,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2H,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2H,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2I,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2I,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2I,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2J,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2J,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2J,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2K,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2K,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2K,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2L,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2L,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2L,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2M,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
+Durango,2024,1A2M,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2024,1A2M,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,leg(DUR-TC[2024]); ,NA,NA,NA,NA
 Durango,2024,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Durango,2024,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Durango,2024,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
@@ -10742,63 +10742,63 @@ Durango,2025,1A1,Oil,NA,NA,NA,NA,NA,NA,NA
 Durango,2025,1A1A,Coal,NA,NA,NA,NA,NA,NA,NA
 Durango,2025,1A1A,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Durango,2025,1A1A,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A1,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A1,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A1,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A2,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A3,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1A3,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1B,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1B,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1B,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1C,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1C,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A1C,Oil,NA,NA,NA,NA,NA,NA,NA
+Durango,2025,1A1A1,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1A1,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A1A1,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1A2,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1A2,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A1A2,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1A3,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1A3,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A1A3,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1B,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1B,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A1B,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1C,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A1C,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A1C,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
 Durango,2025,1A2,Coal,NA,NA,NA,NA,NA,NA,NA
 Durango,2025,1A2,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Durango,2025,1A2,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2A,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2A,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2A,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2B,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2B,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2B,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2C,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2C,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2C,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2D,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2D,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2D,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2E,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2E,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2E,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2F,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2F,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2F,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2G,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2G,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2G,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2H,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2H,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2H,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2I,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2I,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2I,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2J,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2J,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2J,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2K,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2K,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2K,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2L,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2L,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2L,Oil,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2M,Coal,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2M,Natural gas,NA,NA,NA,NA,NA,NA,NA
-Durango,2025,1A2M,Oil,NA,NA,NA,NA,NA,NA,NA
+Durango,2025,1A2A,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2A,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2A,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2B,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2B,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2B,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2C,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2C,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2C,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2D,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2D,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2D,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2E,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2E,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2E,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2F,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2F,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2F,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2G,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2G,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2G,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2H,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2H,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2H,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2I,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2I,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2I,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2J,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2J,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2J,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2K,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2K,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2K,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2L,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2L,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2L,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2M,Coal,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
+Durango,2025,1A2M,Natural gas,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,NA,NA,NA,NA,NA
+Durango,2025,1A2M,Oil,"rep(MEX-DUR[2023]), leg(MEX-DUR[2022])",NA,MEX-DG-leg-002; ,NA,NA,NA,NA
 Durango,2025,1A3,Coal,NA,NA,NA,NA,NA,NA,NA
 Durango,2025,1A3,Natural gas,NA,NA,NA,NA,NA,NA,NA
 Durango,2025,1A3,Oil,NA,NA,NA,NA,NA,NA,NA
