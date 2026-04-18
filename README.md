@@ -21,18 +21,19 @@ More details about the methodology supporting the construction of the dataset an
 
 - Jurisdictions: The dataset currently covers 198 national jurisdictions and 98 sub-national jurisdictions (50 US States, 13 Canadian Provinces and Territories, 3 Japanese Municipalities, 32 Chinese Provinces and Municipalities). It records their institutional development (sectoral and fuel coverage as well as price) from 1990 (year of introduction of the first carbon pricing mechanism in Finland) to this day (currently, 2018 is the last year for which data has been collected).
 
-- Sectors: The dataset covers all IPCC source categories. In addition, the file [IPCC2006-IEA-category-codes](https://github.com/g-dolphin/ECP/blob/master/_raw/_aux_files/ipcc2006_iea_category_codes.csv) provides a mapping between IPCC sector names, their associated code and the corresponding International Energy Agency sector code. This latter file is particularly useful to the update of the dataset, since its `.csv` files only include sector codes.
+- Sectors: The dataset covers all IPCC source categories. A mapping between IPCC sector names, their associated codes, and corresponding International Energy Agency sector codes is available in the related ECP project.
 
 - Greenhouse gases: the information currently in the dataset pertains exclusively to policy instruments targeting CO2 emissions. A future iteration will expand the dataset to other Kyoto gases that are subject to pricing mechanisms.
 
 ## Repository files
 
-The repository is organised around three main directories:
-1. `_dataset`, which contains the `.csv` files constituting the dataset. Wihtin that directory, the actual data files can be found under the `data` directory and files with references to the data source under the `sources` directory. The full details of cited references are available in separate files in the [references](https://github.com/g-dolphin/WorldCarbonPricingDatabase/tree/master/_dataset/sources/references) directory.
-2. `_raw`, which contains the files recording or coding the pricing mechanisms' design features.
-3. `_code`, which contains scripts for the compilation of the dataset as well as short Python scripts for basic manipulation of the dataset files.
+This repository is the public distribution and transparency repository for WCPD.
+It is organised around:
+1. `_dataset/data`, which contains the released dataset `.csv` files.
+2. `_dataset/sources`, which contains source citations and traceability tables for the released data points.
+3. `docs`, which contains public documentation.
 
-**Note** The files located at the ``_raw`` directory contain empty cells. These cells indicate that no relevant information has been recorded.
+The production workspace used to curate and update raw inputs (including internal update tooling and source-ingestion pipelines) is maintained in a separate private repository.
 
 ## Citation
 
@@ -42,7 +43,7 @@ If you use the dataset in scientific publication, please reference the following
 
 ## License
 
-This work is licensed under a [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 ## Contribution
 
@@ -61,16 +62,12 @@ Contributions to the dataset are greatly appreciated. Please bear in mind the fo
     
 ### Step-by-step guidance   
 
-! All files under the `_data` directory are the final dataset files and are not the ones to be updated !
-
-The files to be modified to update the dataset are found under the `_raw` and `_compilation` directories, respectively.
-For a concise, year-agnostic checklist of the update sequence and all `_raw` files involved, see [`docs/update_workflow.md`](docs/update_workflow.md).
-For instructions on using the Streamlit review app, see [`docs/review_app.md`](docs/review_app.md).
+All files under `_dataset/data` are released outputs.
+Raw curation and production update workflows are managed in the private WCPD repository.
+This public repository receives versioned released outputs and associated citation tables.
 
 If you wish to contribute to the development of the dataset, please follow these steps:
 1. Clone the repository to your local machine
-2. Create a new (local) branch on which you will execute the files update(s)
+2. Create a new (local) branch on which you will make your proposed changes
 3. Save your files and commit your changes.
 4. Push your branch to the remote repository.
-  
-To update the scope of one of the carbon pricing mechanisms, update either `ets_coverage.py` or `taxes_coverage.py` in the directory `_raw/coverage`. To update the price associated with a mechanism, update the corresponding `csv` file in the directory `_raw/price`.

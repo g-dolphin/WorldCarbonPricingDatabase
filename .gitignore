@@ -1,22 +1,14 @@
-.DS_store
-_raw/sources/html/
-_raw/_sources/pdf/
-_raw/_sources/text/
-_raw/_sources/meta/
-_raw/_sources/sources/
-_raw/_sources/*.csv
-_raw/_sources/
-_raw/_preproc
-_code/_preprocessing
-_code/_sources_extraction
-_raw/price/*_temp.csv
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
 
-_raw/scope/ets/ets_scope_*_*.py
-_raw/scope/tax/taxes_scope_*_*.py
-
-_dataset/qa/CO2
-_raw/overlap/
-
+# Private production workspace (kept in private repo)
+_code/
+_raw/
 _update_managemnent/
 
-wcpd_architecture.mmd
+# Generated or local-only artifacts
+docs/_build/
+_dataset/qa/
+wcpd_utils.egg-info/
