@@ -10,5 +10,5 @@ _update_managemnent/
 
 # Generated or local-only artifacts
 docs/_build/
-_dataset/qa/
+_dataset/
 wcpd_utils.egg-info/
