@@ -8,6 +8,8 @@ In a separate project, it is used in combination with greenhouse gas emissions d
 
 If this dataset has been useful to you or simply think it's cool, feel free to give it a ⭐!
 
+**Notice:** As of May 30, 2026, all World Carbon Pricing Database data are available at [worldcarbonpricing.org/developers](worldcarbonpricing.org/developers). This repository no longer serves as a data distribution channel and will not be updated with new data releases.
+
 ## Dataset 
 ### Description
 
